@@ -185,54 +185,54 @@ function categoriesForArticle(title = "", abstract = "") {
     patterns.some(pattern => pattern.test(text));
 
   const cardiology = [
-    /cardiac/, /cardiovascular/, /cardiomyopath/, /heart/,
-    /mitral/, /tricuspid/, /aortic/, /pulmonar(?:y)? hypertension/,
-    /congestive heart failure/, /chf/, /arrhythmi/, /atrial fibrillation/,
-    /ventricular/, /pericard/, /myocard/, /endocard/,
-    /echocardiograph/, /electrocardiograph/, /ecg/, /nt-probnp/,
-    /troponin/, /pimobendan/, /sildenafil/
+    /\bcardiac\b/, /\bcardiovascular\b/, /\bcardiomyopath/, /\bheart\b/,
+    /\bmitral\b/, /\btricuspid\b/, /\baortic\b/, /\bpulmonar(?:y)? hypertension\b/,
+    /\bcongestive heart failure\b/, /\bchf\b/, /\barrhythmi/, /\batrial fibrillation\b/,
+    /\bventricular\b/, /\bpericard/, /\bmyocard/, /\bendocard/,
+    /\bechocardiograph/, /\belectrocardiograph/, /\becg\b/, /\bnt-probnp\b/,
+    /\btroponin\b/, /\bpimobendan\b/, /\bsildenafil\b/
   ];
 
   const oncology = [
-    /neoplas/, /tumou?r/, /cancer/, /carcinoma/, /sarcoma/,
-    /lymphoma/, /leukemia/, /mast cell/, /melanoma/,
-    /chemotherap/, /radiotherap/, /metast/, /oncolog/,
-    /toceranib/, /vinblastine/, /doxorubicin/, /cyclophosphamide/
+    /\bneoplas/, /\btumou?r\b/, /\bcancer\b/, /\bcarcinoma\b/, /\bsarcoma\b/,
+    /\blymphoma\b/, /\bleukemia\b/, /\bmast cell\b/, /\bmelanoma\b/,
+    /\bchemotherap/, /\bradiotherap/, /\bmetast/, /\boncolog/,
+    /\btoceranib\b/, /\bvinblastine\b/, /\bdoxorubicin\b/, /\bcyclophosphamide\b/
   ];
 
   const surgery = [
-    /surger/, /surgical/, /operative/, /postoperative/,
-    /preoperative/, /laparoscop/, /thoracoscop/, /arthroscop/,
-    /osteotom/, /fracture/, /orthop/, /ligament/, /implant/,
-    /fixation/, /anastomos/, /resection/, /amputation/,
-    /spay/, /ovariohysterectom/, /castration/, /transplant/
+    /\bsurger/, /\bsurgical\b/, /\boperative\b/, /\bpostoperative\b/,
+    /\bpreoperative\b/, /\blaparoscop/, /\bthoracoscop/, /\barthroscop/,
+    /\bosteotom/, /\bfracture\b/, /\borthop/, /\bligament\b/, /\bimplant\b/,
+    /\bfixation\b/, /\banastomos/, /\bresection\b/, /\bamputation\b/,
+    /\bspay\b/, /\bovariohysterectom/, /\bcastration\b/, /\btransplant\b/
   ];
 
   const neurology = [
-    /neurolog/, /brain/, /spinal/, /seizure/, /epilep/,
-    /meningo/, /encephal/, /myelopath/, /neuropath/, /paresis/,
-    /paralysis/, /ataxia/, /vestibular/, /intervertebral disc/,
-    /ivdd/, /cerebell/, /cognitive dysfunction/, /syncope/
+    /\bneurolog/, /\bbrain\b/, /\bspinal\b/, /\bseizure\b/, /\bepilep/,
+    /\bmeningo/, /\bencephal/, /\bmyelopath/, /\bneuropath/, /\bparesis\b/,
+    /\bparalysis\b/, /\bataxia\b/, /\bvestibular\b/, /\bintervertebral disc\b/,
+    /\bivdd\b/, /\bcerebell/, /\bcognitive dysfunction\b/, /\bsyncope\b/
   ];
 
   const dermatology = [
-    /dermat/, /skin/, /cutaneous/, /alopecia/, /pruritus/,
-    /otitis/, /atopic/, /pyoderma/, /demod/, /malassezia/,
-    /dermatophyt/, /pododerm/, /urticaria/, /pemphigus/,
-    /seborrhea/, /wound/, /coat/
+    /\bdermat/, /\bskin\b/, /\bcutaneous\b/, /\balopecia\b/, /\bpruritus\b/,
+    /\botitis\b/, /\batopic\b/, /\bpyoderma\b/, /\bdemod/, /\bmalassezia\b/,
+    /\bdermatophyt/, /\bpododerm/, /\burticaria\b/, /\bpemphigus\b/,
+    /\bseborrhea\b/, /\bwound\b/, /\bcoat\b/
   ];
 
   const internalMedicine = [
-    /gastro/, /enteropath/, /intestinal/, /diarrhea/, /vomit/,
-    /pancrea/, /hepat/, /liver/, /biliary/, /gallbladder/,
-    /renal/, /kidney/, /nephro/, /urinary/, /urolith/,
-    /diabetes/, /endocrin/, /adrenal/, /thyroid/,
-    /anemia/, /thrombocyt/, /coagulat/, /hematolog/,
-    /infect/, /sepsis/, /viral/, /bacterial/, /fungal/,
-    /immune-mediated/, /autoimmune/, /respiratory/, /pneumon/,
-    /bronch/, /asthma/, /pleural/, /critical care/,
-    /toxic/, /poison/, /electrolyte/, /protein-losing/,
-    /feline infectious peritonitis/, /fip/, /parvovirus/
+    /\bgastro/, /\benteropath/, /\bintestinal\b/, /\bdiarrhea\b/, /\bvomit/,
+    /\bpancrea/, /\bhepat/, /\bliver\b/, /\bbiliary\b/, /\bgallbladder\b/,
+    /\brenal\b/, /\bkidney\b/, /\bnephro/, /\burinary\b/, /\burolith/,
+    /\bdiabetes\b/, /\bendocrin/, /\badrenal\b/, /\bthyroid\b/,
+    /\banemia\b/, /\bthrombocyt/, /\bcoagulat/, /\bhematolog/,
+    /\binfect/, /\bsepsis\b/, /\bviral\b/, /\bbacterial\b/, /\bfungal\b/,
+    /\bimmune-mediated\b/, /\bautoimmune\b/, /\brespiratory\b/, /\bpneumon/,
+    /\bbronch/, /\basthma\b/, /\bpleural\b/, /\bcritical care\b/,
+    /\btoxic/, /\bpoison/, /\belectrolyte\b/, /\bprotein-losing\b/,
+    /\bfeline infectious peritonitis\b/, /\bfip\b/, /\bparvovirus\b/
   ];
 
   if (matches(cardiology)) categories.push("cardiology");
