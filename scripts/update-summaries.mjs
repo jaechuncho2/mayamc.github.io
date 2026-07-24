@@ -7,6 +7,7 @@ const OUTPUT_PATH = path.join(ROOT, "data", "korean-summaries.json");
 const MODEL = process.env.OPENAI_MODEL || "gpt-5-mini";
 const DAYS_BACK = Number(process.env.DAYS_BACK || 21);
 const MAX_NEW_SUMMARIES = Number(process.env.MAX_NEW_SUMMARIES || 30);
+const RESULTS_PER_JOURNAL = Number(process.env.RESULTS_PER_JOURNAL || 20);
 
 const CATEGORY_JOURNALS = [
   "Journal of Veterinary Cardiology",
@@ -34,13 +35,32 @@ const CATEGORY_JOURNALS = [
 
 const client = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
 
-function query() {
-  const journals = CATEGORY_JOURNALS.map(j => `"${j}"[Journal]`).join(" OR ");
+function queryForJournal(journal) {
   const species = [
     "dog[Title/Abstract]", "dogs[Title/Abstract]", "canine[Title/Abstract]",
     "cat[Title/Abstract]", "cats[Title/Abstract]", "feline[Title/Abstract]"
   ].join(" OR ");
-  return `((${journals}) AND (${species}))`;
+  return `("${journal}"[Journal] AND (${species}))`;
+}
+
+async function fetchIdsByJournal(base) {
+  const allIds = [];
+  for (const journal of CATEGORY_JOURNALS) {
+    const term = encodeURIComponent(queryForJournal(journal));
+    const searchUrl =
+      `${base}/esearch.fcgi?db=pubmed&retmode=json&sort=pub+date` +
+      `&retmax=${RESULTS_PER_JOURNAL}&reldate=${DAYS_BACK}&datetype=pdat&term=${term}`;
+    try {
+      const search = await fetchJson(searchUrl);
+      const ids = search?.esearchresult?.idlist || [];
+      allIds.push(...ids);
+      console.log(`${journal}: ${ids.length}편 검색`);
+    } catch (error) {
+      console.error(`${journal} 검색 실패:`, error.message);
+    }
+    await new Promise(resolve => setTimeout(resolve, 120));
+  }
+  return [...new Set(allIds)];
 }
 
 async function fetchJson(url) {
@@ -137,12 +157,7 @@ async function main() {
   }
 
   const base = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils";
-  const term = encodeURIComponent(query());
-  const searchUrl =
-    `${base}/esearch.fcgi?db=pubmed&retmode=json&sort=pub+date&retmax=150` +
-    `&reldate=${DAYS_BACK}&datetype=pdat&term=${term}`;
-  const search = await fetchJson(searchUrl);
-  const ids = search?.esearchresult?.idlist || [];
+  const ids = await fetchIdsByJournal(base);
 
   if (!ids.length) {
     console.log("최근 대상 논문이 없습니다.");
