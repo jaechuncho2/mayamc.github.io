@@ -1,0 +1,50 @@
+name: Update Korean paper summaries
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 매일 한국시간 오전 6시 20분 (UTC 전날 21:20)
+    - cron: "20 21 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-korean-summaries
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Generate new Korean summaries
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
+          DAYS_BACK: "21"
+          MAX_NEW_SUMMARIES: "30"
+        run: npm run update-summaries
+
+      - name: Commit updated summary data
+        run: |
+          if git diff --quiet -- data/korean-summaries.json; then
+            echo "No new summaries."
+            exit 0
+          fi
+          git config user.name "MayAMC Research Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/korean-summaries.json
+          git commit -m "Update Korean paper summaries"
+          git push
