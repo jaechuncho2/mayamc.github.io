@@ -748,15 +748,49 @@
       });
 
       const sort = els.sortSelect.value;
-      papers.sort((a, b) => {
-        if (sort === "oldest") return a.dateObject - b.dateObject;
-        if (sort === "journal") {
-          return a.journal.localeCompare(b.journal) || b.dateObject - a.dateObject;
-        }
-        return b.dateObject - a.dateObject;
-      });
 
-      return papers;
+      if (sort === "oldest") {
+        papers.sort((a, b) => a.dateObject - b.dateObject);
+        return papers;
+      }
+
+      if (sort === "journal") {
+        papers.sort((a, b) =>
+          a.journal.localeCompare(b.journal) || b.dateObject - a.dateObject
+        );
+        return papers;
+      }
+
+      // 최신순에서도 한 저널이 첫 화면을 독점하지 않도록 저널별로 교차 배치합니다.
+      const groups = new Map();
+      papers
+        .sort((a, b) => b.dateObject - a.dateObject)
+        .forEach(paper => {
+          if (!groups.has(paper.journal)) groups.set(paper.journal, []);
+          groups.get(paper.journal).push(paper);
+        });
+
+      const journalOrder = [...groups.entries()]
+        .sort((a, b) => b[1][0].dateObject - a[1][0].dateObject)
+        .map(([journal]) => journal);
+
+      const balanced = [];
+      let added = true;
+      let index = 0;
+
+      while (added) {
+        added = false;
+        for (const journal of journalOrder) {
+          const paper = groups.get(journal)[index];
+          if (paper) {
+            balanced.push(paper);
+            added = true;
+          }
+        }
+        index += 1;
+      }
+
+      return balanced;
     }
 
     function render() {
