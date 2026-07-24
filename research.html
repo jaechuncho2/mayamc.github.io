@@ -414,7 +414,7 @@
     </div>
 
     <section id="paperList" class="paper-list" aria-live="polite">
-      <div class="loading"><div class="spinner"></div>PubMed에서 최신 논문을 불러오는 중입니다.</div>
+      <div class="loading"><div class="spinner"></div>PubMed에서 저널별 최신 논문을 불러오는 중입니다.</div>
     </section>
 
     <button id="loadMoreButton" class="action-btn load-more" type="button">논문 더 보기</button>
@@ -514,7 +514,7 @@
 
     const ALL_JOURNALS = [...new Set(Object.values(CATEGORY_JOURNALS).flat())].sort();
     const PAGE_SIZE = 20;
-    const MAX_RESULTS = 1000;
+    const RESULTS_PER_JOURNAL = 20;
     const CACHE_KEY = "mayamc_pubmed_cache_v1";
     const CACHE_TTL = 6 * 60 * 60 * 1000;
     const STAR_KEY = "mayamc_starred_pmids_v1";
@@ -629,15 +629,33 @@
       }).format(date);
     }
 
-    function buildPubMedQuery() {
-      const journalTerms = ALL_JOURNALS
-        .map(journal => `"${journal}"[Journal]`)
-        .join(" OR ");
+    function buildJournalQuery(journal) {
       const speciesTerms = [
         "dog[Title/Abstract]", "dogs[Title/Abstract]", "canine[Title/Abstract]",
         "cat[Title/Abstract]", "cats[Title/Abstract]", "feline[Title/Abstract]"
       ].join(" OR ");
-      return `((${journalTerms}) AND (${speciesTerms}))`;
+      return `("${journal}"[Journal] AND (${speciesTerms}))`;
+    }
+
+    async function fetchIdsByJournal(base) {
+      // NCBI 요청을 한꺼번에 과도하게 보내지 않도록 저널별로 순차 조회합니다.
+      const ids = [];
+      for (const journal of ALL_JOURNALS) {
+        const query = encodeURIComponent(buildJournalQuery(journal));
+        const url =
+          `${base}/esearch.fcgi?db=pubmed&retmode=json&sort=pub+date` +
+          `&retmax=${RESULTS_PER_JOURNAL}&term=${query}`;
+        try {
+          const data = await fetchJson(url);
+          const journalIds = data?.esearchresult?.idlist || [];
+          ids.push(...journalIds);
+        } catch (error) {
+          console.warn(`Journal search failed: ${journal}`, error);
+        }
+        // NCBI E-utilities의 비인증 요청 속도를 과도하게 높이지 않기 위한 짧은 간격
+        await new Promise(resolve => setTimeout(resolve, 120));
+      }
+      return [...new Set(ids)];
     }
 
     async function fetchJson(url) {
@@ -667,7 +685,7 @@
     async function fetchPapers(force = false) {
       els.statusMessage.className = "";
       els.statusMessage.textContent = "";
-      els.paperList.innerHTML = '<div class="loading"><div class="spinner"></div>PubMed에서 최신 논문을 불러오는 중입니다.</div>';
+      els.paperList.innerHTML = '<div class="loading"><div class="spinner"></div>PubMed에서 저널별 최신 논문을 불러오는 중입니다.</div>';
       els.resultCount.textContent = "논문을 불러오는 중입니다.";
       els.refreshButton.disabled = true;
 
@@ -681,10 +699,7 @@
         }
 
         const base = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils";
-        const query = encodeURIComponent(buildPubMedQuery());
-        const searchUrl = `${base}/esearch.fcgi?db=pubmed&retmode=json&sort=pub+date&retmax=${MAX_RESULTS}&term=${query}`;
-        const searchData = await fetchJson(searchUrl);
-        const ids = searchData?.esearchresult?.idlist || [];
+        const ids = await fetchIdsByJournal(base);
 
         if (!ids.length) {
           allPapers = [];
