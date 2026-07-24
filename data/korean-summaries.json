@@ -1,4 +1,149 @@
 {
-  "updated_at": null,
-  "summaries": {}
+  "updated_at": "2026-07-24T13:59:37.706Z",
+  "summaries": {
+    "41759291": {
+      "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
+      "detailed_summary": "연구 목적은 개 소변의 현장(in-house) 배양 및 배양 후 처리 절차를 제시·시연하는 것이었다. 검사 대상은 요로 관련 증상으로 내원한 개의 소변 샘플이며, 소변 채취는 방광천자(cystocentesis) 또는 멸균 요도 도관을 권장했다. 실험실 환경은 생물안전수준 2(BSL-2)를 충족해야 하고, 멸균 1-µL 접종 루프로 tryptic soy agar에 5% sheep's blood를 포함한 혈액한천과 MacConkey 한쪽씩 도말한 뒤 벤치탑 배양기에서 35–37°C로 16–24시간 배양하여 성장 여부를 판정했다. 양성 판정된 배지는 종 동정과 감수성 검사를 위해 참조 실험실로 제출할 수 있고, 또는 성장 확인 후 냉장 보관(최대 48시간)된 원래 소변 샘플을 배양 및 감수성 검사(C&S) 의뢰에 사용할 수 있다고 기술했다. 주요 결과 방향성은 대다수(70–80%)의 검체가 무성장으로 확인되어 음성 스크리닝으로서 유효하다는 점이며, 이로 인해 음성 샘플의 외부 의뢰를 피함으로써 비용 절감과 항생제 사용의 합리화가 가능하다고 결론지었다. 중요한 제한점으로 본 초록은 기술 시연을 중심으로 작성되어 표본 수나 비교 통계 등 자세한 연구 설계나 정량적 분석은 제시되지 않았다.",
+      "title": "Plating canine urine cultures in the veterinary clinic.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-07-24T13:59:37.705Z",
+      "model": "gpt-5-mini"
+    },
+    "41861462": {
+      "brief_summary": "본 연구는 초보 붕대 시술자 15명이 개 사체의 후지(복사관절)에 미리 제작된 플라스틱(premade) 부목과 열가소성(thermoplastic) 부목을 각각 적용했을 때의 유용성을 비교했다. 평균 장착 시간은 premade 9.4 ± 2.1분, thermoplastic 12.0 ± 2.3분으로 premade가 더 빨랐지만 참여자 선호는 거의 동일했다(7명 vs 8명). 평가자 판정에서 두 부목 유형은 비슷한 실무적 유용성을 보였으나 임상적으로 허용 가능한 부목 비율은 낮아(premade 4/15, thermoplastic 3/15) 부목 장착 기술 향상이 필요함을 시사한다.",
+      "detailed_summary": "연구는 15명의 초보 붕대 시술자가 각자 개 사체의 좌우 후지에 premade 부목과 thermoplastic 부목을 각각 적용하는 방식의 실험적 비교 연구(사체 모델)였다. 각 참가자는 부목 장착 시간을 자기 기록했고, 시술 후 설문에 응답했으며 단일 외과의가 정성적 점수로 부목을 평가해 임상적 허용 여부를 판정했다. 평균 장착 시간은 premade 9.4 ± 2.1분, thermoplastic 12.0 ± 2.3분이었다. 참가자 선호도는 premade 7명(47%) 대 thermoplastic 8명(53%)으로 유사했고, 전문가 평가에서 premade가 우수한 것으로 판정된 경우는 10/15(67%), thermoplastic는 4/15(27%), 동등 1/15(10%)였다. 임상적으로 허용 가능한 부목은 premade 4/15(26%), thermoplastic 3/15(20%)로 전체적으로 낮았다. 결론적으로 초보자에게 두 부목 유형의 실무적 유용성은 대체로 비슷했지만, 임상적으로 허용되는 부목을 만들기 위한 부목 장착 기술의 개선이 필요함을 보여준다.",
+      "title": "Comparable application metrics but poor clinical acceptability of thermoplastic and premade splints applied by novice bandagers in a canine hock cadaver model.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-07-24T13:59:15.551Z",
+      "model": "gpt-5-mini"
+    },
+    "41861469": {
+      "brief_summary": "본 연구는 일반 진료에서 얻은 개 복부 방사선영상에 대해 확진 진단을 가진 53증례를 6개 상용 수의 방사선 인공지능(AI) 플랫폼에 제출하여 진단 성능을 평가한 파일럿 연구이다. 플랫폼별 성능은 전반적으로 가변적이고 보통에서 낮은 수준으로, 병리 유무 판별 정확도는 플랫폼별로 평균 70%~90%였으나 민감도 부족으로 중요한 소장 폐색(small intestinal obstruction)은 23%~69%의 민감도로 자주 놓쳤다. 전반 결론은 소규모 표본에서 성능이 낮거나 보통 수준이며, 현 상태로는 임상 적용에 적합하지 않다는 것이다. 더 큰 규모의 독립적 외부 검증과 성능 향상이 필요하다.",
+      "detailed_summary": "파일럿 연구로 2024년 9~12월 사이에 수술·부검·CT·초음파·세포검사 또는 치료 반응으로 확진된 개 복부 방사선영상 53증례를 수집해 6개 상용 수의 방사선 AI 플랫폼에 제출했다. 일부 플랫폼의 거부로 인해 총 307개의 평가 결과가 분석에 포함되었다. 병리 유무(병리 51, 비병리 2)를 구분하는 평가에서 플랫폼별 평균 정확도는 70%~90%, 균형 정확도(balanced accuracy)는 60%~65%, Matthews 상관계수(MCC)는 -0.08~0.43로 보고되었다. 개별 방사선 소견(레이블) 분류에서는 민감도 28%~78%, F1 점수 28%~51%, 양성 예측도(PPV) 25%~54%로 낮은 민감도와 자주 발생한 미진단으로 인해 성능이 제한되었다. 레이블 기반 MCC는 0.16~0.45로 다소 높게 나타났으나 이는 레이블 오분류의 영향을 덜 받는 지표이다. 임상적으로 중요한 소장 폐색의 민감도는 플랫폼별로 23%~69%로 낮았고, 전반적으로 6개 플랫폼 간 성능 편차가 컸다. 결론은 표본이 작은 이 파일럿에서는 성능이 대체로 낮거나 보통 수준이며 최고 성능 알고리즘도 뚜렷한 한계가 있어 현재 형태로는 임상 사용에 적합하지 않으며, 더 큰 규모의 독립적 외부 검증과 성능 향상이 필요하다는 것이다.",
+      "title": "Pilot study: external validation of commercial veterinary radiology artificial intelligence services shows deficiencies in interpretation of general practice-sourced canine abdominal radiographs.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-07-24T13:58:43.666Z",
+      "model": "gpt-5-mini"
+    },
+    "41880750": {
+      "brief_summary": "클라이언트 소유 개 6마리에 대해 10% 플루오레세인 나트륨(무균식염수로 1:120 희석)을 종양 주위 피내(ID) 주사해 수술 중 sentinel lymph node(SLN) 매핑의 실현 가능성과 안전성을 평가했다. 림프관 경로는 5/6마리(83%)에서, SLN은 6/6마리(100%)에서 시각화되었고 평균 형광 도달 시간은 림프관 6.7±6.7분, SLN 8.0±6.0분이었다. 부작용은 보고되지 않았고 병리에서는 4개의 SLN에서 비만세포종 전이가 확인되었다(HN2 2개, HN3 2개). 저비용·접근성 높은 방법으로 수술 중 실시간 SLN 매핑이 가능함을 보였으며 추가 연구가 권고된다.",
+      "detailed_summary": "본 예비 연구에서는 피부 또는 피하 종양을 가진 내원 개 6마리에 10% 플루오레세인 나트륨을 1:120으로 희석해 종양 주위 피내(ID) 주사하고, 450–495 nm(청색) 및 345–400 nm(흑색) 광원을 사용해 림프경로와 SLN의 형광 시각화를 평가했다. 주요 평가 항목은 형광 도달 시간, 정성적 흡수 정도, 이상반응 발생 여부였고 절제된 SLN은 병리검사를 시행했다. 림프관은 5/6마리(83%; 95% CI 36–100%)에서, SLN은 6/6마리(100%; 95% CI 54–100%)에서 확인되었으며 형광 흡수는 4개 SLN(67%)에서 완전, 2개(33%)에서 부분적이었다. 평균 림프관 형광 도달 시간은 6.7±6.7분, SLN 형광 도달 시간은 8.0±6.0분이었고 연구 중 이상반응은 관찰되지 않았다. 병리 결과는 4개의 SLN(67%)에서 비만세포종 전이를 보였고(HN2 2개, HN3 2개), 나머지 2개 SLN(33%)에서는 반응성 변화였다; 2개의 2차 림프절 중 1개는 HN2 전이, 1개는 반응성 변화였다. 연구자는 10% 플루오레세인 나트륨이 수술 중 실시간 림프경로 및 SLN 시각화에 있어 안전하고 실용적이며 비용·접근성 측면에서 유리하다고 결론지었으나 표본수가 작고 예비적 연구라는 점에서 추가 연구가 필요하다고 명시했다.",
+      "title": "Expanding access to cancer care: 10% fluorescein sodium is a practical, low-cost method for intraoperative sentinel lymph node mapping in dogs.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-07-24T13:58:11.873Z",
+      "model": "gpt-5-mini"
+    },
+    "41926984": {
+      "brief_summary": "본 회고적 단일기관 연구는 2009–2024년 수술을 받은 자발성 복강출혈(spontaneous hemoperitoneum, SH) 개 99마례를 대상으로 수술 시점과 결과의 차이를 평가했다. 수술 시점은 응급(ES, <12시간) 51례, 준응급(SES, 12–24시간) 24례, 지연(DS, >24시간) 24례로 분류되었고, 말초 총 고형물(peripheral total solids) 수치가 낮을수록 ES 또는 SES로 분류될 가능성이 컸다(ES vs DS OR 0.401; 95% CI 0.219–0.733, SES vs DS OR 0.33; 95% CI 0.166–0.657). 혈액제제 사용, 이상사건 발생률 및 퇴원 생존율(93.9%)에는 수술 시점별 유의한 차이가 없어, 연구진은 환자 안정성을 기준으로 개별적으로 수술 시점을 결정할 것을 제안했다.",
+      "detailed_summary": "회고적 단일기관 연구로, 2009–2024년 수술을 받은 SH(자발성 복강출혈) 개 99례(수술 중 안락사 증례 제외)를 포함했다. 연구자는 임상·검사 소견, 내원부터 수술까지의 시간, 입원 기간, 이상사건 및 퇴원 생존을 기록했고, 수술 시점을 ES(<12시간), SES(12–24시간), DS(>24시간)로 나누어 비교했다. 각 그룹별 증례 수는 ES 51례, SES 24례, DS 24례였다. 말초 총 고형물 수치가 낮을수록 ES 또는 SES로 분류될 확률이 높았으며(ES vs DS OR 0.401; 95% CI 0.219–0.733, SES vs DS OR 0.33; 95% CI 0.166–0.657), ES군에서는 DS군보다 비장절제술을 시행할 가능성이 더 높았다(비장절제술 OR 5.52; 95% CI 1.60–19.1). 그룹 간 혈액제제 사용량과 이상사건 발생률에는 유의한 차이가 없었고, 전체 퇴원 생존율은 93.9%로 그룹별 차이가 관찰되지 않았다. 결론적으로 수술 시점은 이상사건 발생이나 퇴원 시 생존율의 예측인자가 아니었으며, 대부분의 이상사건은 경미했고 수술 시점 결정은 환자 안정성에 따라 개별적으로 판단해야 한다.",
+      "title": "Surgical timing in dogs with spontaneous hemoperitoneum is not related to blood product use, incidence of adverse events, or survival to discharge.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-07-24T13:57:43.052Z",
+      "model": "gpt-5-mini"
+    },
+    "41927004": {
+      "brief_summary": "후향적 코호트 연구에서 왼쪽-우심방(좌→우) 션트가 있는 동맥관 개존증(PDA)을 외과 결찰할 때 합성 단일사(monofilament) 봉합사를 사용한 결과를 평가하였다. 비흡수성 폴리프로필렌( NON)과 천천히 흡수되는 폴리디오산온( ABS)을 비교했으며 총 43마리( NON 23, ABS 20)를 최소 5개월 이상 추적하였다. 양 군 모두에서 완전 결찰은 41/43마리에서 달성됐고, 각 군에서 1마리씩에서만 일시적 잔류 혈류가 관찰되었으며 추적 시 경미하거나 소실되어 장기 재개통(재관통)은 없었다. 임상적으로 폴리프로필렌과 폴리디오산온 모두 안전하게 PDA 폐쇄에 사용할 수 있음이 시사된다.",
+      "detailed_summary": "연구는 2012년 2월부터 2022년 3월까지 Ghent University Small Animal Teaching Hospital에서 PDA의 외과적 결찰을 받은 개들의 의무기록을 후향적 코호트로 분석한 연구이다. 대상은 좌→우 션트 PDA 개 43마리로 비흡수성 폴리프로필렌( NON, 23마리)과 천천히 흡수되는 폴리디오산온( ABS, 20마리) 군으로 분류되었다. 수집된 자료는 환자 기초자료, 심초음파 평가, 수술 중 변수, 수술 후 심초음파 검사 및 장기 임상 검사 등이었다. 두 군 간에 연령, 체중, 도관 크기, 수술 시간, 수술 중 출혈 발생 또는 잔류 도관 혈류 발생에서 유의한 차이는 없었다. 전체 결찰은 43마리 중 41마리에서 이루어졌고, 수술 직후 잔류 혈류는 각 군에서 1마리씩 관찰되었으나 최초 경미한 수준에서 최종 추적 시에는 미미하거나 소실되었다. 최소 추적기간이 5개월 이상이었고 장기적으로 어느 군에서도 재개통(재관통)은 보고되지 않았다. 결론적으로 합성 단일사 봉합사로 PDA 결찰이 성공적으로 수행되었으며 폴리프로필렌과 폴리디오산온 모두 임상적으로 안전하게 사용될 수 있음을 제시한다.",
+      "title": "Successful long-term patent ductus arteriosus closure in dogs can be achieved with the use of nonabsorbable or absorbable monofilament synthetic sutures.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-07-24T13:56:51.600Z",
+      "model": "gpt-5-mini"
+    },
+    "41932354": {
+      "brief_summary": "본 후향적 연구는 2018–2021년 사이 PPV(pars plana 유리체절제술, PPV) 또는 PEA(초음파 유화흡인술, PEA)를 받은 개들의 의무기록을 검토해 수술후 안압상승(POH)의 발생을 비교했다. 전체 377안(300마리) 중 PPV군(91안)의 POH 발생률은 9.9%였고 PEA군(286안)은 25.5%로 PPV군이 유의하게 낮았다. PPV 단독군은 2.3%였고 PEA와 동시 시행한 군은 16.7%의 POH를 보였다. 결론적으로 PPV에서도 POH가 발생할 수 있으므로 수술 후 안압 모니터링이 중요하다.",
+      "detailed_summary": "후향적 의무기록 검토로 2018년 1월부터 2021년 12월까지 PPV 또는 PEA를 시행한 개들을 대상으로 했다. 분석 대상은 총 377안(300마리)으로 PPV-단독군 43안(40마리), PEA+PPV군 48안(45마리), PEA군 286안(215마리)로 구분했다. 안압은 수술 전과 수술 후 1, 3, 5, 24, 48시간에 리바운드 토노메트리(rebound tonometry)로 측정했고 POH 발생률을 평가했다. PPV군 전체(91안)의 POH 발생률은 9.9% (9/91)였고, PEA군은 25.5% (73/286)로 PPV군이 유의하게 낮았다. PPV군 내에서는 PPV-단독군이 2.3% (1/43), PEA+PPV군이 16.7% (8/48)의 발생률을 보였다. 연구는 후향적 설계임을 명시하며, 결과는 PPV에서도 POH가 발생할 수 있음을 보여주므로 수술 후 안압 추적 관찰이 필요하다는 결론을 제시한다.",
+      "title": "Comparison of the incidence of postoperative ocular hypertension after pars plana vitrectomy and phacoemulsification and aspiration in dogs.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-07-24T13:56:30.177Z",
+      "model": "gpt-5-mini"
+    },
+    "41932356": {
+      "brief_summary": "단일 전원 병원에서 2019–2024년 간 내원한 66마리의 단두종 개를 대상으로, 바늘끝 단극 전기소작기(needle-tip monopolar electrocautery)를 이용한 folded-flap palatoplasty의 단·장기 결과와 마취·수술시간, 수술상처 관련 합병증을 후향적으로 평가했다. 6주 추적에서 단두종 폐쇄성 기도증후군(BOAS) 기능 등급이 유의하게 개선되었고, 마취시간 평균은 84 ± 17.59분이었다. 수술 중 합병증률은 9%, 전체 사후 합병증률은 25.7%(경증 19.7%), 사망률은 6%였으며 임상적으로 의미 있는 수술 상처 파열은 관찰되지 않았다. 저자들은 바늘끝 단극 전기소작기가 사후 합병증률을 증가시키거나 결과를 악화시키지 않았다고 보고했다.",
+      "detailed_summary": "후향적 관찰 코호트 연구로, 2019–2024년 단일 전원 병원에 내원한 소유견 66마리가 포함되었다. 모든 개는 표준화된 다중 수준 수술 접근법( folded-flap palatoplasty, Trader(봉합 없음) rhinoplasty, ala-vestibuloplasty 및 필요 시 편도절제술)을 받았고, 수술·마취 시간(가능 시)과 14일 검사, 6주 시의 객관적 기능 등급 평가, 장기는 전화 소유자 설문(중앙값 추적기간 19개월)으로 평가되었다. 주요 결과는 마취시간 평균 84 ± 17.59분, 수술 중 합병증률 9%, 전체 사후 합병증률 25.7%(이 중 경증 19.7%), 사망률 6%였고 수술 상처 관련 임상적으로 의미 있는 파열은 없었다. 6주 시 BOAS 기능 등급이 유의하게 개선되었고, 장기 추적에서 소유자 만족도는 94.3%였으며 호흡기 및 위장관 상태에서 86.4%–92.8%의 개가 우수한 호전을 보였다고 보고되었다. 저자 결론은 전반적으로 허용 가능한 합병증률을 보였고 바늘끝 단극 전기소작기가 사후 합병증을 증가시키지 않았다는 점이다. 해석 시 후향적 단일 기관 연구라는 설계적 한계는 고려해야 한다.",
+      "title": "Folded-flap palatoplasty performed with a needle-tip monopolar cautery: retrospective cohort of 66 brachycephalic dogs.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-07-24T13:55:56.129Z",
+      "model": "gpt-5-mini"
+    },
+    "41932357": {
+      "brief_summary": "27마리의 자연 감염된 개 파보바이러스(CPV) 환자를 대상으로 분변 미생물 이식(FMT)을 보조요법으로 평가한 전향적 이중맹검 무작위 위약대조 임상시험이다. 단회 관장 FMT 후 14일간 구강 동결건조 FMT 캡슐을 투여한 군(n=19)은 위약군(n=8)에 비해 입원 기간과 필요 약물량(최대 약물 점수)이 유의하게 감소하였다. 임상 회복은 빨라졌으나 FMT는 분변 내 바이러스 배출 감소나 숙주의 사이토카인/케모카인 반응 유발에는 영향을 미치지 않았다.",
+      "detailed_summary": "연구는 2023년 3월~11월에 걸쳐 진행된 전향적, 이중맹검, 위약대조 임상시험으로 총 27마리의 CPV(개 파보바이러스) 자연감염 개가 등록되었다. 환자들은 FMT 치료군(n=19) 또는 위약군(n=8)으로 무작위 배정되었고, 모든 환자에게는 기존의 표준 치료와 함께 단회 FMT 관장 후 14일간 구강 동결건조 FMT 캡슐을 투여하거나(플라시보는 식염수 관장 및 위약 캡슐) 투여하였다. 1차 평가변수는 입원 기간(length of hospitalization)이었고, 입원 중 매일 대변·임상 중증도·약물 점수를 기록했으며 입원 시 및 4, 7, 14, 21일에 분변과 혈청을 채취해 CPV 배출량과 다중구슬 사이토카인·케모카인 측정을 시행했다. 중간분석에서 위약군은 임상 악화로 인한 탈락이 37.5%로 과도하여(대조군 0%) 윤리적 이유로 위약군이 중단되었다는 점이 보고되었다. 분석 결과 FMT 군은 위약군에 비해 입원 기간과 치료에 필요한 최대 약물 점수가 감소하였으며, 이는 임상적 회복 가속을 시사한다. 반면 FMT는 분변 내 바이러스 배출을 감소시키지 못했고 숙주의 면역반응(사이토카인/케모카인)은 유발하지 않았다. 연구는 병원 입원 환자와 외래 환자 모두에서 적용 가능한 단회 관장 후 구강 캡슐 투여라는 새로운 FMT 투여법이 임상 회복을 앞당길 수 있음을 제시하였으나, 위약군의 중단으로 인해 초기 계획된 비교가 제한된 점은 중요한 제한점이다.",
+      "title": "Fecal microbiota transplantation dosing regimen accelerates clinical resolution in canine parvovirus infection: a novel spectrum-of-care approach.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-07-24T13:55:23.520Z",
+      "model": "gpt-5-mini"
+    },
+    "41950947": {
+      "brief_summary": "미국에서 개를 진료하는 수의사 1,626명을 대상으로 2025년 1월에 시행한 온라인 무작위화 전후(intervention) 설문 연구로, 근거 기반의 교육 비디오 또는 문서(핸드아웃)가 개 급성 설사 치료에서 항생제 처방을 피하려는 수의사들의 의도에 미치는 영향을 평가했다. 비디오·핸드아웃 그룹에서 항생제 투여를 늦추는 것에 대한 편안함, metronidazole 미처방에 대한 편안함, 그리고 프리바이오틱스·프로바이오틱스를 항생제 대신 사용할 수 있다는 동의가 증가했다(예: 프리바이오틱스 비디오 38%→55%, 핸드아웃 40%→50%). 결론적으로 근거 기반의 실행 가능한 교육 자료는 항생제 사용 관리(antimicrobial stewardship) 지침을 따르려는 의도를 높일 수 있음을 시사한다.",
+      "detailed_summary": "연구는 1,626명의 미국 개 진료 수의사를 소셜미디어·이메일·주 수의사회 등을 통해 모집하여 온라인 사전·사후 설문으로 시행되었고, 참가자는 무작위로 대조군(567명), 핸드아웃군(546명), 비디오군(513명)에 배정되었다. 설문은 개 급성 설사에서 항생제 사용과 관련된 지식, 개인 태도, 주관적 규범, 통제지각(perceived behavioral control)을 평가했으며 개입 전에는 세 군 간 기본 태도·사회적 규범·통제지각에 차이가 없었다고 보고되었다. 근거 기반의 교육 비디오와 핸드아웃을 받은 뒤 태도 관련 문항에서 변화가 관찰되었는데, 항생제 투여를 기다리는 것에 편안함이 증가(비디오 86%→90%, 핸드아웃 85%→91%), metronidazole 비처방에 대한 편안함 증가(비디오 79%→84%, 핸드아웃 80%→86%)가 있었으며 프리바이오틱스와 프로바이오틱스를 항생제 대신 사용할 수 있다는 동의도 증가(프리바이오틱스: 비디오 38%→55%, 핸드아웃 40%→50%; 프로바이오틱스: 비디오 48%→58%, 핸드아웃 44%→53%)하였다. 저자들은 이러한 근거 기반 교육 자원이 수의사들의 항생제 회피 의도와 비항생제 대안 권장을 증대시켰다고 결론지었다. 다만 본 연구는 설문으로 측정한 '의도(intention)' 변화를 평가한 것으로, 실제 처방 행태의 변화를 직접 관찰한 연구가 아니라는 점은 해석 시 유의해야 한다.",
+      "title": "Antimicrobial stewardship education increases US veterinarians' intention to avoid prescribing antimicrobial drugs for canine acute diarrhea, January 2025.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-07-24T13:55:01.319Z",
+      "model": "gpt-5-mini"
+    },
+    "41962563": {
+      "brief_summary": "만성 장병증(chronic enteropathy, CE)으로 진단된 개 32마인을 대상으로 식이 섬유 함량을 증가시켰을 때 분변 점수와 임상 활동성 지수가 개선되는지 후향적으로 평가한 연구이다. 중성·총 식이섬유가 증가(중앙값: 조섬유 0.6→1.8 g/100 kcal, 총섬유 1.7→4.7 g/100 kcal)하면서 Purina 분변 점수는 중앙값 4.5에서 2로, 개 염증성 장질환 활동성 지수(CIBDAI)는 중앙값 4.5에서 1로 유의하게 감소하였다. 연구자는 섬유 섭취 증가가 많은 CE 개의 분변 및 임상 점수를 개선했다고 결론내렸으며, 수의사가 CE 관리에서 다른 식이요법과 함께 섬유를 고려할 것을 제안한다.",
+      "detailed_summary": "연구는 섬유 섭취 증가를 주요 영양 목표로 한 영양과 방문 개 32마리를 대상으로 한 후향적 비대조 연구이다. 평가항목으로 Purina 분변 점수, 개 염증성 장질환 활동성 지수(CIBDAI) 및 급·총 식이섬유(g/100 kcal)를 초기 상담(기준선)과 추적 시 비교했으며, 통계는 Wilcoxon 대응표본 부호 순위 검정을 사용했다. 중앙값 기준으로 조섬유는 0.6 g/100 kcal(범위 0.2–1.5)에서 1.8 g/100 kcal(범위 0.3–4.3)로, 총식이섬유는 1.7 g/100 kcal(범위 0.4–2.8)에서 4.7 g/100 kcal(범위 2.1–7.1)로 증가했고, 중앙 추적기간은 21주(범위 4–82주)였다. Purina 분변 점수는 중앙값이 4.5에서 2로 감소(효과크기 r=0.82)했고, CIBDAI는 중앙값이 4.5에서 1로 감소(효과크기 r=0.86)했다. 추적 시 32마리 중 28마리(87.5%)에서 분변 점수가, 31마리(97%)에서 CIBDAI가 개선되었다. 연구결과는 식이섬유 증가가 많은 CE 개에서 분변 및 임상 점수 개선과 연관되었음을 시사하나, 연구가 후향적이고 무대조였다는 점을 한계로 인과관계를 확정하기 어렵다는 점을 유의해야 한다.",
+      "title": "Increased dietary fiber intake improves fecal and clinical activity scores in dogs with chronic enteropathy.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-07-24T13:54:38.160Z",
+      "model": "gpt-5-mini"
+    },
+    "41962564": {
+      "brief_summary": "후향적 연구로 2008–2019년 동안 조직학적으로 확진된 76마리의 고양이에서 사지(appendicular) 원발성 골종양을 절제(전완·부분 절단)하고 보조 항암요법 유무에 따른 결과를 분석했다. 골육육종(osteosarcoma)이 가장 흔했으며 전체 중앙 생존기간(MST)은 골육육종 469일, 연골육종(chondrosarcoma)은 1,302일로 보고되었다. 수술 단독으로도 사지 골육육종의 예후는 양호했으나, 수술 전 폐 전이가 없는 골육육종에서는 보조 항암요법이 생존기간을 유의하게 연장하여 임상적으로 비전이성(nonmetastatic) 골육육종에서는 수술과 보조항암을 병행할 것을 권고한다.",
+      "detailed_summary": "본 후향적 연구는 2008–2019년 사이에 조직학적으로 확진된 사지 원발성 골종양으로 수술 치료를 받은 76마리의 고양이를 대상으로 하였다. 주요 평가항목은 종양 종류, 수술 범위(완전/부분 절단), 보조 항암요법 시행 여부, 조직학적 특성 및 종양학적 결과였다. 전체에서 골육육종이 가장 흔했으며 골육육종의 MST는 469일(1년 생존률 56.8%, 2년 40.4%)이었다. 연골육종의 MST는 1,302일(1년 91.7%, 2년 66.7%)으로 수술 단독 후 경과가 양호했다. 전체 전이율은 32.9%였고 골육육종의 전이율은 36.2%였으며 견갑골(스캐풀라) 부위 종양의 전이율이 87.5%로 가장 높았다. 수술 전 폐 전이가 있는 골육육종은 MST가 152일로 없던 군(573일)에 비해 유의하게 짧았고, 수술 전 폐 전이가 없는 골육육종에서는 보조 항암요법 시행군의 MST가 1,466일로 비시행군 440일보다 유의하게 길었다. 연령 증가 및 시기 불문 의심 전이 존재는 골육육종의 부정적 예후인자로 확인되었으며 저자들은 진단 시 비전이성 골육육종의 경우 수술과 보조 항암요법의 병행을 권장하였다.",
+      "title": "Diagnosis and clinical outcome of cats with primary appendicular bone tumors: 76 cases.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-07-24T13:54:07.848Z",
+      "model": "gpt-5-mini"
+    },
+    "41962566": {
+      "brief_summary": "후향적 분석에서 기관 허탈(tracheal collapse) 등급 I–III로 기관 스텐트 삽입을 받은 11마리의 개를 대상으로 CT(CT) 영상에서 얻은 4개 위치의 기관 지름을 이용해 삽입 후 스텐트 길이를 예측하고 실제 길이와 비교했다. 장축과 단축의 곱의 제곱근으로 지름을 계산해 평균값을 예측 직경으로 사용하고, 제조사 제공 정보에 따른 회귀식을 이용해 예측 길이를 산출하였다. 예측 길이와 실제 길이의 차이는 0%~5.5%(중앙값 2.32%)였고 11마리 중 10마리에서 오차가 5% 미만으로 나타나 CT 측정을 통해 스텐트 길이를 정확히 예측할 수 있음을 시사한다.",
+      "detailed_summary": "연구는 후향적 분석으로, 기관 허탈 등급 I–III로 스텐트 삽입을 받은 개 11마례를 대상으 로 시행되었다. 저장된 CT 영상에서 후두 바로 뒤 1 cm, 흉곽 입구, 흉부 중간부 기관, 기관 분기(carina) 바로 앞 1 cm의 4개 위치에서 장축과 단축을 측정하고 이들의 곱의 제곱근으로 각 위치의 기관 지름을 계산하였다. 네 위치의 값을 평균해 현장(in situ)에서의 예측 스텐트 직경을 결정하고, 제조사 정보에 근거한 직경-길이 회귀식을 이용해 각 환자의 예측 스텐트 길이를 산출하였다. 실제 스텐트 길이는 저장된 플루오로스코피(fluoroscopy) 영상에서 측정하여 예측값과 비교하고 환자별 백분율 오차를 산정하였다. 결과는 예측 길이와 실제 길이의 차이가 0%~5.5%(중앙값 2.32%)였고, 11마리 중 10마리에서 오차가 5% 미만이었다. 결론적으로 본 방법은 제시된 4개 위치의 CT 측정을 통해 기관 지름을 신뢰성 있게 산정할 수 있어 스텐트 길이를 정확히 예측할 수 있으며, 이는 적절한 스텐트 크기 선택과 시술 효율성·유효성 개선에 기여할 것으로 기대된다고 보고되었다. 중요한 제한점으로는 후향적 설계와 표본 수가 11마리로 적다는 점이 있다.",
+      "title": "Determination of optimal tracheal stent size using measurements derived from computed tomography.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-07-24T13:53:43.914Z",
+      "model": "gpt-5-mini"
+    },
+    "42019538": {
+      "brief_summary": "익명 다기관 온라인 설문조사로, 2024년 12월~2025년 2월 사이 Sn-117m 라디오시노비오르테시스(RSO)를 받은 개 소유주를 대상으로 소유주 보고 만족도와 효과를 평가했다. 397명 중 168명(응답률 42.3%)의 완전응답을 분석한 결과 63.1%(106/168)가 만족 또는 매우 만족을 보고했고, 골관절염(osteoarthritis, OA)의 일상활동 장애는 71.5%(118/165)에서 개선되었다. 통증은 1회 시술 후 78.6%(132/168)에서 개선을 느꼈고, 반복 시술에서도 유사한 개선 양상이 관찰되었다. 소유주 만족도는 비용·진정·마취 등보다는 임상적 결과(68%에서 매우 영향력 있음)에 의해 주로 좌우되었다.",
+      "detailed_summary": "연구는 2024년 12월~2025년 2월에 시행된 익명 다기관 온라인 설문조사로, Sn-117m 라디오시노비오르테시스(RSO)를 받은 개 소유주를 대상으로 진행되었다. 분석에는 397명 중 완전응답 168명이 포함되어 응답률은 42.3%였다. 주요 평가 항목은 소유주가 평가한 통증 변화, OA(osteoarthritis)의 일상활동 장애 변화 및 전반적 만족도였으며, 비용·임상 결과·진정·기타 요인의 만족도 영향력도 조사했다. 전반적 만족도는 63.1% (106/168)가 매우 만족 또는 만족으로 응답했고, OA의 일상활동 장애는 165마리 기준에서 71.5%(118/165) 개선, 27.3%(45/165) 변화 없음, 1.2%(2/165) 악화를 보였다. 장애 정도의 중앙값 변화는 전체에서 +1 범주(IQR 0~2; 범위 -1~+5)였고, 개선한 군에서는 중앙값 +2 범주(범위 +1~+5)였다. 통증 개선은 1회 시술 후 78.6%(132/168), 2회 후 82.9%(29/35), 3회 후 83.0%(5/6)로 보고되었고, 다회 시술(35마리)을 받은 경우 81%의 소유주가 후속 시술에서 동일하거나 더 큰 개선을 보고했다. 치료 관련 우려는 6.5%에서 보고되었고, 소유주 만족도에는 임상 결과가 가장 큰 영향(68%에서 매우 영향력 있음)을 미친 것으로 나타나 소유주들은 임상적 결과를 중심으로 유의미하고 반복 가능한 통증·기능 개선을 경험했다고 보고했다.",
+      "title": "Owners report satisfaction and perceived improvement following Sn-117m radiosynoviorthesis in dogs with osteoarthritis.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-07-24T13:53:22.700Z",
+      "model": "gpt-5-mini"
+    },
+    "42019540": {
+      "brief_summary": "214마리의 개를 대상으로 한 후향적 연구에서 복강경 부신절제술을 받은 우연히 발견된 부신 종괴(In-AM, 61/214, 28.5%)는 크기만으로 악성도를 예측할 수 없었고, In-AM은 임상적 부신 종괴(Cl-AM)에 비해 갈색세포종(pheochromocytoma)일 가능성이 높았다(32.8% vs 8.5%; OR 5.25, 95% CI 2.43–11.35). 혈관 침범은 수질(갈색세포종)을 강하게 시사했고(OR 11.31, 95% CI 3.03–36.42), 최대 종괴 직경(MMD)이 ≤2 cm인 무혈관침범 소견도 악성 또는 악성 잠재성을 보이는 병변이 포함되어 있었다. 단기적(퇴원 시) 예후는 좋았으나 비침습적 소형 In-AM을 단순 경과관찰하는 기존 권고는 재검토되어야 하며, 수술 계획 시 갈색세포종 가능성을 고려해야 한다.",
+      "detailed_summary": "이 연구는 복강경 부신절제술을 받은 214마리의 개를 후향적으로 분석하여 우연히 발견된 부신 종괴(In-AM)와 증상이 있어 발견된 임상적 부신 종괴(Cl-AM)를 비교하고 In-AM의 병리학적 진단을 예측하는 전신적 인자를 확인하려는 목적이었다. 전체에서 61마리(28.5%)가 In-AM였고, 연령과 체중은 Cl-AM과 유사했다. In-AM은 Cl-AM보다 갈색세포종 비율이 높았으며(32.8% vs 8.5%; OR 5.25, 95% CI 2.43–11.35), 혈관 침범 소견은 수질(갈색세포종)을 강하게 시사했다(OR 11.31, 95% CI 3.03–36.42). 최대 종괴 직경(MMD)은 갈색세포종, 부신피질암(adrenocortical carcinoma), 부신피질선종(adrenocortical adenoma) 사이에 유의한 차이가 없었으나, 체구가 작은 개에서 암종 또는 갈색세포종의 빈도가 높았다. MMD ≤2 cm인 In-AM이 20개였고 이 중 8개는 혈관 침범을 보였으며, 무혈관침범의 소형 In-AM 11개 중 6개는 암성(3개는 암종) 또는 악성/침습성 잠재성(3개는 갈색세포종)을 가졌다. 수술 관련 합병증으로 In-AM 환아 2마리(3.3%)가 사망했으나 전반적인 단기 결과는 우수했다. 결론적으로 In-AM은 크기와 관계없이 악성 또는 악성 잠재성을 자주 보였고, 비침습적·소형 병변(≤2 cm)을 단순 관찰하는 기존 권고는 재고되어야 하며 수술 전 계획에서 갈색세포종 가능성을 고려해야 한다.",
+      "title": "The malignant potential of a canine incidental adrenal mass cannot be predicted by lesion size, but outcomes following laparoscopic adrenalectomy are excellent.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-07-24T13:52:55.017Z",
+      "model": "gpt-5-mini"
+    },
+    "42486157": {
+      "brief_summary": "본 연구는 Colorado State University에서 2014년 5월–2025년 2월 사이 제왕절개(CS)를 시행한 개들의 의무기록을 후향적으로 검토하여 단층 전층 단순 연속 봉합(appositional closure, AC)의 자궁 절개부(hysterotomy) 봉합 안전성을 평가했다. 총 77마리에서 89회의 CS가 포함되었고, 봉합 패턴은 AC 70건, 반전 봉합(inverting closure, IC) 19건이었다. 단기 합병증은 89건 중 6건(6.7%)으로 보고되었고, 봉합 패턴은 합병증 발생의 위험인자로 확인되지 않았다. 결론적으로 단층 전층 단순 연속 봉합(AC)과 이중층 전층 봉합 모두 자궁 절개부 봉합에 대해 단기적으로 안전하며 이후 임신 및 분만과도 호환된다고 보고되었다.",
+      "detailed_summary": "후향적 의무기록 검토 연구로 Colorado State University에서 2014년 5월–2025년 2월 사이 CS를 받은 77마리의 개(총 89회 CS)를 분석했다. 봉합 패턴은 단층 전층 단순 연속 봉합(AC) 70건과 반전 봉합(IC) 19건으로 분류되었다. 주요 평가 항목은 자궁 절개부(hysterotomy) 봉합과 관련된 단기(14일) 수술 후 합병증 발생 여부였으며 전체적으로 6/89건(6.7%)의 합병증이 관찰되었다. 봉합 패턴은 합병증 발생의 위험요인으로 밝혀지지 않았고, 자궁 절개부 봉합과 관련하여 추가 처치가 필요한 경우는 없었다. 단 한 건에서 수술 시 사용한 경막외마취(epidural)와 관련된 마비가 보고되었다. 추적기간 동안 24마리가 이후 임신을 했고 그중 19마리는 AC 이후, 5마리는 IC 이후의 임신이었다. 연구자는 단층 전층 AC가 단기 합병증과 관련된 유의한 위험요인이 아니며 단층·이중층 전층 봉합 모두 이후의 분만 및 제왕절개와 호환된다고 결론내렸다. 단, 추적 관찰은 단기(14일) 중심이라는 점은 해석 시 고려해야 한다.",
+      "title": "A single-layer, full-thickness, simple continuous suture pattern is safe for hysterotomy closure in dogs undergoing cesarean section.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-07-24T13:52:30.392Z",
+      "model": "gpt-5-mini"
+    },
+    "42486166": {
+      "brief_summary": "본 연구는 보호소 환경에서 자연 발생한 개 파보바이러스(CPV) 감염견에 대해 개 파보바이러스 단클론 항체(CPMA)를 표준 치료(SOC)와 함께 투여했을 때의 임상 효능과 안전성을 후향적으로 평가했다. CPMA(0.2 mL/kg IV)를 SOC와 병용한 군(n=63)은 SOC 단독군(n=49)에 비해 입원 기간(중앙값 2일 vs 4일)과 격리 해제까지의 시간(중앙값 5일 vs 6.5일)이 유의하게 단축되었다. 사망률(17% vs 22%)과 약물 점수 및 총 치료비는 통계적으로 차이가 없었고, 한 건의 아나필락시스가 보고되어 회복하였다. 연구진은 CPMA 병용이 임상적 회복과 격리 해제 시점을 앞당겨 보호소 동물 복지와 입양 지원에 도움이 될 수 있다고 결론지었다.",
+      "detailed_summary": "후향적 의무기록 검토 연구로, 2020년 6월부터 2024년 5월까지 Gigi's Parvovirus Treatment Center에서 CPV 양성으로 치료받은 개들의 기록을 분석했다. 치료군 배정은 시기별로 이루어져 2023년 8월 이전 입원견은 SOC 단독(n=49), 이후 입원견은 CPMA(0.2 mL/kg IV) 병용 + SOC(n=63)이었다. 주요 결과는 입원 기간, 사망률, 그리고 격리 해제 기준(연속 2회 음성 CPV ELISA [SNAP; Idexx])까지의 시간이었다. CPMA 병용군은 입원 기간 중앙값 2일(대조군 4일)로 짧았고, 격리 해제까지의 시간도 중앙값 5일(대조군 6.5일)로 유의하게 단축되었다. 사망률은 CPMA군 17% vs SOC 22%로 차이는 통계적으로 유의하지 않았다; 최대 약물 점수와 전체 치료비 역시 통계적 차이가 없었으나 실제 중앙값 기준으로는 CPMA군에서 $978.50의 비용 절감이 관찰되었다. 안전성 측면에서는 CPMA 투여와 관련된 아나필락시스 1건이 보고되었으나 회복하였고, 전체적으로 저자들은 CPMA가 임상 효능과 안전성이 있다고 보고하였다. 한편 연구는 후향적·시기별 비무작위 배정(cohort) 설계라는 점에서 해석 시 제한점이 있음을 내포한다.",
+      "title": "Retrospective evaluation of canine parvovirus monoclonal antibody supports faster clinical recovery in shelter dogs with naturally occurring canine parvovirus.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-07-24T13:52:07.454Z",
+      "model": "gpt-5-mini"
+    },
+    "42486172": {
+      "brief_summary": "전향적 무작위 이중맹검 위약대조 연구에서 tylosin‑responsive enteropathy(TRE)가 확인된 개 14마리 중 최종 분석은 경구 분변미생물이식(FMT)군 7마리와 위약군 6마리로 이루어졌다. CCECAI(Canine Chronic Enteropathy Clinical Activity Index), 대변 일관성, dysbiosis index 등 여러 대변 바이오마커와 혈청 iohexol을 이용한 장관 투과성이 치료 전후에 평가되었다. 결과는 FMT가 일부 미생물 구성 변화(예: Faecalibacterium spp.의 증가)를 보였으나 전반적으로 위약 대비 명확한 치료 특이적 임상 효과나 일관된 바이오마커 변화를 보이지 않아 임상적 이득은 일관되지 않았다.",
+      "detailed_summary": "연구는 2020년 8월 1일부터 2022년 12월 31일까지 진행된 전향적, 무작위, 이중맹검, 위약대조 임상시험이다. TRE가 확인된 반려견 14마리가 치료에 진입했으며, 분석 대상은 경구 FMT군(n=7)과 위약군(n=6, 1마리는 제외)이다. 주요 평가항목은 CCECAI, 대변 일관성, dysbiosis index 및 핵심 세균, 담즙산, 단쇄지방산, 젖산, 칼프로텍틴 등 대변 바이오마커와 혈청 iohexol을 통한 장관 투과성이었다. 재발은 FMT군에서 2/7(28.6%), 위약군에서 3/6(50.0%)로 보고되었다. Dysbiosis index는 양군에서 시간이 지남에 따라 감소했으나 치료군 간 차이는 없었고, Faecalibacterium spp.는 증가해 FMT군의 사후값이 더 높았던 반면 Turicibacter spp.는 양군에서 모두 증가했다; Peptacetobacter hiranonis는 시간에 따라 증가했으나 그룹 간 차이는 없었다. 일부 증례에서 담즙산 전환이 관찰되었으나 그룹 차이는 없었고, 그 밖의 바이오마커들은 일관된 치료 특이 효과를 보이지 않았다. 결론적으로 경구 FMT는 변이적인 마이크로바이옴 변화를 유도하고 임상 반응은 일관되지 않아 위약 대비 명확한 치료 효과를 입증하지 못했으며, 최적화된 마이크로바이옴 기반 치료법과 더 큰 규모의 추가 연구가 필요함을 시사한다.",
+      "title": "Clinical trial reveals limited clinical and microbiome effects following oral fecal microbiota transplantation in dogs with chronic enteropathy responsive to tylosin.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-07-24T13:51:50.181Z",
+      "model": "gpt-5-mini"
+    }
+  }
 }
