@@ -24,7 +24,8 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: "22"
-          
+          cache: npm
+
       - name: Install dependencies
         run: npm install
 
@@ -34,6 +35,7 @@ jobs:
           OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
           DAYS_BACK: "21"
           MAX_NEW_SUMMARIES: "30"
+          RESULTS_PER_JOURNAL: "20"
         run: npm run update-summaries
 
       - name: Commit updated summary data
