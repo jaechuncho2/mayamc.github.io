@@ -1,4 +1,245 @@
 {
-  "updated_at": null,
-  "papers": []
+  "updated_at": "2026-07-24T14:20:47.515Z",
+  "papers": [
+    {
+      "pmid": "42486172",
+      "title": "Clinical trial reveals limited clinical and microbiome effects following oral fecal microbiota transplantation in dogs with chronic enteropathy responsive to tylosin.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Hanifeh M, Huhtinen M, Ganz HH, Heilmann RM, Huang W, Spillmann T, Suchodolski JS",
+      "date": "2026 07 22",
+      "dateObject": "2026 07 22",
+      "abstract": "To evaluate clinical response and fecal biomarkers in dogs with tylosin-responsive enteropathy (TRE) treated with oral fecal microbiota transplantation (FMT). In this prospective, randomized, double-blind, placebo-controlled trial (conducted between August 1, 2020, and December 31, 2022), 14 client-owned dogs with confirmed tylosin-responsive enteropathy entered the treatment phase. Dogs received oral FMT (n = 7) or placebo (7) for 4 weeks; 1 placebo-treated dog was excluded (pyometra), leaving 7 FMT-treated and 6 placebo-treated dogs for analysis. Canine Chronic Enteropathy Clinical Activity Index, fecal consistency, and fecal biomarkers (dysbiosis index, core bacteria, bile acids, short-chain fatty acids, lactate, and calprotectin) were assessed at pretreatment and posttreatment visits. Intestinal permeability was evaluated with serum iohexol. Analyses were limited to pre- and posttreatment comparisons. Relapse occurred in 2 of 7 FMT-treated dogs (28.6%) and 3 of 6 placebo-treated dogs (50.0%). The dysbiosis index decreased over time in both groups, with no treatment effect. Faecalibacterium spp increased, with higher posttreatment values in the FMT group, whereas Turicibacter spp increased in both groups. Peptacetobacter hiranonis increased over time without between-group differences. Bile acid conversion was observed in a subset of dogs without group differences. Other biomarkers showed no consistent treatment-specific effects. Oral FMT was associated with variable microbiome changes and inconsistent clinical response, with no clear treatment-specific effects compared with placebo. These findings support further evaluation of optimized microbiome-based therapies in larger studies. Oral FMT may serve as an adjunctive strategy for microbiome modulation in dogs with chronic enteropathy; however, clinical benefits were inconsistent and optimized protocols may be required.",
+      "categories": [
+        "cardiology"
+      ]
+    },
+    {
+      "pmid": "42486166",
+      "title": "Retrospective evaluation of canine parvovirus monoclonal antibody supports faster clinical recovery in shelter dogs with naturally occurring canine parvovirus.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Welton M, Hadden H, Herron M, Winston JA",
+      "date": "2026 07 22",
+      "dateObject": "2026 07 22",
+      "abstract": "To retrospectively evaluate the clinical efficacy and safety of the canine parvovirus monoclonal antibody (CPMA) administered with standardized supportive care for naturally occurring canine parvovirus (CPV) in a shelter setting. Electronic medical records from CPV-positive dogs treated at Gigi's Parvovirus Treatment Center between June 2020 and May 2024 were reviewed. All dogs received a standardized standard-of-care (SOC) algorithm. Dogs treated prior to August 2023 received SOC alone (n = 49), while those admitted thereafter received CPMA (0.2 mL/kg, IV) plus SOC (63). Primary outcomes were hospitalization duration, mortality, and time to isolation release criteria (2 consecutive negative CPV ELISA tests [SNAP; Idexx Laboratories Inc]). Secondary outcomes included modified clinical severity scores, medication scores, and total cost of care. Dogs receiving CPMA with SOC had significantly shorter hospitalization (median, 2 vs 4 days) and reached isolation release criteria sooner (median, 5 vs 6.5 days) compared with SOC alone. Mortality did not differ significantly (17% vs 22%). Maximum medication scores and overall cost of care were not statistically different, although CPMA-treated dogs showed a real-world median cost reduction of $978.50. One CPMA-treated dog experienced an anaphylactic reaction and recovered with supportive care. CPMA administration in combination with SOC accelerated clinical recovery and time to release from isolation compared with SOC alone. CPMA appears clinically effective and safe for naturally occurring CPV infections in a shelter environment. By reducing isolation time, CPMA may improve welfare, reduce behavioral risk associated with prolonged isolation and medical trauma, and support earlier adoption.",
+      "categories": [
+        "cardiology"
+      ]
+    },
+    {
+      "pmid": "42486157",
+      "title": "A single-layer, full-thickness, simple continuous suture pattern is safe for hysterotomy closure in dogs undergoing cesarean section.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Goldblatt BH, Burns JG, Marvel SJ",
+      "date": "2026 07 22",
+      "dateObject": "2026 07 22",
+      "abstract": "To evaluate short-term complications for single-layer, full-thickness, simple continuous appositional closure (AC) of the uterus in dogs undergoing cesarean section (CS). Additional objectives included comparing the complication rates with dogs that underwent an inverting closure (IC) and reporting the litter size in dogs with subsequent pregnancies. A medical record review for dogs undergoing CS between May 2014 and February 2025 was performed at Colorado State University. Data retrieved included signalment, reason for CS, uterine closure pattern, anesthesia and surgery time, litter size, complications, and subsequent CSs. The study population included 77 dogs that underwent 89 CSs (70 AC, 19 IC). Postoperative complications were noted in 6 of 89 cases (6.7%). Closure pattern was not found to be a risk factor for development of postoperative complications. No dogs required intervention related to hysterotomy closure, and all dogs survived the 14-day follow-up period. One dog developed paralysis following epidural use at the time of CS. Twenty-four dogs had subsequent pregnancies: 19 of 24 (79.2%) after AC and 5 of 24 (20.8%) after IC. Full-thickness AC was not a significant risk factor for short-term postoperative complications. Both single- and double-layer, full-thickness hysterotomy closures were compatible with subsequent successful whelping and CSs. Single-layer, full-thickness, simple continuous appositional and double-layer full-thickness closures are safe for hysterotomy closure.",
+      "categories": [
+        "cardiology"
+      ]
+    },
+    {
+      "pmid": "42248176",
+      "title": "Nail thickening, swelling of the digit, and paw sensitivity in a 7-year-old English Springer Spaniel.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Browning A, Sato AF, Almela R, Anson A",
+      "date": "2026 07 20",
+      "dateObject": "2026 07 20",
+      "abstract": "",
+      "categories": [
+        "cardiology"
+      ]
+    },
+    {
+      "pmid": "42019540",
+      "title": "The malignant potential of a canine incidental adrenal mass cannot be predicted by lesion size, but outcomes following laparoscopic adrenalectomy are excellent.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Cook AK, Mayhew PD, Massari F, Araya FL, van Nimwegen SA, Van Goethem B, Singh A",
+      "date": "2026 07 20",
+      "dateObject": "2026 07 20",
+      "abstract": "To describe demographics, imaging characteristics, diagnosis, and outcome for dogs undergoing laparoscopic adrenalectomy for an incidental adrenal mass (In-AM), compare findings in dogs with In-AMs against those with clinical adrenal masses (Cl-AMs), and identify preoperative indicators of histologic diagnosis for dogs with In-AMs. This was a retrospective study of 214 dogs undergoing laparoscopic adrenalectomy. Demographics, imaging characteristics, and histologic findings were compared for dogs with In-AMs versus Cl-AMs. Survival to discharge was determined for dogs with In-AMs. In-AMs were identified in 61 of 214 dogs (28.5%). Age and body weight were similar to dogs with Cl-AMs. In-AMs were more likely to be pheochromocytomas than Cl-AMs (32.8% vs 8.5%; OR, 5.25 [95% CI, 2.43 to 11.35]). Vascular invasion was highly suggestive of a medullary rather than a cortical lesion (OR, 11.31 [95% CI, 3.03 to 36.42]). Maximal mass dimension (MMD) for In-AMs was similar for pheochromocytomas, cortical carcinomas, and cortical adenomas, but smaller dogs were more likely to have a carcinoma or pheochromocytoma. A total of 20 In-AMs had MMD &#x2264; 2 cm, 8 of which had vascular invasion. However, 6 of 11 small, noninvasive In-AMs were malignant (3 carcinoma) or had malignant/invasive potential (3 pheochromocytoma). Two dogs with In-AMs (3.3%) died from complications related to adrenalectomy. In-AMs were routinely malignant or had malignant/invasive potential, irrespective of size. Vascular invasion was highly suggestive of pheochromocytoma. Short-term outcomes following elective laparoscopic adrenalectomy were excellent. Previous recommendations to monitor noninvasive In-AMs with MMD &#x2264; 2 cm should be reconsidered; perioperative planning should address the likelihood of pheochromocytoma.",
+      "categories": [
+        "cardiology"
+      ]
+    },
+    {
+      "pmid": "42019538",
+      "title": "Owners report satisfaction and perceived improvement following Sn-117m radiosynoviorthesis in dogs with osteoarthritis.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "V&#xe9;zina-Audette R, Barnhard JA, Brunke MW, Levine D, Agrodnia MD",
+      "date": "2026 07 20",
+      "dateObject": "2026 07 20",
+      "abstract": "To evaluate owner-reported satisfaction and perceived effects of Sn-117m radiosynoviorthesis (RSO) for canine osteoarthritis (OA). An anonymous multicenter online survey was distributed between December 2024 and February 2025 to owners whose dogs received Sn-117m RSO for OA. Owners rated changes in pain and OA interference with daily activity before and after treatment and overall satisfaction. They also rated the influence of cost, clinical outcome, sedation/anesthesia, and other factors on satisfaction. Complete responses were obtained from 168 of 397 owners (42.3%). Overall, 63.1% (106 of 168) reported being very satisfied or satisfied. Osteoarthritis interference with daily activity improved in 71.5% (118 of 165) of dogs, remained unchanged in 27.3% (45 of 165), and worsened in 1.2% (2 of 165). Three dogs had no OA interference at baseline. The median improvement was +1 category (IQR, 0 to 2; range, -1 to +5). Among those that improved, the median change was +2 categories (range, +1 to +5). Perceived pain improved in 78.6% (132 of 168) after the first treatment, 82.9% (29 of 35) after the second, and 83% (5 of 6) after the third. Among 35 dogs receiving multiple treatments, 81% of owners reported comparable or greater improvement after subsequent treatments. Treatment-related concerns were reported by 6.5% of owners. Clinical outcome was rated the most influential factor in owner satisfaction (68% very influential). Owners reported satisfaction with Sn-117m RSO and perceived meaningful, repeatable improvements in pain and function. Sn-117m RSO produced perceived clinically important improvements in canine OA, with satisfaction driven primarily by clinical outcome rather than cost, sedation/anesthesia, or other concerns.",
+      "categories": [
+        "cardiology"
+      ]
+    },
+    {
+      "pmid": "41962566",
+      "title": "Determination of optimal tracheal stent size using measurements derived from computed tomography.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Atiee GF, Cook AK, Applebaum J",
+      "date": "2026 07 20",
+      "dateObject": "2026 07 20",
+      "abstract": "To devise a reliable method of predicting postplacement tracheal stent length using measurements from CT and to compare predicted versus actual stent length in a cohort of dogs undergoing stent placement for tracheal collapse grades I to III. Retrospective analysis of 11 dogs undergoing tracheal stenting for tracheal collapse grades I to III. Measurements of tracheal diameter were determined from stored CT images. Tracheal diameter was calculated from the square root of the product of the major and minor axes at 4 locations: 1 cm caudal to the larynx, the thoracic inlet, the midthoracic trachea, and 1 cm cranial to the carina. Values were averaged to determine predicted stent diameter in situ. The predicted length of the stent placed in each dog was calculated with regression formulas derived from the manufacturer's information regarding stent diameter and length. Actual stent length following deployment was determined from stored fluoroscopic images. Predicted stent lengths were compared to actual stent lengths, and the percent error was determined for each patient. Appropriate images were available for 11 dogs. Differences in predicted length ranged from 0% to 5.5%, with a median of 2.32%. In 10 of 11 dogs, the error was < 5%. Tracheal diameter can be reliably determined from CT imaging with the use of 4 specific locations in dogs with tracheal collapse grades I to III, allowing for accurate prediction of stent length after placement. This study will assist with appropriate stent size selection for dogs with tracheal collapse and is expected to improve procedural efficiency and efficacy.",
+      "categories": [
+        "cardiology"
+      ]
+    },
+    {
+      "pmid": "41962564",
+      "title": "Diagnosis and clinical outcome of cats with primary appendicular bone tumors: 76 cases.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Kimura S, Lubelski J, Wood CJ, Selmic LE, Maritato KC, Morello E, Pellin MA, Oblak ML, Culp WTN, Malek S, S&#xe9;guin B, Vernier T, Sumner JP, Wustefeld-Janssens BG, Schlag AN, Liptak JM",
+      "date": "2026 07 20",
+      "dateObject": "2026 07 20",
+      "abstract": "To describe outcomes in cats with primary appendicular bone tumors treated with complete or partial amputation, with or without adjuvant chemotherapy. This retrospective study analyzed cats with histologically confirmed primary appendicular bone tumors treated surgically between 2008 and 2019. Data included signalment, clinical signs, tumor location, preoperative imaging, amputation level, adjunctive therapy, histologic characteristics, and oncologic outcomes. 76 cats were included, with osteosarcoma being the most commonly diagnosed tumor. Median survival time (MST) for cats with osteosarcoma was 469 days, with 1- and 2-year survival rates of 56.8% and 40.4%, respectively. The MST for cats with chondrosarcoma was 1,302 days, with 1- and 2-year survival rates of 91.7% and 66.7%. Overall metastatic rate was 32.9%, and 36.2% for osteosarcoma specifically; scapular tumors had the highest metastatic rate (87.5%). Preoperative pulmonary metastasis significantly shortened MST in cats with osteosarcoma (152 vs 573 days). In cats with osteosarcoma without preoperative pulmonary metastasis, adjuvant chemotherapy significantly improved MST (1,466 vs 440 days). Negative prognostic indicators for cats with osteosarcoma were increased age and presence of suspected metastasis at any time. Appendicular osteosarcoma in cats had a good prognosis following amputation alone, despite a higher metastatic rate than previously reported; however, adjuvant chemotherapy significantly improved survival time in cats with nonmetastatic osteosarcoma. Appendicular chondrosarcoma had an excellent prognosis following definitive surgery alone. Cats with nonmetastatic osteosarcoma at diagnosis should be treated with both definitive surgery and adjuvant chemotherapy.",
+      "categories": [
+        "cardiology"
+      ]
+    },
+    {
+      "pmid": "41962563",
+      "title": "Increased dietary fiber intake improves fecal and clinical activity scores in dogs with chronic enteropathy.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Ford-Hrymak DB, Rudinsky AJ, Muirragui I, Landau ED, Rowe JC, Winston JA, Parker VJ",
+      "date": "2026 07 20",
+      "dateObject": "2026 07 20",
+      "abstract": "To determine whether modification of dietary fiber could improve fecal score and clinical activity score in a population of dogs diagnosed with chronic enteropathy (CE). This was a retrospective uncontrolled study of dogs with CE presenting to a nutrition service where increasing dietary fiber intake was the primary nutritional goal. Purina fecal score, canine inflammatory bowel disease activity index scores, and fiber concentrations (g/100 kcal) of diets fed at initial nutrition consult (baseline) and at follow-up were compared. The Wilcoxon matched-pairs signed rank test was used. 32 dogs were included. Median crude fiber and total dietary fiber increased from 0.6 g/100 kcal (range, 0.2 to 1.5 g/100 kcal) and 1.7 g/100 kcal (range, 0.4 to 2.8 g/100 kcal) at baseline to 1.8 g/100 kcal (range, 0.3 to 4.3 g/100 kcal) and 4.7 g/100 kcal (range, 2.1 to 7.1 g/100 kcal) at follow-up. Median time from baseline to follow-up was 21 weeks (range, 4 to 82 weeks). Purina fecal score decreased from baseline to follow-up with a median of 4.5 (range, 2 to 7) to 2 (range, 2 to 3), respectively (effect size, r = 0.82). Canine inflammatory bowel disease activity index scores decreased from baseline to follow-up with a median of 4.5 (range, 1 to 11) to 1 (range, 0 to 4), respectively (effect size, r = 0.86). At follow-up, 28 of 32 dogs (87.5%) had improved Purina fecal scores and 31 of 32 (97%) had improved canine inflammatory bowel disease activity index scores. Increased dietary fiber intake improved fecal and clinical activity scores in many dogs with CE. In addition to other dietary food trial approaches commonly considered, veterinarians should utilize fiber to manage clinical signs of dogs with CE.",
+      "categories": [
+        "cardiology"
+      ]
+    },
+    {
+      "pmid": "41950949",
+      "title": "Generalized tremors in a 2.5-year-old domestic shorthair cat.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Menchetti M, Cocchetto A, Galli G",
+      "date": "2026 07 20",
+      "dateObject": "2026 07 20",
+      "abstract": "",
+      "categories": [
+        "cardiology"
+      ]
+    },
+    {
+      "pmid": "41950947",
+      "title": "Antimicrobial stewardship education increases US veterinarians' intention to avoid prescribing antimicrobial drugs for canine acute diarrhea, January 2025.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Frey E, Kedrowicz A, Granick J, Hedgpeth MW, Townsend L",
+      "date": "2026 07 20",
+      "dateObject": "2026 07 20",
+      "abstract": "To evaluate whether an educational video or written evidence-based handout can reduce veterinarians' intentions to prescribe antibiotics for canine acute diarrhea. In January 2025, US veterinarians who treat dogs were recruited for an online cross-sectional pre- and postintervention survey via social media, email lists, and state veterinary medical associations. Questions probed knowledge, personal attitudes, subjective norms, and perceived behavioral control regarding the use of antibiotics in the treatment of canine acute diarrhea. Participants were randomized to control, handout, or video groups to evaluate the impact of educational resources on their intention to prescribe antibiotics. A total of 1,626 veterinarians completed the survey and were randomly assigned to the control (n = 567), handout (546), and video (513) groups. Baseline attitudes, social norms, and perceived behavioral control did not differ amongst intervention groups. After they received the interventions, questions of attitude were repeated. More veterinarians were comfortable with waiting to give antibiotics (video, 86% to 90%; handout, 85% to 91%), were comfortable not prescribing metronidazole (video, 79% to 84%; handout, 80% to 86%), and agreed that prebiotics (video, 38% to 55%; handout, 40% to 50%) and probiotics (video, 48% to 58%; handout, 44% to 53%) could be used instead of antibiotics. Evidence-based educational resources related to antimicrobial use increased veterinarians' intention to avoid antibiotic use and promote nonantimicrobial alternatives. Targeted evidence-based and actionable educational resources can increase veterinarians' intentions to follow antibiotic stewardship guidelines.",
+      "categories": [
+        "cardiology"
+      ]
+    },
+    {
+      "pmid": "41932357",
+      "title": "Fecal microbiota transplantation dosing regimen accelerates clinical resolution in canine parvovirus infection: a novel spectrum-of-care approach.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Winston JA, Jennings R, Randolph NK, Welton M, Partridge E, Schreeg M, Yaxley PE, Rudinsky AJ",
+      "date": "2026 07 20",
+      "dateObject": "2026 07 20",
+      "abstract": "To evaluate the efficacy of a novel spectrum-of-care fecal microbiota transplant (FMT) dosing regimen as an adjunctive therapy for canine parvovirus (CPV). 27 client-owned dogs naturally infected with CPV were enrolled from March to November 2023 in a prospective, double-blinded, placebo-controlled clinical trial. Patients were randomized into FMT-treated (n = 19) or placebo-treated (8) groups. Along with conventional treatments, CPV-infected dogs were administered FMT (single FMT enema, then 14 days of oral lyophilized FMT capsules) or placebo (single saline enema, then 14 days of oral placebo capsules) at admission. During hospitalization, dogs were monitored daily including fecal, clinical severity, and medication scores. Feces and serum were collected at admission, day 4, day 7, day 14, and day 21 for quantification of CPV viral shedding and immune response (bead-based multiplex of cytokines/chemokines). The primary outcome variable was length of hospitalization. Interim analysis revealed that placebo-treated dogs had excessive study withdrawals due to worsening clinical status when compared to FMT-treated dogs (37.5% compared to 0%, respectively), leading to ethical discontinuation of the placebo arm. Fecal microbiota transplant-treated dogs had significantly reduced hospitalization length and medications required for treatment (maximum medication score) compared to placebo-treated dogs. Fecal microbiota transplant did not reduce fecal viral shedding or elicit a host immune response. This novel FMT dosing regimen (single enema FMT followed by oral capsular FMT), designed to be feasible for inpatients or outpatients, accelerated clinical recovery from CPV. In-house and commercially available FMT products were effective in CPV-infected dogs, thus broadening the spectrum of care available to these patients.",
+      "categories": [
+        "cardiology"
+      ]
+    },
+    {
+      "pmid": "41932356",
+      "title": "Folded-flap palatoplasty performed with a needle-tip monopolar cautery: retrospective cohort of 66 brachycephalic dogs.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Miloro R, Mala B, Ceplecha V, Vullo C, Vlasin M",
+      "date": "2026 07 20",
+      "dateObject": "2026 07 20",
+      "abstract": "To evaluate short- and long-term patient outcomes retrospectively, investigate anesthetic and surgical times, and assess clinically relevant surgical wound complications associated with the use of needle-tip monopolar electrocautery for folded-flap palatoplasty. This retrospective observational study included a cohort of client-owned dogs presented to a single referral hospital (2019 to 2024). All dogs underwent a standardized multilevel surgical approach, including folded-flap palatoplasty, Trader (suture-less) rhinoplasty, ala-vestibuloplasty, and tonsillectomy, as indicated. When available, surgical and anesthetic times and 14-day examinations were recorded. Short-term follow-up was performed at 6 weeks postoperatively with objective functional grading, and long-term follow-up was conducted via a telephone owner questionnaire. 66 dogs met the inclusion criteria. At the 6-week follow-up, significant improvement in brachycephalic obstructive airway syndrome functional grades was observed. The mean (&#xb1; SD) anesthetic time was 84 &#xb1; 17.59 minutes. The intraoperative complication rate was 9%. The overall postoperative complication rate was 25.7%, with 19.7% minor complications, no surgical wound complications, and a 6% mortality rate. At a median follow-up of 19 months, 94.3% of owners reported high satisfaction and 86.4% to 92.8% of dogs showed excellent improvement in respiratory and gastrointestinal health. An acceptable overall complication rate was observed in all patients. No clinically relevant surgical wound breakdowns were observed in any patients. Needle-tip monopolar electrocautery did not increase the postoperative complication rate or worsen outcomes.",
+      "categories": [
+        "cardiology"
+      ]
+    },
+    {
+      "pmid": "41932354",
+      "title": "Comparison of the incidence of postoperative ocular hypertension after pars plana vitrectomy and phacoemulsification and aspiration in dogs.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Yoshida G, Umeda Y",
+      "date": "2026 07 20",
+      "dateObject": "2026 07 20",
+      "abstract": "To retrospectively evaluate whether postoperative ocular hypertension (POH) occurs after pars plana vitrectomy (PPV) for rhegmatogenous retinal detachment, as POH does after phacoemulsification and aspiration (PEA). Medical records of dogs that underwent PPV or PEA between January 2018 and December 2021 were reviewed retrospectively. Cases were divided into 2 groups: the PPV group and the PEA group. The PPV group was further divided into 2 groups: the PPV-only group and the PEA + PPV group, which included cases that underwent PEA and PPV simultaneously. Intraocular pressure was measured preoperatively and at 1, 3, 5, 24, and 48 hours postoperatively with rebound tonometry in all dogs, and POH incidence was analyzed. Of the 377 eyes (300 dogs), 43 eyes (40 dogs) were included in the PPV-only group, 48 eyes (45 dogs) in the PEA + PPV group, and 286 eyes (215 dogs) in the PEA group. The incidence of POH was 9.9% (9 of 91 eyes) in the PPV group and 25.5% (73 of 286 eyes) in the PEA group. Within the PPV group, the incidence of POH was 2.3% (1 of 43 eyes) in the PPV-only group and 16.7% (8 of 48 eyes) in the PEA + PPV group. The incidence of POH was significantly lower in the PPV group than in the PEA group. Postoperative ocular hypertension occurred after PPV for rhegmatogenous retinal detachment in dogs, with a lower incidence than after PEA. Given the possibility of developing POH after PPV, similar to PEA, postoperative monitoring of intraocular pressure is crucial.",
+      "categories": [
+        "cardiology"
+      ]
+    },
+    {
+      "pmid": "41927004",
+      "title": "Successful long-term patent ductus arteriosus closure in dogs can be achieved with the use of nonabsorbable or absorbable monofilament synthetic sutures.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Schlake A, Mampaey G, Proteasa A, Smets P, de Rooster H, Van Goethem B",
+      "date": "2026 07 20",
+      "dateObject": "2026 07 20",
+      "abstract": "To describe the use of synthetic monofilament suture material for closure of left-to-right shunting patent ductus arteriosus (PDA) in dogs, and to compare long-term results between nonabsorbable and slowly absorbable synthetic monofilament suture material with a minimum follow-up of at least 5 months. In a retrospective cohort study, patient files were analyzed for dogs that had surgical ligation of left-to-right shunting PDA between February 2012 and March 2022 at the Small Animal Teaching Hospital, Ghent University. Based on the suture material used, dogs were assigned to the nonabsorbable polypropylene (NON) or slowly absorbable polydioxanone (ABS) group. Recorded data included patient demographics, echocardiographic evaluation, intraoperative parameters, postoperative echocardiographic screening, and long-term clinical examination. 43 dogs were included (23 dogs in the NON group vs 20 dogs in the ABS group). No difference was found between groups regarding age, weight, duct size, surgical time, occurrence of intraoperative hemorrhage, or residual ductal flow. Complete ligation was achieved in 41 of 43 dogs. Postoperative residual ductal flow was detected on echocardiography in 1 dog in each group and progressed from minor at day 1 to trivial or absent at last follow-up. No long-term recanalization occurred in any of the groups. Synthetic monofilament suture materials were successfully used to ligate left-to-right shunting PDA with the incidence of residual ductal flow similar to that reported for silk. No recanalization occurred with the use of resorbable suture material. PDA closure can be safely performed with the use of either polypropylene or polydioxanone suture material.",
+      "categories": [
+        "cardiology"
+      ]
+    },
+    {
+      "pmid": "41926984",
+      "title": "Surgical timing in dogs with spontaneous hemoperitoneum is not related to blood product use, incidence of adverse events, or survival to discharge.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Herron VA, Williams RW, Berger AC, Johnson M, Solari FP",
+      "date": "2026 07 20",
+      "dateObject": "2026 07 20",
+      "abstract": "To investigate differences in outcomes between dogs with spontaneous hemoperitoneum (SH) based on surgical timing and identify patient factors that may contribute to surgical timing decisions. Retrospective study of dogs undergoing surgery for spontaneous hemoperitoneum at a single institution from 2009 to 2024, excluding intraoperative euthanasias. Clinical and laboratory findings, timing of surgery and hospitalization, adverse events, and survival were recorded. Cases were grouped based on time from presentation to surgery, with emergent surgery (ES) defined as < 12 hours, subemergent surgery (SES) as 12 to 24 hours, and delayed surgery (DS) as > 24 hours. 99 cases were included, with 51 cases in the ES group and 24 in each of the SES and DS groups. Lower peripheral total solids was a predictor of ES (OR, 0.401; 95% CI, 0.219 to 0.733) or SES (OR, 0.33; 95% CI, 0.166 to 0.657) compared to DS. Dogs in the ES group were more likely to undergo splenectomy than those in the DS group (OR, 5.52; 95% CI, 1.60 to 19.1). No significant differences in blood product use or incidence of adverse events were found between groups. Survival to discharge was 93.9%, with no difference between groups. Surgical timing is not a predictor of adverse events or survival to discharge in dogs undergoing surgery for SH. Decisions regarding surgical timing in SH should be made on a case-by-case basis based on patient stability. Survival to discharge in this population was excellent regardless of surgical timing, and most adverse events encountered were minor.",
+      "categories": [
+        "cardiology"
+      ]
+    },
+    {
+      "pmid": "41880750",
+      "title": "Expanding access to cancer care: 10% fluorescein sodium is a practical, low-cost method for intraoperative sentinel lymph node mapping in dogs.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Perez-Rodriguez V, Maxwell EA, Aisa J, Bertran J",
+      "date": "2026 07 20",
+      "dateObject": "2026 07 20",
+      "abstract": "To evaluate the feasibility and safety of 10% fluorescein sodium for intraoperative sentinel lymph node (SLN) mapping in dogs with cutaneous or subcutaneous tumors. 6 client-owned dogs received ID peritumoral injections of 10% fluorescein sodium diluted 1:120 with sterile saline. Lymphatic pathways and SLNs were visualized by means of blue (450- to 495-nm) and black (345- to 400-nm) light sources. Time to fluorescence, qualitative uptake, and adverse events were recorded. Excised SLNs underwent histopathologic evaluation. Lymphatic tracts were visualized in 5 of 6 dogs (83%; 95% CI, 36% to 100%), and SLNs were identified in all dogs (100%; 95% CI, 54% to 100%). Fluorescent uptake was complete in 4 SLNs (67%; 95% CI, 22% to 96%) and partial in 2 (33%; 95% CI, 4% to 78%). Mean time to lymphatic tract fluorescence was 6.7 &#xb1; 6.7 minutes, and mean time to SLN fluorescence was 8.0 &#xb1; 6.0 minutes. No adverse events occurred. Histopathology identified metastatic mast cell disease in 4 SLNs (67%; 95% CI, 22% to 96%), classified as HN2 in 2 (33%; 95% CI, 4% to 78%) and HN3 in 2 (33%; 95% CI, 4% to 78%), while reactive changes were observed in 2 SLNs (33%; 95% CI, 4% to 78%). Of 2 second-tier nodes, 1 showed HN2 metastasis and 1 reactive changes. Based on this preliminary study, 10% fluorescein sodium is a safe, feasible, and accessible method for intraoperative SLN mapping in dogs, providing real-time visualization of lymphatic pathways and lymph nodes. This low-cost, accessible technique may facilitate adoption of SLN mapping in general veterinary practice. Further studies are warranted.",
+      "categories": [
+        "cardiology"
+      ]
+    },
+    {
+      "pmid": "41861469",
+      "title": "Pilot study: external validation of commercial veterinary radiology artificial intelligence services shows deficiencies in interpretation of general practice-sourced canine abdominal radiographs.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Ma D, Faulkner JE, Stander N, Raisis A, Joslyn S",
+      "date": "2026 07 20",
+      "dateObject": "2026 07 20",
+      "abstract": "To evaluate the diagnostic performance of commercial veterinary radiology AI platforms on general practice canine abdominal radiographs with confirmed diagnoses. For this pilot study, canine abdominal radiographs with definitive diagnoses were collected and submitted to 6 AI platforms between September and December 2024. Confirmation of diagnosis was obtained with surgery, necropsy, CT, ultrasound, cytology, or treatment response when appropriate. 53 cases were selected and submitted to AI platforms. After platform rejections, 307 evaluations were available for analysis. When differentiating cases with pathology (51 of 53) and without pathology (2 of 53), platform performance was variable and mostly low to moderate, including mean accuracy (70% to 90%), balanced accuracy (60% to 65%), and Matthews correlation coefficient (-0.08 to 0.43). Across all platforms, classification of radiographic findings (labels) showed low sensitivity (28% to 78%), F1 score (28% to 51%), and positive predictive value (25% to 54%) due to frequent missed diagnoses. Matthews correlation coefficient was higher (0.16 to 0.45), as it was less impacted by label misclassification. Small intestinal obstruction, a critical finding, was often not identified, with a sensitivity of 23% to 69%. Diagnostic performance varied between the 6 AI platforms tested and was overall low to moderate for this small sample. Even the best-performing algorithm had notable limitations, and none appeared suitable for clinical use in their current form. Further independent external validations on a larger scale and performance gains are needed before AI platforms can be safely integrated into clinical practice.",
+      "categories": [
+        "cardiology"
+      ]
+    },
+    {
+      "pmid": "41861462",
+      "title": "Comparable application metrics but poor clinical acceptability of thermoplastic and premade splints applied by novice bandagers in a canine hock cadaver model.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Rothering AA, Aertsens A, Gordon-Evans WJ",
+      "date": "2026 07 20",
+      "dateObject": "2026 07 20",
+      "abstract": "To compare the utility of premade plastic versus thermoplastic splints when applied by novice practitioners. 15 bandagers used 2 types of premade splint materials to place hock splints on cadavers. Each participant was instructed to place 2 hind limb splints on a canine cadaver using a premade plastic splint on one side and thermoplastic splint on the other side. The time to place each splint was self-recorded. Participants filled out a questionnaire after splint placement. A single surgeon judged the splints with a qualitative scoring system, which was used to determine whether splints were clinically acceptable. The mean &#xb1; SD time it took to place the splints was 9.4 &#xb1; 2.1 minutes for premade splints and 12.0 &#xb1; 2.3 minutes for thermoplastic splints. Seven participants (47%) preferred the premade splints and 8 (53%) preferred the thermoplastic splints. The premade splint was scored as superior in 10 of 15 cadavers (67%), the thermoplastic splint was scored as superior in 4 of 15 cadavers (27%), and both were equal in 1 cadaver (10%). Four of the 15 premade splints (26%) and 3 of the 15 thermoplastic splints (20%) were deemed clinically acceptable. Premade and thermoplastic splints were comparable to each other for novices, but there was a low number of clinically acceptable splints. Splint types had similar utility for use in practice, but overall splint placement skill needs improvement.",
+      "categories": [
+        "cardiology"
+      ]
+    },
+    {
+      "pmid": "41759291",
+      "title": "Plating canine urine cultures in the veterinary clinic.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Grady J, Sample K, Okumura M, Freeman N, Fellman C, Cole S",
+      "date": "2026 07 20",
+      "dateObject": "2026 07 20",
+      "abstract": "To demonstrate a technique for plating and incubating canine urine cultures in-house as a screening tool for bacteriuria. Urine samples from dogs presenting for urinary conditions. The clinic's laboratory space should comply with biosafety level 2 requirements. Urine samples should be collected via cystocentesis or sterile urinary catheter. A sterile 1-&#xb5;L inoculating loop is used to streak the urine onto both sides of a tryptic soy agar with 5% sheep's blood and MacConkey agar biplate. The plate is kept in a benchtop incubator at 35 to 37 &#xb0;C for 16 to 24 hours, then checked for growth. Positive plates may be submitted to a reference laboratory for species identification and susceptibility testing. Alternatively, following identification of in-house bacterial growth, a urine sample stored in the refrigerator for no longer than 48 hours may be submitted for culture and susceptibility (C&S) testing. In-house urine culture provides an inexpensive way to accurately rule out bacteriuria as a cause for urinary conditions in dogs. The majority (70% to 80%) of canine urine cultures yield no growth. In patients with suspected urinary tract disease, avoiding reference laboratory C&S submission for negative samples allows client resources to be directed to additional diagnostics and treatments. In-house urine culture is an inexpensive screening tool for bacteriuria, which promotes antimicrobial stewardship, responsible use of client resources, and access to veterinary care. Positive in-house culture plates may still be accurately submitted for C&S once growth is confirmed.",
+      "categories": [
+        "cardiology"
+      ]
+    }
+  ]
 }
