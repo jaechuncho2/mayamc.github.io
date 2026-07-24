@@ -137,7 +137,8 @@ async function fetchText(url) {
 const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
 
 async function fetchIdsByJournal(base) {
-  const allIds = [];
+  const idToJournal = new Map();
+
   for (const journal of JOURNALS) {
     const term = encodeURIComponent(queryForJournal(journal));
     const url =
@@ -147,10 +148,15 @@ async function fetchIdsByJournal(base) {
     const data = await fetchJson(url);
     const ids = data?.esearchresult?.idlist || [];
     console.log(`${journal}: ${ids.length}편`);
-    allIds.push(...ids);
+
+    for (const id of ids) {
+      if (!idToJournal.has(id)) idToJournal.set(id, journal);
+    }
+
     await sleep(350);
   }
-  return [...new Set(allIds)];
+
+  return idToJournal;
 }
 
 function decodeXml(value = "") {
@@ -177,12 +183,13 @@ function categoriesFor(journal) {
     .map(([category]) => category);
 }
 
-function parseArticles(xmlText) {
+function parseArticles(xmlText, idToJournal) {
   const blocks = xmlText.match(/<PubmedArticle>[\s\S]*?<\/PubmedArticle>/g) || [];
   return blocks.map(block => {
     const pmid = firstTag(block, "PMID");
     const title = firstTag(block, "ArticleTitle");
-    const journal = normalizeJournal(firstTag(block, "Title"));
+    const parsedJournal = normalizeJournal(firstTag(block, "Title"));
+    const journal = idToJournal.get(pmid) || parsedJournal;
     const abstract = [...block.matchAll(/<AbstractText[^>]*>([\s\S]*?)<\/AbstractText>/gi)]
       .map(match => decodeXml(match[1])).join(" ");
 
@@ -210,7 +217,7 @@ function parseArticles(xmlText) {
   }).filter(article =>
     article.pmid &&
     article.title &&
-    JOURNALS.includes(article.journal)
+    article.journal
   );
 }
 
@@ -263,7 +270,8 @@ async function main() {
   }
 
   const base = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils";
-  const ids = await fetchIdsByJournal(base);
+  const idToJournal = await fetchIdsByJournal(base);
+  const ids = [...idToJournal.keys()];
   if (!ids.length) throw new Error("PubMed에서 논문 PMID를 가져오지 못했습니다.");
 
   const articles = [];
@@ -272,12 +280,18 @@ async function main() {
     const xml = await fetchText(
       `${base}/efetch.fcgi?db=pubmed&retmode=xml&id=${batch.join(",")}`
     );
-    articles.push(...parseArticles(xml));
+    articles.push(...parseArticles(xml, idToJournal));
     await sleep(350);
   }
 
   const unique = [...new Map(articles.map(article => [article.pmid, article])).values()]
     .sort((a, b) => new Date(b.dateObject) - new Date(a.dateObject));
+
+  const journalCounts = unique.reduce((counts, article) => {
+    counts[article.journal] = (counts[article.journal] || 0) + 1;
+    return counts;
+  }, {});
+  console.log("최종 저장 저널별 편수:", journalCounts);
 
   await fs.writeFile(PAPERS_PATH, JSON.stringify({
     updated_at: new Date().toISOString(),
