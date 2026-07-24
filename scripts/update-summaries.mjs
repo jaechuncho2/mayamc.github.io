@@ -177,10 +177,72 @@ function normalizeJournal(raw = "") {
   return JOURNAL_ALIASES[clean] || clean;
 }
 
-function categoriesFor(journal) {
-  return Object.entries(CATEGORY_JOURNALS)
-    .filter(([, journals]) => journals.includes(journal))
-    .map(([category]) => category);
+function categoriesForArticle(title = "", abstract = "") {
+  const text = `${title} ${abstract}`.toLowerCase();
+  const categories = [];
+
+  const matches = patterns =>
+    patterns.some(pattern => pattern.test(text));
+
+  const cardiology = [
+    /cardiac/, /cardiovascular/, /cardiomyopath/, /heart/,
+    /mitral/, /tricuspid/, /aortic/, /pulmonar(?:y)? hypertension/,
+    /congestive heart failure/, /chf/, /arrhythmi/, /atrial fibrillation/,
+    /ventricular/, /pericard/, /myocard/, /endocard/,
+    /echocardiograph/, /electrocardiograph/, /ecg/, /nt-probnp/,
+    /troponin/, /pimobendan/, /sildenafil/
+  ];
+
+  const oncology = [
+    /neoplas/, /tumou?r/, /cancer/, /carcinoma/, /sarcoma/,
+    /lymphoma/, /leukemia/, /mast cell/, /melanoma/,
+    /chemotherap/, /radiotherap/, /metast/, /oncolog/,
+    /toceranib/, /vinblastine/, /doxorubicin/, /cyclophosphamide/
+  ];
+
+  const surgery = [
+    /surger/, /surgical/, /operative/, /postoperative/,
+    /preoperative/, /laparoscop/, /thoracoscop/, /arthroscop/,
+    /osteotom/, /fracture/, /orthop/, /ligament/, /implant/,
+    /fixation/, /anastomos/, /resection/, /amputation/,
+    /spay/, /ovariohysterectom/, /castration/, /transplant/
+  ];
+
+  const neurology = [
+    /neurolog/, /brain/, /spinal/, /seizure/, /epilep/,
+    /meningo/, /encephal/, /myelopath/, /neuropath/, /paresis/,
+    /paralysis/, /ataxia/, /vestibular/, /intervertebral disc/,
+    /ivdd/, /cerebell/, /cognitive dysfunction/, /syncope/
+  ];
+
+  const dermatology = [
+    /dermat/, /skin/, /cutaneous/, /alopecia/, /pruritus/,
+    /otitis/, /atopic/, /pyoderma/, /demod/, /malassezia/,
+    /dermatophyt/, /pododerm/, /urticaria/, /pemphigus/,
+    /seborrhea/, /wound/, /coat/
+  ];
+
+  const internalMedicine = [
+    /gastro/, /enteropath/, /intestinal/, /diarrhea/, /vomit/,
+    /pancrea/, /hepat/, /liver/, /biliary/, /gallbladder/,
+    /renal/, /kidney/, /nephro/, /urinary/, /urolith/,
+    /diabetes/, /endocrin/, /adrenal/, /thyroid/,
+    /anemia/, /thrombocyt/, /coagulat/, /hematolog/,
+    /infect/, /sepsis/, /viral/, /bacterial/, /fungal/,
+    /immune-mediated/, /autoimmune/, /respiratory/, /pneumon/,
+    /bronch/, /asthma/, /pleural/, /critical care/,
+    /toxic/, /poison/, /electrolyte/, /protein-losing/,
+    /feline infectious peritonitis/, /fip/, /parvovirus/
+  ];
+
+  if (matches(cardiology)) categories.push("cardiology");
+  if (matches(internalMedicine)) categories.push("internalMedicine");
+  if (matches(oncology)) categories.push("oncology");
+  if (matches(surgery)) categories.push("surgery");
+  if (matches(neurology)) categories.push("neurology");
+  if (matches(dermatology)) categories.push("dermatology");
+
+  return [...new Set(categories)];
 }
 
 function parseArticles(xmlText, idToJournal) {
@@ -212,7 +274,7 @@ function parseArticles(xmlText, idToJournal) {
       pmid, title, journal, authors, date,
       dateObject: date || "1970-01-01",
       abstract,
-      categories: categoriesFor(journal)
+      categories: categoriesForArticle(title, abstract)
     };
   }).filter(article =>
     article.pmid &&
@@ -292,6 +354,17 @@ async function main() {
     return counts;
   }, {});
   console.log("최종 저장 저널별 편수:", journalCounts);
+
+  const categoryCounts = unique.reduce((counts, article) => {
+    for (const category of article.categories) {
+      counts[category] = (counts[category] || 0) + 1;
+    }
+    if (!article.categories.length) {
+      counts.uncategorized = (counts.uncategorized || 0) + 1;
+    }
+    return counts;
+  }, {});
+  console.log("최종 주제별 편수:", categoryCounts);
 
   await fs.writeFile(PAPERS_PATH, JSON.stringify({
     updated_at: new Date().toISOString(),
