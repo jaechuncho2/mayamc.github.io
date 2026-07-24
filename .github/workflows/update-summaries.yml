@@ -1,0 +1,61 @@
+name: Update Korean paper summaries
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "20 21 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-korean-summaries
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Generate paper data and Korean summaries
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
+          DAYS_BACK: "365"
+          MAX_NEW_SUMMARIES: "30"
+          RESULTS_PER_JOURNAL: "20"
+        run: npm run update-summaries
+
+      - name: Commit updated data
+        run: |
+          if git diff --quiet -- data/papers.json data/korean-summaries.json; then
+            echo "No data changes."
+            exit 0
+          fi
+
+          git config user.name "MayAMC Research Bot"
+          git config user.email "actions@users.noreply.github.com"
+
+          cp data/papers.json /tmp/papers.json
+          cp data/korean-summaries.json /tmp/korean-summaries.json
+
+          git fetch origin main
+          git reset --hard origin/main
+
+          mkdir -p data
+          cp /tmp/papers.json data/papers.json
+          cp /tmp/korean-summaries.json data/korean-summaries.json
+
+          git add data/papers.json data/korean-summaries.json
+          git commit -m "Update veterinary paper data"
+          git push origin main
