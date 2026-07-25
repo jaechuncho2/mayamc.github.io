@@ -1,6 +1,18 @@
 {
-  "updated_at": "2026-07-24T15:15:51.893Z",
+  "updated_at": "2026-07-25T06:07:28.285Z",
   "papers": [
+    {
+      "pmid": "42496166",
+      "title": "Correction to: Optic neuritis and meningoencephalitis associated with an ovarian teratoma in a dog.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "",
+      "date": "2026 07 24",
+      "dateObject": "2026 07 24",
+      "abstract": "",
+      "categories": [
+        "neurology"
+      ]
+    },
     {
       "pmid": "42494954",
       "title": "Exosome ice-needling for chronic wounds in dogs: a case series.",
@@ -12,6 +24,33 @@
       "categories": [
         "surgery",
         "dermatology"
+      ]
+    },
+    {
+      "pmid": "42496949",
+      "title": "Swimmer puppy syndrome, pectus excavatum, and cardiac dextroposition in two American Akitas: management and successful long-term outcome.",
+      "journal": "Veterinary Research Communications",
+      "authors": "Talavera-L&#xf3;pez J, Hern&#xe1;ndez-Rubio E, Soler M",
+      "date": "2026 07 24",
+      "dateObject": "2026 07 24",
+      "abstract": "Swimmer puppy syndrome (SPS), also known as splay leg, splay weak, or myofibrillar hypoplasia, is an uncommon condition with poorly understood pathogenesis. It affects neonates and is characterized by sternal flattening, limb abduction, and an inability to stand or ambulate properly. This report describes two American Akita littermates diagnosed with SPS. The condition was associated with pectus excavatum and cardiac dextroposition, identified through clinical examination and thoracic imaging. Both puppies presented with persistent sternal recumbency, respiratory distress, and restricted mobility during the first weeks of life. Radiographic evaluation revealed thoracic flattening, rightward cardiac displacement, and mild pectus excavatum. A therapeutic protocol including intensive physiotherapy, active positioning, and a custom-made external thoracic splint was implemented. Marked improvement in locomotion and thoracic conformation was observed within 30 days. Long-term follow-up (two years in one case) demonstrated a successful functional outcome despite persistent, mild, rightward cardiac displacement. These observations highlight the importance of early recognition and conservative management of SPS and associated thoracic deformities.",
+      "categories": [
+        "cardiology",
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42496742",
+      "title": "First report of Angiostrongylus vasorum parasitizing lesser grison (Galictis cuja) (Mustelidae) in Brazil.",
+      "journal": "Veterinary Research Communications",
+      "authors": "Lignon JS, Souza MP, B&#xfc;ttenbender N, Rezende PA, Fran&#xe7;a RT, Martins KR, Cunha RC, Pappen FG, Pinto DM",
+      "date": "2026 07 24",
+      "dateObject": "2026 07 24",
+      "abstract": "Angiostrongylus vasorum is a metastrongylid nematode that parasitizes the pulmonary arteries and right heart of canids, being the etiological agent of canine angiostrongylosis, a disease of growing veterinary concern due to its expanding geographic distribution and the involvement of domestic and wild hosts. In Brazil, the parasite has been reported mainly in domestic dogs and some wild canids, and its occurrence in mustelids has been documented only once previously. This study reports the first occurrence of A. vasorum infecting a lesser grison (Galictis cuja) in Brazil. The mustelid was found after being accidentally run over by a vehicle on a highway in the south of the country. Clinical, physical, and complementary examinations were performed for clinical screening. In the parasitological examination of feces, nematode larvae were recovered and identified morphometrically and molecularly through conventional PCR targeting to the COX1 gene, followed by sequencing and phylogenetic analysis. The results confirmed the presence of A. vasorum, showing 99-100% identity with sequences of the same species deposited in GenBank. Therefore, we document here the first report of A. vasorum parasitizing G. cuja. Thus, the number of known host species parasitized by this helminth is expanded. Furthermore, we provide a new molecular sequence, contributing to the knowledge of this nematode in South America.",
+      "categories": [
+        "cardiology",
+        "internalMedicine",
+        "oncology"
       ]
     },
     {
@@ -2224,18 +2263,6 @@
       ]
     },
     {
-      "pmid": "42348907",
-      "title": "Care-pathway decision support improves non-specialist vet clinical decision making in dogs with myelopathy.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Fox K, Alves L, Harris G, Monforte Monteiro S, Restif O, Vanhaesebrouck A, Freeman P",
-      "date": "2026 06 26",
-      "dateObject": "2026 06 26",
-      "abstract": "Non-specialist vets are often required to make decisions in the absence of specialist knowledge and support. Care pathways (CPs) use knowledge engineering to convert expert knowledge into a computer-interpretable format, delivered to clinicians at the point-of-care via patient-specific clinical decision recommendations. Non-specialist vets make diagnostic and management decisions that are more consistent with specialists when they have access to CP decision support. Clinical information from 8 historical cases of dogs with myelopathy presenting to a university referral hospital with para/tetra-paresis/plegia were used for the study. A CP was developed to prioritize differential diagnoses and provide management recommendations for cases of dogs with myelopathy resulting in para/tetra-paresis/plegia. A crossover study was then performed comparing answers 45 non-specialist vets and 17 final-year vet students gave to case-based questions for 8 clinical cases, with and without the use of the CP. Each participant answered half the questions without any decision support (CP-) and half the questions with CP decision support (CP+), with the question order randomized each time. Participant answers were then scored against a pre-agreed expert consensus, represented by the full score of 100 points. Mean scores were improved by 40.4 points (95% CI [36.4, 44.4]), P&#xa0;<&#xa0;.05) for differential diagnosis listing and prioritization and 7.1 points (95% CI [2.3, 11.6]), P&#xa0;<&#xa0;.05) for management decisions when using the CP. CP clinical decision support could be a useful adjunctive tool for non-specialist vets, particularly in supporting their ability to produce prioritized differential diagnoses.",
-      "categories": [
-        "neurology"
-      ]
-    },
-    {
       "pmid": "42360656",
       "title": "Effects of tryptophan combined with Limosilactobacillus reuteri M6 on the growth performance and intestinal barrier function of heat-stressed broilers.",
       "journal": "Veterinary Research Communications",
@@ -2546,19 +2573,6 @@
       ]
     },
     {
-      "pmid": "42348039",
-      "title": "Sedative and anesthetic-sparing effects of perioperative full-spectrum cannabis oil in female dogs undergoing unilateral mastectomy and ovariohysterectomy.",
-      "journal": "Veterinary Research Communications",
-      "authors": "Lima AGB, Barbosa VF, Regadas R, de Ara&#xfa;jo Barreto CO, Rodrigues GM, Rocha MAN, Dos Reis HA, de Carvalho VMP, Silva LP, Barrouin-Melo SM, Estrela-Lima A",
-      "date": "2026 06 25",
-      "dateObject": "2026 06 25",
-      "abstract": "The anesthetic management of female dogs with mammary neoplasia, usually classified as ASA II and undergoing invasive procedures such as mastectomy and ovariohysterectomy, requires effective sedation and anesthetic stability due to the increased anesthetic risk associated with advanced age and underlying disease. In this context, this study aimed to evaluate the sedative effects and reduction in anesthetic requirements of a full-spectrum cannabis oil (FSCO) containing cannabidiol (CBD) and tetrahydrocannabinol (THC) in female dogs undergoing mastectomy and ovariohysterectomy. Twenty dogs were randomly assigned to two groups: group A (n&#x2009;=&#x2009;10), treated with FSCO (0.02 mL/kg PO; 0.2&#xa0;mg/kg CBD and 0.12&#xa0;mg/kg THC) twice daily for seven days, plus 0.2 mL/kg (2&#xa0;mg/kg CBD; 1.2&#xa0;mg/kg THC) one hour before premedication; and group B (n&#x2009;=&#x2009;10), treated with placebo. Groups A and B had similar ages (9.6; 10.2 years) and weights (7.4; 6.8&#xa0;kg). Anesthesia was induced with propofol and maintained with sevoflurane. Outcomes included sedation scores, anesthetic requirements, rescue analgesia, responses to instrumentation, and adverse effects. The treated group required less propofol (2.33 vs. 5.98&#xa0;mg/kg; p&#x2009;=&#x2009;0.001) and lower sevoflurane concentrations from T0 to T4 (p&#x2009;<&#x2009;0.05). Sedation scores were higher at 40 and 60&#xa0;min (median of 4 vs. 0, and 6.5 vs. 0.5; p&#x2009;=&#x2009;0.015 and p&#x2009;=&#x2009;0.002, respectively). Fewer treated dogs required rescue analgesia (3/10 vs. 6/10; p&#x2009;=&#x2009;0.178). No differences were observed in catheterization, intubation, or adverse effects. Preoperative CBD/THC oil produced sedative effects and reduced anesthetic requirements without clinical complications. These findings support the potential of cannabinoids as safe adjuvants in multimodal anesthesia in veterinary medicine.",
-      "categories": [
-        "oncology",
-        "surgery"
-      ]
-    },
-    {
       "pmid": "42343995",
       "title": "Lameness caused by intramuscular osteochondroma in semimembranosus muscle in a male cat.",
       "journal": "JFMS Open Reports",
@@ -2695,19 +2709,6 @@
       "categories": [
         "internalMedicine",
         "surgery"
-      ]
-    },
-    {
-      "pmid": "42329486",
-      "title": "A newly developed multiplex RT-PCR enables detection of blood-associated viral nucleic acids in cats.",
-      "journal": "Veterinary Research Communications",
-      "authors": "Putri MND, Punyathi P, Chimnakboon N, Wardhani SW, Zahro AN, Lohavicharn P, Piewbang C, Techangamsuwan S",
-      "date": "2026 06 22",
-      "dateObject": "2026 06 22",
-      "abstract": "Feline immunodeficiency virus (FIV), feline leukemia virus (FeLV), domestic cat hepadnavirus (DCHBV), felis catus gammaherpesvirus 1 (FcaGHV1), and severe fever with thrombocytopenia syndrome virus (SFTSV) are significant blood-associated pathogens impacting feline health. Because these viruses often co-circulate, rapid and simultaneous detection is essential for effective diagnosis and surveillance. A multiplex reverse transcription polymerase chain reaction (RT-PCR) assay was developed for simultaneous detection of viral and proviral nucleic acids associated with feline blood-borne viruses. Initial analytical evaluation using spike and non-spike controls established limits of detection ranging from 1.6 copies/&#xb5;l (FeLV) to 900 copies/&#xb5;l (FcaGHV1 and SFTSV). No cross-reactivity with other common feline viruses was observed during analytical specificity testing. When evaluated relative to corresponding singleplex RT-PCR assays (n&#x2009;=&#x2009;126), the assay demonstrated 100% negative percent agreement and 91.9% positive percent agreement relative to corresponding singleplex RT-PCR assays, with diagnostic agreement (&#x3ba;&#x2009;=&#x2009;0.878). Following validation, the multiplex assay was applied to 442 clinical samples (401 blood and 41 spleen samples), identifying single detections in 17.2%, and codetections in 4.3% of cases. FeLV and FIV were most prevalent, while no SFTSV was detected; furthermore, FcaGHV1-positive samples underwent additional genetic characterization. Retroviral presence significantly correlated with clinically ill, male cats older than three years. Overall, the assay demonstrated reliable multiplex detection and may serve as a useful screening tool for feline viral surveillance and clinical evaluation, although negative results should be interpreted cautiously for low-copy targets.",
-      "categories": [
-        "internalMedicine",
-        "oncology"
       ]
     },
     {
