@@ -1,6 +1,87 @@
 {
-  "updated_at": "2026-07-26T07:19:36.041Z",
+  "updated_at": "2026-07-27T10:52:43.594Z",
   "papers": [
+    {
+      "pmid": "42504294",
+      "title": "Suspected chronic eosinophilic leukemia in a cat treated with toceranib.",
+      "journal": "JFMS Open Reports",
+      "authors": "Mastrangelo C, Siegel A, Carruth A, Leibman N",
+      "date": "2026 07 27",
+      "dateObject": "2026 07 27",
+      "abstract": "A 16-year-old, spayed female domestic shorthair cat was referred to the Schwarzman Animal Medical Center for evaluation of chronic, progressive eosinophilia accompanied by vomiting and weight loss despite normal appetite. Blood smear evaluation revealed immature eosinophils with dysplastic features and occasional giant forms. Abdominal ultrasound identified small-intestinal thickening, a hepatopathy and splenomegaly. Screening for feline leukemia virus, feline immunodeficiency virus and heartworm infection were negative. Chronic eosinophilic leukemia was suspected, although hypereosinophilic syndrome could not be ruled out. At the time of referral, the cat was receiving prednisolone and chlorambucil for suspected small cell gastrointestinal lymphoma, but showed persistent clinical signs and progressive eosinophilia. Chlorambucil was discontinued and toceranib was initiated alongside prednisolone. No adverse effects attributable to toceranib were observed. A partial response, defined as resolution of clinical signs and a 30% reduction in circulating eosinophils, was observed on day 39. A subsequent progression-free survival interval of 4 weeks was achieved. Progressive disease developed on day 75, and given declining quality of life, euthanasia was thereby elected on day 89. This case report is the first to describe the use of toceranib to treat suspected chronic eosinophilic leukemia, a rare and poorly documented disease process in cats. This novel therapeutic approach is the first publication of a partial response and stable disease in the treatment of suspected chronic eosinophilic leukemia in a cat. Suspected Chronic Eosinophilic Leukemia in a Cat Treated with Toceranib A 16-year-old spayed female cat was referred for chronic progressive vomiting, weight loss, and high eosinophil counts. Bloodwork showed abnormal and immature eosinophils, suggesting chronic eosinophilic leukemia. Ultrasound revealed thickened intestines, along with changes in the liver and spleen. Common infectious causes were ruled out. Chronic eosinophilic leukemia was suspected, although hypereosinophilic syndrome could not be excluded. The cat had previously been treated with prednisolone and chlorambucil for suspected intestinal small cell lymphoma, but showed no improvement. Chlorambucil was stopped, and treatment with toceranib was started alongside prednisolone. The medication was well tolerated. After four weeks, the cat showed a partial response, with improvement in clinical signs and a decrease in eosinophil levels. This response lasted for about one month. By week nine, the disease progressed again. Due to declining quality of life, the cat was euthanized at week ten. This is the first reported case of using this specific drug (toceranib) to treat suspected chronic eosinophilic leukemia in a cat. This is the first publication to document a partial response to treatment and a progression free survival interval in a cat with suspected chronic eosinophilic leukemia.",
+      "categories": [
+        "internalMedicine",
+        "oncology"
+      ]
+    },
+    {
+      "pmid": "42504124",
+      "title": "Exploring Normal to Abnormal Variations of Grooming Behaviours in Cats.",
+      "journal": "Veterinary Dermatology",
+      "authors": "Guillon M, Naudin L, Cochet-Faivre N, Titeux E, Gilbert C",
+      "date": "2026 07 27",
+      "dateObject": "2026 07 27",
+      "abstract": "Grooming is a maintenance behaviour accounting for 4% of a cat's activity budget. It consists of several short bouts, and is modified by pruritus and some psychogenic diseases in cats. This study aimed to describe cats' grooming behaviour, investigating normal variations in relation to hair length and grooming modifications in cats with psychogenic alopecia (fPA). We analysed 118 videos of 29 healthy cats and seven fPA shorthair cats. We studied five activities for nine body parts performed by cats during grooming, the duration and number of grooming bouts, according to hair length and health status. Major individual variations occurred between cats, with no differences regarding mean grooming bout duration according to hair length or health status. Most (95%) grooming bouts consisted in grooming two to seven body parts. Number of parts groomed by fPA cats was significantly lower than healthy shorthair cats; no differences were noted between healthy cats with different hair length. Hairless cats chewed their skin longer than other cats. fPA cats chewed their skin 10 times longer than healthy shorthair cats (p&#x2009;<&#x2009;0.001). Licking and rubbing were shorter bouts (p&#x2009;=&#x2009;0.021). Time spent grooming each zone did not differ with hair length. fPA cats groomed their internal hind limbs significantly longer (p&#x2009;=&#x2009;0.016) and their neck shorter (p&#x2009;=&#x2009;0.003) than healthy shorthair cats. This study allows a better understanding of cats' grooming behaviour, helping to identify abnormal grooming behaviours, and supports classification of psychogenic alopecia as an abnormal repetitive behaviour.",
+      "categories": [
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42496166",
+      "title": "Correction to: Optic neuritis and meningoencephalitis associated with an ovarian teratoma in a dog.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "",
+      "date": "2026 07 26",
+      "dateObject": "2026 07 26",
+      "abstract": "",
+      "categories": [
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "42410596",
+      "title": "Correction: Descriptive comparative morphology of the eye and ocular adnexa in Felidae: observations from a clouded leopard (Neofelis nebulosa), African lion (Panthera leo), and Pallas's cat (Otocolobus manul).",
+      "journal": "BMC Veterinary Research",
+      "authors": "Kle&#x107;kowska-Nawrot J, Badenhorst S, Borawski W, Go&#x17a;dziewska-Har&#x142;ajczuk K, Akta&#x15f; A, Chr&#xf3;szcz A",
+      "date": "2026 07 26",
+      "dateObject": "2026 07 26",
+      "abstract": "",
+      "categories": []
+    },
+    {
+      "pmid": "42365334",
+      "title": "Correction: Feasibility and usefulness of inhospital and at-home salivary sampling in healthy dogs and trilostane-treated dogs with Cushing's syndrome: a prospective observational study.",
+      "journal": "BMC Veterinary Research",
+      "authors": "Meunier SM, Voegel CD, Neubert E, Harburger LA, Riond B, Hofmann-Lehmann R, Boretti FS, Sieber-Ruckstuhl NS",
+      "date": "2026 07 26",
+      "dateObject": "2026 07 26",
+      "abstract": "",
+      "categories": []
+    },
+    {
+      "pmid": "42360392",
+      "title": "Correction: Intraoperative gastroesophageal reflux in dogs undergoing mastectomy under opioid-based protocols: a preliminary endoscopic study.",
+      "journal": "Veterinary Research Communications",
+      "authors": "Dos Santos Ribas P, Gurgel HJ, Dos Santos GMA, da Silva VS, de Oliveira Monteiro FD, Domingues SFS, Thiesen RMC, Thiesen R, Teixeira PPM",
+      "date": "2026 07 26",
+      "dateObject": "2026 07 26",
+      "abstract": "",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42461253",
+      "title": "Safety and Feasibility of Infusing Ex&#xa0;Vivo Expanded Allogeneic Canine Natural Killer Cells for the Treatment of Metastatic Solid Tumours.",
+      "journal": "Veterinary and Comparative Oncology",
+      "authors": "Weisnicht AM, Szewc F, Cho MM, Cheng HH, Ganesh S, Mahoney L, Fox K, Smith PR, Olsen M, Richards RM, Vail DM, Capitini CM",
+      "date": "2026 07 26",
+      "dateObject": "2026 07 26",
+      "abstract": "Companion canines need advances in therapeutic options for solid tumour malignancies. Natural killer (NK) cell infusions offer a promising treatment modality in canines with solid tumours. Autologous natural killer products are limited by dysfunctional immunity and a manufacturing process that delays care whereas allogeneic NK cells offer the possibility of 'off-the-shelf' therapy to be administered from healthy donors. Peripheral blood mononuclear cells (PBMCs) were isolated from healthy canine donors via density gradient separation. NK cells were expanded with recombinant human IL-2 and canine IL-21 with the addition of K562 feeder cells transfected with CD137 ligand and membrane bound human IL-15. Additional experiments included IL-12 during expansion. In&#xa0;vitro potency was assessed via co-culture with the D17-mKate2 canine osteosarcoma cell line. Three canines were enrolled in a phase 1 trial infusing ex&#xa0;vivo expanded allogeneic NK cells after lymphodepletion. Flow cytometric analysis confirmed successful expansion of canine NK cells with up to 50% of cells demonstrating NKp46+ after 14&#x2009;days. Residual T cell numbers varied based on donor. The addition of IL-12 led to increased NK cell expansion. Incucyte demonstrated potency with increasing osteosarcoma cell death at higher effector to target ratios. Three canines with metastatic/refractory solid tumours were successfully lymphodepleted and infused with allogeneic NK cell products. The canines tolerated the infusions well. Canine allogeneic NK cells were successfully expanded and activated ex&#xa0;vivo, demonstrated potency in&#xa0;vitro and safety in&#xa0;vivo. Further studies will optimise the NK cell product and escalate dosing to reach the maximal tolerable dose.",
+      "categories": [
+        "oncology"
+      ]
+    },
     {
       "pmid": "42501363",
       "title": "Clinical, magnetic resonance imaging, and neuropathological features of suspected inborn methylmalonic aciduria in a domestic shorthair kitten.",
@@ -111,18 +192,6 @@
       "categories": [
         "internalMedicine",
         "surgery"
-      ]
-    },
-    {
-      "pmid": "42496166",
-      "title": "Correction to: Optic neuritis and meningoencephalitis associated with an ovarian teratoma in a dog.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "",
-      "date": "2026 07 24",
-      "dateObject": "2026 07 24",
-      "abstract": "",
-      "categories": [
-        "neurology"
       ]
     },
     {
@@ -1034,18 +1103,6 @@
       ]
     },
     {
-      "pmid": "42360392",
-      "title": "Correction: Intraoperative gastroesophageal reflux in dogs undergoing mastectomy under opioid-based protocols: a preliminary endoscopic study.",
-      "journal": "Veterinary Research Communications",
-      "authors": "Dos Santos Ribas P, Gurgel HJ, Dos Santos GMA, da Silva VS, de Oliveira Monteiro FD, Domingues SFS, Thiesen RMC, Thiesen R, Teixeira PPM",
-      "date": "2026 07 16",
-      "dateObject": "2026 07 16",
-      "abstract": "",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
       "pmid": "42082101",
       "title": "Cardiac involvement in European canine babesiosis - a pathological perspective.",
       "journal": "Topics in Companion Animal Medicine",
@@ -1067,31 +1124,6 @@
       "abstract": "A 1-year-old, male neutered Persian cat presented to the emergency room with acute, severe wheezing and coughing after the introduction of a new kitten to the household. The patient progressed to hypoxemic respiratory failure consistent with acute respiratory distress syndrome (ARDS) and required mechanical ventilation. RT-PCR testing from a conjunctival and deep pharyngeal swab confirmed feline calicivirus infection. Because of refractory hypoxemia and declining lung compliance (2.4&#x2009;ml/cmH 2 O), novel therapy with intratracheal porcine surfactant (Curosurf) was attempted. A dose of 1.5&#x2009;ml/kg was administered over 60&#x2009;s. After administration, pulmonary compliance improved to 3.1&#x2009;ml/cmH 2 O. The patient was weaned from the ventilator on day 10; however, severe laryngeal swelling necessitated a temporary tracheostomy. The patient died on day 15 from tracheal stenosis and obstruction of the stoma site by granulation tissue. To the authors' knowledge, this is the first report describing the development of ARDS from calicivirus pneumonia and the use of porcine surfactant in the treatment of ARDS in a cat. The administration of surfactant resulted in objective improvements in lung compliance.",
       "categories": [
         "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42461253",
-      "title": "Safety and Feasibility of Infusing Ex&#xa0;Vivo Expanded Allogeneic Canine Natural Killer Cells for the Treatment of Metastatic Solid Tumours.",
-      "journal": "Veterinary and Comparative Oncology",
-      "authors": "Weisnicht AM, Szewc F, Cho MM, Cheng HH, Ganesh S, Mahoney L, Fox K, Smith PR, Olsen M, Richards RM, Vail DM, Capitini CM",
-      "date": "2026 07 16",
-      "dateObject": "2026 07 16",
-      "abstract": "Companion canines need advances in therapeutic options for solid tumour malignancies. Natural killer (NK) cell infusions offer a promising treatment modality in canines with solid tumours. Autologous natural killer products are limited by dysfunctional immunity and a manufacturing process that delays care whereas allogeneic NK cells offer the possibility of 'off-the-shelf' therapy to be administered from healthy donors. Peripheral blood mononuclear cells (PBMCs) were isolated from healthy canine donors via density gradient separation. NK cells were expanded with recombinant human IL-2 and canine IL-21 with the addition of K562 feeder cells transfected with CD137 ligand and membrane bound human IL-15. Additional experiments included IL-12 during expansion. In&#xa0;vitro potency was assessed via co-culture with the D17-mKate2 canine osteosarcoma cell line. Three canines were enrolled in a phase 1 trial infusing ex&#xa0;vivo expanded allogeneic NK cells after lymphodepletion. Flow cytometric analysis confirmed successful expansion of canine NK cells with up to 50% of cells demonstrating NKp46+ after 14&#x2009;days. Residual T cell numbers varied based on donor. The addition of IL-12 led to increased NK cell expansion. Incucyte demonstrated potency with increasing osteosarcoma cell death at higher effector to target ratios. Three canines with metastatic/refractory solid tumours were successfully lymphodepleted and infused with allogeneic NK cell products. The canines tolerated the infusions well. Canine allogeneic NK cells were successfully expanded and activated ex&#xa0;vivo, demonstrated potency in&#xa0;vitro and safety in&#xa0;vivo. Further studies will optimise the NK cell product and escalate dosing to reach the maximal tolerable dose.",
-      "categories": [
-        "oncology"
-      ]
-    },
-    {
-      "pmid": "42286999",
-      "title": "Faecal Microbiota Transplantation Reduces Lesion Severity and Medication Use in Canine Atopic Dermatitis: A Randomised, Placebo-Controlled, Double-Blinded Clinical Trial.",
-      "journal": "Veterinary Dermatology",
-      "authors": "Felten V, West EA, Martini F, Favrot C, Unterer S, Suchodolski J, Scharl M, Renz H, Fischer NM, Rostaher A",
-      "date": "2026 07 16",
-      "dateObject": "2026 07 16",
-      "abstract": "Faecal microbiota transplantation (FMT) is an established therapy for gastrointestinal disease, yet its role in canine atopic dermatitis (cAD) remains unclear. We hypothesised that adjunctive FMT improves clinical severity and reduces symptomatic medication use in dogs with cAD. The objective was to evaluate efficacy and safety versus placebo. Forty-six client-owned dogs with naturally occurring cAD were enrolled from a referral hospital population; 40 completed the study (FMT n&#x2009;=&#x2009;20, placebo n&#x2009;=&#x2009;20). Prospective, randomised, placebo-controlled, double-blinded clinical trial. Dogs received daily oral lyophilised FMT capsules for 90&#x2009;days plus three monthly rectal FMT administrations (Day [D]0, D30, D60) or placebo capsules with sham handling. Concomitant symptomatic therapies were permitted. Outcomes included Canine Atopic Dermatitis Extent and Severity Index, fourth iteration (CADESI-04), pruritus Visual Analog Scale (PVAS), Medication Score (D0-90) and Owner Global Assessment of Treatment Efficacy (OGATE, D90). CADESI-04 scores were lower with FMT at month (M) 2 (7&#x2009;&#xb1;&#x2009;6 vs. 16&#x2009;&#xb1;&#x2009;12; p&#x2009;=&#x2009;0.006) and month 3 (8&#x2009;&#xb1;&#x2009;6 vs. 15&#x2009;&#xb1;&#x2009;12; p&#x2009;=&#x2009;0.020). Sustained responders (&#x2265;&#x2009;50% CADESI-04 improvement at M2 and M3) were more frequent with FMT (35% vs. 5%; p&#x2009;=&#x2009;0.044). In the FMT group, the medication scores were lower at M2 (16&#x2009;&#xb1;&#x2009;10 vs. 23&#x2009;&#xb1;&#x2009;11; p&#x2009;=&#x2009;0.033) and M3 (13&#x2009;&#xb1;&#x2009;10 vs. 24&#x2009;&#xb1;&#x2009;15; p&#x2009;=&#x2009;0.007) compared to placebo. PVAS decreased in both groups without between-group differences. OGATE favoured FMT (p&#x2009;=&#x2009;0.028). FMT was well tolerated. Adjunctive FMT reduced lesion severity and medication requirements, supporting its use as a safe microbiome-based add-on therapy in cAD.",
-      "categories": [
-        "internalMedicine",
-        "dermatology"
       ]
     },
     {
@@ -1864,16 +1896,6 @@
       ]
     },
     {
-      "pmid": "42410596",
-      "title": "Correction: Descriptive comparative morphology of the eye and ocular adnexa in Felidae: observations from a clouded leopard (Neofelis nebulosa), African lion (Panthera leo), and Pallas's cat (Otocolobus manul).",
-      "journal": "BMC Veterinary Research",
-      "authors": "Kle&#x107;kowska-Nawrot J, Badenhorst S, Borawski W, Go&#x17a;dziewska-Har&#x142;ajczuk K, Akta&#x15f; A, Chr&#xf3;szcz A",
-      "date": "2026 07 07",
-      "dateObject": "2026 07 07",
-      "abstract": "",
-      "categories": []
-    },
-    {
       "pmid": "42412287",
       "title": "Molecular characterization of Cytauxzoon brasiliensis in domestic cats (Felis catus) from Rio de Janeiro state, Brazil: hematological findings.",
       "journal": "Veterinary Research Communications",
@@ -2338,16 +2360,6 @@
       "categories": [
         "internalMedicine"
       ]
-    },
-    {
-      "pmid": "42365334",
-      "title": "Correction: Feasibility and usefulness of inhospital and at-home salivary sampling in healthy dogs and trilostane-treated dogs with Cushing's syndrome: a prospective observational study.",
-      "journal": "BMC Veterinary Research",
-      "authors": "Meunier SM, Voegel CD, Neubert E, Harburger LA, Riond B, Hofmann-Lehmann R, Boretti FS, Sieber-Ruckstuhl NS",
-      "date": "2026 06 27",
-      "dateObject": "2026 06 27",
-      "abstract": "",
-      "categories": []
     },
     {
       "pmid": "42363651",
@@ -2886,21 +2898,6 @@
       "categories": [
         "internalMedicine",
         "neurology"
-      ]
-    },
-    {
-      "pmid": "42312125",
-      "title": "First molecular detection of Leishmania infantum in a domestic cat from Costa Rica.",
-      "journal": "JFMS Open Reports",
-      "authors": "S&#xe1;nchez-Berm&#xfa;dez JF, Pacheco E, Garc&#xed;a R, Ach&#xed; L, Zuniga-Moya MJ, Bonilla MC, Dolz G",
-      "date": "2026 06 18",
-      "dateObject": "2026 06 18",
-      "abstract": "&#x2003;A 4-year-old, neutered male domestic cat was presented with an indolent, non-ulcerated and painless subcutaneous nodule on the left hindlimb. Abdominal ultrasonography revealed generalized lymphadenomegaly and splenomegaly with a honeycomb pattern. The cat tested negative for feline leukemia virus and feline immunodeficiency virus. Fine-needle aspiration of the lesion showed mixed inflammatory cells, including eosinophils and macrophages containing small intracytoplasmic basophilic inclusions considered suspicious for Leishmania- like organisms. The mass was surgically excised for histopathological and molecular evaluation. Histopathology demonstrated eosinophilic granulomatous inflammation with secondary furunculosis, without unequivocal visualization of amastigotes. Quantitative RT-PCR was positive for Leishmania species, and conventional PCR targeting the ITS-1 gene, followed by sequencing, showed 99.62% identity with Leishmania infantum . No anti -Leishmania treatment was administered because the lesion was completely excised, the cat remained clinically well and specific anti- Leishmania drugs are not readily accessible in Costa Rica. At the 7-month follow-up, no recurrence of the nodule was observed. This report describes the first molecular detection of L infantum in a Costa Rican domestic cat and the first record from the country's Central Valley. The case highlights the diagnostic challenges of feline Leishmania infection and supports Leishmania infection among the differential diagnoses for feline cutaneous nodules in Central America. It also underlines the need for further studies on the epidemiological role of cats in a One Health context. First confirmed detection of Leishmania infantum in a healthy pet cat in Costa Rica Leishmaniasis is a protozoal disease transmitted by sandflies that can affect both people and animals. Dogs are the best-known domestic hosts, but cats can also become infected, often without any clinical signs. In this report, an apparently healthy pet cat from Costa Rica had a small skin lump removed. Molecular testing of the lump identified Leishmania infantum , although the parasite was not detected on histopathology. The cat remained clinically healthy after surgery and did not receive antiparasitic treatment. This case is important because it provides the first molecular evidence of L infantum in a Costa Rican domestic cat and suggests that cats without obvious clinical signs may carry this parasite. In endemic or emerging areas, veterinarians should consider Leishmania infection as a possible cause of cutaneous nodules and support surveillance from a One Health perspective.",
-      "categories": [
-        "internalMedicine",
-        "oncology",
-        "surgery",
-        "dermatology"
       ]
     },
     {
