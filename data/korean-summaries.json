@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T00:22:24.172Z",
+  "updated_at": "2026-07-29T00:25:16.045Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -431,6 +431,22 @@
       "title": "Faecal Microbiota Transplantation Reduces Lesion Severity and Medication Use in Canine Atopic Dermatitis: A Randomised, Placebo-Controlled, Double-Blinded Clinical Trial.",
       "journal": "Veterinary Dermatology",
       "generated_at": "2026-07-24T15:02:21.483Z",
+      "model": "gpt-5-mini"
+    },
+    "42319182": {
+      "brief_summary": "본 연구는 수의학, 보호소, 보조견 단체 등 개 복지 분야에서 동물복지평가그리드(Animal Welfare Assessment Grid, AWAG)를 의사결정 도구로서의 유용성을 평가했다. 온라인 혼합방법 설문에 응한 38명의 수의·동물복지 전문가 중 96% 이상이 AWAG가 의사결정에 도움된다고 응답했으며 동료 및 보호자와의 복지 논의를 촉진한다고 보고했다. 소수의 사용자는 도구 사용상의 어려움을 제기해 개선 여지가 있었고, 연구진은 AWAG가 개의 복지 평가와 치료·관리 결정에 유용한 보조 도구가 될 수 있다고 결론지었다.",
+      "detailed_summary": "연구는 개를 평가하는 현장(수의진료, 보호소, 보조견 조직 등)에서 AWAG(Animal Welfare Assessment Grid)의 기능성을 확인하기 위해 온라인 혼합방법 설문을 실시했다. 설문 대상은 AWAG를 직장 내에서 사용하는 임상가를 표적으로 했으며 총 99명 중 38명이 응답했다. 주요 평가 항목은 도구의 의사결정 지원 여부와 동료·보호자와의 논의 촉진 등 도구의 실용성에 관한 인식이었다. 응답자의 96% 이상이 AWAG가 의사결정에 유용하다고 응답했고, 응답자들은 AWAG가 복지 논의를 촉진한다고 보고했다. 다만 소수의 사용자는 도구 사용에 어려움을 겪는다고 밝혀 개선이 필요한 부분이 있음을 시사했다. 연구는 AWAG가 개의 복지 평가 및 치료·관리 결정에 있어 객관적 사고를 돕는 유용한 보조 도구가 될 수 있다고 제시한다.",
+      "title": "'Helpful', 'Objective', and 'Useful': User Perceptions of the Animal Welfare Assessment Grid (AWAG) for Dogs as a Decision-Making Tool.",
+      "journal": "Veterinary Medicine and Science",
+      "generated_at": "2026-07-29T00:25:16.041Z",
+      "model": "gpt-5-mini"
+    },
+    "42319189": {
+      "brief_summary": "본 증례는 6세 중성화된 암컷 단모종 고양이에서 난소 잔존 증후군(ORS) 상황에서 과립막세포종(GCT)이 확인된 사례를 보고한다. 복부 종괴 및 간 결절을 절제한 결과 조직검사에서 GCT와 간 전이가 확인되었고, 수술 전 채취된 혈청에서 에스트라디올(estradiol)이 현저히 상승해 있었다. 수술 후 일시적 개선이 있었으나 4주 뒤 증상 재발 및 빈혈, 병변 진행으로 환자는 수술 5주 후 사망하였으며, 저자들은 혈중 에스트라디올이 진단·추적의 보조 지표가 될 수 있음을 제시한다.",
+      "detailed_summary": "단일 증례보고로, 2주간의 체중 증가와 복부 팽만을 주소로 내원한 6세 중성화된 암컷 단모종 고양이를 대상으로 하였다. 영상검사와 세포학에서 복강을 차지하는 큰 종양이 의심되어 탐복개복술을 시행하였고 복부 종괴 및 간의 한 결절을 절제하였다. 조직검사 결과 복부 종괴는 과립막세포종(GCT)으로 확진되었고 간 결절은 전이로 확인되었다. 수술 전 채취된 혈청은 조직검사 결과 접수 후 분석되어 에스트라디올 수치가 현저히 상승해 있었다(초록에 구체적 수치 미기재). 수술 후 임상증상은 일시적으로 호전되었으나 4주 후 복부 팽만과 중증 빈혈로 재내원하였고 영상에서 간 병변 진행이 관찰되었으며 환자는 수술 5주 후 사망하였다. 저자들은 ORS는 발정 징후가 없어도 GCT와 고에스트로겐혈증을 초래할 수 있으며 혈중 에스트라디올이 진단·치료 반응 및 재발 모니터링에 보조적 지표가 될 수 있음을 제시하였으나, 본 연구는 단일 증례보고로 일반화할 수 없고 에스트라디올의 표준화된 기준 및 예후 연관성에 대한 추가 연구가 필요하다고 결론지었다.",
+      "title": "Granulosa Cell Tumour in a Spayed Cat With Ovarian Remnant Syndrome and Hyperestrogenaemia Without Estrus Signs.",
+      "journal": "Veterinary Medicine and Science",
+      "generated_at": "2026-07-29T00:24:56.012Z",
       "model": "gpt-5-mini"
     },
     "42319213": {
@@ -1823,6 +1839,230 @@
       "title": "Sarcopenia, cachexia and frailty in older cats: Mechanisms, assessment and therapeutic considerations.",
       "journal": "Journal of Feline Medicine and Surgery",
       "generated_at": "2026-07-28T00:16:04.130Z",
+      "model": "gpt-5-mini"
+    },
+    "42508457": {
+      "brief_summary": "건강한 브라키체팔릭(브라키, BRACHY) 개 22마리와 비브라키체팔릭(non-BRACHY) 개 32마리를 고도 1,535 m에 적응시킨 상태에서 동맥혈 산소분압(PaO2), 에리트로포이에틴(EPO), 헤모글로빈(Hgb) 간의 관계를 평가한 전향적 연구이다. 핵심 결과는 PaO2와 EPO 사이에는 상관관계가 없었고, 전체 및 BRACHY 집단에서 PaO2와 Hgb는 중등도 음의 상관관계를 보였다는 점이며 BRACHY 개에서 EPO 농도가 비브라키체팔릭보다 유의하게 높았다는 것이다. 임상적 의미는 브라키체팔릭 개의 만성 저산소 관련 생리적 적응 및 EPO 변화에 대해 추가 연구가 필요하다는 점이다.",
+      "detailed_summary": "연구는 2025년 1월부터 9월까지 전향적으로 모집된 건강한 성견을 대상으로 하였고, 각 개에서 정맥 혈액으로 CBC와 혈청생화학, EPO 측정을, 등족동맥(dorsal pedal artery)에서 동맥혈을 채취해 PaO2를 측정했다. 인간용 정량 EPO ELISA 키트는 recombinant canine EPO 스파이킹과 희석에 따른 직선성 시험을 포함한 18개의 편의 표본으로 검증하였고 분석 성능은 허용 가능한 것으로 평가되었다. 총 대상은 BRACHY 22마리, non-BRACHY 32마리였고 주요 평가변수는 PaO2, 혈청 EPO, Hgb였다. 분석 결과 모든 집단에서 PaO2와 EPO 간에는 상관관계가 관찰되지 않았고, 전체 및 BRACHY 집단에서 PaO2와 Hgb 사이에 중등도의 음의 상관관계가 확인되었다. BRACHY 집단의 EPO 농도는 non-BRACHY에 비해 통계적으로 유의하게 높았다. 저자들은 EPO, PaO2, Hgb 간의 관계가 여전히 불분명하므로 저압성 저산소나 브라키체팔릭 형태에 따른 만성 저산소에 대한 생리적 적응을 더 잘 규명하기 위한 추가 연구가 필요하다고 결론지었다.",
+      "title": "Serum erythropoietin concentration is higher in healthy brachycephalic dogs than nonbrachycephalic dogs acclimated to 1,535 meters altitude.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-07-29T00:24:37.389Z",
+      "model": "gpt-5-mini"
+    },
+    "42514656": {
+      "brief_summary": "온라인 설문으로 전 세계 14개국의 수의사 1,330명과 고양이 보호자 5,071명을 대상으로 고양이 예방접종 준수에 영향을 주는 요인, 장벽 및 미충족 요구를 조사했다. 보호자와 수의사는 예방접종의 가치 인식에서 차이를 보였고(보호자 16% vs 수의사 69%), 보호자·수의사 양측이 정보격차와 잘못된 정보, 고객 이해 부족을 주요 장벽으로 꼽았다. 조사 결과를 바탕으로 수의사는 교육 격차 해소와 예방접종의 역할에 대한 의사소통을 통해 고양이 예방접종 준수를 개선할 기회가 있음을 시사한다.",
+      "detailed_summary": "본 연구는 온라인 설문조사 방식으로 14개국의 수의사 1,330명과 고양이 보호자 5,071명을 대상으로 실시되었다. 주요 평가 항목은 예방접종의 가치 인식, 최근 수의사 방문 및 접종 이력, 접종 동기와 비접종 이유, 정보원, 수의사의 인식된 장벽 및 보호자의 예방접종에 대한 선호도였다. 결과는 보호자 중 71%가 지난 1년 내 수의사를 방문했고 65%가 이전에 접종을 받은 반면, 수의사는 핵심(core) 백신의 준수율을 77%로 보고한 것으로 나타났다. 예방접종의 주요 동기로 보호자는 고양이 건강 유지(62%)와 수의사 권고(57%)를, 수의사는 접종 알림(71%)을 최우선으로 보았다. 비접종의 이유로 보호자는 '건강한 고양이에는 불필요'(27%) 또는 '실내 고양이는 불필요'(27%)라고 답했으며, 수의사는 고객 이해 부족(53%), 백신 관련 잘못된 정보(51%), 반백신 태도(51%)를 주요 장벽으로 인식했다. 보호자들은 수의사를 주요 정보원(58%)으로 꼽았지만 수의사 중에서는 23%만이 예방접종의 중요성을 보호자와 논의한다고 보고했다; 보호자의 우선순위로는 부작용 최소화(88%), 다가 항원 보호(86%), 1년 이상 지속되는 효과(86%, 3년 지속 원함 74%) 등이 있었다. 초록에서는 연구의 제한점이 구체적으로 기술되어 있지 않다.",
+      "title": "Drivers, Barriers and Unmet Needs Affecting Feline Vaccination Compliance: Insights from a Global Survey of Cat Owners and Veterinarians.",
+      "journal": "Veterinary Sciences",
+      "generated_at": "2026-07-29T00:24:17.587Z",
+      "model": "gpt-5-mini"
+    },
+    "42514658": {
+      "brief_summary": "본 연구는 전십자인대(CCL) 파열 교정에서 경골고원각(TPA)이 과도한(eTPA, TPA > 40°) 경우를 대상으로 반원형 톱날을 이용한 hemicircular TPLO(hTPLO)와 기존 TPLO 및 TPLO+CCWO를 3D 프린트 골 모델로 비교했다. hTPLO는 수술 후 TPA를 유사하게 교정하면서 슬개건 부착부(PTI) 아래 분절의 회전 이동이 TPLO보다 유의하게 적었다(p < 0.01). 연구는 hTPLO가 과도한 TPA 보정의 기하학적 타당성을 보였다고 결론내렸으나, 안전성과 임상 적용을 확인하기 위해 추가적인 시신·역학·임상 연구가 필요하다고 제시했다.",
+      "detailed_summary": "연구 설계는 각각의 톱날 형상에 맞게 크기를 조정한 3D 프린트 골 모델 10개(초기 TPA 46.06 ± 4.40°, 범위 40.0–50.7°)를 이용한 비교 실험이다. 시술군은 hTPLO, 기존 TPLO(quartercircular 톱날), 그리고 TPLO에 전방 폐쇄 쐐기 절골(CCWO)을 병용한 군으로 구성되었다. 주요 평가 항목은 교정 후 TPA, 슬개건 부착부(PTI) 아래에서의 분절 회전 이동 거리, 그리고 교정 후 해부학적 축과 기계적 축의 차이였다. 교정 후 TPA는 hTPLO 4.93 ± 1.025°, TPLO 4.52 ± 0.085°, TPLO+CCWO 4.17 ± 1.128°로 세 군 모두 유사하게 교정되었다. PTI 아래 회전 이동 거리는 hTPLO 0.46 ± 2.153 mm, TPLO 8.67 ± 2.318 mm, TPLO+CCWO 1.13 ± 1.796 mm였고, hTPLO가 TPLO에 비해 유의하게 적은 이동을 보였다(p < 0.01). 해부학적 축과 기계적 축의 차이는 hTPLO 5.74 ± 2.231°, TPLO 6.43 ± 2.105°, TPLO+CCWO 5.16 ± 2.465°였으며, 연구진은 본 모델 기반 결과를 바탕으로 hTPLO의 기하학적 타당성을 보고하였으나 시편 기반·역학적·임상적 검증이 필요하다고 한정적으로 결론지었다.",
+      "title": "Hemicircular Tibial Plateau Leveling Osteotomy (hTPLO) for Dogs with Excessive Tibial Plateau Angles: A Comparative Study Using 3D Bone Models.",
+      "journal": "Veterinary Sciences",
+      "generated_at": "2026-07-29T00:23:54.686Z",
+      "model": "gpt-5-mini"
+    },
+    "42514671": {
+      "brief_summary": "본 연구는 2025년 중국 장쑤·저장 지역에서 고양이 코로나바이러스(FCoV)와 개 코로나바이러스(CCoV)의 유병률, 전파 및 진화를 평가하기 위해 보편적 RT-qPCR(실시간 역전사중합효소연쇄반응) 검사법을 확립하고 700개의 임상 시료(고양이 501, 개 199)를 검사했다. 전체 양성률은 13.14%(92/700)였고, 고양이에서 15.76%(79/501), 개에서 6.5%(13/199)의 양성률을 보였다. 서열 분석에서 10개의 완전 S 유전자와 2개의 완전 게놈을 얻었으며, 고양이 시료에서 CCoV-I 계열, 개 시료에서 FCoV-II 계열이 각각 확인되고 종간 재조합 및 종내 재조합 사건이 탐지되어 장쑤-저장 지역에서 FCoV·CCoV 간 교차전염 및 재조합이 발생했음을 처음으로 보고했다.",
+      "detailed_summary": "연구는 2025년 장쑤·저장 지역의 임상 시료 700개(고양이 501, 개 199)에 대해 보편적 FCoV/CCoV RT-qPCR 검사를 적용해 유병률을 조사했다. 검사 결과 전체 92건(13.14%)이 양성으로 확인되었고, 고양이에서 79건(15.76%), 개에서 13건(6.5%)이 양성이었다. 양성 시료 중에서 10개의 완전 S 유전자와 2개의 완전 게놈을 확보하여 조각 비교 및 계통발생학적 분석을 수행했다. 분석 결과 고양이 시료에서 CCoV-I 계열 서열 1건, 개 시료에서 FCoV-II 계열 서열 1건이 확인되었고, 재조합 분석에서는 종내(intra-species) 재조합뿐 아니라 종간(inter-species) 교차 재조합 사건도 검출되었다. 본 연구는 사이프러스에서 고병원성 FCoV-CCoV 재조합체(FCoV-23)에 의한 FIP 발생 사례를 배경으로, 장쑤-저장 지역에서 처음으로 FCoV와 CCoV 간 교차전염 및 재조합의 존재를 실증적으로 보고한 점이 주요 결과이다. 초록에는 추가적인 제한점이나 상세 임상 양상에 대한 기술은 명시되어 있지 않다.",
+      "title": "Cross-Species Transmission and Recombination Between Feline and Canine Coronaviruses in Jiangsu-Zhejiang Region in 2025.",
+      "journal": "Veterinary Sciences",
+      "generated_at": "2026-07-29T00:23:33.642Z",
+      "model": "gpt-5-mini"
+    },
+    "42514674": {
+      "brief_summary": "헝가리의 개 외이염(otitis externa)에서 분리된 Pseudomonas aeruginosa(P. aeruginosa)의 병원성 유전자 구성과 집단 구조를 규명하기 위해 연구했다. 총 110균주에 대해 최소억제농도(MIC) 검사를 수행한 뒤, 표현형으로 선별된 70균주를 장독성(롱리드) 전장유전체 서열분석으로 분석하여 바이러스(virulome)를 평가했다. 결과는 알지네이트 생성, type IV 파일리, 편모 운동성, 피오케린(pyochelin), 페나진 합성 등 넓게 보존된 병원성 유전자 골격을 보였고, Type III 분비효과제는 exoT(68/70), exoY(63/70), exoS(50/70), exoU(15/70)로 변이성이 관찰되어 임상적·역학적 감시에서 병원성 유전자와 항균제 내성의 통합적 감시 필요성을 지지한다.",
+      "detailed_summary": "연구는 헝가리에서 개 외이염 유래 P. aeruginosa 분리주를 대상으로 시행되었으며, 먼저 110균주에 대해 최소억제농도(MIC) 검사를 수행하였다. 그중 표현형으로 선별된 70균주를 장독성(롱리드) 전장유전체 서열분석에 포함시켜 바이러스 인자(virulence-associated genes)를 Virulence Factor Database(VFDB)를 이용해 80% 서열 동일도 및 80% 커버리지 기준으로 탐지했다. 분석 결과 전반적으로 알지네이트 생성 관련 유전자, type IV 파일리, 편모 관련 운동성 유전자, 피오케린, 페나진 생합성, Xcp 분비계, Type VI 분비계, 다양한 단백분해효소 유전자가 광범위하고 보존적으로 분포하는 것으로 확인되었다. Type III 분비효과제 유전자는 균주 간 변이가 있었고 검출 빈도는 exoT 68/70, exoY 63/70, exoS 50/70, exoU 15/70이었다. 다중 유전자형 분석(MLST)은 유전적 다양성을 시사했으며, 바이러스(virulome) 크기와 변형 다중 항균제 내성 지수(modified multiple antimicrobial resistance index) 사이에는 뚜렷한 상관성이 관찰되지 않았다. 결론은 개 외이염 관련 P. aeruginosa의 병원성 및 항균제 내성을 통합적으로 유전체 수준에서 감시하는 접근을 지지한다는 것이며, 초록에는 추가적인 한계점이 구체적으로 명시되어 있지 않다.",
+      "title": "Virulence-Associated Genomic Architecture of Canine Otitis Externa-Derived Pseudomonas aeruginosa Isolates from Hungary.",
+      "journal": "Veterinary Sciences",
+      "generated_at": "2026-07-29T00:23:16.639Z",
+      "model": "gpt-5-mini"
+    },
+    "42514675": {
+      "brief_summary": "이 증례보고는 만성적이고 기능 상실을 보인 양측 4급 외측 슬개골탈구(Grade IV lateral patellar luxation)를 가진 1세, 42kg 암컷 Romanian Shepherd 개에서 단일 마취로 양측 슬관절 유합술(stifle arthrodesis)을 시행한 임상 결과를 기술한다. 수술은 경골 결절 절골술, 임시 Kirschner-wire(K-wire) 고정 및 양측 3.5mm locking compression plate(LCP)를 사용하여 수행되었고, 최종 유합 각도는 각각 95°와 99°였다. 12개월에 방사선학적 골유합과 임플란트 안정성이 확인되었고, 24개월에 독립 보행이 가능하였으나 계속된 운동 기계적 이상(외향 보행(circumduction), 간헐적 바니호핑)이 관찰되어 재건 수술이 불가능한 말기 증례에서 구제적 옵션으로 고려될 수 있음을 시사한다. 일반화는 할 수 없다.",
+      "detailed_summary": "단일 증례보고로, 1세 42kg 암컷 Romanian Shepherd 개가 만성적인 후지 기능장애와 영구 양측 슬개골 탈구를 주소로 내원하였다. 정형외과 및 방사선 검사에서 심한 대퇴 외반(femoral valgus), 근위 경골 내반(proximal tibial varus), 경골 외회선(external tibial torsion), 기능적 연골홈(trochlear groove) 부재, 두드러진 후대퇴근 수축 및 심한 슬관절 신전 제한이 확인되었다. 전산화단층촬영(CT)은 고려되었으나 비용 문제로 시행되지 않았다. 표준 재건술로는 관절 운동성 회복이 어려울 것으로 판단되어, 단일 마취 하에 양측 슬관절 유합술을 시행하였고 수술 기법으로 경골결절 절골술, 임시 K-wire 고정 및 양측 3.5mm LCP를 사용하였다. 심한 만성 연부조직 수축으로 최종 유합각은 좌우 95°와 99°였으며, 경과 관찰에서 점진적 임상 호전과 방사선적 골유합이 이루어졌고 12개월에 완전 유합 및 임플란트 안정성이 확인되었고 24개월에는 독립 보행이 가능하였으나 외향 보행과 간헐적 바니호핑 같은 기계적 보행 이상이 지속되었다. 결론적으로 저자들은 재건술로 유용한 관절 운동 회복이 기대되지 않는 양측 말기 4급 외측 슬개골탈구 환아에서 양측 슬관절 유합술이 구제적 선택지가 될 수 있음을 제시하지만, 단일 증례보고이므로 결과를 일반화할 수 없다는 중요한 제한이 있다.",
+      "title": "Bilateral Stifle Arthrodesis as a Salvage Procedure for End-Stage Bilateral Grade IV Lateral Patellar Luxation in a Dog: A Case Report.",
+      "journal": "Veterinary Sciences",
+      "generated_at": "2026-07-29T00:22:58.593Z",
+      "model": "gpt-5-mini"
+    },
+    "42514684": {
+      "brief_summary": "본 연구는 고양이 범백혈구감소증 바이러스(FPV) VP2 유전자를 표적으로 하는 크레솔레드 색변화 기반 루프 매개 등온증폭(LAMP) 검사법을 개발하여 현장(point-of-care, POCT)에서 시각적으로 빠르게 판독할 수 있는 진단법을 제시했다. 본 방법은 64°C에서 40분간 증폭 후 보라색에서 노란색으로의 색변화를 통해 판독하며, 검출한계는 pMD-VP2 플라스미드에서 18.38 copies/μL, 조잡하게 추출한 핵산에서 10^1.62 TCID50/mL로 보고되었다. 153개의 임상 시료 검사에서 62/153(40.52%)가 양성으로 확인되었고 상용 qPCR(42.48% 양성)과 98.04%의 일치율을 보였으며, CPV(개 파보바이러스)와의 구별이 불가능하다는 중요한 제한점이 있다.",
+      "detailed_summary": "연구자는 FPV VP2 유전자를 표적으로 하는 색변화 LAMP법을 개발하고 크레솔레드를 색지시약으로 사용하였다. 검사 조건은 64°C에서 40분간 등온증폭하며, 증폭 시 용액 색이 보라색에서 노란색으로 변하는 시각적 판독이 가능하다. 분석적 민감도는 pMD-VP2 플라스미드에서 18.38 copies/μL, 조잡하게 추출한 핵산에서는 10^1.62 TCID50/mL로 보고되었다. 특이성 시험에서는 다른 흔한 고양이 병원체와의 교차반응이 없었고 반복성(repeatability)도 양호하였다. 임상 적용성 평가에서 153개의 임상 시료 중 62건(40.52%)이 본 LAMP법으로 양성 판정되었고, 상용 qPCR 검사(양성률 42.48%)와의 일치율은 98.04%였다. 결론적으로 이 방법은 민감하고 간편하며 시각적 판독이 가능한 POCT용 FPV 검출법으로 유망하나 CPV와의 유전적 유사성으로 인한 구별 불가라는 중요한 제한점을 가진다.",
+      "title": "Rapid Visual Detection of Feline Panleukopenia Virus Using Colorimetric Loop-Mediated Isothermal Amplification Assay.",
+      "journal": "Veterinary Sciences",
+      "generated_at": "2026-07-29T00:22:43.244Z",
+      "model": "gpt-5-mini"
+    },
+    "42514686": {
+      "brief_summary": "건강한 연구용 비글 16마리를 대상으로 oclacitinib과 prednisolone을 6일간 경구 투여한 뒤 항-개 IgE를 진피 내 주입해 급성 IgE 매개 아토피 피부염 모델의 24시간 전사체 변화를 비교하였다. 두 약물 모두 24시간 시점의 차등발현 유전자 수를 감소시켰고(prednisolone 1251개, oclacitinib 1471개), Th1·Th2 관련 유전자 및 케모카인 관련 유전자 발현을 억제했다. 임상적 의미로는 두 약물이 급성 IgE 유도 병변의 전사체 변화를 완화했으며, prednisolone이 보다 폭넓은 면역 억제 효과를 보였다고 할 수 있다.",
+      "detailed_summary": "연구는 연구용 비글 16마리를 무작위로 oclacitinib 또는 prednisolone 군으로 나누어 각 약물을 6일간 경구 투여한 뒤 항-개 IgE를 진피 내 주입하여 24시간 후 생검 샘플을 채취해 RNA 시퀀싱을 수행했다. 동일 개체군에서 이전에 분석된 건강 피부, 식염수 주입 피부, 약물 비투여 IgE 병변의 전사체가 대조군으로 사용되었다. prednisolone과 oclacitinib 투여는 24시간 샘플에서 차등발현 유전자 수를 각각 1251개와 1471개로 감소시켰다. 두 약물 모두 Th1 관련 유전자(MX1, OAS1, STAT1), Th2 관련 유전자(CCL13, CCL8, IL13RA1, IL-33, IL5RA, OSM) 및 케모카인·수용체(CCL19, CCL2, CCL3, CCR1, CCR3) 발현을 감소시켰다. 특이하게도 IL-13의 상향조절은 prednisolone에서만 유의하게 감소했다. 결론적으로 두 약물은 급성 IgE 유도 후기 반응(LPR)의 전사체 변화를 감소시켰고, prednisolone이 더 광범위한 면역 억제 양상을 나타냈다. 이 결과는 24시간 시점의 급성 실험적 IgE 유도 모델에서 얻어진 전사체 변화에 근거한다.",
+      "title": "Transcriptomic Effects of Oclacitinib and Prednisolone in an Acute IgE-Mediated Experimental Model of Canine Atopic Dermatitis.",
+      "journal": "Veterinary Sciences",
+      "generated_at": "2026-07-29T00:22:16.812Z",
+      "model": "gpt-5-mini"
+    },
+    "42514690": {
+      "brief_summary": "중간 간정맥(MHV)이 담낭 함몰부(gallbladder fossa)와 근접해 있을 경우 개의 담낭절제술 중 심한 출혈원이 될 수 있는지를 보고한 증례 2건이다. 증례 1(8세 포메라니안)은 담낭 점액낭종과 괴사성 담낭염으로 담낭 박리 도중 MHV 지류가 파열되어 급격한 저혈압(평균동맥압 MAP 10–20 mmHg)이 발생했으나, Hemoclip으로 지혈하고 수혈 후 회복했다. 증례 2(11세 스피츠)는 수술 전 전산화단층촬영(CT)에서 MHV 지류가 담낭벽에서 <1 mm로 근접함이 확인되어 주의 깊게 박리해 출혈 없이 수술을 마쳤고, 저자들은 MHV 근접성이 출혈의 저평가된 원인일 수 있으므로 선택적 전향적 혈관평가가 수술 안전성 향상에 도움될 수 있다고 제시한다.",
+      "detailed_summary": "본 연구는 개의 담낭절제술 중 중간 간정맥(MHV)과 담낭 함몰부의 근접성이 수술적 의미를 가지는지를 보고한 증례보고로, 총 2마리의 개를 대상으로 한다. 증례 1은 8세 포메라니안으로 담낭 점액낭종 및 괴사성 담낭염으로 수술 중 상기 부위의 MHV 지류가 담낭벽에 유착된 상태에서 파열되어 급격한 대량 출혈과 평균동맥압(MAP) 10–20 mmHg의 저혈압을 초래했다. 이 경우 저자들은 Hemoclip으로 지혈을 시행하고 수혈을 통해 회복시켰음을 보고한다. 증례 2는 11세 스피츠로 담낭 종괴로 수술 및 간생검을 받았고, 수술 전 CT에서 MHV 지류가 담낭벽으로부터 <1 mm 이내로 주행함이 확인되어 주의 깊은 박리로 정지성 지주혈관을 보존하여 유의한 출혈 없이 수술을 완수하였다. 주요 평가 항목은 수술 중 출혈 발생 여부와 그 관리(지혈 방법, 수혈) 및 수술 전 영상에서의 혈관 근접성 확인이다. 결론은 MHV 지류가 담낭 함몰부에 즉시 인접할 수 있어 담낭절제술시 과소평가된 출혈원이 될 수 있고, 일부 증례에서는 수술 전 혈관 평가(선택적 CT 등)가 수술 안전성 향상에 도움이 될 수 있다는 점이다. 중요한 제한점으로 저자들은 본 보고가 단지 증례 2건에 근거한 관찰임을 명시하고 있어 결과를 일반화할 수 없음을 밝히고 있다.",
+      "title": "Surgical Significance of Middle Hepatic Vein Proximity to the Gallbladder Fossa During Canine Cholecystectomy in Two Dogs.",
+      "journal": "Veterinary Sciences",
+      "generated_at": "2026-07-29T00:21:52.907Z",
+      "model": "gpt-5-mini"
+    },
+    "42514691": {
+      "brief_summary": "15세 스페인어(Chinchilla) 페르시안 암컷(중성화, 체중 2.3kg) 고양이에서 구토, 설사, 식욕부진, 무기력으로 내원하여 복부 초음파와 CT에서 회장(jejunal) 부위의 국소적 횡벽 비후를 포함한 장벽 비후가 확인되었다. 전층 장 생검과 조직병리·면역조직화학 검사에서 서로 다른 장벽 층에 기원한 저등급 장관 림프종(low-grade alimentary lymphoma)과 위장관 비만세포종(gastrointestinal mast cell tumor)의 두 종양이 인접하되 섞이지 않은 충돌형(collision) 병변으로 진단되었다. 병변 절제술 후 chlorambucil과 prednisolone을 투여한 결과 임상 증상과 영상 소견이 호전되었고, 14개월 추적에서 비만세포종의 국소 재발이나 림프종의 진행 소견은 없었다는 점에서 전층 생검과 정밀 병리 평가의 중요성을 시사한다.",
+      "detailed_summary": "증례보고로, 15세 중성화 암컷 Chinchilla 페르시안 고양이(체중 2.3kg)가 대상이다. 임상증상은 구토, 설사, 식욕부진, 무기력이며 초음파 및 전산화단층촬영(CT)에서 장벽의 확산적 비후와 회장 부위의 마크된 횡벽 비후 및 층 구조 상실이 관찰되었다. 탐복술과 전층 장 생검(full-thickness intestinal biopsies)을 시행하였고 조직병리 및 면역조직화학(immunohistochemistry, IHC) 검사에서 서로 다른 장벽 층에 기원한 두 개의 형태학적으로 구분되는 종양 세포군이 확인되었다. 두 세포군은 해부학적으로 인접하였으나 검사된 조직절편에서는 뚜렷한 혼합 소견 없이 구분되어 충돌형 병변(collision pattern)으로 해석되었다. 해당 장 분절을 외과적으로 절제한 뒤 chlorambucil과 prednisolone을 사용한 보조요법을 시행하였고, 임상 증상은 해소되었으며 영상학적 이상도 호전되었다. 14개월 추적기간 동안 위장관 비만세포종의 국소 재발이나 저등급 장관 림프종의 진행은 관찰되지 않았다. 단일 증례보고이므로 일반화할 수는 없지만, 본 증례는 동시 발생하는 이질적 장종양의 형태학적 스펙트럼을 확장하고 정확한 진단을 위해 전층 생검과 포괄적 조직병리 평가의 중요성을 강조한다.",
+      "title": "Synchronous Low-Grade Alimentary Lymphoma and Gastrointestinal Mast Cell Tumor with a Collision Pattern in a Cat.",
+      "journal": "Veterinary Sciences",
+      "generated_at": "2026-07-29T00:21:33.668Z",
+      "model": "gpt-5-mini"
+    },
+    "42514693": {
+      "brief_summary": "본 연구는 8주간 식이에 구리 메치오닌(CM)을 보충해 황변이 있는 채널캣피쉬의 체색 및 피부·근육의 생화학적·유전자 변화를 평가했다. CM 14–21 mg/kg(측정된 구리 14.35–15.58 mg/kg) 농도에서 피부·근육의 노란색 지표(b* 값)와 우라니딘 함량이 감소하고 항산화 지표(GSH, GSH-Px, CAT) 및 멜라닌 관련 인자 변화가 관찰되어 황변 완화에 유리한 효과를 보였다. 임상적으로는 해당 범위의 CM 보충이 채널캣피쉬의 황변 완화에 도움을 줄 가능성을 제시한다.",
+      "detailed_summary": "무작위화 여부 등은 초록에 기재되어 있지 않으나, 연구는 8주간 진행된 식이 보충 시험으로 기초사료에 CM을 0(Cu1), 7(Cu2), 14(Cu3), 21(Cu4), 27(Cu5) mg/kg씩 첨가했고, 실제 측정된 구리 농도는 각각 10.82, 12.63, 14.35, 15.58, 17.40 mg/kg이었다. 피부에서 글루타티온(GSH) 수치는 Cu2–Cu5군에서 증가했고, 글루타티온 과산화효소(GSH-Px) 활성이 Cu2–Cu4군에서 증가했으며 근육에서는 카탈라아제(CAT) 활성이 Cu3–Cu5군에서, GSH는 Cu4–Cu5군에서 증가했다. 유전자 발현에서는 keap1이 피부(Cu2–Cu4)와 근육(Cu3–Cu5)에서 하향조절되었고, nf-κb는 피부(Cu2–Cu5)에서 하향조절되었으며 nrf2는 피부(Cu3–Cu5)와 근육(Cu4)에서 상향조절되었다; IL-10은 피부 Cu4에서 증가했다. 색도 측정에서는 피부의 b* 값이 Cu3–Cu5, 근육의 b* 값이 Cu2–Cu5에서 감소했고 우라니딘 함량은 피부(Cu3–Cu5)와 근육(Cu4–Cu5)에서 감소했다. 반면 멜라닌과 티로시나제는 피부(멜라닌: Cu2–Cu3, 티로시나제: Cu3–Cu4) 및 근육(Cu3–Cu5)에서 증가했고, 멜라노제네시스 관련 유전자(mitf, tyr, etb, camk2, slc24a5)는 Cu3–Cu5군에서 증가하는 반면 우라니딘 합성 관련 xdh는 하향조절되었다. 연구 결론은 CM 14–21 mg/kg(측정 구리 14.35–15.58 mg/kg) 범위에서 황변 완화에 최적의 효과가 관찰되었다는 것으로, 초록에는 표본수·추적기간 외 기타 제한점이나 장기안전성 자료는 명시되어 있지 않다.",
+      "title": "A Study on the Effect of Copper Methionine in Alleviating Yellowing in Channel Catfish.",
+      "journal": "Veterinary Sciences",
+      "generated_at": "2026-07-29T00:21:09.279Z",
+      "model": "gpt-5-mini"
+    },
+    "42514699": {
+      "brief_summary": "이 탐색적 파일럿 연구는 개 혼합형 유선암(CMT)의 서로 다른 종양 부위(경계부, 중간의 상피/근상피 풍부 영역, 중심의 골화 영역)를 대상으로 MRM(다중 반응 모니터링) 기반 공간 지질체학(spatial lipidomics)을 적용해 지역별 지질 프로파일을 분석했다. 연구에서 포스파티딜콜린(PC), 포스파티딜에탄올아민(PE), 스핑고미엘린(SM), 트리아실글리세롤(TAG), 유리지방산(FFA) 등에서 부위별 차이가 관찰되었고, 중심의 골화 부위는 구조성 지질 및 세라마이드가 풍부한 반면 종양 경계부는 에터(ether) 지질이 풍부했다. 이 결과는 종양 내 대사적 이질성이 존재함을 시사하며, 공간 지질체학이 비교종양학적 연구에서 유용한 접근법임을 예비적으로 보여준다.",
+      "detailed_summary": "연구 설계는 탐색적 파일럿으로, 개 혼합형 유선암(CMT)의 서로 다른 조직 영역(경계부, 중간의 상피/근상피 풍부 영역, 중심의 골화 영역)을 지역별로 분리해 MRM 기반 공간 지질체학 분석을 수행했다. 주요 평가지표는 각 영역에서의 지질종류별 분포 변화로, 포스파티딜콜린(PC), 포스파티딜에탄올아민(PE), 스핑고미엘린(SM), 트리아실글리세롤(TAG), 유리지방산(FFA) 등의 조성 차이를 평가했다. 분석 결과 각 영역은 뚜렷한 지질체계 서명을 보였으며, 중심의 골화 영역에서는 구조성 지질과 세라마이드가 상대적으로 풍부했고 종양 경계부에서는 에터 지질의 풍부함이 관찰되었다. 저자들은 이러한 부위별 지질 차이가 조직 구성 및 국소적 대사 환경의 차이를 반영할 수 있다고 제시했다. 연구는 공간 지질체학을 통해 종양 내 대사적 이질성을 규명할 수 있음을示示(시사)하는 예비적 데이터를 제공한다고 결론지었다. 다만 파일럿 연구라는 점과 초록에 표본 수나 구체적 통계치가 제시되지 않은 점은 중요한 제한으로, 결과의 일반화 및 임상적 적용 가능성은 추가 연구로 검증되어야 한다.",
+      "title": "Exploratory Spatial Lipidomic Profiling Reveals Regional Metabolic Heterogeneity in a Canine Mixed Mammary Carcinoma.",
+      "journal": "Veterinary Sciences",
+      "generated_at": "2026-07-29T00:20:39.728Z",
+      "model": "gpt-5-mini"
+    },
+    "42514700": {
+      "brief_summary": "이 연구는 Immulite 2000xpi(CLIA 기반)를 사용해 건강한 당나귀(40두, 평균 6.1±0.8세)와 말(41두, 평균 10.7±0.5세)의 총 및 유리 T4/T3(총 T4=tT4, 유리 T4=fT4, 총 T3=tT3, 유리 T3=fT3)를 측정해 정상 범위와 분석기 성능을 평가했다. 결과는 당나귀가 말보다 혈중 갑상선호르몬(TH) 농도가 더 높았고, tT4와 fT4 측정에서 검사 내 변동이 더 낮고 검출한계 미만 결과가 적었다는 점을 보였다. 반면 개용 TSH(갑상선자극호르몬, TSH) 키트는 정밀도가 낮아 말류에 유효하지 않은 것으로 결론지었다.",
+      "detailed_summary": "연구는 Immulite 2000xpi(CLIA)를 사용해 건강한 당나귀 40두(8 수컷(jacks), 32 암컷(jennies), 평균 6.1±0.8세)와 말 41두(15 종마, 26 거세마, 평균 10.7±0.5세)의 혈청 tT4, fT4, tT3, fT3 농도를 측정했다. 통계분석은 두 그룹 비교에 Mann–Whitney 검정, 다중 그룹 비교에 Kruskal–Wallis 검정과 Dunn의 사후검정을 사용했다. 분석 결과 Immulite 2000xpi는 tT4와 fT4 측정에서 검사 내 변동(intra-assay variability)이 더 낮았고 tT4/fT4의 검출한계 미만 결과가 tT3/fT3보다 적었다. 당나귀는 말보다 전반적으로 혈중 TH 농도가 더 높았고, 연령 및 성별 집단 간에는 유의한 차이가 관찰되지 않았다. 개용 TSH 키트는 정밀도가 높지 않아 본 연구에서는 말류의 TSH 측정에 타당하지 않은 것으로 보고되었다. 이 연구는 CLIA 기반 분석기로 당나귀의 TH 농도를 보고하고 여러 요인의 영향을 평가한 최초의 연구임을 명시한다.",
+      "title": "Assessment of Thyroid Hormones Using the Immulite 2000xpi Analyzer in Healthy Donkeys.",
+      "journal": "Veterinary Sciences",
+      "generated_at": "2026-07-29T00:20:16.866Z",
+      "model": "gpt-5-mini"
+    },
+    "42514710": {
+      "brief_summary": "건강한 고양이 48마리(6개 그룹, 각 8마리)를 대상으로 fluralaner/moxidectin 고정조합 스팟온(spot-on)을 40/2, 80/4, 120/6 mg/kg로 국소 투여하고 정맥투여와 비교하여 약동학·절대생체이용률·용량비례성을 평가했다. 국소투여는 흡수가 느려 Tmax(최대농도도달시간) 약 10~18일, 160일간 정량 가능한 농도를 유지했으며 전신 노출은 용량에 대해 비비례적으로 증가했고 절대생체이용률은 fluralaner 9.7%~26.9%, moxidectin 10.22%~21.28%로 제한적이었다. 정맥 병용투여에서는 fluralaner 노출이 증가하고 moxidectin 노출이 감소해 잠재적 약동학적 상호작용이 시사되며, 이상반응은 관찰되지 않아 추가적인 용량 최적화 및 제형 개발을 뒷받침한다.",
+      "detailed_summary": "본 연구는 건강한 고양이 48마리(6개 그룹, 각 8마리)를 대상으로 fluralaner/moxidectin 고정조합 스팟온(spot-on)을 체중당 40/2, 80/4, 120/6 mg/kg으로 국소 투여하고, 각 성분을 단독 또는 병용으로 정맥투여한 결과와 비교하여 약동학, 절대생체이용률 및 용량비례성을 평가했다. 약동학 평가는 비구획 분석 및 파워 모델을 사용하여 전신 노출과 용량비례성을 특성화했다. 정맥 병용투여에서는 fluralaner의 전신 노출이 증가한 반면 moxidectin의 전신 노출은 감소하여 잠재적 약동학적 상호작용을 시사했다. 국소 투여 결과는 흡수가 느리고 지속적 전신 잔류를 보였으며 Tmax는 약 10~18일, 정량 가능한 농도는 160일 샘플링 기간 내내 유지되었다. 전신 노출은 투여 용량 범위에서 비비례적으로 증가했고, 절대생체이용률은 fluralaner 9.7%~26.9%, moxidectin 10.22%~21.28%로 제한적이며 용량 의존적이었다. 연구 기간 동안 이상반응은 관찰되지 않았다. 결론적으로 초록은 비선형 국소흡수와 장기간 전신 잔류를 보고하며 추가적인 용량 최적화 및 제형 개발을 지지한다고 명시한다. 초록에는 연구의 한계에 대한 구체적 기술은 제공되어 있지 않다.",
+      "title": "Pharmacokinetics, Absolute Bioavailability, and Nonlinear Topical Absorption of a Fluralaner-Moxidectin Spot-On Formulation in Cats.",
+      "journal": "Veterinary Sciences",
+      "generated_at": "2026-07-29T00:20:04.434Z",
+      "model": "gpt-5-mini"
+    },
+    "42514716": {
+      "brief_summary": "원발성 갑상샘 기능항진증으로 메티마졸(methimazole) 치료를 받은 43마리 고양이를 대상으로, 총T4(TT4) 변화에 대해 헤마토크릿(Hct)과 평균적혈구용적(MCV) 등 혈액학적 지표가 치료 중·중단 후 어떻게 추적되는지 전향적 종적 추적 연구로 평가했다. Hct와 MCV는 개체 내에서 TT4와 강하게 동행(rmcorr Hct r=0.873, MCV r=0.881)했으며, 시간 경과에 따라 TT4와의 상관이 강해졌다. ROC 분석에서 T2 시점의 Hct ≥ 35.2%가 유효한 판별치(AUC 0.972, 민감도 96.7%, 특이도 92.3%)로 제시되었다. 임상적으로는 치료 중 Hct 또는 MCV의 상승이 치료 조절상실을 시사해 TT4 재검사를 촉발할 수 있으나 호르몬 모니터를 대체하지는 못한다.",
+      "detailed_summary": "연구는 전향적 종적 코호트로 43마리의 원발성 갑상샘 기능항진증 고양이를 기초( T0) 및 1, 3, 6개월(T1, T2, T3)에 방문하여 추적했다. 각 시점에서 헤마토크릿(Hct), 혈색소(Hgb), 평균적혈구용적(MCV), ALT와 총T4(TT4)를 측정했으며, 시점별 상관분석, 반복측정 상관(rmcorr), 선형 혼합효과 모형, 프리드먼 검정 및 ROC 분석을 시행했다. TT4는 T1~T3 시점에서 Hct(r = 0.875→0.943), MCV(0.907→0.964), Hgb(0.836→0.946), ALT(0.919→0.981)와 점차 강화되는 양의 상관을 보였다. 개별 고양이 내에서는 Hct(rmcorr r=0.873)와 MCV(rmcorr r=0.881)가 TT4 변화를 잘 추적했으며, Hct의 경우 개체 내 효과가 개체 간 효과보다 더 컸다. 모든 주요 혈액학적 지표와 ALT는 T0에서 T1로 유의하게 변화했고(p < 0.001), ROC에서 T2 시점 Hct ≥ 35.2%가 AUC 0.972(95% CI 0.914–1.000), 민감도 96.7%, 특이도 92.3%로 최적 컷오프로 제시되었다. 결론적으로 Hct와 MCV는 메티마졸 치료 중 개체 내 TT4 변화를 추적하고 치료 중단 후에는 치료 전 값으로 회귀했으며, 이들 지표의 상승은 호르몬 재검사를 촉발할 수 있으나 호르몬 검사 자체를 대체하지는 않는다.",
+      "title": "Haematological Tracking of Thyroid Status During Methimazole Therapy and After Treatment Interruption in Hyperthyroid Cats: A Prospective Longitudinal Cohort Study.",
+      "journal": "Veterinary Sciences",
+      "generated_at": "2026-07-29T00:19:35.447Z",
+      "model": "gpt-5-mini"
+    },
+    "42514717": {
+      "brief_summary": "15세 중성화 수컷 브리티시 쇼트헤어에서 만성 위장관 증상과 지속적인 배변곤란(tenesmus)으로 시행한 대장내시경 도중 원위 결장(stricture) 평가 중 대장 천공이 발생했다. 급성 빈맥, 심한 저산소혈증, 호기 말 이산화탄소(EtCO2) 급감 및 광범위한 피하 기기종이 관찰되었고, 정맥혈 가스에서 EtCO2–PvCO2 구배가 크게 증가하여 심한 환기·관류 불균형(V/Q mismatch)과 폐 공기색전(pulmonary air embolism)을 의심했다. 환기(호흡수 증가, 초기 고압·이후 중간 수준의 최고흡기압) 조절을 중심으로 마취 관리했으나 산소포화도 회복이 제한되어 안락사 처분하였고, 사후 조영증강 CT에서 원위 결장 천공과 광범위한 기종(후복막, 종격동, 기흉, 피하 기기종)이 확인되었다.",
+      "detailed_summary": "증례는 15세 중성화 수컷 브리티시 쇼트헤어 고양이 한 마리로, 만성 위장관 증상과 지속적인 배변곤란을 조사하기 위해 대장내시경을 시행하던 중 원위 결장 협착부 평가 중 급성 사건이 발생했다. 임상적으로 갑작스런 빈맥, 심한 저산소혈증, 호기 말 이산화탄소(EtCO2)의 극적인 저하 및 광범위한 피하 기기종이 관찰되었다. 정맥혈 가스 검사에서는 EtCO2–PvCO2 구배가 현저히 증가하여 심한 환기·관류 불균형(V/Q mismatch)과 폐 공기색전을 추정하게 했다. 마취 관리는 주로 환기 조절에 중점을 두었고, 호흡수 증가와 함께 최고흡기압(PIP)을 초기에는 높게 설정했다가 이후 중간 수준으로 조정하여 EtCO2 감소와 산소화 개선을 시도했다. 그러나 산소포화도 개선은 제한적이었고 결국 안락사 결정이 내려졌다. 사후 조영증강 전산화단층촬영에서 원위 결장 천공이 확인되었고, 후복막기종, 종격동기종, 기흉 및 피하 기기종 등 광범위한 공기 확산이 동반되어 있었다. 본 보고는 증례보고로서 단일 사례에서의 관찰을 기술하며 결과의 일반화는 할 수 없다.",
+      "title": "Anaesthetic Challenges During Colonoscopy-Induced Intestinal Perforation in a Cat.",
+      "journal": "Veterinary Sciences",
+      "generated_at": "2026-07-29T00:19:14.280Z",
+      "model": "gpt-5-mini"
+    },
+    "42514721": {
+      "brief_summary": "11세 스페인시암(페르시안) 중성화 암컷 고양이 1례에서 발생한 흉선종 관련 급성 악화(fulminant) 중증 근무력증(MG)의 증례보고이다. 급성 후지 약화가 4일 만에 사지마비로 진행했고, 전기생리검사와 영상에서 흉선 낭성 종괴가 확인되었으며 혈중 아세틸콜린 수용체 항체(AChR antibody)가 현저히 상승하여 흉선종 관련 MG로 진단되었다. 흉선종 절제와 피리도스티그민(pyridostigmine), 프레드니솔론(prednisolone) 투여에도 환자는 인공호흡기 의존 상태로 남아 술후 3일째 안락사되었으며, 저자들은 조기 호흡부전 인지와 집중적 환기관리 및 면역조절 치료 검토의 중요성을 강조한다.",
+      "detailed_summary": "본 연구는 단일 증례보고로, 11세 중성화 암컷 페르시안 고양이에서 급성 후지 약화로 내원하여 4일 내 사지마비(tetraplegia)로 진행한 임상경과를 기술한다. 전기생리검사에서 positive sharp waves와 fibrillation potentials가 관찰되었고 흉부 영상에서 거대식도(megaesophagus) 없이 낭성의 흉부전방(cranial mediastinal) 종괴가 확인되었다. 외과적으로 좌측 늑간 개흉(left intercostal thoracotomy)으로 종괴를 적출하였고 조직병리·면역조직화학 검사에서 흉선종(thymoma)으로 확진되었다. 혈청 아세틸콜린 수용체 항체(AChR antibody)가 현저히 상승하여 흉선종 관련 fulminant MG 진단이 확립되었고, 피리도스티그민과 프레드니솔론으로 약물치료를 시행하였다. 수술 후 지속적인 호흡부전으로 재삽관, 기계환기 및 일시적 기관절개술(tracheostomy)이 필요했으나 환자는 인공호흡기 의존 상태로 남아 술후 3일째 안락사되었다. 저자 결론은 호흡근 마비의 조기 인지와 신속한 진단적 확인, 집중적 환기지원 및 보조적 면역조절 요법을 고려하는 것이 중요하다는 점이며, 본 보고는 단일 증례에 해당하므로 결과를 일반화할 수 없다는 한계가 있다.",
+      "title": "Cystic Thymoma-Associated Fulminant Myasthenia Gravis with Rapid Progression in a Cat: Diagnostic and Therapeutic Challenges.",
+      "journal": "Veterinary Sciences",
+      "generated_at": "2026-07-29T00:18:55.317Z",
+      "model": "gpt-5-mini"
+    },
+    "42514724": {
+      "brief_summary": "조직병리로 확진된 주변안와(periorbital) 종양을 가진 고객 소유 반려견 4마리(6–8세)를 대상으로 수술적 및 보존적 치료 결과를 후향적으로 보고했다. CT(전산화단층촬영)를 병변 평가 및 수술 계획에 사용했고, 3마리에는 변형된 측방 안와절개(modified lateral orbitotomy)와 관골궁·하악지 부분 절제술을 결합한 광범위 절제를 시행했으며 1마리는 보존적 치료를 받았다. 종양 유형은 다엽골종양(multilobular tumor of bone, MTB) 2건, 염증성 근섬유아세포성 종양(inflammatory myofibroblastic tumor, IMT) 1건, 피지선암(sebaceous carcinoma, SC) 1건이었고, 조직학적 음성 절제변연은 수술군 3건 중 1건에서만 확인되어 예후는 종양 유형과 병변 범위에 따라 달랐다.",
+      "detailed_summary": "후향적 증례연구로 고객 소유 반려견 4마리(중성화 여부: 암컷 1, 정컷 1, 중성화 수컷 2; 나이 6–8세)가 포함되었다. 임상 징후로는 서서히 진행되는 안구 돌출(4/4), 유루(3/4), 제3안검 샘 탈출(2/4)이 주로 관찰되었다. 연구진은 CT(전산화단층촬영)를 통해 병변의 존재·위치·범위를 확인하고 수술 계획을 수립했으며 조직병리로 종양 유형을 확진했다. 확인된 병변은 MTB 2건, IMT 1건, SC 1건이었고, 세 마리는 변형된 측방 안와절개와 관골궁·하악지 부분 절제술을 결합한 일괄 절제(en bloc excision)를 받았고 한 마리는 보존적 치료를 받았다. 치료 결과로 수술을 받은 첫 두 마리는 생존기간이 각각 55개월이었고 한 마리는 수술 후 2주에 추적관찰이 중단되었으며 보존적 치료를 받은 마리는 생존기간이 4개월이었다. 저자들은 표본 수가 적고 증례들이 이질적이라는 점을 중요한 제한점으로 지적하며, 본 증례들만으로는 종양학적 결과나 예후에 대한 확정적 결론을 내리기 어렵다고 결론지었다.",
+      "title": "Surgical and Conservative Management of Periorbital Tumors in Four Dogs.",
+      "journal": "Veterinary Sciences",
+      "generated_at": "2026-07-29T00:18:34.989Z",
+      "model": "gpt-5-mini"
+    },
+    "42514725": {
+      "brief_summary": "본 논문은 췌장 기원 가스트리노마(gastrinoma)를 가진 성견 2례의 수술적 치료와 추적 관리를 보고한다. 위장 증상 조절을 위해 양성자펌프억제제(proton pump inhibitors, PPI)를 사용하면서 원발 및 전이 병변에 대해 여러 차례 수술을 시행했고, 혈청 가스트린(serum gastrin) 농도의 반복 측정을 보조 모니터링 지표로 활용했다. 증례들은 혈청 가스트린 변화, 임상 증상, 영상 소견을 종합해 추가 수술을 결정했으며 Case 1은 총 4회, Case 2는 총 3회의 수술 후 위장 증상이 잘 조절된 상태로 장기 생존을 보였다.",
+      "detailed_summary": "연구는 성견 2마리를 대상으로 한 증례보고이다. 배경으로 개에서 가스트리노마는 드물고 진단 시 전이가 흔하며 완치적 치료가 어려운 질환임을 전제한다. 두 증례 모두 췌장 가스트리노마로 진단되어 수술적 절제와 반복 수술을 통해 종양 부피를 줄이는 전략을 사용했고, 위장 증상 관리를 위해 PPI를 병용하였다. 주요 평가 항목으로는 임상 증상, 영상 소견 및 반복 측정된 혈청 가스트린 농도를 보조 모니터링 지표로 삼았다. 혈청 가스트린 농도 변화는 추가 영상 검사 및 수술 결정에 참고되었고, 결과적으로 Case 1은 총 4회, Case 2는 총 3회의 수술을 받으면서 위장 증상이 잘 조절된 채 장기 생존을 유지했다. 저자들은 이들 증례에서 혈청 가스트린의 반복 측정이 개 가스트리노마의 재발 또는 진행 모니터링에 유용할 수 있음을 제시하지만, 증례 보고인 만큼 일반화에는 한계가 있음을 명시한다.",
+      "title": "Canine Gastrinoma with Long-Term Survival After Primary and Repeat Surgeries Using Serial Serum Gastrin Concentrations as an Adjunctive Monitoring Marker: A Report of Two Cases.",
+      "journal": "Veterinary Sciences",
+      "generated_at": "2026-07-29T00:18:09.238Z",
+      "model": "gpt-5-mini"
+    },
+    "42514726": {
+      "brief_summary": "본 연구는 개의 말라세지아 과증식 및/또는 말라세지아 피부염(Malassezia) 추정 진단을 위한 접착 테이프 스트립 세포진 검사를 1000×에서 볼 때, 관찰해야 할 최소 현미경 시야 수를 규명하고자 했다. 12명의 검사자가 각 슬라이드를 두 번 검사하면서 처음 10, 20, 30, 40, 50유침(오일임모전) 시야의 결과를 비교한 결과, 시야 수와 관계없이 검사자 내 반복성 및 검사자 간 재현성 모두 임상적으로 허용할 수준에 미치지 못했다. 따라서 임상 증상이 일치하는 개에서 접착 테이프 스트립 세포진의 음성 결과만으로 말라세지아 과증식/피부염을 배제해서는 안 된다.",
+      "detailed_summary": "연구는 접착 테이프 스트립 세포진(1000×)에서 최소 관찰 시야 수로 검사자 내 반복성(intraobserver repeatability)과 검사자 간 재현성(interobserver reproducibility)을 평가하려는 목적이었다. 두 그룹의 슬라이드를 사용했는데, 가려움 증상이 있는 개 사진과 짝지어진 12장 슬라이드에서는 한 개 이상의 효모가 검출되면 말라세지아 피부염으로 판정했고, 비가려움 개 사진과 짝지어진 8장 슬라이드에서는 시야당 평균 한 개 이상의 효모가 검출되면 과증식/피부염으로 정의했다. 12명의 조사자가 각 슬라이드를 두 번 검사했고, 각 검사에서 처음 10, 20, 30, 40, 50개의 오일임모전 시야 결과를 기록하여 통계분석을 수행했다. 분석 결과, 시야 수에 상관없이 전반적인 검사자 내 반복성과 검사자 간 재현성은 두 슬라이드 그룹 모두에서 임상적으로 허용될 수준에 도달하지 못했다. 또한 시야 수를 늘려도 반복성·재현성이 실질적으로 향상되지 않았다. 결론적으로, 임상 소견이 말라세지아 감염과 일치하는 경우 접착 테이프 스트립 세포진의 음성 결과만으로 말라세지아 과증식·피부염을 배제해서는 안 된다고 보고했다. (초록에 제시된 내용만을 요약했으며 추가적인 방법론적 세부나 통계 수치는 초록에 명시되지 않았다.)",
+      "title": "Repeatability and Reproducibility of Microscopic Examination of Adhesive Tape Strip Cytology Slides for the Diagnosis of Malassezia Overgrowth and/or Malassezia Dermatitis in Dogs.",
+      "journal": "Veterinary Sciences",
+      "generated_at": "2026-07-29T00:17:57.187Z",
+      "model": "gpt-5-mini"
+    },
+    "42514732": {
+      "brief_summary": "6세 중성화 수컷 시바이누에서 유미성 흉수(chylothorax)와 유미성 심낭삼출(chylopericardium)이 양측 무명정맥(brachiocephalic vein) 혈전증 및 중피종(mesothelioma)과 동반된 증례를 보고하였다. CT(Computed Tomography)상 다발성 흉관과 양측 무명정맥 혈전증이 확인되었고, 흉관 결찰술, 부분 심낭절제술(subtotal pericardiectomy), 유미낭(cisterna chyli) 절제술을 시행하였으며 조직검사로 중피종이 확진되었다. 수술 후 흉수는 일시 감소했으나 재발하였고, 흉강 내 카보플라틴(carboplatin) 투여 및 항혈전 치료로 유미성 삼출물을 장기간 조절하였으며, 이후 환아는 관련 없는 질환으로 사망하기 전까지 유미성 삼출물 재발 없이 지냈다.",
+      "detailed_summary": "본 연구는 단일 증례 보고로, 6세 중성화 수컷 시바이누에서 호흡곤란으로 내원한 환아를 대상으로 하였다. 체액 분석으로 유미흉수와 유미성 심낭삼출을 진단하였고, CT에서 다발성 흉관과 양측 무명정맥 혈전증이 관찰되었으나 명확한 림프 누출 부위는 확인되지 않았다. 외과적 치료로 흉임파관(흉관) 결찰, 부분 심낭절제술, 유미낭(cisterna chyli) 절제술을 시행하였고, 절제된 심낭 및 종격동 조직의 조직병리로 중피종이 확진되었다. 수술 후 흉수는 일시적으로 감소했으나 이후 재발하여 흉강 내 카보플라틴(carboplatin) 치료를 추가로 실시하였고, 이로 인해 유미성 삼출물이 장기적으로 조절되었다. 또한, 양측 무명정맥 혈전증에 대해 항혈전 치료가 시작되었다. 본 증례는 림프계·혈관·종양이 복합적으로 관여한 드문 사례를 제시하나 단일 증례이므로 결과를 일반화할 수 없는 한계가 있다.",
+      "title": "Chylopericardium in a Dog with Concurrent Chylothorax, Mesothelioma, and Bilateral Brachiocephalic Vein Thrombosis: A Case Report.",
+      "journal": "Veterinary Sciences",
+      "generated_at": "2026-07-29T00:17:39.820Z",
+      "model": "gpt-5-mini"
+    },
+    "42516306": {
+      "brief_summary": "1.8세 수컷 골든두들에서 낙상 후 급성 발병한 비기동성 사지 약화(tetraparesis)와 심한 경부 통증을 보인 단일 증례를 보고한다. 영상검사에서 C1 수준의 우측 척수 압박과 비정상적인 두개경추 각도, 우측 후두-환자 접합(occipitoatlantooccipital fusion), C1·C2 반추체(hemivertebra) 및 결손(hipo-/aplasia), C2의 환자화(atlantalization) 등 중증 선천성 기형이 확인되었다. 수술은 3차원(3-D) C-arm을 이용한 수술 중 영상과 환자 맞춤형 3D 프린팅 재건을 결합하여 후두에서 C4까지의 occipitoatlantoaxial 안정화를 시행하였고, 수술 후 신경학적 호전을 보였다. 본 증례는 수술 중 3D 영상과 맞춤형 3D 프린팅 접근으로 occipitoatlantoaxial 기형을 안정화한 최초의 문서화된 사례이다.",
+      "detailed_summary": "본 연구는 단일 증례보고로, 1.8세 중성화되지 않은 수컷 골든두들에서 낙상 후 급성 발병한 비기동성 사지 약화와 심한 경부 통증을 주 증상으로 내원한 사례를 다룬다. 신경학적 검사에서 비기동성 tetraparesis와 경추 촉진 시 뚜렷한 통증이 관찰되었고, 고급 영상으로 C1 수준의 우측 척수 압박 및 두개경추의 비정상 각도, 우측 후두-환자 유합, C1·C2의 반추체와 부분 발육저하(hipo-/aplasia), C2의 atlantalization 등이 확인되었다. 치료로는 수술 중 3차원(3-D) C-arm 영상과 환자 맞춤형 3D 프린팅으로 제작한 후두에서 C4까지의 재건물을 이용하여 occipitoatlantoaxial 안정화를 시행하였다. 수술 후 환자는 신경학적으로 호전되었음이 보고되었으나 초록에는 구체적 수치나 추적 기간은 제시되지 않았다. 저자들은 본 사례가 수술 중 3D 영상과 맞춤형 3D 프린팅을 결합한 occipitoatlantoaxial 기형 안정화의 첫 문서화된 사례라고 명시하였다. 단일 증례보고이므로 결과를 일반화할 수 없으며, 초록에 제시되지 않은 장기 추적관찰이나 합병증 데이터가 제한점으로 남는다.",
+      "title": "Case Report: Multimodal imaging, custom 3D-printed reconstruction and surgical stabilization of severe congenital occipitoatlantoaxial malformation in an adult dog.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-07-29T00:15:11.797Z",
+      "model": "gpt-5-mini"
+    },
+    "42517970": {
+      "brief_summary": "본 연구는 in vitro에서 개 골육종(canine osteosarcoma, cOSA)과 조직구육종(canine histiocytic sarcoma, cHS)에 대한 BoHV1과 재조합 바이러스 BoHV4EGFPΔTK의 직접 및 간접 온콜리틱 효과를 평가했다. 두 바이러스는 MOI 1에서 cOSA와 cHS 세포주를 감염시켰고, BoHV4EGFPΔTK는 정상 피하 섬유아세포(FDOG)에 대한 감염 및 세포사멸 유도가 상대적으로 낮았다. BoHV4EGFPΔTK는 종양 세포에서 높은 감염·사멸 비율과 아포토시스 유도 및 Gasdermin-D(GSDM-D) 증가를 보였고, 세포 이동성에도 영향을 미쳐 향후 온콜리틱 후보로 추가 검토가 필요하다.",
+      "detailed_summary": "연구는 in vitro 조건에서 cOSA, cHS 및 피부 유래 섬유아세포(FDOG) 세포주를 대상으로 BoHV1과 재조합 바이러스 BoHV4EGFPΔTK의 직접 및 간접 종양용해 효과를 비교하였다. 감염능 평가는 MOI 1로 수행하였고, 유세포분석(flow cytometry)으로 감염 및 사멸 세포 비율을 측정했으며 아포토시스 표지와 Gasdermin-D(GSDM-D) 수준, 그리고 세포 이동성에 대한 영향을 추가로 평가했다. 결과는 두 바이러스가 cOSA와 cHS 세포주를 성공적으로 감염시켰음을 보였고, BoHV1은 FDOG에서 가장 높은 감염율을 나타낸 반면 BoHV4EGFPΔTK는 FDOG에 대한 감염·사멸 유도가 낮게 유지되었다. 유세포분석에서 BoHV4EGFPΔTK는 모든 종양 세포주에서 높은 비율의 감염된 사망 세포를 유도했으며, FDOG에서는 시간이 지나도 낮은 감염·사망 비율이 관찰되었다. 기전 관련 결과로 BoHV4EGFPΔTK 감염은 아포토시스를 촉발하고 GSDM-D 수준을 증가시켰고, 양 바이러스는 세포 이동성에 영향을 미치는 등 간접적 항종양 효과도 확인되었다. 저자들은 BoHV4EGFPΔTK가 암세포에 대한 뚜렷한 친화성(tropism)을 보였고 BoHV1보다 유망한 후보임을 제시하며, 온콜리틱 잠재력을 확인하기 위한 추가 연구가 필요하다고 결론지었다.",
+      "title": "Cross-species oncolytic virotherapy in vitro: BoHV4EGFP&#x394;TK as a novel candidate against canine osteosarcoma and histiocytic sarcoma.",
+      "journal": "Veterinary Research Communications",
+      "generated_at": "2026-07-29T00:17:18.791Z",
+      "model": "gpt-5-mini"
+    },
+    "42519719": {
+      "brief_summary": "이 논문은 개의 척수 수막 질환인 척수 거미막낭류(SAD)와 퍼그에서 보고된 협착성 척수병증(CM)의 구분 문제를 인간 의학과 비교해 검토한 간단한 서술적 리뷰다. SAD와 CM을 명확히 구별하기 어려우며 병태생리에 대한 이해 부족이 적절한 치료 선택을 어렵게 한다고 결론지었다. 저자들은 수의학에서 SAD와 CM을 포괄하는 '척수 수막 유착성 질환(spinal meningeal adhesive disease)'이라는 통합 용어 사용을 제안한다.",
+      "detailed_summary": "본 논문은 수의학과 인간 의학에서 척수 수막층을 침범하는 다양한 병변을 비교한 간략한 리뷰이다. 수의학에서는 오랜 기간 문헌화된 척수 거미막낭류(SAD)와 비교적 최근에 확인된 퍼그의 협착성 척수병증(CM)이 별개로 기술되어 왔다. 그러나 SAD와 CM을 임상적·영상학적으로 구별하는 데 어려움이 있고, 병태생리에 대한 이해 부족이 있어 적절한 치료 선택에 영향을 미친다고 보고한다. 인간 의학에서는 경막내·경막외 척수 거미막낭(intradural/extradural spinal arachnoid cysts), 척수 거미막 웹(spinal arachnoid webs), 척수 거미막 유착성 염증(spinal adhesive arachnoiditis), 특발성 척수 탈장(idiopathic spinal cord herniation) 등 네 가지 범주가 기술되어 있으며 이들 역시 진단·분류상의 유사한 문제를 보인다고 언급한다. 저자들은 이러한 유사점과 장애물을 강조하며 향후 연구 방향을 모색하고, SAD와 CM을 포함하는 통합 명칭 '척수 수막 유착성 질환(spinal meningeal adhesive disease)'을 수의학에서 제안한다. 다만 병태생리와 명확한 진단 기준이 불분명하다는 점은 여전히 중요한 한계로 남아 있어 추가 연구가 필요함을 시사한다.",
+      "title": "Spinal arachnoid diverticula and constrictive myelopathy in dogs: different conditions or a spectrum of spinal meningeal disease in veterinary and human medicine?",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-07-29T00:17:00.094Z",
+      "model": "gpt-5-mini"
+    },
+    "42519721": {
+      "brief_summary": "본 연구는 고양이 헤르페스바이러스-1(FHV-1)의 현장(point-of-care) 진단을 위해 루프-매개 등온증폭(LAMP)과 lateral flow dipstick(LFD)을 결합한 시각적 검출법을 개발하고 평가했다. 개발된 LAMP-LFD는 TK 유전자를 표적로 하여 재조합 플라스미드에서 10^2 copies/μL, 바이러스 배양액에서 10^1.5 TCID50/mL의 검출한계를 보였고 다른 상부호흡기병원체와 교차반응이 없었다. 임상적 비인두 도말검체 87건 중 43건(49.43%)이 양성으로 나타났고, qPCR과 비교 시 민감도 91.30%, 특이도 97.56%, 전체 일치율 94.25%, 카파값 0.89로 거의 완전한 일치를 보였다. 장비 의존성이 낮고 육안 판독이 가능해 1차 병원 및 현장 검사에 적합하다.",
+      "detailed_summary": "연구는 FHV-1의 진단법으로 LAMP와 LFD를 결합한 시각적 검사법을 확립하고 특이도·민감도·재현성을 평가했다. 검사법은 보존성이 높은 TK 유전자를 표적로 6개의 프라이머를 설계하였고, H-FIP에 비오틴 표지, H-LF에 6-FAM 표지를 사용하였다. 최적 반응조건은 외부 프라이머 0.2 μM, 내부 프라이머 1.2 μM, 루프 프라이머 0.6 μM, 63°C에서 40분 반응으로 설정되었다. 분석 결과 다른 상부호흡기질환(URTD) 유발 병원체와의 교차반응은 없었고 재현성도 양호했다. 검출한계는 재조합 플라스미드 10^2 copies/μL 및 배양된 FHV-1에서 10^1.5 TCID50/mL였으며, 임상 검체 87건 검사에서 양성률은 49.43%였다. qPCR과 비교 시 민감도 91.30%, 특이도 97.56%, 전체 일치율 94.25%, 카파값 0.89로 높은 일치도를 보여 현장 및 1차 진료 환경에서 사용 가능함을 시사한다. 초록에는 추가적인 제한점이나 대규모 임상 적용에 대한 장기 평가 결과는 명시되어 있지 않다.",
+      "title": "Establishment of a loop-mediated isothermal amplification-lateral flow dipstick assay for the point-of-care testing of feline herpesvirus-1.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-07-29T00:16:36.008Z",
+      "model": "gpt-5-mini"
+    },
+    "42519722": {
+      "brief_summary": "스위스의 소동물 병원 4곳에서 직원이 출근 시 데려오는 반려견의 장단점을 파악하기 위해 반구조화 면담을 실시한 질적 연구로, 총 29건의 인터뷰가 분석되었다. 직원들이 반려견을 데려올 때 공통적으로 보고한 이점은 스트레스 감소, 사회적 상호작용 증가, 일·생활 균형 개선이었고, 위험으로는 돌봄으로 인한 추가 스트레스, 청소 부담, 잠재적 질병 전파, 주의 분산 및 공간·조직상의 문제점들이 있었다. 연구진은 이러한 결과를 바탕으로 명확한 규칙 소통, 적절한 공간 제공, 구조화된 통합 등 직원 반려견 관리 지침을 제안했으며, 반려견 동반 기회가 수의사·수의진의 복지에 기여할 수 있음을 시사한다.",
+      "detailed_summary": "연구는 생태학적 모델(개인·사회·지역사회·사회적 차원)을 바탕으로 스위스의 소동물 클리닉 4곳에서 반려견을 출근시키는 직원들을 대상으로 반구조화 면담을 실시한 질적 연구이다. 총 29건의 인터뷰를 다양한 직무의 직원들로부터 수집·분석했으며, 이점은 네 병원에서 일관되게 보고된 반면 위험 요인은 병원별 조직 구조에 따라 달랐다. 주요 이점은 스트레스 감소, 사회적 상호작용 증가, 일·생활 균형 개선 등이며, 식별된 위험에는 반려견 돌봄으로 인한 추가 스트레스와 청소 부담, 잠재적 질병 전파 가능성, 업무 중 주의 분산, 직원 소유 반려견을 위한 공간 배치 등 조직적 난제가 포함되었다. 이러한 발견을 바탕으로 연구진은 규칙의 명확·일관된 소통, 적절한 장소 제공, 반려견의 직장 내 구조화된 통합 등 실무 지침을 제시했다. 결론적으로 직원 입장에서 반려견 출근 허용은 수의 임상 환경에서 직원 복지에 긍정적 기여가 될 수 있으며, 공식화된 지침 도입이 직원·반려견·고용주에게 긍정적 환경을 조성하는 데 도움이 될 수 있다. 연구 대상이 반려견을 출근시키는 직원들의 관점에 국한되어 있어(비(非)반려견 소유 직원 의견은 포함되지 않음) 결과의 적용과 해석은 해당 맥락을 고려해야 한다.",
+      "title": "Benefits and risks of staff-owned dogs in small animal clinics: perspectives of employees that bring their dog to work.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-07-29T00:16:13.760Z",
+      "model": "gpt-5-mini"
+    },
+    "42519725": {
+      "brief_summary": "본 전향적 임상연구는 퇴행성 관절 질환(골관절염, osteoarthritis, OA)이 진단된 21마리의 반려견을 대상으로 5주간(주 3회) 구조화된 치료적 운동 프로그램이 수동 관절 가동범위( PROM)와 사지 근육 둘레에 미치는 영향을 평가했다. 전반적으로 신전 동작에서 PROM 증가 비율이 높았고, 굴곡은 혼재된 반응을 보였으며 고관절에서 가장 뚜렷한 변화가 관찰되었다. 대퇴부 둘레에서 평균 증가가 가장 컸고 체중 및 체간 둘레는 대체로 안정적이었으며, 결과는 재활성 운동을 보수적 다학적 관리에 포함하는 것을 지지한다.",
+      "detailed_summary": "연구는 21마리의 임상 반려견을 대상으로 한 전향적 임상 연구로, 5주간 주 3회의 표준화된 재활 운동 프로토콜을 적용했다. 평가는 개별 부위의 수동 관절 가동범위(PROM)를 각 관절별로 곤이오미터로 측정하고 사지 둘레를 포함한 형태측정을 운동 전후에 시행했다. 측정값은 출판된 기준 중간값(reference midpoint)으로부터의 편차로 계산되었고, 개선은 편차의 감소로 정의되었다(절대 변화의 방향과 무관). 결과는 대부분 관절에서 신전 동작이 PROM 증가와 더 연관되었고, 굴곡은 감소 또는 변함없는 경우가 빈번한 등 혼재된 양상을 보였으며 특히 고관절에서 가장 뚜렷한 반응을 보였다. 골반족의 근육 둘레가 흉부족보다 더 컸고, 대퇴부에서 평균 둘레 증가가 가장 컸으며 체중과 체간 둘레는 개입 기간 동안 거의 안정적이었다. 개체 간 반응의 변이가 상당히 관찰되었고, 저자들은 구조화된 운동 기반 재활이 측정 가능한 관절 가동성 및 근육 둘레 변화를 동반한다고 결론지어 보수적 다학적 정형외과 관리에 통합하는 것을 지지한다고 보고했다.",
+      "title": "Structured therapeutic exercise program effect on PROM and muscle mass in dogs with osteoarthritis: a prospective clinical study.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-07-29T00:16:00.274Z",
+      "model": "gpt-5-mini"
+    },
+    "42519726": {
+      "brief_summary": "14마리의 정형학적으로 정상인 필드 트라이얼 리트리버를 대상으로 Acoustic myography(AMG, 근수축 측정법)를 이용해 이두근(biceps)과 삼두근(triceps)의 근작업을 비교했다. 아웃런(out-run)에서 이두근의 진폭과 수축 주파수가 높았고, 턴(turn)에서는 삼두근의 수축 주파수와 일부 근작업이 증가했으며 리턴(return) 시에는 양근육의 작업이 더 낮았다. 새를 물고 돌아오는 것 자체는 이두근 건병증(biceps tendinopathy)의 위험요인이 아니었다. 연구 결과는 턴 시 삼두근 작용에 따른 이두근의 과도한 인장과 아웃런에서의 높은 이두근 작업이 이두근 건병증의 가능성 있는 위험요인임을 시사한다.",
+      "detailed_summary": "연구는 14마리의 컨디션이 좋은 리트리버를 대상으로 실시했으며, 양측 이두근 및 삼두근에 유선 센서를 부착하고 하네스에 연결된 AMG 장비로 근수축을 측정했다. 개들은 91.44 m 거리의 리트리브를 3회 수행했고, AMG 기록은 아웃런과 리턴 구간에서 각각 2초, 턴 구간에서 1초씩 샘플링했다. 속도는 아웃런이 리턴보다 유의하게 빠른 것으로 나타났다(유의수준 p < 0.05). 주요 결과로는 아웃런에서 이두근의 진폭이 리턴보다 크고 주파수는 턴보다 높았으며, 턴에서 이두근 진폭이 리턴보다 컸다. 삼두근은 아웃런과 턴에서 모두 리턴보다 진폭이 컸고, 수축 주파수는 삼두근이 턴에서 아웃런보다 높았다. 통계분석에는 정규성 검정(Shapiro–Wilk), 다중 비교를 위한 혼합 효과모델 또는 ANOVA와 Tukey 사후검정 등이 사용되었고 유의수준은 p < 0.05로 설정되었다. 결론은 새를 운반하는 행위는 이두근 건병증의 위험요인이 아니며, 턴 시 삼두근에 의한 이두근의 과도한 인장과 아웃런에서의 높은 이두근 작업이 잠재적 위험요인임을 시사한다.",
+      "title": "Acoustic myography of the biceps and triceps brachii muscles during retrieving drills in field trial dogs.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-07-29T00:15:33.334Z",
       "model": "gpt-5-mini"
     }
   }
