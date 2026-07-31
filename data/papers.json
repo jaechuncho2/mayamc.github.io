@@ -1,6 +1,63 @@
 {
-  "updated_at": "2026-07-30T06:42:46.424Z",
+  "updated_at": "2026-07-31T08:12:43.964Z",
   "papers": [
+    {
+      "pmid": "42531050",
+      "title": "Dachshund spinal health by coat and size type.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Hopper M, Liu CC, Embersics C, Otamendi A, Sullivan S",
+      "date": "2026 07 30",
+      "dateObject": "2026 07 30",
+      "abstract": "A prior report demonstrated that intervertebral disc disease (IVDD) risk varies in dachshunds by size-coat type, suggesting that coat and size genes affect IVDD risk. The furnishings (wire) coat gene, R-spondin-2, affects disc health in dogs, making such a role plausible. Identify differences in spinal health metrics (SHMs): by coat type, within a coat type by size, and by size-coat type. Dachshunds (n&#xa0;=&#xa0;4295) with known SHMs. Retrospective study reporting SHMs by coat and size type in dachshund populations in the United Kingdom (UK), Norway, and Denmark. For the UK population, a binary logistic regression was fitted with owner-reported disc disease status (yes vs no) as the outcome variable. For Denmark and Norway, populations were analyzed using proportional-odds ordinal logistic regression models, with calcification number (KN) groups (K0, K1/2, K3/4, and K5+) as the ordinal outcome. In all 3 populations, smooth coat was associated with worse SHMs compared with other coat types (eg, Norway vs long; odds ratio [OR], 2.11; 95% confidence interval [CI], 1.58-2.83; overall OR range, 1.81-2.59). Within a coat type, size was inconsistently associated with SHMs. In 12 of 15 comparisons, small smooth dachshunds had worse SHMs compared with other size-coat types (eg, Norway vs standard long; OR, 3.56; 95% CI, 2.19-5.79; range, 1.80-5.40). Dachshund spinal health varies by coat and inconsistently by size type. Coat and size genes may be factors that determine IVDD risk in dachshunds. We investigated differences in spinal health (disc disease risk) by coat and size in dachshunds from the UK, Norway, and Denmark (number, 4295). In these populations, smooth coat was consistently and small size was inconsistently associated with worse spinal health. Small (miniature and kaninchen) smooth dachshunds had worse spinal health than other size-coat combinations. Our findings could be explained by a higher fibroblast growth factor 4 like 2 (FGF4L2) chondrodystrophy (CDDY) allele frequency in smooth or small dachshunds, but data supporting this explanation is currently lacking. Another possibility is that coat and size genes affect spinal health in the following manner: smooth gene (fibroblast growth factor 5, FGF5)&#xa0;=&#xa0;detrimental, long gene (non-functional FGF5)&#xa0;=&#xa0;protective, furnishings (wire) gene (R-spondin-2, RSPO2)&#xa0;=&#xa0;very protective. Six genes in variable combinations produce small body size in dogs but which of these are present in dachshunds is poorly understood, and may explain the inconsistent association between size and spinal health. Our findings support the view that disc disease is polygenetic in dachshunds. Further research suggested by these findings should include: determining CDDY allele frequency by coat and size type, determining which small size gene combinations are most common in dachshunds, and investigating the mechanisms by which RSPO2 and FGF5 might affect disc health in dogs.",
+      "categories": [
+        "neurology",
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42518279",
+      "title": "Correction to: Pyogranulomatous lymphadenitis with Splendore-Hoeppli phenomenon caused by Neisseria species in a domestic shorthair cat.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "",
+      "date": "2026 07 30",
+      "dateObject": "2026 07 30",
+      "abstract": "",
+      "categories": []
+    },
+    {
+      "pmid": "42529517",
+      "title": "Case Report: Multi-drug-resistant pneumonia and chronic enteropathy in a Bernadoodle with selective IgA deficiency.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Kovarsky M, Rifkin J, Bahr K",
+      "date": "2026 07 30",
+      "dateObject": "2026 07 30",
+      "abstract": "This case is the first to describe a selective immunoglobulin A deficiency (sIgAD) in a Bernadoodle with recurrent multi-drug-resistant (MDR) pneumonia and a chronic enteropathy. The patient experienced chronic coughing and regurgitation from puppyhood, and advanced imaging and endoscopic procedures documented MDR Bordetella bronchisceptica (Bb) and Mycoplasma infections. Serum immunology testing documented sIgAD. Clinical signs have been well-managed with long-term prophylactic antibiotics, anti-inflammatory steroids, probiotics, and hydrolyzed protein diet. Low serum IgA levels have not been previously documented in the Bernese Mountain dog nor designer cross breeds, such as the Bernadoodle.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42528677",
+      "title": "Quantitative myocardial mapping using 3.0&#x202f;T cardiac magnetic resonance imaging in dogs: adenosine stress-rest evaluation.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Lee CE, Lee K, Yoon H",
+      "date": "2026 07 30",
+      "dateObject": "2026 07 30",
+      "abstract": "High-field cardiac magnetic resonance imaging (MRI) enables noninvasive assessment of myocardial tissue characteristics in anesthetized dogs; however, adenosine stress myocardial mapping at 3.0&#x202f;T remains insufficiently characterized. This study evaluated stress-rest changes and level-dependent variation in quantitative myocardial mapping indices. Seven clinically asymptomatic dogs not receiving cardiac medications underwent 3.0&#x202f;T cardiac MRI under general anesthesia in this prospective observational methodological study. Each dog completed two left ventricular myocardial mapping sessions (adenosine stress and rest) separated by &#x2265;48&#x202f;h. During stress, adenosine was infused at 140&#x202f;&#x3bc;g/kg/min. T1 native, T1 post, T2, and extracellular volume fraction (ECV) were acquired at basal, mid, and apical short-axis levels. Stress-rest differences were tested with the Wilcoxon signed-rank test, and basal-mid-apical differences were assessed using generalized estimating equations (GEE) ( p &#x202f;<&#x202f;0.05). Under adenosine stress, global T1 native and T2 were 6.73 and 10.16% higher than at rest, whereas global T1 post and ECV did not change significantly. Level-wise analyses showed basal predominance for T1 native, a modest stress-only basal-mid difference for ECV, and lower basal T2 at rest. At 3.0&#x202f;T, adenosine stress was associated with measurable increases in myocardial T1 native and T2 in anesthetized dogs, supporting further evaluation of protocol-specific, stress-associated mapping responses without relying solely on contrast-enhanced indices. Because mapping values varied across basal, mid, and apical levels, myocardial sampling level should be considered when interpreting or comparing canine stress-rest maps.",
+      "categories": [
+        "cardiology"
+      ]
+    },
+    {
+      "pmid": "42529917",
+      "title": "EXPRESS: Consuming treats with amino acids, osmolytes and sodium increased total water intake and decreased urine specific gravity of healthy cats.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "authors": "Kosmal PAL, Shoveller AK, Banton S, Cheer K, Farentino N, Armstrong LE",
+      "date": "2026 07 30",
+      "dateObject": "2026 07 30",
+      "abstract": "It is estimated that cats do not drink enough water, particularly those maintained on a dry diet. As such, the objective of this study was to determine the effects of providing two different high-moisture lickable treats containing glycine, alanine, taurine, and betaine, and two sodium levels, on water intake and hydration indices in cats fed dry diets. Twelve adult cats were provided treatments in a 3&#xd7;3 replicated Latin square design for five days per leg: dry diet (CON), CON + one treat with 0.99% sodium (TRT A) and CON + one treat with 1.55% sodium (TRT B). Daily free water intake (FWI) was measured using fountains, and total water intake (TWI) was calculated as FWI + moisture from food and treats. Urine specific gravity (USG) and pH were measured daily; urine protein (UP), urine creatinine (CR) and the protein-to-creatinine ratio (UP: CR) were assessed on the final day of each leg. Fasted blood samples were collected for serum biochemistry. Daily TWI was lower in CON than in TRT B (p = 0.001) and TRT A (p = 0.009). Average USG was higher in CON than in TRT B (P < 0.001) and TRT A (P = 0.005). UP and CR were also higher in CON (P < 0.001; P = 0.003). Daily TWI, average USG, UP, and CR were similar in TRT A and TRT B. Urine pH varied by day (P < 0.001), but treatments did not differ. Magnesium was greater in CON than TRT B (p = 0.006). Average FWI, UP: CR and all other biochemistry values did not differ. These data support that feeding either TRT A or TRT B increased the TWI of domestic cats fed a dry diet, and additional benefits accrued in lower USG, UP and CR.",
+      "categories": []
+    },
     {
       "pmid": "42525883",
       "title": "Survival outcomes of dogs with multicentric lymphoma treated with sequential half-body radiotherapy and L-CHOP without maintenance chemotherapy.",
@@ -13,16 +70,6 @@
         "internalMedicine",
         "oncology"
       ]
-    },
-    {
-      "pmid": "42518279",
-      "title": "Correction to: Pyogranulomatous lymphadenitis with Splendore-Hoeppli phenomenon caused by Neisseria species in a domestic shorthair cat.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "",
-      "date": "2026 07 29",
-      "dateObject": "2026 07 29",
-      "abstract": "",
-      "categories": []
     },
     {
       "pmid": "42526497",
@@ -1361,18 +1408,6 @@
       ]
     },
     {
-      "pmid": "41981761",
-      "title": "Lack of association between inner ear FLAIR suppression on MRI and laterality of clinical signs in feline idiopathic vestibular syndrome.",
-      "journal": "Journal of Feline Medicine and Surgery",
-      "authors": "Putzer M, De Decker S, Gutierrez Quintana R, Mosel AM, Volk HA",
-      "date": "2026 07 18",
-      "dateObject": "2026 07 18",
-      "abstract": "ObjectivesThe underlying aetiology of feline idiopathic vestibular syndrome (IVS) remains unclear. In humans, specific MRI sequences are used to demonstrate differences in endolymph composition between unaffected and affected inner ears. A previous study in dogs with IVS reported that in 93% of cases, the clinically affected side exhibited a lower degree of fluid-attenuated inversion recovery (FLAIR) suppression, which may indicate altered endolymph composition, potentially due to increased protein concentration. The objective of this study was to determine whether similar changes can be observed in cats with IVS.MethodsMedical records from three referral hospitals were reviewed. Cats were included if they had a diagnosis of IVS, clear lateralisation of clinical signs and had undergone MRI of the brain. Regions of interest (ROIs) were manually outlined to define the inner ear on T2-weighted and FLAIR images. The FLAIR suppression ratio for each ear was assessed by calculating the average signal intensity across both imaging sequences. Any unilateral reduction in suppression was compared with the direction of clinical signs. ROI size was also measured to evaluate potential swelling or collapse of inner ear structures.ResultsA total of 25 cats met the inclusion criteria. No correlation was found between the clinically affected side and the degree of FLAIR suppression. In 11/25 cats, the identified abnormal side did not correspond to the lateralisation of clinical signs, whereas in 14/25 cats it did. ROI measurements likewise showed no consistent association with the clinically affected side.Conclusions and relevanceIn the present cohort, these findings indicate that cats with IVS did not show a consistent association between clinical lateralisation and MRI-detectable endolymph changes, supporting the possibility of a different underlying pathophysiology compared with dogs. No link between MRI inner ear changes and the side of signs in cats with idiopathic vestibular syndrome The cause of idiopathic vestibular syndrome (IVS) in cats is still unknown. This condition makes cats suddenly lose their balance, tilt their heads or walk in circles. In humans, certain MRI techniques can show fluid changes inside the inner ear on the affected side. A previous study in dogs with IVS found that in most cases, the inner ear on the side showing signs had a different MRI appearance, suggesting a change in the fluid composition of the ear. In this study, we looked for similar changes in cats with IVS. We reviewed medical records from three referral hospitals and included cats with clinical signs relating to one side of the body that had undergone MRI scanning. For each cat, we compared the inner ears on both sides using two MRI sequences (T2-weighted and fluid-attenuated inversion recovery). We measured how much signal was suppressed in each ear to see if one side showed less suppression, which could indicate a change in the inner ear fluid. A total of 25 cats met the study criteria. We found no consistent link between the side of the clinical signs and the MRI changes. In 11 cats, the MRI findings did not match the side of the signs, while in 14 cats, they did. We also measured the size of the inner ear structures, but this showed no clear pattern related to the affected side. These results suggest that IVS in cats may have a different underlying cause than in dogs.",
-      "categories": [
-        "neurology"
-      ]
-    },
-    {
       "pmid": "42467980",
       "title": "Use of ultrasound-guided percutaneous perineural corticosteroid injections for refractory cervical pain secondary to vertebral venous system abnormality in a dog.",
       "journal": "Journal of Veterinary Internal Medicine",
@@ -1543,28 +1578,6 @@
       "categories": [
         "surgery"
       ]
-    },
-    {
-      "pmid": "42459546",
-      "title": "Radiographic and cone-beam computed tomography characterization of Chevron lucency in 82 clinically healthy maxillary canine teeth of dogs: a retrospective descriptive study.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Villamizar-Martinez LA, Qu Y, Villegas Lobos CM, Lopes-Kubitza FM",
-      "date": "2026 07 16",
-      "dateObject": "2026 07 16",
-      "abstract": "The apex of the canine tooth is surrounded by the periodontal ligament and alveolar bone, where the periapical cancellous bone may radiographically present as a V-shaped radiolucent area known as the \"chevron lucency\" (CL). Although CL in healthy maxillary canine teeth of dogs is considered a normal radiographic finding, its characterization on dental radiographs remains challenging due to the two-dimensional limitations of this imaging modality. This retrospective descriptive study aimed to morphologically characterize the radiographic and cone-beam computed tomography (CBCT) features of CLs in clinically healthy maxillary canine teeth of dogs and to determine which imaging modality provided superior diagnostic reliability for their identification and classification. Dental radiographs and CBCT images of 82 clinically healthy maxillary canine teeth from 41 dogs were retrospectively analyzed to evaluate key imaging features of the periapical region, including CL presence, shape, symmetry, lamina dura appearance, periodontal ligament space, and periapical cancellous bone pattern. CBCT demonstrated almost perfect inter-observer agreement for CL presence, shape, and symmetry ( &#x3ba; &#x202f;>&#x202f;0.81), outperforming intraoral radiography, which showed only moderate-to-substantial agreement for the same features ( &#x3ba; &#x202f;=&#x202f;0.46-0.78). The irregular shape was the most common CL morphology in both imaging modalities (47.7% in radiography; 65.7% in CBCT). Body weight and sex were the primary predictors of CL identification, with heavier dogs showing higher odds of CL detection (OR&#x202f;=&#x202f;1.17 per kg; 95% CI: 1.06-1.28). In conclusion, CBCT provides greater diagnostic reliability than intraoral radiography for characterizing CL and periapical structures in maxillary canine teeth of dogs and should be considered when radiographic findings are inconclusive or detailed morphological assessment is required for clinical decision-making.",
-      "categories": [
-        "surgery"
-      ]
-    },
-    {
-      "pmid": "42459545",
-      "title": "Species-specific differences across the rural-urban spectrum for perceived veterinary visit costs among U.S. pet owners.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Neill CL, ShalekBriski A",
-      "date": "2026 07 16",
-      "dateObject": "2026 07 16",
-      "abstract": "Financial barriers are among the most significant threats to companion animal welfare in the United States, yet little is known about how pet owners' perceived costs of veterinary care vary by geography or species. Rural cat owners in particular face compounding access challenges, including lower veterinary availability, reduced care-seeking norms, and potential differences in price expectations relative to non-rural counterparts. This study examines whether rural, suburban, and urban pet owners differ in their perceived cost of a routine veterinary visit and whether any such perception gap is species-specific. Cross-sectional online survey of US adults administered in November 2025. The sample comprised 2,216 dog- and cat-cost observations from 1,885 unique respondents (574 Rural, 759 Suburban, 552 Urban). Respondents reported their expected cost of a routine veterinary visit for their dog, cat, or both. Perceived costs were log-transformed to address right skew. Ordinary least squares regression models estimated the association of community type (Rural [reference], Suburban, Urban) on log-transformed perceived cost, controlling for household income, age, gender, and established veterinarian status. A species-by-community interaction term tested whether the community-type effect differed between dog and cat owners. The rural versus non-rural cost perception gap was species-specific. For dogs, perceived visit costs did not differ significantly by community type. For cats, rural owners perceived substantially lower routine visit costs than suburban and urban owners. Those without an established veterinarian also held significantly lower cost expectations. Rural cat owners hold lower perceived routine veterinary visit costs than non-rural counterparts, which could be attributable to reduced care exposure, local fee anchoring, and cultural ownership norms. The absence of a parallel effect among dog owners suggests this pattern reflects something specific to rural feline ownership rather than a general rural information disadvantage. These findings extend the literature on rural veterinary access disparities by identifying a cognitive mechanism that may compound structural barriers and contribute to the rural feline preventive care deficit. Interventions targeting proactive cost communication, pricing transparency, and community outreach programs could improve financial preparedness among rural cat owners and reduce the gap between cost expectations and actual care costs.",
-      "categories": []
     },
     {
       "pmid": "42082101",
@@ -2498,19 +2511,6 @@
       "abstract": "Eosinophilia with multi-organ infiltration is rarely reported in dogs. Successful treatment of previous cases has relied on a combination of prednisolone and hydroxyurea. A 15-month-old, intact, male Border terrier was presented at a referral hospital with a 6-month history of recurrent, acute episodic abdominal pain, trembling, vomiting, soft feces, and persistent marked eosinophilia. Computed tomography (CT) disclosed abdominal lymphadenomegaly, and cytological evaluation of fine needle aspirates indicated eosinophilic and neutrophilic pyogranulomatous lymphadenitis. Biopsy samples of jejunal and iliac lymph nodes, liver, and jejunum were obtained during exploratory celiotomy and showed marked eosinophilic infiltration with no inciting cause identifiable on histological examination. The dog was successfully managed with dietary modification alone, using a gluten-free hydrolyzed diet (Pro Plan Veterinary Diets HA Hypoallergenic, Purina, York, United Kingdom). The role of dietary modification should be considered in dogs presenting with acute gastrointestinal clinical signs and marked circulating and tissue eosinophilia when other causes are ruled out.",
       "categories": [
         "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42391600",
-      "title": "Clinical features, diagnostic findings, and outcomes of emphysematous cholecystitis in 35 dogs: a retrospective case series.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Ullal TV, McLarty E, Cordova AY, Weisbeck B, Shropshire SB, Seiler GS, Jablonski S, Schlesinger M, Choi EA",
-      "date": "2026 07 02",
-      "dateObject": "2026 07 02",
-      "abstract": "Emphysematous cholecystitis (EC) is a rare and severe variant of acute cholecystitis in dogs. Published data regarding EC are limited. To retrospectively describe the clinical presentation, relevant laboratory values, ultrasonographic findings, bile cytology, bacterial culture and susceptibility results, gallbladder histopathology, treatment, and outcomes in a group of dogs diagnosed with EC. Thirty-five client-owned dogs diagnosed with EC. A retrospective review of medical records from 4 referral veterinary teaching hospitals between January 2000 and December 2024 was conducted to describe dogs diagnosed with EC via ultrasonography or computed tomography. Common clinical signs reported included vomiting (23/35, 66%), lethargy (23/35, 66%), or inappetence (15/35, 43%) in dogs. Common clinicopathologic abnormalities were an inflammatory leukogram (21/31, 68%) and elevated serum liver enzyme activity with or without hyperbilirubinemia (28/33, 85%). The most frequent bacteria isolated were Escherichia coli (13/36 isolates) and Clostridium spp. (12/36 isolates). Postoperative death among dogs that underwent cholecystectomy was 29% (4/14). Eleven of 35 (31%) dogs were treated medically and survived to discharge and 5 of 6 dogs with long-term follow-up survived >&#x2009;6&#xa0;months. Dogs with EC often present as clinically ill with an inflammatory leukogram, elevated serum liver enzyme activity, and mild hyperbilirubinemia. Cholecystectomy permits source control and collection of gallbladder culture to guide antimicrobial therapy, but empirical medical management can be successful.",
-      "categories": [
-        "internalMedicine",
-        "surgery"
       ]
     },
     {
