@@ -1,6 +1,257 @@
 {
-  "updated_at": "2026-07-31T08:12:43.964Z",
+  "updated_at": "2026-08-01T06:47:44.939Z",
   "papers": [
+    {
+      "pmid": "42208593",
+      "title": "Preoperative parathyroid hormone concentration predicts postoperative hypocalcemia severity in dogs undergoing parathyroidectomy.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Daugherty E, Codd C, Howard J",
+      "date": "2026 07 31",
+      "dateObject": "2026 07 31",
+      "abstract": "To evaluate preoperative parathyroid hormone (PTH) concentration as a predictor of moderate to severe postoperative hypocalcemia following parathyroidectomy in dogs with primary hyperparathyroidism. Retrospective analysis of dogs undergoing parathyroidectomy for primary hyperparathyroidism and excluding dogs receiving prophylactic calcitriol. Preoperative serum PTH measurement was stratified into groups by multiples of the assay-specific upper limit of normal (ULN). Whole blood ionized calcium (iCa) nadir was used to classify postoperative outcome, with moderate to severe hypocalcemia defined as iCa < 1.00 mmol/L. 92 dogs were included. Moderate to severe hypocalcemia occurred in 36 dogs (39.1%). A graded relationship was identified between PTH strata and moderate to severe hypocalcemia: 9 of 47 dogs (19.1%) with normal PTH, 14 of 27 (51.9%) with > 1 to 2 times ULN, 5 of 10 (50.0%) with > 2 to 3 times ULN, and 8 of 8 (100%) with > 3 times ULN. A PTH cutoff of 1.05 times ULN yielded an area under the curve of 0.76 (95% CI, 0.65 to 0.86), with 72.2% sensitivity and 71.4% specificity. Median time to overall calcium nadir was 65.8 hours (range, 3.7 to 19,794.1), with 40 of 92 dogs (43.5%) reaching nadir after 72 hours. Late nadirs were common in dogs with moderate to severe hypocalcemia (25 of 36 [69.4%]) versus normocalcemia (10 of 44 [22.7%]). Preoperative PTH concentration stratified by ULN multiples demonstrates a graded relationship with postoperative hypocalcemia. PTH-based stratification could identify high-risk patients warranting prophylactic therapeutics and extended monitoring.",
+      "categories": [
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42202851",
+      "title": "Two Doppler blood pressure devices and 2 oscillometric blood pressure devices failed American College of Veterinary Internal Medicine validation in conscious dogs.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Quinn KA, Lorge C, Zersen KM, Guillaumin J",
+      "date": "2026 07 31",
+      "dateObject": "2026 07 31",
+      "abstract": "To compare the accuracy of 2 Doppler and 2 oscillometric devices to invasive blood pressure (IBP) measurements in conscious dogs at 2 cuff locations using the American College of Veterinary Internal Medicine (ACVIM) validation criteria. 8 Beagles had dorsal pedal arterial catheters placed under anesthesia on November 13 and 18, 2024. Once conscious, paired non-IBP and IBP measurements were collected at the tail and forelimb for all devices. Bias, SD, percentage of values within 10 and 20 mm Hg of IBP, correlation coefficients, and limits of agreement were calculated for each paired measurement. No device met ACVIM validation criteria at either cuff location. Devices performed better at the tail compared to the forelimb. Doppler devices performed better than oscillometric devices for systolic blood pressure. Oscillometric devices performed best for mean blood pressure (MBP). The MBP measured by the multiparameter monitor at the tail showed the most favorable overall performance, including a bias of 1.75 mm Hg (SD, 8.98); 82% and 96% of measurements within 10 and 20 mm Hg of IBP, respectively; and limits of agreement of -15 to 19. The correlation coefficient threshold was not met by any device. None of the devices were validated against IBP in conscious adult dogs using ACVIM criteria. Tail placement improved performance across devices. Oscillometric devices appeared more reliable for MBP, whereas Doppler devices provided more reliable systolic blood pressure measurements. Clinicians should interpret NIBP cautiously in conscious dogs.",
+      "categories": []
+    },
+    {
+      "pmid": "42190707",
+      "title": "Right ventricular systolic function in dogs with pulmonary hypertension can be assessed using tissue motion annular displacement.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Silva VBC, Lucina SB, Wolf M, Sarraff AP, Franco LFC, Sousa MG",
+      "date": "2026 07 31",
+      "dateObject": "2026 07 31",
+      "abstract": "To assess right ventricular (RV) systolic function using conventional echocardiography and advanced techniques, including strain and tissue motion annular displacement (TMAD), in dogs with and without pulmonary hypertension (PH). Dogs with PH and healthy client-owned dogs (control group) evaluated from March 2018 through June 2022 were eligible for inclusion in this case-control study. Dogs in the PH group were classified as having either precapillary or postcapillary PH. All dogs underwent physical examination, blood pressure measurement, electrocardiography, and echocardiographic evaluation, including conventional and speckle-tracking techniques. Right ventricular systolic function was assessed using multiple variables, including TMAD, measured as midpoint displacement (millimeters), midpoint displacement relative to RV length (percentage), and TMAD indexed to body weight (mm/kg) and body surface area (mm/m2). The results were compared among groups and subgroups. There were 46 dogs in the PH group (precapillary PH, n = 27; postcapillary PH, 19) and 44 dogs in the control group. The TMAD values were lowest in dogs with precapillary PH compared with the control group and dogs with postcapillary PH. Tissue motion annular displacement (mm/kg) showed weak to moderate positive correlations with RV structural variables and fractional area change percentage, a weak negative correlation with tricuspid annular plane systolic excursion normalized by body weight, and no significant correlation with peak velocity of systolic tricuspid annular motion as determined by tissue Doppler imaging (S'). TMAD does not replace conventional techniques for assessing RV systolic function. The evaluated technique may serve as a supplementary tool for assessing RV systolic function in dogs with PH.",
+      "categories": [
+        "cardiology"
+      ]
+    },
+    {
+      "pmid": "42190701",
+      "title": "Toward creating \"caninized\" mice: reconstitution of canine immune cells in immunodeficient mice.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Stokol T, Demeter EA, Cockey JR, Leifer CA, Puri R, Butler S, Byron M, Webb S",
+      "date": "2026 07 31",
+      "dateObject": "2026 07 31",
+      "abstract": "To generate \"caninized\" mice that could be used for investigating canine diseases and testing new therapies. In this experimental study, canine hematopoietic stem cells (HSCs) were isolated from bone marrow mononuclear cells from donor dogs using immunomagnetic sorting and an anti-canine CD34 antibody. Fresh or overnight-cultured HSCs were administered IV into sublethally irradiated immunodeficient mice (NOD scid &#x3b3; strain) 4 to 20 hours after irradiation (median dose, 2.0 X 105 cells; n = 120) with noninjected irradiated controls (30). Engraftment was assessed by serum canine immunoglobulin M (IgM) measurement and flow cytometric analysis for canine leukocytes and immunohistochemical staining for T and B cells. HSCs were enriched after sorting (median CD34+ cells, 87.6% vs 2.5% in bone marrow mononuclear cells). Canine IgM was measurable in sera of 49% of 94 surviving injected mice 19 to 42 weeks after irradiation (median IgM, 310 ng/mL; range, 18 to > 8,400 ng/mL). Higher serum canine IgM concentrations were detected in mice injected with fresh versus overnight-cultured HSCs. Low numbers of canine leukocytes and T and B cells were identified in the spleen and bone marrow with flow cytometry or immunohistochemistry. NOD scid &#x3b3; mice can be engrafted with canine immune cells. The creation of \"caninized\" mice is feasible, but efficiency of engraftment was low and requires further optimization before these mice can be used to model canine disease.",
+      "categories": []
+    },
+    {
+      "pmid": "42173147",
+      "title": "A video guide to stabilization of canine hip luxation by intra-articular reconstruction of the round ligament using a synthetic implant.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Buttin P, Crumi&#xe8;re A, Goin B",
+      "date": "2026 07 31",
+      "dateObject": "2026 07 31",
+      "abstract": "To provide video guidance on performing intra-articular repair of the round ligament with a synthetic implant to stabilize the coxofemoral joint following hip luxation in dogs. Dogs of any size with hip luxation associated with rupture of the round ligament. With the dog in lateral recumbency, a femoral tunnel is drilled from the base of the greater trochanter to the fovea capitis. A second femoral tunnel is drilled caudocranially, distal and perpendicular to the first one, midway between the medial and lateral cortices of the proximal femoral metaphysis. This tunnel is compacted with an interference screw intended for implant fixation. A third tunnel is drilled through the acetabulum at the footprint of the round ligament. An ultra-high-molecular-weight polyethylene (UHMWPE) implant preassembled with a cortical button is inserted through the acetabular tunnel, such that the button lies against the medial wall of the acetabulum. The implant is passed through the femoral tunnels, tensioned, and secured in the second femoral tunnel with the use of an interference screw inserted caudocranially. This technique provides immediate stabilization and restores physiological mobility of the hip. Hip luxation is a common traumatic lesion in small animals. The choice of surgical treatment depends on the type of hip luxation, which usually occurs in a craniodorsal direction and more rarely in a caudodorsal or caudoventral direction. Intra-articular repair replaces the torn round ligament with a biocompatible UHMWPE implant to restore the stability and mobility of the joint. This technique allows for treatment of all luxation types.",
+      "categories": [
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42161304",
+      "title": "Effective ultrasonography protocol for investigating muscular structures of the canine dorsolateral hip region with comparative magnetic resonance imaging.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Ellis KM, Frye CW, Miller AV, Todd-Donato AB",
+      "date": "2026 07 31",
+      "dateObject": "2026 07 31",
+      "abstract": "To develop an ultrasonography protocol for identifying muscles of the dorsolateral hip region that contribute to joint stability, with verification by MRI and gross dissection. Muscles of the dorsolateral hip region were investigated using 3-Tesla MRI followed by high-frequency B-mode ultrasonography in 5 skeletally mature canine cadavers (n = 10) from September 1, 2024, through August 30, 2025. The origins, insertions, and anatomical relationships of the musculature were documented. The accuracy of structure identification was confirmed using ultrasonography-guided injections of dye placement followed by gross dissection. Ultrasonography and MRI images of the middle gluteal, deep gluteal, superficial gluteal, piriformis, biceps femoris, internal obturator, gemelli, and quadratus femoris were acquired. The appearance of the sacrotuberous ligament and sciatic nerve was also documented as relevant landmarks for muscle identification. The approach for ultrasonographic identification of each structure was documented. Ultrasonography-guided dye placement into all 8 muscles was performed separately by 2 diplomates (American College of Veterinary Radiology and American College of Veterinary Sports Medicine and Rehabilitation). Upon dissection, dye injections accurately identified all 8 structures consistently between diplomates. This study documents an effective ultrasonography protocol for investigating the structures of the dorsolateral hip region, consistent with comparative MRI and gross dissection. This study advances knowledge of normal ultrasonographic anatomy of the dorsolateral hip region, allowing for improved identification, monitoring, and treatment of soft tissue injury.",
+      "categories": [
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42161299",
+      "title": "Two digital electrocardiographs and their computer-based analysis programs produce clinically significant differences in values and reference intervals for dog electrocardiograms.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Constable P, Jones T, Wilson C, Hernandez M, Jacob T, Nelson S",
+      "date": "2026 07 31",
+      "dateObject": "2026 07 31",
+      "abstract": "To compare measured ECG intervals and amplitudes obtained using electrocardiographs adapted for veterinary or human use and to develop ECG reference intervals for endurance-trained dogs. Standard limb lead ECG recordings were obtained simultaneously in February and early March of 2021 using 2 digital electrocardiographs and a convenience sample of 121 endurance-trained sled adult dogs. Visually verified computer-based ECG measurements for the 2 electrocardiographs were compared using the Wilcoxon signed-rank test, Deming regression, and Bland-Altman plots. We assigned acceptable median values for differences (effect sizes) of < 10 milliseconds for P-wave duration, PQ interval, QRS duration, JT interval, and QT interval and < 10% for P-, Q-, R-, S-, and T-wave amplitudes. Statistically significant differences between the 2 electrocardiographs existed for the majority (7 of 9) of global ECG indices and the majority (10 of 15) of lead I-, II-, and III-wave amplitudes. Clinically important differences based on assigned effect sizes were identified for lead II and III Q- and R-wave amplitudes, which the veterinary electrocardiograph measured 11% to 23% higher. The veterinary electrocardiograph identified a higher proportion of dogs that may have left or right ventricular enlargement. Reference intervals developed for 7 of 9 global ECG indices were narrower for the veterinary electrocardiograph. The low-pass filter on the veterinary electrocardiograph attenuates higher frequencies on the canine ECG to a lower extent than the human electrocardiograph. Reference intervals for dog ECGs depend on the digital electrocardiograph, its high-frequency filtering characteristics, and its computer-based analysis program.",
+      "categories": [
+        "cardiology"
+      ]
+    },
+    {
+      "pmid": "42140268",
+      "title": "Pet insurance uptake is associated with dog and owner demographics and health status based on Dog Aging Project survey data.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "McCullough AW, O'Brien JS, Sexton C, Dog Aging Project Consortium, Ruple A",
+      "date": "2026 07 31",
+      "dateObject": "2026 07 31",
+      "abstract": "To describe the demographics of dog owners and dogs with pet insurance enrolled in the Dog Aging Project (DAP), a large population of dogs in the US, and examine the impact of pet insurance on owners' perception of their dog's health. In this cross-sectional study, 47,444 dog owners' responses from the DAP initial enrollment survey, the Health and Life Experience Survey, were analyzed from January 1, 2020, through December 31, 2023. Dog and dog owner demographic data were collected and compared using descriptive statistics. Owner-perceived health status of their dog was compared between insured and uninsured dogs using a &#x3c7;2 test of significance. 10,127 of 47,444 DAP participants (21%) have a pet insurance policy. Insured dog owners were 25 to 44 years old, non-White, and professional degree earners compared to the overall DAP population. Insured dogs were young, single-breed dogs obtained from breeders for purposes other than companionship compared to the overall DAP population. Five thousand, five hundred and fourteen of 10,127 insured dogs (54%) and 17,979 of 37,317 uninsured dogs (48%) are perceived to be in excellent health, a statistically significant difference. This study illustrates that certain demographic factors are more common among insured dogs and dog owners. The health status of dogs with pet insurance is statistically different compared to those without it. Further investigation of this association is warranted. This information can inform veterinary discussions with pet owners about pet insurance.",
+      "categories": []
+    },
+    {
+      "pmid": "42140264",
+      "title": "Study identifies prevalence estimates of clinically relevant canine thoracic radiographic findings and insights into interobserver variability.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Baumruck R, Tagudar J, Doyle P, Durgempudi P, Cortner CN, Schestopol B, Hossl AK, Coulter C, Ruth JD, Nagy J, De Haan CE, Fields E, Uerling M, Savage M, Szlosek D",
+      "date": "2026 07 31",
+      "dateObject": "2026 07 31",
+      "abstract": "To estimate the prevalence of 17 clinically relevant thoracic radiographic findings in dogs and quantify interobserver variability among veterinary radiologists, with the hypothesis that findings would vary widely in prevalence while maintaining high interobserver agreement. 4,000 lateral thoracic radiographic examinations created between May and December 2023 were randomly selected from IDEXX Telemedicine Consultants' electronic medical records. After exclusion, 2,761 examinations were ultimately evaluated for 17 preselected conditions by 5 board-certified veterinary radiologists, subsequently reduced to 3 to expedite the study. Prevalence for each condition was estimated using a latent class expectation-maximization approach. 2,761 studies were ultimately evaluated for 17 conditions by a total of 12 radiologists (1,367 studies evaluated in triplicate, and 1,394 studies evaluated in quintuplicate); the most prevalent conditions were abnormal pulmonary pattern (60.9%) and redundant tracheal membrane (29.4%). The least prevalent were heart base mass (0.5%) and esophageal foreign body (0.3%). Interobserver agreement was generally high for radiographically distinct conditions, such as esophageal foreign body, heart base mass, and pneumothorax, as each achieved an area under the receiver-operating characteristic curve of 1.00, with a modest decrease for subjective or morphologically ambiguous conditions, such as suspected tracheal chondromalacia (0.76) and cranial mediastinal widening as a breed variant/fat deposition (0.78). Thoracic radiographic findings in dogs vary substantially in prevalence, with pulmonary abnormalities being the most common. Interobserver agreement is condition dependent, with the greatest variability among subjectively assessed findings. Prevalence estimates and agreement profiles provide a framework for clinical benchmarking and highlight categories where standardized criteria may improve consistency.",
+      "categories": [
+        "cardiology"
+      ]
+    },
+    {
+      "pmid": "42114562",
+      "title": "Fusion podoplasty provides favorable long-term outcomes in dogs with interdigital follicular cysts unresponsive to medical therapy: a retrospective study of 16 cases.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Bezombes R, Poncet C, Bernard F, Videmont-Drevon E, Dumartinet C",
+      "date": "2026 07 31",
+      "dateObject": "2026 07 31",
+      "abstract": "To evaluate clinical outcomes and postoperative complications associated with fusion podoplasty in dogs with chronic interdigital follicular cysts (CIFCs) unresponsive to multimodal medical management. In this retrospective observational study, medical records from 2 referral hospitals were reviewed to identify dogs that underwent fusion podoplasty from 2005 through 2025. Included dogs were diagnosed with CIFCs presumed secondary to mechanical friction or trauma and refractory to medical management. Dogs with other causes of interdigital dermatitis were excluded. Data included signalment, clinical history, dermatologic findings, surgical procedures, and postoperative management. Partial fusion podoplasty (PFP) or total fusion podoplasty (TFP) was performed. Outcomes included time to wound healing, postoperative outcome classification, and complications categorized as minor or major. Eleven dogs met the inclusion criteria, with a median follow-up of 16 months. Total fusion podoplasty was performed on 9 paws and PFP on 7. All paws healed, with a median healing time of 28 days. Twenty complications occurred in 9 dogs, 18 minor and 2 major; partial incisional dehiscence was the most common (7 of 20). No wound complications occurred in the 5 TFP procedures in which a Penrose drain was placed. Long-term outcomes were excellent in 8 dogs, acceptable in 1, and poor in 2. Fusion podoplasty resulted in satisfactory long-term outcomes in most dogs with medically refractory CIFCs, with TFP associated with fewer postoperative complications than PFP. Fusion podoplasty represents a valuable salvage option for dogs with refractory CIFCs and may be particularly beneficial when TFP is combined with passive drainage.",
+      "categories": [
+        "surgery",
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42114560",
+      "title": "Skin structures associated with percutaneous drug penetration differ by body site in Beagles.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Takeo F, Murayama N, Kamiie J, Orito K",
+      "date": "2026 07 31",
+      "dateObject": "2026 07 31",
+      "abstract": "To characterize differences among body sites in skin morphological features of Beagles that may influence percutaneous drug penetration. This exploratory study was conducted from November 2024 through March 2025 with 6 Beagles. Skin samples were collected from 3 body sites-the dorsum, lateral trunk, and ventral abdomen. Skin samples were collected under sedation with local anesthesia. Epidermal thickness, the number of stratum corneum (SC) layers, and dermal vessel density were evaluated histologically. Follicular ostia density was evaluated using dermoscopic images. Data are presented as mean values with 95% CIs. Epidermal thickness showed only small differences among body sites. The number of SC layers also showed small differences (maximum mean difference, approx 0.3 layers). In contrast, follicular ostia density showed large differences among body sites and was highest in the dorsum, intermediate in the lateral trunk, and lowest in the ventral abdomen. Dermal vessel density showed moderate differences, with higher values in the ventral abdomen than in the dorsum and lateral trunk. In Beagles, epidermal thickness and the number of SC layers are relatively uniform across body sites, whereas follicular ostia density and dermal vessel density show clear differences among body sites. These findings suggest that skin structural factors other than epidermal thickness and the number of SC layers may influence percutaneous drug penetration; however, this remains a hypothesis and requires further study.",
+      "categories": [
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42114558",
+      "title": "Establishing a standardized biorepository across 3 clinical and translational science center-affiliated veterinary institutions is feasible and productive.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Crawford LK, Church ME, Boudreaux KA, Lapin JN, Hahn LA, Solis LJ, Wilson R, Zetterberg H, Catacci Guimaraes F, Shen S, Toedebusch RG, Vernau K, Dupanloup A, Panek W, Cameron S, Toedebusch CM",
+      "date": "2026 07 31",
+      "dateObject": "2026 07 31",
+      "abstract": "To assess faculty interest in veterinary biospecimens, develop a standardized multi-institutional biological fluid repository across 3 veterinary institutions, and assess quality and fitness for purpose of archived samples. We conducted a prospective multi-institutional biobanking and feasibility study from 2022 through 2025. Faculty from each institution were administered a voluntary and anonymous survey via email, and responses were recorded. Biological fluid specimens were collected and archived from the Neurology and Neurosurgery Services of each participating institution. A shared database (Freezerworks) was utilized by all 3 institutions to annotate each sample with clinical data and record the storage location. Selected serum (n = 12), CSF (n = 12), and urine (n = 9) samples were assessed for quality control and fitness for purpose by measuring concentrations of putative biomarkers via ELISAs and single-molecule array, respectively. Faculty surveys indicated widespread support for centralized institutional biobanking, with 94 of 170 respondents (55%) in favor of a combination of institutional and investigator financial support. Over 2,500 biological specimens from dogs and cats with neurological disease were collected during the 3-year study period. Sample quality across serum, urine, and CSF was consistent across institutions. Moreover, serum samples from randomly selected dogs with divergent diagnoses yielded robust and discriminatory concentrations of putative neurodegenerative disease proteins. Multi-institutional veterinary biobanking is feasible and productive, providing investigators with access to clinically annotated, high-quality biospecimens. A common repository registry, wherein investigators have reciprocal access to standardized biospecimens, will connect investigators from all domains to promote rigorous, well-powered multicenter studies.",
+      "categories": [
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "42097171",
+      "title": "Magnetic resonance imaging of dogs with cervical disease revealed a higher proportion of intervertebral disk disease in small dogs and neoplasia in large dogs.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Darrah K, Spence S",
+      "date": "2026 07 31",
+      "dateObject": "2026 07 31",
+      "abstract": "To compare the proportion of lesions identified on cervical MRI in dogs based on weight. Medical records from a tertiary referral hospital were reviewed for dogs that underwent cervical MRI to investigate clinical signs consistent with cervical disease from August 30, 2019, through August 30, 2024. Dogs were grouped according to their weight (< 15 or &#x2265; 15 kg). Case details, including the patients' weight, breed, age, sex and neuter status, presenting clinical signs, and MRI findings, were recorded. There were 270 dogs included in the study. In dogs weighing < 15 kg, the proportion of intervertebral disk disease (IVDD) was 145 of 175 (82.9%) compared to 58 of 95 (61.1%) in dogs weighing &#x2265; 15 kg, and the odds of having IVDD were 68% less for dogs weighing &#x2265; 15 kg (OR, 0.32; 95% CI, 0.18 to 0.57). There was no significant association between IVDD and weight in chondrodystrophic dogs. The odds of having neoplasia were 4.5 times higher for dogs weighing &#x2265; 15 kg (OR, 5.3; 95% CI, 2.1 to 15). The odds of cervical spondylomyelopathy increased with weight (OR, 1.11; 95% CI, 1.06 to 1.16). The weights of dogs with atlantoaxial instability (AAI; median, 5.2; IQR, 2.8 to 6.9) were significantly less than dogs without AAI (median, 11.0; IQR, 6.4 to 25.5). The odds of congenital abnormalities were 97% higher for dogs weighing < 15 kg compared to dogs weighing &#x2265; 15 kg (OR, 0.03; 95% CI, < 0.001 to 0.24). Dogs weighing < 15 kg had significantly higher proportions of IVDD, AAI, and congenital abnormalities compared to dogs weighing &#x2265; 15 kg. Dogs weighing &#x2265; 15 kg had significantly higher proportions of neoplasia and cervical spondylomyelopathy compared to dogs weighing < 15 kg. This knowledge can improve the initial consultation discussion with clients that are considering advanced imaging for dogs with cervical disease and subsequent diagnostics and treatments.",
+      "categories": [
+        "oncology",
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "42097169",
+      "title": "Vertebral left atrial ventral: a new prognostic marker in dogs with mitral valve disease.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Beluque T, Endrighi M, Lucina SB, Rodrigues A, Braz JB, Zacch&#xe9; E, de Oliveira LB, Froes TR, Sousa MG",
+      "date": "2026 07 31",
+      "dateObject": "2026 07 31",
+      "abstract": "To compare previously described radiographic measurements to identify dogs in stage B2, cutoff values, propose a new measurement and evaluate their ability to predict survival in dogs with mitral valve disease (MVD). This observational, retrospective, and prospective study included dogs without heart disease (control) or diagnosed with MVD by Doppler echocardiography. Radiographic measurements included left atrial width (LAwidth), radiographic left atrial dimension (RLAD), vertebral left atrial size (VLAS), modified VLAS (M-VLAS), vertebral left atrial ventral (VLAV), and vertebral heart score (VHS). All dogs underwent complete echocardiographic and radiographic examinations. Dogs with hemivertebrae, cardiac or pulmonary neoplasia, or poor-quality examinations were excluded. Examinations performed between November 2017 and April 2024 were evaluated. Examinations were evaluated in 191 dogs. VLAS, M-VLAS, LAwidth, and RLAD differed between stages B1, B2, and C/D. VLAV differed between control and stage B1 from stages B2 and C/D. VLAV accurately identified dogs with stage B2 MVD, showing good diagnostic performance (AUC, 0.82; 95% CI, 0.76-0.88), and was similar to the other measurements. Cutoff values for identifying left cardiomegaly were defined for all measures (VLAS > 2.48; M-VLAS > 3.4; LAwidth > 2.11; RLAD > 2.7; VLAV > 2.99). Repeatability and reproducibility were good to excellent. VLAS and M-VLAS reliably identified increased LA/Ao ratio and suspected stage B2 MVD. Higher values of VLAS, M-VLAS, LAwidth, and VLAV were associated with shorter survival, with VLAV &#x2265; 3.0 indicating an unfavorable outcome. These measures may be considered to screen which patients will undergo echocardiography and to assist in predicting survival time.",
+      "categories": [
+        "cardiology",
+        "oncology"
+      ]
+    },
+    {
+      "pmid": "42091082",
+      "title": "Hyperbaric oxygen therapy does not improve recovery of deep pain perception in dogs after hemilaminectomy for intervertebral disk disease.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Kienitz LT, McCoy AM, Robbins MA",
+      "date": "2026 07 31",
+      "dateObject": "2026 07 31",
+      "abstract": "Investigate effect of hyperbaric oxygen therapy (HBOT) on recovery of deep pain perception (DPP) in dogs after hemilaminectomy for thoracolumbar intervertebral disk disease (IVDD). Records of client-owned dogs with absent DPP in pelvic limbs after hemilaminectomy for IVDD from January 2014 through December 2024 were retrospectively reviewed. Dogs undergoing hemilaminectomy were divided into groups: received HBOT (HB) and no HBOT (NHB). Modified Frankel scores were assigned between 0 (absent DPP in either pelvic limb) and 5 (spinal hyperesthesia) preoperatively, postoperatively, and at recheck examination. Outcomes were compared using the Pearson &#x3c7;2 test. Regression analysis assessed if other factors were associated with improvement in Frankel score. 110 dogs with absent DPP had thoracolumbar hemilaminectomies, 45 in HB group and 65 in NHB group. Thirty-three of 45 HB cases (73.3%) and 39 of 65 NHB cases (60%) improved neurologically by recheck examination (P = .21). There were no differences in neurological improvement between groups at any time point (P = .32). Multivariable regression analysis revealed worse odds of improvement for thoracolumbar relative to lumbar lesions (OR, 0.01; 95% CI, 0.0008 to 0.49; P = .04). Improvement odds with thoracolumbar lesions were lower in NHB than HB group (contrast OR, 0.029; 95% CI, 0.027 to 0.031; P = .01). HBOT session amount was not associated with improvement (P = .65). HBOT did not impact recovery of DPP after hemilaminectomy. Thoracolumbar lesions had lower odds of neurological improvement than lumbar lesions. Odds were improved with HBOT. Findings may predict return to ambulation.",
+      "categories": [
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "42086066",
+      "title": "Persistent and recurrent hypercalcemia are uncommon in dogs undergoing surgical treatment for primary hyperparathyroidism.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Rosa-Padilla NL, Fuller B, Schumacher C, Lux C, Thieman K, Biehl K, Ham K",
+      "date": "2026 07 31",
+      "dateObject": "2026 07 31",
+      "abstract": "To report the proportion of cases, causes, and definitions of recurrent and persistent hypercalcemia in dogs following surgical removal of autonomously functioning parathyroid tissue. Retrospective review of medical records from 3 academic veterinary hospitals (2012 to 2022) identified dogs with surgically treated primary hyperparathyroidism. Data included signalment, clinical signs, diagnostics, treatment, histopathology, and outcomes. Dogs were categorized by follow-up: &#x2264; 6 months (group 1) or > 6 months (group 2). Descriptive statistics were performed. The Mann-Whitney U test compared preoperative ionized calcium and parathyroid hormone between dogs with persistent versus resolved hypercalcemia. 202 dogs met the inclusion criteria. Group 1 included 123 dogs, and group 2 included 79 dogs. Mean age was 10.7 &#xb1; 2.23 years, with no sex predilection. Hypercalcemia-associated clinical signs occurred in 68% (138 of 202) of dogs. Histopathology revealed parathyroid adenoma (58% [135 of 233]), hyperplasia (24% [56 of 233]), and carcinoma (7% [10 of 233]) as most common. Persistent hypercalcemia occurred in 25 of 202 dogs (12.4%), primarily due to incorrect surgical removal or multiglandular disease. Preoperative ionized calcium and parathyroid hormone did not differ between persistent and resolved cases. Recurrent hypercalcemia occurred in 1 of 79 (1.3%) dogs in group 2, associated with a new mass. Fifteen dogs underwent a second surgery; 1 dog required a third surgery. Persistent and recurrent hypercalcemia were uncommon (12.4% and 1.3%, respectively). Multiglandular disease and incorrect surgical excision were the leading causes of persistent hypercalcemia. This study emphasizes that persistent and recurrent hypercalcemia are uncommon but require diligent perioperative planning and monitoring.",
+      "categories": [
+        "oncology",
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42081925",
+      "title": "A vest-based sling provides greater hip flexion and abduction than a traditional Ehmer sling, with limited tolerability in healthy dogs.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Huber AL, Picavet PP, Hamon M, Renberg WC",
+      "date": "2026 07 31",
+      "dateObject": "2026 07 31",
+      "abstract": "To measure hip flexion, abduction, and internal rotation in a static standing position with the limb maintained with a traditional Ehmer sling (TES), compare these with a commercially available vest-based sling (VBS), and describe short-term tolerability of the VBS in healthy dogs. 12 healthy client-owned dogs were prospectively enrolled between June 2024 and August 2025. A TES and a VBS were sequentially applied to the same hindlimb. Hip flexion, abduction, and internal rotation were measured. Dogs were monitored for VBS tolerability and complications for up to 14 days at home, based on predefined study end points. Compared with the TES, the VBS resulted in greater hip flexion, reflected by a lower mean angle (53&#xb0; &#xb1; 13&#xb0; vs 66&#xb0; &#xb1; 11&#xb0;), and greater hip abduction (15&#xb0; &#xb1; 5&#xb0; vs 8&#xb0; &#xb1; 6&#xb0;). Internal rotation did not significantly differ between devices (TES: median, 1&#xb0;; IQR, -5&#xb0; to 5&#xb0;; VBS: median, 6&#xb0;; IQR, 4&#xb0; to 10&#xb0;). Only 1 dog completed the intended 14-day wear period. Four dogs reached a study end point due to device-related issues, 2 due to owner noncompliance and 5 due to poor tolerability. This study provides reference goniometric values for hip positioning achieved with a TES and demonstrates that a VBS results in greater hip flexion and abduction, with limited short-term tolerability in healthy dogs. Establishing expected hip joint positioning may help guide clinical application and evaluation of Ehmer slings following reduction of hip luxation. Limited tolerability of the VBS may affect clinical applicability.",
+      "categories": []
+    },
+    {
+      "pmid": "42044674",
+      "title": "High-flow nasal oxygen therapy reduces work of breathing without altering systemic oxygen delivery or consumption in healthy, anesthetized, spontaneously breathing dogs.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Namgoong B, Seo D, Lee N, Lim S, Kim I, Heo S, Kang J, Kim C, Shin H, Park S, Park J, Her J, Kim MS",
+      "date": "2026 07 31",
+      "dateObject": "2026 07 31",
+      "abstract": "To determine whether high-flow nasal oxygen therapy (HFNOT) reduces esophageal pressure-derived work of breathing (WOB) indices and alters systemic oxygen balance in healthy, anesthetized, spontaneously breathing dogs. In a prospective, randomized, crossover experimental study, 6 healthy adult Beagles received HFNOT at 0 (control), 1, or 2 L/kg/min (fraction of inspired oxygen, 0.21) under alfaxalone total IV anesthesia, with &#x2265; 7-day washout periods. Measurements were obtained at baseline and 10, 20, and 30 minutes after flow initiation. Primary outcomes were esophageal pressure swing and esophageal pressure-rate product. Oxygen delivery index, oxygen consumption index, and oxygen extraction ratio were calculated using Fick-derived methods and thermodilution cardiac output. At 2 L/kg/min, esophageal pressure-rate product decreased from 134.9 &#xb1; 49.7 cm H2O&#xb7;breaths/min at baseline to 50.6 &#xb1; 21.1 cm H2O&#xb7;breaths/min, 54.6 &#xb1; 22.9 cm H2O&#xb7;breaths/min, and 48.7 &#xb1; 23.8 cm H2O&#xb7;breaths/min at 10, 20, and 30 minutes after initiation, respectively; esophageal pressure swing decreased from 7.1 &#xb1; 2.1 cm H2O to 4.7 &#xb1; 1.9 cm H2O at 10 minutes after initiation. The respiratory rate decreased during the 1- and 2-L/kg/min sessions. In contrast, oxygen delivery index, oxygen consumption index, oxygen extraction ratio, arterial oxygen saturation of hemoglobin, and mixed venous oxygen saturation of hemoglobin remained stable across flow conditions and time points. HFNOT at 2 L/kg/min reduced surrogate indices of WOB without altering systemic oxygen delivery or consumption in healthy anesthetized dogs. HFNOT may reduce respiratory effort independently of changes in oxygen metabolism, supporting its physiological safety and potential role in modulating breathing mechanics in veterinary patients.",
+      "categories": [
+        "cardiology",
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "41999736",
+      "title": "Novel application of electromagnetic neuronavigation for guided ventriculoperitoneal shunt placement in toy-breed dogs with hydrocephalus: a preliminary descriptive study.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Kim Y, Lim JH, Choi K, Ryu Y",
+      "date": "2026 07 31",
+      "dateObject": "2026 07 31",
+      "abstract": "To describe the feasibility and accuracy of electromagnetic (EM) neuronavigation for intraventricular catheter placement during ventriculoperitoneal (VP) shunt surgery and to summarize a practical registration workflow in toy-breed dogs with hydrocephalus. 11 client-owned toy-breed dogs diagnosed with hydrocephalus. Medical records from a single referral center were reviewed retrospectively (from September 2019 through May 2024). Dogs were included if they underwent VP shunt placement using EM neuronavigation (StealthStation S8; Medtronic). Dogs were 2 to 9 years old (median, 5 years) and weighed 1.3 to 4.0 kg (median, 2.9 kg). Presenting signs included seizures, head turning, ataxia, and tetraparesis. Hydrocephalus was diagnosed based on clinical signs and MRI. We placed the dynamic reference frame, which served as the patient position reference, in 1 of the following locations: the rostral hard palate, dorsal muzzle, sublingual rostral mandible, or ventral mandible. Accurate catheter tip placement was assessed by postoperative CT. We could confirm the direction and depth of the intraventricular catheter in real time while inserting the catheter during surgery. The anatomical setup of the device enabled accurate navigation between the EM navigation-displayed images and the actual coordinates. The EM navigation system provides excellent guidance for VP shunt surgery in small dogs and has potential applications in various cranial neurosurgical procedures in veterinary medicine.",
+      "categories": [
+        "surgery",
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "41985537",
+      "title": "Long-term sacubitril/valsartan is well tolerated in dogs with heart failure and myxomatous mitral valve disease and suggests excellent survival benefits.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Carlson JA, Stern JA",
+      "date": "2026 07 31",
+      "dateObject": "2026 07 31",
+      "abstract": "To determine the safety and survival data for dogs with congestive heart failure (CHF) and myxomatous mitral valve disease (MMVD) treated chronically with sacubitril/valsartan. A retrospective cohort study was completed by identifying dogs with CHF from MMVD and a prescription for sacubitril/valsartan over a 2.8-year period (from February 2023 to December 2025). Dogs that had surgical intervention, left atrial decompression, or an adverse event that necessitated discontinuation of sacubitril/valsartan therapy were removed from survival analysis. 50 dogs with CHF and MMVD, treated with sacubitril/valsartan (mean &#xb1; SD dosage, 18.1 &#xb1; 5.4 mg/kg, PO, q 12 h) were identified. Five dogs were removed prior to survival analysis. The median survival time after the first episode of CHF was 577 days (range, 431 to 751) for 45 dogs. The survival time in 28 stage D MMVD-affected dogs, 446.5 days (283; 619), was lower than that of 17 stage C MMVD-affected dogs, who had a median survival time of 1,149 (570; infinity) days. Three dogs (6%) had adverse events, suggesting that adverse events secondary to sacubitril/valsartan were rare in this population. After initiation of sacubitril/valsartan and titration to the target dose, the most common improvements were in energy level and exercise capacity (83% of dogs). Sacubitril/valsartan therapy in dogs appears safe and suggests median survival times that eclipse those of prior canine MMVD stage C or D CHF studies. This study reports a dosing schedule and clinical tolerance of sacubitril/valsartan. It further provides important data for planning future prospective studies.",
+      "categories": [
+        "cardiology",
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42536135",
+      "title": "Retrospective Review of Rush Allergen-Specific Immunotherapy Safety in Cats With Atopic Skin Syndrome.",
+      "journal": "Veterinary Dermatology",
+      "authors": "Wirkkala A, Rosenkrantz W, Mendelsohn C, Griffin C, Schaufele S, Burrows M",
+      "date": "2026 07 31",
+      "dateObject": "2026 07 31",
+      "abstract": "Rush immunotherapy (RIT) accelerates the induction phase of allergen-specific immunotherapy treatment (ASIT) by administering incrementally increasing allergen doses over a single day. This approach reduces the time required to maintenance dosing. Safety information in cats with atopic skin syndrome (FASS) remains limited. The objective of the study was to evaluate the safety of RIT in cats with hypersensitivity disease compatible with FASS and to describe the frequency and nature of adverse events. Forty-seven client-owned cats that underwent RIT. A multicentre medical record review from 2019 to 2024 was performed to identify cats that met at least six of 10 criteria for non-flea-induced hypersensitivity dermatitis and were therefore considered consistent with a diagnosis of FASS. All included cats received documented flea prevention and underwent elimination diet trials. Data collected included signalment, medical history, concurrent medications, RIT protocol details, monitoring findings and follow-up communication. Adverse events (AEs) were recorded. In three of 47 cats (6.4%), AEs were observed including tachypnoea, behavioural distress and increased pruritus. In one cat, RIT was discontinued before protocol completion. All affected cats transitioned to maintenance ASIT without recurrence of AEs. Rush immunotherapy appears to be safe in cats with FASS when performed with clinical monitoring. Adverse events were infrequent, mild and self-limiting, supporting use of accelerated induction protocols in appropriately selected patients.",
+      "categories": [
+        "dermatology"
+      ]
+    },
     {
       "pmid": "42531050",
       "title": "Dachshund spinal health by coat and size type.",
@@ -70,16 +321,6 @@
         "internalMedicine",
         "oncology"
       ]
-    },
-    {
-      "pmid": "42526497",
-      "title": "Poor quality of life and recent veterinary consultation are associated with increased owner-perceived pain and/or suffering prior to euthanasia in dogs.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Mann AM, O'Brien J, Dog Aging Project Consortium, Ruple A, Parker RL",
-      "date": "2026 07 29",
-      "dateObject": "2026 07 29",
-      "abstract": "To examine the influence of age, quality of life, illness, and recent veterinary consultation on an owner's perception of pain and/or suffering and consequently end-of-life decision-making for dogs. This retrospective cohort study examined Dog Aging Project end-of-life survey data. Owner and dog demographic characteristics were analyzed by whether pain and/or suffering were listed as a reason for euthanasia. A multivariate logistic regression model assessed associations. Owner surveys from 2020 through 2024 were included. Overall, 7,764 of 8,955 owners (87%) reported pain and/or suffering as a reason for euthanasia, with older owners, smaller dogs, and dogs < 5 years of age as factors that had lower frequency of pain as a reason for euthanasia. A multivariate logistic regression showed that the presence of a chronic condition and number of lifetime diagnoses were not associated with pain as a reason for euthanasia (OR, 1.02; 95% CI, 1.0 to 1.03 and OR, 1.11; 95% CI, 0.96 to 1.28, respectively). Recent veterinary consultation was positively associated with pain or suffering (OR, 1.76; 95% CI, 1.50 to 2.05), and better quality of life was negatively associated with pain or suffering (OR, 0.90; 95% CI, 0.86 to 0.93). Owners should be educated regarding the signs of pain and/or suffering to promote awareness of the high prevalence of pain and/or suffering and inform end-of-life care and decision-making. Veterinary visits influence owner perception of pain and/or suffering. Future studies could evaluate the best way to educate dog owners during end-of-life care.",
-      "categories": []
     },
     {
       "pmid": "42526504",
@@ -554,16 +795,6 @@
       ]
     },
     {
-      "pmid": "42520843",
-      "title": "Service dogs in a matched survey were more physically active and had higher odds of being fed grain-free diets than companion dogs.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Otero DK, Wilson K, James TG",
-      "date": "2026 07 28",
-      "dateObject": "2026 07 28",
-      "abstract": "There is a strong, bidirectional relation between the health outcomes of service dogs and their human handlers. Despite this relation, limited information is available on service dog health. This study assesses differences in health status, diet, and physical activity among service dogs and companion dogs. We conducted a cross-sectional study of the Dog Aging Project's Health and Life Experiences Survey, using data collected on or before December 31, 2021. Service dogs and companion dogs were matched on signalment. Descriptive statistics, conditional logistic regression, and Poisson regression were estimated to assess health differences. 240 canines were in each group. A higher prevalence of service dog owners reported annual household income of less than $39,999. Owners in both groups reported their dogs' health to be very good to excellent, and almost 50% of each group used daily joint supplements. Service dogs had a higher adjusted OR of ever being on a grain-free diet (1.98; 95% CI, 1.18 to 3.33), 15% more total minutes of daily physical activity, and longer leashed physical activity compared to companion dogs. Service dogs in this matched cohort had higher activity levels, greater odds of grain-free diet exposure, yet similar prevalence of joint supplementation to companion dogs. Further studies are needed to elucidate functional impacts on both handlers and service dogs and to limit inherent selection bias. This study adds to the relatively limited evidence base regarding service dog health outcomes. The distinct lifestyle patterns of service dogs may warrant tailored veterinary monitoring and client communication, particularly for nutritional and musculoskeletal health.",
-      "categories": []
-    },
-    {
       "pmid": "42461253",
       "title": "Safety and Feasibility of Infusing Ex&#xa0;Vivo Expanded Allogeneic Canine Natural Killer Cells for the Treatment of Metastatic Solid Tumours.",
       "journal": "Veterinary and Comparative Oncology",
@@ -574,16 +805,6 @@
       "categories": [
         "oncology"
       ]
-    },
-    {
-      "pmid": "42508457",
-      "title": "Serum erythropoietin concentration is higher in healthy brachycephalic dogs than nonbrachycephalic dogs acclimated to 1,535 meters altitude.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Cook M, Moore AR, Goldblatt BH, Cavanagh A, Zersen KM",
-      "date": "2026 07 27",
-      "dateObject": "2026 07 27",
-      "abstract": "To assess the relationship between PaO2 and erythropoietin (EPO) concentrations and between PaO2 and hemoglobin (Hgb) concentrations in healthy brachycephalic (BRACHY) and healthy non-BRACHY dogs acclimatized to an altitude of 1,535 m. The third objective was to validate a human ELISA EPO kit for canine EPO measurement. Dogs were enrolled prospectively from January 2025 through September 2025. Venous samples for CBC, serum biochemistry, and EPO measurement were collected from a peripheral vein, and arterial samples were collected from the dorsal pedal artery. A human EPO quantitative ELISA was validated via spiking with recombinant canine EPO and establishment of linearity under dilution with 18 convenience samples. 22 healthy adult BRACHY dogs and 32 healthy adult non-BRACHY dogs were enrolled. There was no correlation between PaO2 and EPO in any group. A moderate negative correlation was identified between PaO2 and Hgb among all dogs and for BRACHY dogs alone. Erythropoietin concentrations were significantly higher in BRACHY dogs compared to non-BRACHY dogs. Analytical performance of the ELISA kit was deemed acceptable. The results of this study highlight that more research is required to better elucidate the physiologic adaptations of dogs in conditions of hypobaric hypoxia or with chronic hypoxia due to BRACHY conformation. EPO concentrations are significantly different between BRACHY and non-BRACHY dogs; however, the relationship between EPO, PaO2, and Hgb in these groups remains unclear.",
-      "categories": []
     },
     {
       "pmid": "42505041",
@@ -1091,31 +1312,6 @@
       ]
     },
     {
-      "pmid": "42480594",
-      "title": "Immediate separation and storage of serum at a refrigerated temperature for 24 to 36 hours leads to minimal alterations in circulating microRNA levels in dogs.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Grimes JA, Webb B",
-      "date": "2026 07 21",
-      "dateObject": "2026 07 21",
-      "abstract": "To determine how microRNA (miRNA) levels are altered in serum samples under different storage conditions. Whole blood was collected from 10 healthy dogs and placed into 7 tubes: (Tube 1) a red-top tube (RTT) centrifuged for immediate serum separation and stored at -80 &#xb0;C (control), (Tube 2) room temperature (RT) for 24 to 36 hours, or (Tube 3) refrigerated temperature (FT) for 24 to 36 hours; (Tube 4) an RTT stored at RT for 24 to 36 hours or (Tube 5) FT for 24 to 36 hours; and (Tube 6) a serum separator tube centrifuged and stored at RT for 24 to 36 hours or (Tube 7) FT for 24 to 36 hours. Following RNA isolation and sequencing, differential expression analysis was performed. All tubes had altered levels of miRNA compared to the control. Tube 5 was not further analyzed due to a high incidence of hemolysis. Conditions with immediate serum separation and refrigeration (Tube 3, Tube 7) had the fewest alterations in miRNA levels. Collection of serum for future miRNA analysis should be done with immediate separation of serum (via centrifugation of an RTT and removal of serum or use of a serum separator tube) and storage at FT for 24 to 36 hours prior to placement into a -80 &#xb0;C freezer to have the fewest changes in miRNA levels. These findings will help facilitate collection of additional samples from secondary research sites. Researchers should be aware of specific miRNA that may be altered based on storage conditions.",
-      "categories": []
-    },
-    {
-      "pmid": "42480621",
-      "title": "Epidural analgesia reduces or eliminates neuropathic pain refractory to oral medications in dogs and cats for weeks to months.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Bergstein O, Boesch JM, Thomson ACS, Todd-Donato A",
-      "date": "2026 07 21",
-      "dateObject": "2026 07 21",
-      "abstract": "To describe epidural injection for neuropathic pain in dogs and cats and report outcome. Medical records of patients presented to an academic pain medicine service from 2015 through 2026 with clinical signs of neuropathic pain and a somatosensory nervous system lesion or disease that underwent epidural injection after failing treatment with at least 2 oral analgesics were reviewed; incomplete records were excluded. Six animals met these criteria. 4 domestic shorthair cats and 2 dogs (Dalmatian and mixed-breed) presented with neuropathic pain beginning after amputation (2 cats), blunt force trauma (1 cat, 1 dog), hemilaminectomy (1 dog), or parturition (1 cat). Abnormalities included paroxysmal, spontaneous self-mutilation, body-focused repetitive behavior, panic, and/or vocalization; signs of allodynia; teeth chattering; tail and skin twitching; abnormal posture or gait; and/or inability to perform normal activities. MRI was not performed in feline amputees but showed intervertebral disk disease in 2 cats and the Dalmatian and sciatic nerve neoplasia in the mixed breed. At least 1 epidural injection containing triamcinolone (0.1 to 0.5 mg/kg) and 0.125% to 0.250% bupivacaine or ropivacaine (with or without other analgesics) was performed. In 1 feline amputee, 1 injection was curative. In the other cats, injection mitigated or eliminated pain for a median of 6 months (range, 0.25 to 8); in 2 cats, repeat injections lasted 5 and 2.5 months. In the Dalmatian and mixed breed, initial and repeat injections lasted 6 and 3 weeks and 4 and 2 weeks, respectively. Epidural analgesia may relieve neuropathic pain when oral analgesics fail.",
-      "categories": [
-        "oncology",
-        "surgery",
-        "neurology",
-        "dermatology"
-      ]
-    },
-    {
       "pmid": "42478120",
       "title": "CT-Based Radiomic Features Predict Cervical Lymph Node Metastasis in Dogs With Oral Malignancy: A Machine Learning Study Using Leave-One-Patient-Out Cross-Validation.",
       "journal": "Veterinary and Comparative Oncology",
@@ -1444,20 +1640,6 @@
       ]
     },
     {
-      "pmid": "42468564",
-      "title": "Canine gastric polyps are predominantly hyperplastic, and endoscopic polypectomy is a safe and effective treatment associated with no recurrence during follow-up.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Zanardi S, Cola V, Del Magno S, Sabattini S, Dondi G, Romagnoli N, Foglia A, Pisoni L, Pietra M",
-      "date": "2026 07 17",
-      "dateObject": "2026 07 17",
-      "abstract": "To characterize the clinical presentation, endoscopic features, and histopathological findings of gastric polyps in dogs and to evaluate the safety and outcomes of endoscopic polypectomy. Dogs diagnosed with gastric polypoid lesions during upper gastrointestinal endoscopy from January 2020 through December 2024 at the University Veterinary Hospital, University of Bologna (Italy), were retrospectively evaluated. Inclusion criteria were endoscopic identification of gastric polyps; dogs with primary gastric neoplasia were excluded. Signalment, clinical signs, history of proton pump inhibitor administration, endoscopic findings, histopathology, treatment, complications, and follow-up data were collected. Endoscopic polypectomy was performed using cold biopsy forceps or electrosurgical snare. Over a 5-year period, 57 dogs were included from 574 canine gastroscopies performed, yielding a detection rate of 9.9% (57 of 574). Polyps were solitary in 54.4% and multiple in 45.6% of cases, mainly located in the gastric antrum (77.2%). All polyps were hyperplastic on histopathology. Endoscopic polypectomy was performed in 17 of 57 dogs, with no intraoperative complications. Mild postoperative complications occurred in 5 of 17 dogs. Clinical signs resolved in all but 1 case and remained absent during follow-up (median, 16 months). Polyps removed with electrosurgical snare were significantly larger than those removed with cold biopsy forceps, with an exploratory cutoff of 10 mm distinguishing between the 2 techniques. No recurrences were documented based on clinical follow-up. Gastric polyps in dogs are uncommon lesions, typically hyperplastic and associated with chronic inflammation. Endoscopic polypectomy appears to be a safe and effective treatment and recurrence-free at follow-up. Endoscopic polypectomy represents a minimally invasive option for the management of gastric polyps in dogs, allowing clinical resolution with low morbidity in selected cases.",
-      "categories": [
-        "internalMedicine",
-        "oncology",
-        "surgery"
-      ]
-    },
-    {
       "pmid": "42464454",
       "title": "The Combination of Nigella sativa Oil-Based Nanoemulsion and Quercetin Alleviates Oxidative Stress From Exogenous Testosterone Through Antioxidant and Anti-Inflammatory Mechanisms in Rats.",
       "journal": "Veterinary Medicine and Science",
@@ -1568,18 +1750,6 @@
       ]
     },
     {
-      "pmid": "42462778",
-      "title": "The fibula contributes minimally to torsional stiffness and strength of the canine crus in an ex vivo study in Beagles.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Picavet PP, Balligand M",
-      "date": "2026 07 16",
-      "dateObject": "2026 07 16",
-      "abstract": "To characterize the torsional mechanical properties of the canine crus, determine the contribution of the fibula to crus stiffness and strength under torsional loading, and describe the associated failure pattern. This ex vivo study was conducted from December 2021 through June 2022 and included 13 pelvic limbs from skeletally mature Beagles. Specimens were assigned to 2 groups: intact tibia and fibula (n = 7) and tibia with proximal fibular ostectomy (6). Crura were potted proximally and distally. Torsional loading was applied under quasi-static conditions until failure. Torque and twist angle at failure, torsional stiffness, and rotation relative to working length were recorded. All specimens sustained mid-diaphyseal oblique/spiral tibial fractures. Mean torque to failure was 17.33 &#xb1; 2.95 Nm in intact crura, 18.45 &#xb1; 3.36 Nm following fibular ostectomy, and 1.13 &#xb1; 0.6 Nm for isolated fibula. No significant differences were detected between groups for any measured variable. Following tibial fracture, the isolated fibula exhibited minimal torsional stiffness and sustained 6.5% of the torque at failure of the intact crus. The fibula contributes minimally to the torsional stiffness and strength of the canine crus under torsional loading. The torsional mechanical properties of the canine crus were primarily determined by the tibia, and failure was consistently characterized by tibial fracture preceding fibular failure. Fibular integrity appears to have limited influence on torsional stability in canine tibial fractures, although it may remain important for maintaining limb alignment and fracture management.",
-      "categories": [
-        "surgery"
-      ]
-    },
-    {
       "pmid": "42082101",
       "title": "Cardiac involvement in European canine babesiosis - a pathological perspective.",
       "journal": "Topics in Companion Animal Medicine",
@@ -1601,19 +1771,6 @@
       "abstract": "A 1-year-old, male neutered Persian cat presented to the emergency room with acute, severe wheezing and coughing after the introduction of a new kitten to the household. The patient progressed to hypoxemic respiratory failure consistent with acute respiratory distress syndrome (ARDS) and required mechanical ventilation. RT-PCR testing from a conjunctival and deep pharyngeal swab confirmed feline calicivirus infection. Because of refractory hypoxemia and declining lung compliance (2.4&#x2009;ml/cmH 2 O), novel therapy with intratracheal porcine surfactant (Curosurf) was attempted. A dose of 1.5&#x2009;ml/kg was administered over 60&#x2009;s. After administration, pulmonary compliance improved to 3.1&#x2009;ml/cmH 2 O. The patient was weaned from the ventilator on day 10; however, severe laryngeal swelling necessitated a temporary tracheostomy. The patient died on day 15 from tracheal stenosis and obstruction of the stoma site by granulation tissue. To the authors' knowledge, this is the first report describing the development of ARDS from calicivirus pneumonia and the use of porcine surfactant in the treatment of ARDS in a cat. The administration of surfactant resulted in objective improvements in lung compliance.",
       "categories": [
         "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42456760",
-      "title": "Clinical findings and outcomes in canine ischemic neuromyopathy: neurologic status is associated with survival, and recovery is possible.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Atkins C, Maeso Ord&#xe1;s C, Phillips K, Krekis A, Freeman P, Gon&#xe7;alves R, Faller K",
-      "date": "2026 07 15",
-      "dateObject": "2026 07 15",
-      "abstract": "To describe the clinical findings and outcomes in dogs diagnosed with thoracic or pelvic limb ischemic neuromyopathy (INM) in a referral practice. This was a retrospective, multicenter study of client-owned dogs diagnosed with thoracic or pelvic limb INM at 5 referral hospitals (July 2013 to June 2023). Medical records were reviewed for clinical findings, comorbidities, treatments, and outcomes. The primary outcome was survival to discharge. Long-term outcomes were summarized when follow-up was available. 42 dogs met the inclusion criteria: 4 of 42 (9.5%) had thoracic limb INM, and 38 of 42 (90.5%) had pelvic limb INM. Comorbidities were documented in 35 of 42 (83.3%), most commonly protein-losing nephropathy (21 of 42 [50.0%]). All thoracic limb cases were ambulatory at presentation but were euthanized shortly after diagnosis at the owner's discretion. Among pelvic limb cases, 22 of 38 (57.9%) were ambulatory at presentation, 27 of 38 (71.1%) retained nociception, and 15 of 38 (39.5%) had onset of clinical signs > 24 hours. Nineteen of 38 (50.0%) survived to discharge. Among dogs with long-term outcome available, 7 of 28 (25.0%) fully recovered, including 2 of 16 (12.5%) initially nonambulatory dogs. In dogs with pelvic limb INM, ambulatory status, presence of nociception, and more gradual progression to maximal clinical severity were associated with survival to discharge. Complete recovery occurred in a subset of initially nonambulatory dogs, indicating that recovery is possible despite more severe neurologic deficits at presentation. Prognostic indicators such as ambulatory status and nociception should be used to inform clinical decision-making but should not be used in isolation when considering prognosis, as recovery may occur even in more severely affected dogs.",
-      "categories": [
-        "internalMedicine",
-        "neurology"
       ]
     },
     {
@@ -1737,38 +1894,6 @@
       ]
     },
     {
-      "pmid": "42447907",
-      "title": "Trephination and the Seldinger technique achieve comparable sinonasal distribution of clotrimazole cream in canine cadavers.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Langton S, Chan J, Gal A, Burchell R",
-      "date": "2026 07 14",
-      "dateObject": "2026 07 14",
-      "abstract": "To compare the volumetric distribution of clotrimazole cream within the sinonasal cavities of cadaver dogs using frontal sinus trephination or the Seldinger technique. Cadaver dogs with normal sinonasal cavities underwent frontal sinus trephination or the Seldinger technique in this prospective experimental study between October 2022 and March 2023. Contrast-enhanced clotrimazole cream was instilled into the sinonasal cavities, and distribution was assessed using CT. Volumetric measurements were performed using open-source medical imaging software spanning regions from the frontal sinus, cribriform plate, canine tooth, and maxillary premolar 4 to the naris. 25 cadaver dogs were enrolled; 22 met the inclusion criteria, and 3 cadavers were excluded (1 due to intracranial penetration via trephination). Both techniques achieved excellent frontal sinus filling (> 75%). Mean instillation volumes required for ipsilateral naris filling increased with body weight: 2.4 &#xb1; 0.2 mL/kg (cadavers < 10 kg), 3.0 &#xb1; 0.2 mL/kg (cadavers 10 to < 20 kg), 3.6 &#xb1; 0.2 mL/kg (cadavers 20 to < 40 kg), and 4.5 &#xb1; 0.6 mL/kg (cadavers > 40 kg). Computed tomography-guided measurements were required for cadavers < 20 kg to minimize complications during trephination. The Seldinger technique achieved sinonasal filling comparable to trephination in healthy cadavers. The volume of cream required varies for patient weight groups. Both techniques achieved comparable sinonasal clotrimazole filling; however, procedural feasibility may be influenced by small&#x2011;breed cadavers and those with normal sinonasal anatomy. Further studies in live patients are required to determine procedural feasibility, complication rates, and effectiveness.",
-      "categories": []
-    },
-    {
-      "pmid": "42447906",
-      "title": "Membrane-free guided tissue regeneration with enamel matrix derivative and bone graft materials improves 3-dimensional periodontal outcomes in small dogs.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Kwon D, Jang YJ, Kim G",
-      "date": "2026 07 14",
-      "dateObject": "2026 07 14",
-      "abstract": "To evaluate the clinical and radiographic outcomes of membrane-free guided tissue regeneration (GTR) using enamel matrix derivative (EMD) with bone grafts in dogs with vertical infrabony periodontal defects. This retrospective study reviewed cases of client-owned dogs that underwent membrane-free GTR using EMD in combination with bone grafts between August 1, 2023, and September 30, 2025. Outcomes were assessed from records and cone-beam computed tomography (CBCT) datasets using 2-D measurements of clinical attachment loss (CAL) and vertical bone defect ratio (VBDR) and 3-D volumetric analysis. Success was defined as CAL improvement (&#x2265; 1 mm) and VBDR reduction (> 10%). Volumetric analysis was used to quantify infrabony defect fill. 20 periodontal defects in 16 dogs were included (allograft, n = 10; xenograft, 10). Median follow-up was 7 months (range, 6 to 14 months). All defects met the success criteria. Median CAL decreased from 5.0 mm (range, 3.0 to 8.0 mm) to 2.0 mm (range, 1.0 to 3.0 mm), and median VBDR decreased from 0.42 (range, 0.16 to 0.78) to 0.18 (range, 0.04 to 0.46). Volumetric analysis revealed a median infrabony defect fill of 98.49% (range, 71.86% to 100.00%). Membrane-free GTR with EMD was associated with clinically meaningful periodontal improvement and substantial infrabony defect fill in appropriately selected canine patients with vertical infrabony defects. Prospective, controlled studies are warranted to further evaluate its efficacy and indications. This membrane-free regenerative approach may provide a practical tooth-preserving treatment option for selected small-breed dogs when conventional barrier-membrane placement is technically challenging.",
-      "categories": []
-    },
-    {
-      "pmid": "42447905",
-      "title": "Computer-assisted navigation improves lumbar vertebral body drilling accuracy in dogs.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Bonilla AF, Goh C, Seim H, Easley JT",
-      "date": "2026 07 14",
-      "dateObject": "2026 07 14",
-      "abstract": "To evaluate the accuracy of computer-assisted navigation compared with a freehand technique for bicortical lumbar vertebral body drilling in canine cadavers. This was a randomized cadaveric experimental study using canine lumbar spines (n = 9). Two surgeons performed bicortical lumbar vertebral body drilling with navigated and freehand techniques on randomly assigned cadavers. Drill trajectories were independently assessed by 4 blinded veterinary surgeons using the modified Zdichavsky classification, where grade I represented optimal placement and grade &#x2265; III indicated clinically relevant cortical breach. A total of 108 lumbar vertebral body drill trajectories were evaluated: 54 navigated and 54 freehand. Navigated drilling resulted in a significantly higher proportion of optimal trajectories compared with freehand drilling (92.6% vs 42.6%; OR, 16.85; 95% CI, 5.68 to 47.22; P < .0001). Clinically relevant breaches occurred significantly less frequently with navigation (3.7% vs 35.2%; OR, 0.071; 95% CI, 0.016 to 0.283; P < .0001), representing an 89% relative reduction. Statistically significant improvements in accuracy were observed in both small (< 15 kg) and large (15 to 30 kg) dogs. Computer-assisted navigation significantly improves the accuracy of bicortical lumbar vertebral body drilling in canine cadavers and markedly reduces the incidence of clinically relevant cortical breaches compared with a freehand technique. Computer-assisted navigation can enhance safety during canine spinal procedures, particularly bicortical drilling. Improved accuracy observed across body sizes suggests that navigation may be beneficial in canine patients where the vertebral body corridor is narrow and the margin for error is limited.",
-      "categories": [
-        "neurology"
-      ]
-    },
-    {
       "pmid": "42443922",
       "title": "Effect of mixed microbial silage of mulberry and navel orange residue on growth performance, blood metabolism, and rumen microbiome changes in beef cattle.",
       "journal": "BMC Veterinary Research",
@@ -1825,18 +1950,6 @@
       "abstract": "Primary mediastinal lymphoma is rare in dogs and literature exploring this disease is limited. Therefore, the aim of this study was to describe presentation, treatment and outcome in a large cohort of dogs with mediastinal lymphoma and explore prognostic factors including chemotherapy protocol. This retrospective multi-institute study included 70 dogs with primary mediastinal lymphoma treated with lomustine-based (LOP/LOPP) or anthracycline-based (CHOP/CEOP) chemotherapy. Most immunophenotyped cases were of T-cell lineage (95.6%). The majority were substage b (90%) and hypercalcaemia was noted in 69.1% of dogs. Clinical and objective response rates to chemotherapy were 92.7% and 97.9%, respectively, with 76.6% of dogs achieving a complete response. Median progression free survival (PFS) was 132&#x2009;days (95% CI 83-181), and median overall survival time (OST) was 223&#x2009;days (95% CI 175-271). The 6-month, 1-year, and 2-year survival rates were 55.7%, 22.9%, and 15.7%, respectively. On multivariable analysis, factors associated with longer PFS included hypercalcaemia (p&#x2009;=&#x2009;0.041), chemotherapy-induced neutropenia (p&#x2009;=&#x2009;0.014) and CD4+/CD8- immunophenotype (p&#x2009;=&#x2009;0.004). Neutropenia at diagnosis was associated with shorter PFS (p&#x2009;=&#x2009;0.015) and OST (p&#x2009;=&#x2009;0.004). Other factors associated with shorter OST included granular morphology (p&#x2009;=&#x2009;0.023) and CD4+/CD8+ immunophenotype (p&#x2009;=&#x2009;0.004). Chemotherapy-induced neutropenia was associated with improved OST (p&#x2009;=&#x2009;0.042). Differences in outcome between anthracycline- or lomustine-based chemotherapy protocols were not statistically significant. Overall, the prognosis for primary mediastinal lymphoma in dogs is poor to fair when treated with multi-agent chemotherapy. This is the second study associating hypercalcaemia with improved PFS in dogs with non-indolent T-cell lymphoma. Results also suggest prognostic significance of specific CD4/CD8 expression patterns.",
       "categories": [
         "oncology"
-      ]
-    },
-    {
-      "pmid": "42442409",
-      "title": "Fecal floatation and KeyScreen polymerase chain reaction optimize Echinococcus multilocularis detection in canine feces for veterinary practice and zoonotic surveillance.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Garrett KB, Yabsley MJ, Felty SR, Gise BT, Jimenez Castro P, Leutenegger C, Loo S, Newton N, Cleveland CA",
-      "date": "2026 07 13",
-      "dateObject": "2026 07 13",
-      "abstract": "The objective of this study was to compare 4 different fecal diagnostic methods for detection and recovery of Echinococcus multilocularis eggs. Four methods were compared: passive fecal float, centrifugal fecal float, mini-FLOTAC, and the KeyScreen GI PCR Parasite panel (Antech Diagnostics). Domestic dog feces were spiked with 8 egg concentrations (0, 10, 25, 50, 60, 100, 200, and 500 eggs/g). Each concentration had 10 replicates. Detection frequency (ability to detect &#x2265; 1 egg) and mean egg recovery were assessed. The centrifugal method had the lowest detection limit, detecting eggs at 10 eggs/g in 20% of replicates, though mean recovery was low. The mini-FLOTAC demonstrated the highest mean egg recovery and overall accuracy (9.01%) among quantitative methods. Passive float and KeyScreen detected eggs consistently at &#x2265; 60 eggs/g, with KeyScreen showing higher detection frequency than passive floats. Importantly, KeyScreen is the only method that can distinguish Echinococcus species from the more common Taenia species. The mini-FLOTAC is practical for veterinary offices, particularly where centrifugation is unavailable, offering efficient Echinococcus egg recovery. KeyScreen provides species-level confirmation while detecting low-concentration infections. This is particularly important in areas where Echinococcus species are emerging and zoonotic risk is a concern. Accurate diagnostic methods are essential for veterinary practice and One Health surveillance, and all dogs should be regularly tested and treated. The companion Currents in One Health by Garrett et al, JAVMA, November 2026, addresses the natural history of the 2 most common Echinococcus species of concern in North America, E multilocularis and Echinococcus canadensis (G8 and G10).",
-      "categories": [
-        "internalMedicine"
       ]
     },
     {
@@ -2028,18 +2141,6 @@
       "categories": [
         "internalMedicine",
         "surgery"
-      ]
-    },
-    {
-      "pmid": "42431230",
-      "title": "Vertebral heart size and vertebral left atrial size reference intervals in 8 canine breeds.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Rowland AJ, Zepeda CI, Murphy LA, Tansey C, Piscitelli N, Gentile-Solomon J, Szlosek D, Nakamura RK",
-      "date": "2026 07 10",
-      "dateObject": "2026 07 10",
-      "abstract": "To evaluate vertebral heart size (VHS) and vertebral left atrial size (VLAS) reference intervals in 8 dog breeds: Australian Cattle Dogs, Shih Tzus, Maltese, Dachshunds, Greyhounds, French Bulldogs, Norwich Terriers, and Brittany Spaniels. Dogs were included if they had 2- or 3-view thoracic radiographs performed and no cardiopulmonary or systemic disease. The same board-certified cardiologist performed the VHS and VLAS measurements in all dogs. The reference interval for Australian Cattle Dogs was 9.1v to 11.2v for VHS and 1.7v to 2.4v for VLAS. The reference interval for Shih Tzus was 8.4v to 10.5v for VHS and 1.6v to 2.4v for VLAS. The reference interval for Maltese was 8.7v to 10.7v for VHS and 1.7v to 2.5v for VLAS. The reference interval for Dachshunds was 8.8v to 10.7v for VHS and 1.6v to 2.2v for VLAS. The reference interval for Greyhounds was 9.4v to 11.5v for VHS and 1.9v to 2.6v for VLAS. The reference interval for French Bulldogs was 9.9v to 13.0v for VHS and 1.7v to 2.6v for VLAS. The reference interval for Norwich Terriers was 9.6v to 11.7v for VHS and 1.7v to 2.3v for VLAS. The reference interval for Brittany Spaniels was 9.4v to 11.5v for VHS and 1.9v to 2.6v for VLAS. The investigators report breed-specific VHS and VLAS reference intervals for 8 canine breeds. Clinicians should be aware of these results to accurately diagnose radiographic cardiomegaly in these breeds.",
-      "categories": [
-        "cardiology"
       ]
     },
     {
@@ -2238,41 +2339,6 @@
       ]
     },
     {
-      "pmid": "42413564",
-      "title": "Estimation of a reference interval for eye temperature in dogs.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Rostami S, Woodruff KA, McBride A, Smith DR",
-      "date": "2026 07 07",
-      "dateObject": "2026 07 07",
-      "abstract": "To estimate a reference interval (RI) for eye temperature (ET) in apparently healthy shelter dogs and to provide a comparative RI for rectal temperature (RT). This cross-sectional study was conducted at a municipal shelter over a 2-month period. We included apparently healthy dogs and excluded those with illness history, respiratory symptoms, or ocular discharge. Using a handheld thermal camera, ET was obtained under standardized procedures. Rectal temperature measurements were obtained from the same dogs. The central 95% RI was estimated using a robust statistical method with bootstrap-derived 90% CIs for the limits, an approach recommended for datasets with 40 &#x2264; n < 120 observations. Utilizing data from 78 dogs, the estimated 95% RI for ET was 35.0 to 38.5 &#xb0;C, with 90% CIs of 34.7 to 35.4 &#xb0;C (lower limit) and 38.2 to 38.8 &#xb0;C (upper limit). The 95% RI for RT was 37.5 to 39.7 &#xb0;C, with 90% CIs of 37.3 to 37.8 &#xb0;C (lower limit) and 39.5 to 39.9 &#xb0;C (upper limit). These findings provide baseline ET screening limits from a moderate sample size. Instead of replacing established veterinary guidelines, our calculated RT interval validates the normal temperature status of our population. Temperatures outside these borders justify individual medical evaluation. Population-based RIs for ETs and RTs of dogs are needed to assist veterinarians and researchers in interpreting ET and RT measurements and identifying dogs that might require further clinical examination. Furthermore, eye thermography might provide a practical, fast, and low-stress method for temperature evaluations.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42413557",
-      "title": "Stationary jump tests demonstrate potential as objective return-to-sport outcomes based on hind limb symmetry in healthy dogs.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Dequaine A, Gordon-Evans WJ",
-      "date": "2026 07 07",
-      "dateObject": "2026 07 07",
-      "abstract": "To improve testing methods to develop clinically applicable return-to-sport assessments in dogs by evaluating hind limb push-off symmetry while jumping onto a platform from a stationary position. The hypothesis was that normal dogs would demonstrate > 90% symmetry when performing the newly proposed jump tests. Jump tests included sit-to-withers-height jump, stand-to-head-height jump, and stand-to-withers-height jump with side rails. This was a prospective, methodological study in which orthopedically and neurologically normal dogs were asked to jump onto a platform, performing 5 valid trials of 3 separate jump tests within a 30-minute period of time. Peak vertical force of the hind limbs was measured and expressed as a percentage of symmetry for each trial. 20 dogs were included. The mean percentage of symmetry for each jump test variation was as follows: stand-to-head-height jump was 83.27% (SD, &#xb1; 5.20%), stand to withers with side rails was 73.49% (SD, &#xb1; 12.63%), and sit-to-withers-height box was 67.39% (SD, &#xb1; 20.96%). However, when selecting for each dog's best attempt, symmetry was 96.90% for stand to head height, 92.34% for side rails, and 94.39% for sit to withers height. Dogs were less than 90% symmetrical in the hind limbs when averaging 5 valid trials for each jump test. An unexpected finding was that when evaluating for each dog's best attempt, hind limb symmetry was above 90% for all modifications. The development of easy-to-perform, reliable, and repeatable return-to-sport assessment tests could provide objective data on canine recovery from orthopedic and neurologic injury.",
-      "categories": [
-        "surgery",
-        "neurology"
-      ]
-    },
-    {
-      "pmid": "42385782",
-      "title": "Plasma formiminoglutamic acid shows potential as a functional marker of folate deficiency in cats and dogs: development and validation of a liquid chromatography-tandem mass spectrometry method.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Cohn-Urbach M, Ruaux CG",
-      "date": "2026 07 07",
-      "dateObject": "2026 07 07",
-      "abstract": "To evaluate formiminoglutamic acid (FIGLU) as a potential marker of folate deficiency in cats and dogs by (1) establishing a liquid chromatography-tandem mass spectrometry (LC-MS-MS) method for the quantification of FIGLU in feline and canine plasma, and (2) reporting plasma FIGLU concentrations in clinically normal cats and dogs. An LC-MS-MS method for FIGLU quantitation was developed and analytically validated. Clinically normal cats and dogs were prospectively included for plasma FIGLU and serum folate measurement (via LC-MS-MS and chemiluminescence immunoassay, respectively). Statistical analysis was performed to assess for correlations between plasma FIGLU and serum folate concentrations. Accuracy, precision, linearity, and recovery experiments met validation requirements. Dilution integrity experiments did not meet the acceptance criteria, potentially due to ion suppression effects. Plasma FIGLU ranged from 4.5 to 21.0 ng/mL in 11 clinically normal dogs and 9.1 to 57.0 ng/mL in 10 clinically normal cats. There was no evidence of a correlation between serum folate and plasma FIGLU concentrations in clinically normal cats and dogs. The amount of FIGLU present in the plasma of clinically normal cats and dogs is quantifiable via LC-MS-MS, and reference interval determination of plasma FIGLU is therefore feasible. Future studies should include both normofolatemic and hypofolatemic animals to assess the correlation between serum folate and plasma FIGLU and to determine the optimal serum folate cutoff limit. Plasma FIGLU shows promise as a practical research tool and a potential functional marker of folate availability in cats and dogs.",
-      "categories": []
-    },
-    {
       "pmid": "42414994",
       "title": "Off-label use of dapagliflozin in a dog with recurrent calcium oxalate urolithiasis: a case report.",
       "journal": "BMC Veterinary Research",
@@ -2317,16 +2383,6 @@
       "categories": [
         "dermatology"
       ]
-    },
-    {
-      "pmid": "42409076",
-      "title": "Ocular thermography and rectal thermometry show similar diagnostic performance for detecting abnormal body temperature in dogs.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Rostami S, Woodruff KA, McBride A, Smith DR",
-      "date": "2026 07 06",
-      "dateObject": "2026 07 06",
-      "abstract": "To estimate the sensitivity and specificity of eye temperature (ET) and rectal temperature (RT) for detecting abnormal temperature in dogs. This single-shelter observational study enrolled dogs without clinical ocular disease. Tests were dichotomized using prespecified reference intervals. A hierarchical Bayesian latent-class model included 2 subpopulations (puppy and adult), dog-level random intercept, and between-test dependence terms. Posterior draws estimated predictive values across pretest probabilities, and prior sensitivity analysis was conducted to evaluate the robustness of the results. Utilizing 238 visit-level observations from 121 dogs (89 puppy visits; 149 adult visits), both tests demonstrated high specificity but low-to-moderate sensitivity. Posterior median sensitivities were 0.40 for ET and 0.32 for RT, while specificities were 0.94 for ET and 0.99 for RT. The parallel rule (OR [any positive]) maximized negative predictive value, whereas the series rule (AND [both positive]) maximized positive predictive value across observed prevalences. Ocular thermography and rectal thermometry demonstrated similar diagnostic performance. For both tests, given that the dog has an abnormal core body temperature, the reading is more likely to be wrong. Given the dog has a normal core body temperature, the reading is likely to be correct. Abnormal temperature readings can inform clinical judgement about the likelihood that the dog's core temperature is abnormal. However, normal readings are not informative about what was already known based on clinical judgment. Abnormal results from either test increase the probability of abnormal body temperature, whereas normal readings should not override clinical suspicion of abnormal temperature status.",
-      "categories": []
     },
     {
       "pmid": "42405486",
@@ -2511,44 +2567,6 @@
       "abstract": "Eosinophilia with multi-organ infiltration is rarely reported in dogs. Successful treatment of previous cases has relied on a combination of prednisolone and hydroxyurea. A 15-month-old, intact, male Border terrier was presented at a referral hospital with a 6-month history of recurrent, acute episodic abdominal pain, trembling, vomiting, soft feces, and persistent marked eosinophilia. Computed tomography (CT) disclosed abdominal lymphadenomegaly, and cytological evaluation of fine needle aspirates indicated eosinophilic and neutrophilic pyogranulomatous lymphadenitis. Biopsy samples of jejunal and iliac lymph nodes, liver, and jejunum were obtained during exploratory celiotomy and showed marked eosinophilic infiltration with no inciting cause identifiable on histological examination. The dog was successfully managed with dietary modification alone, using a gluten-free hydrolyzed diet (Pro Plan Veterinary Diets HA Hypoallergenic, Purina, York, United Kingdom). The role of dietary modification should be considered in dogs presenting with acute gastrointestinal clinical signs and marked circulating and tissue eosinophilia when other causes are ruled out.",
       "categories": [
         "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42385769",
-      "title": "Spot urinary electrolytes are associated with decongestion and duration of hospitalization in dogs with acute left-sided congestive heart failure secondary to myxomatous mitral valve disease.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Cho J, Kim M, Choi M, Lee J, Park C",
-      "date": "2026 07 02",
-      "dateObject": "2026 07 02",
-      "abstract": "To determine whether urinary electrolyte indices measured after IV furosemide administration are associated with clinical outcomes in dogs with left-sided acute congestive heart failure (CHF) secondary to myxomatous mitral valve disease (MMVD). In this multicenter retrospective study, client-owned dogs with acute left-sided CHF caused by MMVD presenting to 3 referral hospitals between January 2024 and December 2025 were evaluated. All dogs received a single IV bolus of furosemide (2 mg/kg) at presentation. Urine samples were collected from the first spontaneous urination within 2 hours after furosemide administration. Urinary sodium concentration, urinary sodium-to-potassium ratio (uNa:K), and urinary sodium-to-chloride ratio were measured. Associations between urinary electrolyte indices and clinical variables were analyzed. Clinical outcomes included change in radiographic pulmonary congestion score, hospitalization duration, and survival to discharge. 50 dogs met the inclusion criteria. Higher urinary sodium concentration and uNa:K were associated with greater improvement in radiographic pulmonary congestion and shorter hospitalization. Dogs that survived to discharge had a higher uNa:K than those that died during hospitalization. Urinary electrolyte indices were not significantly correlated with echocardiographic or radiographic indices of left atrial size. Urinary electrolyte indices measured after IV furosemide administration were associated with clinically relevant outcomes in dogs hospitalized with acute left-sided CHF secondary to MMVD. Spot urinary electrolyte measurements may provide a simple and noninvasive tool for assessing diuretic response and clinical status in dogs with acute left-sided CHF.",
-      "categories": [
-        "cardiology",
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42019541",
-      "title": "Tolvaptan substitution for torsemide is associated with improved renal biomarkers in dogs with advanced myxomatous mitral valve disease and concurrent azotemia.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Park SS, Park J, Hyun C",
-      "date": "2026 07 02",
-      "dateObject": "2026 07 02",
-      "abstract": "To evaluate the safety and preliminary efficacy of substituting torsemide with tolvaptan on renal biomarkers in dogs with myxomatous mitral valve disease (MMVD) and concurrent azotemia. This retrospective observational study reviewed medical records of dogs with American College of Veterinary Internal Medicine stage C or D MMVD and azotemia. Three 60-day cohorts were analyzed: group 1, torsemide dose reduction (25% to 50%); group 2, 50% replacement of torsemide with tolvaptan; and group 3, complete replacement of torsemide with tolvaptan. Renal biomarkers (BUN, creatinine, and symmetric dimethylarginine [SDMA]) were evaluated at baseline, day 30, and day 60. 41 dogs were included. Groups 2 (50% torsemide replacement with tolvaptan) and 3 (complete replacement) showed significant reductions in BUN, creatinine, and SDMA at days 30 and 60 versus baseline. In group 2, mean creatinine decreased from 2.4 &#xb1; 1.5 mg/dL at baseline to 1.6 &#xb1; 1.2 mg/dL (day 30) and 1.7 &#xb1; 1.0 mg/dL (day 60), whereas SDMA decreased from 29.9 &#xb1; 17.5 &#xb5;g/dL to 21.5 &#xb1; 5.7 &#xb5;g/dL and 23.6 &#xb1; 11.1 &#xb5;g/dL, respectively. No significant changes occurred in group 1 (torsemide reduction). Sodium increased modestly in the tolvaptan groups, potassium remained within reference ranges, and echocardiographic and hepatic parameters remained stable. Substituting torsemide with tolvaptan was associated with significant improvement in renal biomarkers in dogs with MMVD and azotemia. These findings suggest that tolvaptan substitution may represent a potential therapeutic option for managing azotemia in dogs with congestive heart failure receiving loop diuretics, although prospective controlled studies are needed to confirm clinical benefit.",
-      "categories": [
-        "cardiology",
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "41999729",
-      "title": "Lumbosacral junction pedicle-probing technique for implant corridors in cats: feasibility and limitations.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Mullins RA, Marirrodriga Larrocha I, Ortega Jusdado C, Hoey S, Kraus KH, Guevar J",
-      "date": "2026 07 02",
-      "dateObject": "2026 07 02",
-      "abstract": "To describe a pedicle-probing technique for determining safe implant corridors at the seventh lumbar vertebra (L7)-first sacral vertebra (S1) in cats and evaluate the feasibility, safety, positioning, and trajectory of drill tracts created with this technique. CT of lumbosacral spine was performed in 13 feline cadavers to determine safe pedicle corridors. Using the pedicle-probing technique, drill tracts were created in the pedicles of L7 and S1 with a blunt probe followed by a drill bit. Postoperative grading of pedicle drill tracts for canal breach was performed on CT using a 4-point classification. Drill tract positioning, trajectory, and proximity to ventral S1 foramina were also evaluated. At L7, 20 of 26 drill tracts (76.9%) were fully contained within the pedicle, 3 (11.5%) had > 50% of their diameter within the pedicle, 1 (3.8%) had < 50% of its diameter within the pedicle, and 2 (7.7%) were fully within the vertebral canal. At S1, 24 drill tracts (92.3%) were fully contained within the pedicle, and 2 (7.7%) had > 50% of their diameter within the pedicle. The pedicle-probing technique was associated with a high rate of vertebral canal breach at L7, whereas a greater proportion of drill tracts at S1 were fully contained within the pedicles. The pedicle-probing technique can facilitate safe implant corridors at L7-S1 in cats; however, a high rate of breaches at L7 and variations in drill tract positioning and trajectory emphasize technical difficulty.",
-      "categories": [
-        "surgery"
       ]
     },
     {
@@ -2925,18 +2943,6 @@
       "categories": [
         "internalMedicine",
         "neurology"
-      ]
-    },
-    {
-      "pmid": "42311196",
-      "title": "Therapeutic Outcomes and Owner Assessment in Canine Sebaceous Adenitis Across Breeds: A Multicentre Retrospective Analysis and Owner Survey.",
-      "journal": "Veterinary Dermatology",
-      "authors": "Batt H, Griffin J, Daniels MW, Miller J",
-      "date": "2026 06 18",
-      "dateObject": "2026 06 18",
-      "abstract": "Sebaceous adenitis (SA) is an idiopathic dermatological condition with numerous treatment modalities and variable clinical outcomes. No studies have compared breed response to therapies or evaluated owner perception of the disease. Goals of this retrospective analysis were to evaluate response to therapy in dogs with SA, identify if breed or treatment modality impacted therapeutic outcome and assess owner perception of response to implemented therapies. Medical records over a 10-year period from a multicentre veterinary dermatology group were evaluated and an owner survey was conducted. Response to therapy was based on percentage reduction in medication scores at the start of treatment compared to maintenance and the number of flares after attaining maintenance. Time to maintenance was calculated for each treatment modality category. Owner survey responses were compared to objective clinical response categories. One hundred and twenty-two dogs with SA were included; 35 respondents completed the survey. The number of cases in objective clinical response categories were as follows: excellent in 23 cases (18.9%), good in 36 (29.5%), fair in 26 (21.3%), no improvement in 13 (10.7%) and progressive in 23 (18.9%). Medication score differences by breed were not statistically significant (p-value 0.114). Dogs treated with multimodal therapy achieved maintenance the fastest. Thirty-nine percent of dogs experienced a flare after reaching maintenance. Owner perceptions did not align significantly with objective response categories. In SA, therapeutic outcomes cannot be predicted based on breed or treatment modality, confirming the need for tailored case management and medication adjustments based on individual treatment response.",
-      "categories": [
-        "dermatology"
       ]
     },
     {

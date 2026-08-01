@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T08:16:35.149Z",
+  "updated_at": "2026-08-01T06:54:57.527Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -177,6 +177,14 @@
       "generated_at": "2026-07-27T10:55:56.532Z",
       "model": "gpt-5-mini"
     },
+    "41985537": {
+      "brief_summary": "본 연구는 점액변성 승모판 질환(MMVD)으로 인한 울혈성 심부전(CHF) 개에서 사쿠비트릴/발사르탄(sacubitril/valsartan)을 장기 투여했을 때의 안전성 및 생존을 후향적으로 평가했다. 2.8년간 50마리를 확인했고(평균 투여량 18.1 ± 5.4 mg/kg, 경구(PO), 12시간마다), 생존 분석에 포함된 45마리의 중앙생존기간은 CHF 첫 발병 후 577일(범위 431–751)이었다. 이상반응은 드물어 3마리(6%)였고, 투약 후 에너지 및 운동 능력 개선을 83%에서 관찰하여 안전성이 양호하고 기존 MMVD CHF 보고보다 긴 생존을 시사한다는 임상적 함의를 준다.",
+      "detailed_summary": "연구는 2023년 2월부터 2025년 12월까지 2.8년간 후향적 코호트 방식으로 수행되었으며, MMVD로 인한 CHF 진단을 받고 사쿠비트릴/발사르탄 처방을 받은 개를 대상으로 했다. 총 50마리가 확인되었고 투여 용량은 평균 18.1 ± 5.4 mg/kg(경구, q12h)이었다. 수술, 좌심방 감압술 또는 약물 중단을 초래한 이상반응이 있는 개는 생존분석에서 제외되어 최종 생존 분석 대상은 45마리였다. 전체 대상의 중앙생존기간은 CHF 첫 발생 후 577일(범위 431–751)이었고, MMVD 병기별로는 stage D(28마리) 446.5일(283; 619), stage C(17마리) 1,149일(570; 무한대)로 보고되었다. 이상반응은 3마리(6%)에서 관찰되었고, 약물 투여 및 목표 용량으로의 증량 후 에너지 수준 및 운동능력 향상이 83%에서 보고되었다. 저자들은 사쿠비트릴/발사르탄이 개에서 투여 내약성이 양호하고 기존의 MMVD stage C/D CHF 연구보다 중앙생존기간이 길어 보인다고 결론지었으나, 후향적 설계·대조군 부재·수술 등으로 인한 제외(생존분석 선택편향 가능) 등 한계로 인해 인과관계 확정에는 한계가 있으며 향후 전향적 연구 필요성을 제시했다.",
+      "title": "Long-term sacubitril/valsartan is well tolerated in dogs with heart failure and myxomatous mitral valve disease and suggests excellent survival benefits.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-08-01T06:54:41.020Z",
+      "model": "gpt-5-mini"
+    },
     "41994862": {
       "brief_summary": "후지 및 2010–2024년 사이 진단된 고양이 족관절(tarsal) 종양 34예를 후향적으로 분석하여 원형세포종(RCTs) 비율을 확인하고 조직학적 재분류와 면역조직화학(IHC)의 임상적 가치를 평가했다. 전체에서 RCTs 18예, 연부조직육종(STSs) 16예였고, IHC와 진단 알고리즘 적용 후 RCTs의 50%가 재분류(예: 플라즈마세포종 7예 등)되었다. 남성, 고령, 이전 족관절 외상이 RCTs와 유의하게 연관되었고(RCTs에서 임상증상 및 진단 시 전이 더 흔함), RCTs의 진행시간 및 중앙생존기간이 STSs보다 유의하게 짧았다(각각 139 vs 854일; 173일 vs 미도달; P <0.001). 표준화된 IHC 패널과 진단 알고리즘이 조직학적 유형 판정 정확도를 높였으며 임상 적용을 권장한다.",
       "detailed_summary": "본 연구는 2010–2024년 사이 진단된 고양이 족관절 종양을 후향적으로 검토하여 신호정보, 병력, 치료 및 추적 결과를 수집하고 RCTs와 STSs를 중심으로 분석했다. 모든 RCTs는 조직학적 재검토와 IHC(CD3, CD20, CD79a, MUM-1, CD18, IBA-1, E-CAD)를 시행하고 진단 알고리즘을 적용했다. 총 34예 중 RCTs 18예, STSs 16예였고 초진 시 39%의 RCTs에서 초기 조직형이 불확정적이었으며 최종적으로 50%가 재분류되어 플라즈마세포종 7예, 진행성 히스티오사이토시스 4예, 림프종 3예, 히스티오사이틱 육종 2예, 미분화 RCT 2예로 정리되었다. 통계적으로 남성(P = 0.042), 고령(P = 0.048), 이전 족관절 외상(P = 0.009)이 RCTs와 연관되었고, 임상증상 발생 및 진단 시 전이는 RCTs에서 더 흔했다(P = 0.019 및 P = 0.001). RCT 치료는 화학요법(n=7), 수술(n=5), 수술+화학요법(n=2), 프레드니솔론(n=1), 무치료(n=1)가 보고되었고 자료 결측 2예가 있었다; 모든 STS는 수술만으로 관리되었다(항암제 미사용). 추적 결과 RCTs는 진행까지의 시간과 중앙생존기간이 유의하게 짧았고(139 vs 854일; 173일 vs 미도달; P <0.001), 저자들은 RCTs가 이질적이며 예후가 나쁨을 결론지었다. 초록에는 제한점이 상세히 기술되어 있지 않으나 연구결과는 표준화된 IHC 패널과 진단 알고리즘이 임상적 조직형 판정에 유용함을 시사한다.",
@@ -207,6 +215,14 @@
       "title": "Lumbosacral junction pedicle-probing technique for implant corridors in cats: feasibility and limitations.",
       "journal": "American Journal of Veterinary Research",
       "generated_at": "2026-07-27T10:54:47.456Z",
+      "model": "gpt-5-mini"
+    },
+    "41999736": {
+      "brief_summary": "소형(토이) 품종 개 11두를 대상으로 전자기(EM) 뉴로내비게이션(StealthStation S8; Medtronic)을 이용해 뇌실-복강 단락술(ventriculoperitoneal, VP) 중 뇌실 내 카테터 삽입의 실현가능성과 정확도를 평가한 후향적 예비 기술연구이다. 수술 중에 카테터의 방향과 깊이를 실시간으로 확인할 수 있었고, 수술 후 CT로 카테터 팁 위치를 확인하여 장비가 정확한 유도 역할을 함을 보였다. 본 연구는 소형견에서 EM 네비게이션이 VP 션트 수술 및 다양한 두개 신경외과적 시술에 유용할 가능성이 있음을 시사한다.",
+      "detailed_summary": "단일 의뢰센터에서 2019년 9월부터 2024년 5월까지의 의무기록을 후향적으로 검토한 기술적 서술 연구로, EM 뉴로내비게이션(StealthStation S8; Medtronic)을 사용한 VP 션트 시행 사례 11두를 포함했다. 대상 개는 2~9세(중앙값 5세), 체중 1.3~4.0 kg(중앙값 2.9 kg)의 토이 품종이며, 발작, 머리 회전, 운동실조, 사지마비(사지 약화) 등의 임상증상으로 수두증이 진단되었다. 수술 시 동적 기준프레임을 구강전방 경구개, 등쪽 주둥이, 설하 전방 하악, 또는 배측 하악 등 여러 위치에 부착하여 환자 위치 기준으로 사용하였다. 수술 중 EM 네비게이션을 통해 카테터의 삽입 방향과 깊이를 실시간으로 확인했으며, 수술 후 CT로 카테터 팁의 위치를 평가하여 내비게이션과 실제 좌표 사이의 정합성이 우수함을 보고했다. 저자들은 이 장치가 소형견의 VP 션트 수술에 탁월한 유도 기능을 제공하며 수의학적 두개 신경외과에서 응용 가능성이 있다고 결론지었다. 본 연구는 증례 수가 적고 단일센터의 후향적 예비 기술연구라는 점에서 일반화에 제한이 있으며, 초록에는 장기 임상 결과나 합병증 빈도에 대한 상세한 수치가 제시되어 있지 않다.",
+      "title": "Novel application of electromagnetic neuronavigation for guided ventriculoperitoneal shunt placement in toy-breed dogs with hydrocephalus: a preliminary descriptive study.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-08-01T06:54:21.037Z",
       "model": "gpt-5-mini"
     },
     "42015927": {
@@ -289,6 +305,14 @@
       "generated_at": "2026-07-25T06:08:49.404Z",
       "model": "gpt-5-mini"
     },
+    "42044674": {
+      "brief_summary": "본 연구는 건강한, alfaxalone 전정맥(total IV) 마취하에 자발호흡 중인 6마리의 성견 비글을 대상으로 HFNOT(고유량 비강산소요법)가 호흡 작업량(WOB) 지표와 전신 산소 균형에 미치는 영향을 평가했다. HFNOT를 0(대조), 1, 2 L/kg/min( FiO2 0.21)로 적용한 결과 2 L/kg/min에서 식도압·호흡수 곱(esophageal pressure‑rate product)과 식도압 스윙(esophageal pressure swing)이 10–30분 동안 감소했고 호흡수도 1·2 L/kg/min에서 감소했다. 반면 산소 전달지수, 산소소비지수, 산소추출비, 동맥 및 혼합정맥 산소포화도는 시간과 유속에 따라 안정적으로 유지되어 전신 산소 전달·소비에는 변화가 없었다는 결론을 제시한다.",
+      "detailed_summary": "전향적 무작위 교차 시험으로 6마리의 성견 비글을 대상으로 HFNOT를 0, 1, 2 L/kg/min( FiO2 0.21)로 시행하고 각각 ≥7일의 세척기간을 두었다. 측정은 기저치와 유속 시작 후 10, 20, 30분에 수행되었으며 주요 평가변수는 식도압 스윙(esophageal pressure swing)과 식도압·호흡수 곱(esophageal pressure‑rate product) 등 식도압 유래 WOB 지표였다. 심박출량은 열희석법으로, 산소 전달지수(DOI), 산소소비지수(VO2I), 산소추출비(OER)는 Fick 유도법과 열희석 심박출량을 사용해 계산했다. 결과적으로 2 L/kg/min에서 식도압·호흡수 곱은 기저치 134.9 ± 49.7 cm H2O·breaths/min에서 10, 20, 30분에 각각 50.6 ± 21.1, 54.6 ± 22.9, 48.7 ± 23.8 cm H2O·breaths/min로 감소했고 식도압 스윙은 7.1 ± 2.1 cm H2O에서 10분에 4.7 ± 1.9 cm H2O로 감소했다. 호흡수는 1·2 L/kg/min 조건에서 감소했으나 DOI, VO2I, OER, 동맥 산소포화도(SaO2) 및 혼합정맥 산소포화도(SvO2)는 모든 유속과 시간대에서 안정적으로 유지되었다. 결론적으로 HFNOT 2 L/kg/min은 건강한 알팩솔론 전정맥 마취하 자발호흡 개에서 WOB의 대리지표를 감소시켰으나 전신 산소 전달·소비에는 영향을 주지 않았으며, 본 연구 대상이 건강한 마취 상태의 6마리 비글이라는 점이 결과 해석의 중요한 맥락임을 명시한다.",
+      "title": "High-flow nasal oxygen therapy reduces work of breathing without altering systemic oxygen delivery or consumption in healthy, anesthetized, spontaneously breathing dogs.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-08-01T06:54:06.887Z",
+      "model": "gpt-5-mini"
+    },
     "42046400": {
       "brief_summary": "이 연구는 면역매개질환으로 사이클로스포린(Ciclosporin, CsA)을 투약받는 개에서 피부 침습성 기회성 진균감염(cutaneous OIFIs) 발생과 관련된 숙주 요인, 임상검사 및 치료요인을 확인하고자 시행된 후향적 증례-대조 연구이다. 총 8마리의 OIFI 발생 개와 20마리의 대조군을 질환 및 CsA 투약 기간으로 매칭하여 분석한 결과, 호중구 수와 중성구-림프구 비율(NLR), 중성구-단핵구 비율(NMR)만이 유의하게 OIFI 발생과 연관되었다. 다른 숙주 요인이나 치료요법(전신 글루코코르티코이드 포함)과의 유의한 연관성은 관찰되지 않았다. 임상적 의미로는 NLR·NMR의 모니터링 가치와 글루코코르티코이드의 역할 규명을 위한 추가 연구가 필요함을 시사한다.",
       "detailed_summary": "후향적 사례-대조 연구로, 다양한 면역매개질환으로 CsA(사이클로스포린)를 투약받는 클라이언트 소유 개들을 대상으로 하였고 사례는 CsA 투약 중 피부 침습성 기회성 진균감염(OIFIs)이 발생한 개, 대조군은 발생하지 않은 개로 정의하였다. 사례와 대조군은 기저 면역매개질환과 CsA 투약 기간을 기준으로 매칭되었으며, 최종 표본은 8마리의 OIFI 발생 개와 20마리의 대조군이었다. 수집·분석된 자료는 신상·병력·임상 소견과 함께 혈구계수, 중성구-림프구 비율(NLR), 중성구-단핵구 비율(NMR), C-반응단백질(CRP), 하프토글로빈, 총 글로불린 및 IgG·IgM 혈청 수치 등이 포함되었다. 분석 결과, 유의한 연관성은 호중구 수 및 NLR·NMR과 OIFI 발생에서만 관찰되었고, 나머지 검사 수치와 숙주 요인 및 치료요법(전신 글루코코르티코이드 포함)과는 유의한 연관성이 확인되지 않았다. 연구진은 글루코코르티코이드의 역할 규명과 면역억제 상태 개에서 NLR·NMR의 모니터링 도구로서의 타당성 평가를 위해 추가 연구가 필요하다고 결론지었다.",
@@ -311,6 +335,14 @@
       "title": "Artificial Intelligence-Based Identification of Common Canine Skin Lesions From Clinical Images.",
       "journal": "Veterinary Dermatology",
       "generated_at": "2026-07-24T15:23:53.378Z",
+      "model": "gpt-5-mini"
+    },
+    "42081925": {
+      "brief_summary": "12마리의 건강한 반려견을 전향적으로 대상으로, 전통적 Ehmer 슬링(TES)과 조끼형 슬링(VBS)을 동일 후지에 순차 적용하여 서있는 정적 자세에서 고관절 굴곡·외전·내회전을 측정하고 VBS의 단기 내약성을 평가했다. VBS는 TES에 비해 더 큰 고관절 굴곡(평균 53°±13° vs 66°±11°)과 외전(15°±5° vs 8°±6°)을 유도했으며, 내회전은 유의한 차이가 없었다(중앙값 TES 1°; VBS 6°). VBS의 단기 내약성은 제한적이어서 14일 착용을 완료한 개는 1마리뿐이었고, 기기 관련 문제(4건), 소유자 불이행(2건), 불내성(5건)으로 중단되어 임상 적용에 영향을 줄 수 있다.",
+      "detailed_summary": "연구는 2024년 6월~2025년 8월 사이에 등록된 12마리의 외래 소유견을 전향적으로 대상으로 했으며, 동일한 후지에 대해 전통적 Ehmer 슬링(TES)과 조끼형 슬링(VBS)을 순차적으로 적용하였다. 서있는 정적 자세에서 관절각(고관절 굴곡·외전·내회전)을 고니오메트리로 측정하였다. 주요 결과는 VBS가 TES보다 고관절 굴곡을 더 크게 유지(평균 53°±13° vs 66°±11°; 각도는 더 낮을수록 굴곡이 큼)하고 외전도 더 크게 유도(15°±5° vs 8°±6°)했다는 점이다. 내회전은 장치 간 유의한 차이를 보이지 않았다(중앙값 TES 1°; IQR -5°~5° vs VBS 6°; IQR 4°~10°). 단기 내약성 평가에서는 14일 목표 착용을 완료한 개는 1마리뿐이었고, 총 11마리가 중단되었는데 원인은 기기 관련 문제 4건, 소유자 불이행 2건, 불내성 5건이었다. 저자들은 TES의 관절각 기준값을 제시하고 VBS가 더 큰 굴곡 및 외전을 유도함을 보고했으나, 연구는 건강한 개 대상의 단기 평가였고 VBS의 제한된 내약성이 임상 적용에 영향을 미칠 수 있다는 점을 중요한 제한점으로 제시하고 있다.",
+      "title": "A vest-based sling provides greater hip flexion and abduction than a traditional Ehmer sling, with limited tolerability in healthy dogs.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-08-01T06:53:43.783Z",
       "model": "gpt-5-mini"
     },
     "42082101": {
@@ -345,6 +377,14 @@
       "generated_at": "2026-07-26T07:22:29.281Z",
       "model": "gpt-5-mini"
     },
+    "42086066": {
+      "brief_summary": "2012–2022년 3개 학술병원 기록을 후향적으로 검토한 연구로, 원발성 부갑상선 기능항진증으로 수술받은 개 202마음을 대상으로 수술 후 지속성 및 재발성 고칼슘혈증 발생 비율과 원인을 보고했다. 지속성 고칼슘혈증은 25/202(12.4%), 재발성은 장기 추적군에서 1/79(1.3%)로 드물었다. 주요 원인으로는 다수 부갑상선 질환과 부적절한 수술적 절제가 지목되며, 임상적으로는 신중한 수술 계획과 주변기 관리·추적이 필요함을 시사한다.",
+      "detailed_summary": "후향적 의무기록 검토 연구로 2012–2022년 3개 학술병원에서 수술적 치료를 받은 원발성 부갑상선 기능항진증 개 202마음을 포함했다. 대상은 추적기간에 따라 ≤6개월(그룹1, 123마리)과 >6개월(그룹2, 79마리)로 분류되었다. 주요 평가 항목은 수술 후 지속성(수술 직후 혹은 지속되는 고칼슘혈증) 및 재발성(추적 중 재발) 고칼슘혈증의 발생률과 원인이었다. 결과는 지속성 25/202(12.4%), 재발성 1/79(1.3%)였고, 수술 전 이온화 칼슘(ionized calcium, iCa)과 부갑상선호르몬(parathyroid hormone, PTH) 수준은 지속성군과 해결군 간 차이가 없었다. 병리소견은 부갑상선 선종 58% (135/233), 과형성 24% (56/233), 암종 7% (10/233)이었다(표본수는 초록에 제시된 대로 233). 15마리가 재수술을 받았고 1마리가 3차 수술을 필요로 했다. 연구자들은 지속성 및 재발성 고칼슘혈증이 드물지만 다수 부갑상선 질환과 부적절한 절제가 주요 원인이므로 철저한 수술 계획과 perioperative 모니터링이 중요하다고 결론지었다. 제한점으로는 후향적 설계 및 초록에 제시된 추적군 분류에 따르는 한계가 있다.",
+      "title": "Persistent and recurrent hypercalcemia are uncommon in dogs undergoing surgical treatment for primary hyperparathyroidism.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-08-01T06:53:24.233Z",
+      "model": "gpt-5-mini"
+    },
     "42086328": {
       "brief_summary": "5세 암컷 고양이에서 중족 패드(metatarsal pad)에 발생한 보라색 함몰 병변이 궤양과 통증을 유발하여 조직검사를 시행한 결과 비종양성 혈관증식(피부 혈관증식증, cutaneous angiomatosis)으로 확인되었다. 국소 베타차단제(topical beta-blocker) 투여로 궤양의 재발이 예방되었다. 본 증례는 수의학 및 사람 피부과에서 국소 베타차단제의 적용 가능성을 제시한다.",
       "detailed_summary": "증례보고 형식의 연구로, 연구 대상은 5세 암컷 고양이 한 마리이다. 임상적으로 중족 패드에 보라색 함몰 병변이 관찰되었고 궤양과 통증을 동반하여 조직검사를 통해 평가하였다. 조직병리 결과는 비종양성 혈관 증식으로 확인되었으며 이는 고양이에서 드문 소견으로 기술되었다. 치료로 국소 베타차단제를 적용하였고 임상 경과에서 궤양의 재발이 방지되는 결과를 보였다. 저자들은 이 사례가 국소 베타차단제의 수의피부과적 적용 가능성을 시사한다고 결론지었다. 중요한 제한점으로는 단일 증례 보고이므로 결과를 일반화할 수 없다는 점이 있다.",
@@ -353,12 +393,60 @@
       "generated_at": "2026-07-24T15:23:20.993Z",
       "model": "gpt-5-mini"
     },
+    "42091082": {
+      "brief_summary": "본 연구는 2014년 1월부터 2024년 12월까지 헤미라미넥토미(hemilaminectomy)를 받은 골반 사지에서 심부 통증 지각(DPP)이 소실된 110마리의 개를 후향적으로 검토하여 고압산소치료(HBOT)가 DPP 회복에 미치는 영향을 조사했다. 전체적으로 HBOT 집단(45마리)과 비HBOT 집단(65마리)의 재검에서 신경학적 개선률은 각각 73.3%와 60%로 통계적 유의차가 없었다(P = .21). 다변량 회귀분석에서는 흉요추(thoracolumbar) 병변이 요추(lumbar) 병변보다 회복 가능성이 낮았고(OR 0.01; 95% CI 0.0008–0.49; P = .04), 흉요추 병변에 대해서는 HBOT이 비HBOT보다 개선 가능성을 높인 대조 결과가 관찰되었으나(contrast OR 0.029; 95% CI 0.027–0.031; P = .01), 전반적으로 HBOT가 DPP 회복에 영향을 미치지 않았다는 결론을 제시했다.",
+      "detailed_summary": "후향적 의무기록 검토로, 헤미라미넥토미를 시행한 후 골반 사지에서 DPP가 소실된 110마리의 개를 대상으로 했다(기간: 2014.1–2024.12). 대상은 HBOT를 받은 군(HB, 45마리)과 받지 않은 군(NHB, 65마리)으로 나뉘었고, Modified Frankel 점수(0: 한쪽이라도 DPP 소실 ~ 5: 척수 과민성)를 수술 전, 수술 후, 재검 시에 평가했다. 주요 비교는 집단 간 신경학적 개선 유무였으며 Pearson χ2 검정을 사용했다. 재검 시 개선은 HB군에서 33/45(73.3%), NHB군에서 39/65(60%)로 집단 간 유의한 차이는 없었다(P = .21)와 모든 시점에서 차이가 없었다(P = .32). 다변량 회귀분석에서는 흉요추 병변이 요추 병변보다 개선 가능성이 유의하게 낮았고(OR 0.01; P = .04), 흉요추 병변에 대해선 HBOT군에서 NHB군보다 개선 가능성이 더 높게 나타나는 대조적 소견이 보고되었으나(contrast OR 0.029; P = .01) HBOT 세션 수 자체는 개선과 관련이 없었다(P = .65). 연구자는 전반적으로 HBOT가 DPP 회복에 영향을 미치지 않았다고 결론지었으며, 결과는 보행 회복(return to ambulation)을 예측하는 데 참고가 될 수 있다고 제시했다. 이 연구는 후향적 기록 검토라는 설계적 제한이 있으므로 인과관계 결론은 제한적임을 유의해야 한다.",
+      "title": "Hyperbaric oxygen therapy does not improve recovery of deep pain perception in dogs after hemilaminectomy for intervertebral disk disease.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-08-01T06:53:04.265Z",
+      "model": "gpt-5-mini"
+    },
+    "42097169": {
+      "brief_summary": "191마리의 개(정상 대조군 포함)를 대상으로 방사선학적 좌심방 지표들을 비교하고 새로운 지표인 척추 기준 좌심방 복측(VLAV)을 제안하여 판별력과 예후 연관성을 평가한 연구이다. VLAV은 병기 B2의 판별에서 AUC 0.82(95% CI 0.76–0.88)를 보이며 다른 지표들과 유사한 성능을 나타냈고, VLAV ≥ 3.0은 불량한 예후와 연관되었다. VLAS, M‑VLAS, LAwidth, RLAD, VLAV에 대한 컷오프(예: VLAS > 2.48, M‑VLAS > 3.4, LAwidth > 2.11, RLAD > 2.7, VLAV > 2.99)를 제시하여 선별 및 생존 예측에 활용할 수 있음을 시사한다.",
+      "detailed_summary": "관찰적(후향·전향 혼합) 연구로 2017년 11월부터 2024년 4월까지 시행된 검사 191건을 평가하였으며, 도플러 심초음파로 판별된 승모판질환(MVD) 개와 심질환이 없는 대조군을 포함하였다. 제외기준은 척추이분증(hemivertebrae), 심장 및 폐 종양, 검사 품질 불량 등이었다. 평가된 방사선 지표는 좌심방 폭(LAwidth), 방사선 좌심방 지름(RLAD), 척추 기준 좌심방 크기(VLAS), 수정 VLAS(M‑VLAS), 척추 기준 좌심방 복측(VLAV), 척추 심장 점수(VHS)였다. VLAS, M‑VLAS, LAwidth, RLAD는 병기 B1, B2, C/D 간 차이를 보였고, VLAV는 대조군 및 B1과 B2·C/D 간 차이를 보였다. VLAV는 병기 B2를 판별하는데 AUC 0.82(95% CI 0.76–0.88)로 우수한 진단 성능을 보였고 다른 지표들과 유사한 성능을 보였다. 제시된 컷오프 값들(VLAS > 2.48; M‑VLAS > 3.4; LAwidth > 2.11; RLAD > 2.7; VLAV > 2.99)은 좌심장비대를 식별하는 데 사용될 수 있으며, VLAS와 M‑VLAS는 LA/Ao 비 증가 및 의심되는 병기 B2를 신뢰성 있게 식별했다. 반복성 및 재현성은 양호에서 우수였고, VLAS·M‑VLAS·LAwidth·VLAV의 높은 값은 단축된 생존과 연관되어 VLAV ≥ 3.0은 불리한 예후를 시사하였다(초록에는 추가적인 제한점 기술은 없음).",
+      "title": "Vertebral left atrial ventral: a new prognostic marker in dogs with mitral valve disease.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-08-01T06:52:48.904Z",
+      "model": "gpt-5-mini"
+    },
+    "42097171": {
+      "brief_summary": "본 연구는 2019-08-30부터 2024-08-30까지 3차 병원에서 경추 MRI를 받은 개들의 의무기록을 체중별로 후향적으로 비교해 체중에 따른 MRI 소견의 비율을 평가했다. 총 270마리 중 체중 <15kg에서는 추간판 질환(IVDD)의 비율이 145/175(82.9%)로 높았고, 체중 ≥15kg에서는 신생물과 경추 척수병증의 비율이 유의하게 높았다. 이 결과는 경추 질환으로 영상검사를 고려할 때 체중에 따른 가능 질환을 초진 상담 및 추가 검사·치료 계획에 반영하는 데 도움이 된다.",
+      "detailed_summary": "후향적 의무기록 리뷰 연구로, 2019-08-30~2024-08-30 기간에 경추 MRI를 시행한 개 270마리(체중 <15kg: 175, ≥15kg: 95)를 체중군으로 분류해 분석했다. 주요 평가 항목은 MRI에서 확인된 병변 유형(추간판 질환[IVDD], 신생물, 경추 척수병증, 환추축 불안정성[AAI], 선천성 이상 등)이다. 체중 <15kg 군에서 IVDD 비율은 145/175(82.9%)였고, ≥15kg 군은 58/95(61.1%)로 ≥15kg에서 IVDD 발생 odds가 68% 낮았다(OR 0.32; 95% CI 0.18–0.57). 연골발육이상(Chondrodystrophic) 개에서는 체중과 IVDD 간 유의한 연관성은 관찰되지 않았다. 신생물은 ≥15kg에서 발생 odds가 유의하게 높았고(OR 5.3; 95% CI 2.1–15), 경추 척수병증의 odds는 체중 증가에 따라 증가했다(OR 1.11 per kg; 95% CI 1.06–1.16). AAI가 있는 개의 체중 중앙값은 5.2kg(IQR 2.8–6.9)로 AAI가 없는 개(중앙값 11.0kg, IQR 6.4–25.5)보다 낮았고, 선천성 이상은 체중 <15kg에서 더 흔했으며 체중 ≥15kg의 발생 odds는 OR 0.03(95% CI <0.001–0.24)이었다; 초록에는 제한점이 명시돼 있지 않아 결과 일반화에는 주의가 필요하다.",
+      "title": "Magnetic resonance imaging of dogs with cervical disease revealed a higher proportion of intervertebral disk disease in small dogs and neoplasia in large dogs.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-08-01T06:52:27.591Z",
+      "model": "gpt-5-mini"
+    },
     "42104600": {
       "brief_summary": "건강한 개 15마리(무작위 배정, 5그룹, 각 3마리)를 대상으로 Lactiplantibacillus plantarum YUN-V2.0과 Lacticaseibacillus rhamnosus YUN-S1.0을 포함한 프로바이오틱 귀 점이 한 번 투여된 후 귀 도말에서의 생존과 주요 외이도염(OE) 병원균에 대한 억제능을 평가했다. 투여 24시간에 Lactobacillaceae가 기초치 1.34×10^3 cfu/mL에서 2.3×10^6 cfu/mL로 유의하게 증가(p<0.001)하였고, 1주일 후에도 1.6×10^5 cfu/mL로 10^5 cfu/mL 이상 잔존했다. in vitro 시험에서 프로바이오틱 균주는 Pseudomonas aeruginosa에 대해 gentamicin 및 marbofloxacin보다, Staphylococcus pseudintermedius에 대해 gentamicin·neomycin·marbofloxacin보다 더 우수한 억제력을 보였고, Malassezia pachydermatis에 대해서는 miconazole·terbinafine와 유사한 억제효과를 보였다—이는 귀 점이 균군 정착과 병원균 억제 가능성을 시사한다.",
       "detailed_summary": "무작위화된 예비 연구로 건강한 개 15마리(5개 그룹, 각 그룹 n=3)에 단회로 프로바이오틱 귀 점(총 6회 점이 투여된 것으로 기술됨; Lactiplantibacillus plantarum YUN-V2.0 및 Lacticaseibacillus rhamnosus YUN-S1.0 포함)을 적용했다. 귀 도말은 투여 24, 48, 72, 96시간 및 7일에 채취하여 배양하였고, 기초치 Lactobacillaceae는 1.34×10^3 cfu/mL 수준이었다. 투여 24시간에 Lactobacillaceae는 2.3×10^6 cfu/mL로 유의하게 증가(p<0.001)했으며, 1주일 후에도 1.6×10^5 cfu/mL로 10^5 cfu/mL 이상이 유지되었다. 병원균 억제 실험에서는 임상 분리주 Pseudomonas aeruginosa, Staphylococcus pseudintermedius, Malassezia pachydermatis를 대상으로 프로바이오틱 제제와 항균 디스크( florfenicol 30 µg, gentamicin 30 µg, marbofloxacin 5 µg, miconazole 10 µg, neomycin 120 µg, terbinafine 1.5 µg)를 비교했으며, 프로바이오틱 균주들이 P. aeruginosa에 대해 gentamicin·marbofloxacin보다, S. pseudintermedius에 대해 gentamicin·neomycin·marbofloxacin보다 더 나은 성장 억제를 보였고, M. pachydermatis에 대해서는 miconazole·terbinafine와 유사한 억제 효과를 보였다. 결론적으로 해당 프로바이오틱 균주는 외이도에서의 정착과 주요 OE 병원균에 대한 억제 가능성을 보였으나 본 연구는 건강한 개에서의 단회 투여와 in vitro 병원균 억제시험을 기반으로 하므로 실제 외이도염 환자에서의 임상적 치료효과는 별도의 임상시험을 통해 검증되어야 한다.",
       "title": "Probiotic Engraftment and Suppression of Canine Otitis Externa Pathogens by Probiotic Ear Drops.",
       "journal": "Veterinary Dermatology",
       "generated_at": "2026-07-24T15:23:11.660Z",
+      "model": "gpt-5-mini"
+    },
+    "42114558": {
+      "brief_summary": "본 연구는 2022–2025년 동안 3개 수의 임상기관에서 신경학·신경외과 서비스 환자(개·고양이)의 생체액을 표준화된 방식으로 수집·보관하는 다기관 바이오리포지토리 구축의 타당성과 생산성을 평가했다. 3년간 약 2,500개의 검체를 수집하고 Freezerworks 데이터베이스로 임상 정보를 주석화하였으며, 혈청(n=12), 뇌척수액(뇌척수액, CSF; n=12), 소변(n=9)의 품질은 기관 간 일관되었다. 무작위로 선별한 개의 혈청 샘플에서 후보 신경퇴행성 단백질 농도가 뚜렷히 구분되어 검체가 연구 목적에 적합함을 시사했다. 임상적 의미는 표준화된 다기관 리포지토리가 고품질의 임상주석 검체 접근을 확대하여 강건하고 충분한 검정력을 갖춘 다기관 연구를 촉진할 수 있다는 점이다.",
+      "detailed_summary": "전향적 다기관(3개 기관) 바이오뱅킹 및 실행 가능성 연구로, 2022–2025년에 수행되었다. 각 기관의 신경학 및 신경외과 서비스에서 개·고양이의 생물학적 체액을 수집·보관하고, 모든 기관이 공통 데이터베이스(Freezerworks)를 사용해 샘플 위치와 임상 정보를 주석화했다. 교원 대상 익명 설문(응답자 170명)에서는 94명(55%)이 기관 및 연구자 공동 재정 지원을 포함한 중앙화된 바이오뱅킹을 지지하는 것으로 나타났다. 총 약 2,500개의 검체가 수집되었고, 품질관리로 선택된 혈청(n=12), 뇌척수액(CSF, n=12), 소변(n=9)을 ELISA 및 single-molecule array(단분자 배열)로 분석한 결과 샘플 품질은 기관 간에 일관되었다. 추가로, 무작위로 선별된 개의 혈청에서 후보 신경퇴행성 단백질 농도가 명확히 구분되어 보관된 검체가 바이오마커 연구에 적합함을 보였다. 결론적으로 다기관 수의학 바이오리포지토리 구축은 실현 가능하고 생산적이며, 표준화된 레지스트리와 상호 접근성은 다영역의 연구자를 연결해 엄격하고 충분히 규모 있는 다기관 연구를 촉진할 수 있다. 다만 바이오마커 품질 평가는 소수의 선택된 샘플에서 수행되었고(각 군 n=9–12), 검체는 신경계 관련 서비스에서 수집되었다는 점은 해석 시 유의해야 한다.",
+      "title": "Establishing a standardized biorepository across 3 clinical and translational science center-affiliated veterinary institutions is feasible and productive.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-08-01T06:52:03.116Z",
+      "model": "gpt-5-mini"
+    },
+    "42114560": {
+      "brief_summary": "본 연구는 2024년 11월~2025년 3월에 비글 6마리의 피부 구조 차이가 경피 약물 침투에 미치는 영향을 파악하기 위해 등부, 측측 몸통, 복부에서 피부 표본을 채취해 평가한 탐색적 연구이다. 표피 두께와 각질층(stratum corneum, SC) 층수는 체부에 따라 거의 차이가 없었으나(최대 평균 차이 약 0.3층), 모공(모낭 개구부) 밀도는 등>측측>복부로 큰 차이를 보였고 진피 혈관 밀도는 복부가 더 높았다. 이러한 결과는 표피 두께나 SC 층수 외의 피부 구조적 요인이 경피 흡수에 영향을 줄 수 있다는 가설을 제시하며 추가 연구가 필요함을 시사한다.",
+      "detailed_summary": "탐색적 연구로 2024년 11월부터 2025년 3월까지 비글 6마리에서 등부, 측측 몸통, 복부의 피부 표본을 진정 및 국소마취 하에 채취했다. 평가 항목은 조직학적 방법으로 측정한 표피 두께, 각질층(SC) 층수, 진피 혈관 밀도와 피부용이사진(dermoscopy)으로 확인한 모낭 개구부 밀도였다. 표피 두께와 SC 층수는 체부 간 차이가 작았고 SC의 최대 평균 차이는 약 0.3층으로 보고되었다. 반면 모낭 개구부 밀도는 등부에서 가장 높고 측측이 중간, 복부가 가장 낮아 큰 차이를 보였다. 진피 혈관 밀도는 복부가 등부 및 측측보다 다소 높은 것으로 나타났다. 연구진은 표피 두께 및 SC 층수 외의 피부 구조적 요인이 경피 약물 침투에 영향을 미칠 가능성을 제기했으나 이는 가설이며 추가 연구가 필요하다고 명시하였다. 본 연구는 표본 수가 6마리인 탐색적 연구임을 한계로 둔다.",
+      "title": "Skin structures associated with percutaneous drug penetration differ by body site in Beagles.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-08-01T06:51:33.678Z",
+      "model": "gpt-5-mini"
+    },
+    "42114562": {
+      "brief_summary": "후향적 관찰연구에서 다중요법으로 호전되지 않은 만성 발가락 사이 모낭 낭종(CIFCs)을 가진 개 11마리를 대상으로 부분(fusion partial podoplasty, PFP) 또는 전부(total fusion podoplasty, TFP) 융합 성형술의 임상 결과를 평가했다. 모든 족부에서 치유가 이루어졌고 치유까지 중위수는 28일이었다. 장기적으로 대부분의 증례에서 만족스러운 결과를 보였고, TFP가 PFP보다 합병증이 적었으며 TFP에 배액(펜로즈 드레인)을 병용한 경우 상처 합병증이 발생하지 않았다, 즉 재건술로서 유용한 구제술임을 시사한다.",
+      "detailed_summary": "2005년부터 2025년까지 2개 레퍼럴 병원의 의무기록을 후향적으로 검토하여 기계적 마찰 또는 외상에 2차적으로 발생한 것으로 추정되는 만성 발가락 사이 모낭 낭종(CIFCs)으로 다중 내과적 치료에 반응하지 않은 개들을 포함하였다. 초록 기준에 부합한 11마리가 포함되었고 중간 추적기간은 16개월이었다. 수술로는 부분 융합 성형술(PFP)이 7족부, 전부 융합 성형술(TFP)이 9족부에 시행되었다. 주요 평가 항목은 상처 치유까지의 시간(중위수 28일), 수술 후 결과 분류(장기 결과: 우수 8마리, 수용 1마리, 불량 2마리) 및 합병증(총 20건, 경미 18건·중대 2건)으로 보고되었다. 가장 흔한 합병증은 부분 절개열개(7/20)였고, 펜로즈 드레인을 병용한 5건의 TFP에서는 상처 합병증이 보고되지 않았다. 연구 결론은 융합 성형술이 다중요법에 불응하는 CIFCs에 대해 대부분의 증례에서 만족스러운 장기 결과를 제공하며, 특히 TFP와 수동 배액 병용 시 합병증이 적을 수 있다는 것이었다. 연구 설계는 후향적 관찰연구라는 점이 명시되어 있다.",
+      "title": "Fusion podoplasty provides favorable long-term outcomes in dogs with interdigital follicular cysts unresponsive to medical therapy: a retrospective study of 16 cases.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-08-01T06:51:19.212Z",
       "model": "gpt-5-mini"
     },
     "42114565": {
@@ -385,6 +473,22 @@
       "generated_at": "2026-07-24T15:22:37.048Z",
       "model": "gpt-5-mini"
     },
+    "42140264": {
+      "brief_summary": "이 연구는 2023년 5–12월 IDEXX 원격진료 전자의무기록에서 무작위로 선정한 흉부 측면 방사선영상을 대상으로 개의 17가지 임상적 흉부 방사선 소견의 유병률과 방사선 전문의 간 관찰자간 변이를 평가했다. 총 2,761건을 분석한 결과 폐 이상 폐패턴이 가장 흔해 60.9%였고, 과다한 기관지막(중복 기관막)이 29.4%였으며 심기저부 종괴와 식도 이물은 각각 0.5%와 0.3%로 드물었다. 관찰자 간 일치도는 식도 이물·심기저부 종괴·기흉 등 방사선 소견이 뚜렷한 경우 AUC(ROC 곡선 아래 면적)가 1.00으로 높았고, 기관 연골연화증(0.76)이나 종족성/지방 축적에 의한 전흉선 확장(0.78) 등 주관적 또는 형태학적으로 모호한 소견에서는 낮아 임상적 벤치마킹과 일관성 개선을 위한 진단 기준 표준화가 필요함을 시사한다.",
+      "detailed_summary": "연구 설계는 IDEXX Telemedicine Consultants의 전자의무기록에서 2023년 5월–12월 사이 생성된 흉부 측면 방사선검사 4,000건을 무작위 선정하고 제외 기준 적용 후 2,761건을 최종 분석 대상으로 한 관찰 연구이다. 17개의 미리 선정된 흉부 방사선 소견을 보드 인증 수의 방사선 전문의들이 판독했으며, 초기에는 5명이었으나 연구 가속화를 위해 3명으로 줄였고 최종적으로 총 12명의 전문의가 참여해 1,367건은 3인 평가(3중평가), 1,394건은 5인 평가(5중평가)로 이루어졌다. 각 소견의 유병률은 잠재 클래스 기대-최대화(latent class expectation-maximization) 방법으로 추정했다. 주요 결과로는 비정상 폐 패턴이 60.9%로 가장 흔했고 중복 기관막 29.4%, 심기저부 종괴 0.5%, 식도 이물 0.3%였다. 관찰자 간 일치도는 방사선학적으로 명확한 소견(식도 이물, 심기저부 종괴, 기흉)은 AUC가 1.00으로 매우 높았으나, 주관적이거나 형태학적으로 애매한 소견(의심되는 기관 연골연화증 AUC 0.76, 종족성/지방성 전흉선 확장 AUC 0.78)에서는 낮았다. 초록에서는 구체적인 제한점이 상세히 제시되어 있지 않으며, 저자들은 유병률 추정치와 관찰자 일치도 프로파일이 임상적 벤치마킹의 틀을 제공하고 일관성 향상을 위해 표준화된 판독 기준이 필요한 영역을 강조한다고 결론지었다.",
+      "title": "Study identifies prevalence estimates of clinically relevant canine thoracic radiographic findings and insights into interobserver variability.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-08-01T06:50:56.617Z",
+      "model": "gpt-5-mini"
+    },
+    "42140268": {
+      "brief_summary": "Dog Aging Project(DAP)의 초기 등록 설문(Health and Life Experience Survey, HLES)에 응답한 47,444명을 대상으로 한 횡단면 연구로, 펫보험 가입자 특성과 보험 유무에 따른 보호자 인지 건강 상태 차이를 분석했다. 응답자 중 10,127명(21%)이 펫보험 가입자였으며, 가입자는 25–44세, 비백인, 전문학위 소지자의 비율이 상대적으로 높았고, 가입견은 젊고 단일품종이며 번식자(breeder)에서 입수되고 동반 목적 외의 목적으로 입수된 경우가 더 흔했다. 보호자가 인지한 ‘매우 우수한’ 건강 비율은 가입견 5,514/10,127(54%) 대 미가입견 17,979/37,317(48%)로 카이제곱(χ2) 검정에서 통계적으로 유의한 차이를 보였으며, 이는 수의사가 펫보험에 대해 보호자와 상담할 때 참고할 만한 자료이다.",
+      "detailed_summary": "연구는 2020-01-01부터 2023-12-31까지 DAP의 초기 등록 설문(HLES)에 응답한 47,444명의 개 소유자 응답을 횡단면 방식으로 분석했다. 수집된 변수는 개 및 소유자의 인구학적 특성(연령대, 인종, 학력 등)과 개의 출처·품종·연령 및 보호자가 평가한 건강 상태 등이었다. 전체 중 10,127명(21%)이 펫보험 가입자로 분류되었고, 가입자군은 25–44세, 비백인, 전문학위 소지 비율이 높았으며 가입된 개는 젊고 단일품종이며 breeder로부터 입수된 비율과 동반 목적 외 입수 비율이 더 높았다. 보호자 인지 건강 상태에서 ‘매우 우수’로 평가된 비율은 가입견 5,514/10,127(54%)과 미가입견 17,979/37,317(48%)로, 카이제곱(χ2) 검정에서 통계적으로 유의한 차이를 보였다. 연구는 펫보험 가입과 보호자 인지 건강 상태 간에 통계적 차이가 있음을 보고하며 추가 조사가 필요하다고 결론지었다. 횡단면 설계상 연관성은 관찰할 수 있으나 인과관계는 확정할 수 없다는 점을 유의해야 한다.",
+      "title": "Pet insurance uptake is associated with dog and owner demographics and health status based on Dog Aging Project survey data.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-08-01T06:50:23.555Z",
+      "model": "gpt-5-mini"
+    },
     "42146261": {
       "brief_summary": "6세 암컷 중성화 실내 단모묘에서 재발성 pyothorax로 내원해 POCUS(현장 초음파)에서 양측 흉막삼출을 보였고, 흉관 삽관 후 배액액에서 호중구성 패혈성 삼출과 혐기성 균종이 배양되었다. 흉부 CT에서 식도 인접의 caudal mediastinal paraoesophageal mass가 관찰되어 비호전으로 VATS(비디오 보조 흉부수술)를 시도하고 시야 확보를 위해 부분적으로 흉강경 보조로 전환하여 병변을 제거했다. 조직검사상 농양이며 Fusobacterium russii와 Bacteriodes pyogenes가 배양되었고, 원인 기전은 밝혀지지 않았으며 메트로니다졸로 퇴원 후 3개월 추적 시 증상 및 흉막삼출의 재발은 없었다; 반복 영상검사의 중요성과 고양이 CMPA에 대한 VATS의 적용 가능성 및 어려움을 제시한다.",
       "detailed_summary": "증례보고로 6세 암컷 중성화 실내 단모묘가 급성 호흡곤란과 무기력으로 내원했으며, 3개월 전에도 세균성 pyothorax로 보존적 치료를 받은 병력이 있었다. 초기 안정화 후 POCUS에서 양측 흉막삼출이 확인되어 흉관을 삽관하고 흉막액을 채취하였고, 세포검사상 패혈성 호중구성 삼출을 보였으며 혐기성 배양에서 Fusobacterium russii, Bacteroides pyogenes 및 Porphyromonas gingivalis가 검출되었다. 흉부 CT에서 식도 인접의 caudal mediastinal paraoesophageal mass가 확인되었으나 식도내시경에서는 점막 이상이나 이물은 관찰되지 않았다. 보존적 치료에 반응이 없어서 VATS로 수술적 제거를 시도했고 시야 확보를 위해 부분적으로 흉강경 보조 접근으로 전환하여 병변을 절제했다. 절제 조직의 조직병리학적 소견은 농양과 일치했고, 배양에서 F. russii와 B. pyogenes가 분리되었다. 수술 후 흉관은 4일째 제거되었고 메트로니다졸로 퇴원하였으며 3개월 추적 시 POCUS에서 임상증상 및 흉막삼출의 재발은 관찰되지 않았다. 이 보고는 원인 규명이 되지 않은 CMPA의 진단·치료 과정과 고양이에서 VATS를 이용한 흉강내 농양 제거의 실현 가능성 및 시야 확보의 어려움을 제시하나 단일 증례로 일반화하기는 제한적이다.",
@@ -401,12 +505,36 @@
       "generated_at": "2026-07-30T06:49:42.476Z",
       "model": "gpt-5-mini"
     },
+    "42161299": {
+      "brief_summary": "지구력 훈련을 받은 썰매 성견 121마리를 대상으로 수의용과 사람용으로 적응된 두 디지털 심전도기(ECG)와 그 컴퓨터 기반 분석 프로그램으로 동시에 표준 사지 유도 심전도를 채득해 비교했다. 두 기기 사이에 전역 ECG 지표의 9개 중 7개와 I·II·III 유도의 파형 진폭 15개 중 10개에서 통계적으로 유의한 차이가 있었고, 특히 II·III 유도의 Q파 및 R파 진폭은 수의용 기기가 11%에서 23% 더 크게 측정돼 임상적으로 의미 있는 차이가 있었다. 그 결과 수의용 심전도기가 좌·우심실 확대를 의심하는 개체를 더 많이 식별했으며, 심전도 기준치는 기기와 고주파 필터링 특성 및 해석 프로그램에 따라 달라진다고 결론지었다.",
+      "detailed_summary": "연구는 2021년 2~3월에 두 대의 디지털 심전도기(수의용 vs 사람용)를 사용해 동일 시점에 표준 사지 유도 심전도를 채득한 뒤, 시각적으로 검증된 컴퓨터 기반 측정값을 비교한 관찰 비교 연구이다. 대상은 지구력 훈련을 받은 썰매 성견 121마리였고, 비교 통계로는 Wilcoxon signed-rank 검정, Deming 회귀, Bland-Altman 플롯을 사용했다. 연구진은 P파 지속시간·PQ 간격·QRS 지속시간·JT·QT 간격에 대해 중앙값 차이 <10 ms, 파형 진폭(P,Q,R,S,T)에 대해 <10%를 허용 가능한 효과 크기로 설정했다. 결과는 전체적으로 두 기기 간 차이가 많았으며, 전역 ECG 지표 9개 중 7개와 리드 I·II·III의 파형 진폭 15개 중 10개에서 통계적 차이가 관찰되었다. 임상적 기준에 따른 차이는 II·III 유도의 Q·R파 진폭에서 확인되었고, 수의용 기기가 11%~23% 더 높은 값을 보였으며 이로 인해 좌·우심실 확대를 의심하는 비율이 더 높게 나타났다. 또한 수의용 심전도기의 로우패스 필터는 고주파수 성분을 사람용 기기보다 덜 감쇠했고, 그 결과 수의용 기기에서 7개(9개 중)의 전역 지표에 대한 기준구간이 더 좁게 산출되었다. 결론적으로 개 심전도의 기준구간은 디지털 심전도기 자체와 그 고주파 필터링 특성 및 컴퓨터 기반 분석 프로그램에 따라 달라진다.",
+      "title": "Two digital electrocardiographs and their computer-based analysis programs produce clinically significant differences in values and reference intervals for dog electrocardiograms.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-08-01T06:50:09.195Z",
+      "model": "gpt-5-mini"
+    },
+    "42161304": {
+      "brief_summary": "본 연구는 성숙한 개 시신 5구(좌우 합계 n=10)를 대상으로 둔부 외측(dorsolateral) 근육 구조를 식별하기 위한 초음파 프로토콜을 개발하고자 3-T MRI와 고주파 B-모드 초음파를 비교 검증하였다. 중둔근, 심둔근, 표층둔근, 이상근, 대퇴이두근, 내폐쇄근, 쌍둥이근(gemelli), 사각둔근 등 8개 근육과 천장골인대(sacrotuberous ligament) 및 좌골신경을 영상화하였다. 초음파 유도 염료 주입 후 해부로 확인한 결과, 두 명의 전문의(ACVR, ACVSMR)가 수행한 주입이 모든 근육을 일관되게 정확히 표적화하였다. 이 결과는 둔부 외측 연부조직의 초음파 해부학 이해를 높여 손상 식별·모니터링 및 치료에 도움을 줄 수 있음을 시사한다.",
+      "detailed_summary": "연구는 2024년 9월 1일부터 2025년 8월 30일까지 수행되었으며, 성골격 성숙 개 시신 5구(좌우 합계 n=10)를 대상으로 3-Tesla MRI와 고주파 B-모드 초음파를 이용해 둔부 외측 근육을 영상화하였다. 각 근육의 기시·정지·해부학적 관계를 문서화했으며, 중둔근, 심둔근, 표층둔근, 이상근(piriformis), 대퇴이두근, 내폐쇄근, 쌍둥이근(gemelli), 사각둔근(quadratus femoris) 등 8개 근육과 함께 천장골인대와 좌골신경을 랜드마크로 기록했다. 초음파에서의 구조 식별 접근법을 문서화하고, 초음파 유도 염료 주입을 통해 식별 정확도를 검증하였다. 염료 주입은 American College of Veterinary Radiology(ACVR)와 American College of Veterinary Sports Medicine and Rehabilitation(ACVSMR) 소속 각 1명의 전문의가 별도로 수행했으며, 해부 결과 두 전문의 모두 모든 근육에서 일관되게 정확한 표적 주입이 확인되었다. 연구 결론은 제시한 초음파 프로토콜이 MRI 및 육안 해부와 일치하며 둔부 외측 구조의 정상 초음파 해부학을 문서화해 임상적 식별·모니터링·치료에 기여할 수 있다는 것이다. 초록에는 표본 크기나 생체 적용성 등 구체적 제한점이 별도로 제시되어 있지 않다.",
+      "title": "Effective ultrasonography protocol for investigating muscular structures of the canine dorsolateral hip region with comparative magnetic resonance imaging.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-08-01T06:49:49.671Z",
+      "model": "gpt-5-mini"
+    },
     "42168827": {
       "brief_summary": "회음부 요도루 형성술(perineal urethrostomy, PU)을 받은 97마리의 반려 고양이(복와위 SR n=55, 배측위 DR n=42)를 후향적으로 검토하여 수술 중 체위가 마취·사후 혈청 크레아티닌(SCr)에 미치는 영향을 평가했다. 두 그룹 간 마취 합병증 및 수술 후 SCr 변화에는 유의한 차이가 없었다. 단, 수술 전 폐색 에피소드 수에서 통계적 차이(SR 중앙값 2 [0–5], DR 중앙값 2 [1–6], P=0.0074)가 관찰되었으나 임상적 의미는 크지 않은 것으로 보고되었다. 저자들은 SR 또는 DR 체위가 요도 폐색 관련 급성 신손상(AKI) 고양이의 마취 최적화에 영향을 주지 않으므로 수술자 선호에 따라 체위를 결정할 것을 권고한다.",
       "detailed_summary": "연구는 단일 기관의 의뢰 환자 고양이 97마마리를 후향적으로 검토한 사례대조 연구로, 회음부 요도루 형성술(PU) 이외의 추가 수술이 있는 증례는 제외되었다(SR n=55, DR n=42). 수집한 항목은 신상정보, 수술 전 폐색 에피소드 수, 수술 전·후 혈청 크레아티닌(SCr), 수술 및 마취 시간, 사용된 마취 약물, 그리고 수술 중 저혈압·고혈압·서맥·빈맥·저환기·저체온의 유무와 지속시간 등이었다. 통계는 Mann–Whitney U 검사와 Fisher의 정확 검정을 사용했다. 주요 결과로 수술 전 폐색 에피소드 수에서만 그룹 간 유의한 차이가 관찰되었고(SR 중앙값 2 [0–5], DR 중앙값 2 [1–6], P=0.0074), 다른 모든 전·중·후 기전 지표 및 수술 후 SCr 및 SCr 변화량에는 차이가 없었다. 결론적으로 복와위(SR)와 배측위(DR) 간에 마취 관련 변수나 수술 후 신기능 지표상 측정 가능한 차이는 없었으며, 따라서 체위는 마취 최적화의 결정 요인으로 고려할 필요가 없고 수술자의 선호에 따를 것을 제시한다. 연구는 후향적 의무기록 검토라는 설계적 특성을 가지며, 초록에 기술된 내용 외의 추가 제한점이나 인과관계는 제시되지 않았다.",
       "title": "Effect of intraoperative positioning on anesthetic variables in cats undergoing a perineal urethrostomy.",
       "journal": "Journal of Feline Medicine and Surgery",
       "generated_at": "2026-07-24T14:33:19.652Z",
+      "model": "gpt-5-mini"
+    },
+    "42173147": {
+      "brief_summary": "본 동영상 가이드는 둥근 인대(round ligament)가 파열된 개의 고관절 탈구를 안정화하기 위해 초고분자중합체(ultra-high-molecular-weight polyethylene, UHMWPE) 임플란트를 관절내에 재건하는 외과적 기법을 제시한다. 대퇴와 비구에 터널을 형성하고 코르티컬 버튼(cortical button)과 UHMWPE 임플란트를 삽입한 뒤 인터퍼런스 스크류(interference screw)로 고정하여 즉각적인 관절 안정화와 생리적 가동성 회복을 목표로 한다. 이 술식은 모든 방향의 고관절 탈구 유형에 적용 가능하다고 기술되어 있다.",
+      "detailed_summary": "연구는 둥근 인대 파열과 동반된 고관절 탈구를 가진 모든 크기의 개를 대상으로 한 관절내 재건 술식의 동영상 지침을 제공하는 형태이다. 술식은 측와위에서 대퇴의 대전자 기부에서 원위 관절와(페오바 카피티스)까지의 대퇴 터널과, 대퇴 근위부의 중간 지점에 수직 방향의 두 번째 터널, 그리고 둥근 인대 부위의 비구 터널을 차례로 형성하는 절차를 포함한다. 비구 터널을 통해 코르티컬 버튼이 비구의 내측벽에 자리하도록 UHMWPE 임플란트를 삽입하고, 임플란트를 대퇴 터널을 통과시킨 뒤 텐션을 준 상태에서 두 번째 대퇴 터널에 인터퍼런스 스크류로 고정한다. 저자들은 이 기법이 즉시 안정화를 제공하고 고관절의 생리적 가동성을 회복시킨다고 기술하였다. 또한 흔한 외상성 고관절 탈구(주로 전외측(craniodorsal) 방향)를 포함하여 모든 탈구 유형에 적용 가능하다고 명시하고 있다. 초록에는 구체적 증례 수, 장기 추적 결과나 정량적 성적표는 제시되어 있지 않다.",
+      "title": "A video guide to stabilization of canine hip luxation by intra-articular reconstruction of the round ligament using a synthetic implant.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-08-01T06:49:12.966Z",
       "model": "gpt-5-mini"
     },
     "42173238": {
@@ -425,12 +553,44 @@
       "generated_at": "2026-07-25T06:13:17.197Z",
       "model": "gpt-5-mini"
     },
+    "42190701": {
+      "brief_summary": "조혈모세포(HSC)를 이용해 'caninized' 마우스를 만드는 것을 목표로, 면역결핍 NOD scid γ 마우스에 개 골수 유래 HSC를 이식하여 개 면역세포 재구성 가능성을 평가했다. 정렬 후 CD34+ 세포가 농축되었고(중앙값 CD34+ 87.6% vs 기원 세포 2.5%), 생존한 이식 마우스의 49%에서 19–42주 후 혈청 개 IgM이 검출되었으나 말초·조직에서의 개 유래 림프구 수는 적었다. 결론적으로 caninized 마우스 생성은 가능하지만 이식 효율이 낮아 임상적 모델로 사용하기 전 추가적 최적화가 필요하다.",
+      "detailed_summary": "공여 개의 골수 단핵세포에서 항-개 CD34 항체를 이용한 면역자성 분류로 HSC를 분리하여 조혈모세포(HSC)를 농축했다(정렬 후 CD34+ 중앙값 87.6% vs 원래 2.5%). 신선 또는 하룻밤 배양한 HSC를 정하기준선량(아래 치사선량) 방사선 조사 후 4–20시간 이내에 NOD scid γ 계열의 면역결핍 마우스에 정맥 주입(중앙 투여량 2.0 × 10^5 세포; 주입군 n = 120, 비주입 대조군 30)했다. 이식 성공 정도는 혈청 개 면역글로불린 M(IgM) 측정, 개 백혈구에 대한 유세포분석과 T·B세포에 대한 면역조직화학으로 평가했다. 이식 생존 마우스 94마리 중 49%에서 19–42주 후 혈청 개 IgM이 측정되었고(중앙값 310 ng/mL; 범위 18 to >8,400 ng/mL), 신선 HSC를 이식한 그룹에서 하룻밤 배양군보다 더 높은 혈청 IgM이 관찰되었다. 비록 혈청 IgM 검출이 있었지만 비장과 골수에서 유세포분석 또는 면역조직화학으로 확인된 개 유래 백혈구 및 T·B세포 수는 적었다. 연구진은 NOD scid γ 마우스에서 개 면역세포의 재구성이 가능함을 보였으나 이식 효율이 낮아 임상적 질환 모델로 사용하기 전 추가 최적화와 평가가 필요하다고 결론지었다.",
+      "title": "Toward creating \"caninized\" mice: reconstitution of canine immune cells in immunodeficient mice.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-08-01T06:48:51.897Z",
+      "model": "gpt-5-mini"
+    },
+    "42190707": {
+      "brief_summary": "증례대조 연구로, 2018년 3월부터 2022년 6월까지 폐고혈압(PH)이 있는 개(총 46마리; 전모세혈관성(precapillary) 27마리, 후모세혈관성(postcapillary) 19마리)와 건강한 대조군(44마리)을 대상으로 기존 심초음파와 스트레인, 조직운동 판륜 변위(TMAD)를 포함한 기법으로 우심실(RV) 수축기 기능을 평가했다. TMAD 값은 전모세혈관성 PH 개에서 대조군 및 후모세혈관성 PH 개보다 낮았다. TMAD(mm/kg)는 RV 구조 변수 및 면적 변화율(FAC, %)과는 약~중간 정도의 양의 상관을 보였고, 체중 정규화된 삼첨판륜 수축기 이동(TAPSE/body weight)과는 약한 음의 상관을, 조직 도플러 영상(TDI)의 S'와는 유의한 상관을 보이지 않았다. 저자는 TMAD가 기존 평가법을 대체하지는 못하지만 PH 개의 RV 수축기 기능 평가에 보조적 도구로 활용될 수 있다고 결론지었다.",
+      "detailed_summary": "본 연구는 사례-대조군 디자인으로 2018년 3월~2022년 6월에 시행되었으며, PH군 46마리(전모세혈관성 27, 후모세혈관성 19)와 건강한 대조군 44마리를 포함했다. 모든 개는 신체검사, 혈압측정, 심전도, 기존 심초음파 및 스펙클트래킹 기법을 포함한 심초음파 평가를 받았고, 우심실 수축기 기능을 TMAD(중간점 변위(mm), RV 길이 대비 비율(%), 체중 및 체표면적 보정값(mm/kg, mm/m2) 포함) 등 여러 변수를 이용해 평가했다. 주요 결과는 TMAD 값이 전모세혈관성 PH에서 가장 낮았고, 이는 대조군 및 후모세혈관성 PH보다 낮게 관찰되었다는 점이다. TMAD(mm/kg)는 RV 구조 지표 및 면적 변화율(FAC, %)과는 약~중간 정도의 양의 상관을 보였고, TAPSE를 체중으로 정규화한 값과는 약한 음의 상관을 보였으며, TDI로 측정한 S'와는 유의한 상관을 보이지 않았다. 연구진은 TMAD가 기존의 전통적 심초음파 기법을 대체하지는 못한다고 명시했으며, 임상적으로는 PH 환자에서 RV 수축기 기능 평가를 보완하는 추가 도구로 사용할 수 있다고 제시했다. 초록에는 표본수와 상관성 방향성은 제시되어 있으나 TMAD의 민감도·특이도나 단독 진단 유효성 등 구체적 성능 한계 또는 장기 예후 연관성에 대한 자료는 제시되지 않았다.",
+      "title": "Right ventricular systolic function in dogs with pulmonary hypertension can be assessed using tissue motion annular displacement.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-08-01T06:48:31.217Z",
+      "model": "gpt-5-mini"
+    },
+    "42202851": {
+      "brief_summary": "본 연구는 8마리의 비글에서 침습적 혈압(IBP)을 기준으로 2종의 도플러 장치와 2종의 진동식(oscillometric) 비침습적 혈압(NIBP) 장치의 정확도를 비교하여 American College of Veterinary Internal Medicine (ACVIM) 검증 기준 충족 여부를 평가했다. 결과적으로 어떤 장치도 두 가지 커프 위치(꼬리, 전지)에서 ACVIM 검증 기준을 충족하지 못했다. 전반적으로 꼬리 위치에서 성능이 더 좋았고, 도플러가 수축기 혈압(systolic)에 더 유리했으며 진동식 장치가 평균혈압(MBP)에 더 신뢰할 만한 경향을 보였다. 임상적으로 의식 있는 개에서 NIBP 수치를 주의해 해석할 것을 권고한다.",
+      "detailed_summary": "연구는 2024년 11월 13일과 18일에 마취하에 등쪽 발등(dorsal pedal) 동맥 카테터를 삽입한 8마리의 비글을 대상으로, 각 개가 의식 상태일 때 꼬리와 전지에서 IBP와 짝을 이루는 NIBP 측정(2종의 도플러, 2종의 진동식)을 시행했다. 평가는 바이어스(bias), 표준편차(SD), IBP와의 차이가 10 및 20 mm Hg 이내인 비율, 상관계수, 일치한계(limits of agreement)를 포함해 ACVIM 검증 기준에 따라 이뤄졌다. 모든 장치가 어느 한 위치에서도 ACVIM 기준을 충족하지 못했으며, 장치별 성능은 꼬리 위치가 전지보다 나은 경향을 보였다. 장치 유형별로는 도플러가 수축기 혈압 측정에서 비교적 우수했고, 진동식 장치가 평균혈압(MBP) 측정에서 더 안정적이었다. 다중기능 모니터의 꼬리에서 측정한 MBP가 가장 양호한 성능을 보였으며, 바이어스 1.75 mm Hg, SD 8.98, IBP 대비 10 mm Hg 이내 82%, 20 mm Hg 이내 96%, 일치한계는 -15~19 mm Hg이었다. 모든 장치에서 상관계수 기준은 충족되지 않았고, 결과적으로 의식 있는 성견에서 NIBP는 IBP와 비교해 검증되지 않았으므로 임상 해석에 주의를 기울여야 한다.",
+      "title": "Two Doppler blood pressure devices and 2 oscillometric blood pressure devices failed American College of Veterinary Internal Medicine validation in conscious dogs.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-08-01T06:48:16.304Z",
+      "model": "gpt-5-mini"
+    },
     "42206764": {
       "brief_summary": "후향적 연구로 대장(결장 및 회결장 접합부) 종양이 있는 고양이의 초음파 소견을 기술했다. 총 44마리의 선암(adenocarcinoma, ACA)과 38마리의 고등급 림프종(high-grade lymphoma, LSA)을 분석해, 두 종양 모두 전층의 저에코성 벽 두꺼워짐과 층성 소실을 보였으나 LSA가 더 길고 두껍고 림프절 비대가 더 흔하고 심했다는 점을 확인했다. 임상적으로는 ACA가 폐색을 더 자주 일으켰고 LSA는 다발성 분포를 더 잘 보였으며, 영상 소견만으로는 구분하기 어렵기 때문에 세포학·조직학 검사가 필수적임을 시사한다.",
       "detailed_summary": "본 연구는 복부 초음파 검사를 완전하게 시행한 대장(결장 및 회결장 접합부, ICJ) 종양이 확진된 고양이를 대상으로 한 후향적 기술 연구이다. 선암(ACA)은 44마리로 결장이 28마리, 회결장 접합부가 16마리였고 종양의 중앙값 길이는 23 mm, 벽 비후 중앙값은 9 mm였으며 29/44에서 지역 림프절 비대(중앙값 두께 6.05 mm)가 관찰되었고 30%에서 폐색이 있었다. 고등급 림프종(LSA)은 38마리로 ICJ 20마리, 결장 14마리, 다발성 위장 침범 4마리였고 7/38에서 다른 장기 침범이 있었으며 종양의 중앙값 길이는 40.3 mm, 벽 비후 중앙값은 15 mm, 지역 림프절 비대는 31/38에서 관찰되었고 중앙값 두께는 8.6 mm였으며 폐색은 11%에서 발생했다. 두 종양 모두 전층의 저에코성 두꺼워짐과 층성 소실 형태가 흔했으나 LSA 병변이 대체로 더 길고 두꺼우며 림프절 비대가 더 빈번하고 뚜렷했고, ACA는 폐색을 더 잘 일으키는 경향이었으며 LSA는 다발성 분포를 더 자주 보였다. 생존기간의 중앙값은 ACA가 19일, LSA가 23일이었다. 결론적으로 초음파 소견이 중복되어 정확한 감별을 위해서는 세포학 또는 조직학적 검사가 필수이며, 연구는 후향적 기술 연구라는 점을 유의해야 한다.",
       "title": "Ultrasonographic findings of feline large intestinal adenocarcinoma and high-grade lymphoma.",
       "journal": "Journal of Feline Medicine and Surgery",
       "generated_at": "2026-07-24T14:29:56.037Z",
+      "model": "gpt-5-mini"
+    },
+    "42208593": {
+      "brief_summary": "후향적 분석에서 원발성 부갑상선 기능항진증으로 부갑상선 절제술을 받은 개 92마음을 대상으로, 수술 전 부갑상선호르몬(PTH) 농도가 수술 후 중등도~중증 저칼슘혈증(iCa < 1.00 mmol/L)을 예측하는지 평가했다. PTH를 측정법별 상한치(ULN)의 배수로 층화했을 때 PTH 증가에 따라 중등도~중증 저칼슘혈증 발생률이 상승했고, >3배 ULN에서는 8/8(100%)에서 발생했다. 1.05배 ULN을 컷오프로 한 ROC AUC는 0.76(95% CI 0.65–0.86), 민감도 72.2%, 특이도 71.4%로 계산되어 고위험 환자 선별과 예방적 치료·장기 모니터링의 근거가 될 수 있다.",
+      "detailed_summary": "연구는 예방적 칼시트리올(calcitriol)을 투여받은 개를 제외한, 원발성 부갑상선 기능항진증으로 부갑상선 절제술을 받은 개 92마마을 후향적으로 분석했다. 주요 평가 변수는 수술 전 혈청 PTH 농도를 측정법별 ULN의 배수로 층화한 값과 전혈 이온화 칼슘(iCa) 최저치로 정의한 수술 후 결과(중등도~중증 저칼슘혈증은 iCa < 1.00 mmol/L)였다. 전체에서 36/92(39.1%)가 중등도~중증 저칼슘혈증을 보였고, PTH 층화별 발생률은 정상PTH 9/47(19.1%), >1–2×ULN 14/27(51.9%), >2–3×ULN 5/10(50.0%), >3×ULN 8/8(100%)로 확인되었다. PTH 1.05배 ULN의 컷오프에서 AUC 0.76(95% CI 0.65–0.86), 민감도 72.2%, 특이도 71.4%였으며 중앙값으로 칼슘 최저치는 65.8시간(범위 3.7–19,794.1시간)이었다. 전체의 40/92(43.5%)는 72시간 이후에 최저치에 도달했고, 중등도~중증군에서는 25/36(69.4%)가 늦은 최저치를 보인 반면 정상군에서는 10/44(22.7%)만이 늦은 최저치를 보였다. 저자들은 수술 전 PTH 기반 층화가 고위험 환자를 식별해 예방적 치료와 연장된 모니터링의 대상 선정에 활용될 수 있다고 결론지었다.",
+      "title": "Preoperative parathyroid hormone concentration predicts postoperative hypocalcemia severity in dogs undergoing parathyroidectomy.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-08-01T06:48:00.095Z",
       "model": "gpt-5-mini"
     },
     "42211181": {
@@ -2399,6 +2559,14 @@
       "title": "Dachshund spinal health by coat and size type.",
       "journal": "Journal of Veterinary Internal Medicine",
       "generated_at": "2026-07-31T08:12:57.349Z",
+      "model": "gpt-5-mini"
+    },
+    "42536135": {
+      "brief_summary": "본 연구는 2019–2024년 다기관 의료기록 후향 검토로, 비벼물린 유발이 아닌 과민성 피부염 기준 중 최소 6/10을 충족한 47마리의 고양이에서 하루에 증량 투여하는 러시 면역치료(RIT)의 안전성을 평가했다. 3/47마리(6.4%)에서 빈호흡, 행동적 불안, 가려움 증가 등 경미한 이상반응(AE)이 보고되었고 한 마리는 시술을 중단했으나 모두 유지요법(ASIT)으로 전환한 후 재발은 없었다. 임상 모니터링 하에서 RIT는 적절히 선별된 FASS(고양이 아토피성 피부 증후군) 환자에서 드물고 경미한 자가한정적 부작용을 보여 안전성이 있다고 보인다.",
+      "detailed_summary": "연구는 2019년부터 2024년까지 다기관 의료기록을 후향적으로 검토하여 RIT를 받은 47마리의 소유 고양이를 포함했다. 포함 기준은 비벼물린 유발이 아닌 과민성 피부염의 10개 항목 중 최소 6개를 충족한 경우였고, 모든 대상에서 벼룩 예방이 문서화되어 있었으며 배제 식이(elimination diet) 시행도 확인되었다. 연구자는 신상정보, 병력, 동시 투약, RIT 프로토콜 세부사항, 모니터링 소견 및 추적 연락을 수집하여 이상반응(AE)의 유무와 특성을 기록했다. 결과적으로 3마리(6.4%)에서 AE가 관찰되었으며 유형은 빈호흡, 행동적 불안, 가려움 증가였고 한 마리는 시술 완료 전에 RIT를 중단하였다. 중단된 경우를 제외한 모든 환자는 유지용 ASIT로 전환하였고 보고 기간 중 동일한 AE의 재발은 없었다. 연구는 RIT가 임상적 모니터링 하에서 드물고 경미한 자가한정적 부작용만을 보였음을 보고하였으나, 연구 설계가 의료기록 기반의 후향적 검토라는 점과 초록에 제시된 바 이외의 추가 안전성 자료가 제한적이라는 점은 유의해야 한다.",
+      "title": "Retrospective Review of Rush Allergen-Specific Immunotherapy Safety in Cats With Atopic Skin Syndrome.",
+      "journal": "Veterinary Dermatology",
+      "generated_at": "2026-08-01T06:54:57.522Z",
       "model": "gpt-5-mini"
     }
   }
