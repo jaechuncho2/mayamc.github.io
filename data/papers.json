@@ -1,6 +1,44 @@
 {
-  "updated_at": "2026-08-02T07:16:07.884Z",
+  "updated_at": "2026-08-03T08:52:55.961Z",
   "papers": [
+    {
+      "pmid": "42542763",
+      "title": "Malignant nerve sheath tumor infiltrating the epididymis of an inguinal cryptorchid testis in a domestic shorthair cat.",
+      "journal": "JFMS Open Reports",
+      "authors": "Novotny L, Ceeova N, Misik J, Dobromylskyj MJ",
+      "date": "2026 08 02",
+      "dateObject": "2026 08 02",
+      "abstract": "An 8-year-old, male domestic shorthair cat presented with a firm mass in the right inguinal region. Microscopic evaluation of the surgically excised mass revealed a soft tissue sarcoma (STS), with features most consistent with a malignant nerve sheath tumor (MNST), infiltrating the epididymis of an atrophic intra-inguinal cryptorchid testis. The tumor showed classical Antoni A and B patterns on histopathology, with spindle cells arranged in short interlacing fascicles, and a mitotic count of 14 per 10 high-power fields, supportive of a malignant form. Immunohistochemistry revealed positive labeling of the neoplastic cells for the markers S-100 and vimentin, while labeling for glial fibrillary acidic protein was negative; these findings supported the diagnosis of MNST. Nerve sheath tumors (NSTs) in cats are not uncommon neoplasms, typically arising from cutaneous or subcutaneous nerves of the head, neck or limbs. NSTs arising from visceral sites appear relatively rare, and there are no previously published reports describing such a tumor associated with a cryptorchid testis. This case expands the documented anatomical distribution of feline NSTs and underlines the fact that they may occur at visceral sites as well as within the skin and subcutis. It also highlights the need to include NST in the list of tumors that may arise within or be associated with the testes, cryptorchid or otherwise, and to consider neoplasia arising within a cryptorchid testis as a potential differential for an inguinal swelling in an intact male cat. A nerve tumor affecting a retained testicle in a cat We describe a case of a malignant tumor in a cat that originated from the cells surrounding nerves. The tumor was found in an unusual location &#x2013; associated with a retained testicle located in the inguinal (groin) region. An 8-year-old male cat was presented to a clinic because of a firm swelling in the groin area. Surgery was performed to remove the mass, which was initially suspected to be an abnormal retained testicle. Histopathological examination revealed that the mass was a malignant peripheral nerve sheath tumor infiltrating adjacent structures, including the epididymis. Tumors of this type have been reported in cats, but they are usually located in the skin or subcutaneous tissues. To our knowledge, association with a retained inguinal cryptorchid testis has not been previously described. This case highlights two important points. First, peripheral nerve sheath tumors in cats may occur in unusual internal locations and should not be considered exclusively cutaneous tumors. Second, when a male cat presents with inguinal swelling &#x2013; particularly in association with cryptorchidism &#x2013; neoplasia should be included among the differential diagnoses.",
+      "categories": [
+        "oncology",
+        "surgery",
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42543181",
+      "title": "Clinical and Immunological Responses to Dermatophagoides farinae Allergen Immunotherapy in Dogs With Atopic Dermatitis.",
+      "journal": "Veterinary Dermatology",
+      "authors": "Wannawong J, Tunhikorn M, Prangtaworn P, Saelim N, Srisai T, Indrawattana N, Sungpradit S, Tungtrongchitr A, Wiriyarat W",
+      "date": "2026 08 02",
+      "dateObject": "2026 08 02",
+      "abstract": "Atopic dermatitis (AD) in dogs is a prevalent allergic disorder associated with environmental allergens, including the house dust mite Dermatophagoides farinae (Df). To describe clinical and immunological changes over time in dogs with canine (c)AD sensitised to Df undergoing Df allergen-specific immunotherapy (ASIT) and to test the hypothesis that ASIT is associated with changes in Canine Atopic Dermatitis Extent and Severity Index, 4th iteration (CADESI-04), pruritus and medication scores and selected immunological markers. Fifteen dogs with cAD sensitised to Df received ASIT for 12&#x2009;months. Clinical evaluations included CADESI-04 and pruritus Visual Analog Scale (PVAS). Gene expression of interleukin (IL)-31, interferon-gamma (IFN-&#x3b3;) and glyceraldehyde-3-phosphate dehydrogenase (GAPDH) in peripheral blood mononuclear cells (PBMCs) was analysed using real-time PCR. Serum levels of Df-specific immunoglobulin (Ig)E, total IgG and IgG subclass 1 were measured using immunoassays. Evaluations were performed at 0, 6 and 12&#x2009;months. Significant reductions in pruritus scores and IL-31 expression were observed, while IFN-&#x3b3; expression increased. CADESI-04 scores decreased, although the change was not statistically significant. A reduction in medication scores was observed over time. Serum analysis showed increased concentrations of IgG and IgG1, while Df-specific IgE remained elevated. Dermatophagoides farinae ASIT resulted in a reduction in pruritus and medication use over a 12&#x2009;month period. Associated with this, PBMCs IL-31 was reduced and IFN-&#x3b3; elevated. An increased serum IgG and IgG1 were measured, and Df-specific IgE remained elevated. These findings support an immunological effect of ASIT, yet further studies with a larger cohort are required to validate the findings.",
+      "categories": [
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42543154",
+      "title": "A Novel Veterinary Molecular Multiplex Microarray Serological Allergen Test (Pet Allergy Xplorer; Nextmune) Versus Conventional Extract-Based Serological (Idexx; Stallergenes Greer Laboratories) Versus Intradermal Allergen Testing in 59 Dogs With Atopic Dermatitis: Evaluation of Agreement Between Allergy Testing Platforms.",
+      "journal": "Veterinary Dermatology",
+      "authors": "Birchler D, Austel M, Banovic F",
+      "date": "2026 08 02",
+      "dateObject": "2026 08 02",
+      "abstract": "The first veterinary multiplex molecular microarray serum allergy test (SAT), Pet Allergy Xplorer, is commercially available. However, no comparative evaluations of this test versus whole extract-based SAT (eSAT) platforms and intradermal allergen testing (IDAT) currently exist. Evaluate agreement between IDAT, conventional eSAT (Stallergenes Greer Laboratories) and extract and recombinant-containing SAT (erSAT) for shared environmental allergens in atopic dogs. Fifty-four dogs with non-seasonal (with or without seasonal exacerbation) and five dogs with seasonal atopic dermatitis were enrolled. IDAT, eSAT and erSAT were performed on the same day. Two independent investigators (Inv A and Inv B) recorded IDAT results. Per manufacturer guidance, 80 and 300 enzyme-linked immunosorbent assay (ELISA) absorbance units (eSAT80 and eSAT300) and 28&#x2009;ng/mL (erSAT) were used as SAT cut-off values. Cohen's kappa (&#x3ba;) and prevalence-adjusted bias-adjusted kappa (PABAK) were used to test agreement. Between IDAT investigators, there was almost perfect agreement across all allergens (&#x3ba;&#x2009;=&#x2009;0.81; PABAK&#x2009;=&#x2009;0.87). Moderate agreement (&#x3ba;&#x2009;=&#x2009;0.58) between erSAT and eSAT300 across all allergens improved to almost perfect with PABAK (0.84). IDAT Inv A had the strongest agreement with eSAT300 (&#x3ba;&#x2009;=&#x2009;0.44, PABAK&#x2009;=&#x2009;0.75) compared to erSAT (&#x3ba;&#x2009;=&#x2009;0.29, PABAK&#x2009;=&#x2009;0.64) and eSAT80 (&#x3ba;&#x2009;=&#x2009;0.13, PABAK&#x2009;=&#x2009;0.11); results were similar with Inv B. Agreement between testing platforms varied depending on the kappa statistic used, with low &#x3ba; agreement for most comparisons, highlighting disagreements on what was considered positive. PABAK was generally higher, showcasing high overall concordance. Agreement to the new erSAT was strongest with eSAT300; agreement was moderate (&#x3ba;) to almost perfect (PABAK).",
+      "categories": [
+        "dermatology"
+      ]
+    },
     {
       "pmid": "42542130",
       "title": "An anatomic plate provides successful outcomes for stabilization of periprosthetic femoral fractures and greater trochanteric osteotomies in dogs undergoing total hip replacement.",
@@ -2716,18 +2754,6 @@
       ]
     },
     {
-      "pmid": "42358183",
-      "title": "Comparative Efficacy and Safety of Adjunctive 0.015% Triamcinolone Acetonide Topical Spray With Lokivetmab Versus Lokivetmab Monotherapy as 'Reactive Therapy' for Canine Atopic Dermatitis: A Randomised, Single-Blinded, Controlled Preliminary Trial.",
-      "journal": "Veterinary Dermatology",
-      "authors": "Banovic F, Austel M, Johnson L, von Simson C",
-      "date": "2026 06 26",
-      "dateObject": "2026 06 26",
-      "abstract": "Lokivetmab is considered an effective systemic therapy for dogs with atopic dermatitis (AD); however, utilisation of lokivetmab with adjunctive topical anti-inflammatory glucocorticoids has not been investigated in canine AD. To evaluate the efficacy and safety of the combination therapy of lokivetmab and 0.015% triamcinolone acetonide (TCA) spray in dogs with AD. Twenty dogs with nonseasonal AD. This study was a randomised, single-blinded (investigators only) 4-week controlled trial. Dogs were randomised to receive lokivetmab monotherapy or lokivetmab-TCA spray per manufacturer instructions. Clinical assessments included the Canine Atopic Dermatitis Extent and Severity Index, 4th iteration (CADESI-04), CADESI-04E (i.e., extracted erythema grade alone) and the 10-grade pruritus Visual Analog Scale (PVAS10) at Day (D)0, D14 and D28. Complete blood count and serum biochemical analysis were performed on D0 and D28. The median CADESI-04 and CADESI-04E scores in the lokivetmab-TCA group were significantly reduced on D14 (p&#x2009;<&#x2009;0.05 for both) and D28 (p&#x2009;<&#x2009;0.01 for both) compared to baseline; there were no significant differences in lesional scores at any time point for the lokivetmab monotherapy group. Lokivetmab-TCA significantly reduced CADESI-04E values compared to the lokivetmab monotherapy group on D28 (p&#x2009;=&#x2009;0.04). Both interventions significantly reduced PVAS10 scores on D14 and D28 compared to D0 (p&#x2009;<&#x2009;0.05 for both groups). Topical application of TCA spray may be a useful and safe adjunctive therapy for systemic lokivetmab to alleviate pruritus and clinical lesions in the initial management of canine AD patients.",
-      "categories": [
-        "dermatology"
-      ]
-    },
-    {
       "pmid": "42343995",
       "title": "Lameness caused by intramuscular osteochondroma in semimembranosus muscle in a male cat.",
       "journal": "JFMS Open Reports",
@@ -2918,19 +2944,6 @@
       ]
     },
     {
-      "pmid": "42321140",
-      "title": "Clinical Efficacy of Probiotic-Based Ear Drops Containing Lactobacilli in Canine Erythroceruminous Otitis Externa: An Open Label, Multicentre Study.",
-      "journal": "Veterinary Dermatology",
-      "authors": "Carrasco I, Homedes J, Arcas A, Beasley S, Salichs M",
-      "date": "2026 06 19",
-      "dateObject": "2026 06 19",
-      "abstract": "Otitis externa (OE) represents a common clinical problem in dogs. Allergic dogs exhibit reduced diversity of the otic microbiota, and inflammation-induced changes in the ear canal microenvironment result in a further decline in microbial biodiversity. Probiotics have demonstrated efficacy in certain dermatological conditions, including atopic dermatitis, which is, in turn, the leading primary cause of OE in dogs. To evaluate the efficacy of probiotic-based ear drops in controlling clinical signs related to erythroceruminous non-infected OE in dogs. Thirty-seven privately owned dogs with non-infected OE. Dogs received probiotic-based ear drops topically every 48 h for 28&#x2009;days, in accordance with the manufacturer's instructions. Assessments were performed at enrolment (Day [D]0), D14 and D28, including cytological evaluation of ear discharge, pruritus intensity (PVAS, pruritis Visual Analogue Scale), severity of otic lesions (OTIS3, 0-3 Otitis Index Score) and a quality-of-life survey (QoL). At enrolment (D0), mean OTIS3 and PVAS scores for all included animals were 5.11 &#xb1;&#x2009;1.20 and 4.93 &#xb1;&#x2009;1.51, respectively. Both scores decreased significantly by D28, to 1.66 &#xb1;&#x2009;1.75 and 2.09 &#xb1;&#x2009;2.03, respectively. Clinical improvement was evident regardless of concomitant medication use or the type of micro-organism's overgrowth observed during the initial cytological assessment. Owner-reported QoL improved in 80% of the dogs. These probiotic-based ear drops may be a useful adjunctive therapy in cases of canine non-infectious erythroceruminous OE.",
-      "categories": [
-        "internalMedicine",
-        "dermatology"
-      ]
-    },
-    {
       "pmid": "42313899",
       "title": "A Multispecies Systematic and Critical Review of Intranasal Administration in Veterinary Anaesthesia and Emergency Care: Promising Evidence and Overlooked Challenges.",
       "journal": "Veterinary Medicine and Science",
@@ -3066,19 +3079,6 @@
       "abstract": "A 21-week-old, male castrated domestic mediumhair cat presented with a history of acute, severe regurgitation. No abnormalities were detected on physical examination. Initial serum biochemistry identified marked elevation in creatine kinase (CK) (905,409 U/l, reference interval [RI] 50-400), which persisted after 24&#x2009;h of supportive care (32,491 U/l, RI 50-400). Serology for Toxoplasma gondii was negative. Radiography and ultrasound found severe caudal oesophageal impaction. The kitten was euthanased; a post-mortem examination confirmed oesophageal food impaction and severe, focally extensive oesophageal necrosis. The underlying cause of the oesophageal impaction was not definitively determined. Other than the oesophageal necrosis, there were no other autopsy findings to explain the elevated CK. Oesophageal muscle necrosis may be associated with severe elevations in CK concentrations and oesophageal disease should be considered if there is no obvious trauma, polymyopathy or cardiac disease in feline patients with markedly elevated CK.",
       "categories": [
         "cardiology"
-      ]
-    },
-    {
-      "pmid": "42226960",
-      "title": "CT findings and outcome after nephrectomy as sole therapy for renal nephroblastoma in a cat.",
-      "journal": "JFMS Open Reports",
-      "authors": "Diamond AW, Lapsley JM, Urion R, Husbands BD",
-      "date": "2026 06 02",
-      "dateObject": "2026 06 02",
-      "abstract": "A 1-year-old, neutered male domestic shorthair cat with a several-day history of anorexia and lethargy presented to The Ohio State University Veterinary Medical Center. On physical examination, a mass-like lesion was palpated in the mid-abdomen. Abdominal radiographs, ultrasound and contrast-enhanced CT revealed a mass-like lesion associated with the right kidney. Unilateral nephrectomy with removal of the mass in its entirety was performed as the sole treatment modality, and histopathology revealed a renal nephroblastoma. Postoperatively, the cat was re-evaluated every 3-6 months. The cat continues to do well more than 3 years since diagnosis, which is longer than most published cases. This report aims to describe a case of feline nephroblastoma managed solely by surgical treatment, with an unexpectedly long survival time.",
-      "categories": [
-        "internalMedicine",
-        "surgery"
       ]
     },
     {

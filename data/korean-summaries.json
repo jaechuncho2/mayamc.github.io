@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T07:17:03.935Z",
+  "updated_at": "2026-08-03T08:53:57.960Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -2599,6 +2599,30 @@
       "title": "An anatomic plate provides successful outcomes for stabilization of periprosthetic femoral fractures and greater trochanteric osteotomies in dogs undergoing total hip replacement.",
       "journal": "Journal of the American Veterinary Medical Association",
       "generated_at": "2026-08-02T07:16:26.668Z",
+      "model": "gpt-5-mini"
+    },
+    "42542763": {
+      "brief_summary": "8세 수컷 국내 단모묘에서 우측 서혜부의 단단한 종괴가 절제되었고, 조직검사에서 서혜부에 위치한 위축된 잠복고환(cryptorchid testis)의 부고환(epididymis)을 침윤한 악성 신경초종(MNST, malignant nerve sheath tumor)으로 진단되었다. 조직학적으로 Antoni A/B 패턴과 방추형 세포 배열, 10 고배율 시야(high-power field, HPF)당 유사분열 14회로 악성을 시사했으며 면역조직화학에서 S-100 및 vimentin 양성, GFAP 음성이었다. 이 증례는 고양이의 신경초종(NST)이 피부·피하 외의 내장 부위에서도 발생할 수 있음을 보여주며, 특히 서혜부 종창이나 잠복고환과 관련된 병변에서 신경초종을 감별진단에 포함할 필요가 있음을 강조한다.",
+      "detailed_summary": "증례보고로서 연구 대상은 우측 서혜부의 단단한 종괴를 주소로 내원한 8세 수컷 국내 단모묘 한 마리였다. 외과적으로 병변을 절제한 후 조직병리학적 평가에서 연부조직육종(STS) 소견 중 악성 신경초종(MNST)에 부합하는 Antoni A 및 B 패턴과 짧은 교차성 집단을 이루는 방추형 세포 배열이 관찰되었고, 유사분열은 10 HPF당 14회로 악성을 지지했다. 면역조직화학 검사에서는 종양세포가 S-100 및 vimentin에 양성으로 염색되었고 GFAP는 음성이어서 MNST 진단을 보조하였다. 종양은 서혜부에 위치한 위축된 잠복고환의 부고환을 침윤하고 있었으며, 저자들은 고양이에서 NST가 주로 두부·경부·사지의 피부·피하에서 보고되는 반면 내장성 발생은 드물다고 언급하였다. 문헌상 잠복고환과 관련된 이러한 위치의 신경초종 보고는 없으므로 본 증례는 고양이 NST의 해부학적 분포를 확장하는 사례로 제시된다. 단, 단일 증례 보고이므로 일반화는 할 수 없으며 임상적으로는 서혜부 종창 또는 잠복고환이 있는 고환 주변 병변에서 신경초종을 감별진단에 포함할 것을 제안하는 수준의 근거임을 명확히 한다.",
+      "title": "Malignant nerve sheath tumor infiltrating the epididymis of an inguinal cryptorchid testis in a domestic shorthair cat.",
+      "journal": "JFMS Open Reports",
+      "generated_at": "2026-08-03T08:53:19.799Z",
+      "model": "gpt-5-mini"
+    },
+    "42543154": {
+      "brief_summary": "59마리의 아토피성 피부염(비계절성 54마리, 계절성 5마리) 개를 대상으로 동일한 날에 피부내피내검사(IDAT), 기존 전추출물 기반 혈청알레르기검사(eSAT) 및 추출물+재조합 항원을 포함한 다중마이크로어레이 혈청검사(erSAT, Pet Allergy Xplorer)를 비교하였다. 검사 간 일치도는 사용한 통계량에 따라 달랐으며, 검사자 간 IDAT 일치도는 거의 완전(kappa=0.81, PABAK=0.87)이었다. erSAT은 eSAT의 상한 컷오프(eSAT300)와 가장 강한 일치도를 보였으나(단일 kappa=0.58, PABAK=0.84), 전반적으로 양성 판정에 대한 불일치가 존재해 검사 결과 해석에 주의가 필요하다.",
+      "detailed_summary": "연구는 59마리의 아토피성 피부염 개에서 IDAT, Stallergenes Greer/Idexx 기반의 전추출물 혈청알레르기검사(eSAT) 및 Pet Allergy Xplorer의 추출물+재조합 포함 혈청검사(erSAT)를 같은 날 시행하고 비교하였다. IDAT는 두 명의 독립 평가자(Inv A, Inv B)가 판독하였고, eSAT의 컷오프는 ELISA 흡광도 80(eSAT80) 및 300(eSAT300), erSAT 컷오프는 28 ng/mL로 제조사 지침을 따랐다. 일치도 평가는 Cohen의 kappa(κ)와 prevalence-adjusted bias-adjusted kappa(PABAK)로 수행되었다. 평가자 간 IDAT 일치도는 거의 완전(κ=0.81, PABAK=0.87)이었고, erSAT와 eSAT300 간은 단일 κ로는 중등도(κ=0.58)였으나 PABAK에서는 거의 완전(0.84)으로 향상되었다. IDAT(Inv A)는 eSAT300과 가장 높은 일치도(κ=0.44, PABAK=0.75)를 보였고, erSAT(κ=0.29, PABAK=0.64)와 eSAT80(κ=0.13, PABAK=0.11)과의 일치도는 더 낮았다(Inv B도 유사). 결론적으로 검사 플랫폼 간 일치도는 사용하는 통계량에 따라 차이가 커서 어떤 검사를 양성으로 볼지에 대한 불일치가 존재하며, 새로운 erSAT는 eSAT300과 상대적으로 잘 일치하는 경향을 보였다.",
+      "title": "A Novel Veterinary Molecular Multiplex Microarray Serological Allergen Test (Pet Allergy Xplorer; Nextmune) Versus Conventional Extract-Based Serological (Idexx; Stallergenes Greer Laboratories) Versus Intradermal Allergen Testing in 59 Dogs With Atopic Dermatitis: Evaluation of Agreement Between Allergy Testing Platforms.",
+      "journal": "Veterinary Dermatology",
+      "generated_at": "2026-08-03T08:53:57.955Z",
+      "model": "gpt-5-mini"
+    },
+    "42543181": {
+      "brief_summary": "Dermatophagoides farinae(Df)에 감작된 가려움증성 아토피 피부염(cAD) 개 15마리를 대상으로 Df 특이 알레르기 면역치료(ASIT)를 12개월 시행하며 임상 및 면역학적 변화를 평가한 연구다. 가려움점수(PVAS)와 PBMC의 IL-31 유전자 발현은 유의하게 감소했고 IFN-γ 발현과 혈청 총 IgG 및 IgG1 농도는 증가했으나 Df 특이 IgE는 계속 높게 유지됐다. CADESI-04는 감소 경향을 보였으나 통계적 유의성은 없었고 약물 사용량은 감소했다. 결과는 ASIT의 임상적(가려움·약물 사용 감소) 및 면역학적 변화를 시사하나 소규모 코호트로 추가 검증이 필요하다.",
+      "detailed_summary": "단일 코호트 전향적 관찰로 Df에 감작된 개 15마리가 12개월간 Df 특이 ASIT를 받았으며 평가 시점은 치료 시작(0개월), 6개월, 12개월이었다. 임상 평가는 CADESI-04와 가려움 시각 아날로그척도(PVAS), 약물 점수였고 면역학적 평가는 PBMC(주변혈단핵세포)의 IL-31, IFN-γ 및 GAPDH 유전자 발현을 실시간 PCR로 측정하고 혈청 Df-특이 IgE, 총 IgG 및 IgG1을 면역검사로 측정했다. 주요 결과는 PVAS와 IL-31 발현의 통계적 유의한 감소, IFN-γ 발현의 증가였으며 CADESI-04 점수는 감소 경향이지만 유의하지 않았다. 약물 사용 점수는 시간 경과에 따라 감소했고 혈청 총 IgG와 IgG1 농도는 증가했으나 Df 특이 IgE는 여전히 높은 수준으로 남아 있었다. 저자들은 이러한 변화가 ASIT에 따른 면역학적 효과를 시사한다고 결론지었으나 인과관계를 단정하지는 않았다. 중요한 제한점으로 표본 크기(15마리)의 작음이 언급되며 결과 검증을 위해 더 큰 코호트 연구가 필요하다고 보고한다.",
+      "title": "Clinical and Immunological Responses to Dermatophagoides farinae Allergen Immunotherapy in Dogs With Atopic Dermatitis.",
+      "journal": "Veterinary Dermatology",
+      "generated_at": "2026-08-03T08:53:38.005Z",
       "model": "gpt-5-mini"
     }
   }
