@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T08:53:57.960Z",
+  "updated_at": "2026-08-04T06:43:39.551Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -2601,6 +2601,14 @@
       "generated_at": "2026-08-02T07:16:26.668Z",
       "model": "gpt-5-mini"
     },
+    "42542132": {
+      "brief_summary": "임상적으로 정상인 클라이언트 소유의 개(54마리)와 고양이(60마리)를 대상으로 3-테슬라(3-T) 심장 MRI(CMRI)에서 심근의 native T1, native T2 및 세포외부피율(ECV)의 종별 참조구간을 확립한 단일기관 연구이다. 측정값은 개에서 native T1 1,057–1,152 ms, native T2 42.0–60.9 ms, ECV 19.3%–25.7%였고, 고양이에서 native T1 1,066–1,172 ms, native T2 34.2–61.6 ms, ECV 21.8%–30.3%로 보고되었다. 본 연구는 임상 적용 가능한 조직 특성화 기준과 재현성을 높이기 위한 영상 획득·분석 방법을 제시한다.",
+      "detailed_summary": "2015–2024년 사이에 단일기관에서 ECG 동기화 하에 전신마취로 시행한 3-T CMRI를 이용해 임상적으로 정상인 개(54)와 고양이(60)를 대상으로 연구를 수행했다. midventricular short-axis 수준에서 인간 CMRI 프로토콜을 적응한 검증된 매핑 시퀀스로 native T1 및 native T2 맵을 획득했으며, ECV는 native 및 조영제 후 T1 측정값과 헤마토크릿(Hct)을 이용해 계산했다. 참조구간은 모수적 방법으로 산출하여 95% 예측구간으로 제시하고 하한·상한에 대해 90% 신뢰구간을 표기했다. 주요 결과는 개: native T1 1,057–1,152 ms, native T2 42.0–60.9 ms, ECV 19.3%–25.7% 및 고양이: native T1 1,066–1,172 ms, native T2 34.2–61.6 ms, ECV 21.8%–30.3%였다. 연령은 두 종 모두에서 심근 ECV의 유의한 예측 인자가 아니었다. 연구는 종별 참조값과 구체적 영상·분석 방법을 제공하여 수의 임상 및 연구에서 CMRI 조직 특성화를 객관적으로 적용하는 데 기여하지만, 단일기관 결과임을 감안해야 한다.",
+      "title": "Reference intervals for myocardial T1, T2, and extracellular volume in clinically normal dogs and cats at 3-Tesla magnetic resonance imaging: a single-center study.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-08-04T06:42:19.291Z",
+      "model": "gpt-5-mini"
+    },
     "42542763": {
       "brief_summary": "8세 수컷 국내 단모묘에서 우측 서혜부의 단단한 종괴가 절제되었고, 조직검사에서 서혜부에 위치한 위축된 잠복고환(cryptorchid testis)의 부고환(epididymis)을 침윤한 악성 신경초종(MNST, malignant nerve sheath tumor)으로 진단되었다. 조직학적으로 Antoni A/B 패턴과 방추형 세포 배열, 10 고배율 시야(high-power field, HPF)당 유사분열 14회로 악성을 시사했으며 면역조직화학에서 S-100 및 vimentin 양성, GFAP 음성이었다. 이 증례는 고양이의 신경초종(NST)이 피부·피하 외의 내장 부위에서도 발생할 수 있음을 보여주며, 특히 서혜부 종창이나 잠복고환과 관련된 병변에서 신경초종을 감별진단에 포함할 필요가 있음을 강조한다.",
       "detailed_summary": "증례보고로서 연구 대상은 우측 서혜부의 단단한 종괴를 주소로 내원한 8세 수컷 국내 단모묘 한 마리였다. 외과적으로 병변을 절제한 후 조직병리학적 평가에서 연부조직육종(STS) 소견 중 악성 신경초종(MNST)에 부합하는 Antoni A 및 B 패턴과 짧은 교차성 집단을 이루는 방추형 세포 배열이 관찰되었고, 유사분열은 10 HPF당 14회로 악성을 지지했다. 면역조직화학 검사에서는 종양세포가 S-100 및 vimentin에 양성으로 염색되었고 GFAP는 음성이어서 MNST 진단을 보조하였다. 종양은 서혜부에 위치한 위축된 잠복고환의 부고환을 침윤하고 있었으며, 저자들은 고양이에서 NST가 주로 두부·경부·사지의 피부·피하에서 보고되는 반면 내장성 발생은 드물다고 언급하였다. 문헌상 잠복고환과 관련된 이러한 위치의 신경초종 보고는 없으므로 본 증례는 고양이 NST의 해부학적 분포를 확장하는 사례로 제시된다. 단, 단일 증례 보고이므로 일반화는 할 수 없으며 임상적으로는 서혜부 종창 또는 잠복고환이 있는 고환 주변 병변에서 신경초종을 감별진단에 포함할 것을 제안하는 수준의 근거임을 명확히 한다.",
@@ -2623,6 +2631,46 @@
       "title": "Clinical and Immunological Responses to Dermatophagoides farinae Allergen Immunotherapy in Dogs With Atopic Dermatitis.",
       "journal": "Veterinary Dermatology",
       "generated_at": "2026-08-03T08:53:38.005Z",
+      "model": "gpt-5-mini"
+    },
+    "42544488": {
+      "brief_summary": "이 후향적 연구는 C-반응성 단백(CRP)이 개에서 급성 신우신염(APy), 급성 전립선염(APr), 세균성 방광염(BC)을 구분하는 데 유용한지 평가했다. 총 115마리(BC 56, APy 32, APr 23, APy+APr 4)의 요 양성(positive urine culture) 개가 포함되었고, 동반 염증 질환과 무증상 세균뇨는 제외됐다. BC의 중앙 CRP는 1.04 mg/dL(범위 0.08–7.21)로 APy(약 23.65 ± 11.96 mg/dL) 및 APr(약 20.9 mg/dL)보다 유의하게 낮았다. CRP의 진단력은 BC와 APy/APr를 구분하는 데 매우 높았으며(AUC 0.99, 95% CI 0.99–1), 높은 CRP는 BC와 APy를 감별하는 데 도움이 될 수 있다는 임상적 시사점을 제시한다.",
+      "detailed_summary": "연구는 후향적 관찰 연구로, 양성 요 배양 결과를 가진 개들을 BC, APy, APr 그룹으로 분류하여 진단 시 혈청 CRP 농도를 비교했다. 총 115마리(BC 56, APy 32, APr 23, APy+APr 4)가 포함되었고, CRP에 영향을 줄 수 있는 동반 질환과 무증상 세균뇨는 제외되었다. 주요 평가 항목은 진단 시 혈청 CRP 농도였으며 BC의 중앙 CRP는 1.04 mg/dL(범위 0.08–7.21)이었다. APy의 CRP는 23.65 ± 11.96 mg/dL로 BC보다 유의하게 높았고(중앙값 차이 22.9 mg/dL; 95% CI 18.2–26.5; P < .001), APr도 20.9 mg/dL로 BC보다 유의하게 높았다(중앙값 차이 19.9 mg/dL; 95% CI 10.7–25.6; P < .001). APy와 APr 간에는 유의한 차이가 없었다(중앙값 차이 −3.0 mg/dL; 95% CI −10.6 to 4.4; P > .99). CRP의 판별능은 매우 높아 BC와 APy/APr를 구분하는 AUC는 0.99(95% CI 0.99–1)이었고, 연구는 동반 염증성 질환이 없는 개에서 진단 시 높은 CRP가 BC와 APy를 감별하는 데 도움이 될 수 있다고 결론지었다. 중요한 한계로는 동반 염증 질환이 있는 경우는 제외되어 해당 상황에는 적용이 제한될 수 있다는 점이 있다.",
+      "title": "Retrospective evaluation of C-reactive protein for discriminating between lower urinary tract infections and acute pyelonephritis in dogs.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-08-04T06:42:00.243Z",
+      "model": "gpt-5-mini"
+    },
+    "42544490": {
+      "brief_summary": "후향적 증례-대조 연구로, 2017–2023년 혈장 알부민 농도가 측정된 고양이 1,664마리(저알부민혈증 HA 832마리, 정상 알부민 wHA 832마리)를 분석하여 HA와 질환 분포 및 생존에 미치는 영향을 평가했다. HA 고양이는 감염성(211/832, 25%)·종양성(198/832, 24%) 병인 및 혈액계(140/832, 17%)·다계통(71/832, 9%) 질환이 더 흔했고(P < .001), 특히 중증 HA(< 2 g/dL)는 감염성 질환과 강하게 연관되었다(P < .001). HA는 입원기간을 길게 하고 전체 생존을 단축했으며, 중증 HA의 입원 시점으로부터 6개월 제한평균생존시간(RMST)은 71일(95% CI 51–92)로 wHA(144일, 95% CI 138–149) 및 경도·중등도 HA보다 유의하게 짧았다(P < .001). 임상적으로는 중증 저알부민혈증이 관찰되면 감염성 질환 조사를 우선해야 한다는 결론이다.",
+      "detailed_summary": "본 연구는 2017–2023년에 혈장 알부민 농도가 측정된 고양이들을 대상으로 한 후향적 사례-대조 연구로, 최종 분석에는 저알부민혈증(HA) 832마리와 정상 알부민(wHA) 832마리, 총 1,664마리가 포함되었다. 알부민 기준은 경도 2.5–2.9 g/dL, 중등도 2.0–2.4 g/dL, 중증 < 2.0 g/dL, 정상은 ≥ 3.0 g/dL으로 분류했다. 진단은 장기계통 및 병인 분류로 구분하여 HA군과 wHA군 간 분포를 비교했으며 입원기간 및 생존시간을 주요 평가항목으로 삼았다. 결과적으로 HA 고양이는 감염성(211/832, 25%) 및 종양성(198/832, 24%) 병인이 더 흔했고 혈액계(140/832, 17%)·다계통(71/832, 9%) 질환 비율도 높아 통계적으로 유의했다(P < .001). 특히 중증 HA는 다른 중증도보다 감염성 질환의 비율이 유의하게 높았고(P < .001), HA 전체는 입원기간 증가 및 생존기간 단축과 연관되었다(P < .001). 중증 HA의 입원 시점부터 6개월까지 RMST는 71일(95% CI 51–92)로 wHA(144일, 95% CI 138–149), 경도(119일, 95% CI 111–127), 중등도(108일, 95% CI 95–122)보다 유의하게 짧았다(중증 vs wHA P < .001 등). 초록에는 별도의 한계점 기술이 없어 연구의 후향적 설계에 따른 선택편향 등 구체적 제한사항은 제시되지 않았다.",
+      "title": "Association of hypoalbuminemia with disease and survival in 1664 cats presenting to a tertiary teaching hospital: a retrospective case-control study.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-08-04T06:41:36.595Z",
+      "model": "gpt-5-mini"
+    },
+    "42544949": {
+      "brief_summary": "이 연구는 2018–2025년 두 수의과 의뢰병원에서 면역매개 다발신경병(immune-mediated polyneuropathy, IMPN)으로 진단된 고양이 9마를 후향적으로 검토해 인간 정맥면역글로불린(human IVIg, hIVIg) 치료 후 임상 경과를 평가했다. 1–2 g/kg을 2–4일(0.5 g/kg/일)로 투여받은 9마리 중 8마리가 투여 후 보행성 회복(>5걸음)을 보였고 중앙값 4일(2–8일) 내에 개선을 보였으며, 완전회복 중앙값은 20일이었다. hIVIg는 이 소규모 코호트에서 내약성이 양호했고 빠른 임상 개선을 보여 선택적 치료 옵션으로 고려될 수 있으나, 후향적·소규모 연구라는 제한으로 대규모 전향 연구나 무치료·코르티코스테로이드와의 비교가 필요하다.",
+      "detailed_summary": "후향적 의무기록 검토 연구로 2018–2025년 두 수의과 의뢰병원에서 IMPN으로 진단되고 hIVIg 치료를 받은 고양이 9마리를 포함했다(급성/최근 발병 4마리, 만성 발표 5마리). 투여량은 hIVIg 1–2 g/kg을 2–4일에 분할(0.5 g/kg/일) 투여했다. 연구자는 임상 정보, 진단 소견, 치료 세부사항 및 단기·장기 추적(추적기간 최소 8개월, 범위 8–51개월, 중앙값 17개월)을 후향적으로 수집·평가했다. 주요 결과로 9마리 중 8마리가 hIVIg 후 임상 개선을 보이며 보행성 회복(>5걸음)을 중앙값 4일(2–8일) 내에 달성했고, 전체 코호트의 중앙값 완전회복 시간은 20일, 부분회복은 14일이었다. 1마리는 hIVIg에 반응하지 않았으나 이후 프레드니솔론 투여로 호전되었고, 4마리는 재발했으나 증상이 덜 심하고 모두 재회복했으며 나머지 5마리는 재발이 없었다. hIVIg는 이 소규모 집단에서 전반적으로 내약성이 양호했다고 보고되었다. 저자들은 결과가 hIVIg를 선택적 치료 옵션으로 시사하지만 표본 수가 적고 후향적 설계라는 중요한 제한이 있어 대규모 전향 연구와 무치료 또는 코르티코스테로이드와의 비교가 필요하다고 결론지었다.",
+      "title": "EXPRESS: Evaluation of the clinical course of immune-mediated polyneuropathy in cats following treatment with human intravenous immunoglobulins.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "generated_at": "2026-08-04T06:43:39.546Z",
+      "model": "gpt-5-mini"
+    },
+    "42546967": {
+      "brief_summary": "비만한 개들을 대상으로 슬관절(stifle) 수술 중 PEEP(positive end-expiratory pressure) 7 cmH2O의 적용이 수술 중·후 산소화에 미치는 영향을 평가했다. 무작위로 PEEP 없음(ZEEP, n=10) 또는 PEEP 7 cmH2O(n=9)를 적용했고 동맥혈 산소분압(PaO2) 및 PaO2:FiO2를 수술 시작·종료(흡입산소분율 FiO2 1.0)와 발관 후 20, 120, 240분(FiO2 0.2)에 측정했다. 결과적으로 PEEP 7 cmH2O의 단독 적용은 PaO2 및 PaO2:FiO2를 유의하게 개선하지 못했으며(처리 효과 P>0.1, 처리×시간 P>0.6), ZEEP군에서만 수술 후 저산소혈증(PaO2<80 mmHg) 3건이 관찰되었다(P=0.21).",
+      "detailed_summary": "무작위 배정 임상시험으로 비만 개들을 대상으로 슬관절 수술 동안 PEEP의 효과를 평가했다. 연구군은 PEEP 없음(ZEEP, n=10)과 PEEP 7 cmH2O군(n=9)으로 구성되었고 전신마취 하에서 배정되었다. 평가 변수는 동맥혈 산소분압(PaO2)과 PaO2:FiO2 비율이며 측정 시점은 수술 시작 및 종료(모두 FiO2 1.0)와 발관 후 20, 120, 240분(모두 FiO2 0.2)이었다. 저산소혈증은 PaO2 < 80 mmHg로 정의했다. 통계 결과 두 변수 모두에서 처리 효과 및 처리×시간 상호작용이 유의하지 않았고(처리 P>0.1, 처리×시간 P>0.6), 수술 후 저산소혈증은 ZEEP군에서 3건 발생했으나 집단 간 유의차는 없었다(P=0.21). 저자 결론은 PEEP 7 cmH2O를 단독으로 적용하는 것만으로는 유의한 산소화 개선을 얻지 못했으며, PEEP의 성공적 사용을 위해서는 추가적인 조치가 필요할 수 있다는 것이다.",
+      "title": "Simply adding positive end-expiratory pressure has limited effects on oxygenation in obese dogs.",
+      "journal": "Topics in Companion Animal Medicine",
+      "generated_at": "2026-08-04T06:43:18.659Z",
+      "model": "gpt-5-mini"
+    },
+    "42546968": {
+      "brief_summary": "12마리의 건강한 성체 혼합 품종 암컷(bitches)을 대상으로 24시간 기계환기 상태에서 두 가지 지속 정맥주입 진정 프로토콜이 혈액학·생화학·응고 변수에 미치는 영향을 평가한 무작위 임상연구이다. 미다졸람-펜타닐-프로포폴(MFG) 및 케타민-모르핀-프로포폴(KMG) 모두 적혈구 수, PCV(허혈검사, hematocrit) 및 헤모글로빈 농도를 유의하게 감소시켰고, KMG에서는 특정 시점에서 TTP와 TSP 및 림프구가 감소했다. 중성지방과 콜레스테롤은 M6에서 T48까지 증가했으나 ALP, ALT, 알부민, 글로불린, 크레아티닌, 요소, 포도당 및 응고 검사에서는 임상적으로 의미 있는 변화가 관찰되지 않아 건강한 개의 24시간 기계환기 진정에서 심각한 간·신장·응고 기능 손상은 확인되지 않았다.",
+      "detailed_summary": "무작위 임상연구로 건강한 성체 혼합 품종 암컷 개 12마리를 대상으로 하였으며, 각 그룹은 미다졸람-펜타닐-프로포폴(MFG; n=6; midazolam 0.5 mg/kg/h, fentanyl 10 μg/kg/h, propofol 18 mg/kg/h)과 케타민-모르핀-프로포폴(KMG; n=6; ketamine 0.6 mg/kg/h, morphine 0.26 mg/kg/h, propofol 18 mg/kg/h)으로 배정되었다. 약물 연속 주입은 24시간 동안 기계환기 하에서 유지되었고, 채혈 시점은 기저(M0), 주입 시작 후 12·24시간(M12, M24) 및 주입 후 12·24·48시간(T12, T24, T48)이었다. 평가 항목으로는 전혈구검사(CBC), 생화학 검사, 프로트롬빈시간(PT), 활성화 부분트롬보플라스틴시간(PTT) 및 피브리노겐이 포함되었다. 주요 결과로 두 프로토콜 모두에서 적혈구 수, PCV, 헤모글로빈 농도가 유의하게 감소했으며, KMG에서는 TTP가 M12, M24 및 T24에서 유의하게 감소하고 TSP는 M24에서 감소했으며 림프구는 M12와 M24에서 감소를 보였다. 생화학적으로는 중성지방과 콜레스테롤 농도가 M6부터 T48까지 유의하게 증가했으나 ALP, ALT, 알부민, 글로불린, 크레아티닌, 요소, 포도당 및 응고 검사에서는 유의한 변화가 관찰되지 않았다. 결론적으로 두 진정 프로토콜은 일시적인 혈액학적·생화학적 변화를 유발했지만 간·신장·응고 기능의 임상적 손상 증거는 없어 건강한 개를 24시간 기계환기 상태로 유지할 때 사용 가능함을 시사하며, 본 연구의 결과는 연구 대상(건강한 성체 암컷 12마리)에 해당함을 유의해야 한다.",
+      "title": "Effect of 24-hour sedation during mechanical ventilation on hematological, biochemical, and coagulation parameters in bitches: a randomized clinical study.",
+      "journal": "Topics in Companion Animal Medicine",
+      "generated_at": "2026-08-04T06:42:56.687Z",
       "model": "gpt-5-mini"
     }
   }

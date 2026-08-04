@@ -1,6 +1,89 @@
 {
-  "updated_at": "2026-08-03T08:52:55.961Z",
+  "updated_at": "2026-08-04T06:41:13.905Z",
   "papers": [
+    {
+      "pmid": "42544490",
+      "title": "Association of hypoalbuminemia with disease and survival in 1664 cats presenting to a tertiary teaching hospital: a retrospective case-control study.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Hayes CC, Zhu X, Pazzi P, Schmid SM",
+      "date": "2026 08 03",
+      "dateObject": "2026 08 03",
+      "abstract": "Hypoalbuminemia (HA) is associated with a higher case fatality rate in people. To describe the affected organ systems and pathoetiologies in cats with mild (2.5-2.9&#xa0;g/dL), moderate (2-2.4&#xa0;g/dL), or severe (< 2&#xa0;g/dL) HA, and compare hospitalization and survival times to cats without HA (wHA; &#x2265; 3&#xa0;g/dL). Eight hundred thirty-two HA and 832 wHA cats. Retrospective case-control study of cats with plasma albumin concentrations measured between 2017 and 2023. Diagnoses were categorized by organ system and pathoetiology and subsequently compared among HA and wHA groups. Hospitalization and survival times were compared. HA prevalence was 32% (948/2927); 116 cats were excluded. Cats with HA were more often diagnosed with infectious (211/832, 25%) or neoplastic (198/832, 24%) pathoetiologies, and diseases affecting the hematopoietic (140/832, 17%) or multisystemic (71/832, 9%) organ systems compared to cats wHA (P&#xa0;<&#xa0;.001 for all). Cats with severe HA were more likely to have infectious diseases than all other severities (P&#xa0;<&#xa0;.001). Cats with HA had longer hospitalizations and shorter survival than wHA cats (P&#xa0;<&#xa0;.001). Cats with severe HA had significantly shorter restricted mean survival times from admission to 6 months (71&#xa0;days, 95% CI 51-92&#xa0;days) than wHA (144&#xa0;days, 95% CI 138-149&#xa0;days, P&#xa0;<&#xa0;.001), mild HA (119&#xa0;days, 95% CI 111-127, P&#xa0;<&#xa0;.001), and moderate HA (108&#xa0;days, 95% CI 95-122&#xa0;days, P&#xa0;=&#xa0;.02) cats. In cats with severe HA, investigation of infectious diseases should be prioritized.",
+      "categories": [
+        "internalMedicine",
+        "oncology"
+      ]
+    },
+    {
+      "pmid": "42544488",
+      "title": "Retrospective evaluation of C-reactive protein for discriminating between lower urinary tract infections and acute pyelonephritis in dogs.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Fidanzio F, Colombo G, Vasylyeva K, Tirolo A, Sabetti MC, Tirelli I, Monari E, Corsini A, Dondi F",
+      "date": "2026 08 03",
+      "dateObject": "2026 08 03",
+      "abstract": "The role of C-reactive protein (CRP) in differentiating pyelonephritis from other types of urinary tract infection in dogs is not well defined. Compare serum CRP concentrations at diagnosis in dogs with acute pyelonephritis (APy), acute prostatitis (APr), and bacterial cystitis (BC). Serum CRP concentration is hypothesized to be higher in APy and APr than in BC. One hundred fifteen client-owned dogs were included: 56 with BC, 32 with APy, 23 with APr, and 4 with both APy and APr. Retrospective observational study. Dogs with positive urine culture were included and divided into 3 groups (BC, APy, and APr), based on medical history. Dogs with comorbidities potentially affecting CRP concentrations and dogs with subclinical bacteriuria were excluded. Data were compared among groups, and the diagnostic accuracy of CRP was assessed post-hoc. Dogs with BC had lower median CRP (1.04&#xa0;mg/dL; range, 0.08-7.21) than those with APy (23.65&#xa0;&#xb1;&#xa0;11.96&#xa0;mg/dL; median difference [MD], 22.9&#xa0;mg/dL; 95% CI, 18.2-26.5; P&#xa0;<&#xa0;.001) and APr (20.9&#xa0;mg/dL; range, 5.93-55.97; MD, 19.9&#xa0;mg/dL; 95% CI, 10.7-25.6; P&#xa0;<&#xa0;.001), whereas APy and APr did not differ (MD, -3.0&#xa0;mg/dL; 95% CI, -10.6 to 4.4; P&#xa0;>&#xa0;.99). Serum CRP concentration had high discriminative ability to differentiate dogs with BC and APy, APr, or both (area under the curve [AUC], 0.99; 95% CI, 0.99-1). Serum CRP concentration evaluated at diagnosis, when highly increased, may help differentiate BC from APy in dogs without concurrent inflammatory diseases.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42542132",
+      "title": "Reference intervals for myocardial T1, T2, and extracellular volume in clinically normal dogs and cats at 3-Tesla magnetic resonance imaging: a single-center study.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Fries RC, Kadotani S, Toborowsky C, Javery EA",
+      "date": "2026 08 03",
+      "dateObject": "2026 08 03",
+      "abstract": "To establish species-specific reference values for myocardial native T1, native T2, and extracellular volume fraction (ECV) in clinically normal dogs and cats using a 3-Tesla (3-T) cardiac MRI (CMRI) and to provide a description of image acquisition and analysis suitable for veterinary clinical and research applications. Cardiac examinations were performed between 2015 and 2024 using a 3-T system with ECG gating under general anesthesia on clinically normal client-owned dogs and cats. Native T1 and T2 maps were acquired at the midventricular short-axis level using validated mapping sequences adapted from human CMRI protocols. Calculated ECV values were obtained from native and postcontrast T1 measurements in conjunction with Hct values. Reference intervals were determined using parametric methods and expressed as 95% prediction intervals with 90% CIs around the lower and upper reference limits. In dogs (n = 54), native T1, native T2, and ECV reference intervals (95% prediction intervals) were 1,057 to 1,152 ms, 42.0 to 60.9 ms, and 19.3% to 25.7%, respectively. In cats (n = 60), corresponding reference intervals were 1,066 to 1,172 ms, 34.2 to 61.6 ms, and 21.8% to 30.3%. Age was not a significant predictor of myocardial ECV in either species. This study establishes clinically applicable reference values for myocardial T1, T2, and ECV in dogs and cats at 3 T and provides imaging methodology to facilitate reproducibility. Species-specific reference intervals established in this study enable objective quantification of myocardial composition and support clinical implementation of CMRI tissue characterization in dogs and cats.",
+      "categories": [
+        "cardiology"
+      ]
+    },
+    {
+      "pmid": "42546968",
+      "title": "Effect of 24-hour sedation during mechanical ventilation on hematological, biochemical, and coagulation parameters in bitches: a randomized clinical study.",
+      "journal": "Topics in Companion Animal Medicine",
+      "authors": "Regalin D, Adorno BA, Chimenes ND, Ribeiro D, de Moraes RS, Benevenuto LGD, Serighelli-J&#xfa;nior G, Saito ME, Comassetto F, Regalin BDDC, Padilha VS, Volpato J, Oleskovicz N",
+      "date": "2026 08 03",
+      "dateObject": "2026 08 03",
+      "abstract": "The effects of prolonged sedation on hematological, biochemical, and coagulation variables have not been previously investigated in veterinary medicine. Twelve healthy adult mixed-breed female dogs were included. Blood samples (6 mL) were collected at baseline (M0) for complete blood count (CBC), biochemical testing, prothrombin time (PT), activated partial thromboplastin time (PTT) and fibrinogen. After M0, dogs were allocated into two groups: midazolam-fentanyl-propofol group (MFG; n=6), which received a continuous infusion of midazolam (0.5 mg/kg/h), fentanyl (10 &#xb5;g/kg/h), and propofol (18 mg/kg/h); and ketamine-morphine-propofol group (KMG; n=6), which received a continuous infusion of ketamine (0.6 mg/kg/h), morphine (0.26 mg/kg/h), and propofol (18 mg/kg/h). The infusion was maintained for 24 hours under mechanical ventilation. Laboratory parameters were reassessed from 12 and 24 hours after the beginning of infusion (M12 and M24), and at 12, 24, and 48 hours after the infusion (T12, T24, and T48). Both protocols significantly reduced erythrocyte count, packed cell volume, and haemoglobin concentration. In KMG, TTP decreased significantly at M12, M24, and T24; TSP at M24; and lymphocytes at M12 and M24. No significant changes were observed in ALP, ALT, albumin, globulins, creatinine, urea, glucose and blood coagulation. Triglyceride and cholesterol concentrations increased significantly from M6 to T48, but without biochemical evidence of hepatic, renal, or coagulation impairment. Overall, both protocols induced transient hematological and biochemical changes without clinically meaningful alterations in hepatic or renal function, supporting their use in healthy dogs mechanically ventilated for 24 hours.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42546967",
+      "title": "Simply adding positive end-expiratory pressure has limited effects on oxygenation in obese dogs.",
+      "journal": "Topics in Companion Animal Medicine",
+      "authors": "Martin-Flores M, Araos J, Rondon TA",
+      "date": "2026 08 03",
+      "dateObject": "2026 08 03",
+      "abstract": "Positive end-expiratory pressure (PEEP) can be used to prevent atelectasis during anesthesia. We evaluated the effect of PEEP on intra- and postoperative oxygenation on obese dogs admitted for stifle surgery. Dogs received no PEEP (ZEEP; n&#x202f;=&#x202f;10) or 7 cmH 2 O PEEP (n&#x202f;=&#x202f;9) at random during general anesthesia. The partial pressure of arterial oxygen (PaO 2 ) and its ratio to inspired fractional oxygen (PaO 2 :FiO 2 ) were measured at start and end of surgery (FiO 2 1.0), and 20, 120, and 240 minutes after extubation (FiO 2 0.2). Cases of hypoxemia (PaO 2 < 80 mmHg) were identified. There were no differences between treatment for either variable (P > 0.1 for treatment and P > 0.6 for treatment*time, for both variables). There were three cases of postoperative hypoxemia in the ZEEP treatment (P&#x202f;=&#x202f;0.21). No significant improvement was achieved when PEEP 7 cmH 2 O was applied in isolation. Successful use of PEEP may require additional maneuvers.",
+      "categories": [
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42544949",
+      "title": "EXPRESS: Evaluation of the clinical course of immune-mediated polyneuropathy in cats following treatment with human intravenous immunoglobulins.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "authors": "Schmitz AK, Sablotni Aguilera AP, Buhmann G, van Renen J, Parzefall B, Matiasek K, Matiasek LA, Fischer A",
+      "date": "2026 08 03",
+      "dateObject": "2026 08 03",
+      "abstract": "Immune-mediated polyneuropathy (IMPN) manifests with generalized lower motor neuron (LMN) weakness and a remittent or relapsing clinical course. Evidence-based treatment recommendations for severely or chronically affected cats are limited. The objective of this study was to evaluate the clinical course and outcome of cats with IMPN following treatment with human intravenous immunoglobulins (hIVIg). Medical records from two veterinary referral hospitals were reviewed (2018-2025) for cats with IMPN treated with hIVIg. Cats were treated with 1-2 g/kg hIVIg divided over 2-4 days (0.5 g/kg/day).Clinical information, diagnostic findings, treatment details and short- and long-term follow-up were evaluated retrospectively. Follow-up information was obtained from medical records and owner communication. Minimum follow-up duration was 8 months (8-51 months; median 17 months).Clinical course (partial and complete recovery, relapses) was compared between cats with acute/recent onset (4 cats) or chronic presentation (5 cats). Eight of nine cats exhibited clinical improvement following hIVIg administration, achieving ambulatory status (walking >5 steps) within a median of 4 days (2-8 days). One cat failed to respond to hIVIg but improved after subsequent prednisolone therapy. For the overall cohort, the median time to complete recovery was 20 days, while the median time to partial recovery was 14 days. Relapses occurred in four cats, but weakness was less severe, and all cats recovered again. The remaining five cats remained relapse-free. Human IVIg was well tolerated in this small cohort, and rapid clinical improvement was observed in most treated cats. These findings suggest that hIVIg may be considered as a treatment option in selected cats with IMPN, including those with acute and chronic presentations. Larger prospective studies, including comparison with no treatment or corticosteroids, are warranted to further assess its efficacy.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42529917",
+      "title": "EXPRESS: Consuming treats with amino acids, osmolytes and sodium increased total water intake and decreased urine specific gravity of healthy cats.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "authors": "Kosmal PAL, Shoveller AK, Banton S, Cheer K, Farentino N, Armstrong LE",
+      "date": "2026 08 03",
+      "dateObject": "2026 08 03",
+      "abstract": "This content has been temporarily removed for correction.",
+      "categories": []
+    },
     {
       "pmid": "42542763",
       "title": "Malignant nerve sheath tumor infiltrating the epididymis of an inguinal cryptorchid testis in a domestic shorthair cat.",
@@ -315,19 +398,6 @@
       ]
     },
     {
-      "pmid": "41985537",
-      "title": "Long-term sacubitril/valsartan is well tolerated in dogs with heart failure and myxomatous mitral valve disease and suggests excellent survival benefits.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Carlson JA, Stern JA",
-      "date": "2026 07 31",
-      "dateObject": "2026 07 31",
-      "abstract": "To determine the safety and survival data for dogs with congestive heart failure (CHF) and myxomatous mitral valve disease (MMVD) treated chronically with sacubitril/valsartan. A retrospective cohort study was completed by identifying dogs with CHF from MMVD and a prescription for sacubitril/valsartan over a 2.8-year period (from February 2023 to December 2025). Dogs that had surgical intervention, left atrial decompression, or an adverse event that necessitated discontinuation of sacubitril/valsartan therapy were removed from survival analysis. 50 dogs with CHF and MMVD, treated with sacubitril/valsartan (mean &#xb1; SD dosage, 18.1 &#xb1; 5.4 mg/kg, PO, q 12 h) were identified. Five dogs were removed prior to survival analysis. The median survival time after the first episode of CHF was 577 days (range, 431 to 751) for 45 dogs. The survival time in 28 stage D MMVD-affected dogs, 446.5 days (283; 619), was lower than that of 17 stage C MMVD-affected dogs, who had a median survival time of 1,149 (570; infinity) days. Three dogs (6%) had adverse events, suggesting that adverse events secondary to sacubitril/valsartan were rare in this population. After initiation of sacubitril/valsartan and titration to the target dose, the most common improvements were in energy level and exercise capacity (83% of dogs). Sacubitril/valsartan therapy in dogs appears safe and suggests median survival times that eclipse those of prior canine MMVD stage C or D CHF studies. This study reports a dosing schedule and clinical tolerance of sacubitril/valsartan. It further provides important data for planning future prospective studies.",
-      "categories": [
-        "cardiology",
-        "surgery"
-      ]
-    },
-    {
       "pmid": "42536135",
       "title": "Retrospective Review of Rush Allergen-Specific Immunotherapy Safety in Cats With Atopic Skin Syndrome.",
       "journal": "Veterinary Dermatology",
@@ -385,16 +455,6 @@
       "categories": [
         "cardiology"
       ]
-    },
-    {
-      "pmid": "42529917",
-      "title": "EXPRESS: Consuming treats with amino acids, osmolytes and sodium increased total water intake and decreased urine specific gravity of healthy cats.",
-      "journal": "Journal of Feline Medicine and Surgery",
-      "authors": "Kosmal PAL, Shoveller AK, Banton S, Cheer K, Farentino N, Armstrong LE",
-      "date": "2026 07 30",
-      "dateObject": "2026 07 30",
-      "abstract": "It is estimated that cats do not drink enough water, particularly those maintained on a dry diet. As such, the objective of this study was to determine the effects of providing two different high-moisture lickable treats containing glycine, alanine, taurine, and betaine, and two sodium levels, on water intake and hydration indices in cats fed dry diets. Twelve adult cats were provided treatments in a 3&#xd7;3 replicated Latin square design for five days per leg: dry diet (CON), CON + one treat with 0.99% sodium (TRT A) and CON + one treat with 1.55% sodium (TRT B). Daily free water intake (FWI) was measured using fountains, and total water intake (TWI) was calculated as FWI + moisture from food and treats. Urine specific gravity (USG) and pH were measured daily; urine protein (UP), urine creatinine (CR) and the protein-to-creatinine ratio (UP: CR) were assessed on the final day of each leg. Fasted blood samples were collected for serum biochemistry. Daily TWI was lower in CON than in TRT B (p = 0.001) and TRT A (p = 0.009). Average USG was higher in CON than in TRT B (P < 0.001) and TRT A (P = 0.005). UP and CR were also higher in CON (P < 0.001; P = 0.003). Daily TWI, average USG, UP, and CR were similar in TRT A and TRT B. Urine pH varied by day (P < 0.001), but treatments did not differ. Magnesium was greater in CON than TRT B (p = 0.006). Average FWI, UP: CR and all other biochemistry values did not differ. These data support that feeding either TRT A or TRT B increased the TWI of domestic cats fed a dry diet, and additional benefits accrued in lower USG, UP and CR.",
-      "categories": []
     },
     {
       "pmid": "42525883",
@@ -1871,31 +1931,6 @@
       ]
     },
     {
-      "pmid": "42035836",
-      "title": "Assessment of safety profile and analgesia provided by grapiprant and metamizole alone or combined for postoperative analgesia of queens undergoing elective ovariohysterectomy.",
-      "journal": "Topics in Companion Animal Medicine",
-      "authors": "Gasparotto JC, Teixeira LG, Vaccarin CV, Schimites PI, Griesang JM, Vargas D, Degregori EB, Andrade CM, Floriano BP, Freitas GC, Soares AV",
-      "date": "2026 07 15",
-      "dateObject": "2026 07 15",
-      "abstract": "The purpose of this study was to assess the efficacy of grapiprant combined with metamizole for postoperative analgesia of healthy queens undergoing elective ovariohysterectomy, as well as the effects of both drugs on laboratory variables of blood and urine samples. Twenty-six mixed-breed adult queens deemed healthy based on clinical examination and scheduled for elective ovariohysterectomy were randomly allocated in three groups comprising three analgesia protocols: MET, metamizole at 25 mg/kg q8 hours (n=8); GRA, grapiprant at 2 mg/kg q24 hours (n=10); and GRAMET, grapiprant at 2 mg/kg q24 hours + metamizole 25 mg/kg q8 hours (n=8). Drugs were given orally in all groups 2 hours prior to extubation. Postoperative pain was assessed using multidimensional pain scales (UNESP and Glasgow) adapted for cats. Evaluations were carried out preoperatively (baseline) and 1, 3, 6, 8, 12 and 24 hours (T1, T3, T6, T8, T12 and T24, respectively) postoperatively. Venous blood samples were obtained at baseline and 24 hours following administration of treatment drugs for complete blood count and serum analysis (ALT, AST, GGT, ALP, creatinine, and urea). Urine samples were obtained at baseline and 24 hours following extubation for urinalysis. Blood glucose was assessed at baseline and 1 hour following extubation. Pain scores differed significantly over time among the three groups with both scales. Rescue analgesia was predominantly necessary within 3 hours following surgery (87.5% for MET, 50.0% for GRA and 62.5% for GRAMET). Lowest pain scores were found in MET and GRAMET as of T3 postoperatively. There were no changes in blood and urine variables throughout the study. Blood glucose increased in all groups at T1 compared with baseline. While metamizole and grapiprant were well tolerated in this study either given alone or in combination, postoperative analgesia was insufficient in healthy queens subjected to elective ovariohysterectomy. Neither drug was associated with any significant changes on laboratory variables over 24 hours of postoperative evaluation.",
-      "categories": [
-        "surgery"
-      ]
-    },
-    {
-      "pmid": "42035835",
-      "title": "Effects of using a propofol priming and coinduction with ketamine or S(+) Ketamine on the dose of induction and duration of propofol in cats.",
-      "journal": "Topics in Companion Animal Medicine",
-      "authors": "Lisiane Saremba V, Francini A, Nadine A, Andressa Rodrigues S, Amanda Oliveira P, J&#xfa;lia Odorissi O, Mario Leite B, Ayu&#xe1; Kaus Harr R, Andr&#xe9; Vasconcelos S, Gabrielle Coelho F, Beatriz Perez F",
-      "date": "2026 07 15",
-      "dateObject": "2026 07 15",
-      "abstract": "The study aimed to evaluate the effects of racemic ketamine and S (+) ketamine coinduction with propofol, comparing these to propofol alone and propofol as its own coinductor, on anesthetic induction, cardiorespiratory parameters, intubation conditions, and recovery in cats. Thirty-two healthy cats were divided into four groups (n = 8): GC (propofol at 1 mg/kg/min, titrated to effect, administered via a syringe infusion pump), GP (propofol priming of 1 mg/kg and 0.5 ml of NaCl 0.9% bolus as placebo, followed by propofol to effect at 1 mg/kg/min), GKet (propofol priming of 1 mg/kg and a racemic ketamine bolus of 2 mg/kg, followed by propofol to effect at 1 mg/kg/min), and GKet+ (propofol priming of 1 mg/kg and a S (+) ketamine bolus of 2 mg/kg, followed by propofol to effect at 1 mg/kg/min). Cats were premedicated with gabapentin (150 mg/cat) one hour before procedures to minimize stress. Propofol infusion began 30 seconds after coinduction and was titrated until loss of jaw tone and laryngotracheal reflex. Heart rate, respiratory rate, temperature, and systolic blood pressure were recorded every 10 min until the return of the laryngotracheal reflex. Recovery times, intubation attempts, and adverse effects were recorded and analyzed. Baseline parameters were similar across groups, except for temperature (P = 0.003). Propofol doses were significantly lower in the GKet+ compared to GC (P = 0.004). Intubation attempts and reinduction doses did not differ between groups. Heart rate changes were significant between 0 and 20 min in the placebo and S (+) ketamine groups. Recovery exhibited a notable difference in ocular bulb centralization between GC and GKet+ (P = 0.008). Other parameters did not show differences. S (+) ketamine coinduction with propofol priming reduced propofol requirements in cats without increasing adverse effects and maintained stable cardiorespiratory parameters. Recovery profiles were comparable, with a slight delay in ocular bulb return to a central position in the S (+) ketamine group. These findings highlight the potential of S (+) ketamine and propofol priming as effective and safe strategies in veterinary anesthetic protocols.",
-      "categories": [
-        "cardiology",
-        "internalMedicine"
-      ]
-    },
-    {
       "pmid": "42454743",
       "title": "EXPRESS: Factors associated with antimicrobial drug prescription in cats receiving outpatient care at a veterinary teaching hospital.",
       "journal": "Journal of Feline Medicine and Surgery",
@@ -2155,19 +2190,6 @@
       ]
     },
     {
-      "pmid": "41994862",
-      "title": "Feline tarsal tumours: histological spectrum, risk factors and prognostic insights.",
-      "journal": "Journal of Feline Medicine and Surgery",
-      "authors": "Lollo G, Sabattini S, Foiani G, Vascellari M, Rigillo A, Melchiotti E, Marconato L",
-      "date": "2026 07 11",
-      "dateObject": "2026 07 11",
-      "abstract": "ObjectivesTarsal tumours are rare, but previous reports suggest a predilection for round cell tumours (RCTs) and soft tissue sarcomas (STSs) in this region. This study aimed to determine the proportion of RCTs among feline tarsal neoplasms, refine classification through histological revision and immunohistochemistry (IHC), assess potential risk factors and evaluate clinical outcomes based on tumour histotypes.MethodsA retrospective analysis of feline tarsal neoplasms diagnosed between 2010 and 2024 was conducted. Signalment, history, treatment and outcomes were collected for RCTs and STSs. All RCTs underwent histological review and IHC (CD3, CD20, CD79a, MUM-1, CD18, IBA-1, E-CAD). A diagnostic algorithm was applied to support the diagnostic process.ResultsA total of 34 cases were included: 18 RCTs and 16 STSs. In 39% of RCTs, the initial histotype was undetermined. After IHC and application of the diagnostic algorithm, 50% of cases were reclassified: seven plasma cell tumours, four progressive histiocytosis, three lymphomas, two histiocytic sarcomas and two undifferentiated RCTs. Male sex, older age and prior tarsal trauma were significantly associated with RCTs ( P &#x2009;=&#x2009;0.042, P &#x2009;=&#x2009;0.048 and P &#x2009;=&#x2009;0.009, respectively). Clinical signs and metastases at diagnosis were more frequent in RCTs ( P &#x2009;=&#x2009;0.019 and P &#x2009;=&#x2009;0.001, respectively). RCT treatment included chemotherapy (n&#x2009;=&#x2009;7), surgery (n&#x2009;=&#x2009;5), surgery and chemotherapy (n&#x2009;=&#x2009;2), prednisolone (n&#x2009;=&#x2009;1) or none (n&#x2009;=&#x2009;1); two cases lacked treatment data. All STSs were managed surgically without chemotherapy. Time to progression and median survival were significantly shorter for RCTs compared with STSs (139 vs 854 days; 173 vs not reached, respectively; P <0.001).Conclusions and relevanceThis study confirms that feline tarsal RCTs are a heterogeneous group of tumours with a poor prognosis. Risk factors may include male sex, older age and previous tarsal trauma. A standardised IHC panel combined with a diagnostic algorithm improved histotyping accuracy and should be adopted in clinical practice.",
-      "categories": [
-        "oncology",
-        "surgery"
-      ]
-    },
-    {
       "pmid": "41847725",
       "title": "Generation of a Rabbit Anti-Canine CD19 Monoclonal Antibody From Peripheral Blood and Its Validation in Immunoassays and CAR-T Feasibility.",
       "journal": "Veterinary and Comparative Oncology",
@@ -2371,18 +2393,6 @@
       "date": "2026 07 08",
       "dateObject": "2026 07 08",
       "abstract": "ObjectivesThis study aimed to compare the prevalence and time to resolution of azotaemia between male cats presented with initial and recurrent urethral obstruction (UO), and to evaluate risk factors for extended duration of urethral catheterisation and hospitalisation.MethodsA multicentre, retrospective study of male cats that underwent urethral catheterisation for UO was conducted. Cats were excluded if they did not have a UO on presentation, had previously diagnosed chronic kidney disease, had incomplete medical records or if they were referred by another clinic after decompression. Prevalence of azotaemia (serum or plasma creatinine >140&#x2009;&#xb5;mol/l) and time to resolution were compared between cats with initial and recurrent UO. Risk factors evaluated for extended duration of catheterisation and hospitalisation included signalment, history of UO, history of lower urinary tract signs (LUTS), diet, recent medications, lifestyle (indoor-only or indoor-outdoor), housing status (single or multi-cat) and azotaemia on presentation.ResultsCats were less likely to be azotaemic on presentation if they had a history of UO ( P &#x2009;=&#x2009;0.015) or LUTS ( P &#x2009;=&#x2009;0.014). Azotaemic cats were 1.92 times more likely to undergo a longer duration of catheterisation compared with non-azotaemic cats (95% confidence interval [CI] 1.40-2.65; P &#x2009;<0.001) and 1.81 times more likely to have a longer hospitalisation (95% CI 1.28-2.57; P &#x2009;<0.001). Resolution of azotaemia was achieved in less than 48&#x2009;h in 89/127 (70.1%) cats that were azotaemic on presentation (95% CI 61.3-77.9). Recurrent UO was not associated with longer time to resolution of azotaemia ( P &#x2009;=&#x2009;0.395).Conclusions and relevanceCats are less likely to present with azotaemia during recurrent UO episodes, which might be due to increased caregiver vigilance. Resolution of azotaemia occurred within 48&#x2009;h for most cats. There was no difference in catheterisation and hospitalisation duration between cats with initial and recurrent UO. Kidney values and recovery in male cats with first-time and repeat urinary blockages Urethral obstruction (a blockage that prevents a cat from passing urine) is a common emergency in male cats. When this happens, waste products can build up in the blood, leading to abnormal kidney values on blood tests. This might affect how long a cat needs to stay in hospital. It is unknown whether cats that have repeated blockages are more or less likely to develop abnormal kidney values than cats with a first-time blockage, or whether their recovery time differs. This study reviewed the medical records of male cats treated for urethral obstruction at several veterinary hospitals over a 5-year period. The researchers compared cats experiencing their first blockage with those that had had previous episodes. They looked at how often cats had abnormal kidney values, how long it took for these values to return to normal and which factors were associated with longer urinary catheter use or longer hospital stays. Cats that had had previous urethral obstructions or lower urinary tract problems were less likely to have abnormal kidney values when they arrived at the hospital. Cats that had abnormal kidney values were more likely to have a urinary catheter for longer and to stay in hospital for a longer period. However, having a previous obstruction did not affect how quickly kidney values returned to normal. In most cases, kidney values returned to normal within 48&#x2009;h of treatment. Overall, cats with repeat urethral obstructions were less likely to have abnormal kidney values, possibly because caregivers recognised the signs and sought treatment earlier. Importantly, cats with repeat obstructions did not stay in hospital longer than cats with a first-time obstruction, meaning treatment time and costs are expected to be similar.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42407251",
-      "title": "Caregiver burden in owners of dogs with chronic enteropathies-a survey-based assessment.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Stumpf C, Pape C, Zablotski Y, Busch K",
-      "date": "2026 07 07",
-      "dateObject": "2026 07 07",
-      "abstract": "Chronic enteropathy (CE) in dogs requires lifelong management and may cause caregiver burden (CB), potentially affecting owner well-being and, indirectly, veterinarians. We aimed to determine whether owners of dogs with CE experience CB compared to owners of healthy dogs and to assess emotional, social, and financial aspects, as well as the owner-dog relationship. The questionnaire was completed by 223 owners of dogs with CE and 447 owners of healthy dogs. Cross-sectional study using an owner-reported questionnaire. Items were adapted from the Zarit Burden Interview and the Monash Dog Owner Relationship Scale. Disease severity was assessed using the canine inflammatory bowel disease activity index. Owners of dogs with CE reported substantial psychological burden and lower quality of life (QoL) for themselves compared with controls. More frequent episodes of severe clinical signs were associated with CB and decreased QoL. Despite this, the owner-dog relationship remained largely intact with most owners maintaining emotional closeness and attachment to the dog. Contributing factors to CB included veterinary visits, the perception of dogs with CE as time-consuming, and financial factors. However, concerns for the dog's well-being-such as suffering, recurrence of severe clinical signs, or death-were ranked as the most important source of burden. Chronic enteropathy can cause substantial CB and negatively affect owners' QoL, while the emotional bond with the dog remains preserved. These findings highlight the importance of considering caregiver well-being as part of veterinary care.",
       "categories": [
         "internalMedicine"
       ]
@@ -2604,18 +2614,6 @@
       "abstract": "Canine mammary gland tumours (MGT) represent a common malignancy in intact female dogs, with a high metastasis rate approaching 50% and a poor prognosis. However, metastasis-related genes remain largely unelucidated. Accordingly, we aimed to identify differentially expressed mRNAs and miRNAs in primary canine MGT tissues from dogs with or without confirmed metastasis. We compared mRNA and microRNA (miRNA) expression profiles between malignant MGT tissue samples with and without metastasis. Differentially expressed genes and miRNAs were identified using next-generation sequencing and analysed using the Empirical Analysis of DEGs tool within CLC Genomics Workbench. We identified 119 genes and eight miRNAs as differentially expressed in primary MGTs from dogs with confirmed metastasis. The RIPPLY1 gene was significantly downregulated in primary MGT samples with confirmed metastasis and this result was validated by RT-qPCR. The Cancer Genome Atlas (TCGA) database showed decreased RIPPLY1 expression in human breast cancer, supporting its possible relevance to tumour biology. In silico analysis (miRWalk) revealed that miR-187 is a predicted candidate miRNA that may interact with RIPPLY1 and both NGS data and RT-qPCR showed increased cfa-miR-187 expression in primary tumour samples from dogs with confirmed metastasis. The inverse expression pattern of RIPPLY1 and cfa-miR-187, together with RNAhybrid binding prediction, suggests a possible candidate miRNA-mRNA relationship. STRING analysis suggested a possible pathway context involving beta-catenin/TCF-related proteins, but this computational result requires further validation. Based on these findings, we identified RIPPLY1 and cfa-miR-187 as potential candidate transcripts associated with primary canine MGTs from dogs with confirmed metastasis but functional validation is required.",
       "categories": [
         "oncology"
-      ]
-    },
-    {
-      "pmid": "42391601",
-      "title": "Dietary-responsive disseminated eosinophilia in a border terrier.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Barton J, Gomes SA, van Lelyveld S, White RN, Richardson S",
-      "date": "2026 07 02",
-      "dateObject": "2026 07 02",
-      "abstract": "Eosinophilia with multi-organ infiltration is rarely reported in dogs. Successful treatment of previous cases has relied on a combination of prednisolone and hydroxyurea. A 15-month-old, intact, male Border terrier was presented at a referral hospital with a 6-month history of recurrent, acute episodic abdominal pain, trembling, vomiting, soft feces, and persistent marked eosinophilia. Computed tomography (CT) disclosed abdominal lymphadenomegaly, and cytological evaluation of fine needle aspirates indicated eosinophilic and neutrophilic pyogranulomatous lymphadenitis. Biopsy samples of jejunal and iliac lymph nodes, liver, and jejunum were obtained during exploratory celiotomy and showed marked eosinophilic infiltration with no inciting cause identifiable on histological examination. The dog was successfully managed with dietary modification alone, using a gluten-free hydrolyzed diet (Pro Plan Veterinary Diets HA Hypoallergenic, Purina, York, United Kingdom). The role of dietary modification should be considered in dogs presenting with acute gastrointestinal clinical signs and marked circulating and tissue eosinophilia when other causes are ruled out.",
-      "categories": [
-        "internalMedicine"
       ]
     },
     {
