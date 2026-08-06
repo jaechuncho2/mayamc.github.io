@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T06:46:01.364Z",
+  "updated_at": "2026-08-06T00:16:53.009Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -2735,6 +2735,54 @@
       "title": "Needle bevel orientation does not affect the cranial spread of injectate in a lumbosacral epidural in canine cadavers.",
       "journal": "American Journal of Veterinary Research",
       "generated_at": "2026-08-05T06:43:44.838Z",
+      "model": "gpt-5-mini"
+    },
+    "42553024": {
+      "brief_summary": "헝가리에서 채취한 개 외이도염 관련 Pseudomonas aeruginosa 분리주 110주를 대상으로 broth microdilution 기반 MIC(최소억제농도) 검사와 전장유전체 분석을 통합해 항균제 감수성 패턴과 유전체 저항성 유전자를 조사한 연구다. 14개 항균제/소독제에 대해 검사한 결과 enrofloxacin(109/110, 99.1%)과 marbofloxacin(99/110, 90.0%)을 포함해 여러 임상적 중요 약제에서 높은 MIC 상승 비율을 보였고, 해석 가능한 약제 기준으로 계산한 중앙값 수정 MAR 지수는 0.56이었다. 이 결과는 개 P. aeruginosa 외이도염에서 배양·MIC 기반 치료의 필요성과 반려동물 임상 분리주의 항생제 내성 감시체계 포함의 중요성을 시사한다.",
+      "detailed_summary": "연구는 헝가리에서 수집한 개 외이도염 관련 P. aeruginosa 분리주 110주를 대상으로 실시되었으며, 14종의 항균제·소독제에 대해 broth microdilution으로 MIC를 측정했다. 가능한 경우 공식 임상 기준과 EUCAST 역학적 컷오프(ECOFF)를 적용하고, 해석 기준이 없는 약제는 서술적으로 평가했다. 표현형으로 선택된 MIC 범위와 저항성 프로파일, 수정 MAR 지수 스펙트럼을 대표하는 70주를 대상으로 장독(롱리드) 시퀀싱을 수행했고, 이들 70개 유전체는 CARD 기반 저항 유전자 검색, MLST 및 유전체 품질 평가에 포함되었다. 주요 결과로 enrofloxacin 109/110(99.1%), marbofloxacin 99/110(90.0%), piperacillin‑tazobactam 75/110(68.2%), ceftazidime 71/110(64.5%), tobramycin 62/110(56.4%) 등에서 해석기준 초과 비율이 높게 관찰되었으며, 해석 가능한 약제만으로 계산한 중앙 수정 MAR 지수는 0.56이었다. 유전체 분석에서는 Mex 계열 배출 펌프 등 배출 관련 소인이 지배적이었고, APH(3')‑IIb, arnA, basS, PDC/OXA 베타락타마제, crpP 등 아미노글리코사이드·베타락탐·플루오로퀴놀론 관련 유전자가 반복적으로 확인되었다. 결론적으로 저자들은 개 P. aeruginosa 외이도염에서 배양 및 MIC 기반 치료가 필요하다고 권고하며, 반려동물 임상 분리주를 국가·지역 항균제 내성 감시체계에 포함할 것을 제안한다. 초록에는 별도의 연구 제한점이 명시되어 있지 않다.",
+      "title": "Phenotypic antimicrobial susceptibility and genomic resistance determinants in canine otitis-associated Pseudomonas aeruginosa isolates.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-08-06T00:16:21.011Z",
+      "model": "gpt-5-mini"
+    },
+    "42553078": {
+      "brief_summary": "인도 일차 진료 수의사 187명을 대상으로 한 설문 연구로, 개의 특발성 간질(idiopathic epilepsy; IE) 관리 실무와 교육자료 접근의 영향을 조사했다. 주요 결과는 페노바르비탈(phenobarbital)이 가장 많이 처방된 항경련제였고, 응답자 중 63%가 정기 혈액검사를 권유했으며 45%는 페노바르비탈 또는 칼륨 브로마이드(krypton bromide) 혈중농도 측정을 6–12개월마다 권장했고 33%는 측정하지 않는다고 답했다. 장기 관리와 약물의 이상반응이 가장 어려운 점으로 꼽혔고, 소규모의 탐색적 Phase II(36명)에서는 제공된 교육자료를 유용하다고 평가하는 비율이 높았다. 임상적 의미는 일차 진료 현장에서 혈중 농도 모니터링과 이상반응 관리가 주요 과제로 남아있으며, 전문교육 자료가 유용할 수 있다는 점이다.",
+      "detailed_summary": "연구는 인도 수의사 대상의 전향적 2단계 설문조사로 Phase I에 187명, 교육자료 제공 후 추적한 Phase II에 36명이 참여했다. 목적은 개의 특발성 간질(IE) 치료·모니터링 관행과 관리 권고에 대한 자신감(1~5점 척도)에 대한 영향을 파악하는 것이었다. 주요 결과로 페노바르비탈이 가장 흔히 처방된 항경련제였고, 118/187(63%)는 정기 혈액검사를 권유했으며 84/187(45%)는 페노바르비탈 또는 칼륨 브로마이드 혈중농도를 6–12개월마다 측정한다고 응답했고 61/187(33%)는 혈중농도를 routine으로 측정하지 않는다고 답했다. 장기 IE 관리와 약물의 이상반응 관리가 가장 어려운 영역으로 보고되었고, Phase II에서는 17/36(47%)가 교육자료를 '매우 유용'하다고 평가했다. 자기보고한 관리에 대한 평균 자신감 점수는 Phase I에서 3.3(표준편차 0.97), Phase II에서 3.69(표준편차 0.89)이었으며, 참여자 36명 중 20명(56%)은 설문 간 변화가 없었다고 응답했다. 결론은 일차 진료 수의사들이 항경련제 모니터링과 이상반응 관리에 어려움을 겪고 있으며, 전문가 제공 교육자료가 긍정적으로 받아들여졌다는 점이다. 단, Phase II는 표본이 작고 탐색적 성격임이 보고되어 결과 해석에 제한이 있다.",
+      "title": "Management practices and continuing education in the treatment of canine idiopathic epilepsy among Indian primary care veterinarians.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-08-06T00:15:58.577Z",
+      "model": "gpt-5-mini"
+    },
+    "42553562": {
+      "brief_summary": "본 연구는 UAE의 반려동물 보호소(개 129, 고양이 101, 총 230마리)를 대상으로 Enterococcus spp.의 분리·항생제 내성 및 유전체 특성을 조사하여 보호소가 One Health 항생제내성(AMR) 감시의 인터페이스가 되는지 평가했다. Enterococcus는 122/230(53.0%)에서 분리되었고, E. faecalis 63/122(51.6%), E. faecium 59/122(48.4%)였으며 테트라사이클린(51.6%), 에리스로마이신(30.3%), 시프로플록사신(27.2%) 등에 대한 내성이 흔했고 다제내성(MDR)은 25/122(20.5%)이었다. 라인졸리드 저항성과 플라스미드 예측 optrA 유전자의 검출은 보호소 반려동물을 지역 One Health AMR 감시에 포함시킬 필요성을 시사한다.",
+      "detailed_summary": "연구 설계는 UAE 4개 에미리트/도시의 5개 보호소에서 직장 면봉으로 230마리(개 129, 고양이 101)의 샘플을 수집하고 선택배지로 분리하여 MALDI-TOF MS로 동정한 횡단적 조사이다. 확인된 E. faecalis 및 E. faecium에 대해서는 Vitek-2로 항생제 감수성 검사를 수행했고, 다제내성(MDR) 또는 라인졸리드 저항성 분리주 25개에 대해 전장유전체염기서열분석(WGS)을 통해 MLST, 저항유전체(resistome), SNP 기반 계통분석 및 병원성 유전자 프로파일을 분석했다. 전체에서 Enterococcus는 122/230(53.0%)에서 검출되었고, 개에서 92/129(71.3%), 고양이에서 30/101(29.7%)로 개에서 분리율이 더 높았다. 주요 표형 내성률은 테트라사이클린 51.6%, 에리스로마이신 30.3%, 시프로플록사신 27.2%, 고수준 스트렙토마이신 20.5%, 고수준 겐타마이신 9.8%였으며 모든 분리주는 암피실린, 반코마이신, 테이코플라닌, 티게사이클린에 감수성을 보였다. WGS에서는 다양한 서열형(ST)을 보였으며 E. faecalis ST16이 우세했고 보호소 관련 SNP 클러스터와 erm(B), tet(L), tet(M), 아미노글리코사이드 저항유전자, 퀴놀론 관련 변이 및 플라스미드로 예측된 optrA(3개 E. faecalis)를 확인했다. 병원성 관련 유전자는 특히 E. faecalis에서 더 두드러져 부착·생물막 관련 파일러스 유전자와 잠재적 외효소 인자가 관찰되었고, 연구 결과는 보호소 반려동물을 지역 One Health AMR 감시에 포함시켜야 함을 지지한다. 초록에서는 별도의 제한점은 명시되어 있지 않다.",
+      "title": "Shelter dogs and cats as a one health interface for phenotypic and genomic surveillance of antimicrobial-resistant Enterococcus Spp. in the United Arab Emirates.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-08-06T00:15:43.379Z",
+      "model": "gpt-5-mini"
+    },
+    "42553660": {
+      "brief_summary": "7세 수컷 미니어처 슈나우저에서 급성 진행성 골반지절 무력증으로 시행한 MRI와 뇌척수액 검사 후 T12–T13 수준의 단일 내수질 병변이 확인되어 외과적 제거 및 조직검사를 시행한 증례보고다. 조직학적으로 진균(hyphae)이 동반된 화농육아종(pyogranuloma)으로 확인되었고 panfungal PCR은 음성이었으나 플루코나졸(fluconazole) 치료와 감압술 후 6개월 MRI에서 병변은 완전 소실되었고 임상적으로는 경한 대퇴마비(ambulatory paraparesis)로 호전되었다. 본 증례는 척수 내 병변의 감별진단에 진균성 육아종을 고려할 필요가 있음을 시사하나 증례보고로서 일반화는 제한된다.",
+      "detailed_summary": "단일 증례보고로 7세 중성화 수컷 미니어처 슈나우저가 급성 진행성 골반지절 무력증으로 내원하여 T3–L3 병변으로 의심되어 thoracolumbar MRI를 시행하였다. MRI에서 T12 말단판에서 T13 중간체까지 연장되는 T2 강조 고신호의 단일 강한 조영증강 내수질 병변과 심한 척수부종 및 수막 조영증강이 관찰되었다. 요추 뇌척수액 검사에서 단핵구 우세의 심한 세포증가(309 cells/µL)와 단백 증가를 보였고, Neospora caninum 및 Toxoplasma gondii 혈청검사는 음성이었다. 초기에는 원인불명의 국소성 수막척수염으로 스테로이드 치료를 시작했으나 악화되어 T12–T13 우측 hemilaminectomy, durotomy 및 myelotomy를 통해 병변을 외과적으로 제거하였고 조직학적으로 진균성 소견이 동반된 화농육아종으로 확인되었다. Panfungal PCR은 음성이었고 플루코나졸로 항진균 치료를 시작하였으며, 6개월 추적 MRI에서 병변은 완전 해소되었고 뇌척수액은 경한 단핵구 증가(6 cells/µL)와 경미한 단백증가를 보였으며 환자는 이후 12개월 추가 치료 동안 경한 보행성 대퇴마비 상태를 유지하였다. 본 연구의 결론은 척수 내 단일 종괴에서 진균성 육아종이 진단될 수 있음을 보여주지만 표본이 1례에 불과하므로 치료 반응과 예후를 일반화하는 데는 제한이 있다.",
+      "title": "Case Report: Spinal intramedullary fungal granuloma: clinical findings, surgery, and outcome in a dog.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-08-06T00:15:17.479Z",
+      "model": "gpt-5-mini"
+    },
+    "42554028": {
+      "brief_summary": "본 후향적 연구는 개 표피친화성 T세포 림프종(CETL)으로 조직학적 확진을 받은 반려견 23마리를 대상으로 CCNU(lomustine, n=11)와 오클라시티닙(oclacitinib, n=12)의 종양 감소(반응), 생존기간 및 재발까지의 시간을 비교했다. 모든 평가 항목에서 두 군 간 통계적 유의차는 없었으며(모두 p>0.05, 전체 생존의 로그-랭크 검정 p=0.20), 오클라시티닙은 부작용이 적고 모니터링 부담이 낮았다. 표본이 작고 후향적 설계라는 한계로 확정적 결론은 어렵지만, 오클라시티닙이 덜 침습적인 완화적 옵션으로 고려될 여지가 있음을 시사한다.",
+      "detailed_summary": "2008–2024년 간의 후향적 검토로, 조직학적으로 확인된 CETL 환자 반려견 23마편을 대상으로 CCNU(lomustine, n=11) 또는 오클라시티닙(oclacitinib, n=12)으로 치료받은 증례를 비교했다. 주요 평가 항목은 측정 가능한 종양 부담의 감소(반응), 조직병리학적 진단 시점부터 사망까지의 생존기간, 그리고 완전 또는 양호 반응을 보인 개체에서의 재발까지의 시간이었다. 성별, 연령, 체중도 치료군 간 잠재적 교란 요인을 확인하기 위해 비교되었다. 통계적으로 유의한 차이는 발견되지 않았으며(모든 항목 p>0.05), Kaplan–Meier 생존분석의 로그-랭크 검정에서도 전체 생존에 유의차는 없었다(p=0.20). 임상적으로는 오클라시티닙이 부작용이 더 적고 모니터링 강도가 낮다고 보고되었다. 연구자는 표본 크기 제한과 후향적 설계라는 중요한 제한점을 명시하며, 오클라시티닙이 CCNU와 비교해 결과가 유사하면서 부작용이 적은 완화적 치료 옵션이 될 수 있으나 이를 확인하기 위한 전향적 연구가 필요하다고 결론지었다.",
+      "title": "A Retrospective Comparison of Survival, Tumour Reduction and Relapse Outcomes Following Oclacitinib and CCNU Treatment in Dogs With Canine Epitheliotropic T-Cell Lymphoma.",
+      "journal": "Veterinary Dermatology",
+      "generated_at": "2026-08-06T00:16:53.003Z",
+      "model": "gpt-5-mini"
+    },
+    "42554915": {
+      "brief_summary": "남아프리카 나미비아의 가정집 고양이 236마리(15개 도시, 8개 지역, 편의표본)를 대상으로 FHV-1(feline herpesvirus-1) 중화항체 존재를 조사한 연구로, 전체에서 18/236(8.0%, 95% CI: 4.88–11.73%)가 중화항체 양성이었다. 양성 개체는 Erongo, Khomas, Hardap 지역에서만 확인되었고 Erongo에서 혈청양성률이 가장 높았다. 중화항체는 백신 접종 여부, FIV 항체 상태, FeLV 항원 상태와 유의한 연관성은 없었으나, 결막·비강 분비물(oculonasal discharge)과는 유의하게 연관되어(p<0.001) 관찰되었다. 표본이 편의표본이고 백신 이력 등 상세 정보가 없어 해석에 제한이 있다.",
+      "detailed_summary": "본 연구는 나미비아 15개 도시의 편의표본으로 수집된 가정집 고양이 236마리를 대상으로 FHV-1 중화항체(neutralising antibodies) 유병률을 횡단적으로 평가했다. 검사 결과 18마리(8.0%, 95% CI: 4.88–11.73%)에서 중화항체가 검출되었고, 양성 개체는 Erongo, Khomas, Hardap 세 지역에서만 확인되었으며 Erongo의 지역 혈청양성률이 가장 높았다. 백신 접종 여부(소수의 접종묘 포함), 고양이면역결핍바이러스(FIV) 항체 상태, 고양이백혈병바이러스(FeLV) 항원 상태와는 유의한 연관성이 발견되지 않았다. 반면 임상 징후 중 결막·비강 분비물(oculonasal discharge)과는 통계적으로 유의한 연관성이 있었다(p<0.001). 저자들은 표본에서의 중화항체 유병률이 낮음을 보고하며, 검출된 중화항체는 주로 비백신 접종묘에서 관찰되었으나 접종묘 수가 적고 상세 접종 이력이 없어 이 소견의 해석에는 제한이 있다고 명시했다. 결론은 표집 방법과 제한된 백신 정보로 인해 본 연구 결과가 나미비아 전체 가정집 고양이 집단을 대표한다고 일반화하기 어렵다는 점이다.",
+      "title": "Tracing feline herpesvirus-1 exposure in domestic cats from Namibia: associations with neutralising antibodies, vaccination, clinical signs, and retroviral status.",
+      "journal": "Veterinary Research Communications",
+      "generated_at": "2026-08-06T00:16:38.799Z",
       "model": "gpt-5-mini"
     }
   }

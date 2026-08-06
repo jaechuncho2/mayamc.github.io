@@ -1,6 +1,81 @@
 {
-  "updated_at": "2026-08-05T06:43:11.097Z",
+  "updated_at": "2026-08-06T00:14:57.876Z",
   "papers": [
+    {
+      "pmid": "42553660",
+      "title": "Case Report: Spinal intramedullary fungal granuloma: clinical findings, surgery, and outcome in a dog.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Benito-Benito M, Elvira-Rodriguez T, Bovis MDM, Constantino-Casas F, Ives EJ",
+      "date": "2026 08 05",
+      "dateObject": "2026 08 05",
+      "abstract": "A 7-year-old male neutered Miniature Schnauzer was assessed due to an acute and progressive history of pelvic limb weakness and incoordination. At the examination, the dog was non-ambulatory paraparetic, the postural reaction were abscent in both pelvic limbs, with intact withdrawal and patellar reflexes and increased pelvic limb muscle tone, which lead into paraplegia with intact nociception in the follow 24&#x202f;h. A T3-L3 myelopathy was suspected, and an MRI of the thoracolumbar vertebral column was performed under general anaesthesia. An ill-defined, solitary, T2W hyperintense and strongly contrast enhancing intramedullary lesion was found, extending from the caudal endplate of T12 to the midbody of T13 and associated with severe spinal cord oedema and meningeal enhancement. A lumbar CSF analysis revealed a severe mononuclear pleocytosis (309 cells/&#x3bc;L) and markedly increased protein level; serology against Neospora caninum and Toxoplasma gondii was negative, and treatment with steroids for a suspected focal meningomyelitis of unknown origin was started. The patient deteriorated over the following days, becoming paraplegic with reduced nociception in the right pelvic limb. An exploratory surgery was carried out via T12-T13 right-sided hemilaminectomy, durotomy and myelotomy, and a well-defined, firm intramedullary mass was removed and sent for histopathology. The mass was consistent with an inflammatory pyogranuloma with intralesional fungal hyphae. Panfungal PCR was negative. Treatment with fluconazole was started, and a follow-up MRI was performed 6&#x202f;months after surgery. At this time the dog was ambulatory paraparetic and MRI revealed complete resolution of the previous mass. Repeat CSF analysis revealed a mild mononuclear pleocytosis (6 cells/&#x3bc;L) and a mild increase in protein. Fluconazole treatment was continued for another 12&#x202f;months; during all this time, the patient remained ambulatory with a mild paraparesis. The patient died for unrelated reasons 18&#x202f;months after surgery when under general anaesthesia for routine removal of a subcutaneous lipoma.",
+      "categories": [
+        "internalMedicine",
+        "surgery",
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "42553562",
+      "title": "Shelter dogs and cats as a one health interface for phenotypic and genomic surveillance of antimicrobial-resistant Enterococcus Spp. in the United Arab Emirates.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Habib I, Mohteshamuddin K, Mohamed MI, Bhagya Lakshmi G, Antony A, Elbediwi M",
+      "date": "2026 08 05",
+      "dateObject": "2026 08 05",
+      "abstract": "Companion animal shelters represent underexplored settings for One Health antimicrobial resistance (AMR) surveillance. This study investigated the recovery, antimicrobial resistance, and genomic features of Enterococcus spp. from shelter dogs and cats in the United Arab Emirates (UAE). Rectal swabs were collected from 230 shelter animals, including 129 dogs and 101 cats, across five shelters in four UAE emirates/cities. Enterococcus isolates were recovered using selective culture and identified by MALDI-TOF MS. Confirmed Enterococcus faecalis and Enterococcus faecium isolates underwent antimicrobial susceptibility testing using Vitek-2. Multidrug-resistant (MDR) and linezolid-resistant isolates were subjected to whole-genome sequencing (WGS) for multilocus sequence typing, resistome analysis, single-nucleotide polymorphism-based phylogeny, phenotype-genotype concordance assessment, and virulence-associated gene profiling. Enterococcus spp. were recovered from 122/230 animals (53.0%; 95% confidence interval: 46.6-59.4), with higher recovery in dogs (71.3% (92/129)) than cats (29.7% (30/101)). Overall, E. faecalis accounted for 63/122 isolates (51.6%) and E. faecium for 59/122 isolates (48.4%). Phenotypic resistance was most frequent for tetracycline (51.6%), erythromycin (30.3%), ciprofloxacin (27.2%), high-level streptomycin (20.5%), and high-level gentamicin (9.8%). All isolates were susceptible to ampicillin, vancomycin, teicoplanin, and tigecycline. MDR was detected in 25/122 isolates (20.5%) and was more frequent among E. faecalis than E. faecium . Linezolid resistance was detected in two isolates recovered from two dogs, one male and one female, housed in the same shelter. WGS of 25 MDR or linezolid-resistant isolates revealed diverse sequence types, including dominant E. faecalis ST16, shelter-associated SNP clusters, and multiple resistance determinants, including erm(B), tet(L), tet(M) , aminoglycoside resistance genes, quinolone resistance-associated mutations, and plasmid-predicted optrA in three E. faecalis isolates. Virulence-associated genes were more prominent in E. faecalis , particularly the endocarditis- and biofilm-associated pilus genes involved in adhesion and biofilm formation, together with a putative exoenzyme-associated factor potentially contributing to host interaction and bacterial fitness. Shelter dogs and cats in the UAE carried E. faecalis and E. faecium with phenotypic AMR, MDR profiles, and diverse genomic resistance determinants. The detection of linezolid resistance and plasmid-predicted optrA supports inclusion of shelter companion animals in regional One Health AMR surveillance.",
+      "categories": [
+        "cardiology",
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42553078",
+      "title": "Management practices and continuing education in the treatment of canine idiopathic epilepsy among Indian primary care veterinarians.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Srinath AT, Mu&#xf1;ana KR, Deshmukh P, Caddiell R, Gruen ME, Lewis MJ",
+      "date": "2026 08 05",
+      "dateObject": "2026 08 05",
+      "abstract": "In India and countries without veterinary neurologists, dogs with idiopathic epilepsy (IE) are managed by primary care veterinarians. Data are lacking on their practice patterns. Describe management of canine IE among Indian primary care veterinarians and explore the impact of access to educational materials about epilepsy. Prospective, two-phased, survey-based study of Indian veterinarians focused on treatment and monitoring of canine IE and perceived confidence in management recommendations (1/not comfortable to 5/very comfortable). Participants who agreed to Phase II received concise guidelines about IE with a follow-up survey distributed after 6&#x202f;months. Descriptive statistics summarized management trends and compared confidence scores between surveys. 187 veterinarians participated in Phase I and of these, 36 participated in Phase II. Phenobarbital was the most common anti-seizure drug prescribed, chosen mostly due to efficacy. Most respondents (118/187; 63%) recommended routine lab work and (84/187; 45%) recommended measuring phenobarbital or potassium bromide blood concentration every 6-12&#x202f;months; (61/187; 33%) reported not measuring blood concentrations routinely. Long-term management of IE and adverse effects of medications were rated as most challenging. Nearly half of Phase II respondents (17/36; 47%) ranked the educational materials as extremely beneficial. Mean self-reported comfort level was 3.3 (SD 0.97) and 3.69 (SD 0.89) for Phase I and II, respectively; most (20/36; 56%) reported no change between surveys. Challenges for Indian veterinarians in the chronic management of canine IE related to anti-seizure drug monitoring and adverse effects. Exploratory Phase II findings identified positive reception to educational support from specialists.",
+      "categories": [
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "42553024",
+      "title": "Phenotypic antimicrobial susceptibility and genomic resistance determinants in canine otitis-associated Pseudomonas aeruginosa isolates.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Veres MA, T&#xf3;th ZA, Ill&#xe9;s E, Mag P, Kaszab E, Feh&#xe9;r E, Kerek &#xc1;, Jerzsele &#xc1;",
+      "date": "2026 08 05",
+      "dateObject": "2026 08 05",
+      "abstract": "Pseudomonas aeruginosa is a clinically important opportunistic pathogen in canine otitis externa, particularly in chronic, recurrent or treatment-refractory cases. Its low outer-membrane permeability, biofilm-forming capacity, efflux systems and ability to acquire additional resistance determinants complicate empirical therapy and make local surveillance essential. This study integrated broth microdilution-based minimum inhibitory concentration (MIC) testing with whole-genome analysis to characterize antimicrobial susceptibility patterns and genomic resistance determinants in canine otitis-associated P. aeruginosa isolates from Hungary. A total of 110 isolates were tested against 14 antimicrobial or antiseptic agents. Official clinical breakpoints and European Committee on Antimicrobial Susceptibility Testing (EUCAST) epidemiological cut-off values were applied where available, while agents lacking validated interpretive criteria were evaluated descriptively. A phenotypically selected subset of 70 isolates, chosen to cover the major MIC ranges, resistance profiles and modified MAR-index spectrum observed in the full collection, was subjected to long-read sequencing, and all 70 genome assemblies were included in comprehensive antibiotic resistance database (CARD)-based resistance gene screening, multi-locus sequence typing (MLST) and genome quality assessment. High frequencies of elevated MICs were detected for several clinically relevant agents. The highest proportions above interpretive thresholds were observed for enrofloxacin (109/110, 99.1%), marbofloxacin (99/110, 90.0%), piperacillin-tazobactam (75/110, 68.2%), ceftazidime (71/110, 64.5%) and tobramycin (62/110, 56.4%). The median modified multiple-antimicrobial-resistance index, calculated only from agents with interpretable resistance thresholds, was 0.56. Genomic analysis showed a broad intrinsic resistance background dominated by efflux-associated determinants and recurrent aminoglycoside, beta-lactam and fluoroquinolone-associated genes, including APH(3')-IIb , Mex-family efflux components, Opr-associated transporters, arnA , basS , PDC/OXA beta-lactamases and crpP in a subset of isolates. These findings support the need for culture- and MIC-guided therapy in canine P. aeruginosa otitis and support the value of including companion-animal clinical isolates in national and regional antimicrobial resistance surveillance frameworks.",
+      "categories": [
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42554915",
+      "title": "Tracing feline herpesvirus-1 exposure in domestic cats from Namibia: associations with neutralising antibodies, vaccination, clinical signs, and retroviral status.",
+      "journal": "Veterinary Research Communications",
+      "authors": "de Villiers L, Pulsoni S, Bonfini B, Coetzee LM, Hamunyela E, de Villiers M, Ciarrocchi E, Leone A, Teodori L, Molini U",
+      "date": "2026 08 05",
+      "dateObject": "2026 08 05",
+      "abstract": "Feline herpesvirus type 1 (FHV-1) is a major cause of upper respiratory and ocular disease in domestic cats and remains widely distributed worldwide. However, information on FHV-1 exposure and neutralising antibody responses in cats from Namibia is limited. This study assessed FHV-1 neutralising antibody prevalence in a convenience sample of 236 domestic cats sampled across 15 towns in eight regions of Namibia. Neutralising antibodies were detected in 18/236 (8%) cats (95% CI: 4.88-11.73%). Seropositive animals were identified only in Erongo, Khomas, and Hardap regions, with the highest regional seroprevalence observed in Erongo. Seropositivity was uncommon in both vaccinated and unvaccinated cats and was not significantly associated with vaccination status, feline immunodeficiency virus antibody status, or feline leukaemia virus antigen status. A significant association was identified between seropositivity and oculonasal discharge (p&#x2009;<&#x2009;0.001). Overall, the findings indicate low FHV-1 neutralising antibody prevalence within the sampled population rather than the wider domestic cat population of Namibia, and suggest that detectable neutralising antibodies were observed predominantly in unvaccinated cats, although interpretation is limited by the small number of vaccinated animals and the absence of detailed vaccination histories.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42554028",
+      "title": "A Retrospective Comparison of Survival, Tumour Reduction and Relapse Outcomes Following Oclacitinib and CCNU Treatment in Dogs With Canine Epitheliotropic T-Cell Lymphoma.",
+      "journal": "Veterinary Dermatology",
+      "authors": "Shen GB, Dehcheshmeh MM, Ebrahimie E, Knight E, Trott DJ, Shipstone M",
+      "date": "2026 08 05",
+      "dateObject": "2026 08 05",
+      "abstract": "Canine epitheliotropic T-cell lymphoma (CETL) is an aggressive and generally incurable disease in dogs. CCNU (lomustine) is commonly used for management, even though it carries a significant risk of adverse effects. Several reports describe oclacitinib producing clinical improvement in affected dogs, yet comparative data between the two treatments are lacking. To compare the clinical outcomes in dogs with CETL treated with oclacitinib or CCNU, focussing on tumour reduction (response), survival time and time-to-relapse. This retrospective review (2008-2024) included 23 client-owned dogs with confirmed CETL treated with either CCNU (n&#x2009;=&#x2009;11) or oclacitinib (n&#x2009;=&#x2009;12). Outcomes included response (reduction in measurable tumour burden), survival (time from histopathological diagnosis to death) and time-to-relapse (for dogs with complete or good responses). Clinical presentation and adverse effects also were recorded. Additionally, sex, age and weight were compared between treatment groups to investigate potential confounding factors. No statistically significant differences were identified between oclacitinib and CCNU for response, survival or time-to-relapse (p&#x2009;>&#x2009;0.05 for all). Kaplan-Meier survival analysis showed no significant difference in overall survival (log-rank test, p&#x2009;=&#x2009;0.20). Oclacitinib was associated with fewer adverse effects and reduced monitoring intensity. These findings suggest oclacitinib may offer outcomes comparable to CCNU for CETL, with fewer adverse effects and less intensive monitoring. The small, retrospective sample limits firm conclusions, yet these results indicate that oclacitinib could be a reasonable, possibly safer palliative option warranting further prospective study.",
+      "categories": [
+        "oncology"
+      ]
+    },
     {
       "pmid": "42551864",
       "title": "Needle bevel orientation does not affect the cranial spread of injectate in a lumbosacral epidural in canine cadavers.",
@@ -625,40 +700,6 @@
         "surgery",
         "neurology"
       ]
-    },
-    {
-      "pmid": "42519726",
-      "title": "Acoustic myography of the biceps and triceps brachii muscles during retrieving drills in field trial dogs.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Hugel AK, Manfredi J, Tomlinson J",
-      "date": "2026 07 29",
-      "dateObject": "2026 07 29",
-      "abstract": "Field-trial dogs decelerate from speed, turn, and retrieve birds, potentially predisposing to biceps tendinopathy. Acoustic myography (AMG) measures muscle contraction. We hypothesized that braking/turning (turn) to retrieve birds produces more biceps and triceps work vs. gallop to the bird (out-run), or back with the bird (return) and that work in these muscles would be asymmetric between limbs at turn. Fourteen conditioned, orthopedically sound retrievers were fitted with wired sensors adhered bilaterally to triceps and biceps, connected to a harness holding AMG equipment. Dogs performed three 91.44 m retrieves with 2 s AMG recordings sampled mid out-run and return, and 1 s during turn; speed was calculated for each section. Data analysis: Shapiro-Wilk tests for normality and either Student's t -test (AMG data inside vs. outside leg at turn) or one-way mixed effects model with Geisser-Greenhouse correction or ANOVA with Tukey's multiple comparisons post-hoc test (other AMG parameters, dog speed). Significance was p < 0.05. Speed was faster at out-run vs. return. Biceps at out-run had greater amplitude vs. return and frequency vs. turn. Biceps at turn had greater amplitude than return. Triceps at both out-run and turn had greater amplitude vs. return. Contraction frequency was greater for biceps at out-run vs. turn and for triceps at turn vs. out-run. Carrying a bird is not a risk factor for biceps tendinopathy in field trial dogs; excess tensile load on the biceps from triceps action at turn, and high muscle work in the biceps at out-run are likely risk factors.",
-      "categories": [
-        "surgery"
-      ]
-    },
-    {
-      "pmid": "42519725",
-      "title": "Structured therapeutic exercise program effect on PROM and muscle mass in dogs with osteoarthritis: a prospective clinical study.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "T&#xf6;r&#xf6;k M, Dvoranov&#xe1; M, Lipt&#xe1;k T, Mad'ari A, Kuricov&#xe1; M",
-      "date": "2026 07 29",
-      "dateObject": "2026 07 29",
-      "abstract": "Degenerative joint disease, namely osteoarthritis, represents a major cause of chronic pain and functional limitation in dogs. Although rehabilitation is widely incorporated into clinical management, objective data quantifying joint mobility and muscular adaptations following structured exercise protocols remain limited. To evaluate changes in passive range of joint motion (PROM) and limb circumference following a five-week therapeutic exercise program in dogs diagnosed with degenerative joint disease. Twenty-one client-owned dogs underwent a standardized rehabilitation protocol consisting of three sessions per week. Goniometric measurements of appendicular joints and limb circumference assessments were performed before and after intervention. Deviations from published reference midpoints were calculated, and improvement in joint motion was defined as reduction in deviation regardless of direction of absolute change. Morphometric parameters were also recorded. Joints were analyzed individually to describe distribution of changes across the cohort. Across most joints, extension movements were associated with a higher proportion of PROM increases, whereas flexion showed a more mixed pattern with frequent decreases or unchanged values. The most pronounced response was observed in the hip joint. Pelvic limb musculature showed greater circumference than thoracic limb musculature, with the largest mean increase in circumference recorded in the thigh region. Body weight and trunk circumferences remained largely stable during the intervention period. Considerable inter-individual variability in response to therapy was observed. A structured exercise-based rehabilitation program was associated with measurable changes in goniometry and muscle circumference in dogs with secondary degenerative joint disease. These findings support the integration of targeted therapeutic exercise into multimodal conservative management strategies for orthopedic patients.",
-      "categories": [
-        "surgery"
-      ]
-    },
-    {
-      "pmid": "42519722",
-      "title": "Benefits and risks of staff-owned dogs in small animal clinics: perspectives of employees that bring their dog to work.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Herrendorf E, Holenweger G, Rohrbach H, Schweighauser A, Messner C, Schuller S",
-      "date": "2026 07 29",
-      "dateObject": "2026 07 29",
-      "abstract": "Many veterinary staff are dog owners, and the opportunity to bring their dog to work may influence their choice of workplace. This qualitative study assessed the benefits and risks for employees who bring their dogs to work in small animal clinics and aimed to develop guidelines to maximize benefits and minimize risks. The study explored the perspectives of employees at four small animal clinics in Switzerland who brought their own dogs to work. Semi-structured interviews were conducted using an interview guide informed by an ecological model encompassing individual, social, community, and societal aspects. In total, 29 interviews were conducted across various job roles and analyzed. Perceived benefits were consistent across the four clinics, whereas the associated risks varied according to organizational structures. Common benefits for the dog-owning staff included reduced stress, increased social interaction, and improved work-life balance. Identified risks included added stress due to care demands of the dog, additional cleaning demands, potential disease transmission, distractions, and organizational challenges related to spatial arrangements for staff-owned dogs. These findings informed the development of practical guidelines for managing staff-owned dogs in the workplace. Key recommendations include clear and consistent communication of rules, the provision of suitable spaces, and structured integration of dogs into the workplace. From a dog-owner perspective, the opportunity to bring dogs to work has the potential to be an important contributor to employee well-being in veterinary settings. The implementation of formalized guidelines may help to create a positive environment for staff, staff-owned dogs, and employers.",
-      "categories": []
     },
     {
       "pmid": "42525188",
@@ -1391,18 +1432,6 @@
       "categories": [
         "internalMedicine",
         "neurology"
-      ]
-    },
-    {
-      "pmid": "42483710",
-      "title": "Comparative kinematic analysis of forelimb and hindlimb cushioning strategies in German Shepherd dogs: implications for injury prevention.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Miao H, Zhu L, Zheng L, Qian Z, Ren L",
-      "date": "2026 07 22",
-      "dateObject": "2026 07 22",
-      "abstract": "While German Shepherds are widely utilized in agility and working roles, the limb-specific kinematic strategies they employ to attenuate impact during locomotion, and how these strategies relate to clinical injury susceptibilities, remain insufficiently understood. In this preliminary study, we used a three-dimensional motion capture system to quantify the forelimb and hindlimb kinematics of four clinically healthy German Shepherd dogs during walking, trotting, and controlled drop-landing. Joint angle profiles revealed significant functional differentiation: forelimbs exhibited inverted pendulum-like kinematics prioritizing initial contact stability, whereas hindlimbs demonstrated spring-like kinematics specialized for propulsion. Crucially, we identified distinct limb-specific cushioning mechanisms during initial ground contact: forelimbs passively absorb impact via rapid carpal hyperextension (dorsiflexion), while hindlimb tarsal flexion geometrically implies active eccentric muscular control. These findings provide essential preliminary kinematic baseline data for healthy German Shepherds. The passive forelimb strategy is biomechanically consistent with the high clinical incidence of carpal ligamentous injuries, whereas the active hindlimb strategy may predispose the stifle to fatigue-related cranial cruciate ligament insufficiency. These insights deepen our understanding of functional limb differentiation and establish a critical normative reference for evaluating pathological gait deviations, informing targeted conditioning programs in veterinary sports medicine and orthopedic rehabilitation.",
-      "categories": [
-        "surgery"
       ]
     },
     {
@@ -2686,19 +2715,6 @@
       "categories": []
     },
     {
-      "pmid": "42371222",
-      "title": "Clinical investigation of plasma HIF-1&#x3b1; and inflammatory biomarkers in dogs with thoracolumbar intervertebral disc disease receiving acupuncture treatment.",
-      "journal": "Veterinary Research Communications",
-      "authors": "Sawamura M, Mizutani H, Kawasumi K",
-      "date": "2026 06 29",
-      "dateObject": "2026 06 29",
-      "abstract": "This study investigated changes in neurological grades and plasma biomarker levels, including hypoxia-inducible factor-1&#x3b1; (HIF-1&#x3b1;), tumor necrosis factor-&#x3b1; (TNF-&#x3b1;), interleukin-6 (IL-6), and total plasma NAD(H) levels, in dogs with thoracolumbar intervertebral disc disease (TL-IVDD) undergoing acupuncture treatment. A total of 46 treatment episodes from 36 dogs with TL-IVDD were included in the neurological assessment. Plasma biomarker analyses were performed using available paired samples after exclusion of missing values and incomplete paired observations. Neurological grades improved after acupuncture treatment, with significant reductions observed in dogs treated with electroacupuncture during both the acute and preventive phases. Plasma TNF-&#x3b1; concentrations showed significant treatment period-, disease phase-, and treatment method-dependent changes, with significant Pre-Post differences observed in the electroacupuncture group during both phases. Plasma IL-6 concentrations showed more limited changes, with a significant Pre-Post difference detected only in the classical needle acupuncture group during the acute phase. In contrast, total plasma NAD(H) levels and plasma HIF-1&#x3b1; concentrations did not show significant treatment-related changes. These findings suggest that acupuncture treatment, particularly electroacupuncture, was associated with neurological improvement in dogs with TL-IVDD, and that TNF-&#x3b1; may reflect phase- and method-dependent inflammatory responses after acupuncture treatment. Plasma IL-6, total plasma NAD(H) levels, and HIF-1&#x3b1; should be interpreted as exploratory biomarkers in this clinical setting.",
-      "categories": [
-        "oncology",
-        "neurology"
-      ]
-    },
-    {
       "pmid": "42369665",
       "title": "Successful management of anuric acute kidney injury associated with aortic thromboembolism with peritoneal dialysis in a cat.",
       "journal": "JFMS Open Reports",
@@ -2744,19 +2760,6 @@
       "date": "2026 06 28",
       "dateObject": "2026 06 28",
       "abstract": "LINE-1 (long interspersed nuclear element-1) is a family of related class I transposable elements in the DNA that is dispersed throughout the entire genome and the study of its methylation pattern is used in the understanding of several neoplasms. Canine mast cell tumors represent a frequent cutaneous neoplasm in veterinary practice presenting different degrees of malignancy and being classified according to their histological differentiation. In view of the current scientific scarcity of information in relation to the epigenetic pattern of neoplasms in domestic animals, this study aimed to verify whether there is correlation between the methylation pattern of LINE-1 with the different grading of canine mast cell tumors according to Kiupel classification. DNA and RNA were extracted from paraffinized healthy and neoplastic (classified as low-grade and high-grade) tissue samples using the phenol/chloroform/isoamyl alcohol and TRIzol&#xae; methods, respectively. LINE-1 methylation pattern and expression were quantified by qPCR. A higher LINE-1 expression was observed in neoplasms characterized with a higher degree of malignancy in relation to healthy samples and tumors with a lower degree of malignancy. It was also noted hypomethylation of the LINE-1 promoter region in both neoplastic mast cell tumor grades in relation to the healthy tissue, but no significant difference was found between low-grade and high-grade groups. Thus, high-grade tumors presented higher expression of LINE-1, suggesting the potential use of LINE-1 as a biomarker of genomic instability.",
-      "categories": [
-        "oncology",
-        "dermatology"
-      ]
-    },
-    {
-      "pmid": "42363651",
-      "title": "Fluorescent Light Energy (FLE) as an Adjunctive Therapy in Canine Cutaneous Epitheliotropic Lymphoma (CTCL).",
-      "journal": "Veterinary Dermatology",
-      "authors": "Nowell S, Fantini O, Roman A, Milley C, Watson J, Bauer C",
-      "date": "2026 06 27",
-      "dateObject": "2026 06 27",
-      "abstract": "Fluorescent light energy (FLE; Phovia, Vetoquinol) is a photobiomodulation therapy that promotes healing and reduces inflammation. Cutaneous epitheliotropic lymphoma (CTCL) is a neoplastic skin disease with limited treatment options. Although FLE is not considered genotoxic, its use in neoplastic conditions is off-label. To assess the safety and clinical effect of FLE as an adjunctive treatment for canine CTCL. Eight client-owned dogs were diagnosed with CTCL via biopsy analysis and immunohistochemical analysis. Each dog had one CTCL lesion treated with FLE with a lesion serving as a vehicle-control. Treatments were administered weekly for 6&#x2009;weeks, followed by 3&#x2009;months follow-up. Focal nodular lesions were assessed weekly using Response Evaluation Criteria of Solid Tumours (RECIST), while diffuse lesions were evaluated using the Canine Epitheliotropic Lymphoma Extent and Severity Index (CELESI). Owner-perceived efficacy and quality of life were assessed using the Owner Global Assessment of Treatment Efficacy (OGATE) and a quality-of-life (QoL) survey. No statistically significant differences in estimated marginal means were observed between sites at any time point (p&#x2009;>&#x2009;0.05). Within-subject analyses suggested more favourable lesion progression at FLE-treated sites, and 75% of RECIST-evaluated FLE lesions maintained stable disease. Diffuse FLE-treated lesions demonstrated clinical severity reductions of &#x2264;&#x2009;35.3%. Over 66% of owners rated treatment response as 'fair' to 'excellent' on the OGATE. One dog was withdrawn at Week 3 as a consequence of unrelated worsening. FLE appears to be a safe adjunctive therapy for canine CTCL, although statistically significant treatment effects were not demonstrated.",
       "categories": [
         "oncology",
         "dermatology"
