@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T04:48:55.894Z",
+  "updated_at": "2026-08-07T23:09:52.276Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -2879,6 +2879,46 @@
       "title": "Clinical and imaging findings after antiviral treatment in cats with presumptive neurologic feline infectious peritonitis: 9 cases (2020-2024).",
       "journal": "Journal of Veterinary Internal Medicine",
       "generated_at": "2026-08-07T04:44:38.038Z",
+      "model": "gpt-5-mini"
+    },
+    "42563163": {
+      "brief_summary": "이 연구는 도옥소루비신(doxorubicin)을 투여받는 29마리의 임상 반려견을 대상으로 Simpson법 유래 좌심실 박출률(LVEF)이 기존의 M-mode 추정 LVEF와 fractional shortening(FS)보다 장기적 수축기 변화 감지에 더 민감한지 평가했다. Simpson법 LVEF는 기저치 72.0±7.3%에서 D3(세 번째 주기 후) 66.5±7.7%로 수치적 감소를 보였으나 개별 시점의 혼합효과 모델에서는 유의한 차이를 보이지 않았다(D1 p=0.183, D2 p=0.618, D3 p=0.206). 그러나 Simpson법 기준 기저치 대비 10%포인트 초과 감소는 29마리 중 9마리(31.0%)에서 관찰되었고, 이들 중 6마리는 기존 지표로는 식별되지 않았다는 점에서 임상 모니터링 시 보완적 정보가 될 수 있음을 시사한다.",
+      "detailed_summary": "전향적 연구로서 29마리의 의뢰 동물(암컷 23마리, 수컷 6마리, 중앙값 연령 10.0세, 중앙값 체중 13.2kg)을 등록하여 도옥소루비신을 단일요법(12마리) 또는 병합요법(17마리)으로 투여했다. 심초음파는 첫 사이클 전(D0)과 연속된 세 사이클 이후(D1, D2, D3)에 시행되었고 주 평가항목은 Simpson법 유래 좌심실 박출률(LVEF), M-mode 추정 LVEF 및 fractional shortening(FS)이었다. Simpson법 LVEF는 기저치 72.0±7.3%에서 D3에 66.5±7.7%로 점차 수치가 낮아지는 경향을 보였으나 혼합효과 모델에서 개별 시점 비교는 통계적으로 유의하지 않았다(D1 p=0.183, D2 p=0.618, D3 p=0.206). M-mode 추정 LVEF와 FS는 유사한 방향성이나 유의한 장기 변화를 보이지 않았다. 흥미롭게도 Simpson법 기준으로 기저치 대비 10%포인트 초과 감소는 9/29마리(31.0%)에서 나타났고, 이들 모두의 절대값은 기존 참조범위 내에 머물렀으며 그중 6마리는 기존 지표로는 발견되지 않았다. 저자들은 Simpson법 유래 LVEF의 기저치 기준 연속 평가가 기존 지표보다 더 많은 수축기 변화를 식별했다고 결론지었지만, 이러한 변화가 심근 손상의 확정적 증거는 아니며 임상적 의미는 더 큰 규모의 전향적 연구로 확인해야 한다는 중요한 제한점을 제시했다.",
+      "title": "Longitudinal echocardiographic systolic changes in dogs receiving doxorubicin-based chemotherapy.",
+      "journal": "BMC Veterinary Research",
+      "generated_at": "2026-08-07T23:09:24.340Z",
+      "model": "gpt-5-mini"
+    },
+    "42564043": {
+      "brief_summary": "이 연구는 제1~제4 경추의 피질 및 해면골 미세구조를 micro-computed tomography(micro-CT)로 분석하기 위해 안락사된 개 20마리(토이견 10, 소형견 10)와 고양이 20마리의 검체를 검사했다. 주요 결과는 토이견과 소형견의 해면골 미세구조는 대체로 유사했으나 토이견의 피질골 평균밀도(mean density)는 유의하게 높았고, 고양이는 토이견에 비해 BS/BV, DA, Tb.Sp가 더 큰 반면 토이견은 BV/TV, Conn. D, Tb.Th, Tb.N 및 mean density가 더 높았다는 점이다. DALR은 그룹 간 차이가 없었다. 이러한 미세구조 차이는 토이견에서 경추의 전반적 안정성이 더 클 수 있음을 시사하며 수술적 접근 선택 시 참고가 될 수 있다.",
+      "detailed_summary": "연구는 micro-CT를 이용해 제1~제4 경추의 피질 및 해면골 미세구조를 비교하는 단면 해부학적 분석이다. 검체는 안락사된 개 20마리(토이견 10, 소형견 10)와 고양이 20마리에서 수집되었다. 분석 항목은 골량분율(BV/TV), 골표면대비골량(BS/BV), 연결밀도(Conn. D), 소주수(Tb. N), 소주두께(Tb. Th), 소주간격(Tb. Sp), 이방성정도(DA), 피질골 평균밀도(mean density), dens-to-axis 길이비(DALR)이다. 결과적으로 토이견과 소형견의 해면골 미세구조는 대체로 유사했으나 토이견의 피질골 평균밀도는 더 높았다. 고양이는 토이견 및 소형견에 비해 BS/BV, DA, Tb.Sp가 더 크게 나타났고, 토이견은 BV/TV, Conn. D, Tb.Th, Tb.N 및 mean density가 더 높게 관찰되었다. DALR은 그룹 간 유의한 차이가 없었다. 초록에는 연구의 제한점이 명시되어 있지 않으며 저자들은 이 미세구조 차이가 임상적 수술 선택에 참고가 될 수 있음을 제시하고 있다.",
+      "title": "Microcomputed tomography examination of the cortical and trabecular structures of the cranial cervical spine in dogs and cats.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-08-07T23:09:13.476Z",
+      "model": "gpt-5-mini"
+    },
+    "42565009": {
+      "brief_summary": "중성화된 7세 암컷 래브라도 리트리버에서 3년간 진행된 외음부 출혈을 주소로 내원한 증례로, 내시경 유도하 생검 후 단극 전기소작술(monopolar electrocautery ablation)을 시행하였다. 복부 전산화단층촬영(CT)에서 질벽의 0.5 cm x 1.0 cm 크기의 비대칭 조영증강 병변이 확인되었고, 조직검사는 종양성을 시사하지 않았다. 시술 후 외음부 출혈이 해소되었고 보고 시점까지 7개월간 재발이 없었다는 점에서 내시경 유도 전기소작이 증례에서 유효했음을 시사한다.",
+      "detailed_summary": "단일 증례 보고로, 7세 중성화 암컷 래브라도 리트리버가 3년간 진행된 질 출혈로 평가받았다. 초기 방광요도내시경(cystourethroscopy) 및 질경(vaginoscopy) 검사에서 미세한 출혈성 병변이 관찰되었고, 1년 후 재평가 시 질벽의 0.5 cm x 1.0 cm 크기의 비대칭 조영증강 병변이 복부 전산화단층촬영(CT)에서 확인되었다. 질경하에서 병변의 조직검사를 시행한 뒤 단극 전기소작술로 증식성 조직을 소작하였다. 조직병리학에서는 만성 중성구·림프형질세포성 질염 및 각화 상피로 덮인 출혈 소견과 중성구 외배출(neutrophilic exocytosis)이 관찰되었으나 악성 세포는 확인되지 않았다. 시술 후 외음부(질) 출혈은 회복되었고 보고 시점인 7개월 추적 동안 재발이 없었다. 단일 증례이므로 원인 규명은 이루어지지 않았고, 결과의 일반화에는 제한이 있다는 점이 중요하다.",
+      "title": "Case Report: Endoscopic-guided electrocautery ablation of a vaginal hemorrhagic lesion in a dog.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-08-07T23:08:58.034Z",
+      "model": "gpt-5-mini"
+    },
+    "42566096": {
+      "brief_summary": "수컷 당나귀(Equus asinus) 정액의 냉동·해동 후 품질 향상을 목적으로 서로 다른 농도의 커큐민(curcumin)을 Tris-egg yolk glycerol 기반 보존액에 첨가해 비교한 연구이다. 여섯 마리 수컷 당나귀에서 채취한 정액을 풀링하여 0, 0.125, 0.25, 0.5, 0.75 mM의 커큐민 처리군으로 나눈 뒤 해동 후 운동성, 생존성, DNA 및 아크로좀(acrosome) 상태, CASA(Computer-Assisted Sperm Analysis) 운동학 및 산화·효소 지표를 평가했다. 결과는 0.5 mM에서 운동성·생존성·DNA·아크로좀 보존과 CASA의 직선성(linearity)·직진성(straightness)이 가장 개선되고 ALT·AST, MDA, NO는 감소하며 CAT(카탈라아제)는 증가하는 것으로 나타나, 0.5 mM 커큐민 첨가가 냉동·해동 당나귀 정액의 산화 손상 및 세포 누출 지표를 낮추고 전반적 품질을 향상시켰음을 시사한다.",
+      "detailed_summary": "연구는 여섯 마리의 수컷 당나귀에서 채취한 정액을 풀링한 샘플을 Tris-egg yolk glycerol 보존액으로 희석·원심분리한 뒤 커큐민 농도별로 분할(C0 0 mM, C1 0.125 mM, C2 0.25 mM, C3 0.5 mM, C4 0.75 mM)하여 냉동·해동 후 평가했다. 평가 항목은 해동 후 운동성 및 CASA 운동학, 생존성, DNA 완전성, 아크로좀 완전성, 효소 유출 지표인 ALT·AST, 지질 과산화물인 MDA, 일산화질소(NO), 항산화 효소 CAT였다. 주요 결과는 0.5 mM( C3 ) 처리군에서 운동성·생존성·DNA 및 아크로좀 완전성, CASA의 linearity 및 straightness 등 운동학 지표가 유의하게 향상된 점이었다. 또한 0.5 mM 처리군에서 ALT와 AST 같은 세포 유출 지표와 MDA 및 NO 같은 산화 스트레스 지표가 감소하고 CAT 수치는 증가하였다. 다른 농도들(0, 0.125, 0.25, 0.75 mM)과 비교했을 때 전반적으로 0.5 mM에서 가장 큰 개선 효과가 관찰되었다. 초록에는 연구의 한계나 장기적/임상적 적용에 대한 구체적 언급은 포함되어 있지 않다.",
+      "title": "Post-thaw quality of donkey (Equus asinus) spermatozoa exposed to different concentrations of curcumin with respect to oxidative status and nitric oxide.",
+      "journal": "Veterinary Research Communications",
+      "generated_at": "2026-08-07T23:09:52.270Z",
+      "model": "gpt-5-mini"
+    },
+    "42566137": {
+      "brief_summary": "이 논문은 노령견의 자연발생 신경퇴행성 질환인 개 인지장애(Canine Cognitive Dysfunction, CCD)의 진단·추적을 위해 뇌척수액(cerebrospinal fluid, CSF) 및 혈중(blood-based biomarkers, BBM) 바이오마커를 종합적으로 검토한 구조화된 서술적 리뷰이다. 주요 결과로는 신경축삭 손상 지표인 신경필라멘트 라이트체(NfL)가 CSF 및 혈장 모두에서 연령에 따라 일관되게 증가하고 인지장애와 상관해 질병 단계판정과 경과관찰에 가장 유망한 후보로 제시된 반면, 아밀로이드-β(amyloid-β, Aβ) 관련 지표(Aβ42 및 Aβ42/Aβ40)는 단계 의존적 비선형 변화를 보였고, 타우(tau) 병변은 신경섬유성 엉킴보다는 시냅스 과인산화 중심으로 진단적 유용성이 제한적이었다. 임상적으로는 Aβ 이상, 축삭 손상, 교세포 활성화를 통합하는 다중모달 접근과 진단기준·검체채취 표준화 및 종적 연구의 필요성이 강조된다.",
+      "detailed_summary": "본 연구는 CCD의 CSF 및 혈중 바이오마커에 관한 문헌을 구조적으로 정리한 서술적 리뷰이다. 검토 대상은 아밀로이드-β(Aβ), 신경필라멘트 라이트체(NfL), 타우(tau), 교세포 표지자인 글리알섬유성단백질(GFAP) 등 주요 바이오마커다. Aβ42 및 Aβ42/Aβ40 비율은 병기별로 단계 의존적인 비선형 변화를 보여 인간의 알츠하이머병(Alzheimer's disease, AD)에서 관찰되는 초기 보상기와 유사한 양상을 보였다. 타우 병변은 풍부한 신경섬유성 엉킴(neurofibrillary tangles)보다는 주로 시냅스 수준의 과인산화(pre-tangle synaptic hyperphosphorylation)에 해당하여 현재로서는 진단적 유용성이 제한된다고 보고되었다. GFAP는 성상교세포 활성화를 반영하는 잠재적 표지자이나 인지기능 저하와의 연관성이 일관되지 않아 탐색적 단계에 머물러 있다. 반대로 NfL은 가장 일관된 증거를 보였으며, CSF와 혈장 모두에서 연령에 따른 상승을 보이고 인지장애와 상관관계를 보이며 중심축삭 병변을 반영하여 병기 설정 및 경과관찰의 유력한 후보로 제시된다. 저자들은 CCD 바이오마커 연구의 진전을 위해 진단 기준의 조화, 검체 채취 표준화, 그리고 종적 연구가 필요하다고 결론지었으며, 이는 CCD의 인간 치매 모델로서의 번역적 가치와 치료개발 가속화에 기여할 것으로 제시되었다.",
+      "title": "Advances in biomarker discovery for canine cognitive dysfunction: a comprehensive structured narrative review and future perspectives.",
+      "journal": "Veterinary Research Communications",
+      "generated_at": "2026-08-07T23:09:41.384Z",
       "model": "gpt-5-mini"
     }
   }

@@ -1,6 +1,65 @@
 {
-  "updated_at": "2026-08-07T04:44:20.245Z",
+  "updated_at": "2026-08-07T23:08:47.755Z",
   "papers": [
+    {
+      "pmid": "42565009",
+      "title": "Case Report: Endoscopic-guided electrocautery ablation of a vaginal hemorrhagic lesion in a dog.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Michalak SR, Palm CA, Woerde DJ, Culp WTN",
+      "date": "2026 08 07",
+      "dateObject": "2026 08 07",
+      "abstract": "A 7-year-old female spayed Labrador retriever was presented for a 3-year history of progressive hemorrhage from the vulva. The dog previously underwent cystourethroscopy and vaginoscopy 1&#x202f;year prior, and a small, raised hemorrhagic lesion was identified in the caudal vaginal wall. Following pinch biopsies of the lesion, bleeding ceased during the remainder of the procedure but recommenced within a week following discharge from the hospital. Histopathology of the vaginal biopsy revealed chronic neutrophilic and lymphoplasmacytic vaginitis. One year later, the dog was reevaluated for persistent and progressive bleeding from the vulva. At that time, dual phase abdominal computed tomography identified a focal, 0.5&#x202f;cm x 1.0&#x202f;cm region of asymmetric contrast enhancement within the vaginal wall. Cystourethroscopy and vaginoscopy identified a progressively enlarged bleeding polypoid mass lesion in the caudodorsal vaginal wall. Biopsy of the lesion followed by monopolar electrocautery ablation of the proliferative tissue was performed. Histopathology revealed hemorrhage lined by a layer of stratified squamous epithelium and neutrophilic exocytosis with no neoplastic cells identified. The underlying etiology of the lesion was not definitively determined. Vulvovaginal bleeding resolved following the procedure and remains resolved at the time of writing 7&#x202f;months later. This case report describes successful endoscopic-guided electrocautery ablation of a vaginal hemorrhagic lesion in a dog.",
+      "categories": [
+        "oncology"
+      ]
+    },
+    {
+      "pmid": "42564043",
+      "title": "Microcomputed tomography examination of the cortical and trabecular structures of the cranial cervical spine in dogs and cats.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Klotz V, Waselau AC, Zablotski Y, Meyer-Lindenberg A",
+      "date": "2026 08 07",
+      "dateObject": "2026 08 07",
+      "abstract": "The microarchitectural structure of the cervical spine in small animals, particularly the cranial cervical spine, has received little attention to date. This study aimed to analyze the trabecular and cortical microarchitecture of the first four cervical vertebrae and to identify potential differences between toy- and small-breed dogs and between toy-breed dogs and cats. The first four cervical vertebrae from 20 euthanized dogs (10 toy-breed dogs and 10 small-breed dogs) and 20 euthanized cats were examined using micro-computed tomography. The following parameters were analyzed: bone volume fraction (BV/TV), bone surface-to-volume ratio (BS/BV), connectivity density (Conn. D), trabecular number (Tb. N), trabecular thickness (Tb. Th), trabecular separation (Tb. Sp), degree of anisotropy (DA), cortical bone density (mean density), and the dens-to-axis length ratio (DALR). Trabecular microarchitecture was largely comparable between toy-breed dogs and small-breed dogs; however, cortical bone density was significantly higher in toy-breed dogs than in small-breed dogs. Compared with toy-breed dogs and cats, cats more frequently exhibited a larger BS/BV, a higher DA, and a larger Tb. Sp. In contrast, toy-breed dogs exhibited higher BV/TV, a higher Conn. D, Tb. Th, Tb. N, and mean density. The DALR did not differ significantly among the groups. These findings suggest greater overall stability of the cervical spine in toy-breed dogs compared to cats. Furthermore, these microarchitectural differences may provide useful criteria for selecting appropriate surgical interventions for affected animals.",
+      "categories": [
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42563163",
+      "title": "Longitudinal echocardiographic systolic changes in dogs receiving doxorubicin-based chemotherapy.",
+      "journal": "BMC Veterinary Research",
+      "authors": "Herrera GC, Mantovani MM, de Castro JR, Veras ADS, Silva MJB",
+      "date": "2026 08 07",
+      "dateObject": "2026 08 07",
+      "abstract": "Doxorubicin is widely used in veterinary oncology but carries a risk of cumulative cardiotoxicity. Serial echocardiographic evaluation is commonly used to monitor dogs receiving potentially cardiotoxic chemotherapy; however, evidence remains limited regarding which indices best capture early longitudinal systolic changes. Conventional monitoring relies largely on fractional shortening and M-mode estimated ejection fraction, which are based on geometric assumptions and may have limited sensitivity for subtle systolic change. This study evaluated whether Simpson-derived left ventricular ejection fraction better captures longitudinal echocardiographic systolic changes than conventional indices in dogs receiving doxorubicin-based chemotherapy. Twenty-nine client-owned dogs were prospectively enrolled, including 23 females and 6 males, with a median age of 10.0 years (IQR, 7.0-11.0) and median body weight of 13.2&#xa0;kg (IQR, 7.0-21.6). Twelve dogs received doxorubicin as monotherapy and 17 received combination protocols. Echocardiography was performed before the first cycle (D0) and after three consecutive cycles (D1, D2, D3). Simpson-derived left ventricular ejection fraction (LVEF) showed a progressive numerical decline from 72.0&#x2009;&#xb1;&#x2009;7.3% at baseline to 66.5&#x2009;&#xb1;&#x2009;7.7% at D3; however, no individual time-point estimate reached statistical significance in the mixed-effects model (D1, p&#x2009;=&#x2009;0.183; D2, p&#x2009;=&#x2009;0.618; D3, p&#x2009;=&#x2009;0.206). M-mode estimated LVEF and fractional shortening did not show comparable directional patterns or significant longitudinal changes. A decline greater than 10% points in Simpson-derived LVEF was identified in 9 of 29 dogs (31.0%), all while absolute values remained within conventional reference limits. Six of these dogs were not identified by either conventional index. Serial, baseline-referenced Simpson-derived LVEF identified more longitudinal echocardiographic systolic changes than conventional indices in this cohort. These findings suggest that Simpson-derived LVEF may provide complementary information for tracking baseline-referenced systolic changes in dogs receiving doxorubicin. However, these changes should not be interpreted as definitive evidence of myocardial injury, and their clinical relevance requires confirmation in larger prospective studies.",
+      "categories": [
+        "cardiology",
+        "oncology"
+      ]
+    },
+    {
+      "pmid": "42566137",
+      "title": "Advances in biomarker discovery for canine cognitive dysfunction: a comprehensive structured narrative review and future perspectives.",
+      "journal": "Veterinary Research Communications",
+      "authors": "Barbosa KA, Ribeiro HM, Benevenuto LGD, Maiorka PC, Cominetti MR, Amorim RM, Cagnini DQ",
+      "date": "2026 08 07",
+      "dateObject": "2026 08 07",
+      "abstract": "Canine Cognitive Dysfunction (CCD) is a naturally occurring neurodegenerative syndrome in aging dogs that shares clinical and neuropathological parallels with Alzheimer's disease (AD). As the demand for objective diagnostic tools grows, identifying reliable biofluid biomarkers is essential for clinical staging and therapeutic monitoring. This review synthesizes evidence on cerebrospinal fluid (CSF) and blood-based biomarkers (BBM) of CCD, focusing on amyloid-&#x3b2; (A&#x3b2;), neurofilament light chain (NfL), tau, and glial fibrillary acidic protein (GFAP). Evidence shows that A&#x3b2;42 and A&#x3b2;42/A&#x3b2;40 ratios exhibit stage-dependent, non-linear alterations resembling early compensatory phases in human AD. In contrast, tau pathology in CCD consists mainly of pre-tangle synaptic hyperphosphorylation rather than abundant neurofibrillary tangles, limiting its current diagnostic utility. GFAP, a marker of astroglial activation, shows inconsistent associations with cognitive decline and remains exploratory. Conversely, NfL has emerged as the most robust biomarker; CSF and plasma NfL levels consistently increase with age, correlate with cognitive impairment, and reflect central axonal pathology, making it the leading candidate for staging and monitoring disease progression. Overall, the CCD biomarker landscape supports a multimodal approach integrating A&#x3b2; dysregulation, axonal injury, and glial activation. Advancing this field requires harmonized diagnostic criteria, standardized sampling, and longitudinal studies. Such efforts will strengthen the translational value of CCD as a model for human dementia, accelerating discovery and therapeutic development across species.",
+      "categories": [
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "42566096",
+      "title": "Post-thaw quality of donkey (Equus asinus) spermatozoa exposed to different concentrations of curcumin with respect to oxidative status and nitric oxide.",
+      "journal": "Veterinary Research Communications",
+      "authors": "Abdelnaby EA, Alhaider AK, Al Qarnin HS, Fadl AM, Emam IA",
+      "date": "2026 08 07",
+      "dateObject": "2026 08 07",
+      "abstract": "Donkey sperm cryopreservation is a critical tool for preserving male fertility. But freezing and thawing could adversely affect sperm quality. There is limited information available regarding curcumin supplementation with different doses in sperm cryopreservation in donkeys. This study aimed to determine the alterations in post-thaw motility, viability, DNA integrity, acrosome integrity, and sperm kinematic parameters in relation to enzymatic leakage and nitric oxide levels in response to the addition of different doses of curcumin to the extender in male donkeys. Ejaculates were collected after semen collection from six male donkeys and then pooled. Samples were diluted with Tris-egg yolk glycerol extender. After centrifugation, pellet was diluted with an extender and divided into the five main groups containing curcumin at different concentrations, as C0 (control; 0 mM), C1 (0.125 mM), C2 (0.25 mM), C3 (0.5 mM), and C4 (0.75 mM). Semen quality was measured after thawing via CASA kinematic assessment and enzymatic leakage, such as alanine and aspartate aminotransferase levels (ALT and AST). Malondialdehyde (MDA), nitric oxide (NO), and catalase (CAT) levels were measured. Results revealed a significant elevation in motility, viability, DNA integrity, acrosome integrity, and CASA parameters with a linearity and straightness of sperm when curcumin was added at a concentration of 0.5 mM compared to others. AST, ALT, MDA, and NO levels were significantly declined at 0.5 mM of curcumin, with an elevation of CAT levels. The addition of curcumin improved sperm motility, kinematic parameters, viability, acrosome integrity, DNA integrity, antioxidant activity (CAT), and reduced both oxidative stress-related markers (MDA and NO), and cellular leakage markers (ALT and AST). Greatest improvements were observed at a curcumin concentration of 0.5 mM with a Tris-egg yolk glycerol extender of frozen-thawed donkey spermatozoa.",
+      "categories": []
+    },
     {
       "pmid": "42561146",
       "title": "Clinical and imaging findings after antiviral treatment in cats with presumptive neurologic feline infectious peritonitis: 9 cases (2020-2024).",
@@ -763,31 +822,6 @@
       "date": "2026 07 29",
       "dateObject": "2026 07 29",
       "abstract": "L-CHOP (L-asparaginase, cyclophosphamide, doxorubicin, vincristine, prednisone) is the standard therapy for lymphoma in dogs, but relapse and limited long-term survival are common. Given the radiosensitivity of lymphoma, sequential half-body radiotherapy (HBRT) has been investigated to improve outcomes. Evaluate progression-free survival (PFS), overall survival (OS), and adverse events in dogs treated with a no-maintenance L-CHOP protocol combined with low-dose-rate (LDR, 6&#xa0;Gy; 8-14&#xa0;cGy/min) HBRT compared to L-CHOP alone. Client-owned dogs with intermediate- to high-grade multicentric lymphoma treated with L-CHOP-LDR-HBRT or a 6-month&#xa0;L-CHOP protocol (controls). Medical records were retrospectively reviewed in this case-control study. Adverse events were graded using VCOG-CTCAE v2 (Veterinary Cooperative Oncology Group-Common Terminology Criteria for Adverse Events guidelines) criteria. Seventy-five dogs received L-CHOP-LDR-HBRT and were compared with 115 controls. Median PFS and OS for the L-CHOP-LDR-HBRT group were 532&#xa0;days (95% confidence interval [CI], 389-782) and 752&#xa0;days (95% CI, 526-963), significantly longer than in controls (296&#xa0;days [95% CI, 260-331] and 457&#xa0;days [95% CI, 382-553], respectively, P&#xa0;<&#xa0;.0001). A delay in irradiating the caudal half negatively affected PFS and OS. Adverse event data were available for 30 dogs treated with L-CHOP-LDR-HBRT; most were low-grade, with grade 3 and 4 toxicities occurring in 4.5% of all administered treatments. One dog required hospitalization after HBRT. Dose reductions and treatment delays were observed in 39 and 74 instances, respectively, over the 28-week protocol in this cohort. Combining L-CHOP with LDR-HBRT, without maintenance chemotherapy, might substantially extend PFS and OS over L-CHOP alone in dogs with multicentric lymphoma, with predominantly mild, manageable toxicities.",
-      "categories": [
-        "internalMedicine",
-        "oncology"
-      ]
-    },
-    {
-      "pmid": "42524264",
-      "title": "A placebo-controlled study of an herbal compound used for management of lower urinary tract disease in healthy cats.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Martin CE, Bartges JW, English CF, Shaw AP, Cox SK",
-      "date": "2026 07 29",
-      "dateObject": "2026 07 29",
-      "abstract": "Cystolithiasis is a common cause of feline lower urinary tract signs (LUTS). Urinary relative supersaturation (RSS) can be used to estimate an animal's risk of crystallogenesis and urolithiasis, with high RSS values representing a potential increased risk of calculogenesis. Objectives were to determine whether an herbal supplement when compared with a placebo would decrease urinary excretion of electrolytes and minerals, increase urine volume, and decrease urine RSS for struvite (RSS S), calcium oxalate monohydrate (RSS COM), and calcium oxalate dihydrate (RSS COD). A randomized cross-over study in which 7 healthy male cats aged 10 months to 5 years received a herbal supplement or placebo for 2 weeks, followed by a five-day washout preceding the crossover treatment period. Voided 24-h urine samples were analyzed for pH and concentrations of sodium, potassium, chloride, calcium, phosphorus, magnesium, ammonia, oxalate, and citrate. RSS COM and RSS COD, and urine volumes were compared between supplement and placebo administration. Six cats were included due to incomplete urine collection from one cat. Urine pH and analyte concentrations, 24-h urinary analyte excretions except phosphorus, which was decreased, and RSS COM and RSS COD did not differ between treatments. Struvite RSS was significantly lower in animals treated with the herbal supplement ( p = 0.04). Significantly lower RSS S with the herbal supplement suggests that it may be useful in preventing struvite crystallogenesis and calculogenesis in cats. This may be important for young to middle-aged cats (ages 1-7 years), who are at greatest risk for struvite crystal-associated lower urinary tract disease.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42523665",
-      "title": "Urinary metabolite profiles differ by tumor size and malignancy in dogs with mammary tumors.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Moore R, Estrela-Lima A, Turunen S, Holm SV, Lehtonen M, K&#xe4;rkk&#xe4;inen O, Hielm-Bj&#xf6;rkman A",
-      "date": "2026 07 29",
-      "dateObject": "2026 07 29",
-      "abstract": "Urine metabolomics may offer a non-invasive way to detect systemic metabolic alterations associated with canine mammary tumors, but previous studies have been few and have not accounted for diet as a potential confounder. In this observational case-control study, urine from 118 client-owned female dogs in Finland was analyzed by untargeted liquid chromatography-mass spectrometry, including 71 dogs with mammary tumors and 47 tumor-free controls. Case dogs were further evaluated by tumor malignancy (28 benign, 27 malignant, 16 with both benign and malignant tumors), tumor size (53 small, 12 medium, 6 large), and tumor number (43 single, 28 multiple). Statistical models were adjusted for diet, age, body size, and sterilization status. After covariate adjustment, no features remained significant in the overall case-control comparison or in analyses of tumor number, whereas tumor size showed the clearest signal. Three features remained significant in the covariate-adjusted analysis of variance for tumor size, and per-contrast linear models identified four false discovery rate-significant urinary features associated with tumor size and four associated with tumor malignancy. All showed lower intensities in tumor-bearing dogs than in controls. Hippurate was the most robust and consistently supported finding, with lower levels in dogs with large tumors. Several unknown aromatic and sulfur-containing features covaried with hippurate and tumor size, suggesting a broader host metabolic response. Exploratory pathway analysis indicated glucose homeostasis as the strongest enrichment signal in adjusted models, although this did not remain significant after false discovery rate correction. Adjustment for diet and other background variables substantially reduced the number of significant findings, highlighting the importance of accounting for physiological and environmental variation in veterinary metabolomics. Urine metabolomics detected a limited but biologically plausible metabolic signature associated primarily with tumor size rather than with overall case-control status or tumor number. Hippurate and a small set of unknown features emerged as candidate urinary markers of tumor-associated systemic metabolic change, supporting the value of urine as a non-invasive matrix for studying canine mammary tumors while underscoring the need for careful covariate control.",
       "categories": [
         "internalMedicine",
         "oncology"
@@ -2587,18 +2621,6 @@
       ]
     },
     {
-      "pmid": "42400684",
-      "title": "Bilateral distal femoral trochlear block migration after medial patellar luxation surgery in a dog.",
-      "journal": "Veterinary Research Communications",
-      "authors": "McNabney DM, Irandoust S, Bruecker K, Muir P",
-      "date": "2026 07 04",
-      "dateObject": "2026 07 04",
-      "abstract": "The objective of this study was to describe management of a 2-year-old neutered male mixed breed dog with bilateral trochlear block recession migration with unilateral revision surgery. This is a rarely reported complication of a common surgical procedure. A 3D model segmented from a computed tomography scan using Mimics was performed before surgery to help determine whether surgical reduction of the osteochondral trochlear block fragments was feasible and preoperative press fit was acceptable. Subsequently, the trochlear block fragment in the left stifle was surgically reduced. During surgery, the osteochondral fragment was maintained in reduction with a transcondylar Kirschner wire because of imperfect press fit. The right stifle with trochlear block migration was treated medically. Short-term follow-up examination at 5 and 8 weeks revealed improvement in lameness after surgery. 3D modeling was also used to investigate potential underlying causes for bilateral block recession migration which was determined to be multi-factorial with excessive sulcoplasty depth being an important reason promoting risk of migration. During planning for femoral trochlear block recession sulcoplasty, it is important for the cut to be deep enough to help minimize risk of reluxation of the patella. However, press-fit of the osteochondral fragment is impaired when the depth of the recession sulcoplasty is excessive.",
-      "categories": [
-        "surgery"
-      ]
-    },
-    {
       "pmid": "42365928",
       "title": "Imaging diagnosis of intrauterine fetal death in a cat with singleton pregnancy.",
       "journal": "Topics in Companion Animal Medicine",
@@ -2644,18 +2666,6 @@
       "date": "2026 07 03",
       "dateObject": "2026 07 03",
       "abstract": "Canine babesiosis is a significant and emerging tick-borne disease caused by Babesia spp. This study investigated the molecular prevalence, hematobiochemical profiles, and risk factors for B. vogeli and B. gibsoni infections in dogs in northern India, addressing the molecular research on babesiosis prevalence in this region. An overall prevalence of canine babesiosis by microscopy and PCR was 12.5% (27/216) and 27.78% (60/216), respectively. The prevalence rates for B. vogeli by microscopy and conventional PCR were 10.64% and 22.22%, respectively, whereas the corresponding rates for B. gibsoni were 1.85% and 5.55%, respectively. Results revealed that B. vogeli was the predominant species. Non-descript dogs were significantly more susceptible to B. vogeli infection (OR: 27.491; 95% CI: 1.092-692.018; P&#x2009;<&#x2009;0.05). Additionally, dogs with enlarged lymph nodes were three times more likely to be B. vogeli-positive (OR&#x2009;=&#x2009;3.338; 95% CI: 1.345-8.287; P&#x2009;<&#x2009;0.05). Dogs under one year had higher odds of B. vogeli infection, but this was not statistically significant (OR&#x2009;=&#x2009;1.765; 95% CI: 0.663-4.703). Similarly, B. gibsoni infection was associated with dogs over four years old (P&#x2009;<&#x2009;0.001) and males (P&#x2009;<&#x2009;0.05). Vital parameters (temperature, pulse rate, and respiration rate) showed no significant association with B. vogeli and B. gibsoni infections. Hematological parameters, viz., hemoglobin (Hb), total erythrocyte count (TEC), packed cell volume (PCV), and platelet count, were significantly decreased in both B. vogeli and B. gibsoni affected dogs (P&#x2009;<&#x2009;0.05). Babesia gibsoni-infected dogs had significantly lower TEC, PCV, and platelet count than B. vogeli-infected dogs. Biochemical parameters, viz., alanine aminotransferase (ALT), total bilirubin (TB), direct bilirubin (DB), indirect bilirubin (IDB), and blood urea nitrogen (BUN), were significantly increased, with decreased albumin levels (P&#x2009;<&#x2009;0.05). Babesia gibsoni-infected dogs had significantly higher BUN, TB, and IDB levels than B. vogeli-infected dogs. Treatment was based on the Babesia species, with imidocarb dipropionate for B. vogeli and a combination therapy (diminazene aceturate, imidocarb dipropionate, and clindamycin) for B. gibsoni, which showed promising efficacy. The study highlighted the importance of accurate diagnosis and species-specific treatment for canine babesiosis, with B. vogeli being more prevalent (22.22%) than B. gibsoni (5.55%), and distinct risk factors and clinical implications for each Babesia species in northern India. These findings contribute to the understanding of Babesia epidemiology in the region and highlight the need for further studies to inform the development of targeted control strategies.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42397463",
-      "title": "First case of canine paraprostatic infection caused by a high-risk ST147 Klebsiella pneumoniae harboring multiple extended-spectrum-&#x3b2;-lactamase genes.",
-      "journal": "Veterinary Research Communications",
-      "authors": "Gaeta NC, da Rosa Filho RR, do Amaral CV, Honda WS, Alves JG, do Nascimento LM, de Oliveira Ghirelli C, Haisi A, Ara&#xfa;jo JP",
-      "date": "2026 07 03",
-      "dateObject": "2026 07 03",
-      "abstract": "Multidrug-resistant (MDR) Klebsiella pneumoniae, particularly high-risk clones such as sequence type (ST) 147, have been increasingly reported worldwide. However, data on their occurrence in reproductive disorders of companion animals remain limited. This study describes, for the first time, an extended-spectrum &#x3b2;-lactamase (ESBL)-producing K. pneumoniae ST147 isolated from a canine paraprostatic abscess. The isolate (UNISA-DOG-2025) was characterized by antimicrobial susceptibility testing and whole-genome sequencing. Phenotypic analysis revealed an MDR profile, supported by the detection of multiple resistance genes, including &#x3b2;-lactamases (bla CTX-M-8 , bla CTX-M-15 , bla OXA-1 , bla OXA-9 ), as well as determinants conferring resistance to aminoglycosides, quinolones, sulfonamides, tetracyclines, and trimethoprim. Several of these genes were located on an in silico predicted conjugative IncM1 plasmid, suggesting potential for horizontal dissemination. Phylogenomic analysis demonstrated close relatedness to globally distributed ST147 strains, predominantly associated with human infections. To our knowledge, this is the first report of K. pneumoniae ST147 causing a canine paraprostatic abscess. These findings highlight the clinical relevance of MDR Enterobacterales in canine reproductive disorders and reinforce the need for antimicrobial stewardship and genomic surveillance in veterinary medicine.",
       "categories": [
         "internalMedicine"
       ]
@@ -2820,18 +2830,6 @@
         "internalMedicine",
         "oncology",
         "surgery"
-      ]
-    },
-    {
-      "pmid": "42337529",
-      "title": "Multilayered nucleotide organization reveals purifying selection and host-driven adaptation in CPV and FPV.",
-      "journal": "BMC Veterinary Research",
-      "authors": "Feng X, Xu L, Zhang C, Zhou J, Bai X",
-      "date": "2026 06 24",
-      "dateObject": "2026 06 24",
-      "abstract": "Since feline panleukopenia virus (FPV) is considered the most likely ancestor of canine parvovirus (CPV), comprehensive comparisons of nucleotide organization in corresponding viral genes between CPV and FPV may provide novel insights into the evolutionary dynamics underlying the divergence of these two viruses. Here, we characterize the evolutionary patterns of CPV and FPV genes across multiple levels of nucleotide organization. Both viruses exhibited highly conserved nucleotide usage at nonsynonymous sites, with Ka/Ks patterns consistent with strong purifying selection, whereas synonymous sites showed greater variability. CpG dinucleotides were markedly underrepresented across all four viral genes, suggesting host-associated selective pressure and/or intrinsic nucleotide compositional constraints. Extensive nonrandom biases in synonymous codon usage, codon neighboring nucleotide context, and codon pair usage further revealed fine-scale genomic optimization shaped by natural selection and nucleotide compositional constraints. Structural protein genes (VP1 and VP2) displayed stronger codon usage bias and higher tRNA adaptation than nonstructural genes. Moreover, CPV genes showed greater translational adaptation to feline hosts than to canine hosts. These findings highlight how closely related parvoviruses exploit flexible nucleotide organization to facilitate host adaptation while maintaining essential protein functions.",
-      "categories": [
-        "internalMedicine"
       ]
     },
     {
