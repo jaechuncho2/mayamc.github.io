@@ -1,6 +1,40 @@
 {
-  "updated_at": "2026-08-07T23:08:47.755Z",
+  "updated_at": "2026-08-08T22:13:25.112Z",
   "papers": [
+    {
+      "pmid": "42569037",
+      "title": "Assessment of the knowledge, attitudes and practices level on toxoplasmosis and its seroprevalence in selected high-risk groups in Cebu, Philippines.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Yba&#xf1;ez AP, Sabanate GB, Garciano SL, Destajo RH, Yba&#xf1;ez RHD, Nishikawa Y, Portugaliza HP",
+      "date": "2026 08 08",
+      "dateObject": "2026 08 08",
+      "abstract": "Toxoplasmosis, a zoonotic disease caused by Toxoplasma gondii , poses significant health risks, especially to high-risk individuals who are exposed to cats. This study aimed to assess the knowledge, attitudes, and practices (KAP) related to toxoplasmosis and determine its seroprevalence among selected high-risk groups in Cebu, Philippines-specifically veterinary students, veterinary personnel, and cat owners. A total of 416 participants completed a structured questionnaire evaluating their demographics, exposure history, and KAP levels, while 250 underwent further rapid serological testing for T. gondii . Results of the relative proportions revealed that there were more veterinary students who were having high level of knowledge (61%), compared to veterinary personnel (46%) and cat owners (24%). Relative proportions revealed that there were more veterinary students who were having high level of knowledge (61%), compared to veterinary personnel (46%) and cat owners (24%). Similar pattern was observed in the attitude level for veterinary students (54%), veterinary personnel (36%) and cat owners (32%). However, practice level showed that more veterinary personnel (54%) had high level than the veterinary students (35%) and cat owners (35%). The over-all seroprevalence of T. gondii was 29.2%, with the highest relative detection rates among veterinary personnel (43.8%) and cat owners (39%). While statistical analyses revealed no significant differences between the KAP levels of the three groups, significant associations between seropositivity and profile variables, including age, educational attainment, previous medical history, and frequency of cat contact ( P &#x2264; 0.05) were found. These results highlight the need for sustained public education, improved veterinary and public health training, responsible pet ownership, and better access to diagnostic services.",
+      "categories": []
+    },
+    {
+      "pmid": "42567185",
+      "title": "Transcatheter arterial embolization for massive hepatocellular carcinoma in 18 dogs (2020-2025).",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Kadowaki K, Nishimura S, Toyoda A, Yamamoto R",
+      "date": "2026 08 07",
+      "dateObject": "2026 08 07",
+      "abstract": "To report tumor response, complications, outcomes, and extrahepatic collateral arterial supply presence in dogs with massive hepatocellular carcinoma (HCC) treated with transcatheter arterial embolization (TAE). 18 dogs diagnosed with massive HCC. All dogs underwent contrast-enhanced CT and pretreatment histopathologic confirmation by laparoscopic biopsy (n = 1) or ultrasound-guided needle core biopsy (17). Tumor response was assessed using percentage of change in tumor volume on CT before TAE and 1 to 3 months after TAE. Post-TAE tumor response was classified as partial response in 9 of 18 (50.0%), stable disease in 6 of 18 (33.3%), and progressive disease in 1 of 18 (5.6%). Two dogs (11.1%) died within 2 weeks after TAE. The median percentage of change in tumor volume, excluding those 2 dogs, was -32.6%. Extrahepatic collateral arterial supplies to tumors were identified in 13 of 18 (72.2%), including the gastroepiploic (22.2%), right phrenic (22.2%), left phrenic (27.8%), pancreatic (16.7%), and mesenteric (5.6%) arteries. Collateral supply from 2 and 3 vessels was observed in 3 of 18 (16.7%) and 1 of 18 (5.6%), respectively; second TAE was performed in 2 of 18 (11.1%) and hepatic lobectomy after TAE in 4 of 18 (22.2%) cases. Postoperative complications included mild diarrhea (77.8%), anorexia (61.1%), mild anemia (16.7%), and acute gallbladder infarction (11.1%) etc. Both cases of gallbladder infarction were asymptomatic with good clinical outcomes. Median survival time was 447 days, including all 18 dogs. Transcatheter arterial embolization achieved disease control in most dogs and often involved extrahepatic collaterals. TAE may be a useful option in selected dogs with massive HCC.",
+      "categories": [
+        "internalMedicine",
+        "oncology",
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42567197",
+      "title": "Isorhythmic atrioventricular dissociation detected during anesthesia in a geriatric cat.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Sugimoto K, Fujiwara K, Tsuji K, Miyazaki M, Kobayashi K, Kanda T",
+      "date": "2026 08 07",
+      "dateObject": "2026 08 07",
+      "abstract": "",
+      "categories": []
+    },
     {
       "pmid": "42565009",
       "title": "Case Report: Endoscopic-guided electrocautery ablation of a vaginal hemorrhagic lesion in a dog.",
@@ -743,19 +777,6 @@
       "categories": []
     },
     {
-      "pmid": "42044674",
-      "title": "High-flow nasal oxygen therapy reduces work of breathing without altering systemic oxygen delivery or consumption in healthy, anesthetized, spontaneously breathing dogs.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Namgoong B, Seo D, Lee N, Lim S, Kim I, Heo S, Kang J, Kim C, Shin H, Park S, Park J, Her J, Kim MS",
-      "date": "2026 07 31",
-      "dateObject": "2026 07 31",
-      "abstract": "To determine whether high-flow nasal oxygen therapy (HFNOT) reduces esophageal pressure-derived work of breathing (WOB) indices and alters systemic oxygen balance in healthy, anesthetized, spontaneously breathing dogs. In a prospective, randomized, crossover experimental study, 6 healthy adult Beagles received HFNOT at 0 (control), 1, or 2 L/kg/min (fraction of inspired oxygen, 0.21) under alfaxalone total IV anesthesia, with &#x2265; 7-day washout periods. Measurements were obtained at baseline and 10, 20, and 30 minutes after flow initiation. Primary outcomes were esophageal pressure swing and esophageal pressure-rate product. Oxygen delivery index, oxygen consumption index, and oxygen extraction ratio were calculated using Fick-derived methods and thermodilution cardiac output. At 2 L/kg/min, esophageal pressure-rate product decreased from 134.9 &#xb1; 49.7 cm H2O&#xb7;breaths/min at baseline to 50.6 &#xb1; 21.1 cm H2O&#xb7;breaths/min, 54.6 &#xb1; 22.9 cm H2O&#xb7;breaths/min, and 48.7 &#xb1; 23.8 cm H2O&#xb7;breaths/min at 10, 20, and 30 minutes after initiation, respectively; esophageal pressure swing decreased from 7.1 &#xb1; 2.1 cm H2O to 4.7 &#xb1; 1.9 cm H2O at 10 minutes after initiation. The respiratory rate decreased during the 1- and 2-L/kg/min sessions. In contrast, oxygen delivery index, oxygen consumption index, oxygen extraction ratio, arterial oxygen saturation of hemoglobin, and mixed venous oxygen saturation of hemoglobin remained stable across flow conditions and time points. HFNOT at 2 L/kg/min reduced surrogate indices of WOB without altering systemic oxygen delivery or consumption in healthy anesthetized dogs. HFNOT may reduce respiratory effort independently of changes in oxygen metabolism, supporting its physiological safety and potential role in modulating breathing mechanics in veterinary patients.",
-      "categories": [
-        "cardiology",
-        "internalMedicine"
-      ]
-    },
-    {
       "pmid": "42536135",
       "title": "Retrospective Review of Rush Allergen-Specific Immunotherapy Safety in Cats With Atopic Skin Syndrome.",
       "journal": "Veterinary Dermatology",
@@ -800,18 +821,6 @@
       "abstract": "This case is the first to describe a selective immunoglobulin A deficiency (sIgAD) in a Bernadoodle with recurrent multi-drug-resistant (MDR) pneumonia and a chronic enteropathy. The patient experienced chronic coughing and regurgitation from puppyhood, and advanced imaging and endoscopic procedures documented MDR Bordetella bronchisceptica (Bb) and Mycoplasma infections. Serum immunology testing documented sIgAD. Clinical signs have been well-managed with long-term prophylactic antibiotics, anti-inflammatory steroids, probiotics, and hydrolyzed protein diet. Low serum IgA levels have not been previously documented in the Bernese Mountain dog nor designer cross breeds, such as the Bernadoodle.",
       "categories": [
         "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42528677",
-      "title": "Quantitative myocardial mapping using 3.0&#x202f;T cardiac magnetic resonance imaging in dogs: adenosine stress-rest evaluation.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Lee CE, Lee K, Yoon H",
-      "date": "2026 07 30",
-      "dateObject": "2026 07 30",
-      "abstract": "High-field cardiac magnetic resonance imaging (MRI) enables noninvasive assessment of myocardial tissue characteristics in anesthetized dogs; however, adenosine stress myocardial mapping at 3.0&#x202f;T remains insufficiently characterized. This study evaluated stress-rest changes and level-dependent variation in quantitative myocardial mapping indices. Seven clinically asymptomatic dogs not receiving cardiac medications underwent 3.0&#x202f;T cardiac MRI under general anesthesia in this prospective observational methodological study. Each dog completed two left ventricular myocardial mapping sessions (adenosine stress and rest) separated by &#x2265;48&#x202f;h. During stress, adenosine was infused at 140&#x202f;&#x3bc;g/kg/min. T1 native, T1 post, T2, and extracellular volume fraction (ECV) were acquired at basal, mid, and apical short-axis levels. Stress-rest differences were tested with the Wilcoxon signed-rank test, and basal-mid-apical differences were assessed using generalized estimating equations (GEE) ( p &#x202f;<&#x202f;0.05). Under adenosine stress, global T1 native and T2 were 6.73 and 10.16% higher than at rest, whereas global T1 post and ECV did not change significantly. Level-wise analyses showed basal predominance for T1 native, a modest stress-only basal-mid difference for ECV, and lower basal T2 at rest. At 3.0&#x202f;T, adenosine stress was associated with measurable increases in myocardial T1 native and T2 in anesthetized dogs, supporting further evaluation of protocol-specific, stress-associated mapping responses without relying solely on contrast-enhanced indices. Because mapping values varied across basal, mid, and apical levels, myocardial sampling level should be considered when interpreting or comparing canine stress-rest maps.",
-      "categories": [
-        "cardiology"
       ]
     },
     {
@@ -1788,18 +1797,6 @@
       "dateObject": "2026 07 20",
       "abstract": "To compare the utility of premade plastic versus thermoplastic splints when applied by novice practitioners. 15 bandagers used 2 types of premade splint materials to place hock splints on cadavers. Each participant was instructed to place 2 hind limb splints on a canine cadaver using a premade plastic splint on one side and thermoplastic splint on the other side. The time to place each splint was self-recorded. Participants filled out a questionnaire after splint placement. A single surgeon judged the splints with a qualitative scoring system, which was used to determine whether splints were clinically acceptable. The mean &#xb1; SD time it took to place the splints was 9.4 &#xb1; 2.1 minutes for premade splints and 12.0 &#xb1; 2.3 minutes for thermoplastic splints. Seven participants (47%) preferred the premade splints and 8 (53%) preferred the thermoplastic splints. The premade splint was scored as superior in 10 of 15 cadavers (67%), the thermoplastic splint was scored as superior in 4 of 15 cadavers (27%), and both were equal in 1 cadaver (10%). Four of the 15 premade splints (26%) and 3 of the 15 thermoplastic splints (20%) were deemed clinically acceptable. Premade and thermoplastic splints were comparable to each other for novices, but there was a low number of clinically acceptable splints. Splint types had similar utility for use in practice, but overall splint placement skill needs improvement.",
       "categories": []
-    },
-    {
-      "pmid": "41759291",
-      "title": "Plating canine urine cultures in the veterinary clinic.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Grady J, Sample K, Okumura M, Freeman N, Fellman C, Cole S",
-      "date": "2026 07 20",
-      "dateObject": "2026 07 20",
-      "abstract": "To demonstrate a technique for plating and incubating canine urine cultures in-house as a screening tool for bacteriuria. Urine samples from dogs presenting for urinary conditions. The clinic's laboratory space should comply with biosafety level 2 requirements. Urine samples should be collected via cystocentesis or sterile urinary catheter. A sterile 1-&#xb5;L inoculating loop is used to streak the urine onto both sides of a tryptic soy agar with 5% sheep's blood and MacConkey agar biplate. The plate is kept in a benchtop incubator at 35 to 37 &#xb0;C for 16 to 24 hours, then checked for growth. Positive plates may be submitted to a reference laboratory for species identification and susceptibility testing. Alternatively, following identification of in-house bacterial growth, a urine sample stored in the refrigerator for no longer than 48 hours may be submitted for culture and susceptibility (C&S) testing. In-house urine culture provides an inexpensive way to accurately rule out bacteriuria as a cause for urinary conditions in dogs. The majority (70% to 80%) of canine urine cultures yield no growth. In patients with suspected urinary tract disease, avoiding reference laboratory C&S submission for negative samples allows client resources to be directed to additional diagnostics and treatments. In-house urine culture is an inexpensive screening tool for bacteriuria, which promotes antimicrobial stewardship, responsible use of client resources, and access to veterinary care. Positive in-house culture plates may still be accurately submitted for C&S once growth is confirmed.",
-      "categories": [
-        "internalMedicine"
-      ]
     },
     {
       "pmid": "42474547",
