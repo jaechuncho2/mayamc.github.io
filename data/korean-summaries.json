@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T22:14:10.884Z",
+  "updated_at": "2026-08-09T22:59:57.596Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -2935,6 +2935,22 @@
       "title": "Assessment of the knowledge, attitudes and practices level on toxoplasmosis and its seroprevalence in selected high-risk groups in Cebu, Philippines.",
       "journal": "Frontiers in Veterinary Science",
       "generated_at": "2026-08-08T22:13:46.267Z",
+      "model": "gpt-5-mini"
+    },
+    "42569194": {
+      "brief_summary": "증례보고로, 10세 이상, 중성화된 수컷 잡종견(체중 6kg)에서 재발한 우측 회음부 탈장과 직장 팽대에 따른 변비를 치료한 사례를 보고한다. 골반 근육의 심한 위축으로 인해 대퇴근막(fascia lata) 전위술을 시행했고, 수술 후 발생한 직장 탈출은 복강경하 대장고정술(laparoscopic colopexy)로 교정하였다. 두 술식 후 배뇨·배변·보행·창상 치유 관련 합병증 없이 식욕과 활동성이 양호하였고, 27개월 추적관찰에서 임상 증상이 없었다. 이 증례에서는 근육 재건이 불가능한 복잡한 회음부 탈장에 대퇴근막 전위술이 유효했으며, 소형견의 직장 탈출에 복강경하 대장고정술이 실용적 대안으로 제시되었다.",
+      "detailed_summary": "단일 증례보고로 10세 이상 중성화된 수컷 잡종견(6kg)이 이전에 양측 탈장교정술을 받은 후 재발한 우측 회음부 탈장과 직장 팽대로 내원하였다. 수술 중 골반 근육의 심한 위축이 확인되어 근육 재건이 어렵다고 판단, 대퇴근막(fascia lata) 전위술을 시행하였다. 전위술 후 직장 탈출이 발생하여 복강경하 대장고정술(laparoscopic colopexy)로 추가 치료를 시행하였다. 두 술식 이후 식욕과 활동성은 양호하였고 배뇨·배변·보행·창상 치유와 관련된 합병증은 관찰되지 않았다. 추적관찰 기간은 27개월로, 그 시점까지 임상 증상 재발은 없었다. 저자들은 이 증례에서 대퇴근막 전위술이 근육이 부족한 복잡한 회음부 탈장에 효과적이었고, 복강경하 대장고정술이 소형견의 직장 탈출에 실용적인 치료 옵션임을 보고하였다.",
+      "title": "Case Report: Fascia lata transposition for chronic recurrent perineal hernia followed by laparoscopic colopexy for subsequent rectal prolapse in a dog.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-08-09T22:59:57.589Z",
+      "model": "gpt-5-mini"
+    },
+    "42569263": {
+      "brief_summary": "후향적 다기관 연구로 고양이 동맥 색전증(FATE)에서 정맥 내 tissue plasminogen activator(TPA) 전신 용해요법을 받는군과 받지 않는군을 비교했다. TPA군은 임상적 재관류(54% vs 20%, p<0.001)와 기능적 회복(36% vs 14%, p=0.008) 비율이 유의하게 높았으나 퇴원 생존률은 유의한 차이가 없었다(34% vs 35%, p>0.999). TPA 치료군에서 병원 내 급사의 비율이 유의하게 높아(전체 TPA군의 46%, p=0.002) 재관류 관련 합병증, 특히 고칼륨혈증에 대한 주의가 필요함을 시사한다.",
+      "detailed_summary": "2007–2020년 두 수의과 병원 전자의무기록을 후향적으로 검토하여 총 183마리의 FATE 고양이를 확인했고, 초기 임상에서 안락사를 시행한 68마리(조기 안락사율 37%)와 기록 불충분 8마리를 제외한 115마리에서 TPA군과 비TPA군을 비교했다. 입원 시 두 군은 동질적이었다고 보고되었다. 입원 중 임상적 재관류율은 TPA군이 54%로 비TPA군 20%에 비해 유의하게 높았다(p<0.001). 기능적 회복(자발적 보행)은 TPA군 36% 대 비TPA군 14%로 TPA군에서 더 빈번했다(p=0.008). 급성 신손상(AKI)과 고칼륨혈증 비율은 각각 10% vs 3% (p=0.237) 및 14% vs 8% (p=0.359)로 그룹 간 유의차가 없었다. 퇴원 생존률은 두 군 간 유사했으나(34% vs 35%, p>0.999), 병원 내 급사는 TPA군에서 더 흔했으며(치료받은 고양이의 46%, 비생존자의 70% vs 비TPA군 19% 및 29%, p=0.002) 재관류 관련 합병증에 대한 주의가 필요하다. 입원 시 직장 온도는 재관류·기능회복·생존 예후 지표로 제시되었고 최적 임계값은 35.9°C였으며, 저자들은 이러한 결과를 확인하기 위한 전향적 대조 연구의 필요성을 강조했다.",
+      "title": "Multicentre aortic thromboembolism thrombolysis evaluation in a retrospective study of 183 cats: the MATTERS study.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-08-09T22:59:36.789Z",
       "model": "gpt-5-mini"
     }
   }
