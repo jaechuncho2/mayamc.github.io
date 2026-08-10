@@ -1,6 +1,270 @@
 {
-  "updated_at": "2026-08-09T22:59:14.751Z",
+  "updated_at": "2026-08-10T23:09:32.730Z",
   "papers": [
+    {
+      "pmid": "42572226",
+      "title": "EXPRESS: Flow cytometry-based direct antiglobulin test for suspected feline immune-mediated thrombocytopenia: Assay development and demographic factors associated with DAT positivity.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "authors": "Nedumpun T, Kamenkit O, Thongwandi S, Tripipat T, Wadeerat S, Boonyapisitsopa S, Bunpapong N",
+      "date": "2026 08 10",
+      "dateObject": "2026 08 10",
+      "abstract": "This study aimed to develop and evaluate an in-house flow cytometry-based direct antiglobulin test (DAT) for detecting IgG-bound platelet in cats, and to investigate the prevalence of DAT positivity and associated risk factors among thrombocytopenic cats. Platelets were identified by CD41/61 expression, and platelet-bound IgG was assessed by flow cytometry. A diagnostic cutoff for the percentage of IgG-positive platelets was established using 100 healthy cats and preliminarily evaluated in 50 cats with severe thrombocytopenia (platelet count <20,000/&#xb5;L) before being applied to the remaining 411 thrombocytopenic cats (platelet count <200,000/&#xb5;L) to determine the prevalence of DAT positivity and its associations with platelet count, breed, age, and sex. Healthy cats showed 0-10% IgG-positive platelets, and a cutoff of >10% was established. Using this threshold, 105/461 (22.8%) thrombocytopenic cats were classified as DAT positive. DAT positive cats had significantly lower platelet counts than DAT negative cats (median 4,000/&#xb5;L; mean 12,562/&#xb5;L vs 34,000/&#xb5;L; mean 47,956/&#xb5;L; P <0.05), and the percentage of IgG-bound platelets was inversely correlated with platelet count (r = -0.38; P = 0.048). No breed association was identified. Cats aged 5 years were more likely to be DAT positive, whereas neutered male cats were less likely to be DAT positive. Flow cytometry-based DAT is a useful adjunctive diagnostic tool for assessing suspected immune-mediated platelet destruction in thrombocytopenic cats. Younger cats may be at increased risk, whereas neutered male cats may be at lower risk. However, the interpretation of a DAT positive test result should be made alongside assessment of clinical findings and investigations for underlying causes of thrombocytopenia.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42572207",
+      "title": "EXPRESS: Development of an ultrasound-guided pericapsular knee desensitization technique in cats: an anatomical cadaveric study.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "authors": "Lemaitre D, Mej&#xed;as P, V&#xe1;squez MB, Arredondo D, Garbin M, Portela DA, Otero PE",
+      "date": "2026 08 10",
+      "dateObject": "2026 08 10",
+      "abstract": "ObjectivesTo develop an ultrasound-guided pericapsular knee desensitization (PKD) technique targeting the medial (MAN), lateral (LAN) and posterior (PAN) articular branches of the saphenous, common fibular and tibial nerves, and to evaluate its accuracy in domestic feline cadavers.MethodsIn Phase I, six pelvic limbs from three cadavers underwent ultrasonographic evaluation and gross dissection to describe the course of the MAN, LAN and PAN and identify anatomical and sonographic landmarks for PKD. In Phase II, bilateral PKD was performed in eight cadavers (16 limbs) using 0.1 ml (low-volume, LV) or 0.2 ml (high-volume, HV) of dye per nerve, with volumes randomly assigned between limbs. MAN and PAN injections were performed under ultrasound guidance through a single medial percutaneous approach, whereas LAN injections were landmark-guided. Dissection was used to assess dye distribution around target nerves, the joint capsule and parent nerves.ResultsThe MAN was consistently located within the distal subsartorial canal alongside the descending genicular vessels, the PAN coursed adjacent to the popliteal vessels, and the LAN ran superficially near the fibular head and lateral head of the gastrocnemius muscle. Overall success was 23/24 injections (95.8%; 95% CI 78.9-99.9%) in the LV group and 21/24 (87.5%; 95% CI 67.6-97.3%) in the HV group. Both volumes stained the MAN, LAN and PAN trajectories and the medial, caudal and lateral surfaces of the knee joint capsule without intracapsular injection.Conclusions and relevanceUltrasound-guided PKD is feasible in domestic feline cadavers, and small injection volumes (0.1-0.2 ml per nerve) reliably reach pericapsular compartments containing the principal articular branches while largely sparing major motor nerves. These findings provide an anatomical and technical basis for future clinical evaluation of PKD for perioperative and chronic knee pain management in cats.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42454670",
+      "title": "Enhancing EGFR Inhibition: Monensin and Erlotinib Synergize to Eliminate Cancer Stem Cells in Canine Mammary Tumours.",
+      "journal": "Veterinary and Comparative Oncology",
+      "authors": "Fang T, Zhang M, Ma C, Dong M, Song X, Wang J, Zuo R, You J, Zhao Y, Jiang S, Guo D",
+      "date": "2026 08 10",
+      "dateObject": "2026 08 10",
+      "abstract": "Canine mammary tumours (CMTs) and human breast cancer (HBC) share highly similar pathological characteristics. Cancer stem cells (CSCs) are critical to breast cancer invasion, metastasis, drug resistance, and recurrence. The experiment utilised CMT cell line CMT-U27 and HBC cell line MDA-MB-231. Cancer stem cell spheres were isolated from the two cell lines by serum-free culture respectively, named as CMT-U27 microspheres (CMT-U27S) and MDA-MB-231 microspheres (MDA-MB-231S), and the proportion of CSCs with the CD44 + /CD24 - phenotype was identified by flow cytometry. Monensin (MON), one of Polyether ionophore antibiotics, has been demonstrated to effectively suppress various types of CSCs, while erlotinib (ERL), as a tyrosine kinase inhibitor targeting epidermal growth factor receptor (EGFR), effectively inhibits cancer cell growth. This study investigates the synergistic inhibitory effects of MON-ERL combination on CSCs derived from CMTs. Cell viability was analysed by CCK-8 assay, while cell invasion and mammosphere formation assays were conducted to evaluate changes. An orthotopic tumour model in nude mice using CMT-U27S was established for in&#xa0;vivo validation. The results suggested that MON and ERL combination synergistically inhibited CSCs viability and significantly suppress their invasion and mammosphere formation abilities. The expression of key proteins of the EGFR pathway-p-EGFR, PI3K, and p-AKT was significantly reduced. In animal experiments, tumour volumes in the combination treatment group were markedly reduced compared to those in all other groups (p&#x2009;<&#x2009;0.05), and no lung metastases were observed only in the combination group. Immunofluorescence and immunohistochemistry results indicated a marked reduction of CD44 + /CD24 - cells in the combination group, along with suppressed expression of stem cell markers and proliferation/apoptosis proteins. In conclusion, MON combined with ERL effectively inhibits the proliferation, self-renewal, and metastatic capabilities of CSCs from CMTs by synergistically downregulating the EGFR/PI3K pathway, demonstrating promising antitumor potential and offering a new strategy for CMTs treatment.",
+      "categories": [
+        "oncology"
+      ]
+    },
+    {
+      "pmid": "42394397",
+      "title": "Transcriptomic and microRNA Profiling Suggest a Candidate RIPPLY1-cfa-miR-187 Relationship in Canine Mammary Gland Tumours From Dogs With Confirmed Metastasis.",
+      "journal": "Veterinary and Comparative Oncology",
+      "authors": "Wang S, Takahashi M, Chen HW, Nozaki N, Arif M, Ide Y, Akiyama Y, Islam S, Hifumi T, Hirano S, Miyoshi N, Yamato O, Kato D, Nakagawa T, Miura N",
+      "date": "2026 08 10",
+      "dateObject": "2026 08 10",
+      "abstract": "Canine mammary gland tumours (MGT) represent a common malignancy in intact female dogs, with a high metastasis rate approaching 50% and a poor prognosis. However, metastasis-related genes remain largely unelucidated. Accordingly, we aimed to identify differentially expressed mRNAs and miRNAs in primary canine MGT tissues from dogs with or without confirmed metastasis. We compared mRNA and microRNA (miRNA) expression profiles between malignant MGT tissue samples with and without metastasis. Differentially expressed genes and miRNAs were identified using next-generation sequencing and analysed using the Empirical Analysis of DEGs tool within CLC Genomics Workbench. We identified 119 genes and eight miRNAs as differentially expressed in primary MGTs from dogs with confirmed metastasis. The RIPPLY1 gene was significantly downregulated in primary MGT samples with confirmed metastasis and this result was validated by RT-qPCR. The Cancer Genome Atlas (TCGA) database showed decreased RIPPLY1 expression in human breast cancer, supporting its possible relevance to tumour biology. In silico analysis (miRWalk) revealed that miR-187 is a predicted candidate miRNA that may interact with RIPPLY1 and both NGS data and RT-qPCR showed increased cfa-miR-187 expression in primary tumour samples from dogs with confirmed metastasis. The inverse expression pattern of RIPPLY1 and cfa-miR-187, together with RNAhybrid binding prediction, suggests a possible candidate miRNA-mRNA relationship. STRING analysis suggested a possible pathway context involving beta-catenin/TCF-related proteins, but this computational result requires further validation. Based on these findings, we identified RIPPLY1 and cfa-miR-187 as potential candidate transcripts associated with primary canine MGTs from dogs with confirmed metastasis but functional validation is required.",
+      "categories": [
+        "oncology"
+      ]
+    },
+    {
+      "pmid": "42337642",
+      "title": "Raman Spectroscopy for Differentiating High- and Low-Grade Canine Cutaneous Mast Cell Tumours.",
+      "journal": "Veterinary and Comparative Oncology",
+      "authors": "Catarino J, Silva S, Novais S, Santos J, Payan-Carreira R, Fa&#xed;sca P, Reis J",
+      "date": "2026 08 10",
+      "dateObject": "2026 08 10",
+      "abstract": "Canine cutaneous mast cell tumours (MCTs) demonstrate variable clinical behaviour. Histological grading remains the primary prognostic approach, but some low-grade tumours behave aggressively, and interobserver variability persists. This underscores the need for complementary and objective biomarkers. Raman spectroscopy (RS) is a non-destructive optical technique based on the inelastic scattering of monochromatic light capable of detecting subtle biochemical changes in tissues. This exploratory study evaluates whether RS could differentiate low-grade from high-grade cutaneous MCTs based on characteristic vibrational signatures. Eighteen canine cutaneous mast cell tumours were graded according to the Kiupel two-tier system, comprising 10 low-grade and 8 high-grade cases. Formalin-fixed tumour samples were analysed, yielding a total of 68 Raman spectra. Spectra were acquired with a 785&#x2009;nm laser, pre-processed using baseline correction, and normalized to the 1007&#x2009;cm -1 phenylalanine band. Data normality was tested with the Shapiro-Wilk test, and group comparisons used the Mann-Whitney U test (&#x3b1;&#x2009;=&#x2009;0.05). The 1007&#x2009;cm -1 band showed no significant difference between Low- and High-Grade tumours (p&#x2009;=&#x2009;0.068), validating its use for normalization. Conversely, the 860&#x2009;cm -1 tyrosine-associated band was significantly higher in high-grade tumours (p&#x2009;=&#x2009;0.033). Ratios normalized to the 1007&#x2009;cm -1 peak consistently discriminated between grades, with significantly higher values in low-grade tumours across multiple spectral regions-particularly 1007/1299 and 1007/1301-1320 (all p&#x2009;<&#x2009;0.05). Overall, RS identified distinct biochemical fingerprints between tumour grades in canine cutaneous MCTs, especially in spectral regions associated with amino acids, lipids, and nucleic acids. These findings support the potential of RS as a complementary tool for MCT characterization and encourage further validation in larger cohorts with clinical outcome data.",
+      "categories": [
+        "oncology",
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42304866",
+      "title": "The Definitive-Intent 10-Fraction Radiotherapy Protocol ('The Zurich Protocol') Yields Lasting Tumour Control and Survival in Dogs With Intracranial Meningiomas.",
+      "journal": "Veterinary and Comparative Oncology",
+      "authors": "Ahrens C, Unterkirhers S, Rohrer Bley C",
+      "date": "2026 08 10",
+      "dateObject": "2026 08 10",
+      "abstract": "Moderately hypofractionated definitive-intent radiotherapy protocols can be used for canine intracranial meningiomas to shorten overall treatment time while maintaining tumour control and limiting normal tissue toxicity. This retrospective study evaluated oncologic outcomes, toxicity, and radiation dose-volume-related prognostic factors in dogs with imaging-based intracranial meningiomas treated with a 10-fraction definitive-intent protocol. Medical records from 2015 to 2025 were reviewed. All dogs received 10 daily fractions of 4&#x2009;Gy delivered with a homogeneous dose prescription, risk-adapted heterogeneous dose distributions, or an 11% simultaneously integrated boost (SIB) to the gross tumour volume. One hundred and ten dogs were included, with a median follow-up of 498&#x2009;days. Median time to progression was 873&#x2009;days (95% CI: 552-1195), median overall survival after first radiotherapy was 756&#x2009;days (95% CI: 474-1039), and median DSS was 1078&#x2009;days (95% CI: 915-1242). Time to progression differed among treatment subgroups (p&#x2009;=&#x2009;0.024). Larger volumes of normal brain receiving &#x2265;&#x2009;32&#x2009;Gy (>&#x2009;11.5&#x2009;cm 3 ) were associated with shorter overall (p&#x2009;<&#x2009;0.001) and disease-specific survival (p&#x2009;=&#x2009;0.002). Use of an SIB was associated with shorter disease-specific survival (HR 2.47; p&#x2009;=&#x2009;0.012), and post-radiotherapy seizures were associated with reduced time to progression (HR 2.01; p&#x2009;=&#x2009;0.026). Tumour location was not identified as a prognostic factor. Acute or early delayed neurologic toxicity occurred in 10% of dogs and was generally transient and generally corticosteroid responsive. In conclusion, the definitive-intent, moderately hypofractionated 10-fraction radiotherapy protocol achieves long lasting tumour control and survival outcomes in dogs with intracranial meningiomas, provided that evidence-based brain dose-volume constraints are respected.",
+      "categories": [
+        "internalMedicine",
+        "oncology",
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "42283139",
+      "title": "Use of the IlluminOss Photodynamic Bone Stabilisation System Following Stereotactic Body Radiation Therapy for Limb-Sparing in Six Dogs With Presumptive Appendicular Osteosarcoma.",
+      "journal": "Veterinary and Comparative Oncology",
+      "authors": "Pope EA, Wavreille VA, Lapsley JL, Green EM, Kisseberth WC, Rabiner R, Selmic LE",
+      "date": "2026 08 10",
+      "dateObject": "2026 08 10",
+      "abstract": "Osteosarcoma is the most common primary bone tumour in dogs, with approximately 75% of cases occurring in the appendicular skeleton. Standard-of-care therapy consists of limb amputation followed by carboplatin chemotherapy. A minority of dogs have limb-sparing treatments including stereotactic body radiation therapy (SBRT) or surgery. SBRT has a high incidence of pathologic fracture (41%-80% of cases) following treatment, which often results in amputation or euthanasia. Prophylactic bone stabilisation following SBRT has not been recommended due to high complication rates. The IlluminOss system (IS) is an intramedullary implant consisting of a light-curable polymer within an inflatable balloon catheter, which is approved in humans for traumatic fractures and prevention of fractures secondary to bone metastases. We performed a study to assess the safety and feasibility of using the IS following SBRT in six dogs with suspected appendicular osteosarcoma. The IS was placed the day after completion of SBRT. Five of six dogs received adjuvant carboplatin chemotherapy. The IS was well tolerated with no implant-associated infections or immediate post-operative complications occurring. Pathologic fractures occurred in four dogs with a median fracture-free interval of 107&#x2009;days. Three dogs ultimately underwent amputation due to pathologic fractures. No other post-operative complications occurred. The median survival time was 156&#x2009;days. These findings suggest that the IS may be a palliative option for dogs following SBRT, but further research to optimise use in the dog and evaluation of the use of the IS with ancillary fixation is necessary.",
+      "categories": [
+        "internalMedicine",
+        "oncology",
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42225556",
+      "title": "Cabazitaxel Demonstrates Potent Antitumour Activity Against Canine Large-Cell Alimentary Lymphoma In&#xa0;Vitro and In&#xa0;Vivo.",
+      "journal": "Veterinary and Comparative Oncology",
+      "authors": "Sakai K, Suzuki N, Furuya M, Ohta H, Kameshima S, Shimamura S",
+      "date": "2026 08 10",
+      "dateObject": "2026 08 10",
+      "abstract": "Canine large-cell alimentary lymphoma (LCAL) is an aggressive malignancy with limited effective treatment options and a poor prognosis. In a preliminary drug screening study using three canine LCAL cell lines (CLC, Ema, and Nody-1), the taxane cabazitaxel (CBZ) was identified as a promising candidate drug. This study aimed to evaluate the antitumour effects of CBZ in&#xa0;vitro and in&#xa0;vivo and determine its potential as a novel therapeutic candidate for canine LCAL. Cell viability, tubulin polymerisation, cell cycle distribution, and apoptosis were assessed in CLC, Ema, and Nody-1 cells following treatment with CBZ or vehicle control. In addition, the effect of CBZ was evaluated in a xenotransplantation mouse model established using CLC cells. CBZ reduced cell viability across all cell lines in a dose-dependent manner, with sub-nanomolar half-maximal inhibitory concentrations. A tubulin polymerisation assay demonstrated that CBZ increased polymerised tubulin levels, indicating microtubule stabilisation. CBZ treatment induced G2/M cell cycle arrest and significantly increased apoptotic cell populations, accompanied by decreased procaspase-3 levels and increased cleaved caspase-3 expression. In&#xa0;vivo, CBZ treatment reduced ascites accumulation and significantly prolonged survival relative to the vehicle control. These findings suggest that CBZ induces G2/M cell cycle arrest and caspase-dependent apoptosis through tubulin stabilisation and suppresses tumour progression in&#xa0;vivo. CBZ represents a promising therapeutic candidate for canine LCAL.",
+      "categories": [
+        "oncology"
+      ]
+    },
+    {
+      "pmid": "42206498",
+      "title": "Messenger RNA From Canine Cytology Lymph Node Specimens Can Be Utilised for Gene Expression Profiling Using Digital RNA Counting.",
+      "journal": "Veterinary and Comparative Oncology",
+      "authors": "Olsen M, Rout E, Hughes K, Yoshimoto J, Avery A, Harris RA",
+      "date": "2026 08 10",
+      "dateObject": "2026 08 10",
+      "abstract": "Gene expression profiling (GEP) is being used with increasing frequency to characterise canine tumours, but canine samples are often not collected in a medium to preserve RNA. Cytology samples from human tumours have been shown to provide adequate RNA for GEP using NanoString nCounter technology, suggesting a similar approach might be viable for canine samples. Determine the quantity and quality of RNA extracted from canine cytology slides, evaluate the time frame for RNA integrity and assess the utility of performing GEP with extracted RNA. Cytological specimens were derived from reactive lymph nodes (n&#x2009;=&#x2009;10) and lymphoma cases (n&#x2009;=&#x2009;34) and characterised via flow cytometry or PCR for antigen receptor rearrangements. RNA was extracted from stained and unstained lymph node cytology slides using a RNeasy Mini Kit and subsequently evaluated for quality and quantity. GEP was carried out using nCounter technology with the NanoString Canine IO Panel. Extracted RNA from lymphoma and reactive cytology samples generated concentrations ranging from 27.5 to 543.9&#x2009;ng/&#x3bc;L (median: 168.5&#x2009;ng/&#x3bc;L; interquartile range (IQR): 108.15-275.95&#x2009;ng/&#x3bc;L). RNA integrity numbers (RINs) ranged from 1.0 to 7.2 (median: 2.9; IQR: 2.10-4.45) and DV200 values ranged from 50.5% to 93.2% (median: 81.65%; IQR: 71.95%-87.85%). RIN and DV200 values were highest for extractions within 7&#x2009;days of sample collection. GEP revealed overexpression of 17 genes in lymphoma samples such as MYC, TERT and BRCA2. Canine lymph node cytologic specimens provide sufficient RNA quality for GEP. The nCounter Canine IO Panel demonstrates the utility of cytology specimens for evaluating gene expression.",
+      "categories": [
+        "oncology"
+      ]
+    },
+    {
+      "pmid": "42163424",
+      "title": "Cross-Species Transcriptomic and Network Analysis of Human and Canine Diffuse Large B-Cell Lymphoma Identifies a Conserved Replication-DNA Damage Module for Drug Repurposing.",
+      "journal": "Veterinary and Comparative Oncology",
+      "authors": "Akbari-Ardabili S, Aghazadeh S",
+      "date": "2026 08 10",
+      "dateObject": "2026 08 10",
+      "abstract": "Rational, mechanism-based drug selection for canine diffuse large B-cell lymphoma (DLBCL) remains limited, despite extensive molecular work in human DLBCL. We asked whether human and canine DLBCL share a conserved transcriptional network that could anchor therapeutic hypotheses for dogs. Using public human and canine DLBCL transcriptomes, we derived a 409-gene cross-species module defined by concordant tumour-normal dysregulation and projected it onto pathway and protein-protein interaction (PPI) networks. The module was dominated by DNA replication, cell-cycle checkpoint and DNA damage-response programmes and contained a compact PPI core centred on TOP2A and PARP1. Querying the Connectivity Map/LINCS library with the human component of the module highlighted anthracycline-like topoisomerase II poisons (valrubicin, etoposide, amsacrine) and the PARP inhibitor rucaparib among the ~0.2% most negative connectivity scores, while directly targeting TOP2A and/or PARP1. A simple up-down module score strongly separated tumour from normal lymph nodes in both species and was associated with outcome: higher scores predicted longer progression-free survival in CHOP-treated dogs and better overall survival in an independent human cohort, with a similar but underpowered trend in TCGA-DLBC. Finally, extracellular-vesicle microRNA (EV-miRNA) profiling in human DLBCL showed that differentially expressed EV-miRNAs, including let-7 family members, miR-21-5p, miR-124-3p and miR-205-5p, converge on the same TOP2A/PARP1-centred core. These cross-species, multi-layer data support topoisomerase II poisons and PARP inhibition as coherent, network-anchored candidate therapies for canine DLBCL, with module scores and EV-miRNAs as candidate biomarkers.",
+      "categories": [
+        "internalMedicine",
+        "oncology"
+      ]
+    },
+    {
+      "pmid": "42129963",
+      "title": "Identification of Novel Therapeutic Agent Candidates Through High Throughput Screening With Chemical Library Based on Molecular Subclassification in Canine Histiocytic Sarcoma Cell Lines.",
+      "journal": "Veterinary and Comparative Oncology",
+      "authors": "Sakuma H, Tomiyasu H, Takamiya M, Goto-Koshino Y, Tsukamoto A, Bonkobara M, Okuda M",
+      "date": "2026 08 10",
+      "dateObject": "2026 08 10",
+      "abstract": "Effective chemotherapy for canine histiocytic sarcoma (CHS) has yet to be established. In our previous study, CHS cell lines were subclassified into two groups based on their gene expression profiles: Group A and Group B. This study aimed to identify novel therapeutic agents that are effective against each CHS subgroup, and we performed high throughput screening, which examined the effects of 1824 chemical compounds on the 10 CHS cell lines. Among the compounds examined, 73 compounds were identified as candidates to show antiproliferative effects in all CHS cell lines examined, and the median IC 50 values of 5-fluorouracil and sunitinib were 7.49&#x2009;&#x3bc;M and 608&#x2009;nM, respectively, across all CHS cell lines. While there was no compound that was specifically effective for Group B CHS cell lines, duvelisib was identified as a selective antitumor agent for CHS cell lines in Group A (median IC 50 &#x2009;=&#x2009;287&#x2009;nM), with minimal effects on the other group (median IC 50 &#x2009;>&#x2009;5&#x2009;&#x3bc;M) and normal peripheral blood mononuclear cells (IC 50 &#x2009;=&#x2009;7.46&#x2009;&#x3bc;M). The amount of phosphorylated Akt protein decreased following duvelisib treatment in all eight CHS cell lines in Group A, but not in cell lines in Group B. Furthermore, duvelisib induced cell cycle arrest and increased cell death in a subset of Group A cell lines. These findings demonstrated that duvelisib exerted antiproliferative effects through inhibition of the Akt pathway in a subset of CHS cell lines while causing minimal cytotoxicity to normal cells.",
+      "categories": [
+        "oncology"
+      ]
+    },
+    {
+      "pmid": "42037153",
+      "title": "Comparison of Volumetric Modulated Arc Therapy and Fixed-Field Intensity-Modulated Radiotherapy for Canine Prostatic Carcinoma Using a 4.3&#x2009;Gy&#x2009;&#xd7;&#x2009;10-Fraction Protocol: A Dosimetric Planning Study.",
+      "journal": "Veterinary and Comparative Oncology",
+      "authors": "Kim M, Jeong I, Eom K, Kim J",
+      "date": "2026 08 10",
+      "dateObject": "2026 08 10",
+      "abstract": "Advancements in radiotherapy, including intensity modulated radiation therapy (IMRT) and volumetric modulated arc therapy (VMAT), have reduced radiation-induced toxicities, enabling hypofractionated protocols to be feasible for treating intrapelvic tumours in dogs. This study aimed to determine the optimal planning technique for canine prostatic carcinoma using a radiotherapy protocol delivering 43&#x2009;Gy in 10 fractions. Four techniques were compared-two full arcs (2FA), two partial arcs (2PA), 9-field IMRT (9F) and 7-field IMRT (7F). Computed tomography datasets from 22 dogs were analysed. While the conformity index did not differ significantly among techniques, IMRT demonstrated significantly lower homogeneity index than VMAT. IMRT yielded the lowest rectal normal tissue complication probabilities (NTCPs), maximum dose (Dmax) and V45, whereas 2PA achieved the lowest mean dose (Dmean) and V10, V15, V20, V25 and V30. Additionally, IMRT showed significantly lower NTCPs and V20, V25 and V30 for the colon; NTCPs and V20, V25, V30 and V35 for the small intestine; and Dmax, V20, V25 and V45 for the bladder. For the urethra, IMRT showed the lowest Dmax and V45, whereas 2PA demonstrated the lowest Dmean and V10, V15 and V20. The spinal cord (Dmean, V10, V15) and cauda equina (Dmean, Dmax, V10, V15 and V20) were best spared with 2PA. However, 2PA resulted in the highest femoral head NTCPs, Dmean, Dmax and V20, V25 and V30. IMRT showed significantly greater monitor units and beam-on time than VMAT, especially with 9F. In conclusion, under the predefined and unaltered planning objective and constraints used in this study, IMRT showed more favourable OAR sparing and improved dose homogeneity than VMAT. Among the IMRT techniques, 7F may be preferred over 9F due to reduced beam-on time and monitor units. However, these findings reflect the specific equipment, planning setting and optimisation approach applied in this study and different planner, systems or optimisation strategies may yield different results. Therefore, treatment planning should be individualised according to patient-specific dosimetric characteristics.",
+      "categories": [
+        "internalMedicine",
+        "oncology",
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "42037095",
+      "title": "Prognostic Significance of the Tumour Microenvironment in Surgically Resected Canine Pulmonary Adenocarcinomas.",
+      "journal": "Veterinary and Comparative Oncology",
+      "authors": "Ichimata M, Kagawa Y, Toshima A, Matsuyama F, Fukazawa E, Harada K, Katayama R, Nakano Y, Kobayashi T, Igase M, Mizuno T",
+      "date": "2026 08 10",
+      "dateObject": "2026 08 10",
+      "abstract": "The prognostic relevance of the tumour microenvironment in surgically resected canine pulmonary adenocarcinomas (cPACs) remains uncertain. This retrospective single-centre cohort study evaluated associations between intratumoural immune features and postoperative outcomes. Dogs treated between 2005 and 2021 with histologically confirmed cPACs that had undergone surgical excision and had an evaluable tumour microenvironment were included. Immunohistochemistry for CD8, Foxp3, CD3 and CD20 was performed. CD8+ and Foxp3+ cell densities were quantified in five intratumoural hotspots of 0.237&#x2009;mm 2 each. Lymphoid aggregates (LAs) were defined as intratumoural aggregates located within tumour nests or intratumoural stroma and composed of at least 50 CD20+ B cells with intercellular spacing &#x2264;&#x2009;10&#x2009;&#x3bc;m and admixed CD3+ T cells. Primary outcomes were progression-free interval (PFI) and overall survival time (OST). A total of 71 dogs were enrolled. LAs were identified in 49 dogs (69.0%). The median densities of CD8+, CD20+ and Foxp3+ cells were 130.0, 398.3 and 79.3&#x2009;cells/mm 2 , respectively. Tumours with LAs showed higher CD20+ and Foxp3+ cell densities than tumours without LAs. Median PFI and OST were 754&#x2009;days (95% CI, 375-not reached) and 716&#x2009;days (95% CI, 399-936), respectively. In multivariable analysis, tumour size classification, lymph node metastasis, surgical margin status and the presence of LAs were independently associated with shorter PFI. Age, lymph node metastasis and the CD8/Foxp3 ratio were independently associated with OST. These findings indicate that immunohistochemical features may provide additional prognostic information for postoperative risk stratification in cPACs and complement established clinicopathological factors.",
+      "categories": [
+        "oncology",
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42036120",
+      "title": "Comparative Response of Canine and Human Osteosarcoma Tumour Cell Lines to Molecularly Targeted Anticancer Agents at Clinically Relevant Exposures With Analysis of Genomic Biomarkers.",
+      "journal": "Veterinary and Comparative Oncology",
+      "authors": "Gustafson DL, Early KA, Morales MA, Poplawski KA, Das S, Duval DL",
+      "date": "2026 08 10",
+      "dateObject": "2026 08 10",
+      "abstract": "Osteosarcoma (OSA) is a primary bone tumour occurring in children but is also prevalent in large breed dogs. Canine OSA (cOSA) has long been viewed as analogous to human OSA (hOSA) with cOSA serving as a surrogate for development of therapeutic approaches to treat the rarer human form. Drug therapy of OSA has remained virtually unchanged over the last four decades and drug testing is challenging due to the genomic heterogeneity of OSA as well as the limited number of patients for clinical trials. Thus, an approach that includes a suitable clinical surrogate at the early stage of therapeutic development may be beneficial. Therefore, to address these challenges, a phenotypic drug screen of 12 targeted anticancer drugs was carried out using 13 cOSA and 6 hOSA cell lines and responses compared at clinically relevant exposures (CRE) estimated from human data. The results identified four drugs (alisertib, crizotinib, onvansertib and sorafenib) with significant responses at the CRE in cOSA and hOSA cell lines and demonstrated that drug responses were indistinguishable across species. Correlations of drug response with genomic biomarkers in the cOSA cell line panel identified Myc and Hedgehog signalling as potential predictors of crizotinib response and Myc, epithelial markers and anti-apoptotic signalling for onvansertib response. The conclusions of these findings are that cOSA and hOSA cell lines show the same range of response to targeted agents and identify potential biomarker pathways for further investigation in OSA tumours for use in future comparative oncology studies including clinical trials in pet dogs.",
+      "categories": [
+        "oncology"
+      ]
+    },
+    {
+      "pmid": "42021669",
+      "title": "Cytokine-Enhanced Vaccine as Surgery Adjuvant Treatment for Spontaneous Canine Melanoma: Comparison of Two Intralesional Procedures for Local Disease Control.",
+      "journal": "Veterinary and Comparative Oncology",
+      "authors": "Finocchiaro LME, Villaverde MS, Glikin GC",
+      "date": "2026 08 10",
+      "dateObject": "2026 08 10",
+      "abstract": "We present here the feasibility, safety, and efficacy results of a 7-year study that included 337 canine melanoma patients undergoing surgery with adjuvant intralesional therapies combined with immunogenic therapy. After complete (CS) or partial (PS) surgery, the patients received post-surgical bed injections of (i) lipoplexes carrying canine interferon-&#x3b2; (cIFN&#x3b2;) gene combined with bleomycin (CT IF/B ) or (ii) 5-fluorouracil (CT 5FU ). This surgery adjuvant therapy (SAT) also included the periodic administration of subcutaneous genetic vaccines composed of tumour extracts and lipoplexes carrying cIFN&#x3b2;, human interleukin-2, and human granulocyte-macrophage colony-stimulating factor genes. Compared at the end of their individual follow-ups with controls treated with complete surgery alone (CSo), CS-CT IF/B and CS-CT 5FU treatments quadrupled the fraction of local disease-free (from 19% to 81% and 85%), and increased the percentage of metastasis-free patients (M0: from 47% to 82% and 81%). Both PS arms (PS-CT IF/B and PS-CT 5FU ) also significantly increased the fraction of metastatic-free disease (M0: from 48% to 75% and 73%). In addition, SAT produced a significant 11- (CS-CT IF/B : p&#x2009;<&#x2009;0.0001, HR 95% CI &#x2009;=&#x2009;0.155 [0.109-0.222]), 9- (CS-CT 5FU : p&#x2009;<&#x2009;0.0001, HR 95% CI &#x2009;=&#x2009;0.172 [0.123-0.242]), 6- (PS-CT IF/B : p&#x2009;<&#x2009;0.0001, HR 95% CI &#x2009;=&#x2009;0.204 [0.132-0.315]), and 7- (PS-CT 5FU : p&#x2009;<&#x2009;0.0001, HR 95% CI &#x2009;=&#x2009;0.203 [0.132-0.311]) fold increase of overall survival as compared to their respective CSo and PSo controls. The respective median follow-up days for each group were: 695.5 (28-2516), 542.5 (46-2554), 458 (29-1273), and 521 (30-1659). In general terms, this SAT transformed a lethal disease into a manageable condition where 25% (CS-CT IF/B ), 24% (CS-CT 5FU ), 22% (PS-CT IF/B ), and 22% (PS-CT 5FU ) of patients were still alive at the end of the study, while 53%, 60%, 16%, and 17%, respectively, died from causes unrelated to melanoma. Both surgery adjuvant treatments delayed or prevented post-surgical recurrence and metastases, improved disease-free and overall survival while maintaining quality of life. These successful outcomes encourage assaying a similar scheme for human melanoma.",
+      "categories": [
+        "oncology",
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42003040",
+      "title": "Chemical Exposures, DNA Methylation and Whole Blood DNA Damage in Pet Golden Retrievers.",
+      "journal": "Veterinary and Comparative Oncology",
+      "authors": "Tindle AN, Berres ME, Baker L, Wu Z, Swafford B, Labadie J, Trepanier LA",
+      "date": "2026 08 10",
+      "dateObject": "2026 08 10",
+      "abstract": "Canine multicentric lymphoma (CL) is a common and typically fatal cancer among dogs. Although certain breeds have a higher incidence of CL, its environmental risk factors remain uncertain. Exposures to herbicides and volatile organic compounds (VOCs) associate with non-Hodgkin lymphoma in people. These exposures also correlate with measurable in&#xa0;vivo DNA strand breaks in dogs, even at estimated systemic concentrations that do not reach genotoxic thresholds. Herbicides and VOCs can also exert genotoxicity through differential DNA methylation. We therefore hypothesised that higher chemical exposures would be associated with differential global and gene-specific methylation in the blood of pet golden retrievers, and that differential gene-specific methylation would be further associated with measured DNA strand breaks and oxidised DNA damage. We performed Oxford Nanopore sequencing in 24 of 60 dogs from a recent case-control study within the Golden Retriever Lifetime Study cohort, selected based on the highest and lowest quintiles of estimated aggregate herbicide and VOC exposures. Contrary to our initial hypothesis, higher estimated chemical exposures were associated with relatively lower promoter methylation of antioxidant genes (median 0.335 versus 0.374; p&#x2009;=&#x2009;0.007) and 8-oxoguanine DNA repair genes (median 0.254 versus 0.294; p&#x2009;=&#x2009;0.007). This pattern could represent a compensatory response to chemical exposures rather than a driver of DNA damage. Follow-up studies are needed to determine whether these modest promoter methylation differences correspond to biologically meaningful increases in gene expression, antioxidant status and DNA repair capacity.",
+      "categories": [
+        "oncology"
+      ]
+    },
+    {
+      "pmid": "42002308",
+      "title": "Retrospective Analysis of Survival and Adverse Effects Associated With Stereotactic Body Radiation Therapy in 12 Dogs With Hepatocellular Carcinoma.",
+      "journal": "Veterinary and Comparative Oncology",
+      "authors": "Newberry VL, Boss MK, Leary D, Martin TW",
+      "date": "2026 08 10",
+      "dateObject": "2026 08 10",
+      "abstract": "This retrospective analysis evaluated 12 dogs with hepatocellular carcinoma (HCC) who received stereotactic body radiation therapy (SBRT). Dogs received between 6 and 25 Grey (Gy) per fraction for 1-5 fractions for a total dose of 13-30&#x2009;Gy. Eleven patients (92%) experienced acute adverse effects (AE), with the majority being VRTOG grade 2-3 stomach/small intestinal AE. Additionally, 70% of patients experienced late AE, with the majority being VRTOG grade 2 stomach/small intestinal AE. Liver-specific side effects were also observed following SBRT, including VCOG-CTCAE grade 4 hepatic encephalopathy and grade 5 liver failure. There was a statistically significant correlation between the gross tumour volume (GTV) and the overall survival time (OST; p&#x2009;=&#x2009;0.02) as well as a significant correlation between the percentage of normal liver affected by the mass and the severity of acute stomach/small intestinal AE (p&#x2009;=&#x2009;0.01). Statistically significant correlations were observed between the dose of radiation to the normal liver, starting with a threshold dose of 7&#x2009;Gy, and an increase of the liver enzyme ALT. Median survival time (MST) of the cohort was 301&#x2009;days. Dogs with >&#x2009;28.7% of the liver affected by the mass had a MST of 182&#x2009;days vs. 419&#x2009;days for dogs with <&#x2009;28.7% affected (p&#x2009;=&#x2009;0.009). This study suggests parameters for GTV, percentage of liver affected, and dose to normal liver could affect survival and the likelihood for adverse effects and liver enzyme elevation when treating with SBRT.",
+      "categories": [
+        "internalMedicine",
+        "oncology",
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "41995460",
+      "title": "Critical Questions in Genomic Diagnostics for Veterinary Oncology: What We Need to Know.",
+      "journal": "Veterinary and Comparative Oncology",
+      "authors": "Sakthikumar S, Siravegna G, White ME, Thamm DH, Chon E",
+      "date": "2026 08 10",
+      "dateObject": "2026 08 10",
+      "abstract": "Genomic diagnostics are increasingly integrated into veterinary oncology practice, offering the possibility of refined approaches to tumour classification, risk stratification and therapeutic guidance through high-throughput sequencing technologies. In human medicine, the clinical utility of genomic testing is underpinned by rigorous analytical and clinical validation, robust regulatory oversight and an expanding evidence base linking specific genomic alterations to disease phenotypes and therapeutic responses. In contrast, genomic testing in veterinary oncology remains underdeveloped, with limited standardisation, sparse species-specific validation and frequent reliance on extrapolation from human data. This review delineates the current landscape of genomic testing in veterinary oncology, emphasising methodological considerations in assay design, validation requirements, and clinical interpretation. We highlight the need for analytical rigour, including the use of in silico and orthogonal validation strategies, and advocate for the establishment of performance benchmarks that account for assay sensitivity, specificity and reproducibility in relevant canine populations. In addition, we address the interpretive challenges posed by variants of uncertain significance and the limitations of inferring clinical actionability from human oncology frameworks. A critical, question-driven approach is proposed to guide clinicians in evaluating the validity and applicability of genomic tests, focusing on test validation, intended clinical use and the functional relevance of identified alterations. Advancing genomic diagnostics in veterinary oncology will require coordinated efforts to improve transparency, expand validation cohorts and align clinical expectations with the current evidentiary base. These steps are essential to realising the full potential of precision medicine in veterinary oncology while maintaining scientific and clinical integrity.",
+      "categories": [
+        "oncology"
+      ]
+    },
+    {
+      "pmid": "41992075",
+      "title": "Transcriptomic Profiling of Canine Mammary Tumours Reveals Significant Heterogeneity Between and Within Histological Classes.",
+      "journal": "Veterinary and Comparative Oncology",
+      "authors": "Moberg IM, Hansen N, Bergholtz H, Borge KS, Gunnes G, Arnet EF, Guttersrud OA, Solbakken MH, Lingaas F",
+      "date": "2026 08 10",
+      "dateObject": "2026 08 10",
+      "abstract": "This study presents a comprehensive transcriptomic analysis of 128 canine mammary tumours (CMTs), aiming to characterize their molecular landscape. Differential gene expression analysis (DGE), gene set enrichment analysis (GSEA) and clustering based on the human PAM50 gene panel were applied to explore molecular differences between the different histological categories. The analysis revealed transcriptomic differences between benign and malignant tumours as well as between tumours with high and low mitotic count. Malignant tumours were significantly enriched for gene sets associated with cell cycle regulation, proliferation, inflammatory response, signalling pathways and metabolic processes. Of the malignant tumours, purely epithelial tumours were enriched in gene sets related to proliferation, signalling and metabolic processes when compared to mixed tumours harbouring myoepithelial or mesenchymal components. To assess the relevance of human classification systems, CMTs were clustered on the PAM50 genes. The analysis revealed two clusters resembling human basal-like and luminal A subtypes, while the remaining tumours did not display expression patterns similar to human breast cancer subtypes. This suggests that there are limitations to applying the human molecular classification systems to canine tumours without adaptation. Additionally, CMTs displayed intragroup heterogeneity, where not all tumours within a histopathological category clustered together, indicating that the molecular aspect of CMTs is not necessarily reflected in the pathology. Together, this study highlights the need to develop canine-specific molecular markers based on gene expression, which could enable diagnosis prior to surgical removal of tumours, and ultimately improve treatment strategies and outcomes for dogs with mammary tumours.",
+      "categories": [
+        "oncology",
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "41991178",
+      "title": "Surgical Margins Required for the Complete Excision of Canine Oral Melanomas.",
+      "journal": "Veterinary and Comparative Oncology",
+      "authors": "Chinner JR, Lee JJW, Tuke J, Yap FW",
+      "date": "2026 08 10",
+      "dateObject": "2026 08 10",
+      "abstract": "Oral malignant melanoma (OMM) is the most common canine oral neoplasm. Complete excision is recognised as the mainstay of treatment in the absence of distant metastasis, but recommended surgical margins are unvalidated. This study investigates the surgical margins required for complete excision of canine OMMs. We hypothesised that surgical margins 10-15&#x2009;mm wide and a qualitative deep margin (bone, fascia or full-thickness tissue excision) would be adequate for complete local excision of OMMs. Margins required to excise canine oral melanocytomas are also unknown; a secondary objective was to investigate this. Cases were retrospectively collected from two referral centres and a veterinary pathology laboratory. Histologic diagnosis, en bloc excision of gross tumour, surgical margin and histologic margins were required for inclusion. Tumours were categorised based on surgical margin width (Group A&#x2009;<&#x2009;10&#x2009;mm, Group B 10-15&#x2009;mm and Group C&#x2009;>&#x2009;15&#x2009;mm). A qualitative deep margin was required for Groups B and C, but not Group A, to include marginal excision cases. Histologic margins were classified by the R tumour classification scheme. Twenty-eight tumours were included, comprising 25 OMMs and three melanocytomas. R0 rates for OMMs were 56% (10/17) in Group A, 100% (7/7) in Group B and 100% (2/2) in Group C. Surgical margins&#x2009;&#x2265;&#x2009;10&#x2009;mm were significantly (p&#x2009;=&#x2009;0.03) more likely to result in R0 classification. The three melanocytomas were all classified as R0, with <&#x2009;10&#x2009;mm surgical margins. Results suggest that surgical margins 10-15&#x2009;mm wide and a qualitative deep margin may be adequate for complete excision of OMMs.",
+      "categories": [
+        "oncology",
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "41943258",
+      "title": "Proteasome Inhibitor-Induced Cytotoxic Mechanisms in Canine Pulmonary Adenocarcinoma Cell Lines.",
+      "journal": "Veterinary and Comparative Oncology",
+      "authors": "Chijiwa A, Inanaga S, Osaki T, Igase M, Mizuno T",
+      "date": "2026 08 10",
+      "dateObject": "2026 08 10",
+      "abstract": "Canine pulmonary adenocarcinoma (cPAC) lacks well-validated systemic treatment options, motivating preclinical identification of potential therapeutic candidates. To explore potential therapeutic candidates, we first performed a screening of an FDA-approved drug library using a cPAC cell line, which identified bortezomib-a proteasome inhibitor-as a potential agent. Guided by this result, we focused subsequent investigations on proteasome blockade and evaluated the antitumor activity and mechanisms of bortezomib together with a second-generation proteasome inhibitor, carfilzomib-alone and in combination with standard cytotoxics-in three cPAC cell lines (CLAC, HDC, and LuBi). Both agents reduced cell proliferation and cell viability in a dose-dependent manner, with proteasome target engagement (ubiquitinated protein accumulation), G2/M arrest, sub-G1 increase, and caspase-3 cleavage. Pan- and selective caspase inhibition partially rescued viability, suggesting contributions from both intrinsic and extrinsic apoptosis, together with caspase-independent mechanisms. We also observed activation of the JNK-c-Jun pathway and increased Bim expression, indicating the induction of cellular stress responses and apoptosis. Drug-interaction analysis showed reproducible synergy between carfilzomib and carboplatin in HDC and LuBi, whereas combinations with vinorelbine were mainly additive or antagonistic effects. Overall, proteasome inhibitors exert multifaceted cytotoxic effects in cPAC through proteotoxic stress, cell-cycle arrest, and caspase-associated apoptosis. In particular, the combination of carfilzomib and carboplatin may represent a promising therapeutic strategy. Further in&#xa0;vivo and clinical investigations are warranted to evaluate therapeutic efficacy, safety, and pharmacokinetics of proteasome inhibitors in cPAC.",
+      "categories": []
+    },
     {
       "pmid": "42569263",
       "title": "Multicentre aortic thromboembolism thrombolysis evaluation in a retrospective study of 183 cats: the MATTERS study.",
@@ -1166,18 +1430,6 @@
       ]
     },
     {
-      "pmid": "42461253",
-      "title": "Safety and Feasibility of Infusing Ex&#xa0;Vivo Expanded Allogeneic Canine Natural Killer Cells for the Treatment of Metastatic Solid Tumours.",
-      "journal": "Veterinary and Comparative Oncology",
-      "authors": "Weisnicht AM, Szewc F, Cho MM, Cheng HH, Ganesh S, Mahoney L, Fox K, Smith PR, Olsen M, Richards RM, Vail DM, Capitini CM",
-      "date": "2026 07 28",
-      "dateObject": "2026 07 28",
-      "abstract": "Companion canines need advances in therapeutic options for solid tumour malignancies. Natural killer (NK) cell infusions offer a promising treatment modality in canines with solid tumours. Autologous natural killer products are limited by dysfunctional immunity and a manufacturing process that delays care whereas allogeneic NK cells offer the possibility of 'off-the-shelf' therapy to be administered from healthy donors. Peripheral blood mononuclear cells (PBMCs) were isolated from healthy canine donors via density gradient separation. NK cells were expanded with recombinant human IL-2 and canine IL-21 with the addition of K562 feeder cells transfected with CD137 ligand and membrane bound human IL-15. Additional experiments included IL-12 during expansion. In&#xa0;vitro potency was assessed via co-culture with the D17-mKate2 canine osteosarcoma cell line. Three canines were enrolled in a phase 1 trial infusing ex&#xa0;vivo expanded allogeneic NK cells after lymphodepletion. Flow cytometric analysis confirmed successful expansion of canine NK cells with up to 50% of cells demonstrating NKp46+ after 14&#x2009;days. Residual T cell numbers varied based on donor. The addition of IL-12 led to increased NK cell expansion. Incucyte demonstrated potency with increasing osteosarcoma cell death at higher effector to target ratios. Three canines with metastatic/refractory solid tumours were successfully lymphodepleted and infused with allogeneic NK cell products. The canines tolerated the infusions well. Canine allogeneic NK cells were successfully expanded and activated ex&#xa0;vivo, demonstrated potency in&#xa0;vitro and safety in&#xa0;vivo. Further studies will optimise the NK cell product and escalate dosing to reach the maximal tolerable dose.",
-      "categories": [
-        "oncology"
-      ]
-    },
-    {
       "pmid": "42505041",
       "title": "Sarcopenia, cachexia and frailty in older cats: Mechanisms, assessment and therapeutic considerations.",
       "journal": "Journal of Feline Medicine and Surgery",
@@ -1303,18 +1555,6 @@
       "categories": [
         "oncology",
         "dermatology"
-      ]
-    },
-    {
-      "pmid": "42017196",
-      "title": "Low incidence of feline infectious peritonitis in rehomed shelter cats with known feline coronavirus status: a cohort study of 767 cats.",
-      "journal": "Journal of Feline Medicine and Surgery",
-      "authors": "Carlton C, Norris JM, Atkin N, Monteiro de Miranda L, Westman ME, Hall E, Worthing KA",
-      "date": "2026 07 25",
-      "dateObject": "2026 07 25",
-      "abstract": "ObjectivesThis study aimed to investigate long-term (up to 6 years) post-adoption outcomes in rehomed shelter cats with confirmed feline coronavirus (FCoV) infection, including the development of feline infectious peritonitis (FIP) and gastrointestinal diseases.MethodsA cohort study was performed with a population of adopted cats from a shelter in Sydney, Australia. FCoV infection status was determined within 48&#x2009;h of shelter admission by faecal viral nucleic acid detection. Long-term health outcomes were determined via an online survey distributed by the shelter to 2641 cat owners 2-6 years after adoption. The relationship between FCoV infection and health outcomes was analysed using logistic regression analysis, including calculation of odds ratios for the occurrence and frequency of health outcomes based on the cat's infection status.ResultsA total of 882 cat owners responded to the survey (response rate&#x2009;=&#x2009;34%). FCoV faecal test results were available for 767/882 (87%) cats, with corresponding completed survey responses. The prevalence of FCoV infection in this response group was 20% (n&#x2009;=&#x2009;156/767). Of 767 adopted cats, two (0.3%) were ultimately diagnosed with FIP after rehoming. Of the two adopted cats diagnosed with FIP, 1/611 (0.2%) had a negative FCoV result on shelter entry and 1/156 (0.6%) had a positive result. Vomiting (n&#x2009;=&#x2009;486/719, 68%) and diarrhoea (n&#x2009;=&#x2009;262/680, 39%) were commonly observed in the adopted cats during the study period.Conclusions and relevanceThere was no association between FCoV infection upon initial testing and subsequent long-term development of FIP or other post-adoption health conditions. The estimated incidence of FIP 2-6 years after confirmed FCoV infection (0.6%) was lower than previously reported. Low incidence of feline infectious peritonitis in cats with confirmed feline coronavirus infection This study explored whether shelter cats who tested positive for a common virus called feline coronavirus (FCoV) were more likely to develop health problems after adoption. FCoV is widespread among cats, especially in places where many cats live together, such as shelters. Most cats exposed to this virus remain healthy or have mild issues like diarrhoea. In rare cases, the virus can change inside the cat&#x2019;s body and cause a severe illness called feline infectious peritonitis (FIP), which is usually fatal without treatment. We tested cats for FCoV when they arrived at the shelter and then contacted their owners 2&#x2013;6 years after adoption to ask about the cats&#x2019; health. Of 882 survey responses, we matched 767 cats to their original test results. About 1/5 cats tested positive for FCoV at the shelter, and cats with soft stools were more likely to have a positive result. However, testing positive in the shelter did not increase the risk of developing FIP or other health problems later. Cats who were positive at the shelter were not more likely to have signs such as vomiting or diarrhoea after adoption. Only two cats (about 1/300) developed FIP, and just one of these had tested positive at the shelter. This risk/incidence is much lower than previous reports from multi-cat environments, which found about 1/12 cats developed FIP. These findings suggest that a positive FCoV test in a shelter cat does not mean the cat will become unwell later.",
-      "categories": [
-        "internalMedicine"
       ]
     },
     {
@@ -2081,18 +2321,6 @@
       "categories": []
     },
     {
-      "pmid": "42454670",
-      "title": "Enhancing EGFR Inhibition: Monensin and Erlotinib Synergize to Eliminate Cancer Stem Cells in Canine Mammary Tumours.",
-      "journal": "Veterinary and Comparative Oncology",
-      "authors": "Fang T, Zhang M, Ma C, Dong M, Song X, Wang J, Zuo R, You J, Zhao Y, Jiang S, Guo D",
-      "date": "2026 07 15",
-      "dateObject": "2026 07 15",
-      "abstract": "Canine mammary tumours (CMTs) and human breast cancer (HBC) share highly similar pathological characteristics. Cancer stem cells (CSCs) are critical to breast cancer invasion, metastasis, drug resistance, and recurrence. The experiment utilised CMT cell line CMT-U27 and HBC cell line MDA-MB-231. Cancer stem cell spheres were isolated from the two cell lines by serum-free culture respectively, named as CMT-U27 microspheres (CMT-U27S) and MDA-MB-231 microspheres (MDA-MB-231S), and the proportion of CSCs with the CD44 + /CD24 - phenotype was identified by flow cytometry. Monensin (MON), one of Polyether ionophore antibiotics, has been demonstrated to effectively suppress various types of CSCs, while erlotinib (ERL), as a tyrosine kinase inhibitor targeting epidermal growth factor receptor (EGFR), effectively inhibits cancer cell growth. This study investigates the synergistic inhibitory effects of MON-ERL combination on CSCs derived from CMTs. Cell viability was analysed by CCK-8 assay, while cell invasion and mammosphere formation assays were conducted to evaluate changes. An orthotopic tumour model in nude mice using CMT-U27S was established for in&#xa0;vivo validation. The results suggested that MON and ERL combination synergistically inhibited CSCs viability and significantly suppress their invasion and mammosphere formation abilities. The expression of key proteins of the EGFR pathway-p-EGFR, PI3K, and p-AKT was significantly reduced. In animal experiments, tumour volumes in the combination treatment group were markedly reduced compared to those in all other groups (p&#x2009;<&#x2009;0.05), and no lung metastases were observed only in the combination group. Immunofluorescence and immunohistochemistry results indicated a marked reduction of CD44 + /CD24 - cells in the combination group, along with suppressed expression of stem cell markers and proliferation/apoptosis proteins. In conclusion, MON combined with ERL effectively inhibits the proliferation, self-renewal, and metastatic capabilities of CSCs from CMTs by synergistically downregulating the EGFR/PI3K pathway, demonstrating promising antitumor potential and offering a new strategy for CMTs treatment.",
-      "categories": [
-        "oncology"
-      ]
-    },
-    {
       "pmid": "42457205",
       "title": "External Validation of a Custom-Trained Artificial Intelligence Model for Canine Ear Canal Disease and Comparison With Veterinary Professionals.",
       "journal": "Veterinary Dermatology",
@@ -2148,18 +2376,6 @@
       "abstract": "ObjectivesFeline leukaemia virus (FeLV) infection - particularly the progressive course - continues to cause substantial morbidity and reduced survival in cats. Therapeutic options with proven antiviral effectiveness remain limited. This study aimed to evaluate the clinical and virological effects of the integrase inhibitor raltegravir in naturally infected, FeLV-progressive cats with FeLV-related conditions, clinical outcome, viraemia, proviral burden and survival.MethodsIn total, 14 client-owned cats with confirmed progressive FeLV infection and at least one FeLV-related condition were enrolled. Raltegravir was administered for 90 days, followed by a 90-day treatment-free observation period. Clinical evaluation and quantification of viral RNA and proviral DNA loads were performed at treatment initiation, day 45, day 90 and day 180. Cats continued to receive standard of care as clinically indicated. Survival data were recorded until study closure.ResultsAfter 45 days of treatment, plasma viral RNA load showed a non-significant mean reduction of 1.34 log 10 ( P &#x2009;=&#x2009;0.204). At day 90, mean viral load continued to decrease, with reductions of 1.10 log 10 at 40&#x2009;mg ( P &#x2009;=&#x2009;0.208) and 1.39 log 10 at 80&#x2009;mg ( P &#x2009;=&#x2009;0.195), none of which reached statistical significance. Raltegravir did not exert a consistent effect on proviral DNA load. Most FeLV-related conditions remained clinically stable or improved during the 180-day monitoring period. Leukaemia and lymphoma were the main causes of death. Median survival time was 48 months from FeLV diagnosis and 10.8 months from treatment initiation.Conclusions and relevanceTo the authors' knowledge, this is the first prospective longitudinal study in naturally infected, FeLV-progressive cats with FeLV-related conditions assessing the effects of raltegravir on viraemia, proviral load and clinical outcomes. These real-world data suggest that raltegravir may be associated with numerical reductions in viraemia and clinical stabilisation in some cats. A definitive virological or survival benefit, however, could not be demonstrated. Longer term controlled studies - potentially within multimodal antiviral strategies - are warranted to further define its therapeutic role.",
       "categories": [
         "internalMedicine",
-        "oncology"
-      ]
-    },
-    {
-      "pmid": "41914636",
-      "title": "Mediastinal Lymphoma in 70 Dogs Treated With Lomustine or Anthracycline-Based Multi-Agent Chemotherapy.",
-      "journal": "Veterinary and Comparative Oncology",
-      "authors": "Machado D, Picornell JA, Amores-Fuster I, Benjamin S, Kearns T, Zajc AL, Bing Y, McNaught KA, Sava M, Johnston C, Rolf B, Yale AD",
-      "date": "2026 07 14",
-      "dateObject": "2026 07 14",
-      "abstract": "Primary mediastinal lymphoma is rare in dogs and literature exploring this disease is limited. Therefore, the aim of this study was to describe presentation, treatment and outcome in a large cohort of dogs with mediastinal lymphoma and explore prognostic factors including chemotherapy protocol. This retrospective multi-institute study included 70 dogs with primary mediastinal lymphoma treated with lomustine-based (LOP/LOPP) or anthracycline-based (CHOP/CEOP) chemotherapy. Most immunophenotyped cases were of T-cell lineage (95.6%). The majority were substage b (90%) and hypercalcaemia was noted in 69.1% of dogs. Clinical and objective response rates to chemotherapy were 92.7% and 97.9%, respectively, with 76.6% of dogs achieving a complete response. Median progression free survival (PFS) was 132&#x2009;days (95% CI 83-181), and median overall survival time (OST) was 223&#x2009;days (95% CI 175-271). The 6-month, 1-year, and 2-year survival rates were 55.7%, 22.9%, and 15.7%, respectively. On multivariable analysis, factors associated with longer PFS included hypercalcaemia (p&#x2009;=&#x2009;0.041), chemotherapy-induced neutropenia (p&#x2009;=&#x2009;0.014) and CD4+/CD8- immunophenotype (p&#x2009;=&#x2009;0.004). Neutropenia at diagnosis was associated with shorter PFS (p&#x2009;=&#x2009;0.015) and OST (p&#x2009;=&#x2009;0.004). Other factors associated with shorter OST included granular morphology (p&#x2009;=&#x2009;0.023) and CD4+/CD8+ immunophenotype (p&#x2009;=&#x2009;0.004). Chemotherapy-induced neutropenia was associated with improved OST (p&#x2009;=&#x2009;0.042). Differences in outcome between anthracycline- or lomustine-based chemotherapy protocols were not statistically significant. Overall, the prognosis for primary mediastinal lymphoma in dogs is poor to fair when treated with multi-agent chemotherapy. This is the second study associating hypercalcaemia with improved PFS in dogs with non-indolent T-cell lymphoma. Results also suggest prognostic significance of specific CD4/CD8 expression patterns.",
-      "categories": [
         "oncology"
       ]
     },
@@ -2292,30 +2508,6 @@
       ]
     },
     {
-      "pmid": "42041086",
-      "title": "Radiographic patterns and lesion associations in feline pelvic trauma.",
-      "journal": "Journal of Feline Medicine and Surgery",
-      "authors": "Zurlo A, Manfredi M, Sala G, Cappellari F, Carnevale L, Giudice C, Spada E, Di Giancamillo M, Longo M",
-      "date": "2026 07 11",
-      "dateObject": "2026 07 11",
-      "abstract": "ObjectivesPelvic fractures are common in feline trauma patients and often involve multiple structures due to the rigid anatomy of the pelvis. This study aimed to investigate the radiographic distribution of pelvic lesions in cats, to identify potential correlations among specific pelvic lesions and to evaluate the relationship between lesion type and total number of lesions.MethodsA retrospective bicentric study was conducted on cats presenting with pelvic trauma, based on orthogonal pelvic radiographs. Pelvic lesions were classified anatomically, and statistical analyses were performed to evaluate associations among different lesion types and between lesion type and total number of lesions.ResultsA total of 80 cats with pelvic trauma were included. A total of 267 pelvic lesions were identified, with a mean of three lesions per patient, and most cats (91.2%) had multiple pelvic lesions. Sacroiliac luxation was the most common lesion. Positive statistically significant associations were identified between (1) left and right sacroiliac luxation (&#x3c1;&#x2009;=&#x2009;0.20, P &#x2009;=&#x2009;0.036), (2) sacroiliac luxation with contralateral iliac fracture (&#x3c1;&#x2009;=&#x2009;0.21, P &#x2009;=&#x2009;0.030; &#x3c1;&#x2009;=&#x2009;0.24, P &#x2009;=&#x2009;0.017) and (3) pubic fractures with ipsilateral ischial fractures (&#x3c1;&#x2009;=&#x2009;0.53, P <0.001; &#x3c1;&#x2009;=&#x2009;0.37, P <0.001). Unilateral sacroiliac luxation, pubic, ischial and pelvic symphyseal fractures were never observed in isolation, whereas coxofemoral luxation often occurred as a solitary lesion.Conclusions and relevanceFeline pelvic trauma frequently results in complex, multi-site lesion patterns, and consistent associations among specific lesions suggest predictable biomechanical behaviour within the pelvic ring. Recognition of these patterns may assist clinicians in the systematic radiographic evaluation of feline pelvic trauma and facilitate detection of additional, potentially occult lesions. Pelvic injuries in cats: how common they are and which lesion combinations veterinarians should expect on radiographs Pelvic fractures are a common consequence of accidents in cats, especially when they experience high-energy trauma. The pelvis is a rigid structure, so when a cat experiences a significant impact, the force usually spreads through the whole pelvic ring, creating multiple lesions rather than a single injury. This study examined radiographs from 80 cats with pelvic trauma to understand how pelvic lesions are distributed and whether certain injuries tend to occur together. Most cats (over 90%) had lesions affecting more than one part of the pelvis. On average, each cat had three separate pelvic lesions. The most common lesion was sacroiliac luxation, a condition in which the pelvis becomes separated from the spine on one or both sides. Several injuries were found to occur together, suggesting predictable trauma patterns. For example, sacroiliac luxation was often associated with a fracture of the ilium on the opposite side, whereas pubic fractures commonly appeared together with ischial fractures on the same side. These associations likely reflect how forces travel through the pelvis during trauma. Some lesions, such as fractures of the pubis, ischium, pelvis midline (symphysis) or sacroiliac luxation, rarely occurred on their own and were usually part of more complex injury patterns. Conversely, hip dislocation (coxofemoral luxation) was more likely to appear as an isolated lesion. By highlighting these patterns, this study provides practical guidance to veterinarians. Recognising which lesions commonly occur together may help clinicians to interpret radiographs more accurately and detect additional lesions that might otherwise be missed.",
-      "categories": [
-        "surgery"
-      ]
-    },
-    {
-      "pmid": "41847725",
-      "title": "Generation of a Rabbit Anti-Canine CD19 Monoclonal Antibody From Peripheral Blood and Its Validation in Immunoassays and CAR-T Feasibility.",
-      "journal": "Veterinary and Comparative Oncology",
-      "authors": "Li H, Lu Q, Huang X, Li M, Zhou Y, Chen M, Qin M, Kang J, Xie S, Meng Q",
-      "date": "2026 07 11",
-      "dateObject": "2026 07 11",
-      "abstract": "Lymphoma constitutes 24% of canine neoplastic diseases and 85% of haematopoietic tumours, with B-cell subtypes accounting for 60%-80% of cases. As the most prevalent spontaneous tumour in canines, this disease model holds significant translational value for human non-Hodgkin lymphoma research. To address diagnostic limitations in canine B-cell lymphoma, we developed a canine-specific CD19 monoclonal antibody (HAC19.1) with high affinity and established a dual-platform detection system compatible with flow cytometry and immunohistochemistry. Additionally, a novel CD19-targeting chimeric antigen receptor (CAR) gene sequence (HUA-1) was engineered and successfully transduced into Jurkat cells via lentiviral vectors, confirming stable CAR membrane expression. This breakthrough provides critical technical groundwork for advancing autologous CAR-T cell therapy in canines.",
-      "categories": [
-        "oncology"
-      ]
-    },
-    {
       "pmid": "42432684",
       "title": "Human-mediated determinants of trypanocide use in dogs in Southeastern Nigeria: a cross-sectional survey with implications for resistance and One Health.",
       "journal": "BMC Veterinary Research",
@@ -2348,58 +2540,6 @@
       "categories": []
     },
     {
-      "pmid": "42429579",
-      "title": "Sentinel Lymph Node Mapping Identifies Variable Cervical Drainage and Metastatic Nodes Outside Traditional Sampling Sites in Canine Oromaxillofacial Tumours.",
-      "journal": "Veterinary and Comparative Oncology",
-      "authors": "Chrostek E, Lawrence J, Arzi B, Stewart N, Goldschmidt S",
-      "date": "2026 07 10",
-      "dateObject": "2026 07 10",
-      "abstract": "Sentinel lymph node mapping (SLNM) has emerged as a key technique to guide decisions regarding nodal extirpation in dogs with oromaxillofacial tumours. The primary aims of this retrospective study were to describe the clinical utility of indirect computed tomographic lymphangiography (ICTL) for SLNM in a large cohort of dogs, characterise variability in SLN drainage patterns by tumour location, and describe the distribution of metastatic lymph nodes (LNs) identified by SLNM guided cytology or pathology. SLN locations, cytology, and available histopathology were reported as descriptive data. ICTL data were evaluated for 77 oromaxillofacial tumours in 74 dogs. A median of 2 SLNs were identified per ICTL dataset with 92% having at least one SLN identified. The ipsilateral mandibular lymphocentrum was the most common drainage basin; however, contralateral or bilateral drainage was frequent, occurring in over 55% of rostral tumours. Lateralized tumours were associated with a higher frequency of ipsilateral mandibular SLN identification compared with non-lateralized tumours (p&#x2009;=&#x2009;0.0009). Of 68 dogs with malignant tumours, 10 (15%) had LN metastasis. Metastasis occurred in the SLN (n&#x2009;=&#x2009;8), outside the SLN (n&#x2009;=&#x2009;1), and in one dog without any identifiable SLNs. In 4 dogs (40%), metastasis extended beyond the ipsilateral lateral MLN; 3 dogs had metastasis exclusively in the medial retropharyngeal LNs. Among dogs with paired cytology and pathology, the false-negative rate of SLN cytology was 6.9%, potentially offering a low-morbidity screening method prior to LN extirpation. Future studies should seek to evaluate how SLNM with guided LN sampling influences patient outcomes, given its clinical feasibility.",
-      "categories": [
-        "oncology"
-      ]
-    },
-    {
-      "pmid": "41816851",
-      "title": "Canine Urothelial DNA Mutations Are Not Associated With Total Trihalomethanes Concentrations in Municipal Drinking Water.",
-      "journal": "Veterinary and Comparative Oncology",
-      "authors": "O'Brien J, Braman SL, Willcox J, Wang P, Gerrity D, Ruple A, Trepanier LA",
-      "date": "2026 07 10",
-      "dateObject": "2026 07 10",
-      "abstract": "Contaminants in municipal drinking water, specifically total trihalomethanes (TTHMs), are mutagenic. Exposures to TTHMs have been associated with urothelial carcinoma (UC) in both people and dogs. Mutations in the BRAF gene and other genomic copy number aberrations detected in voided urothelial cells with commercial CADET BRAF and BRAF-PLUS tests have also been associated with the presence of UC in dogs. However, it is not known whether these urothelial mutations can be linked to TTHM exposures in dogs. The objectives of this ecological study were to compare the incidence of detected urinary BRAF mutations or genomic copy number aberrations in dogs residing in a city with relatively high drinking water TTHMs (Las Vegas, NV) to a city with significantly lower TTHMs (Reno, NV), and to expand the study group to include BRAF and BRAF-PLUS test results and municipal drinking water TTHM concentrations by zip code across the United States. Dogs living in Las Vegas had a higher relative risk of urothelial mutations compared to dogs living in Reno (RR 2.52; 95% CI, 1.77-3.38; p&#x2009;<&#x2009;0.0001). However, this risk could not be attributed to higher municipal drinking water TTHMs. Across the United States, the population-adjusted incidence of urothelial mutations in voided urine was not associated with municipal water TTHMs, but was instead associated in cross-sectional analyses with age, neutered status, higher regional test submission rates and previously reported high-risk breeds for UC (Scottish terriers, West Highland white terriers, Shetland sheepdogs, beagles and wirehaired fox terriers). The higher RR for a positive BRAF or BRAF-PLUS test in Las Vegas versus Reno could be solely due to higher test submission rates (2.97 versus 0.97 per 1000 dogs) but could also reflect other environmental exposures not considered in this study.",
-      "categories": [
-        "internalMedicine",
-        "oncology"
-      ]
-    },
-    {
-      "pmid": "41793295",
-      "title": "Hemangiosarcoma: A Systematic Review of Biomarkers in Diagnosis, Prognosis, and Therapeutic Strategies.",
-      "journal": "Veterinary and Comparative Oncology",
-      "authors": "Vercammen S, Luong HTT, De Cock H, De Spiegelaere W, Cosma A, de Marco A, de Rooster H",
-      "date": "2026 07 10",
-      "dateObject": "2026 07 10",
-      "abstract": "Hemangiosarcoma (HSA) in dogs is a malignant vascular tumour that exhibits rapid growth, frequent early metastasis, and resistance to conventional therapies, often resulting in short survival times. Building on our previous systematic review of biomarkers in human angiosarcoma, this review focuses specifically on the canine counterpart, synthesizing current evidence on diagnostic, prognostic, and therapeutic biomarkers. A comprehensive PRISMA-compliant search of PubMed and Embase was conducted for studies published from 1996 through 2024, inclusive. Fifty-one eligible studies were identified and assessed for methodological quality using the Newcastle-Ottawa Scale. This review highlights promising protein, molecular, and haematological biomarker candidates, evaluates their clinical relevance, and identifies key gaps in the literature and existing knowledge. By drawing parallels to human angiosarcoma research, this work lays the foundation for comparative oncology efforts and supports the development of novel diagnostic tools and targeted therapies for canine HSA.",
-      "categories": [
-        "oncology"
-      ]
-    },
-    {
-      "pmid": "41792027",
-      "title": "Postmortem Detection of Blood Vascular Tumour-Cell Emboli in 31 Dogs: Macroscopic and Histological Findings.",
-      "journal": "Veterinary and Comparative Oncology",
-      "authors": "Molozzi H, Cirin&#xe9;a Tapia Barraza V, Bert&#xe9; Marcus V, de Aro Jorge Tavares I, Girol Sanches MV, Britz Zimmer BR, Britz Zimmer BK, Alassia Sangoi F, Almeida Fighera R, Kommers GD, Martins Flores M",
-      "date": "2026 07 10",
-      "dateObject": "2026 07 10",
-      "abstract": "Despite the high prevalence of neoplastic diseases in dogs, tumour-cell embolism is poorly documented. This study aimed to characterise the presence and pathological features of distant blood vascular tumour-cell emboli (TCE) in dogs submitted for necropsy. TCE were histologically confirmed in 31/528 dogs (5.9%) that died or were euthanized due to neoplastic disease, most frequently mammary carcinomas (17/31, 54.8%). In 15/31 dogs (48.4%), TCE were associated with secondary macroscopic lesions, such as haemorrhage, whereas in 16/31 dogs (51.6%), there was no clear association with additional pathological changes. TCE were most commonly observed in the lungs (25/31), kidneys (9/31), adrenals (5/31), brain (5/31), and myocardium (5/31). Macroscopic pulmonary changes included petechiae or suffusions (8/31), and TCE-associated haemorrhages were also observed in the myocardium (4/31), kidneys (2/31), adrenals (2/31), brain (2/31), and gastrointestinal serosae (2/31). Histological lesions associated with TCE included haemorrhage (18/31), thrombosis (11/31), oedema (8/31), infarcts (7/31), and intimal proliferation and perivascular fibrosis (4/31). Taken together, these findings suggest that blood vascular TCE may be more prevalent in dogs than currently recognised and reinforce the importance of careful pathological evaluation for their detection. The clinical, macroscopic, and microscopic features described herein provide a practical framework for recognising TCE in veterinary pathology and underscore the need for further studies addressing their pathogenesis, clinical significance, and impact on disease progression in dogs.",
-      "categories": [
-        "cardiology",
-        "internalMedicine",
-        "oncology",
-        "neurology"
-      ]
-    },
-    {
       "pmid": "42429301",
       "title": "Standardising Assessment of Superficial Pyoderma in Dogs: Proposal of a Severity Score.",
       "journal": "Veterinary Dermatology",
@@ -2421,34 +2561,6 @@
       "abstract": "Feline infectious peritonitis (FIP) is a fatal infectious disease caused by feline infectious peritonitis virus (FIPV) which causes death of young cats less than 2 years old. Until now, few drugs are available for treatment of FIP. Here, we developed a modified FIPV expressing eGFP reporter gene by reverse genetics to evaluate the ability of Chinese herbal polysaccharides on inhibition of FIPV infection in Crandell-Rees feline kidney (CRFK) cells. The results demonstrated that the recombinant FIPV could express eGFP reporter gene, replicated in the CRFK cells and grow in a similar way with wild-type FIPV. By using this recombinant FIPV, we found that glycyrrhiza polysaccharide (GPS) effectively inhibited FIPV when added at the same time with virus or post-infection in CRFK cells. Further studies revealed that GPS inhibited FIPV adsorption and replication, but did not affect FIPV internalization in CRFK cells. In the current study, we successfully established a modified FIPV platform which supports high-throughput drug screening in vitro, and we found that GPS is a promising candidate for treating FIP.",
       "categories": [
         "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42423133",
-      "title": "Comparison of Aerosolised and Traditional Tumour Margin Inking: A Prospective Blinded Histopathological Review in Canine Skin Tumours.",
-      "journal": "Veterinary and Comparative Oncology",
-      "authors": "Wouters KL, Snelling SR, Morton JM, Stokes S",
-      "date": "2026 07 09",
-      "dateObject": "2026 07 09",
-      "abstract": "Inking of canine skin tumours facilitates histopathological margin assessment. While traditional dab application is standard practice, aerosolised (spray) application may offer practical advantages. The objective of this study was to determine if aerosolised ink application provides comparable margin coverage to traditional dab methods and to compare time of application and volume of ink used. A blinded, randomised study on 19 canine skin tumours was performed. Each tumour was sectioned into two halves and one half randomly assigned a method (dab or spray) and ink colour (black or blue) with the other half receiving the alternative method and colour. Margin coverage (percentage of margin covered by ink), application time and ink volume were measured. Spray application was non-inferior to dab with respect to margin coverage, with mean margin coverage estimated as being 0.25 to 0.41 percentage points greater and lower limits of 95% confidence intervals -0.72 and -0.35 percentage points, respectively. Spray application was estimated as being 38&#x2009;s faster on average (p&#x2009;<&#x2009;0.001) but used approximately 0.5&#x2009;mL more ink (p&#x2009;<&#x2009;0.001). These findings suggest that aerosolised inking provides comparable margin coverage while reducing application time; however, ink placement fidelity was not assessed, and further evaluation is warranted to confirm full clinical equivalence.",
-      "categories": [
-        "oncology",
-        "dermatology"
-      ]
-    },
-    {
-      "pmid": "42421602",
-      "title": "Surgery and Adjuvant Electrochemotherapy Compared to Surgery Alone for Treatment of Canine Incompletely Excised Soft Tissue Sarcomas.",
-      "journal": "Veterinary and Comparative Oncology",
-      "authors": "Sofia R, Michael M, Gerry P, Joana GF, L&#xfa;cia LA, Patr&#xed;cia DP, Andreia S",
-      "date": "2026 07 09",
-      "dateObject": "2026 07 09",
-      "abstract": "The predominant challenge in canine soft tissue sarcomas (STSs) is achieving local tumour control, for which surgical excision remains the standard treatment. When complete margins are not attainable, adjuvant therapy may be recommended. Electrochemotherapy (ECT) combines cytotoxic drugs with electric pulses to enhance drug uptake and antitumour efficacy and has shown promising results. However, its role in incompletely excised STSs remains unclear, with limited control-group studies to confirm its efficacy. This retrospective study compared recurrence rate and time to recurrence (TTR) between dogs with incompletely excised cutaneous or subcutaneous low and intermediate-grade STSs treated with surgery alone or with adjuvant ECT and assessed ECT-related toxicity. Medical records from one oncology centre were reviewed. Dogs were included if completely staged, non-metastatic, and had a minimum follow-up of 10&#x2009;months. The ECT protocol consisted of two sessions, 2&#x2009;weeks apart, with intravenous bleomycin followed by biphasic pulses using plate electrodes. Forty-three dogs met the inclusion criteria: 22 underwent surgery alone, and 21 surgery followed by adjuvant ECT. Recurrence occurred in 68.2% and 33.3% of cases, respectively. Kaplan-Meier analysis showed a significantly longer TTR in the ECT group (median not reached vs. 534&#x2009;days; p&#x2009;=&#x2009;0.044). Treatment was well tolerated, with mild transient local inflammation in 38% of dogs. These findings support ECT as a safe and promising adjuvant therapy for improving local tumour control in incompletely excised canine STSs.",
-      "categories": [
-        "internalMedicine",
-        "oncology",
-        "surgery",
-        "dermatology"
       ]
     },
     {
@@ -2582,19 +2694,6 @@
       ]
     },
     {
-      "pmid": "42405426",
-      "title": "Anti-Canine Mammary Carcinoma Effects of mPP-Based Nano-Micelles Encapsulating DPIA.",
-      "journal": "Veterinary and Comparative Oncology",
-      "authors": "Chen Y, Wang H, Wang Z, Xie Y, Xu F, Liang X",
-      "date": "2026 07 06",
-      "dateObject": "2026 07 06",
-      "abstract": "Triple negative breast cancer (TNBC) presents a significant challenge in breast cancer treatment. Canine mammary carcinoma, characterized by spontaneous tumours in female dogs, serves as a robust spontaneous model for TNBC. In this study, DPIA, a potent antitumor agent, was encapsulated into synthesized mPEG-PCL (mPP) to form nano-micelles, aiming to enhance its in&#xa0;vivo therapeutic efficacy. DPIA@mPP exhibited more uniform dispersion and a spheroid-like architecture, with a drug loading rate of 4.31% and an encapsulation rate of 13.10%. Both DPIA@mPP and free DPIA exhibited comparable and significant cytotoxicity against canine mammary carcinoma cells (CMT-7364) in&#xa0;vitro. Encapsulation into mPP enhanced DPIA uptake by CMT-7364 cells, increasing tumour inhibition from 30.31% to 48.55%, while markedly reducing in&#xa0;vivo toxicity. Overall, the DPIA@mPP group demonstrated superior in&#xa0;vivo antitumor efficacy and a good safety profile. Furthermore, preliminary mechanistic studies suggest that DPIA@mPP may promote apoptosis in CMT-7364 cells, potentially through the inhibition of the PI3K/AKT signalling pathway, offering novel insights into TNBC treatment strategies.",
-      "categories": [
-        "internalMedicine",
-        "oncology"
-      ]
-    },
-    {
       "pmid": "42405442",
       "title": "Cutaneous Reactive Histiocytosis in Golden Retrievers: An&#xa0;Immunohistochemical Approach.",
       "journal": "Veterinary Dermatology",
@@ -2633,19 +2732,6 @@
       ]
     },
     {
-      "pmid": "42400110",
-      "title": "Long-Term Outcome of Electrochemotherapy in the Treatment of Advanced Stages (T 3 -T 4 ) of Feline Nasal Planum Squamous Cell Carcinoma.",
-      "journal": "Veterinary and Comparative Oncology",
-      "authors": "Franchini D, Laino I, Perrone C, Di Bello A, Ciccarelli S",
-      "date": "2026 07 04",
-      "dateObject": "2026 07 04",
-      "abstract": "Electrochemotherapy is increasingly used as a locoregional treatment for feline squamous cell carcinoma, but its role in advanced nasal planum disease remains poorly defined. This retrospective study evaluated the long-term outcome of ECT as a sole treatment modality in 18 cats with T 3 -T 4 N 0 M 0 nasal planum squamous cell carcinoma. Adverse events were assessed according to VCOG-CTCAE v2. Response was assessed using RECIST v1.1 criteria, and progression-free survival (PFS), overall survival (OS) and time to progression (TTP) were analysed using Kaplan-Meier methods. At the end of treatment, 72.2% of cats achieved complete response, 16.7% partial response and 11.1% stable disease, resulting in an overall response rate of 88.8%. The 1-year complete response rate was 61.1%. Treatment response was significantly associated with PFS (p&#x2009;=&#x2009;0.006), OS (p&#x2009;<&#x2009;0.001) and TTP (p&#x2009;=&#x2009;0.006), while recurrence was associated with shorter PFS (p&#x2009;=&#x2009;0.003) and OS (p&#x2009;=&#x2009;0.002). The 1-year risk of recurrence was 50%. Adverse events were mostly low-grade (VCOG Grade I-II) and self-limiting, the most common being transient local pain, erythema/crusting and pruritus; no grade &#x2265;&#x2009;3 complications such as tissue necrosis or fistula formation were observed. These results suggest that ECT is an effective and well-tolerated treatment also in advanced stages nasal planum squamous cell carcinoma, with high response rates and long-term control disease. The risk of recurrence underscores the need for prolonged follow-up, as additional treatment sessions may be performed upon relapse, while ECT can also be used with palliative intent to prolong survival while preserving quality of life.",
-      "categories": [
-        "oncology",
-        "dermatology"
-      ]
-    },
-    {
       "pmid": "42396959",
       "title": "Challenging the Clinical Paradigm of Hepatozoon canis: A Primary Pathogen Causing Clinically Significant Disease at Low Parasitaemia and a Chronic Inflammatory State.",
       "journal": "Veterinary Medicine and Science",
@@ -2667,18 +2753,6 @@
       "abstract": "Canine babesiosis is a significant and emerging tick-borne disease caused by Babesia spp. This study investigated the molecular prevalence, hematobiochemical profiles, and risk factors for B. vogeli and B. gibsoni infections in dogs in northern India, addressing the molecular research on babesiosis prevalence in this region. An overall prevalence of canine babesiosis by microscopy and PCR was 12.5% (27/216) and 27.78% (60/216), respectively. The prevalence rates for B. vogeli by microscopy and conventional PCR were 10.64% and 22.22%, respectively, whereas the corresponding rates for B. gibsoni were 1.85% and 5.55%, respectively. Results revealed that B. vogeli was the predominant species. Non-descript dogs were significantly more susceptible to B. vogeli infection (OR: 27.491; 95% CI: 1.092-692.018; P&#x2009;<&#x2009;0.05). Additionally, dogs with enlarged lymph nodes were three times more likely to be B. vogeli-positive (OR&#x2009;=&#x2009;3.338; 95% CI: 1.345-8.287; P&#x2009;<&#x2009;0.05). Dogs under one year had higher odds of B. vogeli infection, but this was not statistically significant (OR&#x2009;=&#x2009;1.765; 95% CI: 0.663-4.703). Similarly, B. gibsoni infection was associated with dogs over four years old (P&#x2009;<&#x2009;0.001) and males (P&#x2009;<&#x2009;0.05). Vital parameters (temperature, pulse rate, and respiration rate) showed no significant association with B. vogeli and B. gibsoni infections. Hematological parameters, viz., hemoglobin (Hb), total erythrocyte count (TEC), packed cell volume (PCV), and platelet count, were significantly decreased in both B. vogeli and B. gibsoni affected dogs (P&#x2009;<&#x2009;0.05). Babesia gibsoni-infected dogs had significantly lower TEC, PCV, and platelet count than B. vogeli-infected dogs. Biochemical parameters, viz., alanine aminotransferase (ALT), total bilirubin (TB), direct bilirubin (DB), indirect bilirubin (IDB), and blood urea nitrogen (BUN), were significantly increased, with decreased albumin levels (P&#x2009;<&#x2009;0.05). Babesia gibsoni-infected dogs had significantly higher BUN, TB, and IDB levels than B. vogeli-infected dogs. Treatment was based on the Babesia species, with imidocarb dipropionate for B. vogeli and a combination therapy (diminazene aceturate, imidocarb dipropionate, and clindamycin) for B. gibsoni, which showed promising efficacy. The study highlighted the importance of accurate diagnosis and species-specific treatment for canine babesiosis, with B. vogeli being more prevalent (22.22%) than B. gibsoni (5.55%), and distinct risk factors and clinical implications for each Babesia species in northern India. These findings contribute to the understanding of Babesia epidemiology in the region and highlight the need for further studies to inform the development of targeted control strategies.",
       "categories": [
         "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42394397",
-      "title": "Transcriptomic and microRNA Profiling Suggest a Candidate RIPPLY1-cfa-miR-187 Relationship in Canine Mammary Gland Tumours From Dogs With Confirmed Metastasis.",
-      "journal": "Veterinary and Comparative Oncology",
-      "authors": "Wang S, Takahashi M, Chen HW, Nozaki N, Arif M, Ide Y, Akiyama Y, Islam S, Hifumi T, Hirano S, Miyoshi N, Yamato O, Kato D, Nakagawa T, Miura N",
-      "date": "2026 07 03",
-      "dateObject": "2026 07 03",
-      "abstract": "Canine mammary gland tumours (MGT) represent a common malignancy in intact female dogs, with a high metastasis rate approaching 50% and a poor prognosis. However, metastasis-related genes remain largely unelucidated. Accordingly, we aimed to identify differentially expressed mRNAs and miRNAs in primary canine MGT tissues from dogs with or without confirmed metastasis. We compared mRNA and microRNA (miRNA) expression profiles between malignant MGT tissue samples with and without metastasis. Differentially expressed genes and miRNAs were identified using next-generation sequencing and analysed using the Empirical Analysis of DEGs tool within CLC Genomics Workbench. We identified 119 genes and eight miRNAs as differentially expressed in primary MGTs from dogs with confirmed metastasis. The RIPPLY1 gene was significantly downregulated in primary MGT samples with confirmed metastasis and this result was validated by RT-qPCR. The Cancer Genome Atlas (TCGA) database showed decreased RIPPLY1 expression in human breast cancer, supporting its possible relevance to tumour biology. In silico analysis (miRWalk) revealed that miR-187 is a predicted candidate miRNA that may interact with RIPPLY1 and both NGS data and RT-qPCR showed increased cfa-miR-187 expression in primary tumour samples from dogs with confirmed metastasis. The inverse expression pattern of RIPPLY1 and cfa-miR-187, together with RNAhybrid binding prediction, suggests a possible candidate miRNA-mRNA relationship. STRING analysis suggested a possible pathway context involving beta-catenin/TCF-related proteins, but this computational result requires further validation. Based on these findings, we identified RIPPLY1 and cfa-miR-187 as potential candidate transcripts associated with primary canine MGTs from dogs with confirmed metastasis but functional validation is required.",
-      "categories": [
-        "oncology"
       ]
     },
     {
@@ -2832,19 +2906,6 @@
       ]
     },
     {
-      "pmid": "42337642",
-      "title": "Raman Spectroscopy for Differentiating High- and Low-Grade Canine Cutaneous Mast Cell Tumours.",
-      "journal": "Veterinary and Comparative Oncology",
-      "authors": "Catarino J, Silva S, Novais S, Santos J, Payan-Carreira R, Fa&#xed;sca P, Reis J",
-      "date": "2026 06 24",
-      "dateObject": "2026 06 24",
-      "abstract": "Canine cutaneous mast cell tumours (MCTs) demonstrate variable clinical behaviour. Histological grading remains the primary prognostic approach, but some low-grade tumours behave aggressively, and interobserver variability persists. This underscores the need for complementary and objective biomarkers. Raman spectroscopy (RS) is a non-destructive optical technique based on the inelastic scattering of monochromatic light capable of detecting subtle biochemical changes in tissues. This exploratory study evaluates whether RS could differentiate low-grade from high-grade cutaneous MCTs based on characteristic vibrational signatures. Eighteen canine cutaneous mast cell tumours were graded according to the Kiupel two-tier system, comprising 10 low-grade and 8 high-grade cases. Formalin-fixed tumour samples were analysed, yielding a total of 68 Raman spectra. Spectra were acquired with a 785&#x2009;nm laser, pre-processed using baseline correction, and normalized to the 1007&#x2009;cm -1 phenylalanine band. Data normality was tested with the Shapiro-Wilk test, and group comparisons used the Mann-Whitney U test (&#x3b1;&#x2009;=&#x2009;0.05). The 1007&#x2009;cm -1 band showed no significant difference between Low- and High-Grade tumours (p&#x2009;=&#x2009;0.068), validating its use for normalization. Conversely, the 860&#x2009;cm -1 tyrosine-associated band was significantly higher in high-grade tumours (p&#x2009;=&#x2009;0.033). Ratios normalized to the 1007&#x2009;cm -1 peak consistently discriminated between grades, with significantly higher values in low-grade tumours across multiple spectral regions-particularly 1007/1299 and 1007/1301-1320 (all p&#x2009;<&#x2009;0.05). Overall, RS identified distinct biochemical fingerprints between tumour grades in canine cutaneous MCTs, especially in spectral regions associated with amino acids, lipids, and nucleic acids. These findings support the potential of RS as a complementary tool for MCT characterization and encourage further validation in larger cohorts with clinical outcome data.",
-      "categories": [
-        "oncology",
-        "dermatology"
-      ]
-    },
-    {
       "pmid": "42334009",
       "title": "Hyaluronic Acid-Based Photocurable Glue Application as an Alternative Surgical Approach for Corneal Injuries in Canine Patients: A Case Series.",
       "journal": "Veterinary Medicine and Science",
@@ -2946,20 +3007,6 @@
       ]
     },
     {
-      "pmid": "42304866",
-      "title": "The Definitive-Intent 10-Fraction Radiotherapy Protocol ('The Zurich Protocol') Yields Lasting Tumour Control and Survival in Dogs With Intracranial Meningiomas.",
-      "journal": "Veterinary and Comparative Oncology",
-      "authors": "Ahrens C, Unterkirhers S, Rohrer Bley C",
-      "date": "2026 06 17",
-      "dateObject": "2026 06 17",
-      "abstract": "Moderately hypofractionated definitive-intent radiotherapy protocols can be used for canine intracranial meningiomas to shorten overall treatment time while maintaining tumour control and limiting normal tissue toxicity. This retrospective study evaluated oncologic outcomes, toxicity, and radiation dose-volume-related prognostic factors in dogs with imaging-based intracranial meningiomas treated with a 10-fraction definitive-intent protocol. Medical records from 2015 to 2025 were reviewed. All dogs received 10 daily fractions of 4&#x2009;Gy delivered with a homogeneous dose prescription, risk-adapted heterogeneous dose distributions, or an 11% simultaneously integrated boost (SIB) to the gross tumour volume. One hundred and ten dogs were included, with a median follow-up of 498&#x2009;days. Median time to progression was 873&#x2009;days (95% CI: 552-1195), median overall survival after first radiotherapy was 756&#x2009;days (95% CI: 474-1039), and median DSS was 1078&#x2009;days (95% CI: 915-1242). Time to progression differed among treatment subgroups (p&#x2009;=&#x2009;0.024). Larger volumes of normal brain receiving &#x2265;&#x2009;32&#x2009;Gy (>&#x2009;11.5&#x2009;cm 3 ) were associated with shorter overall (p&#x2009;<&#x2009;0.001) and disease-specific survival (p&#x2009;=&#x2009;0.002). Use of an SIB was associated with shorter disease-specific survival (HR 2.47; p&#x2009;=&#x2009;0.012), and post-radiotherapy seizures were associated with reduced time to progression (HR 2.01; p&#x2009;=&#x2009;0.026). Tumour location was not identified as a prognostic factor. Acute or early delayed neurologic toxicity occurred in 10% of dogs and was generally transient and generally corticosteroid responsive. In conclusion, the definitive-intent, moderately hypofractionated 10-fraction radiotherapy protocol achieves long lasting tumour control and survival outcomes in dogs with intracranial meningiomas, provided that evidence-based brain dose-volume constraints are respected.",
-      "categories": [
-        "internalMedicine",
-        "oncology",
-        "neurology"
-      ]
-    },
-    {
       "pmid": "42263848",
       "title": "In vitro evaluation of temperature-dependent stability and antimicrobial activity of reconstituted cefovecin sodium.",
       "journal": "Topics in Companion Animal Medicine",
@@ -2968,20 +3015,6 @@
       "dateObject": "2026 06 16",
       "abstract": "Cefovecin sodium is a long-acting third-generation cephalosporin widely used in dogs and cats. After reconstitution, refrigerated storage for a limited period is recommended; however, experimental data regarding the effects of alternative controlled storage temperatures on drug stability and antimicrobial activity are limited. This study evaluated, under in vitro conditions, the impact of storage temperature on the physicochemical stability and antimicrobial activity of reconstituted cefovecin sodium. Samples were stored at room temperature (25 &#xb1; 2&#xb0;C), refrigerated conditions (4&#xb0;C), or frozen conditions (-20&#xb0;C) for up to 12 weeks. Visual appearance, absorbance at 360 nm, minimum inhibitory concentrations (MICs) against E. coli and Staphylococcus aureus, and cefovecin sodium concentrations determined by liquid chromatography-tandem mass spectrometry (LC-MS/MS) were assessed over time. Room temperature storage resulted in progressive discoloration, increased absorbance, elevated MIC values, and a significant decrease in drug concentration at later time points. Refrigerated storage delayed these changes, although mild increases in absorbance and MIC values were descriptively observed at later time points. In contrast, frozen storage preserved physicochemical properties, antimicrobial activity, and measured drug concentrations throughout the study period. These findings demonstrate that storage temperature influences the stability and in vitro antimicrobial activity of reconstituted cefovecin sodium in a condition-dependent manner. The results provide experimental reference data under controlled laboratory conditions and do not support clinical use outside the manufacturer's approved storage instructions.",
       "categories": []
-    },
-    {
-      "pmid": "42283139",
-      "title": "Use of the IlluminOss Photodynamic Bone Stabilisation System Following Stereotactic Body Radiation Therapy for Limb-Sparing in Six Dogs With Presumptive Appendicular Osteosarcoma.",
-      "journal": "Veterinary and Comparative Oncology",
-      "authors": "Pope EA, Wavreille VA, Lapsley JL, Green EM, Kisseberth WC, Rabiner R, Selmic LE",
-      "date": "2026 06 12",
-      "dateObject": "2026 06 12",
-      "abstract": "Osteosarcoma is the most common primary bone tumour in dogs, with approximately 75% of cases occurring in the appendicular skeleton. Standard-of-care therapy consists of limb amputation followed by carboplatin chemotherapy. A minority of dogs have limb-sparing treatments including stereotactic body radiation therapy (SBRT) or surgery. SBRT has a high incidence of pathologic fracture (41%-80% of cases) following treatment, which often results in amputation or euthanasia. Prophylactic bone stabilisation following SBRT has not been recommended due to high complication rates. The IlluminOss system (IS) is an intramedullary implant consisting of a light-curable polymer within an inflatable balloon catheter, which is approved in humans for traumatic fractures and prevention of fractures secondary to bone metastases. We performed a study to assess the safety and feasibility of using the IS following SBRT in six dogs with suspected appendicular osteosarcoma. The IS was placed the day after completion of SBRT. Five of six dogs received adjuvant carboplatin chemotherapy. The IS was well tolerated with no implant-associated infections or immediate post-operative complications occurring. Pathologic fractures occurred in four dogs with a median fracture-free interval of 107&#x2009;days. Three dogs ultimately underwent amputation due to pathologic fractures. No other post-operative complications occurred. The median survival time was 156&#x2009;days. These findings suggest that the IS may be a palliative option for dogs following SBRT, but further research to optimise use in the dog and evaluation of the use of the IS with ancillary fixation is necessary.",
-      "categories": [
-        "internalMedicine",
-        "oncology",
-        "surgery"
-      ]
     },
     {
       "pmid": "42219058",
@@ -3109,18 +3142,6 @@
       ]
     },
     {
-      "pmid": "42225556",
-      "title": "Cabazitaxel Demonstrates Potent Antitumour Activity Against Canine Large-Cell Alimentary Lymphoma In&#xa0;Vitro and In&#xa0;Vivo.",
-      "journal": "Veterinary and Comparative Oncology",
-      "authors": "Sakai K, Suzuki N, Furuya M, Ohta H, Kameshima S, Shimamura S",
-      "date": "2026 06 01",
-      "dateObject": "2026 06 01",
-      "abstract": "Canine large-cell alimentary lymphoma (LCAL) is an aggressive malignancy with limited effective treatment options and a poor prognosis. In a preliminary drug screening study using three canine LCAL cell lines (CLC, Ema, and Nody-1), the taxane cabazitaxel (CBZ) was identified as a promising candidate drug. This study aimed to evaluate the antitumour effects of CBZ in&#xa0;vitro and in&#xa0;vivo and determine its potential as a novel therapeutic candidate for canine LCAL. Cell viability, tubulin polymerisation, cell cycle distribution, and apoptosis were assessed in CLC, Ema, and Nody-1 cells following treatment with CBZ or vehicle control. In addition, the effect of CBZ was evaluated in a xenotransplantation mouse model established using CLC cells. CBZ reduced cell viability across all cell lines in a dose-dependent manner, with sub-nanomolar half-maximal inhibitory concentrations. A tubulin polymerisation assay demonstrated that CBZ increased polymerised tubulin levels, indicating microtubule stabilisation. CBZ treatment induced G2/M cell cycle arrest and significantly increased apoptotic cell populations, accompanied by decreased procaspase-3 levels and increased cleaved caspase-3 expression. In&#xa0;vivo, CBZ treatment reduced ascites accumulation and significantly prolonged survival relative to the vehicle control. These findings suggest that CBZ induces G2/M cell cycle arrest and caspase-dependent apoptosis through tubulin stabilisation and suppresses tumour progression in&#xa0;vivo. CBZ represents a promising therapeutic candidate for canine LCAL.",
-      "categories": [
-        "oncology"
-      ]
-    },
-    {
       "pmid": "42211181",
       "title": "Reversible congestive heart failure associated with diabetes mellitus in two cats.",
       "journal": "JFMS Open Reports",
@@ -3156,31 +3177,6 @@
       "categories": [
         "internalMedicine",
         "surgery"
-      ]
-    },
-    {
-      "pmid": "41923390",
-      "title": "Recurrence Rates for Mandibular Fibrosarcoma Associated With Mandibular Canal Invasion Following Mandibulectomy Procedures in Dogs.",
-      "journal": "Veterinary and Comparative Oncology",
-      "authors": "Johnson CP, Dornbusch JA, Skinner OT, Grimes JA, Liptak JM, Cray MT, Oblak M, Culp WTN, Traverson M, Wavreille VA, Piegols HJ, Selmic LE",
-      "date": "2026 05 13",
-      "dateObject": "2026 05 13",
-      "abstract": "Oral fibrosarcoma is a highly invasive tumour with local recurrence rates of up to 57.9% following surgical excision. The optimal surgical margins for long-term local control of oral fibrosarcoma have not been ascertained, especially when tumour invasion into the mandibular canal is present. The objective of this study was to evaluate the recurrence of mandibular fibrosarcoma in dogs following mandibulectomy procedures based on the presence or absence of mandibular canal invasion. Medical records of dogs that underwent a mandibulectomy for fibrosarcoma between January 2005 and December 2023 at 9 veterinary referral centers were reviewed. The size of the tumour, surgical procedure performed, surgical margins obtained, and long-term outcome were recorded. Fisher's exact and Mann-Whitney U tests were used to compare the association between different factors with development of local recurrence. Forty-nine dogs were included. Surgeries performed included segmental mandibulectomy (n&#x2009;=&#x2009;14), unilateral mandibulectomy (n&#x2009;=&#x2009;11), bilateral rostral mandibulectomy (n&#x2009;=&#x2009;9), unilateral rostral mandibulectomy (n&#x2009;=&#x2009;5), and three-quarter (&#xbe;) mandibulectomy (n&#x2009;=&#x2009;3). Forty dogs had complete histologic margins. Mandibular canal invasion was reported in 14 dogs. Follow-up was available for a median of 493&#x2009;days postoperatively. Eight dogs were diagnosed with local recurrence. Five dogs with local recurrence had mandibular canal invasion at the initial surgery. No variables evaluated individually were significantly associated with local recurrence. Multivariable logistic regression found the absence of mandibular canal invasion was associated with reduced odds of recurrence (odds ratio, 0.06; 95% confidence interval 0.004-0.835; p&#x2009;=&#x2009;0.036) when adjusted for the type of mandibulectomy performed and the histopathologic margin status. Further research is needed to determine the optimal surgical margins for dogs with mandibular fibrosarcoma.",
-      "categories": [
-        "oncology",
-        "surgery"
-      ]
-    },
-    {
-      "pmid": "41914575",
-      "title": "Genomic Landscape Analysis of Canine Pulmonary Adenocarcinoma Reveals Candidate Targetable Gene Fusions.",
-      "journal": "Veterinary and Comparative Oncology",
-      "authors": "Sakthikumar S, Hendricks WPD, Rainford D, Selleck W, Briones N, Coggins C, Quan N, Zismann V, Lorch G, Sekulic A, Trent JM",
-      "date": "2026 05 13",
-      "dateObject": "2026 05 13",
-      "abstract": "Spontaneously occurring primary canine pulmonary adenocarcinoma (cPAC) exhibits clinicopathological and molecular similarities to never-smoker human lung cancers. Shared genomic alterations, including point mutations, indel mutations and copy number changes particularly in HER2 signalling, are significant therapeutic targets, especially for HER2 and tyrosine kinase inhibitors. Whilst progress has been made in identifying mutational drivers in canine cancers, the role of somatic gene fusions in cPAC remains poorly understood, despite their importance in other cancers as drivers and therapeutic targets. This study investigates the fusion landscape in cPAC by analysing RNA-seq data from a cohort of 36 primary tumour samples and reports oncogenic fusions with therapeutic potential. Notably, NRG1 fusions were identified in a subset of tumours, including recurrent SDC4::NRG1 events, potentially playing key roles in disease progression. NRG1 fusions, known to activate HER2 signalling, are mutually exclusive with HER2 gene alterations, indicating convergence on the same pathway. Tumours with SDC4::NRG1 fusions also overexpress HER2 pathway-related genes, reinforcing NRG1-driven activation. Similar fusions occur in never-smoker human non-small cell adenocarcinoma lacking other common drivers, underscoring their therapeutic importance. These findings highlight NRG1 fusions as critical contributors to cPAC tumorigenesis and warrant further clinical and comparative investigation. Additionally, novel fusions disrupting the PTEN axis were identified, leading to truncated PTEN and associated protein domains. These disruptions could impair tumour-suppressive pathways, presenting additional therapeutic targets. This research emphasises the broader relevance of fusion-driven mechanisms in cPAC tumorigenesis, advancing the understanding of both canine and human lung cancers for clinical and comparative studies.",
-      "categories": [
-        "oncology"
       ]
     }
   ]

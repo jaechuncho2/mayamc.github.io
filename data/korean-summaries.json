@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T22:59:57.596Z",
+  "updated_at": "2026-08-10T23:13:28.021Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -129,6 +129,14 @@
       "generated_at": "2026-07-24T13:55:23.520Z",
       "model": "gpt-5-mini"
     },
+    "41943258": {
+      "brief_summary": "본 연구는 canine pulmonary adenocarcinoma(cPAC) 세포주를 대상으로 FDA 승인 약물 스크리닝 결과에 따라 프로테아좀 억제제의 항종양 효과와 기전을 평가했다. Bortezomib과 carfilzomib은 용량 의존적으로 증식과 생존을 저해하고 ubiquitinated protein 축적, G2/M 정지, sub-G1 증가 및 caspase-3 절개 등을 유발했으며, carfilzomib과 carboplatin 병용은 일부 세포주(HDC, LuBi)에서 시너지를 보였다. 임상적으로는 carfilzomib과 carboplatin 병용이 유망하지만 효능·안전성·약동학 평가를 위한 추가적인 in vivo 및 임상 연구가 필요하다.",
+      "detailed_summary": "연구는 cPAC 세포주(CLAC, HDC, LuBi)를 사용하여 FDA 승인 약물 라이브러리 스크리닝 후 프로테아좀 억제제에 연구 초점을 맞추었다. 단독 항암제로 bortezomib과 2세대 프로테아좀 억제제 carfilzomib을 평가했으며, 또한 표준 세포독성제(예: carboplatin, vinorelbine)와의 병용 효과를 조사했다. 주요 평가 항목은 세포 증식·생존률, 프로테아좀 표적 관여(유비퀴틴화 단백질 축적), 세포주기 변화(G2/M 정지, sub-G1 증가), 및 apoptosis 표지자(caspase-3 절개)였다. 두 약제는 농도 의존적으로 세포 증식과 생존을 감소시켰고, pan 및 선택적 caspase 억제가 부분적으로 세포 생존을 회복시켜 내·외인성 apoptosis와 카스파제 비의존성 기전이 모두 관여함을 시사했다. 또한 JNK–c‑Jun 경로 활성화와 Bim 발현 증가가 관찰되어 세포 스트레스와 apoptosis 유발이 확인되었다. 약물 상호작용 분석에서는 carfilzomib과 carboplatin의 병용이 HDC와 LuBi에서 일관된 시너지를 보였으나 vinorelbine과의 병용은 주로 가법 또는 길항 효과였고, 결론적으로 프로테아좀 억제제는 proteotoxic stress, 세포주기 정지 및 caspase 관련 apoptosis를 통해 세포독성을 나타내며 carfilzomib+carboplatin 조합이 유망하나 본 연구가 모두 in vitro 결과라는 중요한 제한점이 있어 in vivo 및 임상 연구를 통한 유효성·안전성·약동학 검증이 필요하다.",
+      "title": "Proteasome Inhibitor-Induced Cytotoxic Mechanisms in Canine Pulmonary Adenocarcinoma Cell Lines.",
+      "journal": "Veterinary and Comparative Oncology",
+      "generated_at": "2026-08-10T23:13:28.015Z",
+      "model": "gpt-5-mini"
+    },
     "41950947": {
       "brief_summary": "미국에서 개를 진료하는 수의사 1,626명을 대상으로 2025년 1월에 시행한 온라인 무작위화 전후(intervention) 설문 연구로, 근거 기반의 교육 비디오 또는 문서(핸드아웃)가 개 급성 설사 치료에서 항생제 처방을 피하려는 수의사들의 의도에 미치는 영향을 평가했다. 비디오·핸드아웃 그룹에서 항생제 투여를 늦추는 것에 대한 편안함, metronidazole 미처방에 대한 편안함, 그리고 프리바이오틱스·프로바이오틱스를 항생제 대신 사용할 수 있다는 동의가 증가했다(예: 프리바이오틱스 비디오 38%→55%, 핸드아웃 40%→50%). 결론적으로 근거 기반의 실행 가능한 교육 자료는 항생제 사용 관리(antimicrobial stewardship) 지침을 따르려는 의도를 높일 수 있음을 시사한다.",
       "detailed_summary": "연구는 1,626명의 미국 개 진료 수의사를 소셜미디어·이메일·주 수의사회 등을 통해 모집하여 온라인 사전·사후 설문으로 시행되었고, 참가자는 무작위로 대조군(567명), 핸드아웃군(546명), 비디오군(513명)에 배정되었다. 설문은 개 급성 설사에서 항생제 사용과 관련된 지식, 개인 태도, 주관적 규범, 통제지각(perceived behavioral control)을 평가했으며 개입 전에는 세 군 간 기본 태도·사회적 규범·통제지각에 차이가 없었다고 보고되었다. 근거 기반의 교육 비디오와 핸드아웃을 받은 뒤 태도 관련 문항에서 변화가 관찰되었는데, 항생제 투여를 기다리는 것에 편안함이 증가(비디오 86%→90%, 핸드아웃 85%→91%), metronidazole 비처방에 대한 편안함 증가(비디오 79%→84%, 핸드아웃 80%→86%)가 있었으며 프리바이오틱스와 프로바이오틱스를 항생제 대신 사용할 수 있다는 동의도 증가(프리바이오틱스: 비디오 38%→55%, 핸드아웃 40%→50%; 프로바이오틱스: 비디오 48%→58%, 핸드아웃 44%→53%)하였다. 저자들은 이러한 근거 기반 교육 자원이 수의사들의 항생제 회피 의도와 비항생제 대안 권장을 증대시켰다고 결론지었다. 다만 본 연구는 설문으로 측정한 '의도(intention)' 변화를 평가한 것으로, 실제 처방 행태의 변화를 직접 관찰한 연구가 아니라는 점은 해석 시 유의해야 한다.",
@@ -185,12 +193,36 @@
       "generated_at": "2026-08-01T06:54:41.020Z",
       "model": "gpt-5-mini"
     },
+    "41991178": {
+      "brief_summary": "후향적 연구에서 개의 구강 악성 흑색종(OMM) 및 멜라노사이트종(melanocytoma) 절제에 필요한 외과적 절제연을 조사했다. 총 28개 종양(OMM 25, 멜라노사이트종 3)을 분석한 결과, 측방 절제연이 10-15 mm이고 뼈·근막·전층 절제 등 질적 심부 절제(qualitative deep margin)를 포함하면 OMM의 완전절제(R0) 달성에 적절할 수 있었다. 측방 절제연이 ≥10 mm인 경우 R0 달성 비율이 유의하게 높았으며(p=0.03), 멜라노사이트종은 <10 mm에서도 모두 R0였다. 임상적으로는 10–15 mm 측방 절제와 적합한 심부 절제가 OMM의 국소 완전절제에 실용적일 수 있음을 시사한다.",
+      "detailed_summary": "사례는 두 개의 레퍼럴 센터와 한 수의병리학 실험실에서 후향적으로 수집되었고, 조직학적 진단·육안 종양의 일괄 절제(en bloc)·수술기록상의 절제연 및 조직학적 절제연 정보가 포함 조건이었다. 종양은 측방 절제연에 따라 A군(<10 mm), B군(10–15 mm), C군(>15 mm)으로 분류되었고, B·C군에는 질적 심부 절제(뼈·근막 또는 전층 조직 절제)가 요구되었다. 총 28개 종양 중 OMM 25건의 R0(완전절제) 비율은 A군 56% (10/17), B군 100% (7/7), C군 100% (2/2)였다. 통계적으로 측방 절제연 ≥10 mm가 R0 분류에 유의하게 더 연관되어 있었다(p=0.03). 멜라노사이트종 3건은 모두 <10 mm의 절제연에서 R0로 분류되었다. 결론은 측방 10–15 mm와 질적 심부 절제가 OMM의 국소 완전절제에 적절할 수 있다는 것이며, 연구는 후향적 설계와 소수 표본(28개 종양)으로 인해 일반화에는 제한이 있음을 유의해야 한다.",
+      "title": "Surgical Margins Required for the Complete Excision of Canine Oral Melanomas.",
+      "journal": "Veterinary and Comparative Oncology",
+      "generated_at": "2026-08-10T23:13:12.810Z",
+      "model": "gpt-5-mini"
+    },
+    "41992075": {
+      "brief_summary": "본 연구는 128건의 개 유선종양(canine mammary tumours, CMTs)을 대상으로 전사체 프로파일링을 통해 분자적 특성을 규명하고자 했다. 차등 발현 분석(DGE), 유전자 세트 풍부도 분석(GSEA), 인간 PAM50 유전자 패널 기반 군집화를 적용한 결과 양성·악성 및 유사 분열지수(높음/낮음) 간 전사체 차이가 확인되었고, 악성에서는 세포주기·증식·염증반응·신호전달·대사 관련 유전자세트가 유의하게 풍부했다. 순수 상피성 종양은 근상피 또는 중배엽 성분을 포함한 혼합종양보다 증식·신호·대사 관련 유전자세트가 더 풍부했고, PAM50 기반 군집화에서는 인간의 basal-like 및 luminal A에 유사한 두 군집이 관찰되었으나 다수의 CMT는 인간 유방암 아형과 유사한 발현 패턴을 보이지 않았다. 임상적 의미로는 수술 전 진단을 위한 개별화된 개 유래 분자 마커 개발의 필요성을 제시한다.",
+      "detailed_summary": "연구 설계는 128건의 개 유선종양을 대상으로 한 전사체 분석이며, 주요 분석법으로는 차등 발현 분석(DGE), 유전자 세트 풍부도 분석(GSEA), 및 인간 PAM50 유전자 패널 기반 군집화가 사용되었다. 평가 항목은 조직학적 분류(양성 vs 악성), 유사 분열지수(높음/낮음) 간의 전사체 차이와 종양 내/간의 이질성이다. 결과는 악성 종양에서 세포주기·증식·염증반응·신호전달·대사 관련 유전자세트가 유의하게 풍부하였고, 순수 상피성 악성종양은 근상피·중배엽 성분을 포함한 혼합종양보다 증식·신호·대사 관련 경로가 더 활성화된 것으로 나타났다. PAM50 기반 군집화에서는 인간의 basal-like 및 luminal A와 유사한 두 군집이 관찰되었으나, 나머지 종양들은 인간 유방암 아형과 일치하는 발현 패턴을 보이지 않아 인간 분류체계의 적용에는 한계가 있음을 시사했다. 또한 동일한 조직학적 범주 내에서도 모든 종양이 같은 군집에 속하지 않아 분자적 특성이 병리소견과 반드시 일치하지 않는 이질성이 드러났다. 결론적으로 본 연구는 CMT에 특화된 유전자 발현 마커 개발이 필요함을 강조하며, 인간 기준의 분류를 그대로 적용하는 것에는 제한이 있음을 제시한다.",
+      "title": "Transcriptomic Profiling of Canine Mammary Tumours Reveals Significant Heterogeneity Between and Within Histological Classes.",
+      "journal": "Veterinary and Comparative Oncology",
+      "generated_at": "2026-08-10T23:12:56.433Z",
+      "model": "gpt-5-mini"
+    },
     "41994862": {
       "brief_summary": "후지 및 2010–2024년 사이 진단된 고양이 족관절(tarsal) 종양 34예를 후향적으로 분석하여 원형세포종(RCTs) 비율을 확인하고 조직학적 재분류와 면역조직화학(IHC)의 임상적 가치를 평가했다. 전체에서 RCTs 18예, 연부조직육종(STSs) 16예였고, IHC와 진단 알고리즘 적용 후 RCTs의 50%가 재분류(예: 플라즈마세포종 7예 등)되었다. 남성, 고령, 이전 족관절 외상이 RCTs와 유의하게 연관되었고(RCTs에서 임상증상 및 진단 시 전이 더 흔함), RCTs의 진행시간 및 중앙생존기간이 STSs보다 유의하게 짧았다(각각 139 vs 854일; 173일 vs 미도달; P <0.001). 표준화된 IHC 패널과 진단 알고리즘이 조직학적 유형 판정 정확도를 높였으며 임상 적용을 권장한다.",
       "detailed_summary": "본 연구는 2010–2024년 사이 진단된 고양이 족관절 종양을 후향적으로 검토하여 신호정보, 병력, 치료 및 추적 결과를 수집하고 RCTs와 STSs를 중심으로 분석했다. 모든 RCTs는 조직학적 재검토와 IHC(CD3, CD20, CD79a, MUM-1, CD18, IBA-1, E-CAD)를 시행하고 진단 알고리즘을 적용했다. 총 34예 중 RCTs 18예, STSs 16예였고 초진 시 39%의 RCTs에서 초기 조직형이 불확정적이었으며 최종적으로 50%가 재분류되어 플라즈마세포종 7예, 진행성 히스티오사이토시스 4예, 림프종 3예, 히스티오사이틱 육종 2예, 미분화 RCT 2예로 정리되었다. 통계적으로 남성(P = 0.042), 고령(P = 0.048), 이전 족관절 외상(P = 0.009)이 RCTs와 연관되었고, 임상증상 발생 및 진단 시 전이는 RCTs에서 더 흔했다(P = 0.019 및 P = 0.001). RCT 치료는 화학요법(n=7), 수술(n=5), 수술+화학요법(n=2), 프레드니솔론(n=1), 무치료(n=1)가 보고되었고 자료 결측 2예가 있었다; 모든 STS는 수술만으로 관리되었다(항암제 미사용). 추적 결과 RCTs는 진행까지의 시간과 중앙생존기간이 유의하게 짧았고(139 vs 854일; 173일 vs 미도달; P <0.001), 저자들은 RCTs가 이질적이며 예후가 나쁨을 결론지었다. 초록에는 제한점이 상세히 기술되어 있지 않으나 연구결과는 표준화된 IHC 패널과 진단 알고리즘이 임상적 조직형 판정에 유용함을 시사한다.",
       "title": "Feline tarsal tumours: histological spectrum, risk factors and prognostic insights.",
       "journal": "Journal of Feline Medicine and Surgery",
       "generated_at": "2026-07-25T06:09:14.676Z",
+      "model": "gpt-5-mini"
+    },
+    "41995460": {
+      "brief_summary": "본 논문은 수의종양학에서 유전체(게놈) 진단의 현황과 필요성을 정리한 리뷰로, 종양 분류·위험 분층·치료 지침 제공을 목표로 한 고처리량 시퀀싱 기반 검사들의 적용을 평가했다. 현재 수의 임상에서는 표준화와 종(특이) 검증이 부족하고 인간 데이터에의 전제가 빈번하다는 문제를 확인했으며, 검사 설계·검증·해석에 대한 분석적 엄격성(인실리코 및 정교한 교차검증 등)과 민감도·특이도·재현성 같은 성능 기준 마련을 강조했다. 임상적으로는 검사 유효성, 의도된 임상 사용, 확인된 변이의 기능적 관련성을 중심으로 질문 기반 평가가 필요하며, 투명성 확대와 검증 코호트 확충을 통한 논증적 진전이 요구된다.",
+      "detailed_summary": "이 리뷰는 수의종양학에서 유전체 검사 도입 현황을 종합하고, 종양 분류·위험도 stratification 및 치료 지침 제공을 위한 고처리량 시퀀싱 기술의 가능성을 검토하였다. 인간 의학에서는 엄격한 분석적·임상적 검증과 규제적 감독, 특정 유전체 이상과 치료 반응을 연결하는 축적된 근거가 있는 반면, 수의 분야는 표준화 부족·종 특이적 검증 부족·인간 데이터의 외삽에 의존하는 실정임을 지적한다. 논문은 검사 설계, 검증 요건, 임상적 해석과 같은 방법론적 고려사항을 상세히 논의하며 분석적 엄격성의 필요성을 강조한다. 구체적 권고로 인실리코 검증과 정교한 교차(orthogonal) 검증 전략의 사용을 권장하고, 개(犬) 등 관련 수의 집단을 고려한 민감도·특이도·재현성 등의 성능 벤치마크 수립을 요구한다. 또한 의미 불명 변이(variants of uncertain significance, VUS)의 해석 어려움과 인간 종양학의 임상적 적용성을 단순 전이하는 데 따른 한계를 명확히 밝혔다. 저자들은 검사 검증, 의도된 임상적 사용, 확인된 변이의 기능적 관련성에 초점을 둔 질문 중심 접근법을 임상가에게 제안한다. 결론적으로 유전체 진단의 발전을 위해 투명성 제고, 검증 코호트의 확대, 임상적 기대치의 정렬 등 협력적 노력이 필요하며 이는 정밀 수의의학의 잠재력을 실현하는 동시에 과학적·임상적 완전성을 유지하는 데 필수적이라고 결론지었다.",
+      "title": "Critical Questions in Genomic Diagnostics for Veterinary Oncology: What We Need to Know.",
+      "journal": "Veterinary and Comparative Oncology",
+      "generated_at": "2026-08-10T23:12:44.287Z",
       "model": "gpt-5-mini"
     },
     "41999725": {
@@ -223,6 +255,22 @@
       "title": "Novel application of electromagnetic neuronavigation for guided ventriculoperitoneal shunt placement in toy-breed dogs with hydrocephalus: a preliminary descriptive study.",
       "journal": "American Journal of Veterinary Research",
       "generated_at": "2026-08-01T06:54:21.037Z",
+      "model": "gpt-5-mini"
+    },
+    "42002308": {
+      "brief_summary": "본 후향적 분석은 스테레오택틱 체부 방사선치료(SBRT)를 받은 간세포암종(HCC) 반려견 12두를 대상으로 치료 후 생존과 이상반응을 평가했다. 총선량 13–30 Gy(1–5회, 회당 6–25 Gy)를 투여한 결과 92%에서 급성 위/소장 이상반응(VRTOG grade 2–3), 70%에서 지연 위/소장 이상반응(VRTOG grade 2)이 관찰되었고, 간성뇌증(VCOG-CTCAE grade 4) 및 간부전(grade 5)도 보고되었다. 종양 부피(GTV), 간 침범 비율, 정상 간에 대한 방사선량이 생존 및 이상반응 발생과 통계적으로 연관되어 임상적 위험요인으로 고려할 수 있음을 시사한다.",
+      "detailed_summary": "연구는 SBRT를 받은 간세포암종(HCC) 개 12두의 후향적 분석이다. 투여는 회당 6–25 Gy로 1–5회, 총선량 13–30 Gy였고 주요 평가 항목은 급성 및 지연 위/소장 이상반응, 간 관련 이상반응, 간 효소(ALT) 변화 및 전체 생존기간(OST)/중앙생존기간(MST)이었다. 11두(92%)에서 급성 위/소장 이상반응(VRTOG grade 2–3), 70%에서 지연성 위/소장 이상반응(VRTOG grade 2)이 발생했으며, 간성뇌증(VCOG-CTCAE grade 4)과 사망에 이른 간부전(grade 5)도 관찰되었다. GTV와 전체 생존기간(OST) 사이에 유의한 상관관계가 있었고(p = 0.02), 종양이 차지하는 정상 간 비율과 급성 위/소장 이상반응의 중증도도 유의하게 연관되었다(p = 0.01). 정상 간에 대한 방사선량은 7 Gy부터 ALT 상승과 통계적으로 연관되는 경향을 보였다. 전체 코호트의 중앙생존기간(MST)은 301일이었고, 간의 >28.7%가 침범된 군의 MST는 182일, <28.7%인 군은 419일로 유의한 차이를 보였다(p = 0.009). 본 연구는 GTV, 간 침범 비율, 정상 간에 대한 방사선량이 생존과 이상반응 발생에 영향을 미칠 수 있음을 제시하지만, 후향적 소규모(12두) 분석이라는 점에서 일반화에는 주의가 필요하다.",
+      "title": "Retrospective Analysis of Survival and Adverse Effects Associated With Stereotactic Body Radiation Therapy in 12 Dogs With Hepatocellular Carcinoma.",
+      "journal": "Veterinary and Comparative Oncology",
+      "generated_at": "2026-08-10T23:12:24.209Z",
+      "model": "gpt-5-mini"
+    },
+    "42003040": {
+      "brief_summary": "반려 골든리트리버를 대상으로 농약(herbicides) 및 휘발성유기화합물(VOCs) 노출과 혈중 DNA 메틸화·손상 간의 연관성을 조사한 연구로, Golden Retriever Lifetime Study의 사례-대조군 중 노출 상·하위 오분위에 해당하는 24마리를 Oxford Nanopore 염기서열분석으로 평가했다. 예상과 달리 고농도 추정 노출군은 항산화 관련 유전자와 8-oxoguanine DNA 수리 관련 유전자 프로모터 메틸화가 낮게 관찰되었으며(항산화 유전자 중앙값 0.335 vs 0.374, 수리 유전자 0.254 vs 0.294; p=0.007), 이는 손상의 원인이라기보다 보상적 반응일 수 있다. 이러한 메틸화 차이가 실제 유전자 발현·항산화 상태·DNA 수리능 증가로 이어지는지는 후속 연구가 필요하다.",
+      "detailed_summary": "배경으로 개 다중중심 림프종(Canine multicentric lymphoma, CL)은 흔하고 치명적인 암이며, 사람에서 비(非)-호지킨 림프종과 연관된 농약 및 VOCs 노출이 개에서도 혈중 DNA 가닥손괴와 연관된 바 있다. 본 연구는 Golden Retriever Lifetime Study의 사례-대조군 중 전체 60마리에서 노출 상·하위 오분위에 해당하는 24마리를 선택해 혈액의 전역 및 유전자별 메틸화를 평가하고, 측정된 DNA 가닥손상 및 산화된 DNA 손상과의 연관을 검토했다. 분석에는 Oxford Nanopore 염기서열분석을 사용했으며 주요 평가지표는 항산화 유전자 및 8-oxoguanine 수리 유전자의 프로모터 메틸화였다. 결과는 고추정 화학물질 노출군에서 해당 유전자들의 프로모터 메틸화가 상대적으로 낮았다는 점으로(항산화 중앙값 0.335 대 0.374, 수리 유전자 0.254 대 0.294; p=0.007) 처음의 가설과는 반대 양상이었다. 저자들은 이 메틸화 감소가 DNA 손상의 원인이라기보다 화학물질 노출에 대한 보상적 반응일 가능성을 제시했다. 결론적으로 관찰된 메틸화 차이는 크기가 적당하며, 이것이 실제로 유전자 발현·항산화 상태·DNA 수리능의 의미 있는 증가로 이어지는지는 확인을 위한 추가 연구가 필요하다고 명시하고 있다.",
+      "title": "Chemical Exposures, DNA Methylation and Whole Blood DNA Damage in Pet Golden Retrievers.",
+      "journal": "Veterinary and Comparative Oncology",
+      "generated_at": "2026-08-10T23:12:10.940Z",
       "model": "gpt-5-mini"
     },
     "42015927": {
@@ -265,6 +313,14 @@
       "generated_at": "2026-07-27T10:54:27.299Z",
       "model": "gpt-5-mini"
     },
+    "42021669": {
+      "brief_summary": "7년 동안 337마리의 자연 발생 개 흑색종 환자를 대상으로 수술 후 국소 주입치료와 유전면역백신을 병용한 수술 보조요법(SAT)의 타당성, 안전성 및 유효성을 평가한 연구이다. 완전절제(CS) 후 CT IF/B(리포플렉스 cIFNβ + bleomycin)와 CT 5FU(5-fluorouracil) 모두 국소 무병률과 전이무병률을 크게 증가시켰고(예: CS군에서 국소 무병률 19%→81%/85%, 전이무병률 47%→82%/81%), 전체생존이 각 대조군에 비해 크게 연장되었다(각 군에서 생존 배수 11, 9, 6, 7배). SAT는 재발과 전이를 지연·예방하고 삶의 질을 유지하면서 치명적 질환을 관리 가능한 상태로 전환한 것으로 보고되었다.",
+      "detailed_summary": "연구는 337마리의 개 흑색종 환자를 7년간 추적했으며, 완전 절제(CS) 또는 부분 절제(PS) 후 수술 주둔부에 (i) 리포플렉스에 실린 개 인터페론-β(cIFNβ) 유전자와 bleomycin을 결합한 CT IF/B 또는 (ii) 5-fluorouracil(CT 5FU)을 주입하는 두 가지 국소 절차를 시행했고, 동시에 종양 추출물과 cIFNβ·인간 interleukin-2(IL-2) 및 인간 GM-CSF 유전자를 실은 리포플렉스 기반의 피하 유전자백신을 주기적으로 투여했다. 주요 평가항목은 국소 무병률, 전이무병률(M0), 전체생존으로, CS-CT IF/B 및 CS-CT 5FU는 대조의 완전 수술(CSo) 대비 국소 무병률을 19%에서 각각 81%와 85%로 증가시키고 전이무병률을 47%에서 82%와 81%로 증가시켰다. PS-CT IF/B와 PS-CT 5FU도 전이무병률을 각각 75%와 73%로 유의하게 개선했으며, 전체생존은 CS-CT IF/B 11배(HR 0.155, 95% CI 0.109–0.222), CS-CT 5FU 9배(HR 0.172, 95% CI 0.123–0.242), PS-CT IF/B 6배(HR 0.204, 95% CI 0.132–0.315), PS-CT 5FU 7배(HR 0.203, 95% CI 0.132–0.311)로 보고되었다(p<0.0001). 각 군의 중앙 추적기간은 논문에 따라 695.5(28–2516), 542.5(46–2554), 458(29–1273), 521(30–1659)일이었고, 연구 종료 시 생존 비율은 CS-CT IF/B 25%, CS-CT 5FU 24%, PS-CT IF/B 22%, PS-CT 5FU 22%였으며 각 군에서 상당수는 흑색종 이외의 원인으로 사망했다고 보고되었다(예: 53%, 60%, 16%, 17%). 결론적으로 이 SAT는 국소 재발과 전이를 지연·예방하고 무병기간과 전체생존을 개선하며 삶의 질을 유지했다는 점에서 임상적 이점이 제시되나, 초록에는 무작위 배정·맹검 여부 등 설계의 상세한 방법학적 제한이 명시되어 있지 않아 결과의 일반화에는 주의가 필요하다고 서술되어 있다.",
+      "title": "Cytokine-Enhanced Vaccine as Surgery Adjuvant Treatment for Spontaneous Canine Melanoma: Comparison of Two Intralesional Procedures for Local Disease Control.",
+      "journal": "Veterinary and Comparative Oncology",
+      "generated_at": "2026-08-10T23:11:59.239Z",
+      "model": "gpt-5-mini"
+    },
     "42035835": {
       "brief_summary": "건강한 고양이 32마리(각 군 n=8)를 대상으로 propofol 유도 시 racemic ketamine 및 S(+) ketamine의 공동유도(coinduction) 효과를 propofol 단독 및 propofol 자체 프라이밍과 비교했다. S(+) ketamine 공동유도(프라이밍 1 mg/kg, S(+) ketamine 2 mg/kg)는 대조군(GC)에 비해 propofol 요구량을 유의하게 감소시켰다(P = 0.004). 심·호흡계 변수는 전반적으로 안정적이었고 부작용은 증가하지 않았으나 S(+) 군에서 안구의 중심 복귀가 다소 지연되는 차이가 관찰되었다(P = 0.008).",
       "detailed_summary": "연구는 32마리의 건강한 고양이를 4개 그룹(GC, GP, GKet, GKet+)으로 나누어 시행되었고 각 군은 n = 8이었다. 처치는 GC: propofol 1 mg/kg/min(펌프로 효과까지 증량), GP: propofol 프라이밍 1 mg/kg 후 생리식염수 위약 및 이후 1 mg/kg/min, GKet: 프라이밍 1 mg/kg + racemic ketamine 2 mg/kg, GKet+: 프라이밍 1 mg/kg + S(+) ketamine 2 mg/kg였고 propofol 주입은 공동유도 30초 후 시작하여 턱힘 상실과 후두기관 반사 소실 시까지 titration 했다. 기록한 주요 변수는 심박수(HR), 호흡수(RR), 체온, 수축기혈압(SBP)으로 10분 간격으로 후두기관 반사 회복 시까지 측정했고 회복 시간, 삽관 시도 횟수 및 이상반응을 분석했다. 기저 변수는 대체로 유사했으나 체온은 군 간 차이가 있었다(P = 0.003). GKet+ 군에서 GC에 비해 propofol 총 투여량이 유의하게 적었고(P = 0.004), 삽관 시도 횟수 및 재유도(reinduction) 용량은 군 간 차이가 없었다. 심박수 변화는 위약군과 S(+) 케타민 군에서 0분과 20분 사이에 유의한 변화가 관찰되었으나 전반적인 심·호흡계는 안정적이었고 이상반응 증가 소견은 없었으며, 회복 프로파일은 대체로 비슷하였으나 안구의 중심 복귀는 GKet+에서 GC보다 다소 지연되었다(P = 0.008).",
@@ -281,6 +337,14 @@
       "generated_at": "2026-07-24T15:17:55.376Z",
       "model": "gpt-5-mini"
     },
+    "42036120": {
+      "brief_summary": "본 연구는 개 골육종(canine osteosarcoma, cOSA) 13개 및 인간 골육종(human osteosarcoma, hOSA) 6개 세포주를 대상으로, 인간 데이터로 추정한 임상적으로 관련된 노출(CRE) 수준에서 12종의 표적 항암제에 대한 표현형 약물 스크리닝을 수행하여 종 간 약물 반응을 비교한 것이다. 주요 결과는 알리설티브(alisertib), 크리조티닙(crizotinib), 온반설티브(onvansertib), 소라페닙(sorafenib) 등 4개 약물이 CRE에서 유의한 반응을 보였고, 전반적인 약물 반응은 개와 사람 세포주 간에 구별되지 않았다는 점이다. 임상적 의미로는 cOSA가 hOSA의 치료법 개발을 위한 적절한 전임상 서열(서로게이트)로 활용될 수 있음을 시사하며, 일부 약물에 대해 Myc, Hedgehog 신호 등 잠재적 유전체 바이오마커 경로가 추가 연구 대상으로 제시되었다는 것이다.",
+      "detailed_summary": "연구 설계는 12종의 분자표적 항암제를 대상으로 하는 표현형 약물 스크리닝이며, 약물 노출은 인간 임상 데이터를 기반으로 한 CRE 수준으로 설정되었다. 검사 대상은 cOSA 13개 및 hOSA 6개 세포주였고, 주요 평가 항목은 CRE에서의 약물 반응성이다. 네 가지 약물(alisertib, crizotinib, onvansertib, sorafenib)이 CRE에서 유의한 반응을 나타냈고, 전체적으로 개와 사람 세포주 간에 약물 반응 범위는 구별되지 않았다. cOSA 세포주 패널에서의 약물 반응과 유전체 바이오마커의 상관분석에서는 crizotinib 반응에 대해 Myc 및 Hedgehog 신호가 잠재적 예측인자로, onvansertib 반응에 대해 Myc, 상피 표지자 및 항암증신호(anti-apoptotic signaling)가 잠재적 예측인자로 식별되었다. 연구 결론은 cOSA와 hOSA 세포주가 표적제에 대해 유사한 반응 범위를 보이며, 제시된 바이오마커 경로들이 골육종 종양에서 추가 검증할 가치가 있어 반려견을 포함한 비교종양학적 임상시험의 근거가 될 수 있다는 점이다.",
+      "title": "Comparative Response of Canine and Human Osteosarcoma Tumour Cell Lines to Molecularly Targeted Anticancer Agents at Clinically Relevant Exposures With Analysis of Genomic Biomarkers.",
+      "journal": "Veterinary and Comparative Oncology",
+      "generated_at": "2026-08-10T23:11:37.673Z",
+      "model": "gpt-5-mini"
+    },
     "42036807": {
       "brief_summary": "다기관 후향적 연구로 2014–2025년 사이 조직병리로 진단된 총 21마리의 개(페미퍼거스 폴리아세우스 PF, 페미퍼거스 불가리스 PV, 점막막 펨피고이드 MMP)를 대상으로 oclacitinib(OC, Apoquel)의 치료 효과를 평가했다. OC 단독으로 18마리의 PF 중 8마리에서 유효(중앙 투여량 0.65 mg/kg/일, 범위 0.5–1.9 mg/kg/일)했으며, PF에서 5마리는 임상 관해, 3마리는 부분 관해를 보였다. 일부 PV 및 MMP 증례에서도 OC 단독 또는 보조요법으로 효과를 보였고(스테로이드 절감 효과 포함), 통계적 유의성 분석은 수행되지 않았으며 고용량 장기 안전성은 알려져 있지 않다.",
       "detailed_summary": "연구는 두 기관의 의무기록을 후향적으로 검토한 다기관 연구로 2014–2025년 사이 조직병리 결과로 PF, PV 또는 MMP로 진단되어 OC(oclacitinib, Apoquel)를 처방받은 총 21마리의 개를 포함했다. OC 단독은 18마리의 PF 중 8마리에서 유효했으며 중앙 투여량은 0.65 mg/kg/일(범위 0.5–1.9 mg/kg/일)이었다; 이 중 5마리는 임상 관해, 3마리는 부분 관해를 보였다. PV에서는 한 마리가 OC 단독 0.7 mg/kg/일로, MMP에서는 한 마리가 OC 0.24 mg/kg 격일 투여로 임상 관해에 도달했다. OC가 스테로이드를 줄이거나 보조요법으로 작용한 PF 증례는 18마리 중 7마리였고 중앙 투여량은 0.6 mg/kg/일(범위 0.4–2.4 mg/kg/일)이었다. OC가 비효과적이었던 PF는 3마리였고 이들의 중앙 투여량은 1.0 mg/kg/일(범위 0.9–1.2 mg/kg/일)이었다. 한 PV 증례는 OC 1.9 mg/kg/일과 프레드니손(prednisone) 1.8 mg/kg/일 병용에서 부분 관해를 보였으나 췌장염으로 사망했다. 연구는 OC가 일부 PF, PV, MMP 개에서 단독 또는 보조 치료로 유효할 수 있음을 시사하나, 후향적 설계·소표본·통계적 유의성 미분석 및 고용량 장기 안전성 미확인이라는 중요한 제한점을 가진다.",
@@ -295,6 +359,22 @@
       "title": "A Retrospective Case Series Reporting the Clinical Efficacy and Adverse Events of Oclacitinib Administration for Skin Disease in 238 Cats.",
       "journal": "Veterinary Dermatology",
       "generated_at": "2026-07-24T15:24:24.649Z",
+      "model": "gpt-5-mini"
+    },
+    "42037095": {
+      "brief_summary": "2005–2021년에 단일 기관에서 수술적 완전절제로 확인된 개 폐 선암종(cPACs) 71례를 대상으로 종양 미세환경의 면역조직화학 소견과 수술 후 예후의 연관성을 후향적으로 평가한 연구이다. 종양 내 림포이드 집괴(LA)는 49/71(69.0%)에서 확인되었고, 중앙값 CD8+, CD20+, Foxp3+ 밀도는 각각 130.0, 398.3, 79.3 cells/mm2였다. 다변량 분석에서 종양 크기 분류, 림프절 전이, 수술 절제연 상태 및 LA의 존재는 진행무사간격(PFI) 단축과 독립적으로 연관되었고, 연령, 림프절 전이 및 CD8/Foxp3 비율은 전체생존(OST)과 독립적으로 연관되어 면역조직화학적 지표가 수술 후 위험층화에 보완적 정보를 줄 수 있음을 시사한다.",
+      "detailed_summary": "후향적 단일기관 코호트 연구로 2005–2021년에 수술로 절제되고 종양 미세환경 평가가 가능했던 조직학적 확진 개 폐 선암종(cPACs) 환아 71마리가 포함되었다. 면역조직화학(IHC)은 CD8, Foxp3, CD3, CD20에 대해 시행되었고, CD8+와 Foxp3+ 세포 밀도는 0.237 mm2의 5개 intratumoural hotspot에서 정량화되었다. 림포이드 집괴(LA)는 종양 내부 또는 종양 기질 내에 위치하고 CD20+ B세포 최소 50개(세포 간격 ≤10 μm)와 혼합된 CD3+ T세포로 정의되었다; LA는 49마리(69.0%)에서 관찰되었다. 전체 표본의 중앙값 세포 밀도는 CD8+ 130.0, CD20+ 398.3, Foxp3+ 79.3 cells/mm2였고, LA가 있는 종양은 CD20+와 Foxp3+ 밀도가 더 높았다. 중앙값 PFI는 754일(95% CI 375–not reached), OST는 716일(95% CI 399–936)이었으며, 다변량 분석에서 종양 크기 분류·림프절 전이·수술 절제연 상태·LA 존재가 PFI 단축과, 연령·림프절 전이·CD8/Foxp3 비율이 OST와 각각 독립적으로 연관되었다. 결론적으로 IHC 기반 종양 미세환경 지표는 기존 임상병리 인자들을 보완하여 수술 후 예후층화에 추가 정보를 제공할 수 있지만, 후향적 단일기관 설계라는 한계로 인과관계나 일반화 가능성은 제한됨을 유의해야 한다.",
+      "title": "Prognostic Significance of the Tumour Microenvironment in Surgically Resected Canine Pulmonary Adenocarcinomas.",
+      "journal": "Veterinary and Comparative Oncology",
+      "generated_at": "2026-08-10T23:11:22.376Z",
+      "model": "gpt-5-mini"
+    },
+    "42037153": {
+      "brief_summary": "본 연구는 개 전립선암에 대해 43 Gy를 10회 분할(4.3 Gy×10)로 투여하는 방사선치료 계획에서 체적변조 회전 방사선치료(VMAT)와 강도변조 방사선치료(IMRT)의 용적학적·정량적 비교를 목적으로 한다. 22마리의 CT 데이터를 이용해 2개의 전(全) 아크(2FA), 2개의 부분 아크(2PA), 9필드 IMRT(9F), 7필드 IMRT(7F)를 비교한 결과, IMRT가 VMAT에 비해 선량 균질성(homogeneity)이 우수하고 장기(직장, 대장, 소장, 방광 등)의 정상조직 합병증확률(NTCP) 및 특정 Dmax·Vx 지표에서 전반적으로 더 유리했다. 다만 2PA는 척수와 마미 신경절, 일부 요도·직장 지표에서 유리했고, 2PA는 대퇴골두에 대해 가장 높은 위험을 보였으며, 9F IMRT는 MU와 빔온 시간이 특히 길었다는 제약이 있어 치료계획은 증례별로 개별화해야 한다는 임상적 시사점을 제시한다.",
+      "detailed_summary": "후향적 계획 비교 연구로서 22마리의 개 전립선암 CT 데이터를 분석하여 43 Gy/10회(4.3 Gy×10) 프로토콜에 대해 2FA, 2PA, 9F, 7F 총 4가지 계획기법을 동일한 계획 목표와 제약 하에 최적화하여 비교했다. 적합성 지수(conformity index)는 기법 간 유의한 차이가 없었으나, IMRT가 VMAT보다 균질성 지수(homogeneity index)가 유의하게 낮아 선량 균질성이 더 좋았다. IMRT는 직장의 NTCP, Dmax 및 V45에서 가장 낮았고, 2PA는 직장의 평균선량(Dmean)과 V10, V15, V20, V25, V30에서 가장 낮은 값을 보였다. 대장과 소장, 방광에서도 IMRT가 여러 NTCP 및 V20–V35, Dmax·V20·V25·V45 지표에서 더 우수했으며, 요도는 IMRT가 Dmax·V45를, 2PA가 Dmean 및 V10–V20을 더 잘 낮추었다. 척수와 마미 신경절의 보호는 2PA가 Dmean, Dmax 및 V10–V20 관련 지표에서 가장 우수했으나 2PA는 대퇴골두에 대해 NTCP, Dmean, Dmax 및 V20–V30이 가장 높았다. IMRT(특히 9F)는 VMAT보다 모니터 유닛(MU)과 빔온 시간이 유의하게 길었고, 연구 결론은 본 연구에서 사용한 특정 장비·계획 설정·최적화 방식 하에서는 IMRT가 전반적으로 장기 보호와 선량 균질성에서 유리하나, 다른 계획자·장비·최적화 전략에서는 결과가 달라질 수 있으므로 개별 환자별 도심수치에 따라 치료계획을 개별화해야 한다는 점을 강조한다.",
+      "title": "Comparison of Volumetric Modulated Arc Therapy and Fixed-Field Intensity-Modulated Radiotherapy for Canine Prostatic Carcinoma Using a 4.3&#x2009;Gy&#x2009;&#xd7;&#x2009;10-Fraction Protocol: A Dosimetric Planning Study.",
+      "journal": "Veterinary and Comparative Oncology",
+      "generated_at": "2026-08-10T23:11:10.140Z",
       "model": "gpt-5-mini"
     },
     "42041086": {
@@ -465,6 +545,14 @@
       "generated_at": "2026-07-24T15:21:52.535Z",
       "model": "gpt-5-mini"
     },
+    "42129963": {
+      "brief_summary": "본 연구는 확립된 화학물질 라이브러리를 이용해 10개의 개 호지티오사이틱 육종(canine histiocytic sarcoma, CHS) 세포주를 분자적 하위분류(Group A, B)에 따라 고속 스크리닝하여 유효 약물 후보를 탐색했다. 1824개 화합물 중 73개가 전반적 항증식 후보로 도출되었고, 특히 duvelisib가 Group A 세포주에 선택적으로 항종양 효과(중앙값 IC50 = 287 nM)를 보여 다른 그룹(중앙값 IC50 > 5 µM)과 정상 말초혈액단핵세포(peripheral blood mononuclear cells, PBMC)에 비해 상대적으로 선택성이 높았다. 이 결과는 CHS의 분자적 하위유형에 따라 약물 반응성이 달라질 수 있음을 시사하며, Group A에 대해 duvelisib가 치료 후보로 고려될 수 있음을 제시한다.",
+      "detailed_summary": "연구는 CHS 세포주 10주를 대상으로 1824개 화학물질에 대해 고속 스크리닝을 수행한 in vitro 연구이다. 총 73개의 화합물이 모든 CHS 세포주에서 항증식 후보로 확인되었으며, 대표 약물의 중앙값 IC50은 5-fluorouracil이 7.49 µM, sunitinib가 608 nM이었다. 분자적 하위분류 결과 Group A와 Group B로 나뉘었고, Group B에 특이적으로 효과적인 약물은 발견되지 않았다. 반면 duvelisib는 Group A 세포주(8주)에서 중앙값 IC50 = 287 nM으로 선택적 항종양 활성을 보였고, 다른 그룹에서는 중앙값 IC50 > 5 µM, 정상 PBMC에 대해서는 IC50 = 7.46 µM로 상대적으로 영향이 적었다. 약물 처리 후 Group A 세포주에서는 인산화된 Akt 단백질 양이 감소했으나 Group B에서는 감소가 관찰되지 않았고, 일부 Group A 세포주에서는 세포주기 정지와 세포사멸 증가가 관찰되었다. 종합적으로 duvelisib는 Akt 경로 억제를 통해 일부 Group A CHS 세포주에서 항증식 효과를 나타내었고 정상 세포에 대한 세포독성은 최소화되는 양상을 보였다. 본 결과는 in vitro 세포주 기반 스크리닝 결과로서 Group A에 대한 치료 후보물질을 제시하지만, 임상 적용을 위한 추가 검증이 필요함을 전제로 해석되어야 한다.",
+      "title": "Identification of Novel Therapeutic Agent Candidates Through High Throughput Screening With Chemical Library Based on Molecular Subclassification in Canine Histiocytic Sarcoma Cell Lines.",
+      "journal": "Veterinary and Comparative Oncology",
+      "generated_at": "2026-08-10T23:10:54.729Z",
+      "model": "gpt-5-mini"
+    },
     "42136007": {
       "brief_summary": "반려견 26마리(비계절성 아토피 피부염 6마리, 계절성 패턴 20마리)를 대상으로, 동일 코호트에서 계절별로 피내 검사(IDT)와 혈청 알레르기 특이 IgE 검사(SAT)를 비교해 계절 영향(봄·여름·가을·겨울)을 평가했다. IDT에서는 전체 및 꽃가루 관련 반응에 유의한 계절 변동이 관찰되어 가을에 양성률이 가장 높았고(전체 p=0.004, 꽃가루 p=0.005), 이 패턴은 계절성 AD를 가진 개에서만 유의했다(p=0.007). 풀(grass)과 잡초(weed) 항원은 가을에 양성일 가능성이 더 높았고(OR=2.696, p=0.032 및 OR=2.026, p=0.034), SAT에서는 유의한 계절 차이가 검출되지 않았다. 임상적으로는 특히 계절성 AD인 경우 알레르겐 검사를 계절 후반(가을)에 시행하면 양성률을 높일 가능성이 있다는 점을 시사한다.",
       "detailed_summary": "이 연구는 전향적 종적 설계로, 동일한 26마리의 반려견(비계절성 AD 6마리, 계절성 패턴 20마리)을 대상으로 봄·여름·가을·겨울에 반복적으로 피내 검사(IDT)와 두 상용 검사법을 이용한 혈청 알레르기 특이 IgE 검사(SAT)를 시행하였다. 계절별 전체 및 항원군별 양성률을 비모수 통계와 혼합효과 모델 및 일반화 추정 방정식(GEE)을 사용해 분석했다. 결과는 IDT에서 전체 반응(p=0.004) 및 꽃가루 관련 반응(p=0.005)에 있어 계절적 변동이 있었고, 특히 가을에 양성률이 가장 높았으며 이 경향은 계절성 AD가 있는 개에서만 유의했다(p=0.007). 풀과 잡초 항원은 가을에 양성일 오즈가 각각 OR=2.696(p=0.032), OR=2.026(p=0.034)로 증가했으나 다른 항원군에서는 일관된 계절 차이가 없었다. SAT에서는 통계적으로 유의한 계절 차이가 검출되지 않았고, 연구진은 표본 수와 보수적 통계 보정으로 인해 미세한 계절 효과를 놓쳤을 가능성을 언급했다. 질병 지속 기간은 계절별 검사 패턴에 영향을 미치지 않았다. 결론적으로 추가 데이터가 확보될 때까지는 특히 계절성 AD 환자에서 알레르겐 검사를 계절 후반(가을)에 시행하는 것이 양성률을 높일 수 있음을 제시하나, 표본 수 제한 및 통계적 보정이 해석상의 제한점임을 명시한다.",
@@ -521,6 +609,14 @@
       "generated_at": "2026-08-01T06:49:49.671Z",
       "model": "gpt-5-mini"
     },
+    "42163424": {
+      "brief_summary": "이 연구는 인간과 개의 미만성 거대 B세포 림프종(DLBCL)에서 보존된 전사체 네트워크를 찾아 개 임상에 적용할 약물 재목적화를 모색했다. 공개된 인간·개 DLBCL 전사체에서 409유전자 교차종 모듈을 도출했으며, 이 모듈은 DNA 복제·세포주기·DNA 손상 반응 프로그램과 TOP2A·PARP1 중심의 단백질 상호작용(PPI) 코어로 구성되었다. Connectivity Map/LINCS 질의에서 anthracycline 유사 토포이소머라제 II 억제제(valrubicin, etoposide, amsacrine)와 PARP 억제제(rucaparib)가 강하게 연관되었고, 모듈 점수와 EV-miRNA가 치료 후보(토포이소머라제 II 독소 및 PARP 억제)와 바이오마커 후보로 제시되었다.",
+      "detailed_summary": "연구진은 공개된 인간 및 개 DLBCL 전사체 데이터를 이용해 종 간에 일치하는 종양-정상 발현 이상을 기준으로 409유전자 교차종 모듈을 도출하고 이를 경로와 단백질-단백질 상호작용(PPI) 네트워크에 투영했다. 해당 모듈은 DNA 복제, 세포주기 체크포인트 및 DNA 손상 반응 프로그램이 우세했고, PPI 코어는 TOP2A와 PARP1을 중심으로 압축되어 있었다. 인간 구성요소를 이용한 Connectivity Map/LINCS 질의에서 valrubicin, etoposide, amsacrine 등 토포이소머라제 II 관련 약물과 PARP 억제제 rucaparib가 상위 약물로 도출(약 ~0.2% 내에서 가장 부적 연결성)되었다. 단순한 up–down 모듈 점수는 인간·개 모두에서 종양과 정상 림프절을 강하게 분리했고, 점수가 높을수록 CHOP 치료를 받은 개의 무진행생존(Progression-Free Survival)이 더 길었으며, 독립적인 인간 코호트에서도 전체생존(Overall Survival)이 더 좋았다. TCGA-DLBC에서는 유사한 방향성이 관찰되었으나 통계적 검정력이 부족하다고 보고되었다. 추가로 인간 DLBCL의 세포외소포 EV-miRNA 프로파일링에서 let-7 계열, miR-21-5p, miR-124-3p, miR-205-5p 등이 차등 발현되어 동일한 TOP2A/PARP1 중심 코어에 수렴하는 것으로 나타났다. 결론적으로 교차종 및 다층 데이터는 토포이소머라제 II 독소와 PARP 억제를 개 DLBCL의 네트워크 기반 후보 치료로 지지하며, 모듈 점수와 EV-miRNA는 잠재적 바이오마커로 제시되지만 TCGA 결과의 검정력 부족 등으로 추가 검증이 필요하다.",
+      "title": "Cross-Species Transcriptomic and Network Analysis of Human and Canine Diffuse Large B-Cell Lymphoma Identifies a Conserved Replication-DNA Damage Module for Drug Repurposing.",
+      "journal": "Veterinary and Comparative Oncology",
+      "generated_at": "2026-08-10T23:10:42.255Z",
+      "model": "gpt-5-mini"
+    },
     "42168827": {
       "brief_summary": "회음부 요도루 형성술(perineal urethrostomy, PU)을 받은 97마리의 반려 고양이(복와위 SR n=55, 배측위 DR n=42)를 후향적으로 검토하여 수술 중 체위가 마취·사후 혈청 크레아티닌(SCr)에 미치는 영향을 평가했다. 두 그룹 간 마취 합병증 및 수술 후 SCr 변화에는 유의한 차이가 없었다. 단, 수술 전 폐색 에피소드 수에서 통계적 차이(SR 중앙값 2 [0–5], DR 중앙값 2 [1–6], P=0.0074)가 관찰되었으나 임상적 의미는 크지 않은 것으로 보고되었다. 저자들은 SR 또는 DR 체위가 요도 폐색 관련 급성 신손상(AKI) 고양이의 마취 최적화에 영향을 주지 않으므로 수술자 선호에 따라 체위를 결정할 것을 권고한다.",
       "detailed_summary": "연구는 단일 기관의 의뢰 환자 고양이 97마마리를 후향적으로 검토한 사례대조 연구로, 회음부 요도루 형성술(PU) 이외의 추가 수술이 있는 증례는 제외되었다(SR n=55, DR n=42). 수집한 항목은 신상정보, 수술 전 폐색 에피소드 수, 수술 전·후 혈청 크레아티닌(SCr), 수술 및 마취 시간, 사용된 마취 약물, 그리고 수술 중 저혈압·고혈압·서맥·빈맥·저환기·저체온의 유무와 지속시간 등이었다. 통계는 Mann–Whitney U 검사와 Fisher의 정확 검정을 사용했다. 주요 결과로 수술 전 폐색 에피소드 수에서만 그룹 간 유의한 차이가 관찰되었고(SR 중앙값 2 [0–5], DR 중앙값 2 [1–6], P=0.0074), 다른 모든 전·중·후 기전 지표 및 수술 후 SCr 및 SCr 변화량에는 차이가 없었다. 결론적으로 복와위(SR)와 배측위(DR) 간에 마취 관련 변수나 수술 후 신기능 지표상 측정 가능한 차이는 없었으며, 따라서 체위는 마취 최적화의 결정 요인으로 고려할 필요가 없고 수술자의 선호에 따를 것을 제시한다. 연구는 후향적 의무기록 검토라는 설계적 특성을 가지며, 초록에 기술된 내용 외의 추가 제한점이나 인과관계는 제시되지 않았다.",
@@ -575,6 +671,14 @@
       "title": "Two Doppler blood pressure devices and 2 oscillometric blood pressure devices failed American College of Veterinary Internal Medicine validation in conscious dogs.",
       "journal": "American Journal of Veterinary Research",
       "generated_at": "2026-08-01T06:48:16.304Z",
+      "model": "gpt-5-mini"
+    },
+    "42206498": {
+      "brief_summary": "본 연구는 개의 림프절 세포검사(reactive n=10, lymphoma n=34)에서 엑스트랙션한 mRNA가 NanoString nCounter 기반 유전자 발현 프로파일링(GEP)에 이용 가능한지 평가했다. RNeasy Mini Kit로 추출한 RNA는 농도(27.5–543.9 ng/μL, 중앙값 168.5 ng/μL)와 DV200(50.5%–93.2%, 중앙값 81.65%) 면에서 분석에 충분했으며, RIN은 1.0–7.2(중앙값 2.9)로 시간 경과에 따라 저하되었다. GEP에서는 MYC, TERT, BRCA2 등을 포함한 17개의 유전자가 림프종에서 과발현되어, 세포검사 표본으로도 NanoString Canine IO Panel을 이용한 유전자 발현 평가가 실용적임을 시사한다.",
+      "detailed_summary": "연구는 염색된/염색되지 않은 개 림프절 세포검사 슬라이드에서 RNA를 추출해 양과 품질을 측정하고 NanoString nCounter의 Canine IO Panel로 GEP 수행 여부를 평가하는 후향적 분석이다. 대상은 반응성 림프절 10건과 림프종 34건이며, 대상은 유세포분석(flow cytometry) 또는 항원 수용체 재배열 PCR(PARR)로 특성화되었다. RNA는 RNeasy Mini Kit로 추출되었고 농도 범위는 27.5–543.9 ng/μL(중앙값 168.5 ng/μL, IQR 108.15–275.95)였다. 품질 지표로 RIN은 1.0–7.2(중앙값 2.9, IQR 2.10–4.45), DV200은 50.5%–93.2%(중앙값 81.65%, IQR 71.95%–87.85%)로 보고되었고, RIN 및 DV200 값은 채취 후 7일 이내 추출에서 더 높게 관찰되었다. nCounter 기반 GEP 결과 림프종 샘플에서 MYC, TERT, BRCA2 등을 포함한 17개의 유전자가 과발현되었다. 결론적으로 개의 림프절 세포검사 표본은 NanoString 플랫폼을 이용한 유전자 발현 분석에 충분한 RNA 품질을 제공하지만, RIN 값이 전반적으로 낮고 결과는 림프절 세포검사 표본과 해당 플랫폼에 한정된다는 점이 중요한 제한점이다.",
+      "title": "Messenger RNA From Canine Cytology Lymph Node Specimens Can Be Utilised for Gene Expression Profiling Using Digital RNA Counting.",
+      "journal": "Veterinary and Comparative Oncology",
+      "generated_at": "2026-08-10T23:10:26.659Z",
       "model": "gpt-5-mini"
     },
     "42206764": {
@@ -2951,6 +3055,22 @@
       "title": "Multicentre aortic thromboembolism thrombolysis evaluation in a retrospective study of 183 cats: the MATTERS study.",
       "journal": "Frontiers in Veterinary Science",
       "generated_at": "2026-08-09T22:59:36.789Z",
+      "model": "gpt-5-mini"
+    },
+    "42572207": {
+      "brief_summary": "본 연구는 가정 고양이 시신을 대상으로 초음파 유도 하 pericapsular 무릎 감각 차단(Pericapsular Knee Desensitization; PKD) 기법을 개발하고, 내측(MAN), 외측(LAN), 후측(PAN) 관절 분지의 주사 정확도를 평가했다. 소량의 염료(0.1–0.2 ml/신경)로 수행한 결과, 두 용량 모두 표적 신경 경로와 무릎 관절낭의 내·외측 및 후측 표면에 염료가 도달했으며 낭내 주입은 관찰되지 않았다. 소량 주사로도 주요 운동신경은 대부분 회피되었고, 이는 수술 전후 및 만성 무릎 통증 관리에 대한 향후 임상 평가의 해부학적·기술적 근거를 제공한다.",
+      "detailed_summary": "연구는 두 단계로 진행된 해부학적 시신 연구였다. Phase I에서는 3개의 시신(6개 골반 사지)을 초음파 및 해부로 관찰하여 내측(MAN), 외측(LAN), 후측(PAN) 분지의 해부학적 경로와 초음파 표지를 확인했다. Phase II에서는 8개 시신의 양측 다리(총 16개 사지)에 대해 각 신경에 0.1 ml(저용량, LV) 또는 0.2 ml(고용량, HV)의 염료를 무작위로 배정하여 주입했고, MAN과 PAN은 단일 내측 경유 초음파 유도로, LAN은 표지 기반으로 주사했다. 해부를 통해 표적 신경 주변, 관절낭 및 모신경으로의 염료 분포를 평가했으며 낭내 주입은 발견되지 않았다. MAN은 하부 subsartorial 관에서 내림성 슬개 혈관과 동행했고, PAN은 오금 혈관 근처를 지나며, LAN은 비골두와 가자미근(외측 비복근) 근처에서 표재적으로 주행하는 것으로 보고되었다. 성공률은 LV군에서 23/24(95.8%; 95% CI 78.9–99.9%), HV군에서 21/24(87.5%; 95% CI 67.6–97.3%)였고, 연구진은 소량(0.1–0.2 ml/신경)으로도 표적 퍼리캡슐 구획에 도달하며 주요 운동신경은 대체로 회피된다고 결론지었다. 중요한 제한점은 시신을 대상으로 한 해부학적‧기술적 연구라는 점으로, 실제 임상상 효능과 안전성 평가는 향후 임상 연구가 필요하다.",
+      "title": "EXPRESS: Development of an ultrasound-guided pericapsular knee desensitization technique in cats: an anatomical cadaveric study.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "generated_at": "2026-08-10T23:10:09.562Z",
+      "model": "gpt-5-mini"
+    },
+    "42572226": {
+      "brief_summary": "본 연구는 고양이의 혈소판에 결합한 IgG를 검출하기 위해 CD41/61로 혈소판을 동정하는 유세포분석(플로우사이트메트리) 기반의 자체 직접항글로불린검사(DAT)를 개발·평가하고, 혈소판감소증 고양이에서 DAT 양성의 유병률과 관련 인자를 조사했다. 정상 고양이 100마리에서 0–10%의 IgG 양성 혈소판 분포를 확인하고 >10%를 판정 기준으로 설정한 뒤 총 461마리의 혈소판감소증 고양이에 적용하여 105/461(22.8%)을 DAT 양성으로 분류했다. DAT 양성 고양이는 DAT 음성에 비해 혈소판 수가 유의하게 낮았고(중앙값 4,000/µL; 평균 12,562/µL vs 중앙값 34,000/µL; 평균 47,956/µL; P <0.05), IgG 결합 혈소판의 비율은 혈소판 수와 음의 상관(r = -0.38; P = 0.048)을 보였다. 연구진은 유세포분석 기반 DAT가 면역매개성 혈소판 파괴 의심 시 보조 진단도로 유용하나, 검사 결과 해석은 임상 소견 및 기저 원인에 대한 추가 검사와 함께 이루어져야 한다고 제시했다.",
+      "detailed_summary": "연구는 CD41/61 발현으로 혈소판을 동정하고 혈소판에 결합한 IgG를 유세포분석으로 평가하는 현장(인하우스) DAT를 개발·평가했다. 진단 기준은 정상 고양이 100마리에서 관찰된 IgG 양성 혈소판 범위(0–10%)를 바탕으로 >10%로 설정되었고, 먼저 중증 혈소판감소증(혈소판 수 <20,000/µL) 고양이 50마리에서 예비평가를 진행한 뒤 추가 411마리를 포함한 총 461마리(혈소판 수 <200,000/µL)에 적용했다. 이 기준으로 평가한 결과 105/461(22.8%)가 DAT 양성으로 분류되었다. DAT 양성군은 DAT 음성군에 비해 혈소판 수가 유의하게 낮았으며(중앙값 4,000/µL; 평균 12,562/µL vs 중앙값 34,000/µL; 평균 47,956/µL; P <0.05), IgG 결합 혈소판 비율과 혈소판 수는 음의 상관관계(r = -0.38; P = 0.048)를 보였다. 품종과의 연관성은 확인되지 않았고, 5세 전후의 고양이에서 DAT 양성 경향이 높았으며 중성화된 수컷에서는 DAT 양성 가능성이 낮았다. 결론적으로 유세포분석 기반 DAT는 고양이의 의심되는 면역매개성 혈소판 파괴를 평가하는 보조검사로서 유용하나, 검사 결과는 임상 소견 및 혈소판감소증의 기저 원인에 대한 추가 조사와 함께 해석해야 한다.",
+      "title": "EXPRESS: Flow cytometry-based direct antiglobulin test for suspected feline immune-mediated thrombocytopenia: Assay development and demographic factors associated with DAT positivity.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "generated_at": "2026-08-10T23:09:51.414Z",
       "model": "gpt-5-mini"
     }
   }
