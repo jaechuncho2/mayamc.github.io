@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T23:13:28.021Z",
+  "updated_at": "2026-08-11T23:26:59.879Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -3071,6 +3071,70 @@
       "title": "EXPRESS: Flow cytometry-based direct antiglobulin test for suspected feline immune-mediated thrombocytopenia: Assay development and demographic factors associated with DAT positivity.",
       "journal": "Journal of Feline Medicine and Surgery",
       "generated_at": "2026-08-10T23:09:51.414Z",
+      "model": "gpt-5-mini"
+    },
+    "42575087": {
+      "brief_summary": "진료 의뢰된 우심질환(right-sided heart disease, RHD) 개 18마리를 대상으로 한 전향적 횡단면 탐색 연구로, 질환 중증도가 증가할수록 우심방 면적과 NT-proBNP가 증가하고 장 기능 지표(혈청 메틸말로닉산, 장형 지방산결합단백질)가 악화되었으며 과다섬유소용해(hyperfibrinolysis)와 활성화 부분트롬보플라스틴 시간(aPTT) 연장이 관찰되었다. 코발라민, 엽산, C-반응단백질(CRP)에서는 군 간 유의한 차이가 없었다. 저자들은 RHD 개를 관리할 때 장–심장 축과 응고계 이상을 염두에 둘 것을 권고한다.",
+      "detailed_summary": "연구는 전향적·횡단면·탐색적 설계로, 진료 의뢰된 개 18마리를 3개 군(각 6마리)으로 나누어 평가했다(군1: 간정맥 울혈 없음, 군2: 간정맥 울혈 있으나 복수 없음, 군3: 복수 있음). 시행한 검사는 일반 혈액·소변·분변 검사, 위장관 건강 지표, 응고 검사, C-반응단백질(CRP), N-말단 프로B형 나트륨뇨퍼티드(NT-proBNP), 및 포괄적 심초음파이다. 우심방 면적은 군1→군2→군3에서 각각 평균 1.34 ± 0.66, 2.48 ± 1.33, 3.1 ± 0.93 cm2/kg0.71로 유의한 증가를 보였고(P = .02), NT-proBNP 중앙값(범위)도 군1 821 (493–3016) → 군2 1694 (1125–8117) → 군3 5165 (3492–10000) pmol/L로 유의하게 상승했다(P = .006). 장 기능 관련 지표로 혈청 메틸말로닉산(군1 857.5 ± 322.6, 군2 1031.1 ± 222.5, 군3 1460.5 ± 516.3 nmol/L; P = .037)과 장형 지방산결합단백질(I-FABP) 수준(군1 중앙값 9.3 ng/mL, 군2 10.1 ng/mL, 군3 13.8 ng/mL; P = .032)이 중증도에 따라 악화되었다. 응고계에서는 과다섬유소용해가 군1 0마리, 군2 2마리, 군3 3마리로 증가했고, aPTT도 질환 중증도와 함께 길어졌다. 반대로 코발라민, 엽산, CRP에서는 군 간 차이가 관찰되지 않았다(P > .05). 본 연구는 탐색적 소규모 횡단면 연구로 기술된 관찰 결과를 보고하며, 임상적 적용 시 일반화 가능성에 주의가 필요하다는 점을 시사한다.",
+      "title": "Assessment of gastrointestinal health and the coagulation system in dogs with right-sided heart disease: an exploratory study.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-08-11T23:26:17.122Z",
+      "model": "gpt-5-mini"
+    },
+    "42575151": {
+      "brief_summary": "이 전향적 임상 타당성 연구는 2025년 9–12월에 정상 슬개관절로 판정된 내원견 20마리를 대상으로 진정 상태에서 마이오토노미터(myotonometer)를 이용해 슬개건(PT)의 tendotonometry 적용 가능성과 사용자 신뢰도를 평가했다. 각 건에서 단일 사용자가 2회(회당 5회) 측정을 시행해 총 400개의 측정값을 얻었고 이상반응은 없었다. 측정된 5개 생체역학적 파라미터(tone, stiffness, elasticity, relaxation, creep)에서는 시리즈 내·좌우 그룹 간 유의한 차이가 없었고, 동일 사용자 내 반복도는 양호~우수했으나 좌우 간 반복도는 보통~불량이었다. 연구는 진정된 정상 슬개건에서 tendotonometry가 비침습적이고 실용적인 생체역학적 평가 수단임을 제시한다.",
+      "detailed_summary": "연구는 골반지 절뚝거림 병력이 없고 신체검사·방사선 소견상 정상으로 판단된 고객 소유견 20마리를 대상으로 한 전향적 임상 타당성 연구이다. 대상견은 진정된 상태에서 상용 디지털 촉진장치인 마이오토노미터(myotonometer)로 슬개건(PT)의 tone(긴장도), stiffness(강성), elasticity(탄성), relaxation(이완), creep(크리프)을 측정했다. 각 슬개건에 대해 단일 사용자가 2개의 측정 시리즈(각 시리즈당 5회)를 획득하여 총 400개의 tendotonometric 측정값을 수집했다. 연구 기간 중 이상반응은 관찰되지 않았다. 5개 파라미터 모두에서 같은 측정자 내 시리즈 간과 좌우 그룹 간에 통계적으로 유의한 차이는 없었다. 반복성 분석에서는 동일 사용자 내 시리즈 간의 반복도가 양호에서 우수로 나타났고, 좌우 간 반복도는 보통에서 불량으로 보고되었다. 저자들은 이 방법이 정상 슬개건을 대상으로 한 비침습적·신속한 생체역학적 평가법으로 임상에 적용 가능함을 제시하며, 향후 건 수복·치유 추적, 정형외과 연부조직 재건 또는 신경근 질환의 치료 반응 평가에 대한 추가 연구 가능성을 언급하고 있다.",
+      "title": "Tendotonometry allows noninvasive in vivo biomechanical evaluation of the patellar tendon in sedated dogs in a study assessing intrauser variability.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-08-11T23:26:59.872Z",
+      "model": "gpt-5-mini"
+    },
+    "42575156": {
+      "brief_summary": "전향 무작위 대조 임상연구로, 전기적 중성화 예정인 고양이 16마리(각 군 8마리)를 대상으로 medetomidine 70 μg/kg을 근육주사(IM) 또는 거련혈(GV20) 피하주사(SC)로 투여해 진정, 안압(IOP), 동공 직경 및 회복 양상을 비교했다. GV20 SC 투여군이 투여 후 5분(중앙값[범위] GV20 10[8–11] vs IM 5[4–8])과 10분(GV20 11[11–12] vs IM 8[8–11])에 더 빠른 초기 진정을 보였고, IOP에는 유의한 차이가 없었다. 동공 직경은 10–30분에 GV20에서 더 컸으나(30분 시 GV20 9.35±0.98 mm vs IM 6.94±1.78 mm, 평균차 2.41 mm) 저자들은 임상적으로 유의한 IOP 변화나 동공 직경 변화를 초래하지 않았다고 보고하며, 빠른 초기 진정이 필요할 때 GV20 SC 투여를 고려할 수 있으나 초기 회복은 모니터링해야 한다고 결론지었다.",
+      "detailed_summary": "연구는 2026년 4–5월 Ataturk University 동물병원에서 수행된 전향 무작위 대조 임상연구로, 전기 중성화 시술을 받는 고양이 16마리(각 군 8마리)에 medetomidine 70 μg/kg을 IM 또는 GV20(거련혈) 부위로 SC 투여하여 평가했다. 주요 평가 항목은 진정 점수, 안압(IOP), 평균 동공 직경이며 투여 전 및 투여 후 5, 10, 15, 20, 30분에 측정하였다. GV20 군은 5분(중앙값[범위] GV20 10[8–11] vs IM 5[4–8])과 10분( GV20 11[11–12] vs IM 8[8–11])에 유의하게 높은 진정 점수를 보여 초기에 더 빠른 진정을 보였다. IOP는 군 간 또는 시간에 따라 유의한 차이를 보이지 않았다. 평균 동공 직경은 10–30분 사이 GV20 군에서 더 컸고, 30분 시 평균값은 GV20 9.35±0.98 mm, IM 6.94±1.78 mm로 평균차 2.41 mm였다. 저자들은 GV20 SC 투여가 초기 진정 속도를 높일 수 있으나 IOP에 임상적으로 검출 가능한 변화는 없었고 동공 직경 변화도 임상적으로 중요하지 않다고 판단했으며, 빠른 초기 회복 가능성에 대해서는 모니터링이 필요하다고 기술했다.",
+      "title": "Subcutaneous medetomidine at the governing vessel 20 acupuncture point provides faster early sedation than intramuscular administration without altering intraocular pressure in cats.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-08-11T23:26:36.577Z",
+      "model": "gpt-5-mini"
+    },
+    "42577139": {
+      "brief_summary": "La Brea Tar Pits의 매머드군집에서 보존된 매머드 검치호랑이(Smilodon fatalis) 표본을 대상으로 척추 병변을 조사한 고병리학 연구로, 세 개의 척추 표본에서 추간공 확장(foraminal widening)이 관찰되어 척추 신경종양(Spinal nerve tumor, SNT)이 의심되었다. 연구진은 골격 표본 기준으로 100,000마리당 353이라는 유병률 유사 추정치를 제시했으며, 이는 사람의 보고된 임상 발생률(0.22–0.38/100,000)보다 높아 보이나 화석 표본의 표집 및 부패과정(taphonomic) 편향 때문에 직접 비교할 수 없다고 명시했다. 저자들은 원인이 불분명하나 인간에서 SNT의 다수는 유전적 변이와 연관되므로, 멸종 직전의 근친교배 가능성이 이 사례에 기여했을 수 있음을 신중하게 제시했다.",
+      "detailed_summary": "연구는 Rancho La Brea에서 출토된 대량의 Smilodon fatalis 골격을 대상으로 고병리학적 표본 조사를 수행하였으며, 동시대의 dire wolf와 현생 대형 고양이류를 비교기준으로 사용하였다. 조사 결과 세 개의 척추 표본에서 추간공 확장 양상이 관찰되어 척추 신경종양(SNT)과 일치하는 변화로 해석되었다. 이를 바탕으로 골격 발생 비율을 근거로 100,000마리당 353이라는 ‘유병률 유사’ 추정치를 보고하였다. 이 값은 사람의 보고된 임상 발생률인 0.22–0.38/100,000보다 높아 보이나, 화석 표본은 사후 처리 및 표집 편향(taphonomic bias)에 의해 영향을 받으므로 임상적 발생률과 직접 비교할 수 없다고 연구진은 지적한다. 원인 규명은 이루어지지 않았으나, 인간에서 많은 SNT가 유전적 변이와 연관된다는 점을 들어 멸종 직전 집단에서의 근친교배(추정)가 기여했을 가능성을 제시하였다. 주요 제한점은 화석 기반의 골격 표지에 의한 추정이라는 점과 표본 및 보존 편향으로 인해 임상적 발생으로 일반화할 수 없다는 점이다.",
+      "title": "Foraminal widening indicating a spinal nerve tumor in the saber-tooth cat Smilodon fatalis from Rancho La Brea.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-08-11T23:25:00.119Z",
+      "model": "gpt-5-mini"
+    },
+    "42577150": {
+      "brief_summary": "24마리의 건강한 6개월령 Ragdoll 고양이를 4개 군(무처방 대조, sodium hyaluronate(SH) 250 mg/kg, eggshell membrane(ESM) 250 mg/kg, SH 125 mg/kg + ESM 125 mg/kg; 각 군 n=6)으로 56일간 무작위 배정하여 사료 보충의 피부·모피 영향을 평가했다. SH+ESM 병용군은 모발 큐티클 형태, 모섬유 직경, 코트 광택·순응성, 피부 탄력, 코트 밝기 및 표피수분손실(TEWL) 감소 등에서 가장 일관된 개선을 보였고, 혈청 말론디알데히드 및 IL‑31 감소와 항산화 지표 및 혈청 아연·구리·비타민 E의 증가가 관찰되었다. 소규모의 건강한 유소년 고양이 코호트와 탐색적 미생물분석의 한계로 인과·임상적 해석에는 주의가 필요하지만, SH와 ESM 병용은 고양이의 피부·모피 유지에 대한 잠재적 영양 전략을 지지한다.",
+      "detailed_summary": "연구는 24마리의 6개월령 Ragdoll 고양이(각 군 n=6)를 무작위로 네 군에 배정하여 56일간 기초사료에 SH 또는 ESM 단독 및 병용 보충을 시행한 무작위 배치 연구다. 평가 항목은 모발 미세구조, 모피 촉감 및 색채(계측), 표피수분손실(TEWL), 혈액·혈청 바이오마커, 모발 영양소 조성 및 분변 마이크로바이옴이었다. 체중에는 유의한 차이가 없었고, SH+ESM 병용군에서 모발 큐티클 형태와 모섬유 직경, 코트 광택·순응성, 피부 탄력, 코트 밝기 개선 및 TEWL 감소와 같은 피부·모피 관련 지표 개선이 가장 일관되게 관찰되었다. 혈청에서는 말론디알데히드 및 interleukin‑31(IL‑31) 농도가 낮아지고, 선택적 항산화 지표와 혈청 아연·구리·비타민 E 농도가 증가했으며, 모발 내 아연 및 여러 아미노산의 침착이 증가했다. 분변 마이크로바이옴의 알파다양성은 유의하게 변하지 않았으나 병용군에서 Blautia 및 Lachnospiraceae 관련 분류군의 상대적 풍부도가 증가하는 등 분류학적 조성 차이가 관찰되었다. 저자들은 SH와 ESM 병용이 단독 성분보다 더 폭넓은 피부·모피 관련 반응을 보였다고 결론지었으나, 소규모의 건강한 유소년 코호트와 탐색적 마이크로바이옴 분석의 한계로 인해 인과관계 및 임상적 적용에는 제한이 있음을 명시하였다.",
+      "title": "Dietary sodium hyaluronate and eggshell membrane improve skin barrier function and coat health in Ragdoll cats.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-08-11T23:24:41.680Z",
+      "model": "gpt-5-mini"
+    },
+    "42577518": {
+      "brief_summary": "본 연구는 304마리의 후보 탐지견을 대상으로 네 시점의 발달 단계에서 행동 평가를 시행해, 최종 훈련 성패를 예측하는 지표를 규명하고자 했다. 트레이너의 전반적 적합성 점수(S)가 생후 12개월 시점에 훈련 결과를 74.3%의 정확도로 예측했으며, 5개 행동 구성요소(behavioral component, BC)를 이용해 계산한 계산적 적합성(CSS)도 모든 시점에서 트레이너 평가와 스피어만 상관계수>0.84로 강한 상관을 보였다. 임상적 의미는 트레이너의 전반 평가와 세부 BC 점수를 결합한 데이터 기반 모델이 탐지견 선발·모니터링에 유용할 수 있다는 점이다.",
+      "detailed_summary": "연구 설계는 Auburn University에서 수집한 종적(longitudinal) 자료를 이용한 관찰·예측 연구로, 총 304마리의 후보 탐지견을 네 발달 시점에서 평가했다. 각 시점에서 트레이너는 탐지 수행과 환경 적합성을 평가하는 11개 하위검사에 대해 행동 구성요소(BC) 점수를 부여했으며, 동시에 운영 탐지 업무 적합성에 대한 단일 전반 점수(S)를 매겼다. 머신러닝 분류기를 사용한 분석 결과, 생후 12개월 시점의 S 점수가 훈련 결과를 74.3% 정확도로 예측했다. 또한 선형 모델을 통해 5개의 유의한 BC를 사용해 각 시점별 계산적 적합성(CSS)을 산출했으며, CSS와 트레이너 보고 S 간의 스피어만 상관계수는 모든 시점에서 0.84를 초과해 높은 상관을 보였다. 예측 성능 측면에서 트레이너의 S는 높은 정확도를 보였고, CSS는 76.7%의 높은 정밀도(precision)를 나타냈다. 흥미롭게도 운영적으로 적합한 개들에서는 두 적합성 지표가 시간 경과에 따라 증가했으나, 실패한 개들에서는 증가하지 않았다. 결론적으로 본 연구는 트레이너의 전반 평가와 BC 점수를 데이터 기반으로 결합한 계산모델이 탐지견 개발 관리에 유용한 통찰을 제공함을 시사하며, 초록에는 구체적 제한점이 제시되어 있지 않음을 유의해야 한다.",
+      "title": "Behavioral components define operational suitability metric for detection dog success.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-08-11T23:24:17.604Z",
+      "model": "gpt-5-mini"
+    },
+    "42578818": {
+      "brief_summary": "본 연구는 두 개의 개 유선암 세포주(CF41.Mg, CMT-U27)를 대상으로 Matrigel 기반 3D 배양에서 CoCl2 전처리가 vasculogenic mimicry(VM) 유사 관상 구조 형성에 미치는 영향을 비교했다. VM 유사 관상구조는 CF41.Mg에서만 관찰되었고, CoCl2 전처리는 mesh와 segment 수를 증가시켰으나 24시간과 48시간 사이에 시간 의존성 차이는 없었다. CMT-U27에서는 VM 형성이 관찰되지 않았고, CoCl2 처리 시 E-cadherin이 증가했으며 MMP2나 CDH2는 유의한 변화가 없었다. 이는 CMT 세포주 간 VM 형성 능력과 반응성이 이질적임을示示하며, VM이 예후·전이·치료저항성과 연관될 수 있다는 점에서 임상적 유의성을 시사하지만 시험 조건은 in vitro에 한정된다.",
+      "detailed_summary": "연구 설계는 Matrigel 기반 3차원(3D) 세포 배양에서 정상 조건과 CoCl2 전처리 후 두 유선암 세포주(CF41.Mg, CMT-U27)의 VM 유사 관상 구조 형성을 비교 관찰하는 방식이었다. 결과적으로 VM 유사 관상 구조는 CF41.Mg에서만 관찰되었고, CoCl2 전처리는 mesh와 segment 수를 증가시켰으나 24시간과 48시간 간의 시간 의존성 차이는 없었다. CMT-U27은 시험 조건에서 VM 유사 구조를 형성하지 않았고, CoCl2 처리 시 E-cadherin 발현이 증가했으며 MMP2 및 CDH2에는 유의한 변화가 없었다. 미처리 상태에서의 탐색적 RNA 시퀀싱은 두 세포주 간에 혈관신생, epithelial-to-mesenchymal transition(EMT), 세포 이동, 저산소 관련 반응 및 세포외기질(ECM) 조직과 관련된 유전자 발현 패턴 차이를 보여주었다. 추가적으로 CoCl2 처리는 CF41.Mg에서 VM 관련 전사 및 단백질 수준 변화를 동반했으나 CMT-U27에서는 그러한 VM 유도 효과가 관찰되지 않았다. 결론적으로, 제시된 조건 하에서 CoCl2 전처리는 CF41.Mg의 VM 유사 구조 형성을 촉진했으나 CMT-U27에서는 유도하지 못했다. 중요한 제한점으로는 모든 결과가 in vitro 세포주 모델과 특정 전처리 조건에 국한되어 있어 임상 증례로의 일반화는 불가능하다는 점이다.",
+      "title": "Differential Effects of Cobalt Chloride Preconditioning on Vasculogenic Mimicry-Like Structure Formation in Two Canine Mammary Tumour Cell Lines.",
+      "journal": "Veterinary and Comparative Oncology",
+      "generated_at": "2026-08-11T23:25:46.609Z",
+      "model": "gpt-5-mini"
+    },
+    "42579237": {
+      "brief_summary": "독일에서 급성 전신성 떨림으로 내원한 개 5건의 진전성 미코톡시코시스(트레모르겐 미코톡시코시스)를 대상으로 임상 양상과 포괄적 분석법을 제시한 증례보고이다. 위 내용물과 혈청을 효소면역측정법(EIA) 및 HPLC‑MS/MS로 분석한 결과 모든 위 내용물에서 Penitrem A(PTA)가 EIA로 검출되었고, HPLC‑MS/MS로는 penitrems A–F, paxilline(PAX), α‑cyclopiazonic acid(CPA)가 확인되었으며 혈청에서는 이들 독소의 미량이 검출되었다. Penicillium crustosum이 모든 위 내용물에서 분리되었고, 저자들은 즉각적인 안정화 및 대증치료의 중요성과 함께 신속한 미코톡신 검사가 감별진단에 도움된다고 제시한다.",
+      "detailed_summary": "본 연구는 Justus‑Liebig‑University 수의과에 급성 발병의 전신성 떨림을 주소로 내원한 개 5마리를 대상으로 임상 소견·치료·결과를 문서화한 증례군 보고이다. 각 증례에서 유도 구토 또는 위세척으로 얻은 위 내용물과 가능 시 혈청을 수집하여 penitrems A–F, paxilline(PAX), α‑cyclopiazonic acid(CPA), 및 에르고린계 알칼로이드를 효소면역측정법(EIA)과 HPLC‑MS/MS로 분석했다. EIA에서는 모든 위 내용물에서 PTA가 양성으로 검출되었고 일부 시료에서는 PAX·CPA·에르고린 알칼로이드가 검출되었으며, HPLC‑MS/MS로 penitrems A–F와 PAX, CPA가 확인되었다. 혈청에서는 PTA, PAX, CPA가 미량 검출되었다. 모든 증례에서 독소생산 균주인 Penicillium crustosum가 위 내용물에서 분리되었다. 저자들은 이를 독일에서의 최초의 포괄적 분석을 포함한 급성 개 진전성 미코톡시코시스 보고로 소개하며, penitrems 외에 PAX·CPA·에르고린계 독소도 관련될 수 있음을 지적한다. 임상적 권고로 즉각적인 안정화와 대증치료를 최우선으로 하되 신속한 미코톡신 검사가 중독원인 규명에 유용하다고 결론내렸으나, 표본 수가 5건인 증례보고라는 점에서 결과를 일반화하기는 어렵고 초록에는 개별 치료성적의 세부 수치가 제시되어 있지 않다.",
+      "title": "Five cases of tremorgenic mycotoxicosis in dogs - clinical aspects and analytical methods.",
+      "journal": "Veterinary Research Communications",
+      "generated_at": "2026-08-11T23:25:24.876Z",
       "model": "gpt-5-mini"
     }
   }

@@ -1,6 +1,103 @@
 {
-  "updated_at": "2026-08-10T23:09:32.730Z",
+  "updated_at": "2026-08-11T23:24:02.672Z",
   "papers": [
+    {
+      "pmid": "42577518",
+      "title": "Behavioral components define operational suitability metric for detection dog success.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Zheng J, Lazarowski L, Lanier AL, Haney PS, Chester EM, Waggoner P, Wang X",
+      "date": "2026 08 11",
+      "dateObject": "2026 08 11",
+      "abstract": "To ensure effective development and assessment of detection dogs, Auburn University Canine Performance Sciences program has implemented a structured behavioral evaluation at four developmental milestones. At each timepoint, trainers scored candidate detection dogs on 11 subtests evaluating detection performance and environmental soundness using behavioral component (BC) scores. Additionally, trainers rated each dog's overall suitability for operational detection work using a singular global score. To investigate the relative importance of different metrics in predicting final outcomes, we leveraged a longitudinal dataset collected from 304 dogs. Using a machine learning classifier, we discovered that suitability (S) scores at 12-months of age were highly predictive of training outcomes, achieving a prediction accuracy of 74.3%. The S scores appear to reflect a synthesis of subtest scores across relevant behavioral domains, illustrated by their correlative structures. To determine if S scores could be replicated using only BC scores, we estimated computationally synthesized suitability (CSS) scores at each timepoint using five significant BC scores as predictors in a linear model. Strong correlations were observed between trainer-reported suitability and CSS, with spearman's correlation coefficients exceeding 0.84 at all timepoints, demonstrating CSS scores' excellent ability to predict suitability. As predictors of training outcome, trainer-reported S scores demonstrated high accuracy, while CSS scores exhibited high precision (76.7%). Notably, both suitability metrics increase over time in dogs deemed operationally capable but not in unsuccessful dogs. Our findings provide novel insights into the importance of data-driven approaches by combining expert trainer global assessments of suitability and BC scores with computational modeling in detection dog development.",
+      "categories": []
+    },
+    {
+      "pmid": "42577150",
+      "title": "Dietary sodium hyaluronate and eggshell membrane improve skin barrier function and coat health in Ragdoll cats.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Chen Q, Wang W, Wang H, Ma M, Miao C, Zhang Y, Lei S, Pan L, Liu Y, Chang X, Wang J, Xiong W",
+      "date": "2026 08 11",
+      "dateObject": "2026 08 11",
+      "abstract": "Skin and coat health are important indicators of feline well-being and are influenced by epidermal barrier integrity, nutritional status, oxidative balance, and microbial homeostasis. However, the effects of dietary sodium hyaluronate (SH) and eggshell membrane (ESM), either alone or in combination, remain insufficiently characterized in cats. Twenty-four healthy 6-month-old Ragdoll cats were randomly assigned to four dietary groups ( n &#x202f;=&#x202f;6 per group): a basal-diet control, 250 mg/kg SH, 250 mg/kg ESM, or 125 mg/kg SH plus 125 mg/kg ESM. After 56 days of supplementation, hair microstructure, coat sensory and colorimetric traits, transepidermal water loss (TEWL), hematological and serum biomarkers, hair nutrient composition, and fecal microbiota were evaluated. Dietary treatment did not significantly affect body weight. The combined SH + ESM treatment was associated with the most consistent improvements in hair cuticle morphology, hair fiber diameter, coat gloss, compliance, skin elasticity, coat brightness, and TEWL. It was also associated with lower serum malondialdehyde and interleukin-31 concentrations, higher selected antioxidant indices, increased serum zinc, copper, and vitamin E concentrations, and increased deposition of zinc and several amino acids in hair. Alpha diversity of the fecal microbiota was not significantly altered, whereas taxonomic composition differed among treatments, with greater relative abundances of Blautia and Lachnospiraceae-associated taxa in the combined-treatment group. Combined SH and ESM supplementation was associated with broader skin- and coat-related responses than either ingredient alone. These findings support its potential as a nutritional strategy for maintaining feline skin and coat health; however, the relatively small cohort of healthy juvenile cats and the exploratory nature of the microbiota analyses limit causal and clinical inference.",
+      "categories": [
+        "internalMedicine",
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42577139",
+      "title": "Foraminal widening indicating a spinal nerve tumor in the saber-tooth cat Smilodon fatalis from Rancho La Brea.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Schm&#xf6;kel H, Del Chicca F, Hagen Argudin Pina R",
+      "date": "2026 08 11",
+      "dateObject": "2026 08 11",
+      "abstract": "Tracing the health of extinct populations is important. Documenting this in deep time is challenging, but skeletal markers of disease can be preserved in fossils. Notably, a high incidence of spinal malformations has been recorded among specimens found in the La Brea Tar Pits, possibly because of an accumulation of expressed deleterious alleles that caused disturbances in developmental processes. The exceptional preservation of hundreds of specimens of the La Brea saber-toothed cat Smilodon fatalis allows us to examine pathologies within and across populations, with dire wolves from the same site and extant large-bodied felids serving as a basis for comparison. We identified three vertebral specimens from S. fatalis with changes indicating a possible spinal nerve tumor (SNT). The prevalence-like estimate was 353 per 100,000 individuals. The observed prevalence of foraminal widening compatible with presumed SNT among the La Brea S. fatalis sample appears high relative to reported human incidence estimates of 0.22-0.38 per 100,000 individuals, although these values are not directly comparable because the fossil estimate reflects skeletal occurrence in a taphonomically biased assemblage rather than clinical incidence. The reason for this high incidence in Smilodon fatalis is unclear, but in humans, many SNTs are associated with genetic mutations. Due to the presumed inbreeding toward the end of the species' existence, a similar mutation could have contributed to the development of the presumed SNTs in S. fatalis.",
+      "categories": [
+        "oncology",
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "42579237",
+      "title": "Five cases of tremorgenic mycotoxicosis in dogs - clinical aspects and analytical methods.",
+      "journal": "Veterinary Research Communications",
+      "authors": "Hart L, Rehagel C, Kuhn M, Taube A, Jozefowitz L, Hassdenteufel E, Cramer B, Akineden &#xd6;, Usleber E",
+      "date": "2026 08 11",
+      "dateObject": "2026 08 11",
+      "abstract": "Tremorgenic mycotoxicosis is a well-recognized cause of acute neurotoxicosis in dogs, most commonly associated with penitrem A (PTA), which is mainly produced by Penicillium crustosum. However, analytical confirmation of such cases is rare. This study describes five clinical cases of canine tremorgenic mycotoxicosis in Germany, together with comprehensive analytical confirmation. All dogs had been presented at the veterinary clinic of Justus-Liebig-University because of acute-onset generalized tremors. Clinical findings, therapeutic measures and final outcome were documented. Samples of gastric content (induced emesis or gastric lavage) and blood serum (if available) were analyzed for several neurotoxic mycotoxins, penitrems A-F, paxilline (PAX), &#x3b1;-cyclopiazonic acid (CPA), and ergoline alkaloids. Analysis was done by enzyme immunoassay (EIA), and by HPLC-MS/MS. EIA of gastric content was positive for PTA in all samples, and for PAX, CPA, and ergoline alkaloids in some. HPLC-MS/MS analysis confirmed the presence of penitrems A-F, PAX, and CPA. Trace levels of PTA, PAX and CPA were also detected in serum samples. Penitrem producing P. crustosum was isolated from gastric content of all animals. This is the first full analytical study on acute canine tremorgenic mycotoxicoses in Germany, and presents comprehensive results along the causal chain of tremorgenic mycotoxicosis. In addition to the penitrems, several other neurotoxic mycotoxins (PAX, CPA, ergoline alkaloids) may play a role in canine mycotoxicosis. While immediate stabilisation and symptomatic treatment are paramount, prompt mycotoxin testing can help identify the source of poisoning during differential diagnosis.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42578818",
+      "title": "Differential Effects of Cobalt Chloride Preconditioning on Vasculogenic Mimicry-Like Structure Formation in Two Canine Mammary Tumour Cell Lines.",
+      "journal": "Veterinary and Comparative Oncology",
+      "authors": "Jeong Y, Ha JH, Chung JY, Choi JH, Ahn JO",
+      "date": "2026 08 11",
+      "dateObject": "2026 08 11",
+      "abstract": "Vasculogenic mimicry (VM) is a tumour cell-lined vessel-like structure associated with poor prognosis, metastasis, and treatment resistance in human breast cancer. Furthermore, it has been described in canine mammary tumours (CMTs). Hypoxia is an established driving factor for VM formation in tumours with this capability. This study aimed to compare VM-like structure formation between two CMT carcinoma cell lines, CF41.Mg and CMT-U27. VM-like tubular structure formation was evaluated using a Matrigel-based 3D cell culture system under normal conditions and after CoCl 2 preconditioning. VM-like tubular structures were observed only in CF41.Mg cells, and CoCl 2 preconditioning increased the number of meshes and segments without a time-dependent difference between 24 and 48&#x2009;h. In contrast, CMT-U27 cells did not form VM-like structures under the tested conditions. Subsequently, RNA sequencing, quantitative polymerase chain reaction, enzyme-linked immunosorbent assay, and Western blot analyses were conducted. Exploratory RNA sequencing of untreated cells showed differences in the expression patterns of selected genes involved in angiogenesis, epithelial-to-mesenchymal transition, cell migration, hypoxia-associated responses, and extracellular matrix organization between the two cell lines. CoCl 2 treatment was associated with VM-related transcriptional and protein-level changes in CF41.Mg cells. In contrast, CoCl 2 treatment was associated with E-cadherin upregulation and no significant changes in MMP2 or CDH2 expression in CMT-U27 cells. Taken together, under the tested conditions, CoCl 2 preconditioning enhanced VM-like structure formation in CF41.Mg cells but did not induce VM-like tubular structures in CMT-U27 cells.",
+      "categories": [
+        "oncology"
+      ]
+    },
+    {
+      "pmid": "42575087",
+      "title": "Assessment of gastrointestinal health and the coagulation system in dogs with right-sided heart disease: an exploratory study.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Shropshire S, Jablonski S, Scansen BA",
+      "date": "2026 08 10",
+      "dateObject": "2026 08 10",
+      "abstract": "Right-sided heart disease (RHD) affects gastrointestinal function and hemostasis. Dogs with progressively severe RHD have impaired gastrointestinal function and altered hemostasis. Eighteen client-owned dogs with RHD; group 1: 6 dogs without hepatic venous congestion, group 2: 6 dogs with hepatic venous congestion but no ascites, and group 3: 6 dogs with ascites. Prospective, cross-sectional, exploratory study. Dogs underwent routine blood, urine, and fecal testing, measures of gastrointestinal health, coagulation testing, C-reactive protein (CRP), N-terminal pro-B-type natriuretic peptide (NT-proBNP), and comprehensive echocardiography. Right atrial area higher from groups 1 to 3 (1.34&#xa0;&#xb1;&#xa0;0.66, 2.48&#xa0;&#xb1;&#xa0;1.33, 3.1&#xa0;&#xb1;&#xa0;0.93&#xa0;cm2/kg0.71; P&#xa0;=&#xa0;.02). NT-proBNP (median; range) higher across group 1 (821; 493-3016&#xa0;pmol/L), group 2 (1694; 1125-8117&#xa0;pmol/L), and group 3 (5165; 3492-10&#x2009;000&#xa0;pmol/L) (P&#xa0;=&#xa0;.006). Measures of gastrointestinal dysfunction including serum methylmalonic acid (group 1&#xa0;=&#xa0;857.5&#xa0;&#xb1;&#xa0;322.6; group 2&#xa0;=&#xa0;1031.1&#xa0;&#xb1;&#xa0;222.5; and group 3&#xa0;=&#xa0;1460.5&#xa0;&#xb1;&#xa0;516.3&#xa0;nmol/L; P&#xa0;=&#xa0;.037) and intestinal fatty acid binding protein (group 1 median&#xa0;=&#xa0;9.3, range&#xa0;=&#xa0;5.6-11.5; group 2&#xa0;=&#xa0;10.1, 8.0-20.4; and group 3&#xa0;=&#xa0;13.8, 10.3-17.5&#xa0;ng/mL) were worse in more severely affected dogs (P&#xa0;=&#xa0;.032). Hyperfibrinolysis was observed with worsening RHD (none in group 1, 2 in group 2, and 3 in group 3). Activated partial thromboplastin time was higher with disease severity. No difference was detected among groups in cobalamin, folate, or CRP (all P&#xa0;>&#xa0;.05). Clinicians should be aware of derangements within the gut-heart axis and coagulation system when managing dogs with RHD.",
+      "categories": [
+        "cardiology",
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42575156",
+      "title": "Subcutaneous medetomidine at the governing vessel 20 acupuncture point provides faster early sedation than intramuscular administration without altering intraocular pressure in cats.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "G&#xf6;lgeli Bedir A, Yanmaz LE, Ak&#xe7;ora Y, &#xd6;zkalip&#xe7;i &#xc7;, Kartal T, Okur S",
+      "date": "2026 08 10",
+      "dateObject": "2026 08 10",
+      "abstract": "To compare sedation, intraocular pressure (IOP), mean pupil diameter, and recovery profiles after IM or SC administration at the governing vessel 20 (GV20) acupuncture point of medetomidine in cats. This prospective, randomized, controlled clinical study was conducted at the Animal Hospital of Ataturk University in April and May of 2026. Cats undergoing elective castration received medetomidine (70 &#xb5;g/kg) either IM or SC at GV20. Sedation score, IOP, and mean pupil diameter were recorded before and 5, 10, 15, 20, and 30 minutes after injection. 16 cats completed the study, with 8 cats in each group. Governing vessel 20 produced higher sedation scores at 5 minutes (GV20, 10 [range, 8 to 11]; IM, 5 [range, 4 to 8]; r = 0.69; 95% CI, 0.23 to 0.97) and 10 minutes (GV20, 11 [range, 11 to 12]; IM, 8 [range, 8 to 11]; r = 0.66; 95% CI, 0.20 to 0.98), with comparable scores thereafter. Intraocular pressure did not differ significantly between groups or over time. The mean pupil diameter was larger in the GV20 group than in the IM group from 10 to 30 minutes, with the greatest difference 30 minutes after medetomidine administration (GV20, 9.35 &#xb1; 0.98 mm; IM, 6.94 &#xb1; 1.78 mm; mean difference, 2.41 mm). GV20 administration produced faster early sedation than IM medetomidine without clinically detectable IOP alteration or clinically relevant changes in mean pupil diameter, although early recovery should be monitored. GV20 administration may be useful when rapid early sedation is desired in healthy cats, but early recovery should be monitored.",
+      "categories": [
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42575151",
+      "title": "Tendotonometry allows noninvasive in vivo biomechanical evaluation of the patellar tendon in sedated dogs in a study assessing intrauser variability.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Caturay KC, Amato NS, Stewart SD, Khanna C, Wilson-Robles H, Schmidt DM, Roske MT, Schulz K",
+      "date": "2026 08 10",
+      "dateObject": "2026 08 10",
+      "abstract": "To describe the use and determine the feasibility and user reliability of a commercially available digital palpation device, a myotonometer, on the canine patellar tendon (PT). In this prospective clinical feasibility study, client-owned dogs with no history of pelvic limb lameness were eligible for study enrollment from September through December of 2025 and included if their stifles were considered normal based upon physical examination and radiographic findings. Dogs were sedated, and a myotonometer was used to measure tone, stiffness, elasticity, relaxation, and creep of the PT. For each PT, a single user obtained 2 measurement series consisting of 5 individual measurements. 20 dogs were enrolled, and 400 total tendotonometric measurements were collected. No adverse events were observed. There were no statistically significant differences for any of the 5 biomechanical parameters between series within each side nor between left and right groups. There was good to excellent intraobserver repeatability between series and moderate to poor repeatability between sides. This clinical study demonstrated feasible myotonometer use as a novel method to obtain biomechanical data for the canine PT in a cohort of sedated dogs with normal stifles. This study introduces tendotonometry into the clinical setting as a novel modality for in vivo evaluation of orthopedic soft tissues using the PT as a test case. Beyond the canine PT, future tendotonometry studies may allow for the generation of noninvasive, rapid, and objective biomechanical data in tendon repair and healing, soft tissue reconstruction for orthopedic conditions, and treatment response in neuromuscular disorders.",
+      "categories": [
+        "surgery"
+      ]
+    },
     {
       "pmid": "42572226",
       "title": "EXPRESS: Flow cytometry-based direct antiglobulin test for suspected feline immune-mediated thrombocytopenia: Assay development and demographic factors associated with DAT positivity.",
@@ -688,40 +785,6 @@
       ]
     },
     {
-      "pmid": "42548562",
-      "title": "Why anesthetic protocols do not travel intact: hidden curriculum and local reasoning in small-animal veterinary anesthesia.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Nagahama S",
-      "date": "2026 08 04",
-      "dateObject": "2026 08 04",
-      "abstract": "In small-animal veterinary anesthesia, protocols, standard combinations, and dose-based practical aids are highly visible parts of the educational and clinical landscape. This visibility is not inherently problematic, because protocol-like structures can improve efficiency and provide workable starting points. However, in dogs and cats, where care often allows repeated observation, incremental adjustment, and response-guided modification, quality depends heavily on patient-specific interpretation and management. In that setting, protocol dependence becomes especially problematic. This article advances three related claims. First, protocol dependence describes a drift in which a starting framework comes to stand in for patient-specific anesthetic thinking. Second, this problem can be interpreted through the lens of hidden curriculum: protocol-shaped educational units may remain more portable than the reasoning formally endorsed. Third, anesthetic protocols can be understood as local organizational instruments, so protocols borrowed from external experts do not necessarily travel intact across institutions, a problem this article refers to as protocol transplantation. The argument is not that protocols should be abandoned. Rather, protocols should be repositioned as scaffolds for local, patient-specific reasoning rather than treated as portable finished products. Improving small-animal anesthesia will require not only better protocols, but more explicit teaching of how anesthetic plans are interpreted, revised, and locally enacted.",
-      "categories": []
-    },
-    {
-      "pmid": "42548518",
-      "title": "Safety of subconjunctival allogeneic platelet-rich plasma on normal canine eyes.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Davis AB, Stewart ML, Hickox AA",
-      "date": "2026 08 04",
-      "dateObject": "2026 08 04",
-      "abstract": "To determine the safety and tolerance of an allogeneic, pooled freeze-dried platelet-rich plasma (PRP; VetStem PrecisePRP&#x2122; Canine) product administered via subconjunctival injection two weeks apart in clinically normal canine eyes. Allogeneic PRP was reconstituted with sterile water. With topical anesthesia and gentle manual restraint of each dog, 0.2&#x202f;mL (500 &#xd7; 10 6 platelets/mL) of the reconstituted preparation was injected under the dorsal bulbar conjunctiva of the right eye. The procedure was repeated with 0.2&#x202f;mL of sterile saline (control) under the dorsal bulbar conjunctiva of the left eye. A complete blood count, chemistry profile, and comprehensive physical and ophthalmic examinations were conducted on all dogs at multiple time points to monitor for potential adverse reactions. No significant adverse effects associated with physical examination, hematologic or ocular parameters were noted at any time point during the study. All allogeneic PRP treated eyes developed a mild to moderate conjunctival hyperemia and chemosis that self-resolved within 48-72&#x202f;h. Additionally, one eye developed a mild periocular hyperemia that self-resolved within 72&#x202f;h. No adverse reaction was noted in any saline treated eye. Allogeneic PRP administered via subconjunctival injection in normal canine eyes appears to be safe and well-tolerated with only transient conjunctival hyperemia and chemosis noted. This study allows for further investigation into the clinical efficacy of subconjunctival allogeneic PRP for canine ocular surface inflammatory disorders.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42548414",
-      "title": "Evaluation of intestinal leakage pressure following unsutured intestinal biopsies performed with an automatic needle-core biopsy device.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Deglume E, Aloisi R, Delsol G, Malkani R, Libermann S, Etchepareborde S",
-      "date": "2026 08 04",
-      "dateObject": "2026 08 04",
-      "abstract": "To evaluate whether full-thickness intestinal biopsies performed with an automated needle-core device, without closure of the biopsy site, maintain adequate intestinal integrity in dogs and cats. This experimental study consisted of ex vivo testing on small intestinal segments from fresh canine and feline cadavers, and in vivo testing in dogs and cats undergoing enterectomy for unrelated indications. Full-thickness biopsies were performed using a 16-gauge automated needle-core device, with biopsy sites left unsutured. Intraluminal pressure was progressively increased using methylene blue-stained saline, and the initial leakage pressure (ILP) was recorded at first visible evidence of leakage. Cadaveric and in vivo ILP were compared to each other and to the reported maximal physiological intraluminal pressure of 25&#x202f;mmHg. Thirty-nine cadaveric intestinal segments from seven animals were evaluated. The mean cadaveric ILP was 20.7&#x202f;mmHg (95% CI [5.9-35.5&#x202f;mmHg]), with leakage observed below 25&#x202f;mmHg in 33 of them. In vivo ILP was measured in 12 patients (8 dogs, 4 cats), yielding 23 measurements. The mean in vivo ILP was 85.66&#x202f;mmHg (95% CI [55.53, 115.78]), significantly exceeding the reference value of 25&#x202f;mmHg, and all measurements remained above 26&#x202f;mmHg. Cadaveric leakage pressures were markedly lower than in vivo measurements, suggesting that cadaveric models may be poorly suited for evaluating intestinal pressure. In contrast, unsutured needle-core biopsy sites in live dogs and cats tolerated pressures above reported maximal physiological levels, immediately after biopsy. These findings suggest that the immediate risk of leakage at small (1.3-mm) unsutured biopsy sites is low; however, because healing and longer-term integrity were not evaluated, the necessity of routine closure cannot be established from these data. Further studies are needed to evaluate long-term safety and applicability in diseased intestines.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
       "pmid": "42548827",
       "title": "Rare occurrence of an intumescent cataract in a diabetic domestic longhair cat.",
       "journal": "JFMS Open Reports",
@@ -1030,29 +1093,6 @@
       "categories": [
         "neurology"
       ]
-    },
-    {
-      "pmid": "42086066",
-      "title": "Persistent and recurrent hypercalcemia are uncommon in dogs undergoing surgical treatment for primary hyperparathyroidism.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Rosa-Padilla NL, Fuller B, Schumacher C, Lux C, Thieman K, Biehl K, Ham K",
-      "date": "2026 07 31",
-      "dateObject": "2026 07 31",
-      "abstract": "To report the proportion of cases, causes, and definitions of recurrent and persistent hypercalcemia in dogs following surgical removal of autonomously functioning parathyroid tissue. Retrospective review of medical records from 3 academic veterinary hospitals (2012 to 2022) identified dogs with surgically treated primary hyperparathyroidism. Data included signalment, clinical signs, diagnostics, treatment, histopathology, and outcomes. Dogs were categorized by follow-up: &#x2264; 6 months (group 1) or > 6 months (group 2). Descriptive statistics were performed. The Mann-Whitney U test compared preoperative ionized calcium and parathyroid hormone between dogs with persistent versus resolved hypercalcemia. 202 dogs met the inclusion criteria. Group 1 included 123 dogs, and group 2 included 79 dogs. Mean age was 10.7 &#xb1; 2.23 years, with no sex predilection. Hypercalcemia-associated clinical signs occurred in 68% (138 of 202) of dogs. Histopathology revealed parathyroid adenoma (58% [135 of 233]), hyperplasia (24% [56 of 233]), and carcinoma (7% [10 of 233]) as most common. Persistent hypercalcemia occurred in 25 of 202 dogs (12.4%), primarily due to incorrect surgical removal or multiglandular disease. Preoperative ionized calcium and parathyroid hormone did not differ between persistent and resolved cases. Recurrent hypercalcemia occurred in 1 of 79 (1.3%) dogs in group 2, associated with a new mass. Fifteen dogs underwent a second surgery; 1 dog required a third surgery. Persistent and recurrent hypercalcemia were uncommon (12.4% and 1.3%, respectively). Multiglandular disease and incorrect surgical excision were the leading causes of persistent hypercalcemia. This study emphasizes that persistent and recurrent hypercalcemia are uncommon but require diligent perioperative planning and monitoring.",
-      "categories": [
-        "oncology",
-        "surgery"
-      ]
-    },
-    {
-      "pmid": "42081925",
-      "title": "A vest-based sling provides greater hip flexion and abduction than a traditional Ehmer sling, with limited tolerability in healthy dogs.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Huber AL, Picavet PP, Hamon M, Renberg WC",
-      "date": "2026 07 31",
-      "dateObject": "2026 07 31",
-      "abstract": "To measure hip flexion, abduction, and internal rotation in a static standing position with the limb maintained with a traditional Ehmer sling (TES), compare these with a commercially available vest-based sling (VBS), and describe short-term tolerability of the VBS in healthy dogs. 12 healthy client-owned dogs were prospectively enrolled between June 2024 and August 2025. A TES and a VBS were sequentially applied to the same hindlimb. Hip flexion, abduction, and internal rotation were measured. Dogs were monitored for VBS tolerability and complications for up to 14 days at home, based on predefined study end points. Compared with the TES, the VBS resulted in greater hip flexion, reflected by a lower mean angle (53&#xb0; &#xb1; 13&#xb0; vs 66&#xb0; &#xb1; 11&#xb0;), and greater hip abduction (15&#xb0; &#xb1; 5&#xb0; vs 8&#xb0; &#xb1; 6&#xb0;). Internal rotation did not significantly differ between devices (TES: median, 1&#xb0;; IQR, -5&#xb0; to 5&#xb0;; VBS: median, 6&#xb0;; IQR, 4&#xb0; to 10&#xb0;). Only 1 dog completed the intended 14-day wear period. Four dogs reached a study end point due to device-related issues, 2 due to owner noncompliance and 5 due to poor tolerability. This study provides reference goniometric values for hip positioning achieved with a TES and demonstrates that a VBS results in greater hip flexion and abduction, with limited short-term tolerability in healthy dogs. Establishing expected hip joint positioning may help guide clinical application and evaluation of Ehmer slings following reduction of hip luxation. Limited tolerability of the VBS may affect clinical applicability.",
-      "categories": []
     },
     {
       "pmid": "42536135",
@@ -1825,19 +1865,6 @@
       ]
     },
     {
-      "pmid": "42478120",
-      "title": "CT-Based Radiomic Features Predict Cervical Lymph Node Metastasis in Dogs With Oral Malignancy: A Machine Learning Study Using Leave-One-Patient-Out Cross-Validation.",
-      "journal": "Veterinary and Comparative Oncology",
-      "authors": "Pinard CJ, Lagree A, Appleby R, Oblak M, Wu KC, Tran WT",
-      "date": "2026 07 21",
-      "dateObject": "2026 07 21",
-      "abstract": "Accurate preoperative identification of cervical lymph node (LN) metastasis is essential for staging and treatment planning in dogs with oral malignancy, yet conventional imaging offers limited diagnostic sensitivity. This retrospective study evaluated whether CT-derived radiomic features, combined with machine learning classifiers, could predict the metastatic status of mandibular and retropharyngeal LNs. Forty-nine dogs with histopathologically confirmed oral malignancy underwent contrast-enhanced CT, and four bilateral cervical LN sites were manually segmented on images resampled to 1.0&#x2009;mm isotropic spacing, yielding 195 LN observations (18 metastatic, 9.2%). One hundred and seven radiomic features were extracted per LN using PyRadiomics, and variance filtering, Spearman redundancy removal (|&#x3c1;|&#x2009;>&#x2009;0.95), and Mann-Whitney U testing with Benjamini-Hochberg correction were performed within each fold of leave-one-patient-out cross-validation (LOOCV) to eliminate selection-leakage bias. Logistic regression, random forest (RF), support vector machine, and XGBoost were trained with SMOTE applied within training folds only, and two endpoints were evaluated on the same out-of-fold predictions: per-LN (primary) and per-patient (secondary, via maximum-probability aggregation across the four sites). Confidence intervals were derived from 5000-iteration patient-level bootstrap, and sensitivity analyses included repeated StratifiedGroupKFold cross-validation and cluster-robust generalised estimating equation (GEE) inference. At the per-LN level, RF achieved an AUC of 0.649 (95% CI 0.474-0.831; sensitivity 0.444, specificity 0.898) and XGBoost an AUC of 0.631 (0.501-0.772; sensitivity 0.944, specificity 0.379). Patient-level aggregation yielded an RF AUC of 0.613 (0.431-0.786; 9/13 metastatic-positive dogs identified) and an XGBoost AUC of 0.485. Four GLSZM/GLCM texture features were selected in 92%-100% of LOOCV folds and remained significant under GEE (adjusted p&#x2009;&#x2264;&#x2009;0.012). CT-derived texture features therefore carry a reproducible, biologically interpretable signal for cervical LN metastasis, but leakage-controlled performance is modest in this proof-of-concept study, and external validation in larger, multi-institutional cohorts is required before clinical translation.",
-      "categories": [
-        "oncology",
-        "surgery"
-      ]
-    },
-    {
       "pmid": "42476551",
       "title": "Association of brachycephaly, sleep-disordered breathing, and inflammatory response in dogs.",
       "journal": "Journal of Veterinary Internal Medicine",
@@ -2221,21 +2248,6 @@
         "cardiology",
         "internalMedicine",
         "surgery"
-      ]
-    },
-    {
-      "pmid": "42456055",
-      "title": "Effect of postoperative underwater treadmill therapy on functional recovery in dogs undergoing intervertebral disc surgery: a retrospective matched cohort study.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Kuricov&#xe1; M, T&#xf6;r&#xf6;k M, Zelezn&#xed;k P, Lipt&#xe1;k T",
-      "date": "2026 07 16",
-      "dateObject": "2026 07 16",
-      "abstract": "Postoperative recovery of neurologic function after surgery for intervertebral disc disease (IVDD) is variable. While underwater treadmill therapy (UWTM) is widely used in practice, objective evidence of its contribution to improved neurologic function remains limited. To compare the effects of postoperative UWTM vs standard home-based rehabilitation on recovery of neurologic function in dogs undergoing hemilaminectomy or ventral slot surgery. Seventeen dogs received supervised UWTM twice weekly for 6 weeks (UWTM), and 17 matched controls received owner-guided exercises (CONTROL). Retrospective matched cohort study based on a review of medical records of dogs undergoing surgical decompression for IVDD. Dogs receiving postoperative UWTM matched 1:1 with control dogs based on breed, type of surgery, and body weight (&#x2264;10% difference). Neurologic function was assessed preoperatively and weekly (6&#xa0;weeks) using the Olby Open Field Score (OFS). Improvement was expressed as change from baseline (&#x394;OFS). The primary outcome was the time to regain independent ambulation (defined as OFS &#x2265;12). Both groups improved over time. From week 2 onward, &#x394;OFS was consistently higher in UWTM group than in CONTROL group (week 2: +4 vs +2; week 3: +6 vs +3). Median time to independent walking was shorter in the UWTM group (range 7-35&#xa0;days) compared with the CONTROL group (range 14-42&#xa0;days; Mann-Whitney U, P&#xa0;=&#xa0;.0069). No UWTM-related adverse events, including infection or wound complications, were observed. Incorporation of structured UWTM therapy should be considered as part of postoperative management to enhance recovery outcomes.",
-      "categories": [
-        "internalMedicine",
-        "surgery",
-        "neurology",
-        "dermatology"
       ]
     },
     {
@@ -2704,18 +2716,6 @@
       "categories": [
         "internalMedicine",
         "dermatology"
-      ]
-    },
-    {
-      "pmid": "42400729",
-      "title": "Prevalence and zoonotic transmission of Opisthorchis viverrini in animal reservoir: a systematic review and meta-analysis in the greater Mekong Subregion.",
-      "journal": "Veterinary Research Communications",
-      "authors": "Chompo P, Sota P, Andityas M, Thongrin T, Sukon P, Tangkawattana S",
-      "date": "2026 07 04",
-      "dateObject": "2026 07 04",
-      "abstract": "Opisthorchis viverrini infection remains a major public health concern in Southeast Asia, particularly in the Greater Mekong Subregion. Although animal reservoirs contribute to sustaining parasite transmission, comprehensive evidence on infections in these hosts remains limited. This study conducted a systematic review and meta-analysis to assess O. viverrini infection in animal reservoirs (cats and dogs). Pooled prevalence and infection intensity were estimated using random-effects models and meta-regression, and associated factors were synthesized. Subgroup analyses were performed to examine variability, and heterogeneity was evaluated using the Q statistic and the I&#xb2; index. The pooled prevalence of O. viverrini infection in animal reservoirs was 4.76% (95% confidence interval (CI): 2.83-7.90%, prediction interval (PI): 0.15-61.76%). After trim-and-fill adjustment, the estimate increased to 16.31% (95% CI: 10.00-25.49%, PI: 0.28-93.09%), with wide prediction intervals indicating substantial heterogeneity. Cats showed significantly higher prevalence (11.97%) than dogs (1.89%; p < 0.01). Infection intensity followed a similar pattern, with mean eggs per gram (EPG) higher in cats (151.07) than in dogs (45.77; p < 0.01). No significant difference in overall prevalence was observed between Thailand (4.36%) and Lao PDR (13.44%; p = 0.19), although significant subgroup differences were detected for cats (p = 0.01) and dogs (p < 0.01). Overall reservoir-host prevalence was higher in endemic areas (5.64%) than in non-endemic regions (2.28%; p < 0.001); this difference was significant in cats but not in dogs. Meta-regression showed no significant temporal trend. Linear regression revealed positive associations between human and animal infections, with stronger correlation for cats (R&#xb2; = 0.86, p < 0.01) than dogs (R&#xb2; = 0.62, p = 0.02). These findings support an important role of animal reservoirs, particularly cats, in transmission and emphasize the need for improved surveillance and integrated control strategies.",
-      "categories": [
-        "internalMedicine"
       ]
     },
     {
