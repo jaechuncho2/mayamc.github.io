@@ -1,6 +1,213 @@
 {
-  "updated_at": "2026-08-11T23:24:02.672Z",
+  "updated_at": "2026-08-12T23:24:16.493Z",
   "papers": [
+    {
+      "pmid": "42585566",
+      "title": "Endoscopic reduction of true gastrogastric intussusception in a dog.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Ogawana T, Fukui S, Daimon Y, Kanemoto H",
+      "date": "2026 08 12",
+      "dateObject": "2026 08 12",
+      "abstract": "A 9-year-old neutered male Toy Poodle was diagnosed with true gastrogastric intussusception based on clinical signs, imaging studies, and endoscopic findings. The dog presented with vomiting, hematochezia, and decreased activity. Abdominal ultrasonography identified edematous thickening of the gastric wall and invagination of the gastric fundus into the gastric body. The diagnosis was confirmed by computed tomography (CT). Endoscopic examination clearly identified the intussuscepted portion of the gastric fundus, which was successfully reduced without surgery using insufflation. Histopathologic analysis of gastrointestinal biopsy samples identified chronic gastritis, enteritis, and colitis. After the procedure, the dog remained free of recurrence through day 216. This case emphasizes the value of early ultrasonographic diagnosis and successful endoscopic reduction in the management of true gastrogastric intussusception.",
+      "categories": [
+        "internalMedicine",
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42585565",
+      "title": "Evaluation of plasma kynurenine 3-monooxygenase and Ki-67 as screening biomarkers for neoplasia in dogs.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Sio KM, Ke CH, Lin CS",
+      "date": "2026 08 12",
+      "dateObject": "2026 08 12",
+      "abstract": "Early detection of tumors might prolong the survival of dogs. Kynurenine 3-monooxygenase (KMO) and Ki-67 are tumor biomarkers, but few studies have described the clinical value of KMO and Ki-67 in veterinary medicine. This study aims to compare the activity of KMO and the concentration of Ki-67 between healthy dogs and dogs with neoplasms. A total of 162 dogs with different types of tumors were included. Forty-six tumor-free individuals were included as the control group. This is a case-control study. Dogs with neoplasms, confirmed through medical record review, were recruited. The primary outcomes were the plasma concentrations of KMO and Ki-67, along with their diagnostic efficacy. Expression levels of KMO were significantly higher in dogs with neoplasms (median, 2.02&#xa0;ng/mL; IQR, 1.03-3.65) than in tumor-free individuals (median, 0.69&#xa0;ng/mL; IQR, 0.23-1.18; P&#xa0;<&#xa0;.0001). The values of Ki-67 were higher in dogs with neoplasms (median, 4.28&#xa0;ng/mL; IQR, 3.75-4.84) than in the control group (median, 3.80&#xa0;ng/mL; IQR, 3.31-4.43; P&#xa0;<&#xa0;.05). No significant correlation was found between KMO and Ki-67 concentrations (R2&#xa0;=&#xa0;0.003, P&#xa0;=&#xa0;.48) in the tested samples and 50.6% (82/162) of dogs exhibited inconsistent results. The area under the ROC curve for KMO and Ki-67 were 0.837 and 0.644. This study presents that KMO is an effective biomarker and Ki-67 is an adjunctive marker. While lacking standalone diagnostic utility, Ki-67 reflects systemic tumor biology and complements biomarkers such as KMO.",
+      "categories": [
+        "oncology"
+      ]
+    },
+    {
+      "pmid": "42585564",
+      "title": "Presumed cervical subperiosteal vertebral hemorrhage in nine greyhounds.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Orgonikova I, Mallol C, Gutierrez-Quintana R, Aige-Gil V, Amengual Batle P, Alcoverro E, Faller KME, Elvira T, Brocal J",
+      "date": "2026 08 12",
+      "dateObject": "2026 08 12",
+      "abstract": "Spontaneous subperiosteal vertebral hemorrhages (SSVHs) are rarely documented in veterinary literature, with only a few cases reported in dogs. Describe the clinical presentation, imaging findings, and outcome of presumptive cervical SSVHs in dogs and perform a prospective cadaveric study describing the morphology of lesions. Nine greyhounds presented with acute onset of cervical myelopathy. Multicenter descriptive study. The databases were searched for dogs that underwent magnetic resonance imaging (MRI), computed tomography (CT), or both of cervical vertebral column with SSVH as the main or differential diagnosis. Nine middle-aged greyhounds met the inclusion criteria. On MRI, all lesions were at third cervical vertebra or fourth cervical vertebra or both vertebral bodies. Most were bilateral, symmetrical, and ventrolaterally located, causing spinal cord compression. Lesions showed homogeneous T2W hyperintense and T1W isointense to hyperintense signal relative to gray matter; they were non-contrast-enhancing and exhibited a peripheral rim of susceptibility artifact on T2*W images. On CT images, extradural lesions were homogeneously hyperattenuating (60-80 Hounsfield Units). All dogs had an acute onset of clinical signs and were treated medically. Clinical improvement was observed in all cases, and all nonambulatory dogs became ambulatory within 9&#xa0;days. Clinical signs did not recur during the follow-up period (median, 254&#xa0;days; range, 5-1217&#xa0;days). Spontaneous subperiosteal vertebral hemorrhage should be included in the differential diagnosis of acute onset cervical myelopathy in greyhounds. Imaging characteristics can aid in differentiating subperiosteal hemorrhage from other extramedullary or extradural lesions. The prognosis is excellent despite the severity of neurologic impairment at presentation.",
+      "categories": [
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "42583395",
+      "title": "Correction: Radiographic and cone-beam computed tomography characterization of Chevron lucency in 82 clinically healthy maxillary canine teeth of dogs: a retrospective descriptive study.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Villamizar-Martinez LA, Qu Y, Villegas Lobos CM, Lopes-Kubitza FM",
+      "date": "2026 08 12",
+      "dateObject": "2026 08 12",
+      "abstract": "[This corrects the article DOI: 10.3389/fvets.2026.1876288.].",
+      "categories": []
+    },
+    {
+      "pmid": "42582328",
+      "title": "Treatment of canine otitis externa: a randomized, double-blinded, clinical field study comparing the hydrocortisone aceponate monotherapy to a multi-agent reference product.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Kuwahara T, Poincelot L, Jasmin P, Bidaud A, Kinoshita G",
+      "date": "2026 08 12",
+      "dateObject": "2026 08 12",
+      "abstract": "Erythemato-ceruminous otitis externa (ECOE) is a canine inflammatory condition very frequently involving secondary microbial infections. This multicentric, masked, randomized, clinical field trial in Japan evaluated the efficacy and safety of a hydrocortisone aceponate (HCA) spray solution (Cortotic&#x2122;, Virbac, France) compared to a terbinafine/florfenicol/betamethasone acetate ear gel (Osurnia&#x2122;, Bussan Animal Health CO Ltd, Japan) in 200 dogs with ECOE (OTIS3 &#x2265; 5). Dogs received either Cortotic&#x2122; daily for 7 or 14 days or Osurnia&#x2122; on Days 0 and 7. OTIS3 clinical evaluation and cytological examinations were conducted, as well as the subjective veterinarian product efficacy evaluation. Results showed no significant differences between groups in OTIS3 score reduction, cytological reduction, or treatment success rates at any time point. On Day 28, Cortotic&#x2122; showed a 72.1% OTIS3 reduction, comparable to Osurnia&#x2122; 76.1%. Treatment success rates were also similar, and relapse rate was low in both groups. On Day 28, the veterinarians subjectively assessed the efficacy as good or excellent in 83% of cases for Cortotic&#x2122; and 87% for Osurnia&#x2122;. Both treatments were well-tolerated. Cortotic&#x2122; demonstrated non-inferiority to Osurnia&#x2122; regarding clinical and cytological efficacy. The use of Cortotic&#x2122;, a corticosteroid-monotherapy, can offer an effective strategy for managing ECOE while avoiding unnecessary antibiotic exposure. This study supports Cortotic&#x2122; as a first-line therapeutic option for otitis externa in dogs.",
+      "categories": [
+        "internalMedicine",
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42582002",
+      "title": "Systemic immune-inflammation index as a prognostic biomarker in critically ill dogs.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Kim SG, Han HJ",
+      "date": "2026 08 12",
+      "dateObject": "2026 08 12",
+      "abstract": "Rapid and accurate prognostic assessment in critically ill dogs with systemic inflammation remains challenging. The Systemic Immune-Inflammation Index (SII), calculated as (neutrophil count&#x202f;&#xd7;&#x202f;platelet count)/lymphocyte count, has been recognized as a biomarker for systemic inflammation and immune dysregulation in human medicine. However, its clinical relevance in veterinary emergency and critical care settings remains unclear. This study aimed to evaluate the clinical significance of the SII in critically ill dogs and establish its reference interval in healthy control dogs. This retrospective study analyzed 96 healthy control dogs and 61 critically ill dogs that presented to the intensive care unit (June 2023-January 2025). Complete blood count (CBC) parameters collected within 1&#x202f;h of presentation were used to calculate the SII. CBC parameters and CBC-derived indices including SII were compared between critically ill dogs and healthy control dogs. Furthermore, CBC parameters, CBC-derived indices, and the Acute Patient Physiologic and Laboratory Evaluation (APPLE) score were compared between survivors and non-survivors. Receiver operating characteristic (ROC) curve analysis was performed to determine an optimal SII cutoff for predicting mortality and a 95% reference interval was established for healthy control dogs. Critically ill dogs had significantly higher median SII compared to healthy control dogs (1,997 vs. 516, p &#x202f;<&#x202f;0.001). Non-survivors showed significantly elevated white blood cell count, neutrophil count, SII, neutrophil-to-lymphocyte ratio (NLR), and APPLEfast score compared to survivors. ROC curve analysis demonstrated that SII predicted mortality with moderate accuracy (area under the curve [AUC]: 0.806; cutoff: 2,628; sensitivity: 90%; specificity: 74.5%), with performance at least comparable to the APPLEfast score (AUC: 0.759; sensitivity: 90%; specificity: 64.7%) in this cohort. The 95% reference interval for SII in healthy control dogs was 180-1,392. In conclusion, SII was significantly increased in critically ill dogs, and values above the cutoff were associated with an increased mortality risk. These findings suggest that the SII is a valuable, novel indicator for prognostic evaluation in critically ill canine patients; however, further validation in larger cohorts is warranted.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42582000",
+      "title": "Infrared thermography in clinically healthy dogs shows body region and haircoat variability.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Hall N, Hall A, Atwood L, Petry J, Lewis MJ",
+      "date": "2026 08 12",
+      "dateObject": "2026 08 12",
+      "abstract": "Infrared thermography quantifies body surface temperature with growing applications in dogs, particularly among rehabilitation practitioners; however, incomplete understanding of normal temperature variation in healthy dogs limits interpretation. This study characterized body surface temperature distribution and evaluated factors influencing thermographic measurements in a heterogeneous group of healthy dogs. Client-owned, adult dogs were prospectively enrolled and underwent standardized thermographic imaging, with regions of interest defined for trunk, neck, and spine. Mean surface temperatures were assessed for symmetry, compared across regions and explored for relationships with individual dog characteristics. p &#x202f;<&#x202f;0.05 was significant with adjustment for multiple comparisons. Thirty-three dogs were included with median age of 3.3 (1.0-10.9) years and median body weight of 18.6 (3.7-59.4) kgs. No significant left-right asymmetry was identified in paired regions. Mean (&#xb1; SD) surface temperature for the dorsal neck (23.9&#xb0; &#xb1; 1.6&#xb0;) was significantly cooler than the lumbar spine (25.4&#xb0; &#xb1; 1.9&#xb0;, p &#x202f;=&#x202f;0.009) and lateral trunk (25.2&#xb0; &#xb1; 2.0&#xb0;, p &#x202f;=&#x202f;0.03) regions. Short-haired dogs exhibited significantly higher values than medium/long-haired dogs for the lateral trunk (26.8&#xb0; &#xb1; 1.9&#xb0; vs. 24.2&#xb0; &#xb1; 1.4&#xb0;, p &#x202f;=&#x202f;0.001), dorsal neck (25.2&#xb0; &#xb1; 1.8&#xb0; vs. 23.2&#xb0; &#xb1; 0.9&#xb0;, p &#x202f;=&#x202f;0.01) and sacral (26.0&#xb0; &#xb1; 2.2&#x202f;&#xb0;C vs. 23.5&#xb0; &#xb1; 1.1&#x202f;&#xb0;C, p &#x202f;=&#x202f;0.006) regions. No other significant relationships were identified. Regional variation and coat length are important factors influencing thermography in healthy dogs, while bilateral symmetry is generally preserved. Establishing variability in healthy dogs is critical to clinical interpretation of thermography in abnormal dogs.",
+      "categories": [
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42581991",
+      "title": "Atypical cat-scratch disease with acute high-grade fever and neuropsychiatric symptoms: a case report.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Song X, Liu X, Lou M, Xu J, Gong X, Yang Q, Chen G, Mei J",
+      "date": "2026 08 12",
+      "dateObject": "2026 08 12",
+      "abstract": "To report an atypical case of neurological cat-scratch disease (NCSD) presenting with acute-onset fever and prominent neuropsychiatric manifestations in an older adult. An 85-year-old East Asian man with a history of hypertension and coronary artery disease. Three months after a cat scratch, the patient developed abrupt high-grade fever, followed by nocturnal delirium with visual hallucinations and a witnessed seizure-like episode, and later complained of occipital headache. Physical examination revealed mild bilateral axillary and left supraclavicular lymphadenopathy without focal neurologic deficits. Cerebrospinal fluid cultures and stains were negative for bacteria and fungi. Serum metagenomic next-generation sequencing (mNGS) detected Bartonella henselae . After antibiotic therapy, the fever and headache resolved. Cat-scratch disease should be considered as a rare but important infectious etiology in patients presenting with febrile illness accompanied by delirium or other neuropsychiatric symptoms. Clinicians should carefully inquire about recent cat exposure or scratch history and consider early pathogen-directed empiric antibiotic therapy to minimize diagnostic delay and improve outcomes.",
+      "categories": [
+        "internalMedicine",
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "42584747",
+      "title": "Radiographic reference values for canine baculum length: association with body-weight category in dogs aged at least 1 year.",
+      "journal": "Veterinary Research Communications",
+      "authors": "Fuertes-Recuero M, L&#xf3;pez-Cubillo L, Ortiz-D&#xed;ez G, Salg&#xfc;ero R",
+      "date": "2026 08 12",
+      "dateObject": "2026 08 12",
+      "abstract": "The canine baculum is routinely visible on abdominal and pelvic radiographs, yet radiographic reference data for its length are scarce. This retrospective single-centre study aimed to characterise radiographic baculum length in male dogs aged at least 1 year and to determine whether baculum length was associated with body-weight category, age, neuter status or mixed-breed status. Lateral radiographs from 62 dogs were reviewed, and baculum length was measured on a single optimal projection. Mean&#x2009;&#xb1;&#x2009;SD baculum length increased from 68.4&#x2009;&#xb1;&#x2009;9.1&#xa0;mm in dogs&#x2009;<&#x2009;10&#xa0;kg to 105.9&#x2009;&#xb1;&#x2009;26.7&#xa0;mm in dogs 10-30&#xa0;kg and 131.2&#x2009;&#xb1;&#x2009;18.6&#xa0;mm in dogs&#x2009;>&#x2009;30&#xa0;kg (Kruskal-Wallis P&#x2009;<&#x2009;0.001). In multivariable ordinary least-squares linear regression, body-weight category remained strongly associated with baculum length after adjustment for age, neuter status and mixed-breed status (robust F(2,56)&#x2009;=&#x2009;67.65, P&#x2009;<&#x2009;0.001; adjusted R&#xb2; = 0.609). No evidence of association was detected for age, neuter status or mixed-breed status. These descriptive data may support radiographic interpretation of the canine baculum but should not be used as diagnostic thresholds.",
+      "categories": []
+    },
+    {
+      "pmid": "42581420",
+      "title": "EXPRESS: Positional Impact on Ocular Lens and Thyroid Radiation Doses During Feline Cranial CT: A TLD Study of 70 Cases.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "authors": "Parlak K, Gul OV, Ergin H, Zam&#x131;rbekova NN",
+      "date": "2026 08 12",
+      "dateObject": "2026 08 12",
+      "abstract": "The increasing use of computed tomography (CT) in feline medicine necessitates the optimization of radiation protocols to adhere to ALARA principles. This prospective study aimed to evaluate the impact of patient positioning dorsoventral (DV) versus ventrodorsal (VD) on radiation doses absorbed by the ocular lenses and the thyroid gland during feline cranial CT. Seventy cats were divided into two equal groups (DV, n = 35; VD, n = 35). Radiation doses were measured using thermoluminescent dosimeters (TLD-100) placed at the anatomical projections of the target organs. While no statistically significant difference was observed in ocular lens doses between the groups (p > 0.05), VD positioning resulted in a 24.4% reduction in the mean radiation dose absorbed by the thyroid gland compared to the DV position (1.33 &#xb1; 0.17 mGy vs. 1.76 &#xb1; 0.35 mGy, respectively; p = 4.97 &#xd7; 10&#x207b;&#x2079;). This reduction is attributed to the \"natural shielding\" effect provided by the dorsal axial skeleton and epaxial muscles in the VD position. VD positioning offers a significant dosimetric advantage for protecting the thyroid gland without requiring additional equipment or compromising diagnostic quality. Adopting the VD position as a routine standard in feline cranial CT is recommended to minimize radiation exposure to the thyroid gland.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42581418",
+      "title": "EXPRESS: Prevalence and clinical relevance of hypocobalaminaemia and hypercobalaminaemia in cats.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "authors": "Casas C, Dye C",
+      "date": "2026 08 12",
+      "dateObject": "2026 08 12",
+      "abstract": "ObjectivesTo investigate the prevalence of hypo- and hypercobalaminemia in a cohort of cats with diverse disease pathologies and to assess associations with signalment and disease characteristics.MethodsResidual blood from cats presented to a large veterinary referral hospital during a 24-month period was used for serum B12 quantification. All cats requiring blood collection as part of diagnostic investigations were eligible for inclusion regardless of clinical presentation. Serum B12 concentration was assessed according to signalment, body weight, body condition score, primary affected body system and type of disease pathology as derived from the clinical notes.ResultsA total of 229 cats were enrolled: 128 male (119 neutered, 9 entire) and 101 female (88 neutered, 13 entire). Of these, 176 were domestic shorthair or longhair, and 53 were purebred. The median age was 9.9 years and median body weight 4.1 kg. Of the 229 cats, 80 (34.9%) had high, 86 (37.6%) normal, 18 (7.9%) borderline, and 45 (19.7%) low serum B12. Median serum B12 concentration was higher in cats aged <8.0 years than &#x2265;8.0 years, and there was a weak but significant negative correlation between age and serum B12. Median serum B12 concentration was lower in cats weighing <3.0 kg than in those &#x2265;3.0 kg, and a weak but significant positive correlation was found between body weight and serum B12 concentration. No associations were found between serum B12 and sex, breed, body condition score, affected body system, or pathology type.Conclusions and relevanceVitamin B12 aberrations were common in this cohort of cats, approximately a third and a fifth having abnormally high and low serum concentrations respectively. Serum vitamin B12 concentration declined with advancing age, and hypocobalaminemia was more prevalent in cats with body weights <3.0kg. Hypo- and hypercobalaminemia were documented in cats with a wide variety of clinical presentations, and no specific disease associations were elucidated.",
+      "categories": []
+    },
+    {
+      "pmid": "42583882",
+      "title": "Clinical Outcome and Histopathologic Assessment of Canine Perivulvar Mast Cell Tumours.",
+      "journal": "Veterinary and Comparative Oncology",
+      "authors": "Ahrens MR, Corner SM, Masyr A",
+      "date": "2026 08 12",
+      "dateObject": "2026 08 12",
+      "abstract": "Anatomic location is a known prognostic factor for canine mast cell tumours (MCTs). Previous publications have reported conflicting results about the clinical significance of MCT location in the inguinal and perineal regions and male genitalia. Hence, the goal of this study is to evaluate the grade, breed distribution and clinical outcome of canine perivulvar MCT. Surgical biopsy reports and associated medical records submitted between 2013 and 2024 to Michigan State University Veterinary Diagnostic Laboratory were retrospectively evaluated. Information regarding age, reproductive status, breed, tumour location, microscopic description, histopathologic grade, and survival was collected. Kaplan-Meier analysis was used to estimate median survival time (MST) with dogs lost to follow-up (LTF) or alive censored from analysis. Biopsy reports from 64 dogs with 68 perivulvar MCT were evaluated. The most common phylogenetic classification was Mastiff-Terrier (47%). The majority (97%) of evaluated MCT were cutaneous, with 85% categorised as Kiupel low grade, while the remaining 15% were high grade. Three of 19 tumours (16%) that had c-KIT PCR performed had mutations in either Exon 8 or Exon 11. KIT expression pattern was classified as Pattern 2 or 3 in 71% of evaluated tumours. Median Ki-67 proliferation index and Ki-67&#x2009;&#xd7;&#x2009;AgNOR scores were 7 and 13, respectively. MST for the entire population was 868&#x2009;days. Dogs LTF had a median follow-up time of 442&#x2009;days. Dogs with perivulvar MCT may achieve prolonged survival time with surgical excision, and prospective studies are warranted to determine the effect of adjuvant therapy on outcome.",
+      "categories": [
+        "oncology",
+        "surgery",
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42580715",
+      "title": "Likely radiation-induced sciatic neuropathy in a dog.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Fox E, Rodenbaugh C, Epperly E, Ferrandis I, Shelton GD, Garrett L, Foss K",
+      "date": "2026 08 11",
+      "dateObject": "2026 08 11",
+      "abstract": "Radiation-induced peripheral neuropathy (RIPN) is a well-known late adverse effect of radiotherapy (RT) in humans, but to date, is not reported in companion animals. An 11-year-old spayed female beagle was presented for evaluation regarding a progressive left sciatic neuropathy. The dog had received stereotactic RT (20&#xa0;Gy) following excision of a grade 2 soft tissue sarcoma over the proximo-caudal aspect of the left thigh approximately 19&#xa0;months prior to the onset of signs. Computed tomography and magnetic resonance imaging of the left sciatic nerve was consistent with RIPN, and histopathology of the sciatic nerve supported severe nerve fiber loss. No improvement was observed with an anti-inflammatory course of corticosteroids, and the affected limb was subsequently amputated.",
+      "categories": [
+        "oncology",
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "42580781",
+      "title": "A randomized controlled trial of intravenous magnesium sulfate shows no analgesic or anti-inflammatory benefit in dogs undergoing thoracolumbar disk herniation surgery.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Mallet G, Gaitero L, Sanchez A, James FMK, Wood G, Monteith G, Samarani F",
+      "date": "2026 08 11",
+      "dateObject": "2026 08 11",
+      "abstract": "To investigate the analgesic and anti-inflammatory effects of intraoperative IV magnesium sulfate (MgSO4) continuous rate infusion in dogs undergoing thoracolumbar hemilaminectomy for intervertebral disk extrusion (IVDE). 30 client-owned dogs presented at the Ontario Veterinary College Health Sciences Centre were enrolled from October 2022 through October 2023. Prospective, randomized, double-blind, controlled clinical trial dogs received either MgSO4 (magnesium group) or an equal volume of saline (control group) intraoperatively. All dogs followed standardized anesthesia and analgesia protocols. The primary outcome measures were postoperative pain assessed using the Glasgow Composite Measure Pain Scale-Short Form at recovery and 4, 8, 12, and 24 hours after surgery and serum IL-6 and tumor necrosis factor-&#x3b1; concentrations measured preoperatively and 1 hour postoperatively to assess anti-inflammatory effects. Serum magnesium concentrations were measured as a secondary outcome to monitor for potential toxicity. There were no significant differences in the pain scores and the IL-6 levels between the 2 groups. Tumor necrosis factor-&#x3b1; levels were undetectable in most dogs and were not analyzed statistically. The placebo group did not significantly require additional pain medication. Magnesium sulfate administration provided smoother anesthesia recoveries. Serum magnesium concentrations were significantly higher in the magnesium group immediately and 1 hour postoperatively but not at 24 hours. Intraoperative IV MgSO4 did not significantly improve postoperative analgesia or decrease inflammation compared to placebo in dogs undergoing surgery for IVDE. There was no significant evidence to use intraoperative IV MgSO4 to improve postoperative analgesia or decrease inflammation in dogs undergoing surgery for IVDE. However, no adverse effects were reported.",
+      "categories": [
+        "internalMedicine",
+        "oncology",
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42580779",
+      "title": "Systemic oxidative stress, selected nonenzymatic exogenous and endogenous antioxidants, and hematologic and biochemical alterations in bitches with pyometra.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Peker C, U&#xe7;ar EH, Ekren A&#x15f;&#x131;c&#x131; GS, Musal B",
+      "date": "2026 08 11",
+      "dateObject": "2026 08 11",
+      "abstract": "To evaluate oxidative stress biomarkers (malondialdehyde [MDA] and total oxidant status [TOS]), selected nonenzymatic endogenous (glutathione [GSH], albumin, and bilirubin), and, for the first time, exogenous (ascorbic acid, &#x3b1;-tocopherol, &#x3b2;-carotene, and retinol) antioxidants together with hematobiochemical alterations in canine pyometra. 33 bitches were classified into pyometra (n = 17) or control (16) groups based on clinical and hematological evaluations. Ascorbic acid was measured by the phosphotungstate method; GSH, MDA, &#x3b2;-carotene, and retinol spectrophotometrically; &#x3b1;-tocopherol by ELISA; and TOS by a colorimetric assay. Hematobiochemical variables were analyzed using automated analyzers. Bitches with pyometra had higher MDA and TOS than controls (36.30 &#xb1; 13.95 &#xb5;mol/L vs 24.61 &#xb1; 4.80 &#xb5;mol/L and 27.78 &#xb1; 15.51 &#xb5;mol H2O2 Eq/L vs 13.13 &#xb1; 1.84 &#xb5;mol H2O2 Eq/L; Hedges' g = 1.08 and 1.27, respectively). Glutathione tended to increase in pyometra (12.04 &#xb1; 10.80 nmol/g Hb vs 6.40 &#xb1; 2.97 nmol/g Hb; Hedges' g = 0.68), whereas the other antioxidants were similar between groups. Pyometra was also associated with leukocytosis, neutrophilia, monocytosis, decreased erythrocyte counts and Hct, and increased ALP, ALT, and cholesterol. Canine pyometra is accompanied by systemic oxidative stress and hematobiochemical alterations. However, circulating nonenzymatic antioxidants remained largely unchanged, suggesting complex antioxidant regulation rather than simple depletion. Increased GSH may reflect a thiol-based compensatory response to increased oxidative burden. Nonenzymatic antioxidant regulation in canine pyometra may be more complex than simple depletion. Further studies incorporating disease-severity stratification and tissue-level assessments of both enzymatic and nonenzymatic antioxidants are warranted.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42580778",
+      "title": "Computed tomography-derived liver volume is not detectably lower in dogs with histopathologic findings compatible with primary hypoplasia of the portal vein.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Teramura Y, Park YT, Murakami M",
+      "date": "2026 08 11",
+      "dateObject": "2026 08 11",
+      "abstract": "To compare CT-derived liver volume and noncontrast attenuation variables between dogs with histopathologic findings compatible with primary hypoplasia of the portal vein (PHPV) and dogs without liver disease. Medical records were retrospectively reviewed for dogs with abdominal CT and liver histopathology compatible with PHPV. Controls were 121 dogs without liver disease from a published CT reference cohort and were not matched by breed, age, sex, or body weight. Liver volume was evaluated with allometric regression of log-transformed liver volume on log-transformed body weight and group. A body weight-restricted sensitivity analysis was performed. 26 dogs with PHPV-compatible histopathology and 121 controls were analyzed. Affected dogs were substantially lighter than controls (median body weight, 2.13 vs 38.0 kg). In the primary allometric model, the adjusted geometric mean ratio for liver volume in affected dogs versus controls was 0.887 (95% CI, 0.751 to 1.047; P = .156). The body weight-restricted sensitivity analysis was similar (0.923; 95% CI, 0.769 to 1.107; P = .377). Noncontrast hepatic attenuation did not differ significantly between groups, and qualitative CT abnormalities were uncommon. After allometric adjustment, CT-derived liver volume was not detectably lower in dogs with PHPV-compatible histopathology. This finding should be interpreted cautiously because groups differed substantially in body weight and closely body weight-matched controls were unavailable. These findings do not support using absence of CT-detectable microhepatia to exclude PHPV. Computed tomography volumetry should be interpreted with body size, vascular imaging, clinical findings, and histopathology, especially when controls are not closely matched by body weight.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42580770",
+      "title": "Changes in metabolomic profile in dogs with hepatic encephalopathy secondary to congenital portosystemic shunt suggests mitochondrial homeostasis disturbances.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Fernandez Gallego A, Marques J, Kurian D, Diez F, Mellanby RJ, Gow AG, von Kriegsheim A, Faller KME",
+      "date": "2026 08 11",
+      "dateObject": "2026 08 11",
+      "abstract": "To identify specific metabolomic changes in dogs showing signs of hepatic encephalopathy (HE) compared to those not showing obvious neurological signs and to follow these changes following medical treatment. In this prospective observational study, we recruited 10 client-owned dogs diagnosed with congenital portosystemic shunt (from March 2021 through October 2022). The sera of dogs with or without signs of HE at the time of diagnosis of congenital portosystemic shunt and following medical treatment for more than 4 weeks were analyzed by UPLC-MS. Dogs showing signs of HE at the time of diagnosis (n = 6) had significantly lower serum concentrations of taurine (fold change [FC], 0.44), creatine (FC, 0.32), and guanine (FC, 0.45) and higher serum concentrations of 3-hydroxybenzaldehyde (FC, 2.51) than their counterparts not showing signs of HE (4). A marked albeit nonsignificant decrease in serum stearate concentrations was also observed in the HE group (FC, 0.12). Following medical treatment, which improved neurological signs, the concentrations of these metabolites, particularly taurine, normalized to concentrations similar to the non-HE group. Dogs with HE exhibit a different serum metabolomic profile compared to dogs without signs of HE. The main changes are suggesting disturbances in mitochondrial homeostasis in dogs suffering from HE. Supporting mitochondrial function could form the basis of new therapeutic strategies in HE and merits further investigations in future studies.",
+      "categories": [
+        "internalMedicine",
+        "neurology"
+      ]
+    },
     {
       "pmid": "42577518",
       "title": "Behavioral components define operational suitability metric for detection dog success.",
@@ -50,15 +257,15 @@
       ]
     },
     {
-      "pmid": "42578818",
-      "title": "Differential Effects of Cobalt Chloride Preconditioning on Vasculogenic Mimicry-Like Structure Formation in Two Canine Mammary Tumour Cell Lines.",
-      "journal": "Veterinary and Comparative Oncology",
-      "authors": "Jeong Y, Ha JH, Chung JY, Choi JH, Ahn JO",
+      "pmid": "42546968",
+      "title": "Effect of 24-hour sedation during mechanical ventilation on hematological, biochemical, and coagulation parameters in bitches: A randomized clinical study.",
+      "journal": "Topics in Companion Animal Medicine",
+      "authors": "Regalin D, Adorno BA, Chimenes ND, Ribeiro D, de Moraes RS, Benevenuto LGD, Serighelli-J&#xfa;nior G, Saito ME, Comassetto F, Regalin BDDC, Padilha VS, Volpato J, Oleskovicz N",
       "date": "2026 08 11",
       "dateObject": "2026 08 11",
-      "abstract": "Vasculogenic mimicry (VM) is a tumour cell-lined vessel-like structure associated with poor prognosis, metastasis, and treatment resistance in human breast cancer. Furthermore, it has been described in canine mammary tumours (CMTs). Hypoxia is an established driving factor for VM formation in tumours with this capability. This study aimed to compare VM-like structure formation between two CMT carcinoma cell lines, CF41.Mg and CMT-U27. VM-like tubular structure formation was evaluated using a Matrigel-based 3D cell culture system under normal conditions and after CoCl 2 preconditioning. VM-like tubular structures were observed only in CF41.Mg cells, and CoCl 2 preconditioning increased the number of meshes and segments without a time-dependent difference between 24 and 48&#x2009;h. In contrast, CMT-U27 cells did not form VM-like structures under the tested conditions. Subsequently, RNA sequencing, quantitative polymerase chain reaction, enzyme-linked immunosorbent assay, and Western blot analyses were conducted. Exploratory RNA sequencing of untreated cells showed differences in the expression patterns of selected genes involved in angiogenesis, epithelial-to-mesenchymal transition, cell migration, hypoxia-associated responses, and extracellular matrix organization between the two cell lines. CoCl 2 treatment was associated with VM-related transcriptional and protein-level changes in CF41.Mg cells. In contrast, CoCl 2 treatment was associated with E-cadherin upregulation and no significant changes in MMP2 or CDH2 expression in CMT-U27 cells. Taken together, under the tested conditions, CoCl 2 preconditioning enhanced VM-like structure formation in CF41.Mg cells but did not induce VM-like tubular structures in CMT-U27 cells.",
+      "abstract": "The effects of prolonged sedation on hematological, biochemical, and coagulation variables have not been previously investigated in veterinary medicine. Twelve healthy adult mixed-breed female dogs were included. Blood samples (6 mL) were collected at baseline (M0) for complete blood count (CBC), biochemical testing, prothrombin time (PT), activated partial thromboplastin time (PTT) and fibrinogen. After M0, dogs were allocated into two groups: midazolam-fentanyl-propofol group (MFG; n = 6), which received a continuous infusion of midazolam (0.5 mg/kg/h), fentanyl (10 &#xb5;g/kg/h), and propofol (18 mg/kg/h); and ketamine-morphine-propofol group (KMG; n = 6), which received a continuous infusion of ketamine (0.6 mg/kg/h), morphine (0.26 mg/kg/h), and propofol (18 mg/kg/h). The infusion was maintained for 24 hours under mechanical ventilation. Laboratory parameters were reassessed from 12 to 24 hours after the beginning of infusion (M12 and M24), and at 12, 24, and 48 hours after the infusion (T12, T24, and T48). Both protocols significantly reduced erythrocyte count, packed cell volume, and haemoglobin concentration. In KMG, TTP decreased significantly at M12, M24, and T24; TSP at M24; and lymphocytes at M12 and M24. No significant changes were observed in ALP, ALT, albumin, globulins, creatinine, urea, glucose and blood coagulation. Triglyceride and cholesterol concentrations increased significantly from M6 to T48, but without biochemical evidence of hepatic, renal, or coagulation impairment. Overall, both protocols induced transient hematological and biochemical changes without clinically meaningful alterations in hepatic or renal function, supporting their use in healthy dogs mechanically ventilated for 24 hours.",
       "categories": [
-        "oncology"
+        "internalMedicine"
       ]
     },
     {
@@ -686,18 +893,6 @@
       ]
     },
     {
-      "pmid": "42553024",
-      "title": "Phenotypic antimicrobial susceptibility and genomic resistance determinants in canine otitis-associated Pseudomonas aeruginosa isolates.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Veres MA, T&#xf3;th ZA, Ill&#xe9;s E, Mag P, Kaszab E, Feh&#xe9;r E, Kerek &#xc1;, Jerzsele &#xc1;",
-      "date": "2026 08 05",
-      "dateObject": "2026 08 05",
-      "abstract": "Pseudomonas aeruginosa is a clinically important opportunistic pathogen in canine otitis externa, particularly in chronic, recurrent or treatment-refractory cases. Its low outer-membrane permeability, biofilm-forming capacity, efflux systems and ability to acquire additional resistance determinants complicate empirical therapy and make local surveillance essential. This study integrated broth microdilution-based minimum inhibitory concentration (MIC) testing with whole-genome analysis to characterize antimicrobial susceptibility patterns and genomic resistance determinants in canine otitis-associated P. aeruginosa isolates from Hungary. A total of 110 isolates were tested against 14 antimicrobial or antiseptic agents. Official clinical breakpoints and European Committee on Antimicrobial Susceptibility Testing (EUCAST) epidemiological cut-off values were applied where available, while agents lacking validated interpretive criteria were evaluated descriptively. A phenotypically selected subset of 70 isolates, chosen to cover the major MIC ranges, resistance profiles and modified MAR-index spectrum observed in the full collection, was subjected to long-read sequencing, and all 70 genome assemblies were included in comprehensive antibiotic resistance database (CARD)-based resistance gene screening, multi-locus sequence typing (MLST) and genome quality assessment. High frequencies of elevated MICs were detected for several clinically relevant agents. The highest proportions above interpretive thresholds were observed for enrofloxacin (109/110, 99.1%), marbofloxacin (99/110, 90.0%), piperacillin-tazobactam (75/110, 68.2%), ceftazidime (71/110, 64.5%) and tobramycin (62/110, 56.4%). The median modified multiple-antimicrobial-resistance index, calculated only from agents with interpretable resistance thresholds, was 0.56. Genomic analysis showed a broad intrinsic resistance background dominated by efflux-associated determinants and recurrent aminoglycoside, beta-lactam and fluoroquinolone-associated genes, including APH(3')-IIb , Mex-family efflux components, Opr-associated transporters, arnA , basS , PDC/OXA beta-lactamases and crpP in a subset of isolates. These findings support the need for culture- and MIC-guided therapy in canine P. aeruginosa otitis and support the value of including companion-animal clinical isolates in national and regional antimicrobial resistance surveillance frameworks.",
-      "categories": [
-        "dermatology"
-      ]
-    },
-    {
       "pmid": "42554915",
       "title": "Tracing feline herpesvirus-1 exposure in domestic cats from Namibia: associations with neutralising antibodies, vaccination, clinical signs, and retroviral status.",
       "journal": "Veterinary Research Communications",
@@ -731,57 +926,6 @@
       "abstract": "To investigate the cranial and circumferential spread of iohexol (240 mg/mL) diluted 1:3 with saline injected at the lumbosacral junction in canine cadavers using 0.1- and 0.2-mL/kg volumes administered with a cranial- or caudal-facing Tuohy bevel direction. Lumbosacral epidurals were performed with a cranial- or caudal-facing needle bevel. The median vertebrae reached and the estimated percentage of the spinal cord surrounded with injectate were assessed via CT after administering two 0.1-mL/kg aliquots of injectate. Contrast medium was diluted to achieve physical properties closer to local anesthetics. 5 cadavers in each group were assessed in August of 2024. The median vertebrae reached with a 0.1-mL/kg volume using a cranial bevel and 100%, &#x2265; 50%, and &#x2265; 1% circumferential epidural coverage contrast medium were 1, 7, and 10 bodies compared to a caudal bevel direction of 1, 7, and 9 bodies. For 0.2-mL/kg total volume using a cranial bevel and having 100%, &#x2265; 50%, and &#x2265; 1% circumferential epidural coverage, there were 2, 9, and 14 bodies compared to a caudal bevel direction being 2, 11, and 15 bodies. The findings in this cadaveric study suggest that needle bevel direction does not affect the cranial epidural spread of injectate performed at the lumbosacral space. While no benefit to performing a lumbosacral epidural with a caudally facing bevel in limiting cranial spread was found, further studies in live patients are required to adjust clinical recommendations.",
       "categories": [
         "neurology"
-      ]
-    },
-    {
-      "pmid": "42549302",
-      "title": "Case Report: Modified pulse-dose melphalan therapy for canine colorectal extramedullary plasmacytoma with suspected hepatic dissemination following surgical excision.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Chen Y",
-      "date": "2026 08 04",
-      "dateObject": "2026 08 04",
-      "abstract": "A senior male neutered Maltese dog was diagnosed with a solitary rectal extramedullary plasmacytoma that was completely excised with clean margins. 5 months later, multifocal hepatic plasma cell tumors were identified without evidence of multiple myeloma. Systemic chemotherapy was initiated using a pulse-dose melphalan protocol combined with prednisone. Due to recurrent dose-limiting myelosuppression, the treatment protocol was progressively modified by shortening the duration of melphalan administration within a fixed treatment cycle. The modified protocol was associated with clinical improvement, progressive ultrasonographic regression of hepatic lesions, and prolonged disease control, with survival exceeding 19 months following diagnosis of hepatic involvement. Recent reports suggest that some extramedullary plasmacytomas may possess greater metastatic potential than previously recognized. Although limited to a single case, this report describes a practical individualized pulse-dose melphalan adjustment strategy that may serve as a clinical reference for management of biologically aggressive or disseminated extramedullary plasmacytomas in dogs.",
-      "categories": [
-        "internalMedicine",
-        "oncology",
-        "surgery"
-      ]
-    },
-    {
-      "pmid": "42549220",
-      "title": "Electrochemotherapy for feline lingual squamous cell carcinoma: a case report of functional preservation as a palliative approach.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Akiyoshi M, Hisasue M",
-      "date": "2026 08 04",
-      "dateObject": "2026 08 04",
-      "abstract": "A 14-year-old spayed female Persian cat with lingual feline oral squamous cell carcinoma (FOSCC) was treated with bleomycin-based electrochemotherapy (ECT), resulting in sustained preservation of oral function and quality of life despite advanced disease. At presentation, the cat exhibited severe weight loss, oral pain, and reduced voluntary food intake. ECT was performed using intravenous bleomycin (20&#x202f;mg/m 2 ) followed by electric pulse delivery via an eight-needle electrode array. Following treatment, marked tumor regression was observed, accompanied by substantial reduction in oral pain, restoration of voluntary feeding, and body weight gain from 1.7&#x202f;kg to 2.6&#x202f;kg during the treatment period. Voluntary eating and drinking were preserved throughout the clinical course until the terminal stage. Repeated examinations under general anesthesia revealed no gross abnormalities in the larynx or tonsils. The cat died due to renal failure unrelated to tumor progression. Postmortem histopathology revealed extensive SCC infiltration involving the tongue base, tonsils, and epiglottis despite the absence of clinical abnormalities during life. This case demonstrates that ECT can provide meaningful palliation, including preservation of oral function and quality of life, in cats with biologically advanced lingual FOSCC. In addition, the marked discrepancy between clinical findings and histopathologic tumor extent suggests the possibility of clinically inapparent regional spread, which may have important implications for staging and treatment planning. These findings also suggest that ECT may preserve superficial functional structures while allowing progression of submucosal tumor components.",
-      "categories": [
-        "internalMedicine",
-        "oncology"
-      ]
-    },
-    {
-      "pmid": "42548942",
-      "title": "SARS-CoV-2 at the human-pet interface: transmission and pre-existing immunity in pets within infected households.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Tomeo-Mart&#xed;n BD, Mendez-Echevarria A, Delgado-Bonet P, Jim&#xe9;nez-Clavero M&#xc1;, de la Torre A, Calvo C, P&#xe9;rez-Ram&#xed;rez E, Fern&#xe1;ndez-Pinero J, Llorente F, Sainz T, Aguilera-Sep&#xfa;lveda P, Alcolea S, Escolano L, Cano-G&#xf3;mez C, Iglesias I, Peris&#xe9;-Barrios AJ",
-      "date": "2026 08 04",
-      "dateObject": "2026 08 04",
-      "abstract": "This exploratory study investigated SARS-CoV-2 transmission dynamics and risk factors in companion animals from COVID-19-positive households in Madrid, Spain. The research was conducted during the early pandemic lockdown, providing a unique scenario of intensified human-animal cohabitation within domestic \"transmission units.\" A total of 87 pets (18 cats and 69 dogs) were enrolled through voluntary recruitment in veterinary clinics in Madrid. Exposure was assessed using RT-qPCR from nasopharyngeal swabs and the detection of specific IgM/IgG antibodies against SARS-CoV-2. Humoral immunity against common canine pathogens (CAV, CPV, and CDV) was also evaluated. Owners completed epidemiological questionnaires regarding pet habits, environment, and owner-reported clinical signs to assess potential risk factors. While all animals were negative by RT-qPCR, specific antibodies were detected in 27.8% (5/18; 95% CI: 12.5-50.9%) of cats and 30.4% (21/69; 95% CI: 20.8-42.1%) of dogs. Seroprevalence was comparable between households of healthcare and non-healthcare workers (36.4% vs. 33.3% in dogs). No significant associations were found between individual risk factors and SARS-CoV-2 seropositivity. However, in dogs, reported symptoms were significantly associated ( p &#x202f;<&#x202f;0.05) with vaccination status, social contact, and diet. Notably, a strong and highly significant association ( p &#x202f;<&#x202f;0.001; V&#x202f;>&#x202f;0.6) was observed between SARS-CoV-2 humoral immunity and antibodies against common canine pathogens (CAV, CPV, and CDV). These exploratory findings suggest that pets are integral members of domestic transmission units, showing high exposure levels regardless of the owner's healthcare professional status. The correlation observed with endemic canine pathogens may be associated with the pet's immune background, although this requires further mechanistic validation through longitudinal studies. Given the limited sample size, particularly in the feline cohort, these results offer preliminary insights into the multifactorial nature of infection at the human-animal interface and support the value of integrated One Health surveillance to enhance global preparedness against zoonotic threats.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42548642",
-      "title": "Commentary: Comparing caregiver burden in owners of healthy dogs with and without limb amputation: a cross-sectional analysis.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Verma A",
-      "date": "2026 08 04",
-      "dateObject": "2026 08 04",
-      "abstract": "",
-      "categories": [
-        "surgery"
       ]
     },
     {
@@ -831,18 +975,6 @@
       "abstract": "To establish species-specific reference values for myocardial native T1, native T2, and extracellular volume fraction (ECV) in clinically normal dogs and cats using a 3-Tesla (3-T) cardiac MRI (CMRI) and to provide a description of image acquisition and analysis suitable for veterinary clinical and research applications. Cardiac examinations were performed between 2015 and 2024 using a 3-T system with ECG gating under general anesthesia on clinically normal client-owned dogs and cats. Native T1 and T2 maps were acquired at the midventricular short-axis level using validated mapping sequences adapted from human CMRI protocols. Calculated ECV values were obtained from native and postcontrast T1 measurements in conjunction with Hct values. Reference intervals were determined using parametric methods and expressed as 95% prediction intervals with 90% CIs around the lower and upper reference limits. In dogs (n = 54), native T1, native T2, and ECV reference intervals (95% prediction intervals) were 1,057 to 1,152 ms, 42.0 to 60.9 ms, and 19.3% to 25.7%, respectively. In cats (n = 60), corresponding reference intervals were 1,066 to 1,172 ms, 34.2 to 61.6 ms, and 21.8% to 30.3%. Age was not a significant predictor of myocardial ECV in either species. This study establishes clinically applicable reference values for myocardial T1, T2, and ECV in dogs and cats at 3 T and provides imaging methodology to facilitate reproducibility. Species-specific reference intervals established in this study enable objective quantification of myocardial composition and support clinical implementation of CMRI tissue characterization in dogs and cats.",
       "categories": [
         "cardiology"
-      ]
-    },
-    {
-      "pmid": "42546968",
-      "title": "Effect of 24-hour sedation during mechanical ventilation on hematological, biochemical, and coagulation parameters in bitches: a randomized clinical study.",
-      "journal": "Topics in Companion Animal Medicine",
-      "authors": "Regalin D, Adorno BA, Chimenes ND, Ribeiro D, de Moraes RS, Benevenuto LGD, Serighelli-J&#xfa;nior G, Saito ME, Comassetto F, Regalin BDDC, Padilha VS, Volpato J, Oleskovicz N",
-      "date": "2026 08 03",
-      "dateObject": "2026 08 03",
-      "abstract": "The effects of prolonged sedation on hematological, biochemical, and coagulation variables have not been previously investigated in veterinary medicine. Twelve healthy adult mixed-breed female dogs were included. Blood samples (6 mL) were collected at baseline (M0) for complete blood count (CBC), biochemical testing, prothrombin time (PT), activated partial thromboplastin time (PTT) and fibrinogen. After M0, dogs were allocated into two groups: midazolam-fentanyl-propofol group (MFG; n=6), which received a continuous infusion of midazolam (0.5 mg/kg/h), fentanyl (10 &#xb5;g/kg/h), and propofol (18 mg/kg/h); and ketamine-morphine-propofol group (KMG; n=6), which received a continuous infusion of ketamine (0.6 mg/kg/h), morphine (0.26 mg/kg/h), and propofol (18 mg/kg/h). The infusion was maintained for 24 hours under mechanical ventilation. Laboratory parameters were reassessed from 12 and 24 hours after the beginning of infusion (M12 and M24), and at 12, 24, and 48 hours after the infusion (T12, T24, and T48). Both protocols significantly reduced erythrocyte count, packed cell volume, and haemoglobin concentration. In KMG, TTP decreased significantly at M12, M24, and T24; TSP at M24; and lymphocytes at M12 and M24. No significant changes were observed in ALP, ALT, albumin, globulins, creatinine, urea, glucose and blood coagulation. Triglyceride and cholesterol concentrations increased significantly from M6 to T48, but without biochemical evidence of hepatic, renal, or coagulation impairment. Overall, both protocols induced transient hematological and biochemical changes without clinically meaningful alterations in hepatic or renal function, supporting their use in healthy dogs mechanically ventilated for 24 hours.",
-      "categories": [
-        "internalMedicine"
       ]
     },
     {
@@ -1042,56 +1174,6 @@
       "abstract": "To characterize differences among body sites in skin morphological features of Beagles that may influence percutaneous drug penetration. This exploratory study was conducted from November 2024 through March 2025 with 6 Beagles. Skin samples were collected from 3 body sites-the dorsum, lateral trunk, and ventral abdomen. Skin samples were collected under sedation with local anesthesia. Epidermal thickness, the number of stratum corneum (SC) layers, and dermal vessel density were evaluated histologically. Follicular ostia density was evaluated using dermoscopic images. Data are presented as mean values with 95% CIs. Epidermal thickness showed only small differences among body sites. The number of SC layers also showed small differences (maximum mean difference, approx 0.3 layers). In contrast, follicular ostia density showed large differences among body sites and was highest in the dorsum, intermediate in the lateral trunk, and lowest in the ventral abdomen. Dermal vessel density showed moderate differences, with higher values in the ventral abdomen than in the dorsum and lateral trunk. In Beagles, epidermal thickness and the number of SC layers are relatively uniform across body sites, whereas follicular ostia density and dermal vessel density show clear differences among body sites. These findings suggest that skin structural factors other than epidermal thickness and the number of SC layers may influence percutaneous drug penetration; however, this remains a hypothesis and requires further study.",
       "categories": [
         "dermatology"
-      ]
-    },
-    {
-      "pmid": "42114558",
-      "title": "Establishing a standardized biorepository across 3 clinical and translational science center-affiliated veterinary institutions is feasible and productive.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Crawford LK, Church ME, Boudreaux KA, Lapin JN, Hahn LA, Solis LJ, Wilson R, Zetterberg H, Catacci Guimaraes F, Shen S, Toedebusch RG, Vernau K, Dupanloup A, Panek W, Cameron S, Toedebusch CM",
-      "date": "2026 07 31",
-      "dateObject": "2026 07 31",
-      "abstract": "To assess faculty interest in veterinary biospecimens, develop a standardized multi-institutional biological fluid repository across 3 veterinary institutions, and assess quality and fitness for purpose of archived samples. We conducted a prospective multi-institutional biobanking and feasibility study from 2022 through 2025. Faculty from each institution were administered a voluntary and anonymous survey via email, and responses were recorded. Biological fluid specimens were collected and archived from the Neurology and Neurosurgery Services of each participating institution. A shared database (Freezerworks) was utilized by all 3 institutions to annotate each sample with clinical data and record the storage location. Selected serum (n = 12), CSF (n = 12), and urine (n = 9) samples were assessed for quality control and fitness for purpose by measuring concentrations of putative biomarkers via ELISAs and single-molecule array, respectively. Faculty surveys indicated widespread support for centralized institutional biobanking, with 94 of 170 respondents (55%) in favor of a combination of institutional and investigator financial support. Over 2,500 biological specimens from dogs and cats with neurological disease were collected during the 3-year study period. Sample quality across serum, urine, and CSF was consistent across institutions. Moreover, serum samples from randomly selected dogs with divergent diagnoses yielded robust and discriminatory concentrations of putative neurodegenerative disease proteins. Multi-institutional veterinary biobanking is feasible and productive, providing investigators with access to clinically annotated, high-quality biospecimens. A common repository registry, wherein investigators have reciprocal access to standardized biospecimens, will connect investigators from all domains to promote rigorous, well-powered multicenter studies.",
-      "categories": [
-        "neurology"
-      ]
-    },
-    {
-      "pmid": "42097171",
-      "title": "Magnetic resonance imaging of dogs with cervical disease revealed a higher proportion of intervertebral disk disease in small dogs and neoplasia in large dogs.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Darrah K, Spence S",
-      "date": "2026 07 31",
-      "dateObject": "2026 07 31",
-      "abstract": "To compare the proportion of lesions identified on cervical MRI in dogs based on weight. Medical records from a tertiary referral hospital were reviewed for dogs that underwent cervical MRI to investigate clinical signs consistent with cervical disease from August 30, 2019, through August 30, 2024. Dogs were grouped according to their weight (< 15 or &#x2265; 15 kg). Case details, including the patients' weight, breed, age, sex and neuter status, presenting clinical signs, and MRI findings, were recorded. There were 270 dogs included in the study. In dogs weighing < 15 kg, the proportion of intervertebral disk disease (IVDD) was 145 of 175 (82.9%) compared to 58 of 95 (61.1%) in dogs weighing &#x2265; 15 kg, and the odds of having IVDD were 68% less for dogs weighing &#x2265; 15 kg (OR, 0.32; 95% CI, 0.18 to 0.57). There was no significant association between IVDD and weight in chondrodystrophic dogs. The odds of having neoplasia were 4.5 times higher for dogs weighing &#x2265; 15 kg (OR, 5.3; 95% CI, 2.1 to 15). The odds of cervical spondylomyelopathy increased with weight (OR, 1.11; 95% CI, 1.06 to 1.16). The weights of dogs with atlantoaxial instability (AAI; median, 5.2; IQR, 2.8 to 6.9) were significantly less than dogs without AAI (median, 11.0; IQR, 6.4 to 25.5). The odds of congenital abnormalities were 97% higher for dogs weighing < 15 kg compared to dogs weighing &#x2265; 15 kg (OR, 0.03; 95% CI, < 0.001 to 0.24). Dogs weighing < 15 kg had significantly higher proportions of IVDD, AAI, and congenital abnormalities compared to dogs weighing &#x2265; 15 kg. Dogs weighing &#x2265; 15 kg had significantly higher proportions of neoplasia and cervical spondylomyelopathy compared to dogs weighing < 15 kg. This knowledge can improve the initial consultation discussion with clients that are considering advanced imaging for dogs with cervical disease and subsequent diagnostics and treatments.",
-      "categories": [
-        "oncology",
-        "neurology"
-      ]
-    },
-    {
-      "pmid": "42097169",
-      "title": "Vertebral left atrial ventral: a new prognostic marker in dogs with mitral valve disease.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Beluque T, Endrighi M, Lucina SB, Rodrigues A, Braz JB, Zacch&#xe9; E, de Oliveira LB, Froes TR, Sousa MG",
-      "date": "2026 07 31",
-      "dateObject": "2026 07 31",
-      "abstract": "To compare previously described radiographic measurements to identify dogs in stage B2, cutoff values, propose a new measurement and evaluate their ability to predict survival in dogs with mitral valve disease (MVD). This observational, retrospective, and prospective study included dogs without heart disease (control) or diagnosed with MVD by Doppler echocardiography. Radiographic measurements included left atrial width (LAwidth), radiographic left atrial dimension (RLAD), vertebral left atrial size (VLAS), modified VLAS (M-VLAS), vertebral left atrial ventral (VLAV), and vertebral heart score (VHS). All dogs underwent complete echocardiographic and radiographic examinations. Dogs with hemivertebrae, cardiac or pulmonary neoplasia, or poor-quality examinations were excluded. Examinations performed between November 2017 and April 2024 were evaluated. Examinations were evaluated in 191 dogs. VLAS, M-VLAS, LAwidth, and RLAD differed between stages B1, B2, and C/D. VLAV differed between control and stage B1 from stages B2 and C/D. VLAV accurately identified dogs with stage B2 MVD, showing good diagnostic performance (AUC, 0.82; 95% CI, 0.76-0.88), and was similar to the other measurements. Cutoff values for identifying left cardiomegaly were defined for all measures (VLAS > 2.48; M-VLAS > 3.4; LAwidth > 2.11; RLAD > 2.7; VLAV > 2.99). Repeatability and reproducibility were good to excellent. VLAS and M-VLAS reliably identified increased LA/Ao ratio and suspected stage B2 MVD. Higher values of VLAS, M-VLAS, LAwidth, and VLAV were associated with shorter survival, with VLAV &#x2265; 3.0 indicating an unfavorable outcome. These measures may be considered to screen which patients will undergo echocardiography and to assist in predicting survival time.",
-      "categories": [
-        "cardiology",
-        "oncology"
-      ]
-    },
-    {
-      "pmid": "42091082",
-      "title": "Hyperbaric oxygen therapy does not improve recovery of deep pain perception in dogs after hemilaminectomy for intervertebral disk disease.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Kienitz LT, McCoy AM, Robbins MA",
-      "date": "2026 07 31",
-      "dateObject": "2026 07 31",
-      "abstract": "Investigate effect of hyperbaric oxygen therapy (HBOT) on recovery of deep pain perception (DPP) in dogs after hemilaminectomy for thoracolumbar intervertebral disk disease (IVDD). Records of client-owned dogs with absent DPP in pelvic limbs after hemilaminectomy for IVDD from January 2014 through December 2024 were retrospectively reviewed. Dogs undergoing hemilaminectomy were divided into groups: received HBOT (HB) and no HBOT (NHB). Modified Frankel scores were assigned between 0 (absent DPP in either pelvic limb) and 5 (spinal hyperesthesia) preoperatively, postoperatively, and at recheck examination. Outcomes were compared using the Pearson &#x3c7;2 test. Regression analysis assessed if other factors were associated with improvement in Frankel score. 110 dogs with absent DPP had thoracolumbar hemilaminectomies, 45 in HB group and 65 in NHB group. Thirty-three of 45 HB cases (73.3%) and 39 of 65 NHB cases (60%) improved neurologically by recheck examination (P = .21). There were no differences in neurological improvement between groups at any time point (P = .32). Multivariable regression analysis revealed worse odds of improvement for thoracolumbar relative to lumbar lesions (OR, 0.01; 95% CI, 0.0008 to 0.49; P = .04). Improvement odds with thoracolumbar lesions were lower in NHB than HB group (contrast OR, 0.029; 95% CI, 0.027 to 0.031; P = .01). HBOT session amount was not associated with improvement (P = .65). HBOT did not impact recovery of DPP after hemilaminectomy. Thoracolumbar lesions had lower odds of neurological improvement than lumbar lesions. Odds were improved with HBOT. Findings may predict return to ambulation.",
-      "categories": [
-        "neurology"
       ]
     },
     {
@@ -1865,18 +1947,6 @@
       ]
     },
     {
-      "pmid": "42476551",
-      "title": "Association of brachycephaly, sleep-disordered breathing, and inflammatory response in dogs.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Niinikoski I, Rajam&#xe4;ki MM",
-      "date": "2026 07 20",
-      "dateObject": "2026 07 20",
-      "abstract": "Sleep is fundamental to the welfare of all animals, including dogs. Various important processes take place during sleep, and while complete sleeplessness leads to death, sleep fragmentation is also harmful. Brachycephaly, the severely shortened snout and skull in the absence of a concurrent decrease in the volume of the soft tissues of the upper airways, causes many welfare concerns, including sleep-disordered breathing (SDB). In obstructive SDB, the most common form of SDB in dogs, repeated episodes of partial or complete blockages of airflow occur during sleep. This leads to intermittent hypoxemia. Sleep-disordered breathing resembles obstructive sleep apnea in humans, which is associated with various comorbidities and a higher mortality rate. Intermittent hypoxemia is associated with chronic low-grade inflammation, an independent risk factor for a higher mortality rate in people. Research into SDB in dogs has been limited, largely due to arduous diagnostic methods, but in recent years, new developments have taken place. Risk factors for SDB include brachycephaly, moderate or severe signs of brachycephalic obstructive airway syndrome, and excess weight. As SDB negatively affects welfare on multiple levels and is at least partly treatable with surgical and conservative methods, easier methods are needed to diagnose the individuals in need of treatment. On a population level, the future of brachycephalic breeds needs to be critically evaluated.",
-      "categories": [
-        "surgery"
-      ]
-    },
-    {
       "pmid": "42248176",
       "title": "Nail thickening, swelling of the digit, and paw sensitivity in a 7-year-old English Springer Spaniel.",
       "journal": "Journal of the American Veterinary Medical Association",
@@ -2094,18 +2164,6 @@
       ]
     },
     {
-      "pmid": "42083095",
-      "title": "Longitudinal comparison of serum pancreatic lipase activity and pancreatic lipase immunoreactivity with clinical signs in cats with suspicion of pancreatitis.",
-      "journal": "Journal of Feline Medicine and Surgery",
-      "authors": "Kook PH",
-      "date": "2026 07 20",
-      "dateObject": "2026 07 20",
-      "abstract": "ObjectivesIt remains unclear whether pancreatic lipase immunoreactivity (PLI) and lipase activity similarly reflect clinical status and disease severity in cats with suspected pancreatitis. This retrospective cohort study aimed to directly compare their association with clinical disease severity over time.MethodsA total of 21 client-owned cats with a suspicion of pancreatitis were followed up over a median of 6 weeks (range 1-130). The median number of rechecks was two (range 1-9). Lipase activity (LIPC, Roche Diagnostics; reference interval [RI] 8-26&#x2009;U/l) and PLI (Spec fPL; RI 0-4.4&#x2009;&#xb5;g/l) were measured at each examination and compared with the clinical status of cats expressed as a clinical disease activity score (CDAS).ResultsNo significant correlation between CDAS and either lipase assay was detected at the initial evaluation. During 50 follow-up visits, both lipase assays showed moderate correlations of similar magnitude with CDAS (lipase activity: r s &#x2009;=&#x2009;0.486, P &#x2009;=&#x2009;0.0003; PLI: r s &#x2009;=&#x2009;0.432, P &#x2009;=&#x2009;0.0017). Median lipase activity (76&#x2009;U/l, range 20-421), PLI (23&#x2009;&#xb5;g/l, range 1.3-50) and CDAS (5, range 1-9) were significantly higher at initial presentation compared with follow-up visits (lipase activity 33&#x2009;U/l, range 9-357; PLI 7&#x2009;&#xb5;g/l, range 0.7-50; CDAS 2, range 0-10). In total, 17 cats had concurrent chronic enteropathy. Immunomodulatory therapy was administered during 31/50 (62%) follow-up visits compared with four (19%) cats at initial presentation. Discordant results relative to respective RIs were rare (n&#x2009;=&#x2009;3/72 visits, 4%), with normal lipase activity and mildly increased PLI; CDAS was 0 (n&#x2009;=&#x2009;2) or 1 (n&#x2009;=&#x2009;1) because of minimal weight loss in these three cats.Conclusions and relevanceBoth lipase assays provide clinically equivalent information; however, a moderate correlation with clinical status was only seen during follow-up visits. The lack of correlation with clinical status in sicker cats may reflect the limited spectrum of clinical signs in feline pancreatitis. Monitoring pancreatic enzymes and clinical signs of illness in cats suspected of having pancreatitis This study looked at two blood tests that measure pancreatic lipase in cats suspected of having pancreatitis. The aim was to see how well these tests matched the cats&#x2019; clinical signs over time. In total, 21 cats were followed for several weeks, and serum lipase was measured using both enzyme tests at each visit. Blood results were compared with the severity of the clinical signs. Both tests gave very similar results and mostly agreed with each other. At the first visit, the enzyme levels did not match how sick the cats appeared. During follow-up visits, enzyme levels and clinical signs showed a moderate connection. The study found that both tests are equally useful and provide similar information, but they may not always reflect how severe the disease is, especially in very sick cats. This could be because cats with pancreatitis often show only mild or subtle signs.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
       "pmid": "42448039",
       "title": "Concurrent Babesia gibsoni infection as a negative prognostics indicator of survival in dogs diagnosed with immune-mediated hemolytic anemia: A prospective cohort study.",
       "journal": "Topics in Companion Animal Medicine",
@@ -2129,42 +2187,6 @@
         "oncology",
         "neurology",
         "dermatology"
-      ]
-    },
-    {
-      "pmid": "42467980",
-      "title": "Use of ultrasound-guided percutaneous perineural corticosteroid injections for refractory cervical pain secondary to vertebral venous system abnormality in a dog.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Carrillo AJ, Vilaplana Grosso FR, Garcia GA",
-      "date": "2026 07 17",
-      "dateObject": "2026 07 17",
-      "abstract": "A 2-year-old neutered male Greyhound was presented for evaluation of chronic, progressive right forelimb lameness and cervical pain. On presentation, the dog was ambulatory with mild to moderate right thoracic limb lameness and pain on cervical palpation with a right thoracic limb nerve root signature. Cervical magnetic resonance imaging (MRI) identified moderate right-sided C6 internal venous plexus enlargement. Medical management and physiotherapy did not result in clinical improvement. Repeat cervical MRI identified right-sided C5-T1 internal vertebral venous plexus enlargement with associated radiculopathy and possible dynamic spinal cord compression. Three ultrasound-guided perineural glucocorticoid injections (methylprednisolone acetate, 1&#xa0;mg/kg per site) were performed at right C5-C6, C6-C7, and C7-T1 with improvement noted in lameness and cervical discomfort. No adverse effects were associated with the injections. This case highlights use of ultrasound-guided perineural glucocorticoid injections as a potential option for improving refractory cervical pain secondary to vertebral venous system abnormalities in a dog.",
-      "categories": [
-        "neurology"
-      ]
-    },
-    {
-      "pmid": "42467979",
-      "title": "Submucosal urethral bulking with 2.5% polyacrylamide hydrogel (Mictamid) for urinary incontinence in male dogs using a percutaneous fluoroscopically assisted perineal approach.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "McAtee R, Skinner SM, Foster JD",
-      "date": "2026 07 17",
-      "dateObject": "2026 07 17",
-      "abstract": "Urethral bulking using cystoscopic injection of various bulking agents has been commonly utilized in female dogs with urethral sphincter mechanism incompetence (USMI), but its use in male dogs with urinary incontinence has not been well described. Describe the treatment and outcomes of male dogs with urinary incontinence that underwent submucosal cystoscopic injection of 2.5% polyacrylamide hydrogel (PAHG) using a percutaneous fluoroscopically assisted perineal approach. Five client-owned male dogs with urinary incontinence. Retrospective case series. Male dogs with urinary incontinence that underwent a percutaneous fluoroscopically assisted perineal approach for submucosal cystoscopic injection of PAHG. Complications were recorded. Continence scores (1&#xa0;=&#xa0;constant incontinence to 5&#xa0;=&#xa0;fully continent) were assessed before the procedure, 30&#xa0;days after bulking, and at the time of last follow-up and compared using a Friedman multiple comparison test. All 5 dogs had suspected USMI and 1 dog also had a urethral diverticulum. All 5 dogs had improvement in their urinary incontinence. The median initial continence score was 2 (range, 2-4). The continence score improved significantly compared with the baseline score both at 30&#xa0;days post-bulking (median, 5; range, 4-5) and at the time of last follow-up (median, 5; range, 4-5; P&#xa0;=&#xa0;.03). Median time of last follow-up was 108&#xa0;days post-bulking (range, 51-154&#xa0;days). One dog had self-limiting hematuria. No severe adverse events were observed. Percutaneous fluoroscopically assisted perineal approach for submucosal cystoscopic injection of PAHG in male dogs with urinary incontinence is a promising treatment option.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42462212",
-      "title": "Renoprotective effects of curcumin in cats with chronic kidney disease.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "&#x130;lg&#xfc;n M, Akta&#x15f; MS",
-      "date": "2026 07 17",
-      "dateObject": "2026 07 17",
-      "abstract": "Chronic kidney disease (CKD) in cats is characterized by oxidative stress, inflammation, and apoptosis. Curcumin has shown renoprotective effects in experimental models, but clinical evidence in cats with CKD remains limited. Evaluate whether PO curcumin supplementation (80&#xa0;mg/cat/day), administered with standard treatment, favorably modulates renal, oxidative, inflammatory, and apoptotic biomarkers in cats with International Renal Interest Society (IRIS) stage 3 CKD. Sixteen client-owned cats with IRIS stage 3 CKD. Prospective, randomized trial. Cats were allocated to medical treatment alone (MT; n&#xa0;=&#xa0;8) or medical treatment plus curcumin (MT&#xa0;+&#xa0;C; n&#xa0;=&#xa0;8). Curcumin was administered PO at 80&#xa0;mg/cat/day in 2 divided doses for 60&#xa0;days. Baseline renal biomarkers did not differ between groups. The primary outcome, serum symmetric dimethylarginine (SDMA) concentration, was significantly lower in the MT&#xa0;+&#xa0;C group than in the MT group on days 30, 45, and 60 (P&#xa0;<&#xa0;.01). Urinary protein-to-creatinine ratio decreased over time in the MT&#xa0;+&#xa0;C group and was lower than in the MT group at later time points. Total antioxidant status increased, whereas total oxidant status decreased in the MT&#xa0;+&#xa0;C group, with a significant between-group difference in total oxidant status on day 45. Findings for nuclear factor kappa B and caspase-3 were also consistent with decreased inflammatory and apoptotic activity in curcumin-treated cats. Curcumin supplementation was associated with improvement in SDMA and favorable changes in mechanistic biomarkers in cats with IRIS stage 3 CKD.",
-      "categories": [
-        "internalMedicine"
       ]
     },
     {
@@ -2621,28 +2643,6 @@
       "categories": [
         "internalMedicine"
       ]
-    },
-    {
-      "pmid": "42412287",
-      "title": "Molecular characterization of Cytauxzoon brasiliensis in domestic cats (Felis catus) from Rio de Janeiro state, Brazil: hematological findings.",
-      "journal": "Veterinary Research Communications",
-      "authors": "Brand&#xe3;o EM, Chagas JDR, Dos Santos Dias I, Oliveira TS, do Nascimento Ferreira G, de Souza Junior A, Santos HA, Cordeiro MD, da Silva CB, de Azevedo Ba&#xea;ta B",
-      "date": "2026 07 07",
-      "dateObject": "2026 07 07",
-      "abstract": "Cytauxzoon spp. are tick-borne haemoprotozoans that infect domestic and wild felids and are of increasing relevance in veterinary medicine and epidemiology of vector-borne pathogens. In Brazil, the genetic diversity of these agents in wild felids has been progressively expanded, culminating in the description of Cytauxzoon brasiliensis. However, the occurrence of this species in domestic cats is unknown. Therefore, the present study aimed to detect and molecularly characterize C. brasiliensis in domestic cats from the state of Rio de Janeiro, Brazil, and to describe the main hematological findings observed in positive animals. A total of 404 blood samples from domestic cats were analyzed using nested PCR targeting the 18S rRNA gene, followed by molecular characterization using the mitochondrial cytB gene. Positive samples were subjected to similarity, phylogenetic, and haplotype diversity analyses. Hematological data from positive animals were also evaluated, along with differential molecular diagnoses for other hemoparasites and infectious agents. Four samples (~&#x2009;1%) were positive for Cytauxzoon sp. in the 18S rRNA-based assay, and three showed intraerythrocytic inclusions suggestive of piroplasms in blood smears. The sequences obtained clustered phylogenetically with isolates previously identified as C. brasiliensis in Brazilian wild felids, confirming the presence of this agent in domestic cats. Hematological analyses revealed thrombocytopenia in all four positive animals, anemia in two animals, and variable leukocyte abnormalities. No molecular detection of Bartonella spp., hemoplasmas, members of the family Anaplasmataceae, or Leishmania infantum chagasi, was observed. These results demonstrate, for the first time, the infection of domestic cats by C. brasiliensis in the state of Rio de Janeiro and reinforce the need to include this agent in the differential diagnosis of feline hemoparasitoses. In addition, the findings suggest that infection may be associated with relevant hematological alterations, although studies including a larger number of animals and a more robust clinical-epidemiological design are still needed to clarify its actual pathogenic impact on the host.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42083096",
-      "title": "Antibody responses to inactivated (adjuvanted) and attenuated (non-adjuvanted) feline panleukopaenia virus vaccination, including in different injection sites.",
-      "journal": "Journal of Feline Medicine and Surgery",
-      "authors": "Westman ME, Hall E, Norris JM, Weir W, Dunbar D, McDonald M, Parr Y, Pan S, Martin C, Wuestner E, Meggiolaro MN, Nakamura M, Atkin N, Hajjar R, Hughes D, Malik R, Hosie MJ",
-      "date": "2026 07 07",
-      "dateObject": "2026 07 07",
-      "abstract": "ObjectivesVaccines have traditionally been administered to cats into the interscapular subcutaneous region ('scruff') for ease of restraining the cat while the vaccine is injected. Concern about feline injection-site sarcomas (FISSs) has prompted recommendations to use distal sites such as the hindlimb or tail, but evidence of adequate immune response at these sites is limited. This field study evaluated the antibody response to feline panleukopaenia virus (FPV) in kittens vaccinated with one of two commercial vaccines, injected at different sites.MethodsAn inactivated (killed), adjuvanted pentavalent vaccine (Fel-O-Vax 5; Boehringer Ingelheim Animal Health Australia) was injected subcutaneously into the scruff, left distal hindlimb or proximal tail. A modified-live virus (attenuated [MLV]), non-adjuvanted trivalent vaccine (Feligen RCP; Virbac Animal Health Australia) was given into the scruff only. For the latter, an inactivated, adjuvanted monovalent feline leukaemia virus vaccine was administered concurrently into the contralateral scruff, left distal hindlimb or proximal tail. Only one FPV-containing vaccine was administered to each cat/kitten: either the inactivated vaccine given in one of the three different anatomical regions or the MLV vaccine given into the scruff only. Cats were re-vaccinated in the same site and using the same vaccine type. Kittens were randomly allocated into study groups according to order of recruitment. Kittens were sampled at four time points over 12 months (T0, T1, T2 and T12). Protective FPV antibody titres were determined by haemagglutination inhibition (HI; negative <1:32, positive &#x2a7e;1:32).ResultsSamples from 100 kittens (T0, T1, T2) and 77 returning adult cats (T12) were available for FPV antibody testing (median age of kittens at T0 was 13 weeks, range 7-16). Eight kittens (8%) were found to be HI-positive at T0. Protective titres did not differ significantly among the three injection sites for the inactivated vaccine. Linear modelling demonstrated that antibody titres were higher in kittens given the MLV vaccine compared with kittens given the inactivated vaccine at T1 ( P &#x2009;=&#x2009;0.006) and T12 ( P &#x2009;=&#x2009;0.001). However, the proportion of kittens protected in each group (MLV vaccine vs inactivated vaccine) was the same. For most kittens (91%), a single vaccination was sufficient to produce protective antibody levels, irrespective of whether they were given the MLV (scruff) or inactivated vaccine (at any site). Age and sex had no effect on antibody titres after vaccination. Two kittens (2%) failed to achieve protective titres after two doses of vaccine and required re-vaccination between 16 and 18 weeks. Inexplicably, one (1%) adult cat lacked a protective antibody titre response at T12 despite earlier seroconversion.Conclusions and relevanceBoth inactivated and MLV vaccines induce protective titres against FPV. Although most kittens aged above 7 weeks are protected 1 month after a single vaccination, some require re-vaccination to develop protection. Some kittens require a final vaccination at 16 weeks or older and a booster 6-12 months later to develop robust protective titres. Comparable FPV antibody responses are elicited when inactivated vaccines are administered into the scruff, left distal hindlimb or proximal tail. Notably in this study, the MLV vaccine tended to produce higher antibody titres. These results support evidence-based recommendations on vaccination site selection to mitigate FISS risk in jurisdictions where this condition is prevalent.",
-      "categories": []
     },
     {
       "pmid": "42413856",

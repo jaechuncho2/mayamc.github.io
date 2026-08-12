@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T23:26:59.879Z",
+  "updated_at": "2026-08-12T23:29:23.542Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -3135,6 +3135,142 @@
       "title": "Five cases of tremorgenic mycotoxicosis in dogs - clinical aspects and analytical methods.",
       "journal": "Veterinary Research Communications",
       "generated_at": "2026-08-11T23:25:24.876Z",
+      "model": "gpt-5-mini"
+    },
+    "42580715": {
+      "brief_summary": "11세 암컷 비글에서 스테레오택틱 방사선치료(RT, 20 Gy) 후 약 19개월 만에 발생한 진행성 좌측 좌골신경병증 증례를 보고한다. CT 및 MRI 소견과 좌골신경 조직검사에서 관찰된 심한 신경섬유 소실이 방사선 유발 말초신경병증(radiation-induced peripheral neuropathy, RIPN)과 일치하였다. 항염증성 코르티코스테로이드 투여에도 호전이 없어 해당 사지 절단으로 이어졌으며, 이는 반려동물에서 RIPN이 보고되지 않았던 점에서 임상적 주의가 필요함을 시사한다.",
+      "detailed_summary": "단일 증례보고로, 11세 스패이드 암컷 비글이 좌측 좌골신경 증상으로 내원하였다. 환자는 좌측 허벅지 근위-후방부위에 발생한 등급 2 연조직육종 절제 후 약 19개월 전에 스테레오택틱 RT(20 Gy)를 받았다. 평가에는 컴퓨터단층촬영(CT)과 자기공명영상(MRI)이 사용되었고, 영상 소견은 RIPN과 일치하였다. 이후 좌골신경 조직병리에서 심한 신경섬유 소실이 확인되었다. 항염증 목적의 코르티코스테로이드 치료에도 증상 개선이 없었고, 최종적으로 영향을 받은 사지의 절단이 시행되었다. 저자들은 영상 및 조직학적 소견을 근거로 방사선 관련 신경손상이 '가능성 높음'으로 판단했으나, 단일 증례라는 점과 인과관계의 확정을 위한 추가 증거 부재는 중요한 제한점으로 제시한다.",
+      "title": "Likely radiation-induced sciatic neuropathy in a dog.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-08-12T23:28:03.950Z",
+      "model": "gpt-5-mini"
+    },
+    "42580770": {
+      "brief_summary": "선천성 문맥-체순환동맥(거대문맥누출, congenital portosystemic shunt)을 가진 반려견 10마리를 대상으로 간성뇌증(hepatic encephalopathy, HE) 유무에 따른 혈청 메타볼로믹 변화를 비교하고 의학적 치료 후 변화를 추적한 전향적 관찰 연구다. HE 증상군(n=6)은 비증상군(n=4)에 비해 타우린(FC 0.44), 크레아틴(FC 0.32), 구아닌(FC 0.45)이 유의하게 낮고 3-하이드록시벤즈알데하이드(FC 2.51)는 유의하게 높았으며 스테아레이트는 현저히 감소하는 경향(FC 0.12, 통계적 유의는 아님)이 관찰되었다. 의학적 치료(>4주) 후 특히 타우린 농도가 비증상군과 유사하게 정상화되었고, 전반적으로 미토콘드리아 항상성 교란을 시사해 미토콘드리아 기능 지원을 목표로 하는 치료전략의 가능성을 제시한다.",
+      "detailed_summary": "이 연구는 2021년 3월부터 2022년 10월까지 선천성 문맥-체순환동맥 진단을 받은 보호자 소유 개 10마리를 대상으로 한 전향적 관찰 연구이다. 진단 시 신경학적 증상이 있는 군(HE, n=6)과 없는 군(n=4)의 혈청을 채취하여 UPLC-MS로 메타볼로믹 분석을 시행했고, 이후 4주 이상 의학적 치료를 시행한 뒤 추적 검사를 시행했다. HE 군은 비증상군에 비해 타우린(FC 0.44), 크레아틴(FC 0.32), 구아닌(FC 0.45)이 유의하게 감소했고 3-하이드록시벤즈알데하이드(FC 2.51)는 유의하게 증가했다. 스테아레이트는 크게 감소하는 양상을 보였으나 통계적으로 유의하지는 않았다(FC 0.12). 치료 후 전반적인 대사 프로파일이 개선되었고, 특히 타우린 농도가 비증상군과 유사한 수준으로 회복되었다. 저자들은 이러한 대사 변화가 미토콘드리아 항상성의 교란을 시사한다고 결론지었으며, 미토콘드리아 기능을 지지하는 접근이 향후 치료 전략의 근거가 될 수 있음을 제안했다. 연구의 특징으로는 표본수(10마리)가 적고 전향적 관찰 연구라는 점이 있으며, 이는 본 결과의 해석과 일반화에 고려할 점임을 명시하고 있다.",
+      "title": "Changes in metabolomic profile in dogs with hepatic encephalopathy secondary to congenital portosystemic shunt suggests mitochondrial homeostasis disturbances.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-08-12T23:29:23.535Z",
+      "model": "gpt-5-mini"
+    },
+    "42580778": {
+      "brief_summary": "본 연구는 컴퓨터 단층촬영(CT)으로 측정한 간 용적과 비조영 간 감쇠도가 문맥정맥의 원발성 저형성(primary hypoplasia of the portal vein; PHPV) 소견이 있는 개와 간 질환이 없는 대조군에서 차이가 있는지 비교했다. 26마리의 PHPV 호환 조직병리 소견 개와 121마리 대조를 체중에 따른 동소성 회귀로 보정한 결과, 보정 후 간 용적의 기하평균 비는 0.887(95% CI 0.751–1.047; P = 0.156)로 유의한 차이를 보이지 않았다(체중 제한 민감도 분석 0.923; 95% CI 0.769–1.107; P = 0.377). 비조영 간 감쇠도와 정성적 CT 이상 소견도 유의한 차이가 없어, CT로 검출 가능한 간 축소의 부재만으로 PHPV를 배제해서는 안 된다는 임상적 시사점이 있다.",
+      "detailed_summary": "후향적 의무기록 검토 연구로 복부 CT와 PHPV에 합치되는 간 조직병리 소견이 있는 개 26마리와 간 질환이 없는 출판된 CT 참조 코호트의 대조군 121마리를 분석했다. 대조군은 품종·나이·성별·체중으로 맞추지 않았고, 연구군은 대조군보다 체중이 훨씬 가벼웠다(중앙값 2.13 kg vs 38.0 kg). 간 용적은 체중에 대한 로그 변환 후 동소성 회귀(allometric regression)로 보정하여 평가했고 주요 지표는 보정된 기하평균 비였다. 기본 모형에서 보정된 기하평균 비는 0.887(95% CI 0.751–1.047; P = 0.156)로 유의하지 않았고, 체중 제한 민감도 분석 결과도 0.923(95% CI 0.769–1.107; P = 0.377)로 유의하지 않았다. 비조영 간 감쇠도는 두 군 간에 유의한 차이가 없었고 정성적 CT 이상 소견도 드물었다. 결론적으로 CT 유도 간 용적은 PHPV 호환 조직병리 소견이 있는 개에서 검출 가능한 수준으로 유의하게 낮지 않았으나, 집단 간 체중 차이와 체중이 밀접하게 맞춰진 대조군 부재 등의 제한점을 고려해 CT 볼류메트리는 체구, 혈관 영상, 임상 소견 및 조직병리와 함께 해석해야 한다.",
+      "title": "Computed tomography-derived liver volume is not detectably lower in dogs with histopathologic findings compatible with primary hypoplasia of the portal vein.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-08-12T23:29:01.330Z",
+      "model": "gpt-5-mini"
+    },
+    "42580779": {
+      "brief_summary": "이 연구는 암컷 개(bitches)에서 자궁축농증(pyometra)과 관련한 전신 산화스트레스 지표 및 비효소성 항산화제(내인성·외인성)와 혈액생화학적 변화를 평가하기 위해 수행되었다. Pyometra 군(17마리)은 대조군(16마리)보다 말론디알데하이드(MDA)와 총산화상태(TOS)가 유의하게 높았고, 글루타치온(GSH)은 증가하는 경향을 보였으나 다른 순환 비효소성 항산화제(비타민 C, α-토코페롤, β-카로틴, 레티놀 등)는 유의한 차이가 없었다. 임상적으로는 pyometra가 전신 산화스트레스와 함께 백혈구 증가, 호중구증가, 단핵구증가, 적혈구 수 및 헤마토크릿 감소, ALP·ALT·콜레스테롤 증가를 동반함을 시사한다.",
+      "detailed_summary": "단면 연구로 총 33마리의 암컷 개를 임상 및 혈액 검사로 pyometra군(17)과 대조군(16)으로 분류하여 평가하였다. 주요 평가 항목은 MDA(말론디알데하이드), TOS(총산화상태), GSH(글루타치온), 알부민·빌리루빈 등 내인성 비효소성 항산화제 및 아스코르브산(비타민 C), α-토코페롤(비타민 E), β-카로틴, 레티놀(비타민 A) 등 외인성 항산화제였으며 혈구계·생화학 검사도 시행되었다. Pyometra군의 MDA는 36.30 ± 13.95 μmol/L로 대조군(24.61 ± 4.80 μmol/L)보다 높았고(Hedges' g = 1.08), TOS도 27.78 ± 15.51 μmol H2O2 Eq/L로 대조군(13.13 ± 1.84 μmol H2O2 Eq/L)보다 증가했다(Hedges' g = 1.27). GSH는 pyometra군에서 12.04 ± 10.80 nmol/g Hb로 대조군(6.40 ± 2.97 nmol/g Hb)에 비해 증가하는 경향(Hedges' g = 0.68)을 보였으나 아스코르브산, α-토코페롤, β-카로틴, 레티놀 등 다른 순환 비효소성 항산화제는 군 간 차이가 없었다. 혈액 및 생화학적 변화로는 백혈구 증가, 호중구·단핵구증가, 적혈구 수·헤마토크릿 감소와 함께 ALP·ALT·콜레스테롤 상승이 관찰되었다. 결론적으로 개의 pyometra는 전신적인 산화스트레스를 동반하나 순환하는 비효소성 항산화제는 대체로 고갈되지 않아 항산화 반응 조절이 단순한 소모 양상으로 설명되기 어렵고, GSH 증가는 티올 기반 보상 반응일 수 있으며 질병 중증도 분류와 조직 수준의 효소성·비효소성 항산화제 평가를 포함한 추가 연구가 필요하다는 제한점을 제시한다.",
+      "title": "Systemic oxidative stress, selected nonenzymatic exogenous and endogenous antioxidants, and hematologic and biochemical alterations in bitches with pyometra.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-08-12T23:28:42.928Z",
+      "model": "gpt-5-mini"
+    },
+    "42580781": {
+      "brief_summary": "30마리의 흉요추 디스크 탈출(IVDE)로 인한 hemilaminectomy를 받는 개를 대상으로 수술 중 정맥내 마그네슘황산염(MgSO4) 지속 주입의 진통 및 항염 효과를 평가한 무작위 이중맹검 대조 임상시험이다. 주요 결과는 MgSO4 투여군이 회복 시 및 수술 후 4, 8, 12, 24시간의 Glasgow 통증점수(CMPS-SF)와 혈중 IL-6 농도에서 대조군과 유의한 차이를 보이지 않았고, TNF-α는 대부분 검출되지 않아 분석되지 않았다. 임상적으로는 MgSO4가 마취 회복을 더 원활하게 했고 혈청 마그네슘은 즉시 및 수술 1시간 후 유의하게 상승했으나 24시간에는 차이가 없었으며, 부작용은 보고되지 않아 수술 후 진통·항염 목적으로의 일상적 사용을 지지할 근거는 부족하다.",
+      "detailed_summary": "전향적 무작위 이중맹검 대조 임상시험으로 2022년 10월~2023년 10월에 Ontario Veterinary College에서 보호자 소유의 개 30마리를 등록하였다. 대상은 흉요추(Thoracolumbar) 디스크 탈출(IVDE)로 hemilaminectomy를 받은 개였고, 연구군은 수술 중 정맥내 마그네슘황산염(MgSO4, 마그네슘군) 또는 동량의 식염수(대조군)를 지속 주입받았다. 모든 개는 표준화된 마취·진통 프로토콜을 따랐으며 일차 평가항목은 회복 시 및 수술 후 4, 8, 12, 24시간의 Glasgow Composite Measure Pain Scale-Short Form(CMPS-SF) 점수와 수술 전·수술 1시간 후 혈청 IL-6 및 TNF-α 농도였다. 부차적으로 혈청 마그네슘 농도를 측정하여 독성 여부를 모니터링했다. 결과는 통증 점수와 IL-6에서 두 군 간 유의한 차이가 없었고, TNF-α는 대부분 검출되지 않아 통계분석에서 제외되었다. 마그네슘군은 회복이 더 원활했고 혈청 마그네슘은 즉시 및 수술 1시간 후 유의하게 높았으나 24시간 시점에서는 차이가 없었다. 추가 진통제 필요성은 대조군과 유의한 차이가 없었고 이상반응은 보고되지 않았다. 결론적으로 수술 중 IV MgSO4는 IVDE 수술을 받는 개의 수술 후 진통 또는 염증 감소에 유의한 이득을 보이지 않았으며, 임상적 적용을 지지할 충분한 근거가 없다.",
+      "title": "A randomized controlled trial of intravenous magnesium sulfate shows no analgesic or anti-inflammatory benefit in dogs undergoing thoracolumbar disk herniation surgery.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-08-12T23:28:30.409Z",
+      "model": "gpt-5-mini"
+    },
+    "42581418": {
+      "brief_summary": "대형 수의 전문병원에 내원해 진단 목적으로 채혈된 잔여 혈액을 이용해 229마리의 고양이에서 혈청 비타민 B12(코발라민) 농도의 분포를 조사한 연구로, 저코발라민혈증과 고코발라민혈증의 유병률과 신호정보·질환 특성과의 연관성을 평가했다. 전체에서 80마리(34.9%)는 고코발라민혈증, 45마리(19.7%)는 저코발라민혈증을 보였고 정상은 86마리(37.6%)였다. 연령이 증가할수록 혈청 B12가 약간 감소하고(약한 음의 상관), 체중이 3.0kg 미만인 고양이에서 저코발라민혈증이 더 흔했으며 성별·품종·체형점수·영향받은 장기계통·병리 유형과는 유의한 연관이 없었다. 임상적으로는 B12 이상이 흔하지만 특정 질환과의 명확한 연관성은 확인되지 않았다.",
+      "detailed_summary": "연구는 24개월 동안 대형 수의 진료 의뢰 병원에 내원하여 진단검사를 위해 채혈된 모든 고양이의 잔여 혈액을 사용한 관찰 코호트 연구이다. 총 229마리(수컷 128마리, 암컷 101마리; 중앙연령 9.9년, 중앙 체중 4.1kg)가 포함되었다. 혈청 비타민 B12 농도를 판정한 결과 80마리(34.9%)가 고코발라민혈증, 45마리(19.7%)가 저코발라민혈증, 86마리(37.6%)는 정상, 18마리(7.9%)는 경계치였다. 연령별로는 8.0세 미만에서 중앙 B12 농도가 더 높았고 연령과 혈청 B12 사이에 약하지만 유의한 음의 상관관계가 관찰되었으며, 체중과는 약한 양의 상관관계가 있어 체중 <3.0kg에서 B12가 낮았다. 성별, 품종, 체형점수(BCS), 주로 영향을 받은 장기계통 및 병리 유형과는 유의한 연관이 없었다. 결론적으로 이 코호트에서는 B12 농도 이상이 흔했으나 특정 질환과의 연관성은 밝혀지지 않았으며, 연령과 체중이 B12 농도와 연관되는 것으로 관찰되었다. 연구 대상은 진료상 채혈이 이루어진 환아 집단이며, 질환 분류는 임상 기록에서 도출되었다는 점이 연구 방법의 특성으로서 보고서에 기술되어 있다.",
+      "title": "EXPRESS: Prevalence and clinical relevance of hypocobalaminaemia and hypercobalaminaemia in cats.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "generated_at": "2026-08-12T23:27:29.689Z",
+      "model": "gpt-5-mini"
+    },
+    "42581420": {
+      "brief_summary": "전향적 연구로 고양이 70마리(각 군 n=35)를 대상으로 컴퓨터단층촬영(CT) 시 자세(dorsoventral, DV vs ventrodorsal, VD)가 안구 수정체와 갑상선에 흡수되는 방사선량에 미치는 영향을 평가했다. TLD-100 열형광선량계로 측정한 결과 안구 수정체 선량은 두 자세 간 유의한 차이가 없었으나(p>0.05), VD 자세에서 갑상선 흡수선량이 평균 24.4% 감소했다(VD 1.33 ± 0.17 mGy vs DV 1.76 ± 0.35 mGy; p = 4.97×10⁻⁹). 연구진은 추가 장비 없이도 VD 자세가 갑상선 선량을 낮추는 실용적 이점이 있어 일상적 표준으로 권장한다고 결론지었다.",
+      "detailed_summary": "본 연구는 ALARA 원칙을 고려한 전향적 설계로 고양이 70마리(VD 군 n=35, DV 군 n=35)를 대상으로 실시되었다. 주요 평가항목은 안구 수정체와 갑상선의 흡수 선량이며, 측정은 각 장기의 해부학적 투영부에 배치한 TLD-100(thermoluminescent dosimeters)으로 수행되었다. 안구 수정체 선량은 두 자세 간에 통계적 유의차가 관찰되지 않았다(p>0.05). 반면 VD(ventrodorsal) 자세에서는 갑상선 흡수선량이 DV(dorsoventral) 자세보다 평균 24.4% 감소했으며, 수치는 VD 1.33 ± 0.17 mGy 대 DV 1.76 ± 0.35 mGy로 보고되었고 통계적 유의성은 p = 4.97×10⁻⁹이었다. 연구에서는 이 감소를 VD 자세에서 등쪽 축골격(dorsal axial skeleton)과 등배근(epaxial muscles)의 '자연 차폐' 효과로 설명하였다. 초록에는 별도의 제한점이 명시되어 있지 않으며, 연구진은 진단 화질을 저해하지 않으면서 갑상선 방사선 노출을 줄이기 위해 VD 자세를 일상 표준으로 도입할 것을 권장하고 있다.",
+      "title": "EXPRESS: Positional Impact on Ocular Lens and Thyroid Radiation Doses During Feline Cranial CT: A TLD Study of 70 Cases.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "generated_at": "2026-08-12T23:27:08.524Z",
+      "model": "gpt-5-mini"
+    },
+    "42581991": {
+      "brief_summary": "85세 동아시아 남성의 증례보고로, 고양이 긁힘 후 3개월 만에 급성 고열과 야간 섬망(시각 환각 포함), 목격된 발작 유사 에피소드를 포함한 신경학적 고양이 긁힘병(Neurological cat-scratch disease, NCSD)을 보고한다. 뇌척수액 배양 및 도말은 음성이었으나 혈청 메타게놈 차세대염기서열분석(mNGS)에서 Bartonella henselae가 검출되었고 항생제 치료 후 열과 두통이 호전되었다. 본 증례는 열성 질환에서 섬망 등 신경정신 증상이 동반될 경우 최근 고양이 노출력을 확인하고 B. henselae를 감별할 필요가 있음을 시사한다.",
+      "detailed_summary": "연구는 단일 증례보고로 85세 고혈압 및 관상동맥질환 병력이 있는 남성 환자를 대상했다. 환자는 고양이 긁힘 후 3개월 경과하여 갑작스러운 고열이 발생했고 이후 야간 섬망과 시각 환각, 목격된 발작 유사 에피소드 및 이후 후두부 두통을 호소했다. 신체검사에서는 경미한 양측 액와 및 좌측 쇄골상부 림프절 비대가 있었고 국소 신경학적 결손은 관찰되지 않았다. 뇌척수액 검사에서 균 및 진균 배양과 도말은 음성이었으나 혈청 mNGS에서 Bartonella henselae가 검출되었다. 항생제 치료 후 발열과 두통이 호전되었다는 점이 보고되었다. 저자들은 드문 소견이나 발열성 질환에서 섬망·기타 신경정신 증상이 동반되는 경우 고양이 노출력을 문진하고 초동에 병원체 지향 경험적 항생제 사용을 고려할 필요가 있음을 제시하였으나, 단일 증례로 일반화는 불가하고 추가 연구가 필요하다는 제한점을 명시한다.",
+      "title": "Atypical cat-scratch disease with acute high-grade fever and neuropsychiatric symptoms: a case report.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-08-12T23:26:37.927Z",
+      "model": "gpt-5-mini"
+    },
+    "42582000": {
+      "brief_summary": "성인 반려견 33마리를 대상으로 적외선 열화상(Infrared thermography, IRT)을 이용해 체표면 온도 분포와 영향을 미치는 요인을 조사한 전향적 연구이다. 등·목·몸통의 표면 온도를 비교한 결과, 등허리(lumbar spine)와 측면(trunk)이 목(dorsal neck)보다 유의하게 더 따뜻했으며(예: dorsal neck 23.9±1.6°C vs lumbar spine 25.4±1.9°C, p=0.009), 털 길이가 짧은 개가 중·장모보다 여러 부위에서 유의하게 높은 표면온도를 보였다. 임상적 의미는 정상 건강한 개에서도 부위별 차이와 털 길이가 IRT 판독에 큰 영향을 미치므로, 비정상 소견 해석 시 이러한 정상 변동을 고려해야 한다는 것이다.",
+      "detailed_summary": "본 연구는 클라이언트 소유의 성인 개 33마리(중앙값 연령 3.3세, 범위 1.0–10.9세; 중앙값 체중 18.6kg, 범위 3.7–59.4kg)를 전향적으로 등록해 표준화된 적외선 열화상 촬영을 실시하고, 몸통(trunk), 목(neck), 척추(spine) 영역에 설정한 관심영역(ROI)의 평균 표면온도를 측정했다. 좌·우 대칭성 여부를 평가하고, 영역 간 비교 및 개체 특성(예: 털 길이)과의 관련성을 분석했으며, 다중비교 보정 후 p<0.05를 유의로 보았다. 좌·우 쌍을 비교한 결과 유의한 비대칭성은 관찰되지 않았고(bilateral symmetry 보존), 부위별로는 dorsal neck 평균 23.9±1.6°C가 lumbar spine(25.4±1.9°C, p=0.009) 및 lateral trunk(25.2±2.0°C, p=0.03)보다 유의하게 낮았다. 털 길이와의 관계에서는 단모(short-haired) 개가 lateral trunk(26.8±1.9°C vs 24.2±1.4°C, p=0.001), dorsal neck(25.2±1.8°C vs 23.2±0.9°C, p=0.01), sacral(26.0±2.2°C vs 23.5±1.1°C, p=0.006)에서 중·장모보다 유의하게 높은 표면온도를 보였다. 그 외 다른 특성과의 유의한 관련성은 보고되지 않았다. 결론적으로 정상 건강한 개에서도 부위별 온도 차이와 털 길이가 IRT 측정에 중요한 영향을 미치므로, 임상적으로 열화상 결과를 해석할 때 이러한 정상 변동을 기준으로 삼아야 한다는 점이 강조되며, 초록에는 별도의 연구 제한점이 명시되어 있지 않다.",
+      "title": "Infrared thermography in clinically healthy dogs shows body region and haircoat variability.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-08-12T23:26:22.568Z",
+      "model": "gpt-5-mini"
+    },
+    "42582002": {
+      "brief_summary": "후향적 연구에서 전신 면역-염증 지수( SII ; 호중구×혈소판/림프구)를 이용해 중증으로 내원한 개의 예후를 평가했다. 중증 개( n=61 )는 건강 대조군( n=96 )보다 SII 중앙값이 유의하게 높았고(1,997 vs. 516, p<0.001), SII가 사망 예측에 사용될 수 있음이 보였다(AUC 0.806, cutoff 2,628, 민감도 90%, 특이도 74.5%). 연구진은 SII가 중증 개의 예후 판단에 유용한 지표일 수 있으나 더 큰 코호트에서 추가 검증이 필요하다고 결론지었다.",
+      "detailed_summary": "본 연구는 2023년 6월부터 2025년 1월까지 중환자 치료부에 내원한 개들을 후향적으로 분석했으며, 건강 대조군 96마리와 중증 개 61마리가 포함되었다. 입원 후 1시간 이내 채혈한 혈구계 검사(CBC)를 기반으로 SII(호중구 수×혈소판 수/림프구 수)를 계산하여 비교하였다. 중증 개의 SII 중앙값은 1,997로 건강군의 516보다 유의하게 높았고(p<0.001), 비생존자에서는 백혈구 수(WBC), 호중구 수, SII, 호중구-림프구 비율(NLR) 및 APPLEfast 점수가 유의하게 증가했다. SII의 사망 예측 성능은 AUC 0.806으로 중간 정도의 정확도를 보였고, 최적 절단값은 2,628(민감도 90%, 특이도 74.5%)이었다. 비교로 APPLEfast 점수의 AUC는 0.759였고(민감도 90%, 특이도 64.7%), 건강 대조군에 대한 SII의 95% 기준구간은 180–1,392로 제시되었다. 결론적으로 SII가 중증 개에서 상승하며 절단값 초과 시 사망 위험 증가와 연관되었으나, 후향적 설계 및 표본 수 제한으로 인해 인과관계 판단은 할 수 없으며 더 큰 규모의 검증이 필요하다.",
+      "title": "Systemic immune-inflammation index as a prognostic biomarker in critically ill dogs.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-08-12T23:26:08.167Z",
+      "model": "gpt-5-mini"
+    },
+    "42582328": {
+      "brief_summary": "일본에서 시행된 다기관, 이중맹검, 무작위 임상 현장시험에서 총 200마리의 개(OTIS3 ≥ 5)를 대상으로 하여 하이드로코르티손 아세포네이트(HCA; Cortotic™) 스프레이 단독요법을 테르비나핀/플로르페니콜/베타메타손 아세트산염 겔(Osurnia™)과 비교하였다. OTIS3 점수 감소, 세포학적 호전, 치료 성공률 및 재발률에서 두 군 간 유의한 차이가 없었고, Day 28 기준 OTIS3 감소는 Cortotic 72.1% vs Osurnia 76.1%였으며 수의사 주관 평가에서 각각 83%와 87%가 ‘우수/양호’로 평가되었다. 양쪽 모두 내약성이 양호했고 HCA 단독요법은 항생제 노출을 피하면서도 비열등(non-inferiority)을 입증해 외이염의 1차 치료 옵션이 될 수 있음을 시사한다.",
+      "detailed_summary": "본 연구는 일본에서 다기관, 마스킹된(randomized, double-blinded) 임상 현장시험으로, 홍반-분비성 외이염(Erythemato-ceruminous otitis externa; ECOE)인 개 200마리를 대상으로 수행되었다. 대상은 OTIS3 점수 ≥ 5였으며 피시험군은 Cortotic™(하이드로코르티손 아세포네이트) 스프레이를 7일 또는 14일간 매일 투여했고, 비교군은 Osurnia™(테르비나핀/플로르페니콜/베타메타손 아세트산염) 귀겔을 0일과 7일에 투여했다. 주요 평가항목은 임상 점수(OTIS3), 귀세포학 검사(세포학적 소견), 그리고 수의사의 주관적 치료효과 평가였고 각 시점에서 양 군은 OTIS3 감소, 세포학적 개선, 치료 성공률에서 유의한 차이를 보이지 않았다. Day 28 시점의 구체적 수치는 OTIS3 감소가 Cortotic 72.1% 대 Osurnia 76.1%였고, 수의사 주관 ‘우수/양호’ 평가는 각각 83%와 87%였으며 재발률은 두 군 모두 낮았다. 안전성 측면에서도 두 약물 모두 잘 견디는 것으로 보고되었고, 연구는 HCA 단독요법이 항생제 사용을 피하면서 임상적·세포학적 효능에서 Osurnia에 대해 비열등성을 입증했다고 결론지었다. 초록에는 추가적인 제한점(예: 장기 추적 결과나 집단 특성에 관한 상세 기술 등)에 대한 서술이 포함되어 있지 않다.",
+      "title": "Treatment of canine otitis externa: a randomized, double-blinded, clinical field study comparing the hydrocortisone aceponate monotherapy to a multi-agent reference product.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-08-12T23:25:53.630Z",
+      "model": "gpt-5-mini"
+    },
+    "42583395": {
+      "brief_summary": "이 문서는 DOI 10.3389/fvets.2026.1876288에 해당하는 원저를 정정하는 공지이다. 원저는 82개의 임상적으로 건강한 개의 상악 견치(maxillary canine teeth)를 방사선과 콘빔 컴퓨터 단층촬영(CBCT)로 특성화하는 후향적 기술 연구였다. 본 정정 공지의 초록에는 연구 결과나 정정된 구체적 내용이 포함되어 있지 않다. 임상가는 수정된 원문을 확인해야 한다.",
+      "detailed_summary": "발행된 항목은 앞서 출판된 논문(DOI 10.3389/fvets.2026.1876288)에 대한 정정(correction)이다. 원저의 제목에 따르면 연구 설계는 후향적 기술 연구(retrospective descriptive study)이며 대상은 82개의 임상적으로 건강한 개의 상악 견치, 평가방법은 방사선 촬영 및 콘빔 컴퓨터 단층촬영(CBCT)이었다. 이 정정 공지의 초록에는 어떤 수치적 변경이나 결과 수정 내용이 명시되어 있지 않아 정정의 범위와 내용이 불분명하다. 따라서 초록만으로는 원저의 주요 결과나 임상적 해석이 변경되었는지 알 수 없다. 임상 수의사는 원문(수정본)을 직접 확인해 변경사항·수치·결론의 유무를 검토해야 한다. 정정 공지는 본문이나 데이터에 접근해 판단할 것을 권고하며, 초록 자체는 추가 정보나 새로운 임상 권고를 제공하지 않는다.",
+      "title": "Correction: Radiographic and cone-beam computed tomography characterization of Chevron lucency in 82 clinically healthy maxillary canine teeth of dogs: a retrospective descriptive study.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-08-12T23:25:34.747Z",
+      "model": "gpt-5-mini"
+    },
+    "42583882": {
+      "brief_summary": "본 연구는 2013–2024년 Michigan State University 검사용역소에 제출된 수술생검 기록을 후향적으로 분석해 질 주변(perivulvar) 비만세포종(MCT)의 등급, 품종 분포 및 임상경과를 평가했다. 총 64마리에서 68개 병변을 분석했고 97%가 피부성 병변이며 Kiupel 저등급이 85%로 다수였다. 중앙생존기간(MST)은 868일이었고, c-KIT PCR을 시행한 19개 병변 중 3개(16%)에서 Exon 8 또는 11의 변이가 확인되었다. 수술적 절제로 장기간 생존이 가능할 수 있어 보이나 보조요법의 효과는 전향적 연구가 필요하다.",
+      "detailed_summary": "후향적 연구로 2013–2024년 제출된 수술 생검 보고서와 의무기록을 검토하여 연령, 중성화 상태, 품종, 종양 위치, 조직학적 소견 및 생존을 수집하였다. 총 64마리(68개 병변)를 포함했으며 가장 흔한 계통은 Mastiff-Terrier(47%)이었다. 병변의 97%가 피부성(cutaneous)으로 분류되었고 Kiupel 등급으로는 85%가 저등급, 15%가 고등급이었다. c-KIT PCR은 19개 병변에서 시행되어 3개 병변(16%)에 Exon 8 또는 11 변이가 있었고, KIT 발현 패턴은 평가된 종양의 71%에서 Pattern 2 또는 3이었다. 중앙 Ki-67 증식지수는 7, Ki-67×AgNOR 점수 중앙값은 13이었고 Kaplan–Meier 분석에서 MST는 868일이었다(추적 관찰 상실 또는 생존견은 검정에서 검측됨; 추적 관찰 상실 집단의 중앙 추적기간은 442일). 연구 결론은 질 주변 MCT는 외과적 절제로 장기간 생존이 가능할 수 있음을 시사하나 후향적 설계와 제한된 추적관찰 등으로 보조요법의 효과를 평가하려면 전향적 연구가 필요하다는 점이다.",
+      "title": "Clinical Outcome and Histopathologic Assessment of Canine Perivulvar Mast Cell Tumours.",
+      "journal": "Veterinary and Comparative Oncology",
+      "generated_at": "2026-08-12T23:27:47.716Z",
+      "model": "gpt-5-mini"
+    },
+    "42584747": {
+      "brief_summary": "후향 단일기관 연구로 1년 이상 수컷 개 62마리의 측면 방사선사진에서 음경골(baculum) 길이를 측정했다. 음경골 평균 길이는 체중 범주별로 <10kg: 68.4±9.1 mm, 10–30kg: 105.9±26.7 mm, >30kg: 131.2±18.6 mm로 체중 범주에 따라 유의하게 증가했다(P<0.001). 다변량 회귀분석에서도 체중 범주가 나이·중성화 여부·잡종 여부를 보정한 뒤에도 강하게 연관되었고(robust F(2,56)=67.65, P<0.001, 조정 R2=0.609), 나이·중성화·잡종 여부와는 연관성이 관찰되지 않았다. 이 데이터는 음경골 방사선 판독에 참고가 될 수 있으나 진단 기준으로 사용할 수는 없다.",
+      "detailed_summary": "본 연구는 단일기관의 후향적 연구로 1년 이상 수컷 개 62마개의 측면 방사선(lateral radiographs)을 단일 최적 투영에서 검토하여 음경골 길이를 계측했다. 주요 평가항목은 체중 범주(<10kg, 10–30kg, >30kg)에 따른 음경골 길이 차이였고, 기술통계로 평균±표준편차를 보고했다. 음경골 길이는 체중 범주별로 <10kg: 68.4±9.1 mm, 10–30kg: 105.9±26.7 mm, >30kg: 131.2±18.6 mm로 나타났고, Kruskal–Wallis 검정에서 유의미한 차이를 보였다(P<0.001). 다변량 보통최소제곱(ordinary least-squares, OLS) 선형회귀에서 체중 범주는 나이·중성화 여부·잡종 여부를 보정한 뒤에도 유의하게 연관되어 robust F(2,56)=67.65, P<0.001, 조정 R2=0.609를 보였다. 반면 연령, 중성화 상태, 잡종 여부와는 연관성이 검출되지 않았다. 저자들은 이 기술적(묘사적) 자료가 음경골의 방사선학적 해석을 보조할 수 있으나, 초록에 명시된 바와 같이 진단적 문턱값으로 사용할 수 없음을 한계로 제시하고 있다.",
+      "title": "Radiographic reference values for canine baculum length: association with body-weight category in dogs aged at least 1 year.",
+      "journal": "Veterinary Research Communications",
+      "generated_at": "2026-08-12T23:26:54.946Z",
+      "model": "gpt-5-mini"
+    },
+    "42585564": {
+      "brief_summary": "다기관 기술 연구에서 중년 그레이하운드 9두의 급성 경추성 척수병증 환자에서 추정되는 자발성 골막하 척추 출혈(SSVH)의 임상 양상, 영상 소견 및 결과를 기술했다. 병변은 주로 C3 또는 C4 체의 양측 전외측에 위치해 척수 압박을 일으켰고, MRI에서는 T2W 고신호·T1W 등~고신호·비조영성·T2*W 주변 저신호 테두리를 보였으며 CT에서는 60–80 HU의 균질 고음영이었다. 모든 개가 내과적 치료로 호전되었고 비보행성 증례도 9일 이내 보행을 회복했으며(추적 중앙값 254일, 범위 5–1217일) 재발은 관찰되지 않아 예후가 양호했다. 영상 소견은 다른 외막외/경막외 병변과의 감별에 도움이 된다.",
+      "detailed_summary": "연구는 다기관 기술 연구로, MRI와 CT를 시행한 중년 그레이하운드 9두를 포함해 추정되는 자발성 골막하 척추 출혈(SSVH)의 임상·영상 소견을 기술하고 병변 형태를 확인하기 위한 전향적 시체 연구를 병행했다. 모든 개는 급성 발병의 경추성 척수병증으로 내원했으며 병변은 제3경추(C3) 또는 제4경추(C4) 체에 위치했고 대부분 양측 대칭의 전외측 분포로 척수 압박을 초래했다. MRI 소견은 회색질 대비 T2W에서 균질 고신호, T1W에서 등위치~고신호, 비조영성(non-contrast-enhancing)이며 T2*W에서 주변의 취약성(저신호) 테두리를 보였다. CT에서는 병변이 경막외에 위치한 균질 고음영으로 관찰되며 밀도는 60–80 Hounsfield Unit(HU)이었다. 모든 개는 내과적 보존치료를 받았고 임상적으로 호전되어 초기 비보행성 증례들도 9일 이내 보행을 회복했으며 추적기간 중앙값은 254일(범위 5–1217일)로 재발은 관찰되지 않았다. 결론적으로 SSVH는 그레이하운드의 급성 경추성 척수병증 감별진단에 포함되어야 하고 영상 소견이 감별에 유용하며, 다만 본 연구는 표본이 9두인 기술적 증례군이자 추정 진단 사례라는 점에서 일반화에는 주의가 필요하다.",
+      "title": "Presumed cervical subperiosteal vertebral hemorrhage in nine greyhounds.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-08-12T23:25:14.646Z",
+      "model": "gpt-5-mini"
+    },
+    "42585565": {
+      "brief_summary": "케이스-컨트롤 연구로 종양 환견 162두와 종양 없는 대조군 46두를 대상으로 혈장 kynurenine 3-monooxygenase(KMO) 활성도와 Ki-67 농도를 비교하였다. KMO는 종양군에서 유의하게 높았고(중앙값 2.02 ng/mL, IQR 1.03–3.65 vs 대조군 0.69 ng/mL, IQR 0.23–1.18; P<.0001) 진단 성능(AUC 0.837)이 양호했다. Ki-67는 종양군에서 약간 높았으나(AUC 0.644) 단독 진단력은 제한적이며, KMO를 보완하는 보조 지표로 제시되었다.",
+      "detailed_summary": "본 연구는 의료기록으로 확진된 다양한 종양을 가진 개 162두와 종양 없는 대조군 46두를 포함한 케이스-컨트롤 연구이다. 주요 평가 항목은 혈장 KMO 활성도와 Ki-67 농도 및 이들의 진단 효능이었다. KMO는 종양군에서 중앙값 2.02 ng/mL(IQR 1.03–3.65)로 대조군의 0.69 ng/mL(IQR 0.23–1.18)에 비해 유의하게 높았으며(P<.0001) AUC는 0.837이었다. Ki-67는 종양군에서 중앙값 4.28 ng/mL(IQR 3.75–4.84)로 대조군 3.80 ng/mL(IQR 3.31–4.43)보다 유의하게 높았으나(P<.05) AUC는 0.644로 단독 진단 지표로는 제한적이었다. KMO와 Ki-67 간에는 유의한 상관관계가 없었고(R2 = 0.003, P = .48), 50.6% (82/162)의 증례에서 두 검사 결과가 일치하지 않았다. 연구 결론은 KMO가 효과적인 바이오마커로 제시되며 Ki-67는 단독 진단보다는 KMO 등 다른 바이오마커를 보완하는 보조 지표로서의 역할을 한다는 점이다. 초록에서는 추가적인 한계점에 대한 별도 언급은 없었다.",
+      "title": "Evaluation of plasma kynurenine 3-monooxygenase and Ki-67 as screening biomarkers for neoplasia in dogs.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-08-12T23:24:51.774Z",
+      "model": "gpt-5-mini"
+    },
+    "42585566": {
+      "brief_summary": "9세 중성화 수컷 토이푸들 1마리에서 복부 초음파와 전산화단층촬영(CT), 내시경 검사로 진성 gastrogastric intussusception(위-위 중첩)이 진단되었다. 내시경으로 함입된 위저 부위를 확인한 뒤 공기주입(insufflation)으로 수술 없이 성공적으로 정복하였다. 조직병리에서는 만성 위염, 장염 및 결장염이 확인되었고 시술 후 216일까지 재발은 관찰되지 않았다.",
+      "detailed_summary": "증례보고로 9세 중성화 수컷 토이푸들 1마리가 구토, 혈변(hematochezia) 및 활동성 감소로 내원하였다. 복부 초음파(ultrasonography)에서 위벽의 부종성 비후와 위저(fundus)가 위체(body)로 함입된 소견이 관찰되었고 전산화단층촬영(CT)으로 이를 확정하였다. 내시경(endoscopy) 검사에서 함입된 위저 부위를 직접 확인하였고, 공기주입(insufflation)을 이용해 수술 없이 성공적으로 정복하였다. 위장 생검의 조직병리 결과는 만성 위염(chronic gastritis), 장염(enteritis) 및 결장염(colitis)이었다. 시술 후 추적에서 216일까지 재발은 없었으며 저자들은 조기 초음파 진단과 내시경적 정복의 유용성을 강조하였다. 단, 단일 증례 보고이므로 본 결과를 일반화할 수 없다는 제한점이 있다.",
+      "title": "Endoscopic reduction of true gastrogastric intussusception in a dog.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-08-12T23:24:33.660Z",
       "model": "gpt-5-mini"
     }
   }
