@@ -1,6 +1,116 @@
 {
-  "updated_at": "2026-08-12T23:24:16.493Z",
+  "updated_at": "2026-08-13T23:25:43.728Z",
   "papers": [
+    {
+      "pmid": "42590796",
+      "title": "Intramuscular tranexamic acid results in lower peak plasma concentrations but comparable systemic absorption to intravenous administration in healthy dogs.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Kwak EJ, Zersen K, Tucker C, Lavender C, Talbot C, Gustafson D, Hendry-Hofer T, Hall K",
+      "date": "2026 08 13",
+      "dateObject": "2026 08 13",
+      "abstract": "To determine the pharmacokinetics of IM and IV tranexamic acid (TXA) in healthy dogs. There were 6 healthy client-owned dogs that received TXA (20 mg/kg) in a randomized crossover study design with a 6-week washout period between IM and IV administration. Venous blood samples were collected from baseline to 8 hours after injection. Plasma TXA concentrations were measured using LC-MS-MS. For IM administration, mean &#xb1; SD maximum plasma concentration (Cmax) was 46.8 &#xb1; 26.6 &#x3bc;g/mL, total area under the curve was 173.8 &#xb1; 25.0 &#x3bc;g/mL&#xb7;h, time to Cmax was 1.6 &#xb1; 1.4 hours, half-life (t1/2) was 2.8 &#xb1; 2.1 hours, and bioavailability was 120.9 &#xb1; 10.0%. For IV administration, Cmax was 119.8 &#xb1; 17.6 &#x3bc;g/mL, total area under the curve was 143.3 &#xb1; 10.5 &#x3bc;g/mL&#xb7;h, and t1/2 was 2.1 &#xb1; 1.8 hours. IM Cmax reached approximately 39% of IV Cmax and exhibited a 33% longer t1/2, consistent with slower absorption. Despite the lower Cmax, bioavailability was 120.9%, suggesting that IM TXA maintained a higher plasma concentration for a longer duration. Although the prolonged time to Cmax associated with IM administration may limit its use in patients requiring rapid intervention, it offers practical advantages when IV access is delayed, allowing prehospital treatment prior to definitive veterinary care. Further investigation into IM dosing protocols is needed before it can be recommended in clinical patients.",
+      "categories": []
+    },
+    {
+      "pmid": "42590792",
+      "title": "Computed tomography- and magnetic resonance imaging-visible, patient-specific canine head phantom via 3-dimensional anatomy printing for neurosurgical training and biopsy planning: a proof of concept.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Kessel RM, Nidhi Bhati A, Yu Y, Roney JN, Gupta R, Amankulor NM, Mai W, Dasari M, Mangharam R, Panek WK",
+      "date": "2026 08 13",
+      "dateObject": "2026 08 13",
+      "abstract": "To develop and evaluate a workflow for generating a patient-specific canine head phantom with intracranial pathology from clinical CT and MRI data using digital anatomy printing and to assess its anatomic accuracy and imaging fidelity for veterinary neurosurgical planning and training. This experimental proof-of-concept study used historical clinical CT and MRI data from a canine patient diagnosed with a brain glioma. A multimaterial head phantom was created using image segmentation, computer-aided design modeling, material assignment and slicing, PolyJet-based 3-D printing with a digital anatomy printer, and postprocessing. The produced phantom underwent CT and MRI scanning. Anatomical dimensional accuracy along a predefined intracranial trajectory and imaging realism were assessed by comparison of HU and MRI signal intensity between the phantom and the patient imaging data. 2 patient-specific canine head phantoms, one dual CT and MRI optimized and another purely CT optimized, were successfully produced and imaged. The phantom demonstrated CT attenuation and MRI signal characteristics qualitatively consistent with the patient's tissues. Quantitative assessment showed minimal dimensional deviation along the selected trajectory compared with the original patient anatomy. Imaging contrast between structures was reproduced, although measurable differences in CT attenuation values and MRI signal characteristics of the printed materials were identified. A streamlined workflow for generating patient-specific canine head phantoms using multimaterial 3-D printing was established and demonstrated anatomical fidelity and multimodal imaging compatibility. These phantoms offer a unique and practical model for advanced veterinary neurosurgical planning and training, particularly including trajectory planning for intracranial procedures, such as brain biopsy.",
+      "categories": [
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "42590798",
+      "title": "Abnormal modified Insall-Salvati index values are associated with increased odds of medial meniscal tears in dogs with cranial cruciate ligament tears.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Zayas JP, Steurer JA, Dixon BC, Newman RJ",
+      "date": "2026 08 13",
+      "dateObject": "2026 08 13",
+      "abstract": "To evaluate the association between patellar height, as measured by the modified Insall-Salvati (IS) index, and medial meniscal tear in dogs with cranial cruciate ligament tears (CCLTs). Medical records from dogs treated for CCLT were reviewed. Preoperative patellar height was measured on mediolateral radiographs with the use of the modified IS index. Craniomedial stifle mini-arthrotomy documented the presence or absence of medial meniscal tears. Statistical analysis, adjusted to control for confounding variables, assessed whether abnormal IS index values were associated with meniscal injury. The study included 229 stifles. Abnormal modified IS index values were found in 12.6% (29 of 229) of stifles, of which 44.8% (13 of 29) had a concurrent medial meniscal tear. Among the dogs with a normal modified IS index (87.4% [200 of 229]), only 24.5% (49 of 200) had a concurrent medial meniscal tear. Dogs with an abnormal IS index had 3 times the odds of a medial meniscal tear (95% CI, 1.2 to 7.3) compared to those with a normal index. There was no statistically significant difference in the distribution between complete and partial CCLT between the normal IS index and abnormal IS index groups. Abnormal patellar height, as measured by the modified IS index, is significantly associated with increased risk of secondary medial meniscal tear in dogs with CCLT. Preoperative measurement of the modified IS index may help identify dogs at increased risk for meniscal tearing, supporting surgical planning and client communication.",
+      "categories": [
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42591120",
+      "title": "Perceptions of dogs and animal-assisted support programs among veterinary students and teaching staff in Romania.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Grigoreanu A, Gaspar C, Bucur I, Udrea A, Cojocaru R, Moza A, Ban-Cucerzan A, Lazarescu C, Tirziu E, Tibru I",
+      "date": "2026 08 13",
+      "dateObject": "2026 08 13",
+      "abstract": "Animal-assisted support programs (AASP) are increasingly used to promote psychological wellbeing in educational settings, yet their acceptability within veterinary education remains underexplored. This study aimed to assess perceptions, knowledge, attitudes, and implementation preferences related to AASP among veterinary students and teaching staff from a Romanian Faculty of Veterinary Medicine. A cross-sectional survey was conducted among 200 students and 99 teaching staff members, using a structured questionnaire addressing demographics, attitudes toward dogs, awareness of AASP, and self-reported mental health-related variables. Group and gender differences were analyzed using chi-square and Fisher's exact tests. Overall, respondents demonstrated positive attitudes toward dogs and strong acceptance of AASP. Most participants perceived AASP as potentially beneficial for stress reduction, mental health support, and enhancement of the educational environment, despite limited prior experience with such programs. A considerable proportion of students (20.5%) reported a diagnosed mental health condition, highlighting the relevance of student wellbeing support within the investigated academic setting. Gender differences were observed, with female respondents generally expressing more favorable attitudes and lower risk perception. High willingness to participate and support for the potential introduction of structured AASP and related training opportunities were reported, although concerns regarding anxiety and logistical constraints were acknowledged. These findings indicate a high level of perceived acceptability of AASP among veterinary students and teaching staff and support further investigation of their potential role within student wellbeing initiatives in veterinary higher education.",
+      "categories": []
+    },
+    {
+      "pmid": "42591112",
+      "title": "Commentary: QRS complex configurations in 12-lead electrocardiograms of dogs with monomorphic ventricular tachycardia or complete bundle branch block.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Novosel D, &#x17d;uljevi&#x107; P, Be&#x10d;i&#x107; T",
+      "date": "2026 08 13",
+      "dateObject": "2026 08 13",
+      "abstract": "",
+      "categories": [
+        "cardiology"
+      ]
+    },
+    {
+      "pmid": "42591100",
+      "title": "Xuebijing alleviates acute hydrogen sulfide-induced pyroptosis in rat spleen via suppression of the caspase-1/NLRP3 pathway.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Ding L, Han Y, Chen Y, Zou H, Ma Y, Tong X, Song R, Liu Z, Zhao H",
+      "date": "2026 08 13",
+      "dateObject": "2026 08 13",
+      "abstract": "Hydrogen sulfide (H 2 S) is a pervasive environmental toxicant with well-established immunotoxic effects. However, its action on lymphoid organs-particularly whether it triggers splenic pyroptosis-remains elusive. This study explored the effect of acute H 2 S exposure on rat spleen and the therapeutic potential of Xuebijing (XBJ), a traditional Chinese medicine for sepsis. Rats were exposed to 300 ppm H 2 S for 3 h, with or without 7-day XBJ pretreatment (4 mg/kg, i.p.). Splenic injury was evaluated by histopathology, ultrastructure, oxidative stress parameters, immunofluorescence, and immunoblotting. H 2 S exposure alone caused marked splenic damage, evidenced by increased organ coefficient, disrupted tissue architecture, mitochondrial swelling, and redox imbalance [depleted glutathione (GSH), superoxide dismutase (SOD), catalase (CAT); elevated malondialdehyde (MDA)]. Mechanistically, H 2 S activated the NF-&#x3ba;B/NLRP3/caspase-1 axis, upregulating NLRP3, ASC, cleaved caspase-1, and GSDMD-N, along with elevated interleukin-1&#x3b2; (IL-1&#x3b2;) and interleukin-18 (IL-18). XBJ pretreatment reversed these alterations, suppressing NF-&#x3ba;B phosphorylation, inflammasome assembly, and pyroptotic cell death. These findings demonstrate that H 2 S induces splenic pyroptosis via the NF-&#x3ba;B/NLRP3/caspase-1 pathway, and that XBJ confers protection by interrupting this cascade, offering a mechanism-based candidate for the treatment of acute H 2 S poisoning.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42410596",
+      "title": "Correction: Descriptive comparative morphology of the eye and ocular adnexa in Felidae: observations from a clouded leopard (Neofelis nebulosa), African lion (Panthera leo), and Pallas's cat (Otocolobus manul).",
+      "journal": "BMC Veterinary Research",
+      "authors": "Kle&#x107;kowska-Nawrot J, Badenhorst S, Borawski W, Go&#x17a;dziewska-Har&#x142;ajczuk K, Akta&#x15f; A, Chr&#xf3;szcz A",
+      "date": "2026 08 13",
+      "dateObject": "2026 08 13",
+      "abstract": "",
+      "categories": []
+    },
+    {
+      "pmid": "42365334",
+      "title": "Correction: Feasibility and usefulness of inhospital and at-home salivary sampling in healthy dogs and trilostane-treated dogs with Cushing's syndrome: a prospective observational study.",
+      "journal": "BMC Veterinary Research",
+      "authors": "Meunier SM, Voegel CD, Neubert E, Harburger LA, Riond B, Hofmann-Lehmann R, Boretti FS, Sieber-Ruckstuhl NS",
+      "date": "2026 08 13",
+      "dateObject": "2026 08 13",
+      "abstract": "",
+      "categories": []
+    },
+    {
+      "pmid": "42584747",
+      "title": "Radiographic reference values for canine baculum length: association with body-weight category in dogs aged at least 1 year.",
+      "journal": "Veterinary Research Communications",
+      "authors": "Fuertes-Recuero M, L&#xf3;pez-Cubillo L, Ortiz-D&#xed;ez G, Salg&#xfc;ero R",
+      "date": "2026 08 13",
+      "dateObject": "2026 08 13",
+      "abstract": "The canine baculum is routinely visible on abdominal and pelvic radiographs, yet radiographic reference data for its length are scarce. This retrospective single-centre study aimed to characterise radiographic baculum length in male dogs aged at least 1 year and to determine whether baculum length was associated with body-weight category, age, neuter status or mixed-breed status. Lateral radiographs from 62 dogs were reviewed, and baculum length was measured on a single optimal projection. Mean&#x2009;&#xb1;&#x2009;SD baculum length increased from 68.4&#x2009;&#xb1;&#x2009;9.1&#xa0;mm in dogs&#x2009;<&#x2009;10&#xa0;kg to 105.9&#x2009;&#xb1;&#x2009;26.7&#xa0;mm in dogs 10-30&#xa0;kg and 131.2&#x2009;&#xb1;&#x2009;18.6&#xa0;mm in dogs&#x2009;>&#x2009;30&#xa0;kg (Kruskal-Wallis P&#x2009;<&#x2009;0.001). In multivariable ordinary least-squares linear regression, body-weight category remained strongly associated with baculum length after adjustment for age, neuter status and mixed-breed status (robust F(2,56)&#x2009;=&#x2009;67.65, P&#x2009;<&#x2009;0.001; adjusted R&#xb2; = 0.609). No evidence of association was detected for age, neuter status or mixed-breed status. These descriptive data may support radiographic interpretation of the canine baculum but should not be used as diagnostic thresholds.",
+      "categories": []
+    },
+    {
+      "pmid": "42590897",
+      "title": "EXPRESS: Renal Health in Cats with Feline Infectious Peritonitis treated with GS-441524: Baseline Findings and Longitudinal Effects.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "authors": "de Witt Curtius CC, Meli ML, Crespo Bouzon A, Wenk J, Stachowski JM, Cerchiaro I, Pineroli B, Unterer S, Felten S, Major A, Meunier SM, Howard J, Zwicklbauer K, Dorsch R, Hartmann K, Hofmann-Lehmann R, Spiri AMM",
+      "date": "2026 08 13",
+      "dateObject": "2026 08 13",
+      "abstract": "ObjectivesGS-441524 is effective against feline infectious peritonitis (FIP), but potential renal toxicity remains debated. Renal health was assessed in cats with FIP undergoing antiviral treatment.MethodsCats with confirmed FIP (n = 80) receiving oral GS-441524 for 42 days were assessed before (day 1; D1), during (D7, D42), and after treatment (D84, D183). Assessments included urine specific gravity (USG), urine protein:creatinine ratio (UPC), urinary cystatin B (uCysB), urine protein electrophoresis, serum creatinine, urea and symmetric dimethylarginine (SDMA).The term potential renal dysfunction was used for cats fulfilling the following criteria: creatinine >140 &#xb5;mol/l or SDMA &#x2265; 18 &#xb5;g/dl and USG <1.035. Serum amyloid A (SAA) and alpha-1-acid glycoprotein (AGP) were assessed in serum, feline coronavirus (FCoV) RNA in blood and urine (D1-D42).ResultsAt baseline, 97.5% of cats had creatinine concentrations <140 &#xb5;mol/l; by D183, 23.8% exceeded this threshold (D1-D183: PD <0.0001). Potential renal dysfunction criteria were met in 2.5% of cats at baseline and 8.8% at D183. In contrast, uCysB was increased in 83.8% of cats at D1 and declined during treatment (D1-D183: PD <0.0001). Cats with uCysB >100 ng/ml had higher UPC values (PMWU <0.0001). Most cats had elevated AGP and SAA at baseline, which normalised during treatment (D1-D42: PD <0.0001). Proteinuria (UPC >0.2) was present in 91.3% on D1 and 3.8% on D183; urine protein electrophoresis at D1 revealed predominantly tubular and mixed patterns. Urine was more frequently FCoV RNA-positive than blood on D1 (68.8%/61.3%), but not on D7 (16.3%/45.0%).Conclusions and relevanceTreatment reversed FIP-associated renal abnormalities and inflammation observed at baseline. A small subset of cats met criteria compatible with potential renal dysfunction during the study. Whether these findings reflect delayed FIP-related renal insults or adverse antiviral effects remains unknown but indicate that treatment should not be extended unnecessarily.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
     {
       "pmid": "42585566",
       "title": "Endoscopic reduction of true gastrogastric intussusception in a dog.",
@@ -99,16 +209,6 @@
       ]
     },
     {
-      "pmid": "42584747",
-      "title": "Radiographic reference values for canine baculum length: association with body-weight category in dogs aged at least 1 year.",
-      "journal": "Veterinary Research Communications",
-      "authors": "Fuertes-Recuero M, L&#xf3;pez-Cubillo L, Ortiz-D&#xed;ez G, Salg&#xfc;ero R",
-      "date": "2026 08 12",
-      "dateObject": "2026 08 12",
-      "abstract": "The canine baculum is routinely visible on abdominal and pelvic radiographs, yet radiographic reference data for its length are scarce. This retrospective single-centre study aimed to characterise radiographic baculum length in male dogs aged at least 1 year and to determine whether baculum length was associated with body-weight category, age, neuter status or mixed-breed status. Lateral radiographs from 62 dogs were reviewed, and baculum length was measured on a single optimal projection. Mean&#x2009;&#xb1;&#x2009;SD baculum length increased from 68.4&#x2009;&#xb1;&#x2009;9.1&#xa0;mm in dogs&#x2009;<&#x2009;10&#xa0;kg to 105.9&#x2009;&#xb1;&#x2009;26.7&#xa0;mm in dogs 10-30&#xa0;kg and 131.2&#x2009;&#xb1;&#x2009;18.6&#xa0;mm in dogs&#x2009;>&#x2009;30&#xa0;kg (Kruskal-Wallis P&#x2009;<&#x2009;0.001). In multivariable ordinary least-squares linear regression, body-weight category remained strongly associated with baculum length after adjustment for age, neuter status and mixed-breed status (robust F(2,56)&#x2009;=&#x2009;67.65, P&#x2009;<&#x2009;0.001; adjusted R&#xb2; = 0.609). No evidence of association was detected for age, neuter status or mixed-breed status. These descriptive data may support radiographic interpretation of the canine baculum but should not be used as diagnostic thresholds.",
-      "categories": []
-    },
-    {
       "pmid": "42581420",
       "title": "EXPRESS: Positional Impact on Ocular Lens and Thyroid Radiation Doses During Feline Cranial CT: A TLD Study of 70 Cases.",
       "journal": "Journal of Feline Medicine and Surgery",
@@ -131,17 +231,17 @@
       "categories": []
     },
     {
-      "pmid": "42583882",
-      "title": "Clinical Outcome and Histopathologic Assessment of Canine Perivulvar Mast Cell Tumours.",
+      "pmid": "42586801",
+      "title": "Expression of Topoisomerase II Alpha in Canine Colorectal Polyps, Adenomas and Adenocarcinomas.",
       "journal": "Veterinary and Comparative Oncology",
-      "authors": "Ahrens MR, Corner SM, Masyr A",
+      "authors": "Fiedorowicz J, Pa&#x17a;dzior-Czapula K, Ko&#x142;odziejski PA, Otrocka-Domaga&#x142;a I",
       "date": "2026 08 12",
       "dateObject": "2026 08 12",
-      "abstract": "Anatomic location is a known prognostic factor for canine mast cell tumours (MCTs). Previous publications have reported conflicting results about the clinical significance of MCT location in the inguinal and perineal regions and male genitalia. Hence, the goal of this study is to evaluate the grade, breed distribution and clinical outcome of canine perivulvar MCT. Surgical biopsy reports and associated medical records submitted between 2013 and 2024 to Michigan State University Veterinary Diagnostic Laboratory were retrospectively evaluated. Information regarding age, reproductive status, breed, tumour location, microscopic description, histopathologic grade, and survival was collected. Kaplan-Meier analysis was used to estimate median survival time (MST) with dogs lost to follow-up (LTF) or alive censored from analysis. Biopsy reports from 64 dogs with 68 perivulvar MCT were evaluated. The most common phylogenetic classification was Mastiff-Terrier (47%). The majority (97%) of evaluated MCT were cutaneous, with 85% categorised as Kiupel low grade, while the remaining 15% were high grade. Three of 19 tumours (16%) that had c-KIT PCR performed had mutations in either Exon 8 or Exon 11. KIT expression pattern was classified as Pattern 2 or 3 in 71% of evaluated tumours. Median Ki-67 proliferation index and Ki-67&#x2009;&#xd7;&#x2009;AgNOR scores were 7 and 13, respectively. MST for the entire population was 868&#x2009;days. Dogs LTF had a median follow-up time of 442&#x2009;days. Dogs with perivulvar MCT may achieve prolonged survival time with surgical excision, and prospective studies are warranted to determine the effect of adjuvant therapy on outcome.",
+      "abstract": "With the development and increased accessibility of diagnostic methods in veterinary medicine, the possibilities for early detection of proliferative lesions in the canine large intestine have expanded over the past decade. Since in human medicine, topoisomerase II alpha (Topo II&#x3b1;) is considered a prognostic and predictive marker in various tumours, including colorectal carcinoma, we aimed to verify the role of this enzyme in proliferative epithelial lesions of the canine large intestine. In this study, we examined and compared the expression of Topo II&#x3b1; in normal rectal mucosa, hyperplastic polyps, adenomas, and adenocarcinomas of the large intestine in dogs. Each type of lesion included 20 cases, in which the expression of Topo II&#x3b1; was evaluated using immunohistochemistry. The median percentage of Topo II&#x3b1; positive cells was 29.4% (IQR 24.9-37.1) in polyps, 30.3% (IQR 24.6-34.1) in adenomas, 36% (IQR 26.2-42.0) in adenocarcinomas, and 7.8% (IQR 5.9-10.6) in normal intestinal mucosa. Statistical analysis using the Kruskal-Wallis test followed by Dunn's post hoc tests with Bonferroni correction revealed significantly higher Topo II&#x3b1; expression in hyperplastic polyps (p&#x2009;=&#x2009;0.013, r&#x2009;=&#x2009;0.62), adenomas (p&#x2009;=&#x2009;0.033, r&#x2009;=&#x2009;0.57) and adenocarcinomas (p&#x2009;=&#x2009;0.002, r&#x2009;=&#x2009;0.73) compared with normal rectal mucosa, with large effect sizes. Our results may serve as a preliminary basis for the potential use of anthracyclines in the treatment of canine colorectal adenocarcinomas, as well as in multiple adenomas or polyps when surgical options are limited. This study presents new insights of Topo II&#x3b1; expression in canine large intestine carcinogenesis and could provide a valuable foundation for further clinical research.",
       "categories": [
+        "internalMedicine",
         "oncology",
-        "surgery",
-        "dermatology"
+        "surgery"
       ]
     },
     {
@@ -854,45 +954,6 @@
       ]
     },
     {
-      "pmid": "42553660",
-      "title": "Case Report: Spinal intramedullary fungal granuloma: clinical findings, surgery, and outcome in a dog.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Benito-Benito M, Elvira-Rodriguez T, Bovis MDM, Constantino-Casas F, Ives EJ",
-      "date": "2026 08 05",
-      "dateObject": "2026 08 05",
-      "abstract": "A 7-year-old male neutered Miniature Schnauzer was assessed due to an acute and progressive history of pelvic limb weakness and incoordination. At the examination, the dog was non-ambulatory paraparetic, the postural reaction were abscent in both pelvic limbs, with intact withdrawal and patellar reflexes and increased pelvic limb muscle tone, which lead into paraplegia with intact nociception in the follow 24&#x202f;h. A T3-L3 myelopathy was suspected, and an MRI of the thoracolumbar vertebral column was performed under general anaesthesia. An ill-defined, solitary, T2W hyperintense and strongly contrast enhancing intramedullary lesion was found, extending from the caudal endplate of T12 to the midbody of T13 and associated with severe spinal cord oedema and meningeal enhancement. A lumbar CSF analysis revealed a severe mononuclear pleocytosis (309 cells/&#x3bc;L) and markedly increased protein level; serology against Neospora caninum and Toxoplasma gondii was negative, and treatment with steroids for a suspected focal meningomyelitis of unknown origin was started. The patient deteriorated over the following days, becoming paraplegic with reduced nociception in the right pelvic limb. An exploratory surgery was carried out via T12-T13 right-sided hemilaminectomy, durotomy and myelotomy, and a well-defined, firm intramedullary mass was removed and sent for histopathology. The mass was consistent with an inflammatory pyogranuloma with intralesional fungal hyphae. Panfungal PCR was negative. Treatment with fluconazole was started, and a follow-up MRI was performed 6&#x202f;months after surgery. At this time the dog was ambulatory paraparetic and MRI revealed complete resolution of the previous mass. Repeat CSF analysis revealed a mild mononuclear pleocytosis (6 cells/&#x3bc;L) and a mild increase in protein. Fluconazole treatment was continued for another 12&#x202f;months; during all this time, the patient remained ambulatory with a mild paraparesis. The patient died for unrelated reasons 18&#x202f;months after surgery when under general anaesthesia for routine removal of a subcutaneous lipoma.",
-      "categories": [
-        "internalMedicine",
-        "surgery",
-        "neurology"
-      ]
-    },
-    {
-      "pmid": "42553562",
-      "title": "Shelter dogs and cats as a one health interface for phenotypic and genomic surveillance of antimicrobial-resistant Enterococcus Spp. in the United Arab Emirates.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Habib I, Mohteshamuddin K, Mohamed MI, Bhagya Lakshmi G, Antony A, Elbediwi M",
-      "date": "2026 08 05",
-      "dateObject": "2026 08 05",
-      "abstract": "Companion animal shelters represent underexplored settings for One Health antimicrobial resistance (AMR) surveillance. This study investigated the recovery, antimicrobial resistance, and genomic features of Enterococcus spp. from shelter dogs and cats in the United Arab Emirates (UAE). Rectal swabs were collected from 230 shelter animals, including 129 dogs and 101 cats, across five shelters in four UAE emirates/cities. Enterococcus isolates were recovered using selective culture and identified by MALDI-TOF MS. Confirmed Enterococcus faecalis and Enterococcus faecium isolates underwent antimicrobial susceptibility testing using Vitek-2. Multidrug-resistant (MDR) and linezolid-resistant isolates were subjected to whole-genome sequencing (WGS) for multilocus sequence typing, resistome analysis, single-nucleotide polymorphism-based phylogeny, phenotype-genotype concordance assessment, and virulence-associated gene profiling. Enterococcus spp. were recovered from 122/230 animals (53.0%; 95% confidence interval: 46.6-59.4), with higher recovery in dogs (71.3% (92/129)) than cats (29.7% (30/101)). Overall, E. faecalis accounted for 63/122 isolates (51.6%) and E. faecium for 59/122 isolates (48.4%). Phenotypic resistance was most frequent for tetracycline (51.6%), erythromycin (30.3%), ciprofloxacin (27.2%), high-level streptomycin (20.5%), and high-level gentamicin (9.8%). All isolates were susceptible to ampicillin, vancomycin, teicoplanin, and tigecycline. MDR was detected in 25/122 isolates (20.5%) and was more frequent among E. faecalis than E. faecium . Linezolid resistance was detected in two isolates recovered from two dogs, one male and one female, housed in the same shelter. WGS of 25 MDR or linezolid-resistant isolates revealed diverse sequence types, including dominant E. faecalis ST16, shelter-associated SNP clusters, and multiple resistance determinants, including erm(B), tet(L), tet(M) , aminoglycoside resistance genes, quinolone resistance-associated mutations, and plasmid-predicted optrA in three E. faecalis isolates. Virulence-associated genes were more prominent in E. faecalis , particularly the endocarditis- and biofilm-associated pilus genes involved in adhesion and biofilm formation, together with a putative exoenzyme-associated factor potentially contributing to host interaction and bacterial fitness. Shelter dogs and cats in the UAE carried E. faecalis and E. faecium with phenotypic AMR, MDR profiles, and diverse genomic resistance determinants. The detection of linezolid resistance and plasmid-predicted optrA supports inclusion of shelter companion animals in regional One Health AMR surveillance.",
-      "categories": [
-        "cardiology",
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42553078",
-      "title": "Management practices and continuing education in the treatment of canine idiopathic epilepsy among Indian primary care veterinarians.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Srinath AT, Mu&#xf1;ana KR, Deshmukh P, Caddiell R, Gruen ME, Lewis MJ",
-      "date": "2026 08 05",
-      "dateObject": "2026 08 05",
-      "abstract": "In India and countries without veterinary neurologists, dogs with idiopathic epilepsy (IE) are managed by primary care veterinarians. Data are lacking on their practice patterns. Describe management of canine IE among Indian primary care veterinarians and explore the impact of access to educational materials about epilepsy. Prospective, two-phased, survey-based study of Indian veterinarians focused on treatment and monitoring of canine IE and perceived confidence in management recommendations (1/not comfortable to 5/very comfortable). Participants who agreed to Phase II received concise guidelines about IE with a follow-up survey distributed after 6&#x202f;months. Descriptive statistics summarized management trends and compared confidence scores between surveys. 187 veterinarians participated in Phase I and of these, 36 participated in Phase II. Phenobarbital was the most common anti-seizure drug prescribed, chosen mostly due to efficacy. Most respondents (118/187; 63%) recommended routine lab work and (84/187; 45%) recommended measuring phenobarbital or potassium bromide blood concentration every 6-12&#x202f;months; (61/187; 33%) reported not measuring blood concentrations routinely. Long-term management of IE and adverse effects of medications were rated as most challenging. Nearly half of Phase II respondents (17/36; 47%) ranked the educational materials as extremely beneficial. Mean self-reported comfort level was 3.3 (SD 0.97) and 3.69 (SD 0.89) for Phase I and II, respectively; most (20/36; 56%) reported no change between surveys. Challenges for Indian veterinarians in the chronic management of canine IE related to anti-seizure drug monitoring and adverse effects. Exploratory Phase II findings identified positive reception to educational support from specialists.",
-      "categories": [
-        "neurology"
-      ]
-    },
-    {
       "pmid": "42554915",
       "title": "Tracing feline herpesvirus-1 exposure in domestic cats from Namibia: associations with neutralising antibodies, vaccination, clinical signs, and retroviral status.",
       "journal": "Veterinary Research Communications",
@@ -1149,31 +1210,6 @@
       "abstract": "To estimate the prevalence of 17 clinically relevant thoracic radiographic findings in dogs and quantify interobserver variability among veterinary radiologists, with the hypothesis that findings would vary widely in prevalence while maintaining high interobserver agreement. 4,000 lateral thoracic radiographic examinations created between May and December 2023 were randomly selected from IDEXX Telemedicine Consultants' electronic medical records. After exclusion, 2,761 examinations were ultimately evaluated for 17 preselected conditions by 5 board-certified veterinary radiologists, subsequently reduced to 3 to expedite the study. Prevalence for each condition was estimated using a latent class expectation-maximization approach. 2,761 studies were ultimately evaluated for 17 conditions by a total of 12 radiologists (1,367 studies evaluated in triplicate, and 1,394 studies evaluated in quintuplicate); the most prevalent conditions were abnormal pulmonary pattern (60.9%) and redundant tracheal membrane (29.4%). The least prevalent were heart base mass (0.5%) and esophageal foreign body (0.3%). Interobserver agreement was generally high for radiographically distinct conditions, such as esophageal foreign body, heart base mass, and pneumothorax, as each achieved an area under the receiver-operating characteristic curve of 1.00, with a modest decrease for subjective or morphologically ambiguous conditions, such as suspected tracheal chondromalacia (0.76) and cranial mediastinal widening as a breed variant/fat deposition (0.78). Thoracic radiographic findings in dogs vary substantially in prevalence, with pulmonary abnormalities being the most common. Interobserver agreement is condition dependent, with the greatest variability among subjectively assessed findings. Prevalence estimates and agreement profiles provide a framework for clinical benchmarking and highlight categories where standardized criteria may improve consistency.",
       "categories": [
         "cardiology"
-      ]
-    },
-    {
-      "pmid": "42114562",
-      "title": "Fusion podoplasty provides favorable long-term outcomes in dogs with interdigital follicular cysts unresponsive to medical therapy: a retrospective study of 16 cases.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Bezombes R, Poncet C, Bernard F, Videmont-Drevon E, Dumartinet C",
-      "date": "2026 07 31",
-      "dateObject": "2026 07 31",
-      "abstract": "To evaluate clinical outcomes and postoperative complications associated with fusion podoplasty in dogs with chronic interdigital follicular cysts (CIFCs) unresponsive to multimodal medical management. In this retrospective observational study, medical records from 2 referral hospitals were reviewed to identify dogs that underwent fusion podoplasty from 2005 through 2025. Included dogs were diagnosed with CIFCs presumed secondary to mechanical friction or trauma and refractory to medical management. Dogs with other causes of interdigital dermatitis were excluded. Data included signalment, clinical history, dermatologic findings, surgical procedures, and postoperative management. Partial fusion podoplasty (PFP) or total fusion podoplasty (TFP) was performed. Outcomes included time to wound healing, postoperative outcome classification, and complications categorized as minor or major. Eleven dogs met the inclusion criteria, with a median follow-up of 16 months. Total fusion podoplasty was performed on 9 paws and PFP on 7. All paws healed, with a median healing time of 28 days. Twenty complications occurred in 9 dogs, 18 minor and 2 major; partial incisional dehiscence was the most common (7 of 20). No wound complications occurred in the 5 TFP procedures in which a Penrose drain was placed. Long-term outcomes were excellent in 8 dogs, acceptable in 1, and poor in 2. Fusion podoplasty resulted in satisfactory long-term outcomes in most dogs with medically refractory CIFCs, with TFP associated with fewer postoperative complications than PFP. Fusion podoplasty represents a valuable salvage option for dogs with refractory CIFCs and may be particularly beneficial when TFP is combined with passive drainage.",
-      "categories": [
-        "surgery",
-        "dermatology"
-      ]
-    },
-    {
-      "pmid": "42114560",
-      "title": "Skin structures associated with percutaneous drug penetration differ by body site in Beagles.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Takeo F, Murayama N, Kamiie J, Orito K",
-      "date": "2026 07 31",
-      "dateObject": "2026 07 31",
-      "abstract": "To characterize differences among body sites in skin morphological features of Beagles that may influence percutaneous drug penetration. This exploratory study was conducted from November 2024 through March 2025 with 6 Beagles. Skin samples were collected from 3 body sites-the dorsum, lateral trunk, and ventral abdomen. Skin samples were collected under sedation with local anesthesia. Epidermal thickness, the number of stratum corneum (SC) layers, and dermal vessel density were evaluated histologically. Follicular ostia density was evaluated using dermoscopic images. Data are presented as mean values with 95% CIs. Epidermal thickness showed only small differences among body sites. The number of SC layers also showed small differences (maximum mean difference, approx 0.3 layers). In contrast, follicular ostia density showed large differences among body sites and was highest in the dorsum, intermediate in the lateral trunk, and lowest in the ventral abdomen. Dermal vessel density showed moderate differences, with higher values in the ventral abdomen than in the dorsum and lateral trunk. In Beagles, epidermal thickness and the number of SC layers are relatively uniform across body sites, whereas follicular ostia density and dermal vessel density show clear differences among body sites. These findings suggest that skin structural factors other than epidermal thickness and the number of SC layers may influence percutaneous drug penetration; however, this remains a hypothesis and requires further study.",
-      "categories": [
-        "dermatology"
       ]
     },
     {
@@ -1599,26 +1635,6 @@
       "categories": [
         "neurology"
       ]
-    },
-    {
-      "pmid": "42410596",
-      "title": "Correction: Descriptive comparative morphology of the eye and ocular adnexa in Felidae: observations from a clouded leopard (Neofelis nebulosa), African lion (Panthera leo), and Pallas's cat (Otocolobus manul).",
-      "journal": "BMC Veterinary Research",
-      "authors": "Kle&#x107;kowska-Nawrot J, Badenhorst S, Borawski W, Go&#x17a;dziewska-Har&#x142;ajczuk K, Akta&#x15f; A, Chr&#xf3;szcz A",
-      "date": "2026 07 26",
-      "dateObject": "2026 07 26",
-      "abstract": "",
-      "categories": []
-    },
-    {
-      "pmid": "42365334",
-      "title": "Correction: Feasibility and usefulness of inhospital and at-home salivary sampling in healthy dogs and trilostane-treated dogs with Cushing's syndrome: a prospective observational study.",
-      "journal": "BMC Veterinary Research",
-      "authors": "Meunier SM, Voegel CD, Neubert E, Harburger LA, Riond B, Hofmann-Lehmann R, Boretti FS, Sieber-Ruckstuhl NS",
-      "date": "2026 07 26",
-      "dateObject": "2026 07 26",
-      "abstract": "",
-      "categories": []
     },
     {
       "pmid": "42501363",
@@ -2128,16 +2144,6 @@
       ]
     },
     {
-      "pmid": "41861462",
-      "title": "Comparable application metrics but poor clinical acceptability of thermoplastic and premade splints applied by novice bandagers in a canine hock cadaver model.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Rothering AA, Aertsens A, Gordon-Evans WJ",
-      "date": "2026 07 20",
-      "dateObject": "2026 07 20",
-      "abstract": "To compare the utility of premade plastic versus thermoplastic splints when applied by novice practitioners. 15 bandagers used 2 types of premade splint materials to place hock splints on cadavers. Each participant was instructed to place 2 hind limb splints on a canine cadaver using a premade plastic splint on one side and thermoplastic splint on the other side. The time to place each splint was self-recorded. Participants filled out a questionnaire after splint placement. A single surgeon judged the splints with a qualitative scoring system, which was used to determine whether splints were clinically acceptable. The mean &#xb1; SD time it took to place the splints was 9.4 &#xb1; 2.1 minutes for premade splints and 12.0 &#xb1; 2.3 minutes for thermoplastic splints. Seven participants (47%) preferred the premade splints and 8 (53%) preferred the thermoplastic splints. The premade splint was scored as superior in 10 of 15 cadavers (67%), the thermoplastic splint was scored as superior in 4 of 15 cadavers (27%), and both were equal in 1 cadaver (10%). Four of the 15 premade splints (26%) and 3 of the 15 thermoplastic splints (20%) were deemed clinically acceptable. Premade and thermoplastic splints were comparable to each other for novices, but there was a low number of clinically acceptable splints. Splint types had similar utility for use in practice, but overall splint placement skill needs improvement.",
-      "categories": []
-    },
-    {
       "pmid": "42474547",
       "title": "High prevalence of Giardia spp. in cats without diarrhea and agreement between diagnostic techniques in the municipality of Londrina, Paran&#xe1;, Brazil.",
       "journal": "Veterinary Research Communications",
@@ -2399,19 +2405,6 @@
       "dateObject": "2026 07 14",
       "abstract": "ObjectivesTo evaluate the efficacy of two different formulations of glucagon given by three different routes (subcutaneous; SQ, rectal, intranasal; IN) for correcting insulin-induced hypoglycaemia in cats and to describe any adverse effects and compare the time required for administration by each route.MethodsA randomized, nonblinded, sham-controlled crossover study was conducted in six healthy cats, with a 7-day washout period between treatments. Hypoglycemia was induced using a continuous rate infusion (CRI) of rapid-acting Lispro insulin. Glucagon nasal powder (single-dose, ready-to-use) was given intranasally and rectally and compared to subcutaneous glucagon injection and intranasal sham control. Blood glucose concentration (BG) was measured from samples collected at baseline (T-15), after induction of hypoglycemia (T0), and at 5-minute intervals for 30 minutes (min), and then at 15 min intervals for 1 hour (h) following glucagon administration. Plasma glucagon and potassium (K+) concentrations were measured at T-15, T0, and T15 and T30 following glucagon administration. The time taken to prepare and administer each treatment was recorded.ResultsMedian BG was 2.6 mmol/L at T0 and increased significantly following glucagon administration by all routes, reaching peak median concentrations of 11.2 mmol/L (intranasal), 9.7 mmol/L (rectal), and 10.15 mmol/L (subcutaneous). Plasma glucagon concentrations increased markedly by T15, with the highest concentrations observed following intranasal administration (1562 pmol/L), followed by subcutaneous (191.7 pmol/L) and rectal (158 pmol/L) routes of administration. Plasma potassium decreased following insulin administration and increased modestly by T30 following glucagon administration by all routes. No serious adverse effects occurred following glucagon administration.Conclusions and Clinical ImportanceTransmucosal glucagon effectively restores BG towards baseline following insulin-induced hypoglycemia with minimal side effects. The IN route resulted in the highest plasma glucagon and BG concentrations compared to the rectal and subcutaneous routes of administration. Further studies are needed to quantify the efficacy and safety of transmucosal glucagon in diabetic cats in response to spontaneous insulin-induced hypoglycemia.",
       "categories": []
-    },
-    {
-      "pmid": "42129643",
-      "title": "Clinical and virological effects of the integrase inhibitor raltegravir in cats with naturally progressive feline leukaemia virus infection.",
-      "journal": "Journal of Feline Medicine and Surgery",
-      "authors": "Morais de Almeida P, Belas A, Martins J, Picado R, Meneses A, Tavares de Oliveira J, Viegas C",
-      "date": "2026 07 14",
-      "dateObject": "2026 07 14",
-      "abstract": "ObjectivesFeline leukaemia virus (FeLV) infection - particularly the progressive course - continues to cause substantial morbidity and reduced survival in cats. Therapeutic options with proven antiviral effectiveness remain limited. This study aimed to evaluate the clinical and virological effects of the integrase inhibitor raltegravir in naturally infected, FeLV-progressive cats with FeLV-related conditions, clinical outcome, viraemia, proviral burden and survival.MethodsIn total, 14 client-owned cats with confirmed progressive FeLV infection and at least one FeLV-related condition were enrolled. Raltegravir was administered for 90 days, followed by a 90-day treatment-free observation period. Clinical evaluation and quantification of viral RNA and proviral DNA loads were performed at treatment initiation, day 45, day 90 and day 180. Cats continued to receive standard of care as clinically indicated. Survival data were recorded until study closure.ResultsAfter 45 days of treatment, plasma viral RNA load showed a non-significant mean reduction of 1.34 log 10 ( P &#x2009;=&#x2009;0.204). At day 90, mean viral load continued to decrease, with reductions of 1.10 log 10 at 40&#x2009;mg ( P &#x2009;=&#x2009;0.208) and 1.39 log 10 at 80&#x2009;mg ( P &#x2009;=&#x2009;0.195), none of which reached statistical significance. Raltegravir did not exert a consistent effect on proviral DNA load. Most FeLV-related conditions remained clinically stable or improved during the 180-day monitoring period. Leukaemia and lymphoma were the main causes of death. Median survival time was 48 months from FeLV diagnosis and 10.8 months from treatment initiation.Conclusions and relevanceTo the authors' knowledge, this is the first prospective longitudinal study in naturally infected, FeLV-progressive cats with FeLV-related conditions assessing the effects of raltegravir on viraemia, proviral load and clinical outcomes. These real-world data suggest that raltegravir may be associated with numerical reductions in viraemia and clinical stabilisation in some cats. A definitive virological or survival benefit, however, could not be demonstrated. Longer term controlled studies - potentially within multimodal antiviral strategies - are warranted to further define its therapeutic role.",
-      "categories": [
-        "internalMedicine",
-        "oncology"
-      ]
     },
     {
       "pmid": "42136007",

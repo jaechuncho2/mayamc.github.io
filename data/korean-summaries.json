@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T23:29:23.542Z",
+  "updated_at": "2026-08-13T23:27:30.321Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -3271,6 +3271,62 @@
       "title": "Endoscopic reduction of true gastrogastric intussusception in a dog.",
       "journal": "Journal of Veterinary Internal Medicine",
       "generated_at": "2026-08-12T23:24:33.660Z",
+      "model": "gpt-5-mini"
+    },
+    "42586801": {
+      "brief_summary": "본 연구는 개 대장(직장) 상피 증식성 병변에서 Topoisomerase II alpha(Topo IIα) 발현을 조사하기 위해 정상 점막, 과형성 폴립, 선종(adenoma), 선암(adenocarcinoma)을 비교한 면역조직화학 연구이다. 각 군은 20례씩으로 Topo IIα 양성 세포 비율의 중앙값은 폴립 29.4%(IQR 24.9-37.1), 선종 30.3%(IQR 24.6-34.1), 선암 36.0%(IQR 26.2-42.0), 정상 점막 7.8%(IQR 5.9-10.6)로 정상보다 유의하게 높았다. 저자들은 이 결과가 수술적 처치가 제한된 경우나 다발성 선종·폴립, 그리고 개 대장 선암의 치료에서 안트라사이클린(anthracyclines) 사용 가능성에 대한 예비 근거가 될 수 있음을 제시했다.",
+      "detailed_summary": "본 연구는 면역조직화학법으로 Topo IIα 발현을 정상 직장 점막, 과형성 폴립, 선종, 선암 각 20례씩 총 80례를 대상으로 비교한 횡단적 관찰 연구이다. 각 병변에서 Topo IIα 양성 세포의 중앙값은 폴립 29.4%(IQR 24.9-37.1), 선종 30.3%(IQR 24.6-34.1), 선암 36.0%(IQR 26.2-42.0), 정상 점막 7.8%(IQR 5.9-10.6)로 보고되었다. Kruskal–Wallis 검정 및 Dunn 사후검정(본페로니 보정) 결과 과형성 폴립(p=0.013, r=0.62), 선종(p=0.033, r=0.57), 선암(p=0.002, r=0.73)에서 정상 점막보다 Topo IIα 발현이 유의하게 높았고 효과 크기도 컸다. 연구진은 이러한 발현 양상이 개 대장 암화과정에서의 Topo IIα 관여를 시사할 수 있으며, 임상적으로 안트라사이클린 계열 약물의 적용 가능성에 대한 예비 근거가 될 수 있다고 결론지었다. 다만 본 연구는 면역조직화학적 단면 분석에 기반한 관찰 연구로, 인과관계나 치료적 유효성은 본 연구만으로 증명되지 않으며 추가적인 임상 연구가 필요하다고 제시하고 있다.",
+      "title": "Expression of Topoisomerase II Alpha in Canine Colorectal Polyps, Adenomas and Adenocarcinomas.",
+      "journal": "Veterinary and Comparative Oncology",
+      "generated_at": "2026-08-13T23:27:30.314Z",
+      "model": "gpt-5-mini"
+    },
+    "42590792": {
+      "brief_summary": "본 증거개념 연구는 임상 컴퓨터단층촬영(CT) 및 자기공명영상(MRI) 데이터를 이용해 디지털 아나토미 3D 프린팅으로 환자 맞춤형 개 두부 팬텀을 제작·평가하고자 했다. 뇌 교모세포종(glioma)으로 진단된 한 마리의 임상 영상을 바탕으로 CT·MRI 최적화형과 CT 전용형 등 2종의 팬텀을 제작하였고, 해부학적 치수와 영상 특성(CT 감쇠·MRI 신호)을 원영상과 비교한 결과 해부학적 충실도는 우수했으나 프린팅 재료의 CT 헌스필드 단위(HU) 및 MRI 신호에서는 측정 가능한 차이가 있었다. 이 방법은 신경외과 수술 계획과 특히 두개 내 경로 계획(예: 뇌생검) 교육용 모델로서 실용적 가능성을 제시한다.",
+      "detailed_summary": "이 실험적 증거개념 연구는 임상 CT 및 MRI 데이터를 이용해 환자 맞춤형 개 두부 팬텀을 제작하는 워크플로를 개발·검증했다. 연구 대상은 뇌 교모세포종으로 진단된 한 마리의 과거 임상 CT·MRI 영상이었고, 영상 분할, CAD 모델링, 재료 할당, PolyJet 기반 디지털 아나토미 3D 프린팅 및 후처리를 거쳐 다중재료 팬텀을 제작했다. 제작된 팬텀은 CT 및 MRI로 재촬영되었고, 미리 정한 두개 내 경로를 따라 해부학적 치수 정확도와 영상 현실도를 원영상과 비교 평가했다. 결과적으로 2종의 환자 맞춤형 팬텀이 성공적으로 제작되었고, CT 감쇠 및 MRI 신호 특성은 정성적으로 환자 조직과 일치하는 양상을 보였다. 정량 평가에서는 선택된 경로를 따라 원환자의 해부학적 구조와의 치수 편차가 최소로 나타났으나, 프린팅 재료의 CT HU 값과 MRI 신호 특성에서는 측정 가능한 차이가 확인되었다. 결론적으로 다중재료 3D 프린팅을 이용한 스트림라인된 워크플로가 확립되었고, 이러한 팬텀은 수의 신경외과 수술 계획 및 교육, 특히 뇌생검 등 경로 계획에 유용한 모델을 제공할 가능성이 있으나 본 연구는 단일 환자 영상에 대한 증거개념 연구라는 한계가 있다.",
+      "title": "Computed tomography- and magnetic resonance imaging-visible, patient-specific canine head phantom via 3-dimensional anatomy printing for neurosurgical training and biopsy planning: a proof of concept.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-08-13T23:26:22.853Z",
+      "model": "gpt-5-mini"
+    },
+    "42590796": {
+      "brief_summary": "건강한 내원개 6마리를 대상으로 트라넥사민산(TXA, 20 mg/kg)의 근육주사(IM)와 정맥주사(IV) 약동학을 무작위 교차설계로 비교한 연구이다. IM 투여는 최고혈중농도(Cmax)가 IV의 약 39%로 낮았으나 전체 노출(AUC)은 유사하거나 더 높아(IM AUC 173.8 ± 25.0 μg/mL·h, IV AUC 143.3 ± 10.5 μg/mL·h) 생체이용률이 120.9 ± 10.0%로 보고되었다. 임상적으로 IM 투여는 최고농도 도달이 늦고(평균 Tmax 1.6 ± 1.4 h) 즉각적 개입이 필요한 상황에는 제한적이지만, 정맥 접근이 지연되는 경우 응급 전 처치로 실용적 이점이 있을 수 있으며 임상 적용 전 추가 용법 연구가 필요하다.",
+      "detailed_summary": "연구는 건강한 내원개 6마리를 대상으로 6주 세척기간을 둔 무작위 교차설계로 TXA 20 mg/kg을 IM과 IV로 각각 투여하였다. 혈중 시료는 베이스라인부터 투여 후 8시간까지 채취했으며 TXA 농도는 LC-MS-MS로 측정했다. IM 투여의 평균 Cmax는 46.8 ± 26.6 μg/mL, AUC는 173.8 ± 25.0 μg/mL·h, Tmax는 1.6 ± 1.4시간, 반감기(t1/2)는 2.8 ± 2.1시간, 생체이용률은 120.9 ± 10.0%였다. IV 투여의 Cmax는 119.8 ± 17.6 μg/mL, AUC는 143.3 ± 10.5 μg/mL·h, t1/2는 2.1 ± 1.8시간으로 보고되었다. IM은 IV에 비해 Cmax가 낮고 흡수가 느려 t1/2가 약 33% 길었으나 총 노출(AUC)은 비슷하거나 더 높아 전신 흡수는 유사함을 시사한다. 결론적으로 IM TXA는 즉각적 고농도 도달이 필요한 상황에는 제한적이나 정맥로 확보가 지연되는 경우 임시 처치로 활용 가능성이 있으며, 임상 적용 전 IM 용량·투여법에 대한 추가 연구가 필요하다는 제한을 명시하고 있다.",
+      "title": "Intramuscular tranexamic acid results in lower peak plasma concentrations but comparable systemic absorption to intravenous administration in healthy dogs.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-08-13T23:25:56.027Z",
+      "model": "gpt-5-mini"
+    },
+    "42590798": {
+      "brief_summary": "전십자인대(cranial cruciate ligament, CCL) 파열로 치료받은 개의 의무기록을 후향적으로 검토하여, 수정된 Insall-Salvati(IS) 지수로 측정한 슬개골 높이와 내측 반월상 연골 파열의 관련성을 평가했다. 229개 슬관절 중 수정된 IS 지수 이상 소견은 12.6% (29/229)였고, 이상 소견군에서 내측 반월상 연골 파열 발생률은 44.8%로 정상군의 24.5%보다 높아 이상 소견이 있는 개는 내측 반월상 연골 파열의 발생 오즈가 약 3배(OR 3.0; 95% CI 1.2–7.3)였다. 결론적으로 수술 전 수정된 IS 지수 측정은 내측 반월상 연골 파열 위험이 높은 개를 식별하는 데 도움이 되어 수술 계획 및 보호자 설명에 유용할 수 있다.",
+      "detailed_summary": "연구는 CCL 파열(CCLT)로 치료된 개들의 의무기록을 검토한 후향적 연구로, 총 229개 슬관절을 포함했다. 수술 전 매개변수로는 측측(mediolateral) 방사선 사진에서 수정된 Insall-Salvati(IS) 지수를 이용해 슬개골 높이를 측정했고, 내측 반월상 연골 파열 여부는 craniomedial stifle mini-arthrotomy로 확인했다. 결과는 수정된 IS 지수 이상이 12.6% (29/229)였고, 이들 중 44.8% (13/29)가 내측 반월상 연골 파열을 동반했다. 정상 IS 지수군(87.4%[200/229])에서는 내측 반월상 연골 파열 비율이 24.5% (49/200)였다. 통계적으로 수정된 IS 지수 이상은 정상군에 비해 내측 반월상 연골 파열의 오즈가 3배 높았으며(OR 3.0; 95% CI 1.2–7.3), 완전 파열과 부분 파열의 분포는 두 그룹 간 유의한 차이가 없었다. 초록에는 별도의 연구 제한점이 구체적으로 제시되어 있지 않으며, 저자들은 수술 전 수정된 IS 지수 측정이 추가적 위험 평가와 수술 계획·보호자 상담에 도움이 될 수 있다고 결론지었다.",
+      "title": "Abnormal modified Insall-Salvati index values are associated with increased odds of medial meniscal tears in dogs with cranial cruciate ligament tears.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-08-13T23:26:37.774Z",
+      "model": "gpt-5-mini"
+    },
+    "42590897": {
+      "brief_summary": "확진된 고양이 FIP(feline infectious peritonitis) 환자 80마리를 대상으로 경구 GS-441524를 42일간 투여하며 신장 건강을 전후로 추적한 연구이다. 치료 중·후에 요성분·염증지표(uCysB, UPC, SAA, AGP 등)가 호전되어 FIP 관련 신장 이상과 전신 염증은 회복되는 경향을 보였다. 다만 D183 시점에 전체의 23.8%가 혈청 크레아티닌 >140 µmol/L를 보였고, 잠재적 신기능장애 기준에 맞는 비율은 D1의 2.5%에서 D183의 8.8%로 증가해 일부에서 신장 이상이 남거나 새로 발생했다. 이 소견이 지연된 FIP 관련 손상인지 약물의 독성인지 확실치 않아 불필요한 치료 연장은 권하지 않는다는 임상적 시사점이 제시되었다.",
+      "detailed_summary": "전향적으로 확진된 FIP 고양이 80마명을 대상으로 D1(기준), D7, D42(치료 중), D84, D183(치료 후) 시점에 USG(요비중), UPC(요 단백:크레아티닌), uCysB(요성분 시스타틴 B), 요 단백 전기영동, 혈청 크레아티닌·요소·SDMA, 혈청 SAA·AGP 및 혈액·요 중 FCoV RNA를 측정했다. 기저에는 97.5%가 크레아티닌 <140 µmol/L였으나 D183에는 23.8%가 이 기준을 초과했으며(기간 전체 변화 PD <0.0001), 잠재적 신기능장애 기준을 충족한 비율은 D1의 2.5%에서 D183의 8.8%로 증가했다. 반면 유리적 표지는 uCysB가 D1에 83.8%에서 증가되어 있던 것이 치료 중 감소했고(D1–D183 PD <0.0001), UPC>0.2의 단백뇨는 D1에서 91.3%였으나 D183에는 3.8%로 크게 줄었다. 초기 요 단백 전기영동에서는 주로 세뇨관성(tubular) 또는 혼합형 패턴이 관찰되었고, 혈청 AGP와 SAA는 대부분에서 D1에 상승했으나 D42까지 정상화되는 경향을 보였다(D1–D42 PD <0.0001). FCoV RNA는 D1에서 요에서 68.8%, 혈액에서 61.3%로 요에서 더 자주 검출되었으나 D7에는 요 16.3% 대 혈액 45.0%로 변화했다. 결론적으로 GS-441524 치료는 FIP 관련 신장 이상 및 염증 표지를 개선했으나 소수에서 잠재적 신기능장애 기준에 부합하는 변화가 관찰되어 그 원인이 지연된 FIP 손상인지 항바이러스제의 부작용인지는 불명이며, 불필요한 치료 연장은 피할 것을 권고한다.",
+      "title": "EXPRESS: Renal Health in Cats with Feline Infectious Peritonitis treated with GS-441524: Baseline Findings and Longitudinal Effects.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "generated_at": "2026-08-13T23:27:18.184Z",
+      "model": "gpt-5-mini"
+    },
+    "42591100": {
+      "brief_summary": "본 연구는 급성 황화수소(H2S) 노출이 쥐 비장에서 유발하는 병리와 Xuebijing(XBJ)의 치료 가능성을 평가했다. 실험적으로 쥐를 300 ppm H2S에 3시간 노출시킨 결과 비장 비대, 조직 파괴, 미토콘드리아 팽윤과 산화적 스트레스(GSH·SOD·CAT 감소, MDA 증가)가 관찰되었고, NF-κB/NLRP3/caspase-1 축이 활성화되며 pyroptosis 표지자(GSDMD-N)와 IL-1β·IL-18가 증가했다. XBJ(4 mg/kg, i.p., 7일 전처치)는 NF-κB 인산화·인플라마좀 조립·caspase-1 활성화를 억제하고 이러한 병변과 염증표지자 상승을 완화했다는 보고로, 급성 H2S 중독에 대한 기전 기반 치료 후보로 제시된다.",
+      "detailed_summary": "연구 설계는 성체 쥐를 대상으로 300 ppm H2S에 3시간 노출시키고, 일부 군에 대해 Xuebijing(XBJ)을 4 mg/kg (복강주사)로 7일간 전처치한 실험이다. 비장 손상 평가는 조직병리, 초미세구조, 산화스트레스 지표(글루타치온 GSH, superoxide dismutase SOD, catalase CAT, 말론디알데하이드 MDA), 면역형광 및 면역블롯을 통해 이루어졌다. H2S 단독 노출은 비장 계수 증가, 조직구조 파괴, 미토콘드리아 팽윤 및 GSH·SOD·CAT 감소와 MDA 증가 등 산화적 손상을 유발했다. 분자기전에서는 NF-κB/NLRP3/caspase-1 경로가 활성화되어 NLRP3, ASC, 절단된(cleaved) caspase-1, GSDMD-N 발현과 IL-1β 및 IL-18 농도가 상승했다. XBJ 전처치는 NF-κB 인산화 억제, 인플라마좀 조립 및 pyroptotic 세포사로 이어지는 표지자들의 상승을 억제하여 조직 및 분자 수준의 변화를 역전시켰다. 초록에는 표본수나 장기적 결과 등 연구의 제한점이 구체적으로 명시되어 있지 않으며, 제시는 쥐 모델에서의 기전·치료 가능성으로 임상적 적용 전 추가 연구가 필요함을 시사한다.",
+      "title": "Xuebijing alleviates acute hydrogen sulfide-induced pyroptosis in rat spleen via suppression of the caspase-1/NLRP3 pathway.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-08-13T23:27:03.204Z",
+      "model": "gpt-5-mini"
+    },
+    "42591120": {
+      "brief_summary": "루마니아 한 수의대의 재학생 200명과 교직원 99명을 대상으로 동물매개지원프로그램(AASP)에 대한 인식과 태도, 도입 선호를 조사한 횡단적 설문연구다. 응답자들은 개에 대한 태도가 전반적으로 긍정적이었고 AASP가 스트레스 감소·정신건강 지원·교육환경 개선에 도움이 될 것이라고 인정하면서도 해당 프로그램에 대한 직접적 경험은 제한적이었다. 학생의 20.5%가 진단된 정신건강 질환을 보고했으며, 여성 응답자가 더 우호적이고 위험 인식은 낮은 것으로 나타나 수의대 학생 복지 차원의 AASP 도입 타당성을 시사한다.",
+      "detailed_summary": "연구는 루마니아 한 수의대의 학생 200명과 교직원 99명을 대상으로 횡단적 설문조사를 시행했으며, 구조화된 설문은 인구학적 특성, 개에 대한 태도, AASP 인지도 및 정신건강 관련 자기보고 변수를 포함했다. 그룹 및 성별 차이는 카이제곱 검정과 피셔 정확 검정을 이용해 분석했다. 전반적으로 응답자들은 개에 대해 긍정적 태도를 보였고 AASP의 도입을 강하게 수용하였으며, 많은 이들이 스트레스 감소·정신건강 지원·교육환경 개선의 잠재적 이점을 인식했다. 동시에 대부분이 해당 프로그램에 대한 직접 경험은 적었고, 학생 중 20.5%가 진단된 정신건강 상태를 보고해 학생 복지의 필요성을 부각했다. 성별 차이가 관찰되어 여성 응답자가 대체로 더 우호적이고 위험 인식은 낮았다. 응답자들은 구조화된 AASP 도입과 관련 훈련 제공에 대한 높은 참여 의사와 지지를 보였으나 불안 유발 가능성과 물류적 제약을 우려하는 목소리도 있었다. 연구는 수의대 고등교육 환경에서 학생 복지 목적의 AASP 도입을 추가로 검토할 만하다고 결론짓고 있으며, 단면 조사이며 특정 한 학부 집단을 대상으로 한 점은 해석 시 고려해야 할 제한점이다.",
+      "title": "Perceptions of dogs and animal-assisted support programs among veterinary students and teaching staff in Romania.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-08-13T23:26:54.702Z",
       "model": "gpt-5-mini"
     }
   }
