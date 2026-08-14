@@ -1,6 +1,81 @@
 {
-  "updated_at": "2026-08-13T23:25:43.728Z",
+  "updated_at": "2026-08-14T21:58:29.743Z",
   "papers": [
+    {
+      "pmid": "42598273",
+      "title": "Physiological predictors of hematological tier outcomes in canine platelet-rich plasma: a prospective observational study.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Colomer-Selva R, Tvarijonaviciute A, Franco-Mart&#xed;nez L, Martins E, Mena-Moros B, Descalzo-Navarro M, Hern&#xe1;ndez-Guerra &#xc1;, Satu&#xe9; K",
+      "date": "2026 08 14",
+      "dateObject": "2026 08 14",
+      "abstract": "Platelet-rich plasma (PRP) exhibits substantial inter-individual variability, yet the physiological factors influencing its composition remain poorly defined. Most studies evaluate PRP as a homogeneous product, potentially masking associations between donor-related characteristics and platelet parameters. This study aimed to determine how key physiological factors influence whole blood (WB) and PRP indices and to assess their relationship with platelet enrichment. Ninety-seven client-owned dogs were categorized according to sex, age, body condition score (BCS), fertility status, and activity level. PRP samples were stratified according to platelet enrichment (Q1&#x202f;<&#x202f;1.5&#xd7;, Q2 1.5-2.5&#xd7;, Q3&#x202f;>&#x202f;2.5&#xd7;), which served as a descriptive framework for characterizing PRP heterogeneity. WB and PRP indices were analyzed using univariate methods and multivariable models, including linear regression to identify predictors of platelet enrichment and ordinal logistic regression as a complementary approach. Physiological factors were associated with variability in platelet morphological and compositional indices. Among the variables evaluated, BCS was the only physiological factor consistently associated with platelet enrichment across multivariable analyses. Higher BCS was associated with increased platelet enrichment and a higher probability of belonging to higher hematological enrichment tiers. Age was negatively associated with platelet enrichment in the multivariable linear regression model, but this association was not retained in the ordinal regression analysis. In contrast, sex, fertility status, and activity level showed no independent associations with platelet enrichment after adjustment for potential confounders. Correlation analyses revealed strong clustering among concentration-related indices [platelet count (PLT), plateletcrit (PCT), and large platelets (LARGEPLT)] and a consistent internal organization of platelet parameters within both WB and PRP. These findings indicate that platelet enrichment is primarily determined by preparation-related factors, whereas physiological factors contribute mainly to inter-individual variability in platelet structural characteristics. Among the physiological factors evaluated, BCS appeared to be the most relevant source of biological variability in platelet enrichment. Platelet enrichment and platelet structural phenotype therefore represent related but distinct dimensions of PRP characterization. Future studies incorporating functional and biochemical markers are needed to determine the biological significance of the structural variability described here.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42597317",
+      "title": "CT-based optimization of hindlimb muscle measurement levels and development of a hindlimb muscle condition score in dogs.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Yun S, Hong S, Lee Y, Lee K, Choi S, Noh D",
+      "date": "2026 08 14",
+      "dateObject": "2026 08 14",
+      "abstract": "Objective assessment of hindlimb skeletal muscles in dogs remains challenging in small animal practice. This study aimed to use computed tomography (CT) to characterize hindlimb muscle distribution, identify optimal measurement levels, and evaluate the clinical applicability of a palpation-based hindlimb muscle condition score (hMCS) system. This prospective observational study included 39 dogs (76 hindlimbs) enrolled according to the predefined inclusion criteria. CT was used to measure the muscle cross-sectional area (CSA) and calculate the muscle ratio (muscle CSA/total CSA) at the three femoral levels. For the tibia, the location of the maximal gastrocnemius muscle CSA was identified, and measurements were performed at that level. Associations with clinical variables [weight, age, sex, body condition score (BCS), hMCS] were analyzed, and the interobserver reliability of the hMCS was evaluated. Muscle CSA and muscle ratio differed significantly among the femoral levels, with the highest values at the mid-femoral level. In the tibia, the maximal CSA of the gastrocnemius muscle was consistently located in the proximal region. Body weight was positively associated with muscle CSA across all levels, whereas age and BCS were negatively associated with the muscle ratio at most levels. The hMCS showed excellent interobserver reliability and significant associations with CT-derived muscle measurements. The mid-femoral level appears to be a representative site for evaluating femoral muscle mass in dogs, whereas the proximal tibial level provides a practical approach for assessing the crus musculature. Muscle CSA primarily reflects body size, whereas muscle ratio more sensitively reflects compositional changes. The hMCS may serve as a practical complementary tool for hindlimb muscle assessment in dogs.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42599030",
+      "title": "EXPRESS: MYOCARDIAL INJURY IN CATS WITH ACUTE BLUNT TRAUMA: PREVALENCE AND PROGNOSTIC IMPLICATIONS.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "authors": "Dossi G, Mismetti M, Carnevale L, Borromeo V, Pocar P, Locatelli C",
+      "date": "2026 08 14",
+      "dateObject": "2026 08 14",
+      "abstract": "ObjectivesTo determine the prevalence of increased serum high-sensitivity cardiac troponin I (hs-cTnI) concentrations in cats with acute blunt trauma and assess associations with trauma severity, clinicopathological variables, echocardiographic findings, and short-term outcome.MethodsThirty-nine cats presenting within 48 hours of blunt trauma were prospectively enrolled. All cats underwent physical examination, Animal Trauma Triage scoring, thoracic radiography, electrocardiography, echocardiography, complete blood count, serum biochemistry, NTproBNP testing, and hs-cTnI measurement. Associations between hs-cTnI concentrations and clinical, laboratory, echocardiographic, and outcome variables were assessed. Receiver operating characteristic (ROC) analysis was performed as an exploratory assessment of prognostic performance.ResultsIncreased hs-cTnI concentrations were detected in 34/39 cats (87%; 95% CI 72-96%). A significant ordinal association was identified between trauma severity and hs-cTnI class (linear-by-linear association, p=0.036), although the overall Fisher-Freeman-Halton test was not significant (p=0.088). Hs-cTnI concentrations correlated positively with urea, creatinine, neutrophil count, ALT, NLR, blood glucose, IVSd, and LVPWd, and negatively with LVIDd. Increased left ventricular wall thickness was identified in 10/39 cats and was associated with higher hs-cTnI concentrations (p=0.033). No traumatic cardiac rupture, pericardial effusion, or pleural effusion were observed. Electrocardiographic abnormalities were detected in 6/39 cats and were not associated with hs-cTnI concentrations. Seven cats (18%) died during hospitalization. Increased urea concentration , white blood cell count, and neutrophil count were associated with non-survival. ROC analyses were considered exploratory because of the limited number of outcome events.Conclusions and relevanceIncreased hs-cTnI concentrations were common in cats with acute blunt trauma and were associated with leukocyte variables, renal function markers, and subtle echocardiographic abnormalities. These findings suggest that hs-cTnI may reflect a multifactorial biological response involving myocardial stress or injury, systemic disease severity, altered renal handling, and possible underlying subclinical cardiac disease. Further studies are needed to clarify the relative contribution and clinical significance of these mechanisms.",
+      "categories": [
+        "cardiology",
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42597589",
+      "title": "Bronchoscopic cryotherapy for biopsy and debulking of tracheal myxosarcoma in a cat.",
+      "journal": "JFMS Open Reports",
+      "authors": "Chang WT, Williams K, Chang YS, O'Brien RT, Hsieh OF, Lin CK, Lin CH",
+      "date": "2026 08 14",
+      "dateObject": "2026 08 14",
+      "abstract": "A 10-year-old, castrated male domestic shorthair cat presented with stertor and severe respiratory distress caused by intratracheal masses occluding the majority of the tracheal lumen. Conventional endoscopic forceps biopsy yielded small tissue fragments, which were insufficient for a definitive histopathological diagnosis. Given the perceived high risk of tracheal resection and anastomosis, bronchoscopic cryotherapy with a 1.1&#x2009;mm, flexible cryoprobe was performed for cryobiopsy and cryo-debulking. The masses occluded 80-90% of the lumen and were completely removed with cryotherapy, with immediate clinical improvement and decreased airway resistance (279 to 31&#x2009;cmH 2 O/l/s). Haemorrhage was mild and controllable, and recovery was uneventful. Histopathology revealed tracheal myxosarcoma, a neoplasm not previously described in the feline trachea. The cat remained free of clinical signs for 7 weeks, after which clinical signs recurred, with radiographic evidence of regrowth. Pulmonary function testing suggested no substantial ventilatory compromise compared with preoperative findings; therefore, continued observation was chosen given the early recurrence. Three months after the initial intervention, bronchoscopy was repeated owing to gradually worsening clinical signs and confirmed tumour regrowth occluding approximately 50% of the lumen. A second cryotherapy session again achieved complete debulking and rapid resolution of signs. This report documents the first described tracheal myxosarcoma in a cat and demonstrates that bronchoscopic cryobiopsy can overcome the limitations of forceps biopsy while providing concurrent, airway-sparing palliative debulking. Bronchoscopic cryotherapy could serve as a feasible, minimally invasive diagnostic and therapeutic intervention for intraluminal tracheal masses in cats. An endoscope-guided freezing tool to diagnose and reduce a tracheal tumour and ease breathing in a cat Tracheal tumours are uncommon in cats, but they can narrow the airway and lead to severe breathing difficulty. Getting a clear diagnosis can also be challenging because standard biopsy forceps may collect only small or damaged tissue samples, which can limit what the laboratory can determine. This report describes a cat with a mass inside the trachea that was causing marked airway obstruction. Because open surgery on the trachea can carry substantial risk, the clinical team used a minimally invasive approach. An endoscope (a thin tube with a light) was used to directly view the mass. A freezing tool was then applied to the lesion to remove larger, better preserved tissue samples for diagnosis. In the same session, the procedure was also used to reduce the size of the mass and reopen the airway. Breathing improved immediately after the procedure, and the cat recovered uneventfully. Testing of the tissue confirmed myxosarcoma, a malignant tumour not previously reported in the trachea of cats. The mass grew back in 7 weeks and clinical signs gradually returned. However, when the procedure was repeated after 3 months, it again reduced the obstruction and rapidly restored comfortable breathing. Overall, this case suggests that an endoscope-guided freezing tool may help clinicians both obtain a more reliable diagnosis and provide short-term breathing relief in cats with tracheal tumours when more invasive options are not feasible.",
+      "categories": [
+        "internalMedicine",
+        "oncology",
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42593949",
+      "title": "Sepsis in critically ill dogs: identification of clinical and laboratory risk factors and evaluation of sepsis scoring systems.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Castelain D, Pas ML, Skotarek M, Boyen F, Pardon B, Paepe D",
+      "date": "2026 08 13",
+      "dateObject": "2026 08 13",
+      "abstract": "Being a life-threatening syndrome, rapid detection of sepsis in critically ill dogs is mandatory. Determine risk factors associated with sepsis in critically ill dogs and evaluate diseases and scoring systems associated with sepsis or mortality. One hundred thirty critically ill dogs. Prospective single-center cohort study. Logistic regression and classification and regression tree (CART) analysis were performed to assess clinical and laboratory variables as risk factors for sepsis. Diagnostic and prognostic performance of available scoring systems was evaluated. Sepsis was confirmed in 29 of 130 critically ill dogs (22.3%), and 18 died, with a short-term mortality rate of 62.1%. Pneumonia (odds ratio [OR]&#xa0;=&#xa0;4.8; 95% confidence interval [CI]&#xa0;=&#xa0;1.8-13.1; P&#xa0;=&#xa0;.002) and acute kidney injury (AKI; OR&#xa0;=&#xa0;7.4; 95% CI&#xa0;=&#xa0;2.2-25.1; P&#xa0;=&#xa0;.001) were associated with sepsis. Multivariable logistic regression identified dyspnea (OR&#xa0;=&#xa0;6.5; 95% CI&#xa0;=&#xa0;1.6-26.0; P&#xa0;=&#xa0;.01), respiratory rate (&#x2265;38 per minute; OR&#xa0;=&#xa0;3.9; 95% CI&#xa0;=&#xa0;1.1-13.1; P&#xa0;=&#xa0;.03), and alanine aminotransferase activity (&#x2265;109.5&#xa0;U/L; OR&#xa0;=&#xa0;3.8; 95% CI&#xa0;=&#xa0;1.1-12.8; P&#xa0;=&#xa0;.03) as risk factors for sepsis. When combined, these factors yielded a sensitivity of 35.0% and specificity of 92.8%. The CART analysis identified body weight, tachypnea, hypotension, hyperchloremia, hyperlactatemia, and hyponatremia as risk factors for sepsis (sensitivity, 58.6%; specificity, 97.0%). The APPLE FAST score (OR&#xa0;=&#xa0;2.9; 95% CI&#xa0;=&#xa0;1.2-7.1; P&#xa0;=&#xa0;.02) was associated with sepsis. The APPLE FAST score (OR&#xa0;=&#xa0;3.2; 95% CI&#xa0;=&#xa0;1.4-7.2; P&#xa0;=&#xa0;.01) was the strongest predictor of mortality. Pneumonia and AKI were associated with sepsis. Identified risk factors may guide veterinarians in the rapid recognition of sepsis. The APPLE FAST score was associated with sepsis and mortality and may support diagnostic and therapeutic decision-making for critically ill dogs with sepsis.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42594946",
+      "title": "Targeted quantitative polymerase chain reaction-based bacterial and fecal metabolite markers show early stability in healthy puppies after 8 weeks of age.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Birk D, Weidinger AK, Schmidt T, Bachmann S, Spring I, Felten S, Meunier SM, Blake AB, Suchodolski JS, Unterer S",
+      "date": "2026 08 13",
+      "dateObject": "2026 08 13",
+      "abstract": "To assess longitudinal stability of targeted quantitative PCR (qPCR)-based fecal microbial and metabolomic markers in healthy puppies from 8 weeks to 1 year of age. This prospective longitudinal cohort study was conducted at the Clinic for Small Animal Internal Medicine, Vetsuisse Faculty, University of Zurich, Switzerland, from August 2023 to January 2025. Clinically healthy client-owned puppies were sampled at 8 to 12 weeks, 16 weeks, 6 months, and 1 year. Eligible dogs had no gastrointestinal signs, no previous systemic antibiotics, and negative parasitology. Primary outcomes were the qPCR-based dysbiosis index, selected qPCR-targeted bacterial taxa, fecal bile acids, long-chain fatty acids, and sterols, quantified by mass spectrometry. Mixed-effects models assessed time point associations. 23 dogs contributed 62 fecal samples. Dysbiosis index values and most targeted bacterial taxa remained within reference intervals, with no significant longitudinal changes. Bacteroides spp abundance was lower at 8 to12 weeks than at 6 months (difference, -0.73 logDNA copies/g feces; 95% CI, -1.40 to -0.06; Tukey-adjusted P = .028). Secondary unconjugated bile acids dominated at all ages. The concentration of 12-oxo-lithocholic acid was lower at 16 weeks than at 1 year (ratio, 0.33; 95% CI, 0.14 to 0.79; Tukey-adjusted P = .007) but not after multiple-testing adjustment. Long-chain fatty acid and sterol profiles showed no age-related changes. The qPCR-based dysbiosis index and targeted microbial and metabolomic markers were largely stable from 8 weeks to 1 year, supporting early functional maturation of measured markers. These findings establish age-specific baseline information for fecal bacterial and metabolite markers, supporting interpretation in young dogs with gastrointestinal disease.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
     {
       "pmid": "42590796",
       "title": "Intramuscular tranexamic acid results in lower peak plasma concentrations but comparable systemic absorption to intravenous administration in healthy dogs.",
@@ -88,6 +163,18 @@
       "dateObject": "2026 08 13",
       "abstract": "",
       "categories": []
+    },
+    {
+      "pmid": "42593707",
+      "title": "Combined effects of dietary ellagic acid and Bacillus coagulans on growth performance, antioxidant and immune responses, intestinal health, and resistance to Streptococcus agalactiae in striped catfish.",
+      "journal": "Veterinary Research Communications",
+      "authors": "Radwan M, Moussa MA, Al-Megrin WAI, Al Malki JS, Alharbi FS, El-Sharkawy MA",
+      "date": "2026 08 13",
+      "dateObject": "2026 08 13",
+      "abstract": "This study evaluated the individual and combined effects of dietary ellagic acid (EA) and Bacillus coagulans (BC) on growth performance, physiological status, intestinal health, and resistance to Streptococcus agalactiae in striped catfish (Pangasianodon hypophthalmus). Juvenile fish were assigned to four dietary treatments for 60 days, with four replicate hapas per treatment: a basal diet (control), EA at 100&#xa0;mg kg&#x207b;&#xb9; diet, BC at 2.0&#xa0;g kg&#x207b;&#xb9; diet (nominally 5.0&#x2009;&#xd7;&#x2009;10&#x2076; colony-forming units [CFU] g&#x207b;&#xb9; diet), or the combined EA&#x2009;+&#x2009;BC diet. Dietary EA and/or BC improved growth and feed utilization, increased intestinal amylase, lipase, and protease activities, and favorably altered whole-body composition, with the greatest overall responses generally recorded in the EA&#x2009;+&#x2009;BC group (P&#x2009;<&#x2009;0.05). Supplemented fish also showed higher erythrocyte, hemoglobin, and leukocyte values; increased serum protein fractions; enhanced hepatic antioxidant enzyme activities; and higher lysozyme activity, total circulating immunoglobulin M (IgM), and phagocytic responses. Serum aminotransferase activities, uric acid, total cholesterol, and hepatic malondialdehyde were reduced. Culture-based analyses showed higher presumptive counts of lactic acid bacteria and lower total culturable aerobic bacterial counts. Antioxidant-related transcripts (SOD, CAT, and GPx) were upregulated in the liver, whereas splenic TLR1 was upregulated and TNF-&#x3b1; and IL-1&#x3b2; were downregulated. Following the S. agalactiae challenge, descriptive cumulative mortality was about 87%, 31%, 21%, and 12% in the control, EA, BC, and EA&#x2009;+&#x2009;BC groups, respectively. Two-way ANOVA demonstrated substantial main effects of both additives and significant EA &#xd7; BC interactions for selected indices. Generally, the combined diet produced the most consistent improvements across growth, physiological, intestinal, antioxidant, immune, and disease-resistance indicators.",
+      "categories": [
+        "internalMedicine"
+      ]
     },
     {
       "pmid": "42584747",
@@ -863,31 +950,6 @@
       ]
     },
     {
-      "pmid": "42558436",
-      "title": "Effect of fluorescence biomodulation as an adjunct to standard wound management in open wounds in dogs and cats: a prospective, randomised, within-wound controlled clinical trial.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Jim&#xe9;nez L&#xe1;zaro M, Sopena Juncosa J, Martins EJC, Colombino E, Oliver Guimer&#xe1; A, Peraile Pa&#xf1;os V, Mangas Amezqueta L, Rubio Zaragoza M",
-      "date": "2026 08 06",
-      "dateObject": "2026 08 06",
-      "abstract": "Open wounds are a common clinical problem in small animal practice and are associated with delayed healing, infection, and increased treatment burden. Fluorescence biomodulation (FB), a form of photobiomodulation therapy (PBMT), has shown benefits in several dermatological conditions; however, its efficacy in veterinary open wounds remains unclear. To evaluate the effect of FB as an adjunct to standardised wound management on healing progression in open wounds in dogs and cats using a prospective, randomised, within-wound controlled clinical trial. Fifteen client-owned dogs and cats with open wounds of various aetiologies were enrolled. Each wound was divided into two portions: one treated weekly with FB and one untreated control, both receiving standardised wound care based on the TIME framework. Quantitative wound area reduction was assessed by serial planimetric measurements. Qualitative healing parameters were scored weekly by two blinded observers, and semiquantitative histological and immunohistochemical evaluation was performed in surgically treated cases. Paired statistical analyses were used. A time-integrated analysis based on the area under the curve (AUC) of normalised wound area was performed to assess healing kinetics. No statistically significant differences were observed between treated and control portions for percentage wound area reduction, qualitative healing scores, or semiquantitative histological and immunohistochemical outcomes. Quantitative planimetry showed a heterogeneous response, with seven wounds favouring the treated portion, six favouring the control portion, and two showing equivalent outcomes. Exploratory post hoc time-integrated analyses suggested a trend toward earlier wound area reduction in some cases, particularly when treatment was initiated early; however, these findings were not statistically significant. Complete wound closure during follow-up did not differ significantly between portions. Histological analysis showed only small numerical differences between portions, with no statistically significant differences in collagen deposition, angiogenesis, inflammatory response, fibroblast proliferation, or CD31 and Ki67 expression. Under the conditions tested, FB did not demonstrate a consistent measurable advantage over standardised wound management in open wounds in dogs and cats. Any potential clinical benefit appeared modest and possibly limited to selected wound presentations. Further prospectively stratified studies focused on healing speed and readiness for closure are warranted.",
-      "categories": [
-        "internalMedicine",
-        "dermatology"
-      ]
-    },
-    {
-      "pmid": "42558402",
-      "title": "Taurine in canine physiology and metabolic regulation.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Wang P, Yang M, Yang Y, Xiu F, Liu C, Zhou S",
-      "date": "2026 08 06",
-      "dateObject": "2026 08 06",
-      "abstract": "Taurine is a conditionally essential amino acid in dogs and plays a fundamental role in maintaining physiological homeostasis and metabolic health. This review systematically summarizes the biosynthesis, tissue distribution, and core physiological functions of taurine in dogs, and provides an in-depth analysis of its regulatory mechanisms across multiple organ systems, including the myocardium, retina, nervous system, reproductive system, and lipid metabolism. Particular emphasis is placed on the mechanistic links between taurine deficiency and dilated cardiomyopathy, a prevalent and clinically significant cardiac disorder in dogs. In addition, major determinants influencing taurine metabolic homeostasis are examined, with particular attention to genetic variability among breeds, differences related to body size, changes across physiological stages, and the modulatory effects of dietary composition. Accumulating evidence indicates substantial inter-individual variability in endogenous taurine synthesis capacity in dogs, which is generally insufficient to meet dynamic physiological demands under various conditions. Consequently, exogenous dietary supplementation has emerged as a critical strategy for maintaining taurine homeostasis and supporting canine health. By integrating current advances in taurine-related canine nutrition and physiology, this review provides a scientific framework for the development of precision nutritional strategies, the prevention and management of metabolic disorders, and the formulation of functional dog foods, while highlighting key knowledge gaps and future research directions in this field.",
-      "categories": [
-        "cardiology"
-      ]
-    },
-    {
       "pmid": "42337613",
       "title": "Exploratory analysis of risk factors associated with antimicrobial resistance in urinary Escherichia coli from dogs in the United States (2018-2024).",
       "journal": "BMC Veterinary Research",
@@ -1199,18 +1261,6 @@
       "dateObject": "2026 07 31",
       "abstract": "To describe the demographics of dog owners and dogs with pet insurance enrolled in the Dog Aging Project (DAP), a large population of dogs in the US, and examine the impact of pet insurance on owners' perception of their dog's health. In this cross-sectional study, 47,444 dog owners' responses from the DAP initial enrollment survey, the Health and Life Experience Survey, were analyzed from January 1, 2020, through December 31, 2023. Dog and dog owner demographic data were collected and compared using descriptive statistics. Owner-perceived health status of their dog was compared between insured and uninsured dogs using a &#x3c7;2 test of significance. 10,127 of 47,444 DAP participants (21%) have a pet insurance policy. Insured dog owners were 25 to 44 years old, non-White, and professional degree earners compared to the overall DAP population. Insured dogs were young, single-breed dogs obtained from breeders for purposes other than companionship compared to the overall DAP population. Five thousand, five hundred and fourteen of 10,127 insured dogs (54%) and 17,979 of 37,317 uninsured dogs (48%) are perceived to be in excellent health, a statistically significant difference. This study illustrates that certain demographic factors are more common among insured dogs and dog owners. The health status of dogs with pet insurance is statistically different compared to those without it. Further investigation of this association is warranted. This information can inform veterinary discussions with pet owners about pet insurance.",
       "categories": []
-    },
-    {
-      "pmid": "42140264",
-      "title": "Study identifies prevalence estimates of clinically relevant canine thoracic radiographic findings and insights into interobserver variability.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Baumruck R, Tagudar J, Doyle P, Durgempudi P, Cortner CN, Schestopol B, Hossl AK, Coulter C, Ruth JD, Nagy J, De Haan CE, Fields E, Uerling M, Savage M, Szlosek D",
-      "date": "2026 07 31",
-      "dateObject": "2026 07 31",
-      "abstract": "To estimate the prevalence of 17 clinically relevant thoracic radiographic findings in dogs and quantify interobserver variability among veterinary radiologists, with the hypothesis that findings would vary widely in prevalence while maintaining high interobserver agreement. 4,000 lateral thoracic radiographic examinations created between May and December 2023 were randomly selected from IDEXX Telemedicine Consultants' electronic medical records. After exclusion, 2,761 examinations were ultimately evaluated for 17 preselected conditions by 5 board-certified veterinary radiologists, subsequently reduced to 3 to expedite the study. Prevalence for each condition was estimated using a latent class expectation-maximization approach. 2,761 studies were ultimately evaluated for 17 conditions by a total of 12 radiologists (1,367 studies evaluated in triplicate, and 1,394 studies evaluated in quintuplicate); the most prevalent conditions were abnormal pulmonary pattern (60.9%) and redundant tracheal membrane (29.4%). The least prevalent were heart base mass (0.5%) and esophageal foreign body (0.3%). Interobserver agreement was generally high for radiographically distinct conditions, such as esophageal foreign body, heart base mass, and pneumothorax, as each achieved an area under the receiver-operating characteristic curve of 1.00, with a modest decrease for subjective or morphologically ambiguous conditions, such as suspected tracheal chondromalacia (0.76) and cranial mediastinal widening as a breed variant/fat deposition (0.78). Thoracic radiographic findings in dogs vary substantially in prevalence, with pulmonary abnormalities being the most common. Interobserver agreement is condition dependent, with the greatest variability among subjectively assessed findings. Prevalence estimates and agreement profiles provide a framework for clinical benchmarking and highlight categories where standardized criteria may improve consistency.",
-      "categories": [
-        "cardiology"
-      ]
     },
     {
       "pmid": "42536135",
@@ -1899,19 +1949,6 @@
       ]
     },
     {
-      "pmid": "42485624",
-      "title": "Prevalence of incidental and causative otitis in 380 client-owned dogs undergoing brain magnetic resonance imaging for signs of vestibular and non-vestibular disease.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Durr BJ, Taylor AR, Werre S",
-      "date": "2026 07 22",
-      "dateObject": "2026 07 22",
-      "abstract": "Middle ear abnormalities are frequently observed in brachycephalic dogs due to their anatomical variation, and the prevalence of these abnormalities may be influenced by modern breed popularity. We hypothesized that 10% of dogs with signs of neurologic disease will have incidental otitis media (OM) and that brachycephalic breeds will have a higher occurrence of OM. Three hundred eighty client-owned dogs that underwent magnetic resonance imaging (MRI) of the head for any signs of neurologic disease. Retrospective, single-institution study. Prevalence of any kind of otitis and association with dog clinical signs were analyzed using standard multinomial formulas and Fisher's exact test. Signalment variables with P-values less than .1 but with no zero counts on bivariable analysis were included in a multivariable logistic regression model. Statistical significance was set to P&#xa0;<&#xa0;.05. Of the dogs in this study, 60 (15.7%) had otitis of any kind. Among these, 15 (3.9%) were diagnosed with otitis of any kind as the primary cause of their clinical signs, all of which were affected by OM and all but one had otitis interna (OI). Forty-five (45/380, 11.8%) were classified with incidental otitis of any kind. The most common form of otitis was OM in 54 dogs (54/380, 14.2%). French Bulldogs were the most common breed reported (32/380, 8.4%) and 18 (56%) had evidence of 1 or more types of otitis: 5 causative and 13 incidental. Otitis media is commonly an incidental finding in dogs undergoing MRI of the head, especially in brachycephalic breeds. French Bulldogs are more frequently affected. These findings can help guide diagnostic and treatment approaches for dogs with neurologic disease.",
-      "categories": [
-        "neurology",
-        "dermatology"
-      ]
-    },
-    {
       "pmid": "42485503",
       "title": "Targeting the Gut-Brain Axis: Pharmacological Modulation of the Microbiome for Neurological and Behavioural Disorders in Companion Animals.",
       "journal": "Veterinary Medicine and Science",
@@ -1947,19 +1984,6 @@
       "categories": [
         "internalMedicine",
         "oncology"
-      ]
-    },
-    {
-      "pmid": "42168827",
-      "title": "Effect of intraoperative positioning on anesthetic variables in cats undergoing a perineal urethrostomy.",
-      "journal": "Journal of Feline Medicine and Surgery",
-      "authors": "Ruffin C, Schmiedt C, Dantino S, Wallace ML, Grimes JA, Sutherland B",
-      "date": "2026 07 22",
-      "dateObject": "2026 07 22",
-      "abstract": "ObjectivesCats undergoing perineal urethrostomy (PU) often have acute kidney injury (AKI). Minimizing additional kidney injury during anesthesia is critical to prevent exacerbation of AKI. The impact of surgical positioning for PU on anesthetic variables is unknown. This study evaluated pre-, intra- and postoperative variables in cats undergoing PU in sternal (SR) or dorsal recumbency (DR). We hypothesized that there would not be a significant difference in anesthetic complications and postoperative serum creatinine (SCr) concentrations in cats positioned in SR compared with those positioned in DR.MethodsMedical records of 97 client-owned cats undergoing PU in SR (n&#x2009;=&#x2009;55) or DR (n&#x2009;=&#x2009;42) were retrospectively reviewed. Cats undergoing procedures in addition to PU were excluded. Data collection included signalment, number of preoperative obstructive episodes, pre- and postoperative SCr, surgical and anesthetic duration, drugs in the anesthetic regimen, and presence and duration of intraoperative hypotension, hypertension, bradycardia, tachycardia, hypoventilation and hypothermia. Data were compared using Mann-Whitney U or Fisher's exact tests.ResultsA significant difference was detected in the number of preoperative obstructive episodes in cats undergoing PU in SR compared with DR (SR median episodes 2 [range 0-5], DR median episodes 2 [range 1-6]; P &#x2009;=&#x2009;0.0074). No other differences were identified in preoperative or intraoperative variables. Postoperative SCr and change from preoperative SCr did not differ between groups.Conclusions and relevanceAnalysis of these data demonstrate no measurable differences in anesthetic parameters or postoperative outcomes in cats undergoing PU in SR or DR. The statistical difference between groups relative to preoperative obstructive episodes does not appear to be clinically relevant. Thus, we accept our hypothesis and conclude that SR or DR positioning should not be a consideration in establishing an optimized anesthetic experience for cats with urethral obstruction-associated AKI. Surgeon preference should continue to be the driving force on positioning for a PU in cats.",
-      "categories": [
-        "internalMedicine",
-        "surgery"
       ]
     },
     {
@@ -2557,16 +2581,6 @@
       ]
     },
     {
-      "pmid": "42429896",
-      "title": "Idebenone reduces oxidative stress and differentially improves chromatin integrity in dog and cat epididymal spermatozoa after slow freezing and vitrification.",
-      "journal": "Veterinary Research Communications",
-      "authors": "Duma M, Ram&#xf3;n-Barrera C, Sanmart&#xed;n-Ordo&#xf1;ez G, Berm&#xfa;dez G, Galarza L, Soria ME, Galarza DA",
-      "date": "2026 07 10",
-      "dateObject": "2026 07 10",
-      "abstract": "Idebenone (IDB), a synthetic analogue of coenzyme Q10, has been proposed as a promising antioxidant in sperm cryopreservation because of its potential to reduce oxidative damage. This study investigated the effects of IDB on dog and cat epididymal spermatozoa cryopreserved by slow-freezing (SF) or vitrification (VIT) on kinematics parameters, membrane integrity, oxidative stress, and chromatin integrity. Epididymal sperm samples from twenty dogs (n&#x2009;=&#x2009;40) and eleven cats (n&#x2009;=&#x2009;22) were recovered by retrograde flushing and slicing-washing, respectively. Four treatments were established according to cryopreservation method and IDB supplementation (0 [control] or 10 &#xb5;M): SF-Control, SF&#x2009;+&#x2009;IDB, VIT-Control, and VIT&#x2009;+&#x2009;IDB. Samples subjected to SF were supplemented with 5% glycerol and frozen in static liquid nitrogen (LN&#x2082;) vapor, whereas those subjected to VIT were supplemented with 250 mM sucrose and 1% BSA, and directly plunged into LN&#x2082;. IDB supplementation did not improve sperm kinematics or membrane integrity in either species (P&#x2009;>&#x2009;0.05). In dog sperm, both SF&#x2009;+&#x2009;IDB and VIT&#x2009;+&#x2009;IDB showed lower oxidative stress and greater chromatin integrity than SF-Control and VIT-Control, respectively (P&#x2009;<&#x2009;0.05). In cat sperm, VIT&#x2009;+&#x2009;IDB showed higher post-warming beat-cross frequency than VIT-Control (P&#x2009;<&#x2009;0.05). In addition, both SF&#x2009;+&#x2009;IDB and VIT&#x2009;+&#x2009;IDB showed lower oxidative stress than their respective controls (P&#x2009;<&#x2009;0.05). However, improved chromatin integrity in cats was only observed in the SF&#x2009;+&#x2009;IDB treatment compared with SF-Control (P&#x2009;<&#x2009;0.05). In conclusion, idebenone reduced oxidative stress in dog and cat epididymal spermatozoa, while improved chromatin integrity was observed in dogs after both cryopreservation methods and in cats only after slow freezing.",
-      "categories": []
-    },
-    {
       "pmid": "42429301",
       "title": "Standardising Assessment of Superficial Pyoderma in Dogs: Proposal of a Severity Score.",
       "journal": "Veterinary Dermatology",
@@ -3132,19 +3146,6 @@
       "categories": [
         "oncology",
         "surgery"
-      ]
-    },
-    {
-      "pmid": "42211181",
-      "title": "Reversible congestive heart failure associated with diabetes mellitus in two cats.",
-      "journal": "JFMS Open Reports",
-      "authors": "Cho J, Cho SW, Kim Y, Lee EG, Choi M, Kim MS, Park C",
-      "date": "2026 05 29",
-      "dateObject": "2026 05 29",
-      "abstract": "This report describes two cats diagnosed with diabetes mellitus who developed clinical signs consistent with congestive heart failure (CHF). Clinical and echocardiographic findings improved over time with stabilisation and optimisation of glycaemic management. Both cats presented with dyspnoea, hypotension and hypothermia. Thoracic radiographs demonstrated diffuse pulmonary infiltrates. Pleural effusion was identified in one case. Echocardiography revealed left ventricular thickening with left atrial enlargement. Laboratory abnormalities included hyperglycaemia, elevated fructosamine and increased N-terminal pro B-type natriuretic peptide (NT-proBNP) concentrations. After CHF therapy and insulin administration, both cats showed rapid clinical improvement, with NT-proBNP concentrations decreasing into the reference interval and improvement in echocardiographic parameters within weeks. One cat later again showed an increase in myocardial thickness and experienced recurrence of CHF during a period of poor glycaemic control, with subsequent improvement after intensified glycaemic management. To the authors' knowledge, this is the first report describing cats diagnosed with diabetes mellitus who developed CHF accompanied by increased left ventricular wall thickness and left atrial enlargement on echocardiography, with subsequent improvement after clinical stabilisation and glycaemic management. These cases suggest a potential association between metabolic dysregulation and the occurrence of CHF in cats. Two cats with diabetes developed reversible heart failure This report describes two cats with diabetes mellitus who developed signs of heart failure, including breathing difficulties and fluid accumulation in the lungs or chest. Heart scans showed thickening of the heart muscle and enlargement of the left atrium. After treatment for heart failure and careful control of blood glucose levels with insulin, both cats improved quickly. Their breathing returned to normal, and heart abnormalities became less severe over time. Blood markers associated with heart disease also returned to normal levels. In one cat, heart failure returned when blood glucose was not well controlled but improved again after treatment was restarted. These findings suggest that poor control of diabetes may affect heart function in cats and, in some cases, lead to heart failure. Importantly, this type of heart problem may be reversible with appropriate treatment. Early recognition and proper management of diabetes may help prevent or reduce heart complications in affected cats.",
-      "categories": [
-        "cardiology",
-        "internalMedicine"
       ]
     },
     {

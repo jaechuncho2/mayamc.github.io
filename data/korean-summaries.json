@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T23:27:30.321Z",
+  "updated_at": "2026-08-14T22:01:13.436Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -3327,6 +3327,62 @@
       "title": "Perceptions of dogs and animal-assisted support programs among veterinary students and teaching staff in Romania.",
       "journal": "Frontiers in Veterinary Science",
       "generated_at": "2026-08-13T23:26:54.702Z",
+      "model": "gpt-5-mini"
+    },
+    "42593707": {
+      "brief_summary": "본 연구는 줄무늬 메기(Pangasianodon hypophthalmus) 유어를 대상으로 식이에 엘라직산(ellagic acid, EA, 100 mg·kg⁻¹ 식이)과 Bacillus coagulans(BC, 2.0 g·kg⁻¹ 식이, 명목상 5.0×10^6 CFU·g⁻¹ 식이)를 단독 및 병용 첨가하여 60일간 성장, 생리·항산화·면역 반응, 장 건강 및 Streptococcus agalactiae에 대한 저항성을 평가했다. EA와 BC는 성장 및 사료 이용률, 장 효소 활성(아밀라아제·지질분해효소·단백분해효소), 항산화 효소 및 면역 지표(리소자임, 총 IgM, 식세포 반응 등)를 개선했고, 특히 EA+BC 병용군에서 가장 일관된 향상이 관찰되었다. S. agalactiae 도전 후 누적 사망률은 대조군 약 87%, EA 31%, BC 21%, EA+BC 12%로 병용 처방이 가장 높은 보호 효과를 보였다. 두 요인의 주효과와 일부 지표에 대해 EA×BC 상호작용이 통계적으로 유의했다(초록 기재).",
+      "detailed_summary": "연구 설계는 네 가지 식이 처치(대조, EA 100 mg·kg⁻¹, BC 2.0 g·kg⁻¹(명목상 5.0×10^6 CFU·g⁻¹), EA+BC)를 60일간 적용하고 각 처치에 대해 4반복(hapa)을 사용하여 비교하였다. 주요 평가는 성장 및 사료 이용률, 장 효소(아밀라아제·지질분해효소·단백분해효소), 전신 혈액학(적혈구·혈색소·백혈구 등)과 혈청 단백 분획, 간 항산화 효소 활성, 리소자임·총 IgM·식세포 활성, 혈청 아미노트랜스퍼라제·요산·총콜레스테롤, 간말로닐디알데히드(MDA), 분변 및 배양 기반 세균수, 및 항산화·면역 관련 전사체(SOD, CAT, GPx, TLR1, TNF-α, IL-1β)였다. EA와/또는 BC 보충은 성장과 사료 효율을 개선하고 전반적인 체성분을 유리한 방향으로 변화시켰으며(가장 우수한 반응은 EA+BC), 장 효소 활성 및 간 항산화 효소 활성 증가와 혈액·면역 지표 개선(리소자임, 총 IgM, 식세포 반응 증가)을 보였다. 또한 혈청 아미노트랜스퍼라제 활성, 요산, 총콜레스테롤 및 간 MDA는 감소했고 배양 기반으로는 유산균 가정 배수가 증가하고 총 배양 호기성 세균수는 감소했다. 전사체 수준에서는 간에서 SOD·CAT·GPx가 상향조절되고 비장에서 TLR1이 상향되었으며 TNF-α와 IL-1β는 하향조절되었다. S. agalactiae 도전 결과 누적사망률은 대조군 ≈87%, EA 31%, BC 21%, EA+BC 12%로 보고되었고, 두 요인의 주효과와 일부 지표에서 EA×BC 상호작용이 유의하였다. 초록에는 별도의 제한점 기술이 없으므로 추가 한계나 장기적 효과는 초록만으로는 확인되지 않는다.",
+      "title": "Combined effects of dietary ellagic acid and Bacillus coagulans on growth performance, antioxidant and immune responses, intestinal health, and resistance to Streptococcus agalactiae in striped catfish.",
+      "journal": "Veterinary Research Communications",
+      "generated_at": "2026-08-14T22:01:13.429Z",
+      "model": "gpt-5-mini"
+    },
+    "42593949": {
+      "brief_summary": "전향적 단일기관 코호트 연구에서 중증으로 입원한 130마리의 개를 대상으로 패혈증(sepsis)의 위험요인과 판정·예후 점수체계의 성능을 평가했다. 패혈증은 29/130(22.3%)에서 확인되었고 이들 중 18마리가 단기 사망하여 사망률은 62.1%였다. 폐렴과 급성신손상(AKI)이 패혈증과 연관되었고, 호흡곤란, 호흡수 ≥38회/분, ALT(alanine aminotransferase) ≥109.5 U/L 등이 다변량 분석에서 위험요인으로 나타났다; APPLE FAST 점수는 패혈증과 사망의 유의한 예측인자였다. 임상적으로는 제시된 위험인자를 통해 패혈증의 빠른 인지가 가능하며 APPLE FAST 점수가 진단·치료 결정에 도움을 줄 수 있다.",
+      "detailed_summary": "연구 설계는 전향적 단일기관 코호트 연구로, 중증 상태의 개 130마리를 대상으로 로지스틱 회귀분석과 분류·회귀나무(CART) 분석을 시행하여 임상 및 검사실 변수를 위험요인으로 평가하고 기존 점수체계의 진단·예후 성능을 비교하였다. 전체에서 29마리(22.3%)가 패혈증으로 확진되었고, 이들 중 18마리가 단기 사망하여 패혈증군의 단기 사망률은 62.1%였다. 단변량 분석에서 폐렴(OR=4.8; 95% CI 1.8–13.1; P=.002)과 급성신손상(AKI; OR=7.4; 95% CI 2.2–25.1; P=.001)이 패혈증과 연관되었다. 다변량 로지스틱 회귀는 호흡곤란(OR=6.5; 95% CI 1.6–26.0; P=.01), 호흡수 ≥38회/분(OR=3.9; 95% CI 1.1–13.1; P=.03), ALT ≥109.5 U/L(OR=3.8; 95% CI 1.1–12.8; P=.03)을 유의한 위험요인으로 확인했고, 이 세 요인을 결합했을 때 민감도 35.0%·특이도 92.8%였다. CART 분석은 체중, 빈호흡(혹은 호흡수 증가), 저혈압, 고염소혈증, 고유산혈증, 저나트륨혈증 등을 위험요인으로 식별했으며 민감도 58.6%·특이도 97.0%를 보였다. APPLE FAST 점수는 패혈증(OR=2.9; 95% CI 1.2–7.1; P=.02)과 사망(OR=3.2; 95% CI 1.4–7.2; P=.01) 모두와 연관되어 사망 예측에 가장 강한 지표로 보고되었다. 초록에는 별도의 제한점 기술이 없어 연구 제한사항은 명시되지 않았으며, 저자들은 제시된 위험인자와 APPLE FAST 점수가 임상에서 패혈증의 빠른 인지 및 진단·치료 의사결정에 도움이 될 수 있음을 제안하고 있다.",
+      "title": "Sepsis in critically ill dogs: identification of clinical and laboratory risk factors and evaluation of sepsis scoring systems.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-08-14T22:00:25.666Z",
+      "model": "gpt-5-mini"
+    },
+    "42594946": {
+      "brief_summary": "이 전향적 종적 코호트 연구는 임상적으로 건강한 반려견 새끼 23마리를 대상으로 8–12주, 16주, 6개월, 1년 시점에서 qPCR 기반의 분변 미생물 및 대사산물 마커의 장기 안정성을 평가했다. Dysbiosis index 및 대부분의 표적 세균은 기준 범위 내에서 시간 경과에 따른 유의한 변화가 없었고, Bacteroides spp.는 8–12주보다 6개월에 유의하게 높았다(차이 -0.73 log DNA copies/g feces; 95% CI -1.40 to -0.06; Tukey-adjusted P = .028). 2차 비결합 담즙산이 모든 연령에서 우세했고, 12-oxo-lithocholic acid는 16주에 1년보다 낮았으나 다중검정 보정 후에는 유의하지 않았다. 결론적으로 8주 이후부터 검사된 qPCR 기반 지표와 일부 대사마커는 대체로 안정되어 어린 개의 위장 질환 해석을 위한 연령별 기준 정보를 제공한다.",
+      "detailed_summary": "연구는 2023년 8월부터 2025년 1월까지 스위스 취리히 대학교 수의내과 클리닉에서 시행된 전향적 종적 코호트 연구로, 임상적으로 건강하고 위장 증상이 없으며 이전 전신 항생제 복용력이 없고 기생충검사가 음성인 소유견 새끼 23마리에서 채변을 반복 채취했다(총 62개 분변 샘플). 샘플링 시점은 8–12주, 16주, 6개월, 1년이었고 주요 평가 항목은 qPCR 기반 dysbiosis index와 선별된 qPCR 표적 세균 군집, 분변 담즙산·장쇄지방산·스테롤을 질량분석으로 정량한 결과였다. 통계 분석에는 혼합효과 모델을 사용했으며, dysbiosis index와 대부분 표적 세균은 기준 범위 내에서 시점별 유의한 변화가 관찰되지 않았다. 단일 유의 결과로 Bacteroides spp.가 8–12주에서 6개월에 비해 유의하게 낮았고(차이 -0.73 log DNA copies/g feces; 95% CI -1.40 to -0.06; Tukey-adjusted P = .028), 12-oxo-lithocholic acid는 16주에서 1년보다 낮은 비율을 보였으나(비율 0.33; 95% CI 0.14–0.79; Tukey-adjusted P = .007) 다중검정 보정 후에는 유의하지 않았다. 모든 연령에서 2차 비결합(secondary unconjugated) 담즙산이 우세했으며 장쇄지방산 및 스테롤 프로필은 연령 관련 변화를 보이지 않았다. 연구자는 결론적으로 8주부터 1년 사이 측정된 qPCR 기반 및 일부 대사 마커가 대체로 안정적이라고 보고하며, 이는 어린 개에서 위장질환 관련 분변 검사 해석을 위한 연령별 기준자료로 활용될 수 있음을 시사한다.",
+      "title": "Targeted quantitative polymerase chain reaction-based bacterial and fecal metabolite markers show early stability in healthy puppies after 8 weeks of age.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-08-14T22:00:52.647Z",
+      "model": "gpt-5-mini"
+    },
+    "42597317": {
+      "brief_summary": "이 전향적 관찰연구는 39마리(76후지)의 개를 대상으로 CT(computed tomography)를 이용해 후지 근육 분포와 최적 측정 수준을 규명하고 촉진 기반의 후지 근육 상태 점수(hMCS)의 임상 적용성을 평가했다. 대퇴 중간(femoral mid) 수준에서 근단면적(CSA)과 근육비율(muscle ratio)이 가장 높았고, 비복근(gastrocnemius)의 최대 CSA는 경골(proximal tibial) 근위부에서 일관되게 관찰되었다. 체중은 모든 수준에서 CSA와 양의 상관을 보였고, 연령과 체형점수(BCS)는 대부분 수준에서 근육비율과 음의 상관을 보였으며 hMCS는 CT 기반 측정치와 유의하게 연관되고 관찰자간 신뢰도가 우수했다. 임상적으로는 대퇴 중간 수준과 경골 근위 수준이 각각 대퇴와 비복근 평가에 대표적인 측정 부위로 제안되며, hMCS는 실무에서 보완적 평가도구로 활용될 수 있다.",
+      "detailed_summary": "연구는 전향적 관찰설계로 39마리의 개(76후지)를 포함했다. CT로 세 가지 대퇴(femoral) 수준에서 근단면적(CSA)과 근육비율(근육 CSA/총 CSA)을 측정했으며, 경골에서는 비복근의 최대 CSA가 위치한 근위부 수준에서 측정을 수행했다. 주요 결과로 대퇴 중간 수준에서 CSA와 근육비율이 통계적으로 가장 높았고, 경골의 경우 비복근 최대 CSA는 일관되게 근위부에 위치했다. 체중은 모든 측정 수준에서 CSA와 양의 연관을 보였고, 연령 및 체형점수(BCS)는 대부분 수준에서 근육비율과 음의 연관을 보였다. 촉진 기반의 후지 근육 상태 점수(hMCS)는 CT 유도 측정치와 유의한 연관을 보였고 관찰자간 신뢰도는 우수하다고 보고되었다. 연구진은 CSA가 주로 체구 크기를 반영하며 근육비율은 구성 변화(지방 대 근육 비율 등)를 민감하게 반영한다고 해석했고, 대퇴 중간 및 경골 근위 수준을 임상적 평가의 대표 지점으로 제안했다. 초록에서는 제한점에 대한 구체적 기술은 없으므로 세부한 제한점은 원문에서 확인할 필요가 있다.",
+      "title": "CT-based optimization of hindlimb muscle measurement levels and development of a hindlimb muscle condition score in dogs.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-08-14T21:59:13.791Z",
+      "model": "gpt-5-mini"
+    },
+    "42597589": {
+      "brief_summary": "10세 중성화 수컷 단모 고양이 1례에서 기관(trachea) 내 다발성 종양으로 심한 호흡곤란이 발생해 기관지경 하 1.1 mm 유연 크라이오프로브를 이용한 동결생검(cryobiopsy) 및 동결감량(cryo-debulking)을 시행했다. 시술로 폐색률 80–90%였던 병변이 완전 제거되어 즉시 임상 호전과 기도저항 감소(279 → 31 cmH2O/l/s)를 보였고 출혈은 경미해 회복에 문제는 없었다. 조직검사에서 고양이 기관에서 처음 보고된 기관 myxosarcoma로 진단되었으며, 증례는 크라이오시술이 소량 조직만 얻어지는 집게 생검의 한계를 극복하면서 기도 보존적 완화적 처치로 활용될 수 있음을 시사한다.",
+      "detailed_summary": "증례보고로 연구 대상은 10세 중성화 수컷 단모 고양이 1마리였다. 기존의 내시경 집게 생검은 작은 조직편만 얻어져 확진에 불충분했으며, 기관 절제·연결술의 위험이 높다고 판단되어 기관지경(bronchoscopy) 하 1.1 mm 유연성 크라이오프로브를 이용한 동결생검 및 동결감량을 선택했다. 시술 시 병변은 기관강의 80–90%를 폐색하고 있었으나 크라이오시술로 완전 제거되어 즉각적인 임상 호전과 기도저항의 유의한 감소(279에서 31 cmH2O/l/s)를 보였다. 출혈은 경미하고 조절 가능했으며 회복은 무사했고, 조직검사 결과는 고양이 기관에서 보고된 적 없는 기관 myxosarcoma였다. 임상적으로는 시술 후 7주간 무증상 유지되었으나 재발 소견이 방사선상 확인되었고, 폐기능 검사상 수술 전과 비교해 실질적 환기부전은 관찰되지 않아 초기에는 경과 관찰을 선택했다. 3개월째 재내시경에서 약 50% 폐색 재발을 확인하고 두 번째 크라이오시술로 다시 완전 감량 및 증상 완화를 얻었다. 단일 증례라는 점과 재발이 비교적 빠르게 일어났다는 점에서 일반화에는 한계가 있으며, 본 증례는 크라이오시술이 진단용 조직 확보 및 일시적 기도 확보에 유용할 수 있음을 제시한다.",
+      "title": "Bronchoscopic cryotherapy for biopsy and debulking of tracheal myxosarcoma in a cat.",
+      "journal": "JFMS Open Reports",
+      "generated_at": "2026-08-14T22:00:04.952Z",
+      "model": "gpt-5-mini"
+    },
+    "42598273": {
+      "brief_summary": "97마리의 클라이언트 소유 개를 대상으로 한 전향적 관찰 연구로, 전혈(whole blood, WB)과 혈소판풍부혈장(platelet-rich plasma, PRP) 지표 및 혈소판 농축(platelet enrichment)에 대한 생리학적 예측인자를 평가했다. 체형점수(Body Condition Score, BCS)가 다변량 분석에서 일관되게 혈소판 농축과 연관되어 BCS가 높을수록 농축도 및 고농축층(Q3, >2.5×)에 속할 확률이 증가했다. 나이는 다변량 선형회귀에서는 음의 연관을 보였으나 서열 로지스틱 회귀에서는 유지되지 않았고, 성별·생식상태·활동성은 보정 후 독립적 연관을 보이지 않았다. 임상적으로는 PRP 제조와 관련된 요인이 농축을 주로 결정하며, BCS 등 생리학적 요인은 혈소판의 구조적 특징에서 생물학적 변동성을 일으킬 수 있음을 시사한다.",
+      "detailed_summary": "연구는 전향적 관찰 설계로 97마리의 클라이언트 소유 개를 대상으로 수행되었고, 성별·연령·체형점수(BCS)·생식상태·활동성을 기준으로 분류하였다. PRP는 혈소판 농축도에 따라 Q1 (<1.5×), Q2 (1.5–2.5×), Q3 (>2.5×)의 계층으로 구분하여 이질성을 기술적 틀로 사용하였다. 평가에는 전혈 및 PRP의 혈소판 수(PLT), 혈소판용적(plateletcrit, PCT), 큰 혈소판(LARGEPLT) 등 형태·구성 지표가 포함되었고, 단변량 및 다변량(선형회귀 및 서열 로지스틱 회귀) 분석을 시행하였다. 그 결과 생리학적 요인들은 혈소판의 형태 및 구성 지표의 변동성과 연관을 보였고, 다변량 분석에서는 BCS만이 혈소판 농축과 일관되게 연관된 유일한 요인이었다. 연령은 선형회귀에서 농축과 음의 연관을 보였으나 서열 회귀에서는 유의성이 사라졌고, 성별·생식상태·활동성은 보정 후 독립적 연관을 보이지 않았다. 상관분석에서는 PLT, PCT, LARGEPLT 등 농도 관련 지표들이 강하게 군집화되었고 전혈과 PRP 모두에서 혈소판 지표의 내부 조직이 일관되게 관찰되었다. 결론적으로 혈소판 농축은 주로 제조 관련 요인에 의해 결정되는 반면, 생리학적 요인은 혈소판의 구조적 표현형에 주로 기여하며, 이러한 구조적 변이의 생물학적 의미는 기능적·생화학적 지표를 포함한 후속 연구가 필요하다.",
+      "title": "Physiological predictors of hematological tier outcomes in canine platelet-rich plasma: a prospective observational study.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-08-14T21:58:54.696Z",
+      "model": "gpt-5-mini"
+    },
+    "42599030": {
+      "brief_summary": "급성 둔기 외상으로 내원한 고양이에서 고감도 심근 트로포닌 I(hs-cTnI) 상승의 유병률과 예후적 의의를 평가한 전향적 연구로, 48시간 이내 내원한 39마리를 대상으로 시행되었다. 연구에서 34/39마리(87%)에서 hs-cTnI 상승이 관찰되었고, 외상 중증도와 hs-cTnI 등급 간에 유의한 순서적 연관성이 확인되었으나 전체 검정은 유의하지 않았다. 결과는 hs-cTnI가 심근 스트레스 또는 손상뿐만 아니라 전신 질환 중증도, 신장 배설 변화 및 기저의 아임상 심질환과 관련된 다요인 반응을 반영할 수 있음을 시사한다.",
+      "detailed_summary": "본 연구는 48시간 이내 둔기 외상으로 내원한 고양이 39마리를 전향적으로 등록하여 신체검사, Animal Trauma Triage 점수, 흉부 방사선, 심전도(ECG), 심초음파, CBC, 혈액생화학, NT-proBNP 및 고감도 심근 트로포닌 I(hs-cTnI)를 측정하였다. hs-cTnI 상승은 34/39마리(87%; 95% CI 72-96%)에서 관찰되었고, 외상 중증도와 hs-cTnI 등급 간에 선형적 연관성(linear-by-linear, p=0.036)이 있었다(그러나 Fisher-Freeman-Halton 전체 검정 p=0.088). hs-cTnI는 요소·크레아티닌 등 신장 지표, 호중구 수, 백혈구 관련 지표(NLR 포함), ALT, 혈당 및 심초음파 지표인 IVSd(중격벽 두께), LVPWd(후벽 두께)와 양의 상관을 보였고 LVIDd(이완기 좌심실 내경)와는 음의 상관을 보였다. 좌심실 벽 두께 증가(10/39마리)는 더 높은 hs-cTnI와 연관되었고, 심장 파열·심막삼출·흉막삼출은 관찰되지 않았다. 심전도 이상은 6/39마리에서 발견되었으나 hs-cTnI와는 관련이 없었다. 입원 중 사망은 7마리(18%)로, 비생존과 관련된 변수로는 요소, 총백혈구 수, 호중구 수 증가가 보고되었고, 예후 분석(ROC)은 사건 수가 제한적이라 탐색적 분석으로 간주되었다. 결론적으로 hs-cTnI 상승은 둔기 외상 고양이에서 흔하며 여러 임상·검사 소견과 연관되지만, 관측된 연관성의 기전적 기여도와 임상적 의미를 명확히 하기 위해 추가 연구가 필요하다는 제한을 명시하고 있다.",
+      "title": "EXPRESS: MYOCARDIAL INJURY IN CATS WITH ACUTE BLUNT TRAUMA: PREVALENCE AND PROGNOSTIC IMPLICATIONS.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "generated_at": "2026-08-14T21:59:34.196Z",
       "model": "gpt-5-mini"
     }
   }
