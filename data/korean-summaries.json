@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T22:01:13.436Z",
+  "updated_at": "2026-08-15T21:55:35.418Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -639,6 +639,14 @@
       "title": "Open approach transversus abdominis plane block for postoperative pain management in bitches undergoing ovariohysterectomy: First in vivo study.",
       "journal": "Topics in Companion Animal Medicine",
       "generated_at": "2026-07-31T08:15:39.937Z",
+      "model": "gpt-5-mini"
+    },
+    "42175789": {
+      "brief_summary": "본 증례군 연구는 선천성 간내 문맥체정맥루(intrahepatic portosystemic shunts, IHPSS)가 있는 고양이 4마리를 대상으로, 표준 이중 카테터 PTCE(percutaneous transvenous coil embolization) 대신 단일 카테터 변형술을 사용해 시술한 결과를 후향적으로 기술했다. 6 Fr 경정맥 혈관 시스(vascular sheath)를 통해 4 Fr Berenstein 카테터로 포트로그램/캐보그램, 문맥압 측정 및 코일 삽입을 번갈아 시행하고 레이저 컷 스텐트를 통해 션트 개구를 가로지르도록 위치시켰다. 모든 증례에서 정맥 손상이나 문맥 고혈압 관련 합병증은 보고되지 않았고, 큰 혈관 시스 사용에 따른 합병증을 피하는 현실적 대안이 될 수 있음을 시사했다.",
+      "detailed_summary": "연구는 2024년 1월부터 2025년 5월까지 두 기관에서 치료받은 좌측 분지형 선천성 간내 문맥체정맥루(IHPSS)를 가진 고양이 4마리를 후향적으로 조사한 증례군이다. 기존의 이중 카테터 PTCE는 최소 9 Fr 시스가 필요한 반면, 저자들은 6 Fr 경정맥 시스를 통해 단일 4 Fr Berenstein 카테터만으로 포트로그램/캐보그램 수행, 문맥압 측정 및 코일 색전술을 교대로 시행하는 변형 기법을 적용했다. CT 및 캐보그램 측정에 근거해 레이저 컷 스텐트를 선택하여 션트 개구를 가로지르도록 배치했고, 동일 카테터로 코일을 배치했다. 시술 중 혈관 손상이나 문맥 고혈압 관련 합병증은 보고되지 않았으며, 시술 시간도 합리적인 수준이었다고 서술되어 있다. 이 결과는 고양이에서 큰 혈관 시스를 피할 수 있는 실용적 대안임을 제시하지만, 표본 수가 4마리인 증례보고라는 점에서 일반화는 제한적이다. 추가적인 대규모 연구나 비교연구가 필요하다는 제한점이 명시적으로 제시되어 있다.",
+      "title": "Outcome of four cats with congenital intrahepatic portosystemic shunts treated by a modified percutaneous transvenous coil embolization technique.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "generated_at": "2026-08-15T21:54:58.555Z",
       "model": "gpt-5-mini"
     },
     "42187200": {
@@ -3383,6 +3391,46 @@
       "title": "EXPRESS: MYOCARDIAL INJURY IN CATS WITH ACUTE BLUNT TRAUMA: PREVALENCE AND PROGNOSTIC IMPLICATIONS.",
       "journal": "Journal of Feline Medicine and Surgery",
       "generated_at": "2026-08-14T21:59:34.196Z",
+      "model": "gpt-5-mini"
+    },
+    "42600645": {
+      "brief_summary": "21마리의 건강한 반려견을 대상으로 medetomidine-vatinoxan(제품명 Zenalpha, 이하 MVZ) 투여 전후 심초음파, 혈압, 심전도(홀터)를 비교한 전향적 사전·사후 연구이다. MVZ는 박출률(ejection fraction), fractional shortening 등 여러 심초음파 유래 수축기능 지표와 혈압·심박수를 유의하게 저하시켰고 PR 및 절대 QT 간격을 연장시켰다. 교정된 QT 간격과 부정맥 부담점수는 유의한 증가는 아니었고, 62%에서 방실결절 전도 이상이 새로 발생하거나 악화되었다. 따라서 MVZ에 의한 심혈관 영향은 심장질환이 있거나 심장 질환을 선별 중인 개를 진정하기 전 고려해야 한다.",
+      "detailed_summary": "본 연구는 전향적 사전·사후(pretest/posttest) 설계로, 심장질환 병력이나 심혈관계 약물 복용이 없는 21마리의 건강한 클라이언트 소유 견을 등록했다. 검사로는 기저선 및 MVZ 진정 후 심초음파, 혈압 측정, 1시간 홀터(monitored Holter)가 시행되었으며 진정은 제조사 지침에 따라 이루어졌다. MVZ 투여 후 ejection fraction, fractional shortening, end-systolic volume index, stroke volume index, fractional area change 등 다수의 심초음파 기반 수축기능 지표가 유의하게 감소했다. 동시에 수축기 혈압과 심박수는 유의하게 낮아졌고 PR 및 절대 QT 간격은 연장되었으나 교정된 QT 간격과 부정맥 부담점수의 증가는 통계적으로 유의하지 않았다. 홀터에서 13/21마리(62%)는 방실결절 전도 이상이 새로 발생하거나 악화되었고, 2/21마리(9.5%)는 심방성 또는 심실성 과다박동이 새로 발생하거나 악화되었으며, 15/21마리(71.4%)는 MVZ 진정 시 2개 이상의 수축기능 지표가 기준범위 아래로 떨어졌다. 결론적으로 MVZ 진정은 여러 심혈관 및 혈역학적 지표에 유의한 변화를 초래하므로 심장질환이 있거나 선별 중인 개에서 사용 시 이러한 영향을 충분히 고려해야 한다.",
+      "title": "Medetomidine-vatinoxan (Zenalpha) results in reduction of systolic function, blood pressure, and heart rate with prolongation of electrocardiographic intervals in healthy dogs.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-08-15T21:55:35.411Z",
+      "model": "gpt-5-mini"
+    },
+    "42600647": {
+      "brief_summary": "본 연구는 2023년 12월부터 2025년 2월까지 고양이 중수골 및 중족골 골절 73건을 대상으로 수술적 개입 필요성 판정에서 여러 대형언어모델(LLM)의 진단 성능을 전문가 합의와 비교했다. 결과는 모델별 성능이 크게 달랐고, ChatGPT(v5.2)가 가장 높은 일치도를 보였으나 전반적으로 보존적 관리(undertriage) 쪽으로 편향되는 체계적 오류가 관찰되었다. 임상적 의미는 일부 상위 모델이 전문가 수준에 근접하더라도, LLM을 단독으로 수술 의사결정에 사용하는 것은 권장되지 않으며 엄격한 수의사 감독이 필요하다는 점이다.",
+      "detailed_summary": "후향적 연구로서 73건의 익명화된 고양이 중수골 및 중족골 골절 증례를 분석했으며 참조기준은 두 명의 정형외과 전문 수의사가 수술적 치료(49건)와 보존적 관리(24건)로 합의해 설정했다. 다섯 개의 LLM(ChatGPT v5.2; Gemini v3 Pro; Grok v4.1; Qwen v3.5; Claude Sonnet v4.5)이 표준화된 제로-샷 프롬프트로 증례 요약을 평가했고, 모델 권고를 참조기준과 비교해 정확도, 민감도, 특이도와 Cohen의 카파(κ)를 산출했다. ChatGPT는 정확도 84.9%, 민감도 79.6%, 특이도 95.8%, κ = 0.69를 기록해 가장 높은 성능을 보였다. 반면 Qwen과 Claude Sonnet은 수술 사례를 전혀 식별하지 못해(민감도 0%) 현저히 낮은 성능을 보였다. 모든 모델에서 보존적 관리를 권하는 편향이 있어 위음성(false-negative) 비율이 높았고 이는 임상적 하향분류(undertriage) 위험을 의미한다. 결론적으로 LLM의 진단 성능은 모델마다 매우 가변적이며, 일부 상위 모델을 제외하고는 중대한 임상 상황에서 실패할 수 있으므로 독립적 사용은 권장되지 않고 초기 선별 시 엄격한 수의사 감독이 필요하다.",
+      "title": "Large language models demonstrate variable diagnostic performance and a systematic risk of undertriage in surgical triage of feline metacarpal and metatarsal fractures.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-08-15T21:55:18.897Z",
+      "model": "gpt-5-mini"
+    },
+    "42601911": {
+      "brief_summary": "후향적 단일 기관(2012–2023) 코호트에서 발작성 이상운동(paroxysmal dyskinesia)으로 내원한 개 70두의 병인 분포를 평가한 연구로, 원인 분류와 구조적·반응성 원인의 빈도를 확인하는 것이 목적이다. 결과는 의심 특발성(61.4%)이 가장 많고, 유전성(의심 및 확인 병합 22.9%)과 글루텐 민감성(12.9%)이 뒤를 이었으며 반응성·구조적 원인은 각각 1.4%로 드물었다. 증상 양상은 의식이 보존된 상태에서의 근긴장 이상(디스토니아)과 떨림, 간헐적 보행·자세 이상이 우세했으며 발병 연령이나 증상 분포만으로 병인을 구별하기는 어려웠다. 임상적 시사점으로는 대부분 배제가 필요한 진단이며 기초 검사, 소인 품종에 대한 표적 유전자 검사 및 조기 글루텐 민감성 평가를 포함한 계층적 진단 전략이 필요하다는 점이다.",
+      "detailed_summary": "단일 3차 진료기관의 의무기록을 후향적으로 체계적으로 검토하여 2012–2023년 사이 발작성 이상운동의 임상 기준을 충족한 개 70두를 포함하였다. 의식 저하, 발작 후 증상 또는 문서 불충분 증례는 제외하였고 병력·신경학적 검사·기초 혈액 검사·글루텐 민감성 혈청 검사·고급 영상검사·뇌척수액(CSF) 검사 등을 진단 자료로 활용하였다. 증례는 의심 특발성, 유전성(의심 및 확정), 글루텐 민감성, 반응성, 구조적 원인으로 분류되었고 각각의 분포는 특발성 61.4%, 유전성 22.9%, 글루텐 민감성 12.9%, 반응성 1.4%, 구조적 1.4%였다. 전체 군에서 디스토니아와 동반된 떨림 및 간헐적 보행·자세 이상이 우세한 임상적 분포를 보였고, 발병 연령이나 증상의 지리적(위치적) 분포는 병인을 신뢰성 있게 구별하지 못했다. 군 간 유의한 차이를 보인 변수는 체중이었으며 구체적 수치는 초록에 제시된 바 있다. 연구 결론은 대부분이 배제 진단으로 임상 소견만으로 병인 분류가 불충분하므로 기초 검사와 소인 품종 대상 표적 유전자 검사, 조기 글루텐 민감성 평가를 포함한 표준화된 계층적 진단 전략이 필요하다는 것이다. 한계로는 후향적 단일 기관 연구라는 점이 명시되어 있다.",
+      "title": "Canine paroxysmal dyskinesia: distribution of etiological subtypes and structural and reactive causes in a retrospective tertiary care cohort.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-08-15T21:54:29.951Z",
+      "model": "gpt-5-mini"
+    },
+    "42601940": {
+      "brief_summary": "이 연구는 이집트 4개 주(Cairo, Qalyubia, Kafr El-Sheikh, Gharbia)의 개 409두를 대상으로 anti-Toxocara canis IgG 혈청검사를 이용해 혈청유병률을 평가하고 관련 위험요인을 규명하는 역학 조사이다. 전체 혈청유병률은 25.9% (106/409; 95% CI: 21.91-30.38%)였고, Cairo에서 가장 높았으며(32.2%) 연령>4세, 실외사육, 고양이 동거, 배설물 섭식(coprophagy), 가정식 급여, 불규칙한 구충과 유의한 연관성이 확인되었다. 임상적으로 정기적 구충과 급여·환경 관리 개선이 감염 위험 및 인수공통전염 최소화에 중요하다고 제시한다.",
+      "detailed_summary": "연구는 개의 Toxocara canis 노출을 평가하기 위한 횡단적 혈청역학 조사로, Cairo, Qalyubia, Kafr El-Sheikh, Gharbia에서 총 409두의 개 혈청을 채취하여 anti-T. canis IgG 면역검사를 시행했다. 연구자는 연령, 성별, 사료 형태, 사육 환경(실내/실외), 고양이 동거 여부, 배설물 섭식 여부, 구충력 등 관리·역학적 요인을 수집하여 단변량 및 다변량 로지스틱 회귀로 분석했다. 전체 혈청유병률은 25.9%였고(106/409; 95% CI: 21.91-30.38%), 지역별로는 Cairo 32.2%, Qalyubia 19%, 연령>4세에서 37.4%로 가장 높았다. 혈청유병률은 가정식 급여(36%), 실외 생활(41.5%), 고양이 동거(32.4%), 배설물 섭식(30.4%), 정기적 구충이 없는 개(33%)에서 높게 관찰되었고, 다변량 분석에서도 고령, 실외사육, 고양이 동거, 배설물 섭식, 가정식, 불규칙한 구충이 유의한 위험요인으로 보고되었다. 연구는 혈청검사가 분변검사보다 집단 수준의 노출 평가에 더 넓은 추정치를 제공한다고 강조하며, 결론적으로 정기적 구충과 급여·환경 위생 개선이 감염 위험 및 인수공통전염을 줄이는 데 필요하다고 제시한다. 초록에는 별도의 제한점 기술은 없으나 결과는 혈청학적 노출 지표에 기반한 역학적 연관성을 보고한 내용임을 유의해야 한다.",
+      "title": "Epidemiological study of Toxocara canis infection in dogs in selected regions of Egypt.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-08-15T21:54:07.741Z",
+      "model": "gpt-5-mini"
+    },
+    "42603023": {
+      "brief_summary": "단일 의뢰 병원에서 2017–2024년 사이 신대체요법(RRT)을 받은 반려견 및 반려묘 총 136마리(개 67, 고양이 69)를 대상으로, 만성 신질환 위급 악화(acute-on-chronic kidney disease, ACKD)와 급성 신손상(acute kidney injury, AKI)의 예후를 비교했다. ACKD군은 AKI군보다 나이가 많고(10.4±3.9년 vs 6.3±3.3년, p<0.0001) 퇴원 시 혈청 크레아티닌이 더 높았으며(3.38±1.16 vs 2.81±2.92 mg/dL, adjusted p=0.0073), 퇴원생존율은 ACKD 53% 대 AKI 70%이었다. 단기 생존 차이는 통계적으로 유의하지 않았지만(log-rank p=0.089), 퇴원한 개체에서 제한평균생존시간(RMST)은 ACKD가 더 짧았고(ACKD 전체 중앙생존기간 57일, 개는 33일), 이는 선택된 ACKD 환자에서도 단기 생존이 가능함을 시사한다.",
+      "detailed_summary": "후향적 관찰 코호트 연구로 단일 의뢰 병원의 의무기록을 검토하여 RRT 치료를 받은 136마리(ACKD n=66, AKI n=70)를 포함했다. 단기(퇴원생존) 평가는 퇴원생존율, 제한평균생존시간(RMST) 및 로지스틱 회귀로, 장기생존은 Kaplan–Meier, RMST 및 Cox 비례위험 모델로 분석했다. ACKD군은 평균 연령이 유의하게 높았고(10.4±3.9 vs 6.3±3.3년, p<0.0001) 퇴원 시 혈청 크레아티닌이 더 높았다(3.38±1.16 vs 2.81±2.92 mg/dL, adjusted p=0.0073). 퇴원생존율은 ACKD 53%(35/66), AKI 70%(49/70)이었고, 전체 단기 생존 곡선 차이는 통계적 유의성에 도달하지 않았다(log-rank p=0.089). 다만 퇴원한 개체들에서 RMST는 ACKD가 더 짧았고, ACKD의 중앙생존기간은 전체 57일(개 33일)이었다. 결론적으로 ACKD 환자는 AKI보다 전반적으로 예후가 더 나쁜 경향을 보였으나, 선택된 ACKD 환자에서도 RRT로 단기 생존을 달성할 수 있음을 보여주며 본 연구는 후향적 단일 기관 연구라는 점을 제한점으로 고려해야 한다.",
+      "title": "Dogs and cats with acute-on-chronic kidney disease have worse outcomes than those with acute kidney injury following renal replacement therapy.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-08-15T21:54:47.607Z",
       "model": "gpt-5-mini"
     }
   }

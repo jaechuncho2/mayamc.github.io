@@ -1,6 +1,86 @@
 {
-  "updated_at": "2026-08-14T21:58:29.743Z",
+  "updated_at": "2026-08-15T21:53:43.864Z",
   "papers": [
+    {
+      "pmid": "42601940",
+      "title": "Epidemiological study of Toxocara canis infection in dogs in selected regions of Egypt.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Gattan HS, Marzok M, Selim A, Alruhaili MH, Ismail H, Almubarak AI",
+      "date": "2026 08 15",
+      "dateObject": "2026 08 15",
+      "abstract": "Toxocariasis caused by Toxocara canis is a common parasitic disease in dogs with important zoonotic implications. Although fecal examination is traditionally used for diagnosis, it has limitations in detecting prepatent, low-intensity, or intermittent infections. Therefore, serological testing was selected in this study as a more sensitive and time-efficient approach for assessing exposure at the population level. This study aimed to determine the seroprevalence of T. canis infection and identify associated risk factors among dogs in four Egyptian governorates. A total of 409 dogs from Cairo, Qalyubia, Kafr El-Sheikh, and Gharbia were sampled. Serum samples were tested for anti- T. canis IgG antibodies using a sensitive immunoassay. Epidemiological and management-related risk factors, including age, sex, feeding practices, housing conditions, cohabitation with cats, coprophagy, and deworming history, were recorded and analyzed using univariate and multivariate logistic regression models. The overall seroprevalence was 25.9% (106/409; 95% CI: 21.91-30.38%), with the highest prevalence in Cairo (32.2%) and the lowest in Qalyubia (19%). Dogs older than 4&#x202f;years showed the highest seropositivity (37.4%). Seroprevalence was significantly higher among dogs fed homemade food (36%), living outdoors (41.5%), cohabiting with cats (32.4%), exhibiting coprophagy (30.4%), and those without regular deworming (33%). No statistically significant differences were observed between male and female dogs. Multivariate logistic regression identified older age, outdoor living, cohabitation with cats, coprophagy, homemade diet, and irregular deworming as significant risk factors for infection. The findings demonstrate substantial exposure of dogs to T. canis in the studied regions and highlight the cumulative impact of environmental and management-related risk factors. The use of serology provided a broader estimate of exposure than fecal examination alone. Regular deworming, improved feeding practices, and environmental hygiene are essential to reduce infection risk and minimize zoonotic transmission.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42601911",
+      "title": "Canine paroxysmal dyskinesia: distribution of etiological subtypes and structural and reactive causes in a retrospective tertiary care cohort.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Dellwig A, Meyerhoff N, Rogers CB, Volk HA, Tipold A, Nessler JN",
+      "date": "2026 08 15",
+      "dateObject": "2026 08 15",
+      "abstract": "Canine paroxysmal dyskinesia is an episodic movement disorder characterized by transient dystonia, dyskinesia and tremor in dogs with preserved consciousness, yet its differentiation from focal epilepsy remains challenging and a structured diagnostic framework comparable to that used in epilepsy is lacking. This retrospective, single-center study evaluated the distribution of etiologies in dogs presenting with paroxysmal dyskinesia to a tertiary referral center between 2012 and 2023. Medical records were systematically screened, and dogs were included if episodic abnormal movements fulfilled established clinical criteria while cases with impaired consciousness, postictal signs or insufficient documentation were excluded. Diagnostic data comprised history, neurological examination, laboratory testing, serology for gluten sensitivity, advanced imaging and cerebrospinal fluid analysis when available, and cases were categorized into suspected idiopathic, genetic (suspected and confirmed), gluten-sensitive, reactive or structural groups. Seventy dogs met inclusion criteria. Suspected idiopathic forms predominated (61.4%), followed by genetic (suspected and confirmed; 22.9%) and gluten-sensitive (12.9%) forms, whereas reactive and structural causes were rare (1.4% each). Across groups, dystonia with concurrent tremor and episodic gait or postural abnormalities represented the dominant clinical topographical distribution. Neither age at onset nor topographical distribution of signs reliably differentiated etiologies. Body weight differed significantly between groups. These findings demonstrate that most cases represent diagnoses of exclusion and that clinical presentation alone is insufficient for etiological classification, underscoring the need for a standardized, tiered diagnostic strategy integrating basic laboratory evaluation, targeted genetic testing in predisposed breeds and early assessment for gluten sensitivity, with advanced diagnostics reserved for selected cases.",
+      "categories": [
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "42603023",
+      "title": "Dogs and cats with acute-on-chronic kidney disease have worse outcomes than those with acute kidney injury following renal replacement therapy.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Ahn W, Kim K, Kim J, Lee Y, Lee T, Her J",
+      "date": "2026 08 15",
+      "dateObject": "2026 08 15",
+      "abstract": "To compare survival to discharge and long-term outcomes in dogs and cats with acute-on-chronic kidney disease (ACKD) compared to acute kidney injury (AKI) treated with renal replacement therapy (RRT) and to identify factors associated with outcome. Retrospective observational design. Single referral hospital. 136 client-owned animals (67 dogs and 69 cats) treated with RRT between 2017 and 2024. This retrospective observational cohort study reviewed medical records from a referral hospital. Animals were classified as having ACKD ( n &#x202f;=&#x202f;66) or AKI ( n &#x202f;=&#x202f;70). Short-term survival was evaluated as survival to discharge, restricted mean survival time (RMST) and logistic regression models. Long-term survival was assessed using Kaplan-Meier analysis, RMST and Cox proportional hazards models. Animals with ACKD were older than those with AKI (10.4&#x202f;&#xb1;&#x202f;3.9&#x202f;years vs. 6.3&#x202f;&#xb1;&#x202f;3.3&#x202f;years; p &#x202f;<&#x202f;0.0001) and had higher serum creatinine concentrations at discharge (3.38&#x202f;&#xb1;&#x202f;1.16&#x202f;mg/dL vs. 2.81&#x202f;&#xb1;&#x202f;2.92&#x202f;mg/dL; adjusted p &#x202f;=&#x202f;0.0073). Survival to discharge was 53% (35/66) for ACKD and 70% (49/70) for AKI. Short-term survival did not differ significantly between groups (log-rank p &#x202f;=&#x202f;0.089). Among animals survived to discharge, RMST was shorter for ACKD. Median survival time for the ACKD group was 57&#x202f;days overall and 33&#x202f;days for dogs. Although statistically significant differences were not identified, dogs and cats with ACKD had lower survival to discharge and numerically shorter long-term survival than animals with AKI. Nevertheless, 53% of RRT-treated animals with ACKD survived to discharge, demonstrating that short-term survival is achievable in selected ACKD patients.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42175789",
+      "title": "Outcome of four cats with congenital intrahepatic portosystemic shunts treated by a modified percutaneous transvenous coil embolization technique.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "authors": "Tiffinger K, Gibson E, Ganjei J, Clarke D",
+      "date": "2026 08 15",
+      "dateObject": "2026 08 15",
+      "abstract": "Case series summarySimultaneous portogram/cavogram and continuous portal pressure monitoring during coil deployment are standard practices during percutaneous transvenous coil embolization (PTCE) for the interventional treatment of congenital intrahepatic portosystemic shunts (IHPSSs). In cats, vascular access is more challenging because of their smaller size. The minimum vascular sheath size required to accommodate standard instrumentation for dual-catheter PTCE is 9&#x2009;Fr, which can be challenging to place in the feline jugular vein. The objective of this case series was to retrospectively describe a single-catheter modification of the PTCE technique in cats to avoid complications associated with large vascular sheaths and the outcomes of these cats. Four cats from two different institutions underwent single-catheter PTCE for left divisional IHPSSs between January 2024 and May 2025. Data collected from medical records included patient demographic data and peri- and post-procedural data. Single-catheter PTCE was performed in all cats through a 6&#x2009;Fr vascular sheath percutaneously placed in the jugular vein. Isolated portogram and cavogram were performed to localize the shunt, measure caval diameter and determine caval stent positioning using a 4&#x2009;Fr Berenstein catheter. A laser-cut stent was selected based on CT and cavogram measurements and positioned to span the shunt ostium. The same Berenstein catheter was used for portal pressure measurement and coil deployment by alternating between the shunt and portal vein locations. No complications associated with venous trauma or portal hypertension were reported.Relevance and novel informationThe case series results suggest the modified PTCE technique is a viable alternative that was associated with reasonable procedural duration and avoided vascular complications that may be associated with large vascular sheaths in cats.",
+      "categories": []
+    },
+    {
+      "pmid": "42600647",
+      "title": "Large language models demonstrate variable diagnostic performance and a systematic risk of undertriage in surgical triage of feline metacarpal and metatarsal fractures.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Okur S, &#xd6;zkalip&#xe7;i &#xc7;, Baykal B, Kartal T, &#x15e;enocak MG, Bedir AG, Yanmaz LE",
+      "date": "2026 08 14",
+      "dateObject": "2026 08 14",
+      "abstract": "To evaluate the diagnostic performance of multiple large language models (LLMs) against expert consensus in determining surgical intervention needs for feline metacarpal and metatarsal fractures. In this retrospective study (December 2023 to February 2025), 73 clinical cases of feline metacarpal and metatarsal fractures were evaluated. Two board-certified veterinary orthopedic surgeons established a reference standard for surgical versus conservative management. Five LLMs (ChatGPT, version 5.2 [OpenAI Inc]; Gemini, version 3 Pro [Alphabet Inc]; Grok, version 4.1 [SpaceXAI]; Qwen, version 3.5 [Alibaba Cloud]; and Claude Sonnet, version 4.5 [Anthropic PBC]; and Claude Sonnet, version 4.5 [Anthropic PBC]) assessed anonymized case summaries using a standardized zero-shot prompt. Model recommendations were compared with the reference standard to calculate accuracy, sensitivity, specificity, and the Cohen &#x3ba;. The reference standard classified 49 cases (67.1%) as surgical and 24 (32.9%) as conservative. ChatGPT achieved the highest performance (accuracy, 84.9%; sensitivity, 79.6%; specificity, 95.8%; &#x3ba; = 0.69). Other models showed lower performance; Qwen and Claude Sonnet failed to identify any surgical cases (0% sensitivity). A systematic bias toward conservative management was observed across all models, causing high false-negative rates (undertriage). LLMs demonstrate highly variable diagnostic performance and a systematic risk of undertriage in feline fracture assessment. While top-performing models approach expert-level agreement, others fail in critical clinical scenarios. Independent LLM use for surgical decision-making in feline orthopedics is not recommended due to undertriage risks. These tools require strict clinician oversight for preliminary triage.",
+      "categories": [
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42600645",
+      "title": "Medetomidine-vatinoxan (Zenalpha) results in reduction of systolic function, blood pressure, and heart rate with prolongation of electrocardiographic intervals in healthy dogs.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Forsyth KK, Hogan DF, Dos Santos LFN, Weng HY",
+      "date": "2026 08 14",
+      "dateObject": "2026 08 14",
+      "abstract": "To determine the effects of medetomidine-vatinoxan (Zenalpha; MVZ) on echocardiographic parameters, blood pressure, and cardiac rhythm in healthy dogs. Healthy, client-owned dogs were eligible for enrollment in this prospective, pretest/posttest study. Exclusion criteria included preexisting cardiac disease or medications that could alter the measured study parameters. Echocardiography, blood pressure, and 1-hour Holter monitor were performed at baseline and after sedation with MVZ per the manufacturer's guidelines. Multiple echocardiographic parameters, blood pressure, and arrhythmic burden score were assessed with pairwise comparisons between baseline and sedation. 21 dogs were enrolled in the study. Compared to baseline, MVZ resulted in significant reduction in multiple echocardiography-derived systolic function parameters (including ejection fraction, fractional shortening, end-systolic volume index, stroke volume index, and fractional area change), blood pressure, and heart rate, along with prolongation in PR and absolute QT intervals; there were nonsignificant increases in corrected QT interval and arrhythmic burden scores. Thirteen of 21 dogs (62%) developed or had worsening of atrioventricular nodal conduction on Holter monitor, while 2 of 21 (9.5%) developed or had worsening atrial or ventricular ectopic activity. Of all measured echocardiographic systolic function parameters, 15 of 21 dogs (71.4%) had 2 or more parameters below reference range with MVZ sedation. Sedation with MVZ resulted in significant changes to multiple cardiovascular and hemodynamic parameters. The cardiovascular effects of MVZ should be considered prior to sedation in dogs with, or being screened for, cardiovascular disease.",
+      "categories": [
+        "cardiology"
+      ]
+    },
+    {
+      "pmid": "42600641",
+      "title": "Severe azotemia, bilateral renomegaly, and anorexia in a 2-year-old female spayed mixed canine.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Ye Z, Riker J, Griffith KM, Oliveira LJ",
+      "date": "2026 08 14",
+      "dateObject": "2026 08 14",
+      "abstract": "",
+      "categories": []
+    },
     {
       "pmid": "42598273",
       "title": "Physiological predictors of hematological tier outcomes in canine platelet-rich plasma: a prospective observational study.",
@@ -841,18 +921,6 @@
       ]
     },
     {
-      "pmid": "42564043",
-      "title": "Microcomputed tomography examination of the cortical and trabecular structures of the cranial cervical spine in dogs and cats.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Klotz V, Waselau AC, Zablotski Y, Meyer-Lindenberg A",
-      "date": "2026 08 07",
-      "dateObject": "2026 08 07",
-      "abstract": "The microarchitectural structure of the cervical spine in small animals, particularly the cranial cervical spine, has received little attention to date. This study aimed to analyze the trabecular and cortical microarchitecture of the first four cervical vertebrae and to identify potential differences between toy- and small-breed dogs and between toy-breed dogs and cats. The first four cervical vertebrae from 20 euthanized dogs (10 toy-breed dogs and 10 small-breed dogs) and 20 euthanized cats were examined using micro-computed tomography. The following parameters were analyzed: bone volume fraction (BV/TV), bone surface-to-volume ratio (BS/BV), connectivity density (Conn. D), trabecular number (Tb. N), trabecular thickness (Tb. Th), trabecular separation (Tb. Sp), degree of anisotropy (DA), cortical bone density (mean density), and the dens-to-axis length ratio (DALR). Trabecular microarchitecture was largely comparable between toy-breed dogs and small-breed dogs; however, cortical bone density was significantly higher in toy-breed dogs than in small-breed dogs. Compared with toy-breed dogs and cats, cats more frequently exhibited a larger BS/BV, a higher DA, and a larger Tb. Sp. In contrast, toy-breed dogs exhibited higher BV/TV, a higher Conn. D, Tb. Th, Tb. N, and mean density. The DALR did not differ significantly among the groups. These findings suggest greater overall stability of the cervical spine in toy-breed dogs compared to cats. Furthermore, these microarchitectural differences may provide useful criteria for selecting appropriate surgical interventions for affected animals.",
-      "categories": [
-        "surgery"
-      ]
-    },
-    {
       "pmid": "42563163",
       "title": "Longitudinal echocardiographic systolic changes in dogs receiving doxorubicin-based chemotherapy.",
       "journal": "BMC Veterinary Research",
@@ -923,30 +991,6 @@
       "categories": [
         "internalMedicine",
         "oncology"
-      ]
-    },
-    {
-      "pmid": "42558890",
-      "title": "Correction: Connection between nutrition and oncology in dogs and cats: perspectives, evidence, and implications-a comprehensive review.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Amaral AR, Finardi GLF, Marchi PH, de Oliveira NMC, Pr&#xed;ncipe LA, Teixeira N, Pappalardo MCF, Lima LOC, Cirillo JV, Balieiro JCC, Vendramini THA",
-      "date": "2026 08 06",
-      "dateObject": "2026 08 06",
-      "abstract": "[This corrects the article DOI: 10.3389/fvets.2024.1490290.].",
-      "categories": [
-        "oncology"
-      ]
-    },
-    {
-      "pmid": "42558533",
-      "title": "Identification of reproductive and molecular biomarkers associated with clinical metritis in dromedary camels ( Camelus dromedarius ).",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Alqhtani HA, Elsayed AA, Al-Hazani TMI, Elkhidr RY, Abdelnaby EA, Almubarak AI, Al-Rasheed M, Emam IA, Safhi FA, Zarah RK, Ateya A, Marzok M",
-      "date": "2026 08 06",
-      "dateObject": "2026 08 06",
-      "abstract": "Metritis is a major cause of infertility, contributing to repeat breeding, early embryonic loss, fetal mortality, and abortion. This study investigated alterations in metabolic, hormonal, oxidative, immunological, and molecular markers associated with metritis susceptibility in dromedary camels ( Camelus dromedarius ). A total of 100 non-lactating multiparous females (87 healthy and 13 metritic) were examined. Blood samples were collected and analyzed to evaluate hematobiochemical parameters, inflammatory and antioxidant markers, and single nucleotide polymorphisms (SNPs) in selected immune- and antioxidant-related genes. Metritic animals exhibited fever and abnormal uterine discharge. Gene expression analysis showed significant upregulation of CARD9, SIGLEC1, VSIG4, BTRC, SLC2A3, ACOD1 , and PFKFB3 , alongside downregulation of CPT1A, ATF4, GADD45B, SLC7A11 , and PRDX3 . Sequencing identified 19 SNPs, with significant differences in genotype distribution between groups, and discriminant analysis achieved complete classification accuracy. Hematological findings included normocytic normochromic anemia, leukocytosis, neutrophilia, lymphopenia, and monocytosis. Biochemically, metritic camels showed hypoglycemia and decreased levels of estrogen, progesterone, FSH, LH, T4, calcium, and antioxidant markers (GSH, CAT, and TAC), while NEFA, BHBA, cortisol, MDA, and pro-inflammatory cytokines (IL1&#x3b1;, IL1&#x3b2;, IL6, IL10, and TNF&#x3b1;) were significantly elevated. Overall, clinical metritis in dromedary camels was associated with significant hematological, metabolic, hormonal, oxidative, immunological, and genetic alterations. These findings identify a panel of reproductive and molecular biomarkers that may serve as promising candidate biomarkers associated with clinical metritis. However, given the observational nature of the study and the relatively small number of metritic she-camels, these findings should be interpreted with caution and require validation in larger, independent camel populations before their diagnostic, prognostic, or breeding applications can be established.",
-      "categories": [
-        "internalMedicine"
       ]
     },
     {
@@ -2130,44 +2174,6 @@
       ]
     },
     {
-      "pmid": "41926984",
-      "title": "Surgical timing in dogs with spontaneous hemoperitoneum is not related to blood product use, incidence of adverse events, or survival to discharge.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Herron VA, Williams RW, Berger AC, Johnson M, Solari FP",
-      "date": "2026 07 20",
-      "dateObject": "2026 07 20",
-      "abstract": "To investigate differences in outcomes between dogs with spontaneous hemoperitoneum (SH) based on surgical timing and identify patient factors that may contribute to surgical timing decisions. Retrospective study of dogs undergoing surgery for spontaneous hemoperitoneum at a single institution from 2009 to 2024, excluding intraoperative euthanasias. Clinical and laboratory findings, timing of surgery and hospitalization, adverse events, and survival were recorded. Cases were grouped based on time from presentation to surgery, with emergent surgery (ES) defined as < 12 hours, subemergent surgery (SES) as 12 to 24 hours, and delayed surgery (DS) as > 24 hours. 99 cases were included, with 51 cases in the ES group and 24 in each of the SES and DS groups. Lower peripheral total solids was a predictor of ES (OR, 0.401; 95% CI, 0.219 to 0.733) or SES (OR, 0.33; 95% CI, 0.166 to 0.657) compared to DS. Dogs in the ES group were more likely to undergo splenectomy than those in the DS group (OR, 5.52; 95% CI, 1.60 to 19.1). No significant differences in blood product use or incidence of adverse events were found between groups. Survival to discharge was 93.9%, with no difference between groups. Surgical timing is not a predictor of adverse events or survival to discharge in dogs undergoing surgery for SH. Decisions regarding surgical timing in SH should be made on a case-by-case basis based on patient stability. Survival to discharge in this population was excellent regardless of surgical timing, and most adverse events encountered were minor.",
-      "categories": [
-        "surgery"
-      ]
-    },
-    {
-      "pmid": "41880750",
-      "title": "Expanding access to cancer care: 10% fluorescein sodium is a practical, low-cost method for intraoperative sentinel lymph node mapping in dogs.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Perez-Rodriguez V, Maxwell EA, Aisa J, Bertran J",
-      "date": "2026 07 20",
-      "dateObject": "2026 07 20",
-      "abstract": "To evaluate the feasibility and safety of 10% fluorescein sodium for intraoperative sentinel lymph node (SLN) mapping in dogs with cutaneous or subcutaneous tumors. 6 client-owned dogs received ID peritumoral injections of 10% fluorescein sodium diluted 1:120 with sterile saline. Lymphatic pathways and SLNs were visualized by means of blue (450- to 495-nm) and black (345- to 400-nm) light sources. Time to fluorescence, qualitative uptake, and adverse events were recorded. Excised SLNs underwent histopathologic evaluation. Lymphatic tracts were visualized in 5 of 6 dogs (83%; 95% CI, 36% to 100%), and SLNs were identified in all dogs (100%; 95% CI, 54% to 100%). Fluorescent uptake was complete in 4 SLNs (67%; 95% CI, 22% to 96%) and partial in 2 (33%; 95% CI, 4% to 78%). Mean time to lymphatic tract fluorescence was 6.7 &#xb1; 6.7 minutes, and mean time to SLN fluorescence was 8.0 &#xb1; 6.0 minutes. No adverse events occurred. Histopathology identified metastatic mast cell disease in 4 SLNs (67%; 95% CI, 22% to 96%), classified as HN2 in 2 (33%; 95% CI, 4% to 78%) and HN3 in 2 (33%; 95% CI, 4% to 78%), while reactive changes were observed in 2 SLNs (33%; 95% CI, 4% to 78%). Of 2 second-tier nodes, 1 showed HN2 metastasis and 1 reactive changes. Based on this preliminary study, 10% fluorescein sodium is a safe, feasible, and accessible method for intraoperative SLN mapping in dogs, providing real-time visualization of lymphatic pathways and lymph nodes. This low-cost, accessible technique may facilitate adoption of SLN mapping in general veterinary practice. Further studies are warranted.",
-      "categories": [
-        "oncology",
-        "dermatology"
-      ]
-    },
-    {
-      "pmid": "41861469",
-      "title": "Pilot study: external validation of commercial veterinary radiology artificial intelligence services shows deficiencies in interpretation of general practice-sourced canine abdominal radiographs.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Ma D, Faulkner JE, Stander N, Raisis A, Joslyn S",
-      "date": "2026 07 20",
-      "dateObject": "2026 07 20",
-      "abstract": "To evaluate the diagnostic performance of commercial veterinary radiology AI platforms on general practice canine abdominal radiographs with confirmed diagnoses. For this pilot study, canine abdominal radiographs with definitive diagnoses were collected and submitted to 6 AI platforms between September and December 2024. Confirmation of diagnosis was obtained with surgery, necropsy, CT, ultrasound, cytology, or treatment response when appropriate. 53 cases were selected and submitted to AI platforms. After platform rejections, 307 evaluations were available for analysis. When differentiating cases with pathology (51 of 53) and without pathology (2 of 53), platform performance was variable and mostly low to moderate, including mean accuracy (70% to 90%), balanced accuracy (60% to 65%), and Matthews correlation coefficient (-0.08 to 0.43). Across all platforms, classification of radiographic findings (labels) showed low sensitivity (28% to 78%), F1 score (28% to 51%), and positive predictive value (25% to 54%) due to frequent missed diagnoses. Matthews correlation coefficient was higher (0.16 to 0.45), as it was less impacted by label misclassification. Small intestinal obstruction, a critical finding, was often not identified, with a sensitivity of 23% to 69%. Diagnostic performance varied between the 6 AI platforms tested and was overall low to moderate for this small sample. Even the best-performing algorithm had notable limitations, and none appeared suitable for clinical use in their current form. Further independent external validations on a larger scale and performance gains are needed before AI platforms can be safely integrated into clinical practice.",
-      "categories": [
-        "internalMedicine",
-        "surgery"
-      ]
-    },
-    {
       "pmid": "42474547",
       "title": "High prevalence of Giardia spp. in cats without diarrhea and agreement between diagnostic techniques in the municipality of Londrina, Paran&#xe1;, Brazil.",
       "journal": "Veterinary Research Communications",
@@ -2626,18 +2632,6 @@
       "dateObject": "2026 07 08",
       "abstract": "This study compared veterinary clinics with and without designated feline-only areas or hours across four domains: feline stress during visits, handling and restraint techniques, owner education on preventive care and common diseases, and overall client satisfaction. A cross-sectional questionnaire study was conducted across eight clinics in Greater Lisbon, Portugal (November 2015-January 2016). In total, 204 cat owners completed a 37-question survey evaluating clinic experience, feline stress, owner education, and service quality. Respondents were divided based on whether their clinic offered feline-segregated areas or hours (n = 96) or not (n = 108). Data were analysed using Chi-square and Mann-Whitney U tests (p < 0.05), with effect sizes calculated via Cram&#xe9;r's V and rank-biserial correlation. Owners at non-segregated clinics reported greater difficulty removing cats from carriers (p = 0.034) and administering home medication (p = 0.040). Their cats were more frequently scruffed (18.4% vs 7.4%) or sedated (10.3% vs 2.5%; p = 0.046; Cram&#xe9;r's V = 0.24), with the presence of other species increasing perceived stress (p = 0.004; r = 0.21). Non-segregated clinic owners also received significantly less information regarding FeLV (42.6% vs 17.7% uninformed; p < 0.001), FIV (40.7% vs 15.6%; p < 0.001), flea prevention (27.8% vs 7.3%; p < 0.001), and deworming (21.3% vs 5.2%; p = 0.001). Satisfaction with staff and veterinarians was higher in the segregated group (p = 0.001 for both). Clinics utilizing designated feline-only spaces or hours demonstrated superior outcomes across all evaluated domains. These findings provide quantitative support for feline-friendly principles, suggesting that investing in species segregation, staff training, and client education yields tangible improvements in animal welfare, client relationships, and veterinary practice quality.",
       "categories": []
-    },
-    {
-      "pmid": "42187200",
-      "title": "Azotaemia and outcomes in male cats with initial and recurrent urethral obstruction: a multicentre, retrospective study of 601 cats (2020-2024).",
-      "journal": "Journal of Feline Medicine and Surgery",
-      "authors": "Skinner VJ, Zhong M, Hall EJ, Eramanis LM, Thompson MF",
-      "date": "2026 07 08",
-      "dateObject": "2026 07 08",
-      "abstract": "ObjectivesThis study aimed to compare the prevalence and time to resolution of azotaemia between male cats presented with initial and recurrent urethral obstruction (UO), and to evaluate risk factors for extended duration of urethral catheterisation and hospitalisation.MethodsA multicentre, retrospective study of male cats that underwent urethral catheterisation for UO was conducted. Cats were excluded if they did not have a UO on presentation, had previously diagnosed chronic kidney disease, had incomplete medical records or if they were referred by another clinic after decompression. Prevalence of azotaemia (serum or plasma creatinine >140&#x2009;&#xb5;mol/l) and time to resolution were compared between cats with initial and recurrent UO. Risk factors evaluated for extended duration of catheterisation and hospitalisation included signalment, history of UO, history of lower urinary tract signs (LUTS), diet, recent medications, lifestyle (indoor-only or indoor-outdoor), housing status (single or multi-cat) and azotaemia on presentation.ResultsCats were less likely to be azotaemic on presentation if they had a history of UO ( P &#x2009;=&#x2009;0.015) or LUTS ( P &#x2009;=&#x2009;0.014). Azotaemic cats were 1.92 times more likely to undergo a longer duration of catheterisation compared with non-azotaemic cats (95% confidence interval [CI] 1.40-2.65; P &#x2009;<0.001) and 1.81 times more likely to have a longer hospitalisation (95% CI 1.28-2.57; P &#x2009;<0.001). Resolution of azotaemia was achieved in less than 48&#x2009;h in 89/127 (70.1%) cats that were azotaemic on presentation (95% CI 61.3-77.9). Recurrent UO was not associated with longer time to resolution of azotaemia ( P &#x2009;=&#x2009;0.395).Conclusions and relevanceCats are less likely to present with azotaemia during recurrent UO episodes, which might be due to increased caregiver vigilance. Resolution of azotaemia occurred within 48&#x2009;h for most cats. There was no difference in catheterisation and hospitalisation duration between cats with initial and recurrent UO. Kidney values and recovery in male cats with first-time and repeat urinary blockages Urethral obstruction (a blockage that prevents a cat from passing urine) is a common emergency in male cats. When this happens, waste products can build up in the blood, leading to abnormal kidney values on blood tests. This might affect how long a cat needs to stay in hospital. It is unknown whether cats that have repeated blockages are more or less likely to develop abnormal kidney values than cats with a first-time blockage, or whether their recovery time differs. This study reviewed the medical records of male cats treated for urethral obstruction at several veterinary hospitals over a 5-year period. The researchers compared cats experiencing their first blockage with those that had had previous episodes. They looked at how often cats had abnormal kidney values, how long it took for these values to return to normal and which factors were associated with longer urinary catheter use or longer hospital stays. Cats that had had previous urethral obstructions or lower urinary tract problems were less likely to have abnormal kidney values when they arrived at the hospital. Cats that had abnormal kidney values were more likely to have a urinary catheter for longer and to stay in hospital for a longer period. However, having a previous obstruction did not affect how quickly kidney values returned to normal. In most cases, kidney values returned to normal within 48&#x2009;h of treatment. Overall, cats with repeat urethral obstructions were less likely to have abnormal kidney values, possibly because caregivers recognised the signs and sought treatment earlier. Importantly, cats with repeat obstructions did not stay in hospital longer than cats with a first-time obstruction, meaning treatment time and costs are expected to be similar.",
-      "categories": [
-        "internalMedicine"
-      ]
     },
     {
       "pmid": "42414994",
