@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T21:52:35.643Z",
+  "updated_at": "2026-08-17T21:59:24.524Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -3431,6 +3431,14 @@
       "title": "Dogs and cats with acute-on-chronic kidney disease have worse outcomes than those with acute kidney injury following renal replacement therapy.",
       "journal": "Frontiers in Veterinary Science",
       "generated_at": "2026-08-15T21:54:47.607Z",
+      "model": "gpt-5-mini"
+    },
+    "42604724": {
+      "brief_summary": "이 연구는 고양이 종양에서 DNA 불일치 수선(MMR) 단백질의 면역조직화학(IHC) 평가법을 확립하고, 항인간(anti-human) MLH1, MSH2, MSH6 항체의 고양이 교차반응성을 CRISPR/Cas9로 각 유전자를 결손시킨 고양이 종양 세포주로 검증했다. 검증된 항체로 83개의 고양이 종양을 파일럿 스크리닝한 결과 여러 종양에서 MLH1, MSH2, MSH6의 부분적 감소 또는 결손을 관찰했으며 특히 흑색종(6/6)과 골육종(14/15)에서 MLH1 결손이 두드러졌다. 본 연구는 고양이 MMR 단백질 평가를 위한 첫 분석적 검증 틀을 제시하며, MMR 이상이 임상적으로 더 널리 분포할 가능성을 시사하지만 임상적 적용을 위해서는 추가 검증이 필요함을 의미한다.",
+      "detailed_summary": "연구진은 항인간 MLH1, MSH2, MSH6 항체의 고양이 조직에서의 교차반응성을 CRISPR/Cas9로 각 표적 유전자를 결손시킨 고양이 종양 세포주를 이용해 검증하고, 이를 바탕으로 면역조직화학(IHC) 접근법을 확립했다. 확립된 IHC법을 사용해 총 83개의 고양이 임상 종양 표본을 파일럿 스크리닝했다. 주요 평가 항목은 MLH1, MSH2, MSH6 단백질의 발현 감소 또는 결손 유무였고, 여러 종양 유형에서 발현 감소 또는 결손이 관찰되었다. 특히 MLH1 발현은 모든 흑색종 증례(6/6)에서 결손으로 나왔고, 골육종의 대부분(14/15)에서도 MLH1 결손이 확인되어 특정 악성종양에서 MMR 교란이 두드러질 수 있음을 시사한다. 연구는 고양이 종양학에서 MMR 단백질을 평가할 수 있는 최초의 분석적으로 검증된 틀을 제공하지만 표본 수가 제한된 파일럿 연구라는 점이 중요한 한계이다. 저자들은 마이크로새틀라이트 불안정성(MSI) 검사, 메틸화 분석 및 유전체 프로파일링을 포함한 대규모 후속 연구가 필요하다고 결론지었다.",
+      "title": "Immunohistochemical Characterisation of Mismatch Repair Proteins in Feline Cancers: A Pilot Study Using Validated Cross-Reactive Antibodies.",
+      "journal": "Veterinary and Comparative Oncology",
+      "generated_at": "2026-08-17T21:59:24.517Z",
       "model": "gpt-5-mini"
     }
   }

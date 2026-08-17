@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-08-16T21:52:35.632Z",
+  "updated_at": "2026-08-17T21:59:11.137Z",
   "papers": [
+    {
+      "pmid": "42359893",
+      "title": "Longitudinal evaluation of discordant symmetric dimethylarginine and creatinine as markers of glomerular filtration rate in radioiodine-treated hyperthyroid cats.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "authors": "Hardy L, Hibbert A, Tasker S, Finch NC",
+      "date": "2026 08 17",
+      "dateObject": "2026 08 17",
+      "abstract": "ObjectivesThe aim of the present study was to determine the frequency and clinical significance of discordant serum symmetric dimethylarginine (SDMA) and creatinine concentrations relative to glomerular filtration rate (GFR) in mature and senior hyperthyroid cats treated with radioactive iodine (RAI). Secondary aims of the study were to compare the sensitivity and specificity of two SDMA upper reference intervals (RIs; >14 and &#x2a7e;18&#x2009;&#xb5;g/dl) and creatinine (&#x2a7e;175&#x2009;&#xb5;mol/l) for detecting decreased GFR and to evaluate the intra-individual variability of both biomarkers.MethodsA prospective longitudinal study of 27 client-owned hyperthyroid cats receiving low-dose RAI therapy was conducted. At baseline, 1, 6 and 12 months after RAI, cats were evaluated for thyroid status, GFR, SDMA and creatinine concentrations. Discordance was defined as one renal biomarker exceeding its RI with the other within/below the RI, using laboratory and age-specific SDMA RIs. In euthyroid cats, sensitivity, specificity and predictive values of SDMA/creatinine for decreased GFR and intra-individual variability were determined.ResultsDiscordance between SDMA and creatinine was in the range of 10-75% and was highest with the SDMA limit >14&#x2009;&#xb5;g/dl. SDMA-GFR discordance exceeded creatinine-GFR discordance at all time points and was highest at baseline, when all cats were hyperthyroid. In cats w&#xfeff;ith euthyroid status at 12 months, SDMA >14&#x2009;&#xb5;g/dl was more sensitive (83%) but less specific (50%) for decreased GFR than SDMA &#x2265;18&#x2009;&#xb5;g/dl (sensitivity 50%, specificity 71%) and creatinine (sensitivity 50%, specificity 85%). Intra-individual variability was similar for both biomarkers (~15%).Conclusions and relevanceDiscordant SDMA and creatinine concentrations are frequent in older hyperthyroid cats and are influenced by thyroid status and SDMA RIs, complicating interpretation. The SDMA limit &#x2265;18&#x2009;&#xb5;g/dl improves specificity for decreased GFR and is more appropriate for senior cats. SDMA concentrations in the range of 15-18&#x2009;&#xb5;g/dl are less likely to reflect true GFR reduction when creatinine is normal; therefore, non-renal influences such as hyperthyroidism should be considered and ongoing monitoring of renal parameters is recommended. A long-term assessment of two different indirect blood indicators of kidney function in cats undergoing radioiodine treatment for hyperthyroidism, to determine any discrepancies between the two and how these relate to direct measurements of kidney function This study looked at how two common blood tests for kidney function, symmetric dimethylarginine (SDMA) and creatinine, behave in older cats treated with radioiodine for hyperthyroidism. Vets often use these tests to check how well the kidneys are functioning, but the two markers do not always agree. The researchers wanted to understand how often this happens and which test is more reliable when compared with a more direct measurement of kidney function. A total of 27 hyperthyroid cats were followed for 1 year. Before treatment with radioiodine and again at 1, 6 and 12 months afterwards, the cats had their thyroid levels, kidney glomerular filtration rate (GFR), SDMA and creatinine measured. The team looked for cases where one kidney marker (either SDMA or creatinine) was high but the other was normal or low, and they assessed how well each marker detected a true decrease in kidney filtration function by comparing them to GFR. The researchers found that SDMA and creatinine results did not agree in 10&#x2013;75% of cats, especially when using a lower SDMA cut-off (>14&#x2009;&#xb5;g/dl). SDMA did not agree with the direct measure of kidney function, GFR, more frequently than creatinine, particularly when the cats were still hyperthyroid. At 12 months after treatment, in the cats with normal thyroid levels, the higher SDMA cut-off (&#x2a7e;18&#x2009;&#xb5;g/dl) was more accurate and produced fewer false-positive results. Overall, the study shows that discrepancies in SDMA and creatinine results are common in older hyperthyroid cats, and thyroid disease itself can affect SDMA. SDMA values of 15&#x2013;18&#x2009;&#xb5;g/dl may not truly indicate kidney disease if creatinine is normal. For senior cats, using the higher SDMA cut-off improves accuracy. When results do not match, vets should consider non-kidney factors, like thyroid status, and continue monitoring over time.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42604724",
+      "title": "Immunohistochemical Characterisation of Mismatch Repair Proteins in Feline Cancers: A Pilot Study Using Validated Cross-Reactive Antibodies.",
+      "journal": "Veterinary and Comparative Oncology",
+      "authors": "Nishibori S, Sakurai M, Kagawa Y, Nishigaki K, Nakagawa T, Inanaga S, Igase M, Mizuno T",
+      "date": "2026 08 16",
+      "dateObject": "2026 08 16",
+      "abstract": "DNA mismatch repair (MMR) deficiency is a clinically important biomarker in human oncology, yet its relevance in feline neoplasia remains poorly understood due to limited characterisation and the absence of validated reagents. In this study, we established a practical immunohistochemistry (IHC) approach for evaluating feline MMR proteins by confirming the cross-reactivity of anti-human MLH1, MSH2 and MSH6 antibodies using CRISPR/Cas9-engineered feline tumour cell lines lacking each target gene. Using these validated antibodies, we conducted a pilot screening to assess MMR protein expression in 83 feline tumours and observed variable reductions or losses of MLH1, MSH2 and MSH6 across several tumour types. Notably, MLH1 expression was lost in all melanoma cases (6/6, 100%) and in most osteosarcomas (14/15, 93%), indicating that MMR perturbations may be particularly relevant in these malignancies. These findings provide the first analytically validated framework for assessing MMR proteins in feline oncology and suggest that MMR dysregulation may be more widespread than previously recognised. Although the clinical sample size is limited, this initial pilot screening maps the preliminary landscape of feline MMR protein expression. Further large-scale validation studies incorporating microsatellite instability testing, methylation analysis and genomic profiling are warranted to clarify the biological significance of these alterations.",
+      "categories": [
+        "oncology"
+      ]
+    },
     {
       "pmid": "42601940",
       "title": "Epidemiological study of Toxocara canis infection in dogs in selected regions of Egypt.",
@@ -396,20 +420,6 @@
       "dateObject": "2026 08 12",
       "abstract": "ObjectivesTo investigate the prevalence of hypo- and hypercobalaminemia in a cohort of cats with diverse disease pathologies and to assess associations with signalment and disease characteristics.MethodsResidual blood from cats presented to a large veterinary referral hospital during a 24-month period was used for serum B12 quantification. All cats requiring blood collection as part of diagnostic investigations were eligible for inclusion regardless of clinical presentation. Serum B12 concentration was assessed according to signalment, body weight, body condition score, primary affected body system and type of disease pathology as derived from the clinical notes.ResultsA total of 229 cats were enrolled: 128 male (119 neutered, 9 entire) and 101 female (88 neutered, 13 entire). Of these, 176 were domestic shorthair or longhair, and 53 were purebred. The median age was 9.9 years and median body weight 4.1 kg. Of the 229 cats, 80 (34.9%) had high, 86 (37.6%) normal, 18 (7.9%) borderline, and 45 (19.7%) low serum B12. Median serum B12 concentration was higher in cats aged <8.0 years than &#x2265;8.0 years, and there was a weak but significant negative correlation between age and serum B12. Median serum B12 concentration was lower in cats weighing <3.0 kg than in those &#x2265;3.0 kg, and a weak but significant positive correlation was found between body weight and serum B12 concentration. No associations were found between serum B12 and sex, breed, body condition score, affected body system, or pathology type.Conclusions and relevanceVitamin B12 aberrations were common in this cohort of cats, approximately a third and a fifth having abnormally high and low serum concentrations respectively. Serum vitamin B12 concentration declined with advancing age, and hypocobalaminemia was more prevalent in cats with body weights <3.0kg. Hypo- and hypercobalaminemia were documented in cats with a wide variety of clinical presentations, and no specific disease associations were elucidated.",
       "categories": []
-    },
-    {
-      "pmid": "42586801",
-      "title": "Expression of Topoisomerase II Alpha in Canine Colorectal Polyps, Adenomas and Adenocarcinomas.",
-      "journal": "Veterinary and Comparative Oncology",
-      "authors": "Fiedorowicz J, Pa&#x17a;dzior-Czapula K, Ko&#x142;odziejski PA, Otrocka-Domaga&#x142;a I",
-      "date": "2026 08 12",
-      "dateObject": "2026 08 12",
-      "abstract": "With the development and increased accessibility of diagnostic methods in veterinary medicine, the possibilities for early detection of proliferative lesions in the canine large intestine have expanded over the past decade. Since in human medicine, topoisomerase II alpha (Topo II&#x3b1;) is considered a prognostic and predictive marker in various tumours, including colorectal carcinoma, we aimed to verify the role of this enzyme in proliferative epithelial lesions of the canine large intestine. In this study, we examined and compared the expression of Topo II&#x3b1; in normal rectal mucosa, hyperplastic polyps, adenomas, and adenocarcinomas of the large intestine in dogs. Each type of lesion included 20 cases, in which the expression of Topo II&#x3b1; was evaluated using immunohistochemistry. The median percentage of Topo II&#x3b1; positive cells was 29.4% (IQR 24.9-37.1) in polyps, 30.3% (IQR 24.6-34.1) in adenomas, 36% (IQR 26.2-42.0) in adenocarcinomas, and 7.8% (IQR 5.9-10.6) in normal intestinal mucosa. Statistical analysis using the Kruskal-Wallis test followed by Dunn's post hoc tests with Bonferroni correction revealed significantly higher Topo II&#x3b1; expression in hyperplastic polyps (p&#x2009;=&#x2009;0.013, r&#x2009;=&#x2009;0.62), adenomas (p&#x2009;=&#x2009;0.033, r&#x2009;=&#x2009;0.57) and adenocarcinomas (p&#x2009;=&#x2009;0.002, r&#x2009;=&#x2009;0.73) compared with normal rectal mucosa, with large effect sizes. Our results may serve as a preliminary basis for the potential use of anthracyclines in the treatment of canine colorectal adenocarcinomas, as well as in multiple adenomas or polyps when surgical options are limited. This study presents new insights of Topo II&#x3b1; expression in canine large intestine carcinogenesis and could provide a valuable foundation for further clinical research.",
-      "categories": [
-        "internalMedicine",
-        "oncology",
-        "surgery"
-      ]
     },
     {
       "pmid": "42580715",
@@ -1941,19 +1951,6 @@
       "categories": [
         "cardiology",
         "surgery"
-      ]
-    },
-    {
-      "pmid": "42206764",
-      "title": "Ultrasonographic findings of feline large intestinal adenocarcinoma and high-grade lymphoma.",
-      "journal": "Journal of Feline Medicine and Surgery",
-      "authors": "Khodari J, Anson A, Penninck D",
-      "date": "2026 07 23",
-      "dateObject": "2026 07 23",
-      "abstract": "ObjectivesThe aim of this retrospective study was to describe the ultrasonographic findings of cats with large intestinal adenocarcinoma (ACA) and high-grade lymphoma (LSA).MethodsCats diagnosed with large intestinal neoplasia with a complete abdominal ultrasound were included in the study. Signalment, clinical history, physical examination, blood work and outcome data were collected. Tumor location, length, wall thickness and layering, echogenicity, lymphadenopathy, effusion, ulceration and obstruction were recorded.ResultsA total of 44 cats had ACA, with the colon affected in 28/44 cats and the ileocolic junction (ICJ) affected in 16/44 cats. The ACA tumors had a median length of 23&#x2009;mm and a median wall thickening of 9&#x2009;mm. Regional lymphadenopathy was noted in 29/44 cats, with a median thickness of 6.05&#x2009;mm. Obstruction was observed in 30% of the cats with ACA. In total, 38 cats were diagnosed with high-grade LSA, primarily affecting the ICJ in 20/38 cats, the colon in 14/38 cats and multiple sites within the gastrointestinal tract in 4/38 cats. In addition, 7/38 cats had other organ involvement. The LSA tumors had a median length of 40.3&#x2009;mm and a median wall thickening of 15&#x2009;mm. Regional lymphadenopathy was noted in 31/38 cats, with a median thickness of 8.6&#x2009;mm. Obstruction was present in 11% of the cats with LSA. Both tumor types commonly appeared as transmural hypoechoic thickening with loss of wall layering. The median survival time for cats with large intestinal ACA and LSA was 19 days and 23 days, respectively.Conclusions and relevanceCats with large intestinal ACA and LSA shared a similar clinical presentation. ACA and LSA share similar ultrasonographic features; however, LSA lesions are typically thicker and longer and are associated with more frequent and pronounced lymphadenopathy than ACA lesions. ACAs are more likely to cause obstruction, whereas LSA tumors tend to have a multicentric distribution. Because imaging findings overlap, cytologic or histologic sampling remains essential for definitive diagnosis.",
-      "categories": [
-        "internalMedicine",
-        "oncology"
       ]
     },
     {
