@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-17T21:59:11.137Z",
+  "updated_at": "2026-08-18T21:56:13.700Z",
   "papers": [
+    {
+      "pmid": "41927004",
+      "title": "Successful long-term patent ductus arteriosus closure in dogs can be achieved with the use of nonabsorbable or absorbable monofilament synthetic sutures.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Schlake A, Mampaey G, Proteasa A, Smets P, de Rooster H, Van Goethem B",
+      "date": "2026 08 18",
+      "dateObject": "2026 08 18",
+      "abstract": "To describe the use of synthetic monofilament suture material for closure of left-to-right shunting patent ductus arteriosus (PDA) in dogs, and to compare long-term results between nonabsorbable and slowly absorbable synthetic monofilament suture material with a minimum follow-up of at least 5 months. In a retrospective cohort study, patient files were analyzed for dogs that had surgical ligation of left-to-right shunting PDA between February 2012 and March 2022 at the Small Animal Teaching Hospital, Ghent University. Based on the suture material used, dogs were assigned to the nonabsorbable polypropylene (NON) or slowly absorbable polydioxanone (ABS) group. Recorded data included patient demographics, echocardiographic evaluation, intraoperative parameters, postoperative echocardiographic screening, and long-term clinical examination. 43 dogs were included (23 dogs in the NON group vs 20 dogs in the ABS group). No difference was found between groups regarding age, weight, duct size, surgical time, occurrence of intraoperative hemorrhage, or residual ductal flow. Complete ligation was achieved in 41 of 43 dogs. Postoperative residual ductal flow was detected on echocardiography in 1 dog in each group and progressed from minor at day 1 to trivial or absent at last follow-up. No long-term recanalization occurred in any of the groups. Synthetic monofilament suture materials were successfully used to ligate left-to-right shunting PDA with the incidence of residual ductal flow similar to that reported for silk. No recanalization occurred with the use of resorbable suture material. PDA closure can be safely performed with the use of either polypropylene or polydioxanone suture material.",
+      "categories": [
+        "cardiology",
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42609759",
+      "title": "Chronic intestinal pseudo-obstruction secondary to intestinal leiomyositis in a ragdoll cat.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Lau CWW, Hope A, Donnelly E",
+      "date": "2026 08 18",
+      "dateObject": "2026 08 18",
+      "abstract": "A 1-year-old neutered male neutered Ragdoll cat was presented with a 4-week history of hyporexia, intermittent diarrhoea and weight loss. Initial imaging revealed a varying degree of distension of the intestinal loops by echoic fluid/gas and some loops had hyperechoic content with marked echo shadowing. Exploratory laparotomy was recommended but declined. Subsequent clinical deterioration prompted further investigation with CT scan revealing severe dilation of the intestine which was deemed likely secondary to small intestinal foreign body obstruction, and less likely to be secondary to a condition resulting in functional ileus. Surgical exploration revealed severe intestinal distension extending from mid-jejunum to the caecum and the distended portion of the intestine was impacted with hard faecal matter towards the caecum. Surgical resection of the ileum and caecum was performed. Unfortunately, following surgery the patient continued to decline and was euthansied. On post-mortem examination, histhopathology confirmed myopathic instestinal leiomyositis. To our knowledge, this is the first reported case of myopathic intestinal leiomyositis in a cat. This report supports inclusion of pseudo-obstruction as a differential diagnosis in cats with non-obstructive intestinal disease, highlights the need for further investigation to better characterize intestinal pseudo-obstruction in veterinary medicine, and suggests that insights from human medicine may inform diagnostic and disease classification approaches in the interim.",
+      "categories": [
+        "internalMedicine",
+        "surgery"
+      ]
+    },
     {
       "pmid": "42359893",
       "title": "Longitudinal evaluation of discordant symmetric dimethylarginine and creatinine as markers of glomerular filtration rate in radioiodine-treated hyperthyroid cats.",
@@ -917,18 +943,6 @@
       "dateObject": "2026 08 07",
       "abstract": "",
       "categories": []
-    },
-    {
-      "pmid": "42565009",
-      "title": "Case Report: Endoscopic-guided electrocautery ablation of a vaginal hemorrhagic lesion in a dog.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Michalak SR, Palm CA, Woerde DJ, Culp WTN",
-      "date": "2026 08 07",
-      "dateObject": "2026 08 07",
-      "abstract": "A 7-year-old female spayed Labrador retriever was presented for a 3-year history of progressive hemorrhage from the vulva. The dog previously underwent cystourethroscopy and vaginoscopy 1&#x202f;year prior, and a small, raised hemorrhagic lesion was identified in the caudal vaginal wall. Following pinch biopsies of the lesion, bleeding ceased during the remainder of the procedure but recommenced within a week following discharge from the hospital. Histopathology of the vaginal biopsy revealed chronic neutrophilic and lymphoplasmacytic vaginitis. One year later, the dog was reevaluated for persistent and progressive bleeding from the vulva. At that time, dual phase abdominal computed tomography identified a focal, 0.5&#x202f;cm x 1.0&#x202f;cm region of asymmetric contrast enhancement within the vaginal wall. Cystourethroscopy and vaginoscopy identified a progressively enlarged bleeding polypoid mass lesion in the caudodorsal vaginal wall. Biopsy of the lesion followed by monopolar electrocautery ablation of the proliferative tissue was performed. Histopathology revealed hemorrhage lined by a layer of stratified squamous epithelium and neutrophilic exocytosis with no neoplastic cells identified. The underlying etiology of the lesion was not definitively determined. Vulvovaginal bleeding resolved following the procedure and remains resolved at the time of writing 7&#x202f;months later. This case report describes successful endoscopic-guided electrocautery ablation of a vaginal hemorrhagic lesion in a dog.",
-      "categories": [
-        "oncology"
-      ]
     },
     {
       "pmid": "42563163",
@@ -2154,19 +2168,6 @@
       "dateObject": "2026 07 20",
       "abstract": "To retrospectively evaluate whether postoperative ocular hypertension (POH) occurs after pars plana vitrectomy (PPV) for rhegmatogenous retinal detachment, as POH does after phacoemulsification and aspiration (PEA). Medical records of dogs that underwent PPV or PEA between January 2018 and December 2021 were reviewed retrospectively. Cases were divided into 2 groups: the PPV group and the PEA group. The PPV group was further divided into 2 groups: the PPV-only group and the PEA + PPV group, which included cases that underwent PEA and PPV simultaneously. Intraocular pressure was measured preoperatively and at 1, 3, 5, 24, and 48 hours postoperatively with rebound tonometry in all dogs, and POH incidence was analyzed. Of the 377 eyes (300 dogs), 43 eyes (40 dogs) were included in the PPV-only group, 48 eyes (45 dogs) in the PEA + PPV group, and 286 eyes (215 dogs) in the PEA group. The incidence of POH was 9.9% (9 of 91 eyes) in the PPV group and 25.5% (73 of 286 eyes) in the PEA group. Within the PPV group, the incidence of POH was 2.3% (1 of 43 eyes) in the PPV-only group and 16.7% (8 of 48 eyes) in the PEA + PPV group. The incidence of POH was significantly lower in the PPV group than in the PEA group. Postoperative ocular hypertension occurred after PPV for rhegmatogenous retinal detachment in dogs, with a lower incidence than after PEA. Given the possibility of developing POH after PPV, similar to PEA, postoperative monitoring of intraocular pressure is crucial.",
       "categories": [
-        "surgery"
-      ]
-    },
-    {
-      "pmid": "41927004",
-      "title": "Successful long-term patent ductus arteriosus closure in dogs can be achieved with the use of nonabsorbable or absorbable monofilament synthetic sutures.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Schlake A, Mampaey G, Proteasa A, Smets P, de Rooster H, Van Goethem B",
-      "date": "2026 07 20",
-      "dateObject": "2026 07 20",
-      "abstract": "To describe the use of synthetic monofilament suture material for closure of left-to-right shunting patent ductus arteriosus (PDA) in dogs, and to compare long-term results between nonabsorbable and slowly absorbable synthetic monofilament suture material with a minimum follow-up of at least 5 months. In a retrospective cohort study, patient files were analyzed for dogs that had surgical ligation of left-to-right shunting PDA between February 2012 and March 2022 at the Small Animal Teaching Hospital, Ghent University. Based on the suture material used, dogs were assigned to the nonabsorbable polypropylene (NON) or slowly absorbable polydioxanone (ABS) group. Recorded data included patient demographics, echocardiographic evaluation, intraoperative parameters, postoperative echocardiographic screening, and long-term clinical examination. 43 dogs were included (23 dogs in the NON group vs 20 dogs in the ABS group). No difference was found between groups regarding age, weight, duct size, surgical time, occurrence of intraoperative hemorrhage, or residual ductal flow. Complete ligation was achieved in 41 of 43 dogs. Postoperative residual ductal flow was detected on echocardiography in 1 dog in each group and progressed from minor at day 1 to trivial or absent at last follow-up. No long-term recanalization occurred in any of the groups. Synthetic monofilament suture materials were successfully used to ligate left-to-right shunting PDA with the incidence of residual ductal flow similar to that reported for silk. No recanalization occurred with the use of resorbable suture material. PDA closure can be safely performed with the use of either polypropylene or polydioxanone suture material.",
-      "categories": [
-        "cardiology",
         "surgery"
       ]
     },

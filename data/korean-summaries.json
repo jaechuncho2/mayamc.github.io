@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T21:59:24.524Z",
+  "updated_at": "2026-08-18T21:56:36.272Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -3439,6 +3439,14 @@
       "title": "Immunohistochemical Characterisation of Mismatch Repair Proteins in Feline Cancers: A Pilot Study Using Validated Cross-Reactive Antibodies.",
       "journal": "Veterinary and Comparative Oncology",
       "generated_at": "2026-08-17T21:59:24.517Z",
+      "model": "gpt-5-mini"
+    },
+    "42609759": {
+      "brief_summary": "1세 중성화 수컷 랙돌 고양이 한 증례에서 장 평활근염(leiomyositis)에 의해 발생한 만성 장 가성폐색(Chronic intestinal pseudo-obstruction, CIPO)을 보고한다. 임상증상은 4주간의 식욕부진, 간헐적 설사 및 체중감소였고 영상검사에서 장관의 심한 팽창이 관찰되었으며, 수술 후 조직병리에서 장 평활근염으로 확진되었다. 이 증례는 고양이에서 보고된 첫 사례로 비기계적 장질환에서 가성폐색을 감별진단에 포함할 필요성을 시사한다.",
+      "detailed_summary": "대상은 4주간 식욕부진, 간헐적 설사 및 체중감소를 보인 1세 중성화 수컷 랙돌 고양이 한 마리였다. 초기 영상에서 장 루프의 정도가 다양하게 에코성 액체/가스로 팽창하고 일부 루프는 고에코성 내용물과 현저한 섀도잉이 관찰되었다. 탐복개복 수술은 권유되었으나 처음에는 거부되었고 이후 임상 악화로 추가 검사로 실시한 전산화단층촬영(CT)에서는 심한 장팽창이 관찰되어 소장 이물에 의한 폐색 가능성이 가장 높게 평가되었고 기능성 장마비(functional ileus)는 가능성이 낮게 여겨졌다. 수술적 탐색에서 중공장(mid-jejunum)부터 맹장(cecum)까지 심한 팽창과 맹장 쪽으로 단단한 분변에 의한 충수(impaction)가 확인되었고 회장(ileum)과 맹장의 부분 절제가 시행되었다. 수술 후에도 상태가 호전되지 않아 안락사되었고, 사후 조직병리검사에서 근병성의 장 평활근염(leiomyositis)이 확인되어 가성폐색의 원인으로 판정되었다. 저자들은 본 증례가 고양이에서 보고된 최초의 myopathic intestinal leiomyositis 사례임을 밝히며, 비기계적 장질환에서 가성폐색을 감별해야 함을 권고하고 추가 연구의 필요성을 제시한다. 단, 본 연구는 단일 증례보고이므로 일반화할 수 없으며 향후 더 많은 증례와 연구가 필요하다.",
+      "title": "Chronic intestinal pseudo-obstruction secondary to intestinal leiomyositis in a ragdoll cat.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-08-18T21:56:36.264Z",
       "model": "gpt-5-mini"
     }
   }
