@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T21:56:36.272Z",
+  "updated_at": "2026-08-19T22:02:27.772Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -3447,6 +3447,38 @@
       "title": "Chronic intestinal pseudo-obstruction secondary to intestinal leiomyositis in a ragdoll cat.",
       "journal": "Frontiers in Veterinary Science",
       "generated_at": "2026-08-18T21:56:36.264Z",
+      "model": "gpt-5-mini"
+    },
+    "42612685": {
+      "brief_summary": "본 연구는 2024년 5월 28일부터 8월 2일까지 수의대 부속병원에 내원한 반려견의 차량 이동 시 안전장치(예: 시트벨트 기반 장치) 사용 빈도와 관련 요인을 조사한 전향적 설문 연구이다. 결과적으로 533두 중 195두(36.6%)만이 안전장치를 사용했으며 338두(63.4%)는 무구속 상태로 이동했다. 체중 증가(kg당 OR 0.97, 95% CI 0.95–0.98)는 안전장치 사용 감소와 관련했고, 방문 전 투약(previsit pharmaceuticals, OR 1.8, 95% CI 1.02–3.01) 및 반려동물 보험 유무(OR 1.5, 95% CI 1.01–2.34)는 사용 증가와 연관되었다는 점은 임상적 의미가 있다.",
+      "detailed_summary": "본 연구는 2024년 5월 28일부터 8월 2일까지 수의대 교육병원에서 소유주가 작성한 설문을 통해 차량 운송 시 반려견의 안전장치 사용 실태를 전향적으로 조사했다. 연구 대상은 총 533두였고, 설문에서는 안전장치 사용 여부 및 종류, 이동 시간, 불안 수준, 방문 전 약물 투여 여부 등을 평가하였다. 전체 중 195두(36.6%)가 안전장치를 사용했으며 338두(63.4%)는 무구속으로 이동했다. 가장 흔한 안전장치 유형은 시트벨트 기반 장치였다. 통계 분석 결과 체중이 1kg 증가할 때마다 안전장치 사용 오즈가 3.3% 감소(OR 0.97; 95% CI 0.95–0.98)했고, 방문 전 투약(OR 1.8; 95% CI 1.02–3.01)과 반려동물 보험 보유(OR 1.5; 95% CI 1.01–2.34)가 사용과 연관됐다. 연령, 내원 사유, 이동시간, 불안 수준, 운송 수단은 안전장치 사용과 유의한 연관성이 없었다. 초록에서는 추가적인 제한점이 구체적으로 기술되어 있지 않으며, 연구는 반려인 교육 강화를 통해 안전한 차량 이동 관행을 개선할 수 있음을 제시하고 있다.",
+      "title": "Most dogs transported to a veterinary teaching hospital are unrestrained during vehicular travel.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-08-19T22:02:06.736Z",
+      "model": "gpt-5-mini"
+    },
+    "42612694": {
+      "brief_summary": "본 연구는 3-테슬라(3T) DSC(dynamic susceptibility contrast) MRI에서 수동(16두) 대 자동(13두) 조영제 주입을 무작위 배정으로 비교하여 형태학적으로 정상인 개 29두를 평가했다. 자동 주입은 DSC 곡선의 재현성이 더 우수했고, 수동 주입은 모든 관심영역에서 T0, TTP, MTT가 지연되고 semioval center에서는 relCBV가 높았으며 thalamus와 piriform lobe에서는 자동 주입에서 relCBF가 더 높았다. 임상적으로 자동 주입이 일관된 퍼퓨전 파라미터 확보에 유리하며, 수동 주입을 사용할 경우 넓은(플랫한) DSC 곡선을 감안한 적절한 참조 기준을 적용해야 한다.",
+      "detailed_summary": "전향적 무작위 배정 연구로 2023년 11월부터 2025년 2월까지 일상 3T 뇌 MRI 프로토콜에 DSC를 포함한 내원 개(소유자 소유) 29두(수동 16두, 자동 13두)를 대상으로 했다. 사용 조영제는 gadoteric acid 0.1 mmol/kg이며 체중에 따라 주입속도는 1–5 kg에서 1 mL/s, 6–15 kg에서 2 mL/s, >15 kg에서 3 mL/s로 설정했다. 평가한 퍼퓨전 지표는 조영제 도착시간(T0), 최고증강시간(TTP), 평균통과시간(MTT), 상대 뇌혈류(relCBF), 상대 뇌혈량(relCBV)이며 관심영역은 시상(thalamus), 피리폼엽(piriform lobe), semioval center였다. 통계분석은 Mann-Whitney U 검정에 Holm-Bonferroni 보정과 rank-biserial 상관을 효과크기로 사용했다. 결과는 수동 주입에서 모든 ROI의 T0, TTP, MTT가 더 길고 semioval center에서 relCBV가 더 높았으며, thalamus와 piriform lobe에서는 자동 주입에서 relCBF가 더 높게 관찰되었다. 퍼퓨전 곡선 형태는 수동 주입에서 더 플랫하고 넓어 T0·TTP·MTT의 연장과 relCBF 감소로 이어졌다. 결론적으로 자동 주입이 DSC 곡선의 재현성을 개선하지만 수동 주입도 가능하며, 수동 주입 시에는 넓어진 곡선을 반영한 적절한 참조 파라미터를 고려해야 한다.",
+      "title": "Automated injection improves consistency of brain perfusion parameters in dynamic susceptibility contrast magnetic resonance imaging in dogs in a randomized trial.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-08-19T22:01:46.909Z",
+      "model": "gpt-5-mini"
+    },
+    "42612701": {
+      "brief_summary": "본 실험은 3D 프린트로 제작한 골격 미성숙(6개월, 26kg 래브라도) 근위 상완골 Salter-Harris type I 골단부 골절 모델을 이용해 4가지 고정법의 생체역학적 안정성을 비교했다. fully threaded headless cannulated screw (FTHCS)와 1.6mm Kirschner (K)-wire를 병용한 군(group D)이 1mm(663.95 N) 및 2mm(1,080.33 N) 변위에서 다른 군보다 유의하게 높은 저항을 보였고(max failure load는 차이 없음). 임상적 의미로는 FTHCS에 K-와이어를 보강하면 근위부(골두) 함몰을 완화하면서 미성숙 개에서 조기 재활에 충분한 단독 안정성을 제공할 수 있음을 시사한다.",
+      "detailed_summary": "본 연구는 2025년 9월 25일부터 2026년 4월 22일까지 시행된 실험적 인비트로 연구로, CT로부터 유래한 동일한 3D 프린트 소형 근위 상완골 Salter-Harris type I 골절 모델(6개월, 26kg 래브라도)을 사용해 생물학적 변이를 엄격히 통제했다. 총 24개 모델을 4개 군으로 나누어 비교했으며(n=6/군), 군별 수복법은 핀 및 텐션 밴드 와이어(군 A), 부분 나사(cannulated screw, 군 B), FTHCS 단독(군 C), FTHCS+1.6mm K-와이어(군 D)였다. 평가 항목은 supraspinatus 견인(105°)을 모사한 인장 하중(10 mm/min)에서의 1mm 및 2mm 변위 시 하중, 최대 파열 하중, 파열 양상이었다. 군 D는 1mm 변위에서 663.95 N, 2mm 변위에서 1,080.33 N로 다른 군보다 유의하게 높은 저항을 보였고(1mm에서 군 D vs C/A/B의 평균 차이 206.2 N, 380.6 N, 405.7 N; P < .0083), 반면 최대 파열 하중은 군 간 유의 차이가 없었다. 파열 양상은 군 B에서 근위부 국소 압쇄 및 함몰(subsidence)이 관찰된 반면, FTHCS 포함 군(C, D)은 근위부의 완전성이 보존되고 원위부에서 파열이 발생했다. 결론적으로 3D 프린트 모델에서는 FTHCS에 K-와이어를 보강한 구성(군 D)이 인장 변위에 대한 저항성이 가장 우수해 미성숙 개에서 아두(골두) 붕괴를 완화하고 조기 재활에 적절한 안정성을 제공할 가능성을 시사한다.",
+      "title": "Fixation of proximal humeral Salter-Harris type 1 fractures in a 3-dimensionally printed skeletally immature canine bone model: a biomechanical assessment of fully threaded headless cannulated screws.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-08-19T22:01:28.435Z",
+      "model": "gpt-5-mini"
+    },
+    "42613071": {
+      "brief_summary": "본 연구는 림프종 고양이에서 사이타라빈(Cytarabine)의 정맥 내 지속속도 주입(IV CRI) 투여 후 독성 양상을 평가하기 위해 1990–2024년 의무기록을 후향적으로 검토한 것이다. 38마리 고양이, 70회 투여를 분석한 결과 주로 경증의 위장관·전신성 이상 반응이 흔했고 총 103건의 이상반응(AE)이 보고되었으나 3–4등급의 빈혈이 비교적 자주 관찰되었다. 전반적으로 IV CRI 방식의 사이타라빈은 대체로 내약성이 양호했으나 치료 효과(반응률)는 불명확하므로 투여법 변경에 대한 추가 연구가 필요하다.",
+      "detailed_summary": "후향적 의무기록 검토 연구로, 용량·투여 경로·투여 시간과 최소 1회 이상 추적 기록이 명시된 림프종 고양이 사례를 포함하였다. 총 38마리의 고양이에서 70회 투여가 평가되었고, 중앙값 용량은 389.8 mg/m2(범위 100.1–697.3 mg/m2), 중앙 투여시간은 6시간(범위 2–17시간)이었다. 이상반응은 총 103건이 문서화되었고 가장 흔한 범주는 위장관계로 식욕부진 21/38마리(55.2%), 구토 9/38(23.7%; 그중 1건은 grade 3, 나머지는 grade 1–2), 설사 2/38(5.3%), 연하곤란 2/38(5.3%)이었다. 혈액학적 이상으로는 빈혈이 14/38마리(36.8%; grade 1 5건, grade 2 2건, grade 3 5건, grade 4 2건)로 가장 흔했고, 혈소판감소증 6/38(15.8%; grade 1 4건, grade 2 2건), 호중구감소증은 1/38(2.6%; grade 2)이었다. 권태(무기력)는 12/38마리(31.6%)로 보고되었으며, 이상반응 평가는 VCOG-CTCAE v2에 따라 후향적으로 등급화되었다. 결론적으로 사이타라빈 IV CRI는 주로 저등급 이상반응을 보이며 대체로 내약성이 양호했으나 3–4등급 빈혈이 적지 않게 발생했고, 반응률 및 임상적 이득은 불명확하여 다른 투여 요법에 대한 추가 연구가 필요하다는 제한점이 있다.",
+      "title": "Toxicity of Cytarabine Intravenous Constant Rate Infusion in Cats With Lymphoma.",
+      "journal": "Veterinary and Comparative Oncology",
+      "generated_at": "2026-08-19T22:02:27.763Z",
       "model": "gpt-5-mini"
     }
   }

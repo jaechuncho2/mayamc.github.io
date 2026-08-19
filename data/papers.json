@@ -1,6 +1,40 @@
 {
-  "updated_at": "2026-08-18T21:56:13.700Z",
+  "updated_at": "2026-08-19T22:00:56.529Z",
   "papers": [
+    {
+      "pmid": "42612701",
+      "title": "Fixation of proximal humeral Salter-Harris type 1 fractures in a 3-dimensionally printed skeletally immature canine bone model: a biomechanical assessment of fully threaded headless cannulated screws.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Hwang TW, Kang E, Kim JM, Kim HY",
+      "date": "2026 08 18",
+      "dateObject": "2026 08 18",
+      "abstract": "To compare the biomechanical stability of 4 fixation techniques for proximal humeral physeal fractures in skeletally immature canines using 3-D-printed models. This experimental in vitro study was conducted from September 25, 2025, through April 22, 2026. To strictly control biological variability, identical 3-D-printed models of juvenile canine proximal humeral Salter-Harris type 1 fractures (CT-derived from a 6-month-old 26-kg Labrador Retriever) were evaluated across 4 groups: pin and tension band wire (group A), partially threaded cannulated screw (group B), fully threaded headless cannulated screw (FTHCS) alone (group C), and FTHCS with a 1.6-mm Kirschner (K)-wire (group D). Tensile loading was applied at 10 mm/min at 105&#xb0; to simulate supraspinatus traction. Outcomes included loads at 1- and 2-mm displacements, maximum failure load, and failure modes. Twenty-four models were tested (n = 6/group). Group D exhibited significantly higher resistance at 1-mm (663.95 N) and 2-mm (1,080.33 N) displacements than other groups. At 1-mm displacement, group D outperformed groups C, A, and B (mean differences [MD]: 206.2 N, 380.6 N, and 405.7 N, respectively; P < .0083). Maximum failure load did not differ significantly. Group B failed via localized proximal crushing and subsidence, whereas FTHCS groups (C, D) preserved proximal integrity, failing distally. In this 3-D-printed model, FTHCS combined with a K-wire provided superior resistance to tensile displacement compared with other tested constructs. FTHCS augmented with a K-wire may offer a biomechanically robust alternative mitigating subhead bone collapse, providing sufficient standalone stability for early rehabilitation in immature canines.",
+      "categories": [
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42612694",
+      "title": "Automated injection improves consistency of brain perfusion parameters in dynamic susceptibility contrast magnetic resonance imaging in dogs in a randomized trial.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Eichrodt AM, Leandro AW, Beckmann KM, Dennler M",
+      "date": "2026 08 18",
+      "dateObject": "2026 08 18",
+      "abstract": "To compare perfusion characteristics in morphologically normal canine brains with dynamic susceptibility contrast (DSC) MRI following manual versus automated contrast medium injection. Client-owned dogs undergoing routine 3-tesla brain MRI protocol including DSC were prospectively enrolled, randomly allocated to manual or automated contrast medium injection between November 2023 and February 2025. Gadoteric acid (0.1 mmol/kg) was injected at weight-dependent rates: 1 mL/s (1 to 5 kg), 2 mL/s (6 to 15 kg), and 3 mL/s (> 15 kg). Perfusion parameters evaluated included time of contrast medium arrival (T0), time to peak contrast medium enhancement (TTP), mean transit time of contrast medium (MTT), relative cerebral blood flow (relCBF), and relative cerebral blood volume (relCBV) at 3 regions of interest: thalamus, piriform lobe, and semioval center. Mann-Whitney U tests with Holm-Bonferroni correction were used. Rank-biserial correlations were calculated as effect sizes. Dynamic susceptibility contrast studies of 29 dogs with morphologically normal brains were included (16 manual and 13 automated injections). Manual injection showed longer T0, TTP, and MTT in all regions of interest and higher relCBV in the semioval center compared to automated injection. The relCBF was higher in the thalamus and piriform lobe with automated injection. With manual injection, the perfusion curves appeared flatter and wider compared to automated injection, resulting in prolonged T0, TTP, MTT, and reduced relCBF. Automated injection achieves superior reproducibility of DSC curves. However, manual injection is also feasible, but wider DSC curves should be expected, and appropriate reference parameters should be considered when evaluating brain pathology.",
+      "categories": [
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "42612685",
+      "title": "Most dogs transported to a veterinary teaching hospital are unrestrained during vehicular travel.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Steinolfson C, Odunayo A, Ng Z, Stone A, Domaracki C, Mandese W, Wuerz J, Griffin F, Schaub J, Rooks J, Okafor C",
+      "date": "2026 08 18",
+      "dateObject": "2026 08 18",
+      "abstract": "To evaluate the frequency and type of vehicular restraint use in dogs transported to a veterinary teaching hospital and to identify factors associated with restraint use. This prospective, survey-based study was conducted at a veterinary teaching hospital from May 28 to August 2, 2024. Dog owners presenting their dog for emergency, sick, or wellness visits completed a questionnaire regarding transportation practices, including restraint use, type of restraint, travel duration, anxiety level, and administration of previsit pharmaceuticals. Logistic regression analysis was performed to assess associations between patient and transport variables and restraint use. A total of 195 of 533 (36.6%) dogs were transported using a restraint system, whereas 338 of 533 (63.4%) were unrestrained. The most common restraint type was a seat belt-based device. Each 1-kg increase in body weight was associated with a 3.3% decrease in the odds of restraint use (OR, 0.97; 95% CI, 0.95 to 0.98). Administration of previsit pharmaceuticals (OR, 1.8; 95% CI, 1.02 to 3.01) and having pet insurance (OR, 1.5; 95% CI, 1.01 to 2.34) were associated with restraint use. Age, reason for visit, travel duration, anxiety level, and mode of transportation were not associated with restraint use. Most dogs in this population traveled unrestrained during vehicular transport. Restraint use was not associated with visit type, travel duration, anxiety level, or transportation mode. Increased veterinary client education may improve safe transport practices and reduce the risk of injury during vehicular travel.",
+      "categories": []
+    },
     {
       "pmid": "41927004",
       "title": "Successful long-term patent ductus arteriosus closure in dogs can be achieved with the use of nonabsorbable or absorbable monofilament synthetic sutures.",
@@ -28,6 +62,19 @@
       ]
     },
     {
+      "pmid": "42613071",
+      "title": "Toxicity of Cytarabine Intravenous Constant Rate Infusion in Cats With Lymphoma.",
+      "journal": "Veterinary and Comparative Oncology",
+      "authors": "Hanford R, Skorupski KA, Rebhun RB, Brady RV, Al-Nadaf S, Lejeune AT",
+      "date": "2026 08 18",
+      "dateObject": "2026 08 18",
+      "abstract": "Cytarabine intravenous constant rate infusion (IV CRI) toxicity in cats with lymphoma has not been well documented. We aimed to assess toxicities following cytarabine IV CRI as a single-agent or within a multiagent protocol in cats with lymphoma. Medical records of cats with lymphoma treated with cytarabine IV CRI, with documented dose, route, duration and at least one follow-up visit between 1990 and 2024, were retrospectively reviewed. Adverse events (AEs) were retrospectively graded according to VCOG-CTCAE v2. Thirty-eight cats were included, and 70 doses were evaluated for AEs. Median cytarabine dose was 389.8&#x2009;mg/m 2 (range 100.1-697.3&#x2009;mg/m 2 ) over a median infusion duration of 6&#x2009;h (range 2-17&#x2009;h). A total of 103 AEs were documented across 70 administrations. Gastrointestinal AEs were the most common category: altered appetite (21/38 cats, 55.2%), vomiting (9/38, 23.7%; one grade 3, the rest grades 1-2), diarrhoea (2/38, 5.3%) and dysphagia (2/38, 5.3%). Anaemia was the most common hematologic AE (14/38 cats, 36.8%; five grade 1, two grade 2, five grade 3, two grade 4); six cats (15.8%) developed thrombocytopenia (four grade 1, two grade 2), and one cat (2.6%) developed grade 2 neutropenia. Lethargy was the most common constitutional AE (12/38 cats, 31.6%). IV CRI of cytarabine was generally tolerated, with predominantly low-grade AEs, although grade 3-4 anaemia was not uncommon. Response rate and clinical benefit remain unknown; investigation of alternative dosing regimens may help clarify its therapeutic potential.",
+      "categories": [
+        "internalMedicine",
+        "oncology"
+      ]
+    },
+    {
       "pmid": "42359893",
       "title": "Longitudinal evaluation of discordant symmetric dimethylarginine and creatinine as markers of glomerular filtration rate in radioiodine-treated hyperthyroid cats.",
       "journal": "Journal of Feline Medicine and Surgery",
@@ -37,18 +84,6 @@
       "abstract": "ObjectivesThe aim of the present study was to determine the frequency and clinical significance of discordant serum symmetric dimethylarginine (SDMA) and creatinine concentrations relative to glomerular filtration rate (GFR) in mature and senior hyperthyroid cats treated with radioactive iodine (RAI). Secondary aims of the study were to compare the sensitivity and specificity of two SDMA upper reference intervals (RIs; >14 and &#x2a7e;18&#x2009;&#xb5;g/dl) and creatinine (&#x2a7e;175&#x2009;&#xb5;mol/l) for detecting decreased GFR and to evaluate the intra-individual variability of both biomarkers.MethodsA prospective longitudinal study of 27 client-owned hyperthyroid cats receiving low-dose RAI therapy was conducted. At baseline, 1, 6 and 12 months after RAI, cats were evaluated for thyroid status, GFR, SDMA and creatinine concentrations. Discordance was defined as one renal biomarker exceeding its RI with the other within/below the RI, using laboratory and age-specific SDMA RIs. In euthyroid cats, sensitivity, specificity and predictive values of SDMA/creatinine for decreased GFR and intra-individual variability were determined.ResultsDiscordance between SDMA and creatinine was in the range of 10-75% and was highest with the SDMA limit >14&#x2009;&#xb5;g/dl. SDMA-GFR discordance exceeded creatinine-GFR discordance at all time points and was highest at baseline, when all cats were hyperthyroid. In cats w&#xfeff;ith euthyroid status at 12 months, SDMA >14&#x2009;&#xb5;g/dl was more sensitive (83%) but less specific (50%) for decreased GFR than SDMA &#x2265;18&#x2009;&#xb5;g/dl (sensitivity 50%, specificity 71%) and creatinine (sensitivity 50%, specificity 85%). Intra-individual variability was similar for both biomarkers (~15%).Conclusions and relevanceDiscordant SDMA and creatinine concentrations are frequent in older hyperthyroid cats and are influenced by thyroid status and SDMA RIs, complicating interpretation. The SDMA limit &#x2265;18&#x2009;&#xb5;g/dl improves specificity for decreased GFR and is more appropriate for senior cats. SDMA concentrations in the range of 15-18&#x2009;&#xb5;g/dl are less likely to reflect true GFR reduction when creatinine is normal; therefore, non-renal influences such as hyperthyroidism should be considered and ongoing monitoring of renal parameters is recommended. A long-term assessment of two different indirect blood indicators of kidney function in cats undergoing radioiodine treatment for hyperthyroidism, to determine any discrepancies between the two and how these relate to direct measurements of kidney function This study looked at how two common blood tests for kidney function, symmetric dimethylarginine (SDMA) and creatinine, behave in older cats treated with radioiodine for hyperthyroidism. Vets often use these tests to check how well the kidneys are functioning, but the two markers do not always agree. The researchers wanted to understand how often this happens and which test is more reliable when compared with a more direct measurement of kidney function. A total of 27 hyperthyroid cats were followed for 1 year. Before treatment with radioiodine and again at 1, 6 and 12 months afterwards, the cats had their thyroid levels, kidney glomerular filtration rate (GFR), SDMA and creatinine measured. The team looked for cases where one kidney marker (either SDMA or creatinine) was high but the other was normal or low, and they assessed how well each marker detected a true decrease in kidney filtration function by comparing them to GFR. The researchers found that SDMA and creatinine results did not agree in 10&#x2013;75% of cats, especially when using a lower SDMA cut-off (>14&#x2009;&#xb5;g/dl). SDMA did not agree with the direct measure of kidney function, GFR, more frequently than creatinine, particularly when the cats were still hyperthyroid. At 12 months after treatment, in the cats with normal thyroid levels, the higher SDMA cut-off (&#x2a7e;18&#x2009;&#xb5;g/dl) was more accurate and produced fewer false-positive results. Overall, the study shows that discrepancies in SDMA and creatinine results are common in older hyperthyroid cats, and thyroid disease itself can affect SDMA. SDMA values of 15&#x2013;18&#x2009;&#xb5;g/dl may not truly indicate kidney disease if creatinine is normal. For senior cats, using the higher SDMA cut-off improves accuracy. When results do not match, vets should consider non-kidney factors, like thyroid status, and continue monitoring over time.",
       "categories": [
         "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42604724",
-      "title": "Immunohistochemical Characterisation of Mismatch Repair Proteins in Feline Cancers: A Pilot Study Using Validated Cross-Reactive Antibodies.",
-      "journal": "Veterinary and Comparative Oncology",
-      "authors": "Nishibori S, Sakurai M, Kagawa Y, Nishigaki K, Nakagawa T, Inanaga S, Igase M, Mizuno T",
-      "date": "2026 08 16",
-      "dateObject": "2026 08 16",
-      "abstract": "DNA mismatch repair (MMR) deficiency is a clinically important biomarker in human oncology, yet its relevance in feline neoplasia remains poorly understood due to limited characterisation and the absence of validated reagents. In this study, we established a practical immunohistochemistry (IHC) approach for evaluating feline MMR proteins by confirming the cross-reactivity of anti-human MLH1, MSH2 and MSH6 antibodies using CRISPR/Cas9-engineered feline tumour cell lines lacking each target gene. Using these validated antibodies, we conducted a pilot screening to assess MMR protein expression in 83 feline tumours and observed variable reductions or losses of MLH1, MSH2 and MSH6 across several tumour types. Notably, MLH1 expression was lost in all melanoma cases (6/6, 100%) and in most osteosarcomas (14/15, 93%), indicating that MMR perturbations may be particularly relevant in these malignancies. These findings provide the first analytically validated framework for assessing MMR proteins in feline oncology and suggest that MMR dysregulation may be more widespread than previously recognised. Although the clinical sample size is limited, this initial pilot screening maps the preliminary landscape of feline MMR protein expression. Further large-scale validation studies incorporating microsatellite instability testing, methylation analysis and genomic profiling are warranted to clarify the biological significance of these alterations.",
-      "categories": [
-        "oncology"
       ]
     },
     {
@@ -1295,40 +1330,6 @@
       "categories": [
         "surgery"
       ]
-    },
-    {
-      "pmid": "42161304",
-      "title": "Effective ultrasonography protocol for investigating muscular structures of the canine dorsolateral hip region with comparative magnetic resonance imaging.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Ellis KM, Frye CW, Miller AV, Todd-Donato AB",
-      "date": "2026 07 31",
-      "dateObject": "2026 07 31",
-      "abstract": "To develop an ultrasonography protocol for identifying muscles of the dorsolateral hip region that contribute to joint stability, with verification by MRI and gross dissection. Muscles of the dorsolateral hip region were investigated using 3-Tesla MRI followed by high-frequency B-mode ultrasonography in 5 skeletally mature canine cadavers (n = 10) from September 1, 2024, through August 30, 2025. The origins, insertions, and anatomical relationships of the musculature were documented. The accuracy of structure identification was confirmed using ultrasonography-guided injections of dye placement followed by gross dissection. Ultrasonography and MRI images of the middle gluteal, deep gluteal, superficial gluteal, piriformis, biceps femoris, internal obturator, gemelli, and quadratus femoris were acquired. The appearance of the sacrotuberous ligament and sciatic nerve was also documented as relevant landmarks for muscle identification. The approach for ultrasonographic identification of each structure was documented. Ultrasonography-guided dye placement into all 8 muscles was performed separately by 2 diplomates (American College of Veterinary Radiology and American College of Veterinary Sports Medicine and Rehabilitation). Upon dissection, dye injections accurately identified all 8 structures consistently between diplomates. This study documents an effective ultrasonography protocol for investigating the structures of the dorsolateral hip region, consistent with comparative MRI and gross dissection. This study advances knowledge of normal ultrasonographic anatomy of the dorsolateral hip region, allowing for improved identification, monitoring, and treatment of soft tissue injury.",
-      "categories": [
-        "surgery"
-      ]
-    },
-    {
-      "pmid": "42161299",
-      "title": "Two digital electrocardiographs and their computer-based analysis programs produce clinically significant differences in values and reference intervals for dog electrocardiograms.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Constable P, Jones T, Wilson C, Hernandez M, Jacob T, Nelson S",
-      "date": "2026 07 31",
-      "dateObject": "2026 07 31",
-      "abstract": "To compare measured ECG intervals and amplitudes obtained using electrocardiographs adapted for veterinary or human use and to develop ECG reference intervals for endurance-trained dogs. Standard limb lead ECG recordings were obtained simultaneously in February and early March of 2021 using 2 digital electrocardiographs and a convenience sample of 121 endurance-trained sled adult dogs. Visually verified computer-based ECG measurements for the 2 electrocardiographs were compared using the Wilcoxon signed-rank test, Deming regression, and Bland-Altman plots. We assigned acceptable median values for differences (effect sizes) of < 10 milliseconds for P-wave duration, PQ interval, QRS duration, JT interval, and QT interval and < 10% for P-, Q-, R-, S-, and T-wave amplitudes. Statistically significant differences between the 2 electrocardiographs existed for the majority (7 of 9) of global ECG indices and the majority (10 of 15) of lead I-, II-, and III-wave amplitudes. Clinically important differences based on assigned effect sizes were identified for lead II and III Q- and R-wave amplitudes, which the veterinary electrocardiograph measured 11% to 23% higher. The veterinary electrocardiograph identified a higher proportion of dogs that may have left or right ventricular enlargement. Reference intervals developed for 7 of 9 global ECG indices were narrower for the veterinary electrocardiograph. The low-pass filter on the veterinary electrocardiograph attenuates higher frequencies on the canine ECG to a lower extent than the human electrocardiograph. Reference intervals for dog ECGs depend on the digital electrocardiograph, its high-frequency filtering characteristics, and its computer-based analysis program.",
-      "categories": [
-        "cardiology"
-      ]
-    },
-    {
-      "pmid": "42140268",
-      "title": "Pet insurance uptake is associated with dog and owner demographics and health status based on Dog Aging Project survey data.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "McCullough AW, O'Brien JS, Sexton C, Dog Aging Project Consortium, Ruple A",
-      "date": "2026 07 31",
-      "dateObject": "2026 07 31",
-      "abstract": "To describe the demographics of dog owners and dogs with pet insurance enrolled in the Dog Aging Project (DAP), a large population of dogs in the US, and examine the impact of pet insurance on owners' perception of their dog's health. In this cross-sectional study, 47,444 dog owners' responses from the DAP initial enrollment survey, the Health and Life Experience Survey, were analyzed from January 1, 2020, through December 31, 2023. Dog and dog owner demographic data were collected and compared using descriptive statistics. Owner-perceived health status of their dog was compared between insured and uninsured dogs using a &#x3c7;2 test of significance. 10,127 of 47,444 DAP participants (21%) have a pet insurance policy. Insured dog owners were 25 to 44 years old, non-White, and professional degree earners compared to the overall DAP population. Insured dogs were young, single-breed dogs obtained from breeders for purposes other than companionship compared to the overall DAP population. Five thousand, five hundred and fourteen of 10,127 insured dogs (54%) and 17,979 of 37,317 uninsured dogs (48%) are perceived to be in excellent health, a statistically significant difference. This study illustrates that certain demographic factors are more common among insured dogs and dog owners. The health status of dogs with pet insurance is statistically different compared to those without it. Further investigation of this association is warranted. This information can inform veterinary discussions with pet owners about pet insurance.",
-      "categories": []
     },
     {
       "pmid": "42536135",
