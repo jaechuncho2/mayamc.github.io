@@ -1,6 +1,125 @@
 {
-  "updated_at": "2026-08-19T22:00:56.529Z",
+  "updated_at": "2026-08-20T22:02:59.011Z",
   "papers": [
+    {
+      "pmid": "42622030",
+      "title": "Effects of a resveratrol-containing nutraceutical on cardiac biomarkers, echocardiographic parameters, and oxidative stress in dogs with naturally occurring cardiac disease.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Kim DY, Park HM",
+      "date": "2026 08 20",
+      "dateObject": "2026 08 20",
+      "abstract": "Cardiac diseases such as myxomatous mitral valve disease (MMVD) and dilated cardiomyopathy (DCM) are common in dogs and are associated with progressive cardiac dysfunction and increased oxidative stress. Despite the widespread use of nutraceuticals in veterinary medicine, clinical evidence supporting their efficacy remains limited. This study aimed to evaluate the effects of a resveratrol-containing nutraceutical on cardiac biomarkers, echocardiographic parameters, oxidative stress, and safety in dogs with naturally occurring cardiac disease. This prospective, non-randomized, open-label study included 24 client-owned dogs allocated to a treatment group ( n = 12) or a control group ( n = 12). Dogs in the treatment group received a resveratrol-containing nutraceutical (with taurine, vitamin E, and coenzyme Q10) once daily for approximately one month, while control dogs received standard cardiac medications without nutraceutical supplementation. Cardiac biomarkers (NT-proBNP, cTnI), echocardiographic variables including global longitudinal strain (GLS), and oxidative stress markers (TAC, MDA) were evaluated. The percent change in NT-proBNP was significantly lower in the treatment group than in controls (-4.51 &#xb1; 46.21% vs. +44.61 &#xb1; 62.36%, P = 0.024), indicating attenuation of NT-proBNP elevation. TAC increased in the treatment group but decreased in controls (7.85 &#xb1; 7.07% vs. -8.00 &#xb1; 5.31%, P < 0.0001). No significant between-group differences were observed for cTnI ( P = 0.164), GLS ( P = 0.214), or MDA ( P = 0.590). A significant negative association was observed between changes in TAC and NT-proBNP ( r = -0.471, P = 0.020). No clinically relevant adverse effects were observed. Findings from this exploratory pilot study suggest that a resveratrol-containing nutraceutical was associated with attenuation of NT-proBNP elevation and an increase in total antioxidant capacity in dogs with cardiac disease. These preliminary findings suggest a potential role for antioxidant-based nutraceuticals as adjunctive therapy, although further studies with larger populations and longer follow-up are needed.",
+      "categories": [
+        "cardiology"
+      ]
+    },
+    {
+      "pmid": "42620936",
+      "title": "Global transcriptomic response of Malassezia pachydermatis isolates under ketoconazole-induced stress.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Dom&#xe1;n M, Wehmann E, Makrai L, Feh&#xe9;r E, Magyar T",
+      "date": "2026 08 20",
+      "dateObject": "2026 08 20",
+      "abstract": "Malassezia pachydermatis is an opportunistic yeast associated with otitis externa and dermatitis in dogs. Despite reduced susceptibility to azole antifungals has increasingly been reported in M. pachydermatis , the molecular mechanisms underlying azole stress responses in this species remain poorly understood. In this study, we investigated the global transcriptional response of two M. pachydermatis isolates with different ketoconazole minimum inhibitory concentration values following short-term ketoconazole exposure. Ketoconazole treatment resulted in slightly distinct transcriptional profiles in the two isolates. In isolate 12372, 80 genes were significantly upregulated and 120 were downregulated, whereas isolate 12693 showed 158 upregulated and 211 downregulated genes. Both isolates exhibited significant upregulation of genes involved in ergosterol biosynthesis, including ERG3 , ERG5 , ERG11 , ERG24 , and ERG25 suggesting a conserved compensatory response to azole-mediated disruption of sterol metabolism. In isolate 12372, genes associated with ribosome biogenesis was predominantly downregulated, indicating reduced protein synthesis and growth-related activity. In isolate 12693, ketoconazole primarily suppressed genes involved in amino acid biosynthesis, and central carbon metabolism; and upregulated genes associated with ubiquitin ligases, RNA polymerase II regulators, and RNA-binding proteins. Notably, genes encoding ABC transporter-associated efflux pumps were not transcriptionally induced under the tested conditions. Our results provide a comprehensive transcriptomic profile of M. pachydermatis under azole stress, demonstrating that the yeast employs diverse metabolic strategies to enter a decelerated growth state and offer a good basis for identifying future therapeutic targets to combat azole resistance.",
+      "categories": [
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42620618",
+      "title": "Evaluating cone-beam computed tomography vs. intraoral radiography for the detection of endodontal disease in dogs: diagnostic performance and inter-rater agreement.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Bonacini S, Goldschmidt S, Arzi B, Vapniarsky N, Lommer M, Blandino A, Hatcher D, Soltero-Rivera M",
+      "date": "2026 08 20",
+      "dateObject": "2026 08 20",
+      "abstract": "The comparative diagnostic utility of cone-beam computed tomography (CBCT) and intraoral dental radiography (IDR) for endodontal disease in dogs remains unclear. Accordingly, this study evaluated both imaging modalities against histopathologic findings as the gold standard. In this prospective observational study, client-owned dogs undergoing evaluation for suspected endodontal disease were imaged with both CBCT and IDR under general anesthesia. Forty-six teeth from 16 dogs were included. Four radiographic features-periapical lucency, failure of pulp canal narrowing, external inflammatory root resorption, and loss of crown integrity-were independently scored by five blinded evaluators using a standardized qualitative scale. Histopathological assessment of pulp vitality was available for 18 teeth. Diagnostic performance, inter-rater agreement, and modality-related effects were analyzed using mixed-effects models and concordance statistics. CBCT was associated with significantly greater detection of imaging features associated with endodontal disease than IDR overall ( p < 0.002), particularly for periapical lucency ( p < 0.001). Both modalities demonstrated high sensitivity for identifying non-vital teeth, but limited specificity, reflecting disease prevalence within the histopathology subset. Inter-rater agreement was modest for both modalities and was affected primarily by scoring variability among evaluators rather than systematic differences in scoring patterns. CBCT demonstrated superior detection of periapical lucency compared with IDR in dogs. Nonetheless, inter-rater variability remains a significant limitation, emphasizing the need for standardized image interpretation and integration with clinical findings.",
+      "categories": []
+    },
+    {
+      "pmid": "42620570",
+      "title": "PI3K over-expression drives canine mammary tumor progression.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Chen R, Liu S, Li J, Huang X, Li Y, Huang X, Lin Z",
+      "date": "2026 08 20",
+      "dateObject": "2026 08 20",
+      "abstract": "Canine mammary tumor (CMT) represents the most frequently diagnosed neoplasm in intact female dogs and exhibits a high malignant rate. The PI3K/AKT pathway critically drives tumor progression, and serves as a target for multiple anti-tumor drugs. In this study, two CMT cell lines (CHMp and CIPm) were employed to assess the impact of lentivirus-mediated PI3K over-expression. Functional assays were performed to evaluate proliferation, migration, and invasion capacities, as well as the expression levels of associated proteins. As a result, PI3K over-expressing cells exhibited a significantly increase in proliferation, migration, and invasion compared to cells in negative control (NC) group. Additionally, western blot analyses revealed that PI3K over-expression evoked concordant alterations in apoptosis-related proteins, including elevated phospho-AKT and Bcl-2 coupled with reduced Bax, implying that PI3K-mediated attenuation of apoptosis facilitated tumor progression. Moreover, results from tumor xenograft mouse model experiments indicated that PI3K over-expression significantly promotes tumor growth in vivo . The present study confirmed the function of PI3K in accelerating the growth and invasive capacity of CMT, laying an experimental foundation for the exploration of PI3K-targeted therapies.",
+      "categories": [
+        "oncology"
+      ]
+    },
+    {
+      "pmid": "42618917",
+      "title": "Morphometric assessment of the femoral trochlea, patella and patellar ligament in small breed dogs with and without grade II medial patellar luxation.",
+      "journal": "BMC Veterinary Research",
+      "authors": "Barthmann R, Theyse LF",
+      "date": "2026 08 20",
+      "dateObject": "2026 08 20",
+      "abstract": "Medial patellar luxation is a common orthopedic condition in small breed dogs, though its etiology remains poorly understood. The aim of this study was to assess the morphometry of the femoral trochlea, patella and patellar ligament in small breed dogs with and without grade 2 medial patellar luxation. This retrospective study evaluated small breed dogs weighing&#x2009;&#x2264;&#x2009;15&#xa0;kg including 80 stifles with Grade 2 MPL and 80 controls. The femoral trochlear length to patellar length ratio (TL: PL), trochlear curvature to condylar curvature ratio (TC: CC) and patellar ligament length to patellar length ratio (PLL: PL) were assessed. In addition, these parameters were determined comparing dogs with and without a chondrodysplastic phenotype. T-tests and ANOVA were used for statistical analysis. The TL: PL ratio was increased in dogs with grade II MPL compared to controls with 1.7&#x2009;&#xb1;&#x2009;0.3 and 1.6&#x2009;&#xb1;&#x2009;0.2. (p<.001), respectively. This indicates an increased length of the trochlea. No differences were found in the TC: CC and PLL: PL ratios between both groups. Within the grade II MPL group, there was an increased PLL: PL ratio (2.0&#x2009;&#xb1;&#x2009;0.2; 1.9&#x2009;&#xb1;&#x2009;0.2; p=.002) in dogs with chondrodysplastic phenotype in comparison with non-chondrodysplastic phenotype. A decreased femoral trochlear length, or a decreased curvature of the femoral trochlea does not seem to be related to grade II patella luxation in small breed dogs. In dogs with a chondrodysplastic phenotype the relatively longer patellar ligament could play a role in the development of grade II MPL. Trochlear length and curvature did not seem to be related to the development of grade II MPL. In dogs with a chondrodysplastic phenotype, grade II MPL could be related to a longer patellar ligament.",
+      "categories": [
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42622352",
+      "title": "EXPRESS: Agreement between point-of-care and external reference laboratory RT-qPCR testing for feline coronavirus in cats with suspected feline infectious peritonitis.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "authors": "Knies M, Hofman N, Jackson-Onis J, Broens EM, Teske E",
+      "date": "2026 08 20",
+      "dateObject": "2026 08 20",
+      "abstract": "To evaluate the agreement of a commercially available point-of-care FCoV RT-qPCR assay and external laboratories RT-qPCR testing in cats with effusive and non-effusive FIP, and in cats with other diseases presenting with similar clinical signs. Client-owned cats suspected of FIP were enrolled with owner consent. Effusions and ultrasound-guided fine-needle aspirates (FNAs) from liver, spleen, or mesenteric lymph nodes were collected, split, and analysed using both a point-of-care RT-qPCR and an external laboratory RT-qPCR. FIP was diagnosed based on AAFP/EveryCat guidelines. Sensitivity and negative predictive values were calculated, agreement assessed with Cohen's kappa, paired differences tested with McNemar's test, and correlation of crossing point (Cp) values analysed using Pearson's coefficient and paired t-tests. One hundred cats were included (effusions n = 62, FNAs n = 38). Overall agreement between assays was substantial (&#x3ba; = 0.73), with near-perfect concordance for effusions (&#x3ba; = 0.81) and lower agreement for FNAs (&#x3ba; = 0.61). Relative sensitivity was highest in effusions (98.1% point-of-care, 92.3% external) and lower in FNAs (63.3-64.5%), with negative predictive values showing similar trends. Cp values were moderately correlated between assays, with minor mean differences (~1 cycle). The point-of-care FCoV RT-qPCR assay is a practical and reliable tool and shows very good agreement with external reference laboratory RT-qPCR testing. FNAs remain useful when effusions are unavailable but carry higher risk of false negatives likely due to low viral loads and heterogeneous distribution. Point-of-care testing offers rapid turnaround, supporting timely clinical decision-making, but results must be interpreted alongside clinical presentation and other diagnostics.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42617653",
+      "title": "Clinical presentation, computed tomographic findings, treatment, and outcome of traumatic jaw fractures in domestic rabbits (Oryctolagus cuniculus): 21 cases (2014-2025).",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Charrasse M, Hahn H, Phillips K, Boutoille F, Sanchez-Migallon Guzman D, Huynh M",
+      "date": "2026 08 19",
+      "dateObject": "2026 08 19",
+      "abstract": "To present clinical features, CT findings, treatment, and outcome for traumatic jaw fractures diagnosed via CT. Medical records from 2014 through 2026 were reviewed, and 21 rabbits with traumatic jaw fractures diagnosed by CT were selected. Among the 21 rabbits that fit the inclusion criteria, trauma sources included involuntary owner-inflicted trauma (n = 10), sofa-related falls or entrapment (3), dog bites (2), post-dental trimming issues (1), trauma with a table (1), fall of cardboard onto the head (1), fall of a folding table onto the head (1), and unknown (2). Fractures of the mandibular ramus were identified in 85.7% cases (unilateral, n = 14; bilateral, 4). Concurrent fractures were common (intermandibular suture (n = 5), body of the mandible (4), zygomatic arch (5), frontal bone (1), presphenoid bone (1), tympanic bulla (1)). A recurrent mandibular fracture pattern was seen in 47.6% of cases (n = 10). Complications in 13 rabbits that had a follow-up included dental malocclusion of incisors (n = 8) and cheek teeth (6), chronic dacryocystitis (2), hyperthermia (2), mandibular abscess (1), and persistence of vestibular syndrome (1). Notably, 11 rabbits were still alive 581 days after the trauma. Traumatic jaw injuries in rabbits frequently involve multiple concurrent fracture sites and associated craniofacial lesions. Computed tomography allowed detailed anatomical characterization of fracture configurations and associated injuries, supporting its value for comprehensive lesion assessment. Mandibular ramus fractures were the most common injuries and were generally associated with favorable survival, although long-term dental complications were frequent.",
+      "categories": [
+        "surgery",
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "42617661",
+      "title": "Are common clinical protocols prioritizing detection over prevention in canine Dirofilaria immitis?",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Horvath M",
+      "date": "2026 08 19",
+      "dateObject": "2026 08 19",
+      "abstract": "Owner noncompliance, not preventive failure, drives most canine Dirofilaria immitis infections in established patients. Only 24.4% of dogs under care achieve full-year purchase compliance with monthly macrocyclic lactones. Informal data suggest far more practices send annual testing reminders than monthly dosing reminders. The primary goal is continuous chemical protection, not annual detection of prior failures. This viewpoint argues for tracking adherence rates, routine adherence counseling, and prospective evaluation of adherence-first protocols in standard prescription-renewal settings.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42617660",
+      "title": "The impact of changing living conditions, pollutants, and climate change on allergic skin disease in our pets: highlighting our interconnectedness.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Marsella R",
+      "date": "2026 08 19",
+      "dateObject": "2026 08 19",
+      "abstract": "Our pets share our living conditions. Many transformations have occurred over the past few decades, including lifestyle shifts and increased exposure to chemicals, pollution, and climate change. Our pets have left a rural environment to join our urban lifestyle, with a loss of plant and microbial diversity; increased exposure to pollution from car traffic, plastics, and chemicals; and more time spent indoors. Concurrently, they have experienced, with us, the effects of climate-related events, including extreme heat, humidity, wind, and exposure to dust from fires. Higher carbon dioxide levels have intensified pollen production and allergenicity, while pollution and chemicals damage epithelia, increasing their permeability. Pollen seasons are longer and more intense. These changes contribute to the rising incidence of allergic diseases and their increased severity. These factors affect the immune system, epithelial barriers, and microbiome, collectively leading to dysbiosis, increased allergen penetration, inflammation, and a higher risk of allergic sensitization. Our pets have mirrored the rise in certain conditions, such as allergic diseases, as seen in people. Atopic dermatitis has been linked to epithelial damage and gut dysbiosis in both dogs and people. This Currents in One Health article aims to present the current state of knowledge on our changing environmental conditions and their impact on our pets, with a focus on skin diseases. The purpose is to increase our awareness of the fact that animal, human, and environmental health are connected and changes in our environmental conditions are driving the rise of inflammatory skin diseases in pets and people.",
+      "categories": [
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42617659",
+      "title": "Carbapenem-resistant Enterobacterales in companion animals are an emerging One Health threat.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Granick JL, Fellman CL, Curren EJ, Funk M, James A, Kollmann L, KuKanich K, McDermott D, Stull JW, Surendran-Nair M, Wagner R, Alroy KA, Beaudoin AL, DeStefano I, Diaz-Campos D, Frey E, King C, Louis S, Stapleton GS, Cole SD",
+      "date": "2026 08 19",
+      "dateObject": "2026 08 19",
+      "abstract": "Carbapenem-resistant Enterobacterales (CRE) are an emerging, multidrug-resistant threat to human and animal health. Emergence is driven by antimicrobial use and multidirectional transmission pathways between humans, animals, and the environment. Carbapenems are essential drugs for treatment of multidrug-resistant infections in humans and, although not approved for veterinary use, are infrequently prescribed in dogs and cats in an extralabel manner. In the US, CRE detections in companion animals have recently increased. While prevalence of CRE in US companion animals is estimated to be low, outbreaks in veterinary hospitals demonstrate that CRE can be transmitted within animal healthcare settings, persist in the environment, and cause operational disruption. Exchange of CRE between companion animals and people has been documented. There are several important knowledge gaps about CRE in companion animals, including (1) uncertainties in true prevalence due to infrequent testing and underreporting; (2) lack of understanding of carbapenem resistance mechanisms because of inconsistent access to testing; (3) limited data on colonization dynamics; and (4) lack of information characterizing risk factors for acquisition. A coordinated One Health approach for surveillance and preparedness is essential to identify, prevent, and contain CRE. Here we provide veterinary professionals with a comprehensive, practical overview of CRE epidemiology, mechanisms of resistance, diagnostic considerations, therapeutic limitations, and infection prevention and control (IPC) practices. The companion Currents in One Health article by Frey et al, AJVR, forthcoming 2026, reviews the current understanding of carbapenemase-producing CRE in companion animals; identifies gaps in epidemiology, diagnostics, and infection control; and outlines priorities for future research.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
     {
       "pmid": "42612701",
       "title": "Fixation of proximal humeral Salter-Harris type 1 fractures in a 3-dimensionally printed skeletally immature canine bone model: a biomechanical assessment of fully threaded headless cannulated screws.",
@@ -34,19 +153,6 @@
       "dateObject": "2026 08 18",
       "abstract": "To evaluate the frequency and type of vehicular restraint use in dogs transported to a veterinary teaching hospital and to identify factors associated with restraint use. This prospective, survey-based study was conducted at a veterinary teaching hospital from May 28 to August 2, 2024. Dog owners presenting their dog for emergency, sick, or wellness visits completed a questionnaire regarding transportation practices, including restraint use, type of restraint, travel duration, anxiety level, and administration of previsit pharmaceuticals. Logistic regression analysis was performed to assess associations between patient and transport variables and restraint use. A total of 195 of 533 (36.6%) dogs were transported using a restraint system, whereas 338 of 533 (63.4%) were unrestrained. The most common restraint type was a seat belt-based device. Each 1-kg increase in body weight was associated with a 3.3% decrease in the odds of restraint use (OR, 0.97; 95% CI, 0.95 to 0.98). Administration of previsit pharmaceuticals (OR, 1.8; 95% CI, 1.02 to 3.01) and having pet insurance (OR, 1.5; 95% CI, 1.01 to 2.34) were associated with restraint use. Age, reason for visit, travel duration, anxiety level, and mode of transportation were not associated with restraint use. Most dogs in this population traveled unrestrained during vehicular transport. Restraint use was not associated with visit type, travel duration, anxiety level, or transportation mode. Increased veterinary client education may improve safe transport practices and reduce the risk of injury during vehicular travel.",
       "categories": []
-    },
-    {
-      "pmid": "41927004",
-      "title": "Successful long-term patent ductus arteriosus closure in dogs can be achieved with the use of nonabsorbable or absorbable monofilament synthetic sutures.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Schlake A, Mampaey G, Proteasa A, Smets P, de Rooster H, Van Goethem B",
-      "date": "2026 08 18",
-      "dateObject": "2026 08 18",
-      "abstract": "To describe the use of synthetic monofilament suture material for closure of left-to-right shunting patent ductus arteriosus (PDA) in dogs, and to compare long-term results between nonabsorbable and slowly absorbable synthetic monofilament suture material with a minimum follow-up of at least 5 months. In a retrospective cohort study, patient files were analyzed for dogs that had surgical ligation of left-to-right shunting PDA between February 2012 and March 2022 at the Small Animal Teaching Hospital, Ghent University. Based on the suture material used, dogs were assigned to the nonabsorbable polypropylene (NON) or slowly absorbable polydioxanone (ABS) group. Recorded data included patient demographics, echocardiographic evaluation, intraoperative parameters, postoperative echocardiographic screening, and long-term clinical examination. 43 dogs were included (23 dogs in the NON group vs 20 dogs in the ABS group). No difference was found between groups regarding age, weight, duct size, surgical time, occurrence of intraoperative hemorrhage, or residual ductal flow. Complete ligation was achieved in 41 of 43 dogs. Postoperative residual ductal flow was detected on echocardiography in 1 dog in each group and progressed from minor at day 1 to trivial or absent at last follow-up. No long-term recanalization occurred in any of the groups. Synthetic monofilament suture materials were successfully used to ligate left-to-right shunting PDA with the incidence of residual ductal flow similar to that reported for silk. No recanalization occurred with the use of resorbable suture material. PDA closure can be safely performed with the use of either polypropylene or polydioxanone suture material.",
-      "categories": [
-        "cardiology",
-        "surgery"
-      ]
     },
     {
       "pmid": "42609759",
@@ -570,19 +676,6 @@
       ]
     },
     {
-      "pmid": "42577139",
-      "title": "Foraminal widening indicating a spinal nerve tumor in the saber-tooth cat Smilodon fatalis from Rancho La Brea.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Schm&#xf6;kel H, Del Chicca F, Hagen Argudin Pina R",
-      "date": "2026 08 11",
-      "dateObject": "2026 08 11",
-      "abstract": "Tracing the health of extinct populations is important. Documenting this in deep time is challenging, but skeletal markers of disease can be preserved in fossils. Notably, a high incidence of spinal malformations has been recorded among specimens found in the La Brea Tar Pits, possibly because of an accumulation of expressed deleterious alleles that caused disturbances in developmental processes. The exceptional preservation of hundreds of specimens of the La Brea saber-toothed cat Smilodon fatalis allows us to examine pathologies within and across populations, with dire wolves from the same site and extant large-bodied felids serving as a basis for comparison. We identified three vertebral specimens from S. fatalis with changes indicating a possible spinal nerve tumor (SNT). The prevalence-like estimate was 353 per 100,000 individuals. The observed prevalence of foraminal widening compatible with presumed SNT among the La Brea S. fatalis sample appears high relative to reported human incidence estimates of 0.22-0.38 per 100,000 individuals, although these values are not directly comparable because the fossil estimate reflects skeletal occurrence in a taphonomically biased assemblage rather than clinical incidence. The reason for this high incidence in Smilodon fatalis is unclear, but in humans, many SNTs are associated with genetic mutations. Due to the presumed inbreeding toward the end of the species' existence, a similar mutation could have contributed to the development of the presumed SNTs in S. fatalis.",
-      "categories": [
-        "oncology",
-        "neurology"
-      ]
-    },
-    {
       "pmid": "42579237",
       "title": "Five cases of tremorgenic mycotoxicosis in dogs - clinical aspects and analytical methods.",
       "journal": "Veterinary Research Communications",
@@ -905,42 +998,6 @@
       "date": "2026 08 10",
       "dateObject": "2026 08 10",
       "abstract": "Canine pulmonary adenocarcinoma (cPAC) lacks well-validated systemic treatment options, motivating preclinical identification of potential therapeutic candidates. To explore potential therapeutic candidates, we first performed a screening of an FDA-approved drug library using a cPAC cell line, which identified bortezomib-a proteasome inhibitor-as a potential agent. Guided by this result, we focused subsequent investigations on proteasome blockade and evaluated the antitumor activity and mechanisms of bortezomib together with a second-generation proteasome inhibitor, carfilzomib-alone and in combination with standard cytotoxics-in three cPAC cell lines (CLAC, HDC, and LuBi). Both agents reduced cell proliferation and cell viability in a dose-dependent manner, with proteasome target engagement (ubiquitinated protein accumulation), G2/M arrest, sub-G1 increase, and caspase-3 cleavage. Pan- and selective caspase inhibition partially rescued viability, suggesting contributions from both intrinsic and extrinsic apoptosis, together with caspase-independent mechanisms. We also observed activation of the JNK-c-Jun pathway and increased Bim expression, indicating the induction of cellular stress responses and apoptosis. Drug-interaction analysis showed reproducible synergy between carfilzomib and carboplatin in HDC and LuBi, whereas combinations with vinorelbine were mainly additive or antagonistic effects. Overall, proteasome inhibitors exert multifaceted cytotoxic effects in cPAC through proteotoxic stress, cell-cycle arrest, and caspase-associated apoptosis. In particular, the combination of carfilzomib and carboplatin may represent a promising therapeutic strategy. Further in&#xa0;vivo and clinical investigations are warranted to evaluate therapeutic efficacy, safety, and pharmacokinetics of proteasome inhibitors in cPAC.",
-      "categories": []
-    },
-    {
-      "pmid": "42569263",
-      "title": "Multicentre aortic thromboembolism thrombolysis evaluation in a retrospective study of 183 cats: the MATTERS study.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Cambournac M, Damoiseau C, Guillaumin J, Goy-Thollot I, Pouzot-Nevoret C",
-      "date": "2026 08 08",
-      "dateObject": "2026 08 08",
-      "abstract": "Although intravenous tissue plasminogen activator (TPA) is a mainstream treatment for humans with acute ischaemic stroke, it is uncommonly used in feline arterial thromboembolism (FATE). The purpose of this study was to retrospectively compare clinical reperfusion, functional recovery, complications, and survival in a large multicentre FATE population treated with or without systemic thrombolysis. A retrospective evaluation of electronic medical records from two veterinary hospitals (2007-2020) was conducted. The inclusion criteria were a clinical diagnosis of FATE or ultrasound visualization of distal aortic thrombi. 'Reperfusion' was defined as a clinician-detected pulse if absent at admission, and 'functional recovery' as voluntary motor activity with self-ambulatory status. After exclusion of cats euthanized at admission, statistical analysis was used to compare TPA-treated and non-TPA-treated cats. A total of 183 cats were identified, with 115 available for treatment comparison after the exclusion of 8 with incomplete records and 68 euthanized within 6&#x202f;h of presentation (early euthanasia rate, 37%). The groups were homogeneous at the time of admission. The in-hospital clinical reperfusion rate was significantly higher in the TPA group than in the non-TPA group (54% vs. 20%, p &#x202f;<&#x202f;0.001). Functional recovery was more frequent in the TPA group (36% vs. 14%; p &#x202f;=&#x202f;0.008). Acute kidney injury and hyperkalaemia rates did not differ between groups (10% vs. 3%; p &#x202f;=&#x202f;0.237; 14% vs. 8%; p &#x202f;=&#x202f;0.359, respectively). Survival to discharge was similar in both groups (34% vs. 35%, p &#x202f;>&#x202f;0.999). Sudden death, defined as unexpected death or peracute cardiovascular collapse during hospitalization, occurred more frequently in the TPA group (46% of all TPA-treated cats and 70% of non-survivors) than in the non-TPA group (19 and 29%, respectively; p &#x202f;=&#x202f;0.002). Thrombolysis with TPA was associated with significantly higher in-hospital rates of clinical reperfusion and functional recovery, with no statistically significant increase in acute kidney injury (AKI) or hyperkalaemia. Survival to discharge did not differ significantly between groups; however, the higher rate of sudden death in treated cats warrants careful monitoring for reperfusion-related complications, including hyperkalaemia. Admission rectal temperature has emerged as a simple prognostic marker for reperfusion, functional recovery, and survival, with a consistent optimal threshold of 35.9&#x202f;&#xb0;C. Prospective controlled studies are required to confirm these findings.",
-      "categories": [
-        "cardiology",
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42569194",
-      "title": "Case Report: Fascia lata transposition for chronic recurrent perineal hernia followed by laparoscopic colopexy for subsequent rectal prolapse in a dog.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Park J, Lee WJ, Kim DH",
-      "date": "2026 08 08",
-      "dateObject": "2026 08 08",
-      "abstract": "This case report describes a surgical management of chronic, recurrent, complicated perineal hernia following bilateral herniorrhaphy in a 6-kg castrated male mixed-breed dog, estimated to be over 10&#x202f;years old. The patient presented with recurrent right-sided perineal hernia and constipation associated with rectal sacculation. During the herniorrhaphy attempted, severe atrophy of pelvic musculature was identified; therefore, a fascia lata transposition was performed. Postoperatively, the dog developed a rectal prolapse, which was successfully addressed through laparoscopic colopexy. The dog recovered uneventfully, maintaining a good appetite and activity levels. There were no complications related to urination, defecation, gait, or wound healing following either procedure. At the 27-month follow-up, the dog remained in good condition without clinical signs. Fascia lata transposition is effective for complicated perineal hernias lacking of musculature for reconstruction. Laparoscopic colopexy is also a clinically practical option for rectal prolapse in small-breed dogs.",
-      "categories": [
-        "surgery",
-        "dermatology"
-      ]
-    },
-    {
-      "pmid": "42569037",
-      "title": "Assessment of the knowledge, attitudes and practices level on toxoplasmosis and its seroprevalence in selected high-risk groups in Cebu, Philippines.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Yba&#xf1;ez AP, Sabanate GB, Garciano SL, Destajo RH, Yba&#xf1;ez RHD, Nishikawa Y, Portugaliza HP",
-      "date": "2026 08 08",
-      "dateObject": "2026 08 08",
-      "abstract": "Toxoplasmosis, a zoonotic disease caused by Toxoplasma gondii , poses significant health risks, especially to high-risk individuals who are exposed to cats. This study aimed to assess the knowledge, attitudes, and practices (KAP) related to toxoplasmosis and determine its seroprevalence among selected high-risk groups in Cebu, Philippines-specifically veterinary students, veterinary personnel, and cat owners. A total of 416 participants completed a structured questionnaire evaluating their demographics, exposure history, and KAP levels, while 250 underwent further rapid serological testing for T. gondii . Results of the relative proportions revealed that there were more veterinary students who were having high level of knowledge (61%), compared to veterinary personnel (46%) and cat owners (24%). Relative proportions revealed that there were more veterinary students who were having high level of knowledge (61%), compared to veterinary personnel (46%) and cat owners (24%). Similar pattern was observed in the attitude level for veterinary students (54%), veterinary personnel (36%) and cat owners (32%). However, practice level showed that more veterinary personnel (54%) had high level than the veterinary students (35%) and cat owners (35%). The over-all seroprevalence of T. gondii was 29.2%, with the highest relative detection rates among veterinary personnel (43.8%) and cat owners (39%). While statistical analyses revealed no significant differences between the KAP levels of the three groups, significant associations between seropositivity and profile variables, including age, educational attainment, previous medical history, and frequency of cat contact ( P &#x2264; 0.05) were found. These results highlight the need for sustained public education, improved veterinary and public health training, responsible pet ownership, and better access to diagnostic services.",
       "categories": []
     },
     {
@@ -1318,18 +1375,6 @@
       "dateObject": "2026 07 31",
       "abstract": "To generate \"caninized\" mice that could be used for investigating canine diseases and testing new therapies. In this experimental study, canine hematopoietic stem cells (HSCs) were isolated from bone marrow mononuclear cells from donor dogs using immunomagnetic sorting and an anti-canine CD34 antibody. Fresh or overnight-cultured HSCs were administered IV into sublethally irradiated immunodeficient mice (NOD scid &#x3b3; strain) 4 to 20 hours after irradiation (median dose, 2.0 X 105 cells; n = 120) with noninjected irradiated controls (30). Engraftment was assessed by serum canine immunoglobulin M (IgM) measurement and flow cytometric analysis for canine leukocytes and immunohistochemical staining for T and B cells. HSCs were enriched after sorting (median CD34+ cells, 87.6% vs 2.5% in bone marrow mononuclear cells). Canine IgM was measurable in sera of 49% of 94 surviving injected mice 19 to 42 weeks after irradiation (median IgM, 310 ng/mL; range, 18 to > 8,400 ng/mL). Higher serum canine IgM concentrations were detected in mice injected with fresh versus overnight-cultured HSCs. Low numbers of canine leukocytes and T and B cells were identified in the spleen and bone marrow with flow cytometry or immunohistochemistry. NOD scid &#x3b3; mice can be engrafted with canine immune cells. The creation of \"caninized\" mice is feasible, but efficiency of engraftment was low and requires further optimization before these mice can be used to model canine disease.",
       "categories": []
-    },
-    {
-      "pmid": "42173147",
-      "title": "A video guide to stabilization of canine hip luxation by intra-articular reconstruction of the round ligament using a synthetic implant.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Buttin P, Crumi&#xe8;re A, Goin B",
-      "date": "2026 07 31",
-      "dateObject": "2026 07 31",
-      "abstract": "To provide video guidance on performing intra-articular repair of the round ligament with a synthetic implant to stabilize the coxofemoral joint following hip luxation in dogs. Dogs of any size with hip luxation associated with rupture of the round ligament. With the dog in lateral recumbency, a femoral tunnel is drilled from the base of the greater trochanter to the fovea capitis. A second femoral tunnel is drilled caudocranially, distal and perpendicular to the first one, midway between the medial and lateral cortices of the proximal femoral metaphysis. This tunnel is compacted with an interference screw intended for implant fixation. A third tunnel is drilled through the acetabulum at the footprint of the round ligament. An ultra-high-molecular-weight polyethylene (UHMWPE) implant preassembled with a cortical button is inserted through the acetabular tunnel, such that the button lies against the medial wall of the acetabulum. The implant is passed through the femoral tunnels, tensioned, and secured in the second femoral tunnel with the use of an interference screw inserted caudocranially. This technique provides immediate stabilization and restores physiological mobility of the hip. Hip luxation is a common traumatic lesion in small animals. The choice of surgical treatment depends on the type of hip luxation, which usually occurs in a craniodorsal direction and more rarely in a caudodorsal or caudoventral direction. Intra-articular repair replaces the torn round ligament with a biocompatible UHMWPE implant to restore the stability and mobility of the joint. This technique allows for treatment of all luxation types.",
-      "categories": [
-        "surgery"
-      ]
     },
     {
       "pmid": "42536135",
@@ -2147,32 +2192,6 @@
       ]
     },
     {
-      "pmid": "41932356",
-      "title": "Folded-flap palatoplasty performed with a needle-tip monopolar cautery: retrospective cohort of 66 brachycephalic dogs.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Miloro R, Mala B, Ceplecha V, Vullo C, Vlasin M",
-      "date": "2026 07 20",
-      "dateObject": "2026 07 20",
-      "abstract": "To evaluate short- and long-term patient outcomes retrospectively, investigate anesthetic and surgical times, and assess clinically relevant surgical wound complications associated with the use of needle-tip monopolar electrocautery for folded-flap palatoplasty. This retrospective observational study included a cohort of client-owned dogs presented to a single referral hospital (2019 to 2024). All dogs underwent a standardized multilevel surgical approach, including folded-flap palatoplasty, Trader (suture-less) rhinoplasty, ala-vestibuloplasty, and tonsillectomy, as indicated. When available, surgical and anesthetic times and 14-day examinations were recorded. Short-term follow-up was performed at 6 weeks postoperatively with objective functional grading, and long-term follow-up was conducted via a telephone owner questionnaire. 66 dogs met the inclusion criteria. At the 6-week follow-up, significant improvement in brachycephalic obstructive airway syndrome functional grades was observed. The mean (&#xb1; SD) anesthetic time was 84 &#xb1; 17.59 minutes. The intraoperative complication rate was 9%. The overall postoperative complication rate was 25.7%, with 19.7% minor complications, no surgical wound complications, and a 6% mortality rate. At a median follow-up of 19 months, 94.3% of owners reported high satisfaction and 86.4% to 92.8% of dogs showed excellent improvement in respiratory and gastrointestinal health. An acceptable overall complication rate was observed in all patients. No clinically relevant surgical wound breakdowns were observed in any patients. Needle-tip monopolar electrocautery did not increase the postoperative complication rate or worsen outcomes.",
-      "categories": [
-        "internalMedicine",
-        "surgery",
-        "dermatology"
-      ]
-    },
-    {
-      "pmid": "41932354",
-      "title": "Comparison of the incidence of postoperative ocular hypertension after pars plana vitrectomy and phacoemulsification and aspiration in dogs.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Yoshida G, Umeda Y",
-      "date": "2026 07 20",
-      "dateObject": "2026 07 20",
-      "abstract": "To retrospectively evaluate whether postoperative ocular hypertension (POH) occurs after pars plana vitrectomy (PPV) for rhegmatogenous retinal detachment, as POH does after phacoemulsification and aspiration (PEA). Medical records of dogs that underwent PPV or PEA between January 2018 and December 2021 were reviewed retrospectively. Cases were divided into 2 groups: the PPV group and the PEA group. The PPV group was further divided into 2 groups: the PPV-only group and the PEA + PPV group, which included cases that underwent PEA and PPV simultaneously. Intraocular pressure was measured preoperatively and at 1, 3, 5, 24, and 48 hours postoperatively with rebound tonometry in all dogs, and POH incidence was analyzed. Of the 377 eyes (300 dogs), 43 eyes (40 dogs) were included in the PPV-only group, 48 eyes (45 dogs) in the PEA + PPV group, and 286 eyes (215 dogs) in the PEA group. The incidence of POH was 9.9% (9 of 91 eyes) in the PPV group and 25.5% (73 of 286 eyes) in the PEA group. Within the PPV group, the incidence of POH was 2.3% (1 of 43 eyes) in the PPV-only group and 16.7% (8 of 48 eyes) in the PEA + PPV group. The incidence of POH was significantly lower in the PPV group than in the PEA group. Postoperative ocular hypertension occurred after PPV for rhegmatogenous retinal detachment in dogs, with a lower incidence than after PEA. Given the possibility of developing POH after PPV, similar to PEA, postoperative monitoring of intraocular pressure is crucial.",
-      "categories": [
-        "surgery"
-      ]
-    },
-    {
       "pmid": "42474547",
       "title": "High prevalence of Giardia spp. in cats without diarrhea and agreement between diagnostic techniques in the municipality of Londrina, Paran&#xe1;, Brazil.",
       "journal": "Veterinary Research Communications",
@@ -2291,20 +2310,6 @@
       "abstract": "ObjectivesCats are susceptible to highly pathogenic avian influenza H5 clade 2.3.4.4 (HPAI H5) and human new pandemic H1N1 (H1N1 pdm09 ) influenza A viruses. A simultaneous infection with multiple influenza A virus subtypes could potentially result in the generation of reassortant viruses with enhanced zoonotic potential. Previously, high seropositivity (11.8%) to HPAI H5 virus has been detected in rural stray cats in the Netherlands, presumably through contact with or feeding on infected birds. Seropositivity was much lower (0.46%) in concurrently sampled domestic cats with unknown outdoor access, which were frequently (4.6%) seropositive to H1N1 pdm09 virus. As outdoor access is expected to increase the risk of HPAI H5 exposure, in this study we determined seropositivity to HPAI H5 as well as H1N1 pdm09 in domestic cats with known outdoor access.MethodsIn 2024, sera from 254 outdoor cats were collected and screened for antibodies to HPAI H5 and H1N1 pdm09 virus using in-house developed ELISAs and haemagglutination inhibition assays (HAIs).ResultsAntibodies to HPAI H5 virus were detected in seven (2.8%) cat sera (95% confidence interval [CI] 1.1-5.6) by ELISA, but not by HAI. Antibodies to H1N1 pdm09 were detected in 14 (5.5%) sera (95% CI 3.1-9.1), of which seven (2.8%) were positive by HAI (95% CI 1.1-5.6). Two sera (0.79%) reacted in ELISA to both HPAI H5 and H1N1 pdm09 (95% CI 0.1-2.8).Conclusions and relevanceAntibodies to both HPAI H5 and H1N1 pdm09 viruses were detected in outdoor domestic cats, with a higher seroprevalence for H1N1 pdm09 . Seropositivity for HPAI H5 was higher than was previously detected in domestic cats with unknown outdoor access, but lower than in stray cats. This warrants further investigation into the potential role of outdoor domestic cats as mixing vessels and as a source of (novel) zoonotic viruses.",
       "categories": [
         "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42249548",
-      "title": "Ultrasound-guided quadratus lumborum block vs lumbosacral epidural anesthesia in cats undergoing ovariohysterectomy: a randomized pilot clinical trial.",
-      "journal": "Journal of Feline Medicine and Surgery",
-      "authors": "Mangabeira RO, Rodrigues GM, Moura CL, Moraes VJ, de Oliveira AR, Estrela-Lima A, Barbosa VF",
-      "date": "2026 07 17",
-      "dateObject": "2026 07 17",
-      "abstract": "ObjectivesThe aim of the present study was to compare analgesic and cardiopulmonary effects after bilateral ultrasound-guided quadratus lumborum block (QLB) and lumbosacral epidural (LsE) with levobupivacaine in cats undergoing ovariohysterectomy (OVH).MethodsA prospective, randomized, blinded clinical trial was conducted. A total of 20 healthy female cats were allocated (1:1) to the LsE group (0.4&#x2009;ml/kg 0.25% levobupivacaine) or the QLB group (0.3&#x2009;ml/kg 0.25% levobupivacaine per hemiabdomen). Cats were premedicated with dexmedetomidine 3&#x2009;&#xb5;g/kg and meloxicam 0.1&#x2009;mg/kg. Anesthesia was performed using propofol variable rate infusion (adjusted to clinical depth). Heart rate, respiratory rate, hemoglobin oxygen saturation, end-tidal carbon dioxide and systolic, mean and diastolic arterial pressures were recorded at seven standardized surgical time points. Postoperative pain (UNESP-Botucatu multidimensional composite pain scale) and sedation were assessed up to 6&#x2009;h after surgery; methadone (0.25&#x2009;mg/kg IM) was administered as rescue analgesia when indicated. Recovery milestones and mean propofol infusion rates were also compared. Data were analyzed using repeated measures ANOVA, unpaired t -tests or non-parametric tests, as appropriate ( P &#x2009;<0.05).ResultsNo significant between-group differences were detected for any cardiopulmonary variable ( P &#x2009;>0.05), and no intraoperative rescue analgesia was required. Mean propofol infusion rates were similar (LsE 0.36&#x2009;&#xb1;&#x2009;0.07 vs QLB 0.39&#x2009;&#xb1;&#x2009;0.02&#x2009;mg/kg/min; P &#x2009;=&#x2009;0.0863). Postoperative pain scores did nor differ between groups. Only one cat in the QLB group required methadone at 6&#x2009;h. Recovery milestones (extubation to standing: LsE 73&#x2009;mins, QLB 79&#x2009;mins; P &#x2009;=&#x2009;0.4182) and sedation scores were comparable. No block-related complications or adverse events were observed.Conclusions and relevanceBilateral ultrasound-guided QLB with 0.25% levobupivacaine provided cardiopulmonary stability and early perioperative analgesic performance comparable to lumbosacral epidural anesthesia in cats premedicated with dexmedetomidine and meloxicam undergoing OVH, supporting its use as a clinical alternative, particularly when epidural access is contraindicated.",
-      "categories": [
-        "cardiology",
-        "internalMedicine",
-        "surgery"
       ]
     },
     {
@@ -2889,20 +2894,6 @@
         "cardiology",
         "internalMedicine",
         "neurology"
-      ]
-    },
-    {
-      "pmid": "42337531",
-      "title": "Unilateral phaeochromocytoma in a dog with pre-existing, long-standing primary hypoadrenocorticism: a case report.",
-      "journal": "BMC Veterinary Research",
-      "authors": "Tan SK, Hosgood GL, Curnow M",
-      "date": "2026 06 24",
-      "dateObject": "2026 06 24",
-      "abstract": "This is a rare occurrence of a phaeochromocytoma in a dog with pre-existing, long-standing primary hypoadrenocorticism that underwent successful surgical intervention with a favourable outcome. The objective of this case report is to describe the diagnosis, management and outcome for unilateral phaeochromocytoma in a dog with pre-existing chronic adrenal insufficiency and atrophy. A 14-year-old neutered female Jack Russell Terrier had a 1-week history of hyporexia, lethargy and progressive weight loss of 1.4&#xa0;kg in 5 months. Computed tomography identified a left adrenal gland nodule of 5.3&#xa0;mm diameter, several 1 to 2&#xa0;mm soft tissue attenuating pulmonary nodules, and a large 65&#xa0;mm diameter intraparenchymal right renal mass. A left adrenalectomy and right nephroureterectomy were performed. Histopathology with immunohistochemistry confirmed the diagnosis of phaeochromocytoma and renal cell carcinoma. The dog continued treatment for hypoadrenocorticism and was in good clinical condition at 3, 7, and 11 weeks postoperative follow-up. This report details a unique finding of phaeochromocytoma in a dog with long-standing adrenocortical insufficiency and highlights the need for consideration of this as a differential for adrenal nodules, even in dogs with known cortical insufficiency and adrenal gland atrophy.",
-      "categories": [
-        "internalMedicine",
-        "oncology",
-        "surgery"
       ]
     },
     {

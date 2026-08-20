@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T22:02:27.772Z",
+  "updated_at": "2026-08-20T22:06:29.024Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -3479,6 +3479,86 @@
       "title": "Toxicity of Cytarabine Intravenous Constant Rate Infusion in Cats With Lymphoma.",
       "journal": "Veterinary and Comparative Oncology",
       "generated_at": "2026-08-19T22:02:27.763Z",
+      "model": "gpt-5-mini"
+    },
+    "42617653": {
+      "brief_summary": "후향적 의무기록 검토로 2014–2026년 사이에 컴퓨터 단층촬영(computed tomography, CT)으로 진단된 외상성 하악 골절을 가진 토끼 21례를 분석한 증례집단 연구이다. 외상원인은 소유자에 의한 비의도적 외상(n=10) 등이었고, 하악골 분지(ramus) 골절이 85.7%(단측 14, 양측 4)로 가장 흔했다. CT는 다발성 골절 및 관련 두개안면 병변을 상세히 규명하는 데 유용했으며, 생존율은 비교적 양호했으나 장기적 치아 부정교합 등 치과 합병증이 자주 관찰되었다. 13례의 추적에서 절치 부정교합(n=8), 구치 부정교합(n=6) 등이 보고되었다.",
+      "detailed_summary": "연구는 2014년부터 2026년까지의 의무기록을 후향적으로 검토하여 CT로 외상성 악골 골절을 진단받은 토끼 21마리를 포함한 증례집단이다. 외상원인으로는 소유자에 의한 비의도적 외상(n=10), 소파에서의 추락·끼임(3), 개 물림(2) 등이 있었고 원인 불명 2례가 포함되었다. 해부학적 분포는 하악골 분지 골절이 85.7%로 가장 흔했고(단측 14, 양측 4), 중악봉합(intermandibular suture), 하악체, 관골궁(zygomatic arch) 등 동반 골절도 여러 증례에서 관찰되었다. 47.6%(n=10)에서 재발하는 하악골 골절 패턴이 있었고, CT는 골절 형태와 동반 병변의 상세한 평가에 기여했다. 추적이 가능한 13마리에서는 절치 부정교합(n=8), 구치 부정교합(n=6), 만성 누낭염(2), 고열(2), 하악 농양(1), 전정 증상 지속(1) 등의 합병증이 보고되었다. 보고된 바에 따르면 11마리는 외상 후 581일 시점에도 생존해 비교적 양호한 생존 결과를 보였으나, 장기적 치과 합병증은 흔했다. 본 연구는 증례집단 분석으로서 표본이 제한적이며 치료법의 상세 내용이나 무작위 비교 데이터는 초록에 제시되어 있지 않아 일반화에는 한계가 있다.",
+      "title": "Clinical presentation, computed tomographic findings, treatment, and outcome of traumatic jaw fractures in domestic rabbits (Oryctolagus cuniculus): 21 cases (2014-2025).",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-08-20T22:05:28.161Z",
+      "model": "gpt-5-mini"
+    },
+    "42617659": {
+      "brief_summary": "본 논문은 반려동물(개·고양이)에서의 Carbapenem-resistant Enterobacterales(CRE)가 인체·동물·환경을 잇는 One Health 위협으로 부상하고 있음을 개관한 종설이다. 미국에서 반려동물의 CRE 검출이 최근 증가했으나 전체 유병률은 추정상 낮고, 수의진료 환경 내 집단발생이 전파·환경 잔존·업무 중단을 초래한 사례가 보고되었다. 저자들은 진단·치료·감염관리(IPC) 고려사항과 함께 감시·대비를 위한 통합적 One Health 접근의 필요성을 강조한다.",
+      "detailed_summary": "이 글은 반려동물(주로 미국의 개·고양이)을 대상로 한 종합적 개요(리뷰)로, CRE의 역학·내성기전·진단 고려사항·치료상의 한계·감염예방·관리(IPC)에 대해 실무적 정보를 제공한다. 핵심 관찰로는 미국에서의 CRE 검출 증가, 전체 유병률은 추정상 낮다는 점, 수의병원 내 발생 사례들이 의료환경 내 전파와 환경내 잔존을 입증했다는 점, 그리고 반려동물과 사람 사이의 CRE 교환이 문서화되었다는 사실이 제시된다. 저자들은 또한 카바페넴 계열 약물은 인간에서 필수적인 약제이며 수의학적 승인약은 아니지만 개·고양이에서 비승인(extralabel)으로 드물게 처방된다고 명시한다. 논문은 현재의 이해에 중요한 네 가지 정보 공백을 지적하는데, 즉(1) 검사 빈도 및 신고 부족으로 인한 실제 유병률 불확실성, (2) 검사 접근성의 불일치로 인한 내성기전 이해 부족, (3) 집락화(정착) 동태에 대한 제한된 데이터, (4) 획득 위험요인에 대한 정보 부족이다. 결론적으로 CRE를 식별·예방·억제하기 위해서는 사람·동물·환경을 아우르는 통합(One Health) 감시 및 대비가 필수적이라고 제언한다. 추가로, 동반 기사(Frey 등, AJVR, 2026 예정)가 카바페네마제 생성 CRE의 이해, 진단·역학·감염관리의 공백과 향후 연구 우선순위를 다룰 것임을 언급한다.",
+      "title": "Carbapenem-resistant Enterobacterales in companion animals are an emerging One Health threat.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-08-20T22:06:29.015Z",
+      "model": "gpt-5-mini"
+    },
+    "42617660": {
+      "brief_summary": "이 논문은 반려동물(개·고양이)이 도시화, 오염물질 노출 증가, 실내 생활 증가 및 기후변화 등 생활환경 변화에 노출되며 이로 인해 알레르기 피부질환의 발생과 중증도가 증가하고 있음을 현 지식 관점에서 정리한 Currents in One Health 기사이다. 교통·플라스틱·화학물질 오염, 식물·미생물 다양성 감소, 극한 기후사상 및 이산화탄소 증가(꽃가루 생산 및 알레르기성 증가) 등이 상피 손상, 면역 변화, 마이크로바이옴(미생물군집) 불균형을 초래해 알레르기 감작과 염증을 촉진한다고 보고한다. 임상적 의미로 반려동물에서도 사람과 마찬가지로 아토피 피부염(atopic dermatitis, AD) 등 알레르기 질환이 증가하고 있음을 강조하며 One Health(원헬스)적 통합 관점의 인식을 촉구한다.",
+      "detailed_summary": "이 글은 Currents in One Health 기사로서 변화하는 환경조건이 반려동물의 피부 건강에 미치는 영향을 현 지식 수준에서 종합적으로 제시하는 개관성 기사이다. 내용은 반려동물이 농촌에서 도시 생활로 이동하며 식물·미생물 다양성 감소, 자동차·플라스틱·화학물질에 의한 오염 노출 증가, 실내 생활 시간 증가를 겪고 있고 동시에 극심한 온도·습도·바람 및 산불로 인한 먼지 노출 같은 기후 관련 사건의 영향을 받고 있다고 기술한다. 또한 대기 중 CO2 증가로 꽃가루 생산과 알레르기성이 강화되고 꽃가루 계절이 더 길고 강해졌다고 보고한다. 이러한 환경요인들이 상피 장벽, 면역계, 마이크로바이옴에 영향을 주어 마이크로바이옴 불균형(dysbiosis), 상피 투과성 증가, 염증 및 알레르기 감작 위험 증가로 연결된다는 메커니즘을 제시한다. 구체적으로 아토피 피부염은 개와 사람 모두에서 상피 손상 및 장(腸) 마이크로바이옴 불균형과 연관되어 있다고 언급한다. 결론은 환경 변화가 반려동물과 사람의 염증성 피부질환 증가를 촉진한다고 보고하며 동물·인간·환경 보건의 상호연관성을 인식할 것을 강조하는 한편, 초록에는 별도의 정량적 데이터(표본수·효과크기)나 개입 결과 및 상세한 제한점은 제시되어 있지 않음을 명시한다.",
+      "title": "The impact of changing living conditions, pollutants, and climate change on allergic skin disease in our pets: highlighting our interconnectedness.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-08-20T22:06:14.156Z",
+      "model": "gpt-5-mini"
+    },
+    "42617661": {
+      "brief_summary": "저자들은 기존 환자에서 개심장사상충(Dirofilaria immitis) 감염의 주요 원인이 예방 실패가 아니라 소유주 비준수라고 주장한다. 월간 매크로사이클릭 락톤(macrocyclic lactones, MLs)의 연간 구매 준수율이 24.4%에 불과하며, 많은 병원들이 월간 투약 알림보다 연간 검사 알림을 더 자주 보낸다고 비공식적으로 관찰된다. 저자들은 연간 발견이 아닌 연속적인 화학적 예방을 주목표로 삼고, 준수율 추적·정기적 준수 상담 및 처방 갱신 환경에서 준수 우선 프로토콜의 전향적 평가를 권고한다.",
+      "detailed_summary": "이 논문은 관점(viewpoint) 글로서 개심장사상충(Dirofilaria immitis) 관리에서 소유주 비준수가 대부분의 감염을 야기한다는 주장을 제시한다. 저자들은 월간 매크로사이클릭 락톤(MLs)을 사용하는 경우 연중 구매 완전 준수율이 24.4%에 불과하다고 보고한다. 또한 비공식 자료는 많은 임상가들이 월간 투약 알림보다 연간 검사(검출) 알림을 더 자주 보내는 경향이 있음을 시사한다고 언급한다. 저자들의 핵심 논점은 예방의 주목표를 '연간 이전 실패의 검출'이 아니라 '지속적 화학적 보호'로 전환해야 한다는 것이다. 이를 위해 저자들은 준수율 모니터링, 정기적 준수 상담 시행, 그리고 처방 갱신 상황에서 준수 우선 프로토콜의 전향적 평가를 제안한다. 초록에는 제안된 조치들의 효과를 입증하는 새로운 임상시험 데이터는 제시되어 있지 않음을 명시하고 있어, 제안은 관점 및 권고 수준임을 유의해야 한다.",
+      "title": "Are common clinical protocols prioritizing detection over prevention in canine Dirofilaria immitis?",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-08-20T22:05:50.250Z",
+      "model": "gpt-5-mini"
+    },
+    "42618917": {
+      "brief_summary": "후향적 연구로 체중 ≤15 kg의 소형견에서 Grade II 내측 슬개골 탈구(medial patellar luxation, MPL) 유무에 따른 대퇴 연골활차(femoral trochlea), 슬개골(patella) 및 슬개건(patellar ligament)의 계측학적 차이를 비교했다. Grade II MPL 군의 trochlear length:patellar length 비율(TL:PL)이 유의하게 증가(1.7±0.3 vs 1.6±0.2, p<.001)했으나 trochlear curvature:condylar curvature 비율(TC:CC)과 patellar ligament length:patellar length 비율(PLL:PL)은 전체 비교에서 차이가 없었다. Grade II MPL 내에서 연골이형(chondrodysplastic) 표현형의 경우 PLL:PL이 더 컸다(2.0±0.2 vs 1.9±0.2, p=.002), 이는 연골이형 개에서 상대적으로 긴 슬개건이 Grade II MPL과 연관될 수 있음을 시사한다.",
+      "detailed_summary": "이 연구는 후향적 설계로 체중 ≤15 kg의 소형견을 대상으로 하였고, Grade II MPL이 있는 슬관절 80개와 대조군 80개를 비교하였다. 평가 변수로는 대퇴 연골활차 길이 대비 슬개골 길이 비율(TL:PL), 연골활차 곡률 대비 과(condyle) 곡률 비율(TC:CC), 슬개건 길이 대비 슬개골 길이 비율(PLL:PL)을 사용하였다. 통계분석은 t-검정과 분산분석(ANOVA)이 사용되었다. 주요 결과로 Grade II MPL 군에서 TL:PL이 1.7±0.3으로 대조군의 1.6±0.2보다 유의하게 컸고(p<.001), TC:CC와 전체 PLL:PL은 그룹 간 차이가 없었다. Grade II MPL 군 내부 분석에서는 연골이형 표현형에서 PLL:PL이 2.0±0.2로 비연골이형의 1.9±0.2보다 유의하게 높았다(p=.002). 저자 결론은 소형견의 Grade II MPL 발생과는 대퇴 연골활차의 길이 감소나 곡률 감소는 관련이 없어 보이며, 연골이형 개에서는 상대적으로 긴 슬개건이 Grade II MPL과 관련될 수 있다는 것이다.",
+      "title": "Morphometric assessment of the femoral trochlea, patella and patellar ligament in small breed dogs with and without grade II medial patellar luxation.",
+      "journal": "BMC Veterinary Research",
+      "generated_at": "2026-08-20T22:04:50.455Z",
+      "model": "gpt-5-mini"
+    },
+    "42620570": {
+      "brief_summary": "본 연구는 개 유선종양(CMT) 세포주 두 종(CHMp, CIPm)에 렌티바이러스를 통해 PI3K를 과발현시켜 PI3K/AKT 경로가 종양 진행에 미치는 영향을 평가했다. PI3K 과발현은 세포 증식, 이동 및 침습 능력을 유의하게 증가시켰고, in vivo 마우스 이종이식 모델에서도 종양 성장을 촉진했다. 이 결과는 PI3K가 CMT의 성장 및 침습성에 기여함을 시사하며 PI3K 표적 치료 연구의 실험적 근거를 제공한다.",
+      "detailed_summary": "연구는 렌티바이러스를 이용한 PI3K 과발현 모델을 두 개의 개 유선종양(CMT) 세포주(CHMp, CIPm)에 적용한 실험적 연구이다. 세포 수준에서 증식, 이동(migration), 침습(invasion) 능력을 평가하는 기능성 검사를 수행했으며, 관련 단백질 발현은 웨스턴 블롯으로 확인했다. PI3K 과발현 세포는 대조군보다 증식·이동·침습 능력이 유의하게 증가했다. 단백질 분석에서는 인산화 AKT(p-AKT)와 항아폽토시스 단백질 Bcl-2의 발현이 증가하고, 프로아폽토시스 단백질 Bax는 감소하는 변화가 관찰되어 PI3K에 의한 아폽토시스 저하가 암 진행에 기여할 가능성을 제시했다. 추가로 마우스 이종이식 모델에서 PI3K 과발현이 종양 성장을 유의하게 촉진했다. 다만 본 결과는 두 개의 세포주와 마우스 이종이식 모델에 한정된 실험적 근거로, 임상적 적용 가능성 및 인과관계의 확립은 후속 연구로 검증되어야 한다.",
+      "title": "PI3K over-expression drives canine mammary tumor progression.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-08-20T22:04:31.177Z",
+      "model": "gpt-5-mini"
+    },
+    "42620618": {
+      "brief_summary": "본 연구는 일반마취하에서 cone-beam CT(CBCT)와 구강내 방사선영상(IDR)의 진단 성능을 조직병리(골드스탠다드)와 비교해 개의 근관(치수) 질환을 평가했다. 16마리의 환자에서 46개의 치아를 분석한 결과 CBCT가 전반적으로 IDR보다 질환 관련 영상 소견을 더 자주 검출했으며 특히 치근단 방사투명성(periapical lucency) 검출에서 우수했다(p<0.002, 치근단 방사투명성 p<0.001). 두 기법 모두 비생존(비활성) 치아 탐지에 대한 민감도는 높았으나 특이도는 제한적이었고, 평가자 간 일치도는 양쪽 모두 보통 수준으로 판독 표준화와 임상 소견 통합의 필요성을 시사했다.",
+      "detailed_summary": "전향적 관찰 연구로서, 내원한 임상 환견(의뢰견)에서 근관 질환이 의심되는 경우 일반마취하에 CBCT와 구강내 방사선영상(IDR)을 모두 촬영하였다. 총 16마리에서 46개의 치아가 포함되었고, 그중 18개 치아에 대해서는 조직병리학적 치수 생존성 평가가 이루어졌다. 다섯 명의 블라인드 평가자가 표준화된 정성적 척도로 치근단 방사투명성, 치수관 협착 소실(pulp canal narrowing failure), 외부 염증성 근흡수(external inflammatory root resorption), 치관 무결성 상실(loss of crown integrity) 등 네 가지 방사선 소견을 독립적으로 점수화하였다. 혼합효과모형과 일치도 통계로 진단 성능, 평가자 간 일치도 및 기법 효과를 분석한 결과 CBCT가 전반적 소견 검출에서 IDR보다 유의하게 우수했으며(p<0.002), 특히 치근단 방사투명성 검출에서 차이가 뚜렷했다(p<0.001). 조직병리학적 표본에서 두 영상법 모두 비생존 치아 식별에 높은 민감도를 보였으나 특이도는 제한적이었고(이는 조직병리 표본의 질환 유병률과 관련됨), 평가자 간 일치도는 양 기법에서 보통 수준으로 나타나 주요 제한점으로 평가자별 판정 변동성이 크게 작용했다. 결론적으로 CBCT는 개에서 치근단 병변 탐지에 더 민감했으나 판독자의 변동성이 여전히 중요한 한계로 남아 판독 표준화와 임상 정보와의 통합이 필요하다고 보고하고 있다.",
+      "title": "Evaluating cone-beam computed tomography vs. intraoral radiography for the detection of endodontal disease in dogs: diagnostic performance and inter-rater agreement.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-08-20T22:04:11.335Z",
+      "model": "gpt-5-mini"
+    },
+    "42620936": {
+      "brief_summary": "본 연구는 개의 외이도염 및 피부염과 관련된 효모 Malassezia pachydermatis(M. pachydermatis)의 케토코나졸(ketoconazole) 단기 노출에 따른 전사체 변화를 두 분리주(12372, 12693; 서로 다른 최소억제농도(MIC))에서 비교했다. 두 분리주 모두 ERG3, ERG5, ERG11, ERG24, ERG25 등의 에르고스테롤 합성 관련 유전자가 유의하게 상향조절되어 아졸에 의한 스테롤 대사 차단에 대한 보상 반응을 보였다. 또한 분리주별로 상이한 대사·성장 억제 패턴(12372는 리보좀 생합성 저하, 12693은 아미노산 합성·중앙 탄소대사 억제 및 유비퀴틴 리가아제·RNA 중합효소 II 조절인자·RNA 결합단백질의 상승)이 관찰되었고, 테스트 조건에서는 ABC 수송체 관련 배출 펌프의 전사 유도는 관찰되지 않아 향후 치료 표적 규명에 기초자료를 제공한다.",
+      "detailed_summary": "연구 설계는 케토코나졸 단기 노출 후 두 M. pachydermatis 분리주의 전사체(global transcriptome)를 분석하는 비교 연구이다. 대상은 서로 다른 케토코나졸 MIC 값을 가진 분리주 12372와 12693이며, 각각에서 12372는 80개 유전자가 유의하게 상향, 120개가 하향 조절되었고 12693은 158개가 상향, 211개가 하향 조절되었다. 공통 반응으로 두 분리주 모두 ERG3, ERG5, ERG11, ERG24, ERG25 등 에르고스테롤 합성 경로 관련 유전자들이 유의하게 상향조절되어 아졸에 의한 스테롤 대사 교란에 대한 보상적 전사반응을 시사한다. 분리주별 차이는 12372에서 주로 리보좀 생합성과 관련 유전자들이 하향되어 단백질 합성 및 성장 관련 활동이 감소된 반면, 12693에서는 아미노산 생합성 및 중앙 탄소대사가 억제되고 유비퀴틴 리가아제, RNA 폴리메라제 II 조절인자, RNA 결합단백질 관련 유전자가 상향되었다는 것이다. 주목할 점으로는 실험 조건의 단기 전사 반응에서 ABC 수송체 관련 배출 펌프들은 전사 수준에서 유도되지 않았다는 것이다. 결론적으로 본 전사체 데이터는 M. pachydermatis가 아졸 스트레스 하에서 성장이 둔화된 상태로 진입하기 위한 다양한 대사적 전략을 사용함을 보여주며, 다만 단기 전사체 결과라는 점과 전사 수준 관측만으로는 단백질 수준·장기 적응·임상적 내성으로의 직접적 전이를 단정할 수 없다는 제한점이 있다.",
+      "title": "Global transcriptomic response of Malassezia pachydermatis isolates under ketoconazole-induced stress.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-08-20T22:03:37.717Z",
+      "model": "gpt-5-mini"
+    },
+    "42622030": {
+      "brief_summary": "자연발생 심질환(예: myxomatous mitral valve disease, MMVD 및 dilated cardiomyopathy, DCM)을 가진 반려견 24마리를 대상으로 한 전향적 비무작위 개방 시험에서, 레스베라트롤 함유 누트라슈티컬(타우린, 비타민E, 코엔자임Q10 포함)을 약 1개월간 투여한 군(n=12)은 대조군(n=12)에 비해 NT-proBNP 상승이 덜했고(유의, P=0.024) 총항산화능(TAC)은 증가했다(P<0.0001). 심근 손상 지표(cTnI), 전구축 스트레인(GLS) 및 말론알데히드(MDA)에서는 유의한 차이가 없었고 특기할 만한 이상반응은 관찰되지 않았다. 이는 항산화 기반 누트라슈티컬이 보조 요법으로 잠재적 이점이 있을 수 있음을 시사하나, 소규모·단기간의 탐색적 결과로 해석과 일반화에는 주의가 필요하다.",
+      "detailed_summary": "연구는 전향적(non-randomized), 개방형(open-label) 디자인으로 수행되었으며, 24마리의 임상 반려견을 치료군(n=12)과 대조군(n=12)으로 나누었다. 치료군은 레스베라트롤을 포함한 누트라슈티컬(타우린, 비타민 E, 코엔자임 Q10 함유)을 하루 1회 약 한 달간 투여했고 대조군은 누트라슈티컬 없이 표준 심장약만 유지했다. 평가 항목은 혈중 NT-proBNP 및 심근 트로포닌 I(cTnI), 심초음파 변수(글로벌 종축 변형도, GLS 포함), 그리고 산화스트레스 지표인 총항산화능(TAC)과 말론알데히드(MDA)이었다. 주요 결과로 NT-proBNP의 변동률은 치료군에서 -4.51 ± 46.21%로 대조군의 +44.61 ± 62.36%에 비해 유의하게 낮았고(P=0.024), TAC는 치료군에서 평균 7.85 ± 7.07% 증가한 반면 대조군에서는 -8.00 ± 5.31% 감소하여 그룹 간 차이가 매우 유의했다(P<0.0001). cTnI(P=0.164), GLS(P=0.214), MDA(P=0.590)에서는 집단 간 유의한 차이가 관찰되지 않았고, TAC 변화와 NT-proBNP 변화는 유의한 음의 상관(r=-0.471, P=0.020)을 보였다. 임상적으로 중요한 이상반응은 보고되지 않았으며, 저자들은 이러한 결과를 탐색적 파일럿 소견으로 제한해 해석하고 더 큰 표본과 장기 추적이 필요한 것으로 결론지었다.",
+      "title": "Effects of a resveratrol-containing nutraceutical on cardiac biomarkers, echocardiographic parameters, and oxidative stress in dogs with naturally occurring cardiac disease.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-08-20T22:03:18.736Z",
+      "model": "gpt-5-mini"
+    },
+    "42622352": {
+      "brief_summary": "본 연구는 상업용 현장(point-of-care) FCoV RT-qPCR 검사와 외부 참조기관의 RT-qPCR 검사 간 일치도를 고양이 전염성 복막염(FIP)이 의심되는 100마리의 고양이(흉복수 등 삼출물 62건, 간·비장·장간막 림프절 FNA 38건)에서 비교했다. 전체 일치도는 상당히 높았고(κ=0.73), 삼출물에서는 거의 완전한 일치(κ=0.81)를 보였으나 FNA 검사에서는 일치도가 낮았다(κ=0.61). 현장검사는 삼출물에서 민감도 98.1%로 외부 검사(92.3%)와 유사하거나 더 높았고, FNA에서는 민감도와 음성예측값이 낮아 위음성 위험이 컸다; 따라서 현장 RT-qPCR은 신속한 임상 결정을 돕지만 임상 소견 및 다른 검사 결과와 함께 해석해야 한다.",
+      "detailed_summary": "연구는 AAFP/EveryCat 지침에 따라 FIP이 의심되는 내원 고양이 100마리를 대상으로 진행되었고, 흉복수(62건)와 초음파 유도 세침흡인(FNA, 38건) 시료를 분절하여 상업용 현장 RT-qPCR 검사와 외부 참조실험실 RT-qPCR로 각각 분석했다. 민감도와 음성예측값을 산출하고, Cohen의 카파(κ)로 일치도 평가, McNemar 검정으로 쌍비교, Cp(crossing point) 값은 Pearson 상관계수와 대응표본 t-검정으로 비교하였다. 전체 일치도는 κ=0.73으로 ‘상당함’을 보였고, 삼출물에서는 κ=0.81(거의 완전한 일치), FNA에서는 κ=0.61(중간 수준의 일치)으로 차이가 있었다. 삼출물 샘플에서 현장검사 민감도는 98.1%로 외부검사(92.3%)보다 약간 높았고, FNA에서는 민감도가 63.3–64.5%로 낮아 음성예측값도 낮은 경향이었다. Cp 값은 두 검사 간에 중간 정도의 상관을 보였고 평균 차이는 약 1 사이클로 작았다. 결론적으로 현장용 FCoV RT-qPCR은 신속하고 임상적으로 실용적이며 외부 검사와 좋은 일치도를 보이나, 흉복수가 없을 때 시행하는 FNA는 저역가와 불균일 분포로 인해 위음성 위험이 크므로 검사 결과는 임상 양상 및 다른 진단과 함께 해석해야 한다.",
+      "title": "EXPRESS: Agreement between point-of-care and external reference laboratory RT-qPCR testing for feline coronavirus in cats with suspected feline infectious peritonitis.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "generated_at": "2026-08-20T22:05:03.187Z",
       "model": "gpt-5-mini"
     }
   }
