@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T22:06:29.024Z",
+  "updated_at": "2026-08-21T21:59:30.283Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -3559,6 +3559,30 @@
       "title": "EXPRESS: Agreement between point-of-care and external reference laboratory RT-qPCR testing for feline coronavirus in cats with suspected feline infectious peritonitis.",
       "journal": "Journal of Feline Medicine and Surgery",
       "generated_at": "2026-08-20T22:05:03.187Z",
+      "model": "gpt-5-mini"
+    },
+    "42626406": {
+      "brief_summary": "이 연구는 독일어권에서 사용할 수 있도록 Dog Impulsivity Assessment Scale (DIAS)을 번역·검증하기 위해 개-보호자 2,788쌍의 데이터를 바탕으로 탐색적 요인분석(EFA)을 수행하고, 별도 표본 557쌍에서 확인적 요인분석(CFA)으로 구조를 확인했다. 4요인(흥분성/Excitability, 반응적 공격성/Reactive Aggressive Behavior, 환경에 대한 관심/Interest in Environment, 행동 조절/Behavioral Regulation)이 도출되어 전체 분산의 32.7%를 설명했다. 일부 문항(Item 12)은 제거되었고(Item 12: \"관심을 잃는 데 오래 걸린다\"), Item 6과 16은 문화적 해석 차이를 시사해 해석에 주의가 필요하다. 결과는 독일어 DIAS가 개의 충동성 관련 특성 평가에 유용한 도구임을 지지하나, 문화적 영향에 대한 추가 연구가 필요하다는 임상적 함의를 제시한다.",
+      "detailed_summary": "연구 설계는 심리측정 설문지의 번역 및 검증으로, 총 2,788개-보호자 쌍 데이터를 EFA로 분석하고 별도 557쌍 표본에서 CFA로 확인하는 단계적 접근을 사용했다. 분석 결과 4개 요인(흥분성, 반응적 공격행동, 환경에 대한 관심, 행동 조절)이 도출되었고 이들 요인이 총 분산의 32.7%를 설명했다. 원래 척도 항목 중 세 문항은 안정성이 부족하여 Item 12(\"takes a long time to lose interest\")는 최종 독일어판에서 제거되었고, Item 6(\"appears to be sorry\")과 Item 16(\"reacts very quickly\")은 문화 간 해석 차이를 반영할 가능성이 높다고 보고되었다. 연구는 독일어 DIAS가 충동성 관련 행동 특성 평가에 실용적 도구임을 지지하지만, 설명된 분산이 100%가 아니며 일부 문항의 불안정성은 제한점으로 남는다. 저자들은 특히 문화적 변화와 보호자들의 행동지식 증가가 평가 문항에 미치는 영향을 추가로 탐구할 필요가 있다고 결론지었다. 초록에 제시되지 않은 추가적 임상 적용이나 인과관계 추정은 제시하지 않는다.",
+      "title": "Measuring canine impulsivity: translation and validation of a German dog impulsivity assessment scale.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-08-21T21:59:30.276Z",
+      "model": "gpt-5-mini"
+    },
+    "42626410": {
+      "brief_summary": "후향적 연구로 초음파상 복수가 확인되고 영상 촬영 3시간 이내에 복강액 검사가 시행된 100마리의 개를 대상으로, 복수의 에코 발생(echogenicity)과 액체 분류(투수성(transudate) vs 삼출성(exudate), 감염성 여부)의 관계를 평가했다. 결과는 총 66개의 액흐림이 에코 발생을 보였고, 40개의 삼출성 중 80%가 에코 발생을 보인 반면 41개의 투수성 중 43%만이 에코 발생을 보였다. 17개의 감염성(세프틱) 삼출성은 모두(100%) 에코 발생이었다. 저자들은 에코 발생이 삼출성 및 감염성 복수와 유의하게 상관되어 초음파에서 빠르고 비침습적으로 세부 분류를 보완할 수 있다고 제시한다.",
+      "detailed_summary": "연구는 후향적이며, 초음파로 복수가 확인되고 검사 시행 후 3시간 이내에 복강액 분석이 이루어진 100마리의 외래 환자 개를 포함했다. 복수는 총핵세포수(TNCC)와 총단백질농도(TPC)에 따라 투수성( TNCC <1,500 cells/µL, TPC <2.5 g/dL), 삼출성( TNCC ≥5,000 cells/µL, TPC ≥2.5 g/dL), 또는 기타(혈흉, 담즙성 복막염, 요복수)로 분류했다. 영상 평가는 정적 DICOM과 cine loop를 보드인증 방사선의와 레지던트가 독립적으로 실시하고 합의로 결정했으며, 에코 없는 균일한 무에코(anechogenic)와 다수 또는 융합된 고에코 소견을 보이는 에코제닉(echogenic)으로 구분했다. 결과적으로 66개의 액흐림이 에코제닉이었고 34개는 무에코였으며, 삼출성 40개 중 80%가 에코제닉, 투수성 41개 중 43%가 에코제닉이었다. 특히 17개의 세프틱 삼출물은 모두(100%) 에코제닉이었고, 비감염성 삼출물(23개) 중 65%가 에코제닉이었다. TNCC(≥5,000 cells/µL)와 TPC(>4.5 g/dL)는 에코제닉 소견과 강한 상관을 보였다. 초록에는 제한점에 대한 언급이 없어 연구의 외삽 가능성이나 잠재적 편향에 대한 상세한 평가는 제공되지 않았다.",
+      "title": "Association between echogenicity of ascites and its classification in dogs.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-08-21T21:59:19.573Z",
+      "model": "gpt-5-mini"
+    },
+    "42627936": {
+      "brief_summary": "본 논문은 개의 만성 장질환(chronic enteropathy) 임상시험에서 임상활동성 지표의 반응 기준을 재검토할 것을 제안한다. 저자들은 Canine Inflammatory Bowel Disease Activity Index (CIBDAI)와 Canine Chronic Enteropathy Clinical Activity Index (CCECAI)의 측정오차와 평가자 간 재현성 한계를 지적하며, 연구 종점으로 보수적 최소검출변화로 변화(Δ) ≥ 4점을 권고한다. 또한 기저점수가 낮아 1~2개 항목의 이상으로 점수가 형성된 경우에는 항목별 변화(Δ 항목) ≥ 2를 제안하고, 평가 상황의 투명성·평가자 일관성 확보 및 삶의 질 지표와 장기적 증상 추적 통합을 권장한다.",
+      "detailed_summary": "저자들은 최근 연구들에서 임상활동성 지표가 주요 종점으로 널리 사용되지만 \"반응( response)\", \"관해( remission)\", \"재발( relapse)\"의 정의가 연구마다 크게 달라 비교와 근거 종합이 어렵다고 검토했다. 실제로 반응 기준은 상대적 감소(예: ≥25%에서 ≥75%까지), 절대 점수 절단값, 중증도 범주 이동 또는 증상 완전 해소 등으로 다양하게 사용되고 있다. 이와 함께 CIBDAI와 CCECAI의 총점 및 핵심 항목들에서 평가자 간 재현성이 제한적이며, 흔히 사용되는 반응 임계값이 측정오차와 겹칠 경우 겉보기 개선이 실제 질병 변화가 아닐 수 있다고 지적한다. 이를 바탕으로 저자들은 연구용 종점으로서 변화(Δ) ≥ 4점을 보수적 최소검출변화(minimal detectable change)로 제안하고, 기저점수가 낮아 일부 항목의 이상으로 점수가 형성된 경우에는 배변 형태나 배변 빈도와 같은 항목에 대해 항목별 변화(Δ 항목) ≥ 2를 권장한다. 또한 점수화 조건의 투명한 보고, 평가자 일관성 우선화, 검증된 건강 관련 삶의 질 지표 및 장기적 증상 추적과 같은 보완적 결과의 통합을 통해 임상적으로 의미 있는 변화를 더 잘 포착할 것을 권고한다. 본 논문은 방법론적 이질성이 임상시험 간 비교와 증거 통합을 저해한다는 문제를 제기하고 실용적 분류 틀을 제안하지만, 제안된 임계값의 적용성과 영향에 대한 추가적 검증은 초록에 제시되어 있지 않다.",
+      "title": "Rethinking clinical response criteria in trials of chronic enteropathy in dogs: what change is truly meaningful?",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-08-21T21:59:04.701Z",
       "model": "gpt-5-mini"
     }
   }

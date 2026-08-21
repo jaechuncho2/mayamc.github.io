@@ -1,6 +1,40 @@
 {
-  "updated_at": "2026-08-20T22:02:59.011Z",
+  "updated_at": "2026-08-21T21:58:47.991Z",
   "papers": [
+    {
+      "pmid": "42627936",
+      "title": "Rethinking clinical response criteria in trials of chronic enteropathy in dogs: what change is truly meaningful?",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "M&#xe9;ric T, V&#xe9;rollet C, Darnis E, Rhimi M, Hernandez J",
+      "date": "2026 08 21",
+      "dateObject": "2026 08 21",
+      "abstract": "Rethinking response criteria of treatment of chronic enteropathy in dog is necessary, as clinical activity indices are widely used as primary endpoints despite substantial variability in how \"response,\" \"remission,\" and \"relapse\" are defined. Across recent studies, response thresholds range from modest relative reductions (eg, &#x2265;25%) to stringent targets (eg, &#x2265;75%), absolute score cut-offs, shifts between severity categories, or binary resolution of clinical signs. This methodological heterogeneity undermines comparability between trials and complicates evidence synthesis. An often-overlooked contributor to this issue is the intrinsic variability of the Canine Inflammatory Bowel Disease Activity Index and the Canine Chronic Enteropathy Clinical Activity Index, particularly their limited inter-observer reproducibility for total scores and several core items. When commonly used response thresholds overlap with expected measurement error, apparent clinical improvement might reflect scoring variability rather than true change in disease activity. We therefore propose a pragmatic framework for response classification anchored in the measurement properties of these instruments. For research endpoints, an absolute change of at least 4 points (&#x394;&#xa0;&#x2265;&#xa0;4) is suggested as a conservative minimal detectable change to reduce misclassification of responders and non-responders. In dogs with low baseline scores driven by 1 or 2 isolated abnormalities, an item-centered approach (&#x394; item &#x2265;2) might be more appropriate, particularly for variables such as stool consistency or defecation frequency. Finally, transparent reporting of scoring conditions, prioritization of evaluator consistency, and integration of complementary outcomes, including validated health-related quality-of-life measures and longitudinal symptom tracking, might help better capture clinically meaningful effects.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42626410",
+      "title": "Association between echogenicity of ascites and its classification in dogs.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Biondo S, Jakovljevic S, Pascual M, Fernandez M, Fayers B, Valls Sanchez F",
+      "date": "2026 08 21",
+      "dateObject": "2026 08 21",
+      "abstract": "Ascites in dogs results from a range of systemic and localized disorders. Early distinction between transudative and exudative peritoneal effusions, and between septic and non-septic exudates, is crucial for guiding emergency interventions and treatment strategies. To evaluate the relationship between echogenicity of ascites and results of fluid analysis, and to determine whether echogenicity can help differentiate transudates from exudates. Retrospective study including 100 client-owned dogs with ultrasonographically confirmed peritoneal effusion and fluid analysis performed within 3 h of imaging. Effusions were classified according to total nucleated cell count (TNCC) and total protein concentration (TPC) as follows: transudates (<1,500 cells/&#x3bc;L, <2.5 g/dl), exudates (&#x2265;5,000 cells/&#x3bc;L, &#x2265;2.5 g/dl), or other (hemoperitoneum, biliary peritonitis, uroperitoneum). Static DICOM images and cine loops were acquired and independently assessed by a board-certified radiologist and a radiology resident. Consensus was reached for all cases. Effusions with uniform echo-free appearance were deemed anechogenic; those containing multiple or confluent hyperechoic foci were classified as echogenic. Sixty-six effusions were echogenic and 34 anechogenic. Of the 40 exudates, 80% were echogenic compared to 43% of the 41 transudates. All 17 septic exudates (100%) were echogenic compared to 65% of 23 non-septic exudates. TNCC (&#x2265;5,000 cells/&#x3bc;L) and TPC (>4.5 g/dL) were strongly correlated with echogenic appearance. Echogenicity correlated significantly with exudative and septic effusions. Echogenicity may offer a rapid, non-invasive method to complement cytologic and biochemical analyses. Incorporating echogenicity assessment into abdominal ultrasonographic protocols may hasten critical clinical decision-making and improve outcomes in dogs with ascites.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42626406",
+      "title": "Measuring canine impulsivity: translation and validation of a German dog impulsivity assessment scale.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Kero D, Dolezal M, Affenzeller N",
+      "date": "2026 08 21",
+      "dateObject": "2026 08 21",
+      "abstract": "Psychometric questionnaires are used to assess canine temperament, aiding in the identification of behavioral and affective traits. Impulsivity, defined as a predisposition toward rapid, unplanned reactions to internal or external stimuli, is one such trait and is considered a contributing factor in various behavioral problems, including aggression. This study aimed to translate and validate the Dog Impulsivity Assessment Scale (DIAS) for use in German-speaking populations. Data from 2,788 dog-caretaker dyads were subjected to an exploratory factor analysis (EFA), revealing a four-factor structure. This structure was subsequently confirmed using a confirmatory factor analysis (CFA) in a separate subsample of 557 dyads. The resulting factors were labeled Excitability, Reactive Aggressive Behavior, Interest in Environment, and behavioral Regulation and explained 32.7% of the total variance. Three original scale items did not demonstrate adequate stability. Item 12 (\" takes a long time to lose interest \") was removed from the final German version, whereas Items 6 (\" appears to be sorry \") and 16 (\" reacts very quickly \") likely reflect cross-cultural differences in interpretation. These results support the German DIAS as a useful tool for assessing impulsivity related traits in dogs and underscore the value of cross-cultural research in advancing our understanding of canine impulsivity. Further research is needed to explore cultural influences, including the increasing knowledge of dog behavior in recent decades, which may shape dog caretakers' perceptions and interpretations of their dogs' behavior and thus influence their responses to certain questions in behavioral assessment scales over time.",
+      "categories": []
+    },
     {
       "pmid": "42622030",
       "title": "Effects of a resveratrol-containing nutraceutical on cardiac biomarkers, echocardiographic parameters, and oxidative stress in dogs with naturally occurring cardiac disease.",
@@ -69,6 +103,32 @@
       "abstract": "To evaluate the agreement of a commercially available point-of-care FCoV RT-qPCR assay and external laboratories RT-qPCR testing in cats with effusive and non-effusive FIP, and in cats with other diseases presenting with similar clinical signs. Client-owned cats suspected of FIP were enrolled with owner consent. Effusions and ultrasound-guided fine-needle aspirates (FNAs) from liver, spleen, or mesenteric lymph nodes were collected, split, and analysed using both a point-of-care RT-qPCR and an external laboratory RT-qPCR. FIP was diagnosed based on AAFP/EveryCat guidelines. Sensitivity and negative predictive values were calculated, agreement assessed with Cohen's kappa, paired differences tested with McNemar's test, and correlation of crossing point (Cp) values analysed using Pearson's coefficient and paired t-tests. One hundred cats were included (effusions n = 62, FNAs n = 38). Overall agreement between assays was substantial (&#x3ba; = 0.73), with near-perfect concordance for effusions (&#x3ba; = 0.81) and lower agreement for FNAs (&#x3ba; = 0.61). Relative sensitivity was highest in effusions (98.1% point-of-care, 92.3% external) and lower in FNAs (63.3-64.5%), with negative predictive values showing similar trends. Cp values were moderately correlated between assays, with minor mean differences (~1 cycle). The point-of-care FCoV RT-qPCR assay is a practical and reliable tool and shows very good agreement with external reference laboratory RT-qPCR testing. FNAs remain useful when effusions are unavailable but carry higher risk of false negatives likely due to low viral loads and heterogeneous distribution. Point-of-care testing offers rapid turnaround, supporting timely clinical decision-making, but results must be interpreted alongside clinical presentation and other diagnostics.",
       "categories": [
         "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42487432",
+      "title": "Intraoperative opioid-sparing effect of a quadratus lumborum block using low-concentration bupivacaine and dexmedetomidine in cats undergoing ovariohysterectomy.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "authors": "Takusagawa F, Takusagawa Y, Kimura T",
+      "date": "2026 08 20",
+      "dateObject": "2026 08 20",
+      "abstract": "ObjectivesThis study aimed to evaluate the intraoperative opioid-sparing effect of quadratus lumborum block (QLB) using low-concentration bupivacaine combined with dexmedetomidine in cats undergoing ovariohysterectomy.MethodsA total of 28 cats scheduled for ovariohysterectomy and classified as American Society of Anaesthesiologists status I were enrolled and randomly allocated to either a bupivacaine (0.125%) and saline (BS) or bupivacaine (0.125%) and dexmedetomidine (1&#x2009;&#xb5;g/kg) (BD) group. The cats underwent ultrasound-guided QLB in sternal recumbency using the allocated solution. If heart rate or mean arterial pressure increased by 20% or more from baseline during surgery, fentanyl (2&#x2009;&#xb5;g/kg IV) was administered as rescue analgesia. Postoperative pain was assessed 1, 2, 3, 6 and 12&#x2009;h after extubation using the Short-Form UNESP-Botucatu Multidimensional Composite Pain Scale. Buprenorphine (0.02&#x2009;mg/kg IM) was administered if the pain score was 4/12 or higher.ResultsThe cumulative intraoperative dose of fentanyl was significantly lower in the BD group (1&#x2009;&#xb5;g/kg [range 0-6]) than in the BS group (2&#x2009;&#xb5;g/kg [range 0-8]; P &#x2009;=&#x2009;0.030). No significant difference was observed between the groups in terms of the proportion of cats requiring intraoperative or postoperative rescue analgesia, postoperative pain scores at any time point, intraoperative physiological parameters or time-related variables.Conclusions and relevanceQLB performed in sternal recumbency using low-concentration bupivacaine with dexmedetomidine was associated with a modest reduction in intraoperative opioid requirements during ovariohysterectomy in cats. However, as this study design could not differentiate between the local and systemic effects of dexmedetomidine, further research is needed to clarify their relative contributions and determine the optimal adjunctive dose. A nerve block with a drug that has sedative and analgesic effects reduces pain relief needs during spay surgery in cats This study looked at whether adding a sedative and analgesic drug called dexmedetomidine to a nerve block could reduce the need for pain relief drugs during spay surgery in cats.",
+      "categories": [
+        "cardiology",
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42359891",
+      "title": "Surgical repair of steroidal and non-steroidal anti-inflammatory drug-associated full-thickness gastrointestinal ulcers in 10 cats.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "authors": "Jimeno Sandoval JC, Ribeiro da Cunha C, Rossanese M, Pilot MA, Menghini T, Villedieu EJA, Quinn RJ",
+      "date": "2026 08 20",
+      "dateObject": "2026 08 20",
+      "abstract": "ObjectivesThis study aimed to describe the clinical presentation, surgical management, complications and outcomes of cats with gastrointestinal (GI) ulcer perforation associated with recent administration of non-steroidal anti-inflammatory drugs (NSAIDs), corticosteroids or both.MethodsA retrospective review of medical records from five UK referral hospitals was conducted between 2009 and 2024. Cats were included if they underwent surgical correction of GI ulceration within 14 days of NSAID and/or corticosteroid administration.ResultsA total of 10 cats met the inclusion criteria. The proximal duodenum was the most common site of perforation (n&#x2009;=&#x2009;6/10), followed by the gastric body (n&#x2009;=&#x2009;2/10). Surgical techniques varied and included primary repair (n&#x2009;=&#x2009;5/10), Y-U pyloroplasty (n&#x2009;=&#x2009;2/10), enterectomy (n&#x2009;=&#x2009;2/10) and partial gastrectomy (n&#x2009;=&#x2009;1/10). All cats survived the immediate postoperative period; however, one cat did not survive to discharge (median hospitalisation time 6 days [range 3-15]). Short-term complications were noted in three cats: one death (sepsis 9 days postoperatively) and three mild complications, with two of these complications occurring in the same cat. Long-term complications were noted in one cat (severe ulcerative duodenopathy and euthanased 16 days postoperatively). Long-term follow-up (median 928 days [range 9-1215]) revealed that 5/10 cats remained alive at study completion. Two deaths (n&#x2009;=&#x2009;2/10) were attributed to GI ulcer-related complications.Conclusions and relevanceGI perforation secondary to recent NSAID or corticosteroid administration in cats carries a favourable prognosis after surgical correction. Despite the high-risk nature of GI perforation, the majority of cats survived to discharge. Surgery to repair severe stomach and intestinal ulcers linked to anti-inflammatory pain medicines in 10 cats Cats are often prescribed anti-inflammatory medications like non-steroidal anti-inflammatory drugs (NSAIDs) or steroids to treat pain and other health problems. In rare cases, these drugs can cause serious stomach or intestinal ulcers that may lead to life-threatening septic peritonitis. This study looked at cats that developed ulcers that caused a hole (perforation) in their stomach or intestines, requiring emergency surgery. We reviewed the medical records of 10 cats treated at UK specialist hospitals between 2009 and 2024. Each cat had received NSAIDs, steroids or both within 2 weeks before surgery. We looked at their clinical signs, treatments, types of surgery performed and how they recovered after surgery. All 10 cats had surgery to repair the ulcer. The most common signs before surgery included not eating, vomiting and low energy. The most common ulcer site was the first part of the small intestine (duodenum). All cats survived the surgery and most went home (usually after 6 days in the hospital). Some had mild complications like vomiting or appetite loss. Two cats died from problems related to ulcers, one shortly after surgery and one 2 weeks later. At the end of the study, five of the 10 cats were still alive and three had died of unrelated causes. Although ulcers caused by NSAIDs or steroids are rare, they can be very serious. If treated quickly with surgery, many cats can recover and live well afterwards. It is important for pet owners to use these medications exactly as prescribed and to monitor for warning signs like vomiting, not eating or low energy if their cat is on anti-inflammatory medication.",
+      "categories": [
+        "internalMedicine",
+        "surgery"
       ]
     },
     {
@@ -650,29 +710,6 @@
       "categories": [
         "internalMedicine",
         "neurology"
-      ]
-    },
-    {
-      "pmid": "42577518",
-      "title": "Behavioral components define operational suitability metric for detection dog success.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Zheng J, Lazarowski L, Lanier AL, Haney PS, Chester EM, Waggoner P, Wang X",
-      "date": "2026 08 11",
-      "dateObject": "2026 08 11",
-      "abstract": "To ensure effective development and assessment of detection dogs, Auburn University Canine Performance Sciences program has implemented a structured behavioral evaluation at four developmental milestones. At each timepoint, trainers scored candidate detection dogs on 11 subtests evaluating detection performance and environmental soundness using behavioral component (BC) scores. Additionally, trainers rated each dog's overall suitability for operational detection work using a singular global score. To investigate the relative importance of different metrics in predicting final outcomes, we leveraged a longitudinal dataset collected from 304 dogs. Using a machine learning classifier, we discovered that suitability (S) scores at 12-months of age were highly predictive of training outcomes, achieving a prediction accuracy of 74.3%. The S scores appear to reflect a synthesis of subtest scores across relevant behavioral domains, illustrated by their correlative structures. To determine if S scores could be replicated using only BC scores, we estimated computationally synthesized suitability (CSS) scores at each timepoint using five significant BC scores as predictors in a linear model. Strong correlations were observed between trainer-reported suitability and CSS, with spearman's correlation coefficients exceeding 0.84 at all timepoints, demonstrating CSS scores' excellent ability to predict suitability. As predictors of training outcome, trainer-reported S scores demonstrated high accuracy, while CSS scores exhibited high precision (76.7%). Notably, both suitability metrics increase over time in dogs deemed operationally capable but not in unsuccessful dogs. Our findings provide novel insights into the importance of data-driven approaches by combining expert trainer global assessments of suitability and BC scores with computational modeling in detection dog development.",
-      "categories": []
-    },
-    {
-      "pmid": "42577150",
-      "title": "Dietary sodium hyaluronate and eggshell membrane improve skin barrier function and coat health in Ragdoll cats.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Chen Q, Wang W, Wang H, Ma M, Miao C, Zhang Y, Lei S, Pan L, Liu Y, Chang X, Wang J, Xiong W",
-      "date": "2026 08 11",
-      "dateObject": "2026 08 11",
-      "abstract": "Skin and coat health are important indicators of feline well-being and are influenced by epidermal barrier integrity, nutritional status, oxidative balance, and microbial homeostasis. However, the effects of dietary sodium hyaluronate (SH) and eggshell membrane (ESM), either alone or in combination, remain insufficiently characterized in cats. Twenty-four healthy 6-month-old Ragdoll cats were randomly assigned to four dietary groups ( n &#x202f;=&#x202f;6 per group): a basal-diet control, 250 mg/kg SH, 250 mg/kg ESM, or 125 mg/kg SH plus 125 mg/kg ESM. After 56 days of supplementation, hair microstructure, coat sensory and colorimetric traits, transepidermal water loss (TEWL), hematological and serum biomarkers, hair nutrient composition, and fecal microbiota were evaluated. Dietary treatment did not significantly affect body weight. The combined SH + ESM treatment was associated with the most consistent improvements in hair cuticle morphology, hair fiber diameter, coat gloss, compliance, skin elasticity, coat brightness, and TEWL. It was also associated with lower serum malondialdehyde and interleukin-31 concentrations, higher selected antioxidant indices, increased serum zinc, copper, and vitamin E concentrations, and increased deposition of zinc and several amino acids in hair. Alpha diversity of the fecal microbiota was not significantly altered, whereas taxonomic composition differed among treatments, with greater relative abundances of Blautia and Lachnospiraceae-associated taxa in the combined-treatment group. Combined SH and ESM supplementation was associated with broader skin- and coat-related responses than either ingredient alone. These findings support its potential as a nutritional strategy for maintaining feline skin and coat health; however, the relatively small cohort of healthy juvenile cats and the exploratory nature of the microbiota analyses limit causal and clinical inference.",
-      "categories": [
-        "internalMedicine",
-        "dermatology"
       ]
     },
     {
@@ -2001,19 +2038,6 @@
       ]
     },
     {
-      "pmid": "42487432",
-      "title": "EXPRESS: Intraoperative opioid-sparing effect of a quadratus lumborum block using low-concentration bupivacaine and dexmedetomidine in cats undergoing ovariohysterectomy.",
-      "journal": "Journal of Feline Medicine and Surgery",
-      "authors": "Takusagawa F, Takusagawa Y, Kimura T",
-      "date": "2026 07 23",
-      "dateObject": "2026 07 23",
-      "abstract": "This study aimed to evaluate the intraoperative opioid-sparing effect of quadratus lumborum block (QLB) using low-concentration bupivacaine combined with dexmedetomidine in cats undergoing ovariohysterectomy. A total of 28 cats scheduled for ovariohysterectomy and classified as ASA I were enrolled and randomly allocated to either a bupivacaine (0.125%) and saline (BS) or bupivacaine (0.125%) and dexmedetomidine (1 &#xb5;g/kg) (BD) group. The cats underwent ultrasound-guided QLB in sternal recumbency using the allocated solution. If heart rate or mean arterial pressure increased by &#x2265;20% from baseline during surgery, fentanyl (2 &#xb5;g/kg IV) was administered as rescue analgesia. Postoperative pain was assessed 1, 2, 3, 6, and 12 h after extubation using the Short-Form UNESP-Botucatu Multidimensional Composite Pain Scale. Buprenorphine (0.02 mg/kg IM) was administered if the pain score was &#x2265;4/12. The cumulative intraoperative dose of fentanyl was significantly lower in the BD group (1 [0-6] &#xb5;g/kg) than in the BS group (2 [0-8] &#xb5;g/kg) (P = 0.030). No significant difference was observed between the groups in terms of the proportion of cats requiring intraoperative or postoperative rescue analgesia, postoperative pain scores at any time point, intraoperative physiological parameters, or time-related variables. QLB performed in sternal recumbency using low-concentration bupivacaine with dexmedetomidine was associated with a modest reduction in intraoperative opioid requirements during ovariohysterectomy in cats. However, as this study design could not differentiate between the local and systemic effects of dexmedetomidine, further research is needed to clarify their relative contributions and determine the optimal adjunctive dose.",
-      "categories": [
-        "cardiology",
-        "surgery"
-      ]
-    },
-    {
       "pmid": "42488032",
       "title": "Sarcoglycanopathy with absent expression of all sarcoglycan proteins in a young cat with clinical features of feline hypertrophic muscular dystrophy.",
       "journal": "JFMS Open Reports",
@@ -2035,19 +2059,6 @@
       "dateObject": "2026 07 22",
       "abstract": "Deep learning (DL) shows promise for interpretation of lung ultrasound (LUS) images in humans, but its performance in animals remains underexplored. Assess performance of a B-line detection algorithm (BLDA) trained on LUS images from humans when applied to images from dogs. A total of 1,950 clips collected from 201 LUS examinations in 90 dogs across 4 studies. Ultrasound clips were collated and labeled with A-line or B-line profiles by an expert reviewer. A DL model previously trained on LUS images from humans was applied to detect presence of B-lines at a framewise level. A clip classification algorithm was calibrated to maximize clip-level performance of the BLDA using a calibration data set. Performance of the DL model and BLDA was assessed on a held-out test set of LUS images. A heatmap-based explainability method was used to visualize regions most utilized by the model for predictions. When applied to the test set, the BLDA showed an overall accuracy of 87%, with sensitivity of 73% and specificity of 93%. The algorithm performed best when identifying images with strong (versus weak) B-line profiles. Assessing raw model predictions, zero-shot performance for identification of B-lines was excellent (area under the curve, 0.96). Heatmaps suggested that the DL model utilized image areas that were plausibly relevant for LUS interpretation. A LUS model trained on images from humans maintained strong performance when applied to dogs, supporting cross-species generalization to accelerate veterinary diagnostic innovations.",
       "categories": []
-    },
-    {
-      "pmid": "42485625",
-      "title": "Successful treatment of severe iatrogenic hypercalcemia and acute kidney injury with hemodialysis in a cat.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "DelMaestro LA, Bernstein RT, Chapman PS, Chalifoux NV",
-      "date": "2026 07 22",
-      "dateObject": "2026 07 22",
-      "abstract": "A 4-year-old male castrated domestic shorthair cat was diagnosed with a urethral obstruction after presenting for vomiting, inappetence, and inappropriate urination. The cat developed iatrogenic hypercalcemia (ionized calcium >&#x2009;4&#xa0;mmol/L, total calcium 57&#xa0;mg/dL) and an acute kidney injury (creatinine 9.81&#xa0;mg/dL) suspected to be a consequence of an overdose of calcium gluconate. Approximately 12&#xa0;h after admission, the cat became comatose and developed cardiovascular instability. A 6-h hemodialysis treatment was performed using continuous venovenous hemodiafiltration on the Prismaflex platform and hypercalcemia resolved during treatment. The cat's creatinine normalized (1.01&#xa0;mg/dL) within 72&#xa0;h and the cat was discharged after 6&#xa0;days of hospitalization. The cat subsequently developed signs of upper respiratory and gastrointestinal disease. Diagnostics including upper gastrointestinal endoscopy and bronchoscopy showed evidence of diffuse calcification of the trachea and gastric mucosa. This case demonstrates the successful application of hemodialysis in veterinary medicine to treat an acute kidney injury and iatrogenic hypercalcemia and provides unique documentation of its potential long-term sequelae.",
-      "categories": [
-        "cardiology",
-        "internalMedicine"
-      ]
     },
     {
       "pmid": "42485503",
@@ -2299,18 +2310,6 @@
       "dateObject": "2026 07 17",
       "abstract": "Short-read Illumina sequencing of hypervariable regions of the 16S rRNA gene and long-read Oxford Nanopore Technologies (ONT) sequencing of the full-length 16S gene are increasingly used to profile microbial communities. However, differences in sequencing chemistry, read length, and taxonomic assignment methods raise concerns about the comparability of microbiome profiles and their impact on biological interpretation. Faecal samples from two groups of healthy dogs, 8 young (32&#x2009;<&#x2009;age&#x2009;<&#x2009;59 months) and 8 old (age&#x2009;>&#x2009;109 months), were analysed. Taxonomic relative abundances obtained from Illumina and ONT sequencing were compared after nomenclature harmonisation. Agreement between workflows was assessed using Bland-Altman analysis on log2-transformed relative abundances. Although the mean bias at the genus level was small (0.229), limits of agreement indicated poor interchangeability between workflows. When restricted to taxa detected by both workflows, variability decreased but a larger negative bias emerged, suggesting abundance-dependent discrepancies. The effects of sequencing workflow on biologically relevant signals related to host age were evaluated by computing alpha and beta diversity metrics independently within each workflow. Alpha diversity differed between workflows, with ONT yielding higher Shannon diversity and richness values than Illumina. Beta diversity analyses indicated significant (p&#x2009;<&#x2009;0.05) age-related shifts in community composition only in ONT, with differences in variance explained and effect sizes. Workflow comparisons revealed taxon-specific differences at phylum, family, and genus levels, affecting both moderately and highly abundant taxa. These findings indicate that sequencing workflow choice impacts microbiome profiling and downstream interpretation, underscoring the need for care in cross-workflow comparisons.",
       "categories": []
-    },
-    {
-      "pmid": "42265865",
-      "title": "Highly pathogenic avian influenza H5 clade 2.3.4.4 and human new pandemic H1N1 virus exposure in domestic cats with outdoor access in the Netherlands in 2024.",
-      "journal": "Journal of Feline Medicine and Surgery",
-      "authors": "Duijvestijn MB, Broens EM, Schuurman NN, Vernooij JC, van den Brand JM, Wagenaar JA, van Kuppeveld FJ, Verhagen JH, de Haan CA",
-      "date": "2026 07 17",
-      "dateObject": "2026 07 17",
-      "abstract": "ObjectivesCats are susceptible to highly pathogenic avian influenza H5 clade 2.3.4.4 (HPAI H5) and human new pandemic H1N1 (H1N1 pdm09 ) influenza A viruses. A simultaneous infection with multiple influenza A virus subtypes could potentially result in the generation of reassortant viruses with enhanced zoonotic potential. Previously, high seropositivity (11.8%) to HPAI H5 virus has been detected in rural stray cats in the Netherlands, presumably through contact with or feeding on infected birds. Seropositivity was much lower (0.46%) in concurrently sampled domestic cats with unknown outdoor access, which were frequently (4.6%) seropositive to H1N1 pdm09 virus. As outdoor access is expected to increase the risk of HPAI H5 exposure, in this study we determined seropositivity to HPAI H5 as well as H1N1 pdm09 in domestic cats with known outdoor access.MethodsIn 2024, sera from 254 outdoor cats were collected and screened for antibodies to HPAI H5 and H1N1 pdm09 virus using in-house developed ELISAs and haemagglutination inhibition assays (HAIs).ResultsAntibodies to HPAI H5 virus were detected in seven (2.8%) cat sera (95% confidence interval [CI] 1.1-5.6) by ELISA, but not by HAI. Antibodies to H1N1 pdm09 were detected in 14 (5.5%) sera (95% CI 3.1-9.1), of which seven (2.8%) were positive by HAI (95% CI 1.1-5.6). Two sera (0.79%) reacted in ELISA to both HPAI H5 and H1N1 pdm09 (95% CI 0.1-2.8).Conclusions and relevanceAntibodies to both HPAI H5 and H1N1 pdm09 viruses were detected in outdoor domestic cats, with a higher seroprevalence for H1N1 pdm09 . Seropositivity for HPAI H5 was higher than was previously detected in domestic cats with unknown outdoor access, but lower than in stray cats. This warrants further investigation into the potential role of outdoor domestic cats as mixing vessels and as a source of (novel) zoonotic viruses.",
-      "categories": [
-        "internalMedicine"
-      ]
     },
     {
       "pmid": "42082101",
