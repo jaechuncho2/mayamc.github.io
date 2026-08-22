@@ -1,6 +1,18 @@
 {
-  "updated_at": "2026-08-21T21:58:47.991Z",
+  "updated_at": "2026-08-22T21:55:41.850Z",
   "papers": [
+    {
+      "pmid": "42630097",
+      "title": "Clinical Behaviour and Outcome of Pelvic Osteosarcoma in Dogs: A Retrospective Multicentre Analysis of 74 Cases (2007-2025).",
+      "journal": "Veterinary and Comparative Oncology",
+      "authors": "Fej&#xf6;s C, Czichon F, Griffin M, Grillo N, Fournier Q, Oblak ML, Eng-Toogood M, Kent M, Desmas-Bazelle I, Kleiter M, Marconato L, McNaught K, Vincenti S, Chalfon C, Odatzoglou P, Rohrer Bley C",
+      "date": "2026 08 22",
+      "dateObject": "2026 08 22",
+      "abstract": "Although osteosarcoma is the most common primary bone tumour in dogs, involvement of the pelvic bones is rare. The aim of the present study was to describe clinical presentation, identify possible prognostic factors, and evaluate outcomes in dogs diagnosed with pelvic osteosarcoma. Seventy-four dogs with cytologically or histologically diagnosed pelvic osteosarcoma were included in this multicentre retrospective study (2007-2025). The median progression-free survival (PFS) and overall survival (OS) were estimated using the Kaplan-Meier method, with comparisons performed using log-rank tests. Prognostic factors for PFS and OS were assessed using multivariable Cox proportional hazards regression analysis. Lameness (84%) was the most common presenting clinical sign, and the ilium (57%) was the most frequent intrapelvic tumour location. Thirty-one percent of dogs had metastases at diagnosis, primarily affecting the lungs. The median PFS was 75&#x2009;days, and the median OS was 79&#x2009;days. Dogs receiving any treatment had significantly longer PFS (116 vs. 7&#x2009;days, p&#x2009;<&#x2009;0.001) and OS (145 vs. 8&#x2009;days, p&#x2009;<&#x2009;0.001) than untreated dogs. No factors were significantly associated with PFS. In contrast, dogs with higher body weight and shorter time to diagnosis tended to have more favourable survival, whereas chemotherapy and local progression were associated with poorer outcomes. Despite the overall poor prognosis associated with pelvic osteosarcoma, treatment may extend survival. An individualized, often multimodal approach may provide clinical benefit in selected dogs.",
+      "categories": [
+        "oncology"
+      ]
+    },
     {
       "pmid": "42627936",
       "title": "Rethinking clinical response criteria in trials of chronic enteropathy in dogs: what change is truly meaningful?",
@@ -9,6 +21,254 @@
       "date": "2026 08 21",
       "dateObject": "2026 08 21",
       "abstract": "Rethinking response criteria of treatment of chronic enteropathy in dog is necessary, as clinical activity indices are widely used as primary endpoints despite substantial variability in how \"response,\" \"remission,\" and \"relapse\" are defined. Across recent studies, response thresholds range from modest relative reductions (eg, &#x2265;25%) to stringent targets (eg, &#x2265;75%), absolute score cut-offs, shifts between severity categories, or binary resolution of clinical signs. This methodological heterogeneity undermines comparability between trials and complicates evidence synthesis. An often-overlooked contributor to this issue is the intrinsic variability of the Canine Inflammatory Bowel Disease Activity Index and the Canine Chronic Enteropathy Clinical Activity Index, particularly their limited inter-observer reproducibility for total scores and several core items. When commonly used response thresholds overlap with expected measurement error, apparent clinical improvement might reflect scoring variability rather than true change in disease activity. We therefore propose a pragmatic framework for response classification anchored in the measurement properties of these instruments. For research endpoints, an absolute change of at least 4 points (&#x394;&#xa0;&#x2265;&#xa0;4) is suggested as a conservative minimal detectable change to reduce misclassification of responders and non-responders. In dogs with low baseline scores driven by 1 or 2 isolated abnormalities, an item-centered approach (&#x394; item &#x2265;2) might be more appropriate, particularly for variables such as stool consistency or defecation frequency. Finally, transparent reporting of scoring conditions, prioritization of evaluator consistency, and integration of complementary outcomes, including validated health-related quality-of-life measures and longitudinal symptom tracking, might help better capture clinically meaningful effects.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42612701",
+      "title": "Fixation of proximal humeral Salter-Harris type 1 fractures in a 3-dimensionally printed skeletally immature canine bone model: a biomechanical assessment of fully threaded headless cannulated screws.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Hwang TW, Kang E, Kim JM, Kim HY",
+      "date": "2026 08 21",
+      "dateObject": "2026 08 21",
+      "abstract": "To compare the biomechanical stability of 4 fixation techniques for proximal humeral physeal fractures in skeletally immature canines using 3-D-printed models. This experimental in vitro study was conducted from September 25, 2025, through April 22, 2026. To strictly control biological variability, identical 3-D-printed models of juvenile canine proximal humeral Salter-Harris type 1 fractures (CT-derived from a 6-month-old 26-kg Labrador Retriever) were evaluated across 4 groups: pin and tension band wire (group A), partially threaded cannulated screw (group B), fully threaded headless cannulated screw (FTHCS) alone (group C), and FTHCS with a 1.6-mm Kirschner (K)-wire (group D). Tensile loading was applied at 10 mm/min at 105&#xb0; to simulate supraspinatus traction. Outcomes included loads at 1- and 2-mm displacements, maximum failure load, and failure modes. Twenty-four models were tested (n = 6/group). Group D exhibited significantly higher resistance at 1-mm (663.95 N) and 2-mm (1,080.33 N) displacements than other groups. At 1-mm displacement, group D outperformed groups C, A, and B (mean differences [MD]: 206.2 N, 380.6 N, and 405.7 N, respectively; P < .0083). Maximum failure load did not differ significantly. Group B failed via localized proximal crushing and subsidence, whereas FTHCS groups (C, D) preserved proximal integrity, failing distally. In this 3-D-printed model, FTHCS combined with a K-wire provided superior resistance to tensile displacement compared with other tested constructs. FTHCS augmented with a K-wire may offer a biomechanically robust alternative mitigating subhead bone collapse, providing sufficient standalone stability for early rehabilitation in immature canines.",
+      "categories": [
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42269678",
+      "title": "Favorable short- and long-term outcomes reported for cats following surgical management of biliary cystadenomas.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Bryant R, Kroll J, Codd CM, Williams R, Wallace ML, Matthews KG, Bradley C, Holt D",
+      "date": "2026 08 21",
+      "dateObject": "2026 08 21",
+      "abstract": "To describe the clinical presentation, perioperative variables, surgical management, and outcomes in cats that underwent surgery for biliary cystadenomas. 21 cats met inclusion criteria. These cats had surgery for biliary cystadenomas between 2008 and 2023, with a corresponding histopathologic diagnosis. Cats were reported as domestic shorthair (15 of 21), domestic longhair (3 of 21), Himalayan (1 of 21), Ragdoll (1 of 21), and Persian (1 of 21). This included 13 neutered males and 8 spayed females with a median age of 13 years. Cats most commonly presented with nonspecific clinical signs such as vomiting, weight loss, hyporexia, and lethargy. Cats were occasionally subclinical with a liver mass identified on physical examination or abdominal imaging. Surgery was pursued based on a variety of factors, including comorbidities requiring surgery, features of the mass, and clinical signs attributed to the mass. Major surgical complications were uncommon, and the perioperative mortality rate was 10% (2 of 21). Three cats had concerns for malignant transformation on histopathology. The recurrence rate was 22% (4 of 18) for the cats with follow-up. The biliary cystadenoma was not the life-limiting issue for cats that survived the perioperative period. The median survival time was 570 days with 1-, 2-, and 3-year survival rates of 67%, 43%, and 15%, respectively. Cats had positive short-term outcomes and long-term prognosis, and surgery should be considered for suspected biliary cystadenomas to obtain a definitive diagnosis and address associated morbidity. The potential for malignant transformation exists for feline biliary cystadenomas.",
+      "categories": [
+        "internalMedicine",
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42269671",
+      "title": "Liquid biopsy technologies offer new insights and approaches for canine cancer detection and management.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Robertson J, Issa AS, Dervisis N, McGuire K, Tuohy J, Rossmeisl J, Marine B, Jodar L, Marconato L, Fonseca-Alves C, Feiock C, Conner B, Fesler EB, Ngo L, Asl RS, Luczko M, White C, Senger R",
+      "date": "2026 08 21",
+      "dateObject": "2026 08 21",
+      "abstract": "Liquid biopsy (LBx) is the analysis of fluids such as blood, urine, saliva, or secretions to detect cancer biomarkers and circulating tumor cells. It is becoming a common investigational tool in human oncology, but less so in veterinary medicine. Liquid biopsy is less invasive and has fewer complications than tissue biopsy, but it is not intended to replace tissue biopsy. In human oncology, LBx is primarily used as an investigational tool because of the cost and technology requirements. Liquid biopsy may eventually provide early-stage cancer detection, but this has not been proven for humans or dogs. Several LBx tests are currently available commercially to dog owners and veterinarians. A new test, Urine Molecular Fingerprinting, has been developed and addresses the limitations of blood-based technologies.",
+      "categories": [
+        "oncology"
+      ]
+    },
+    {
+      "pmid": "42248204",
+      "title": "Blood transfusions in domestic rabbits provide clinical benefit but are complicated by transfusion-associated dyspnea or cardiac overload: 21 cases.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Darvish A, Keller K, Huynh M, Farrell KS, Guzman DS",
+      "date": "2026 08 21",
+      "dateObject": "2026 08 21",
+      "abstract": "To evaluate the clinical use, indications, outcomes, and adverse reactions associated with allogenic whole blood transfusions in domestic rabbits (Oryctolagus cuniculus). A retrospective cohort of client-owned rabbits receiving allogenic whole blood transfusions at a veterinary teaching hospital between 1993 and 2025 was identified. Signalment, transfusion indications and parameters, and survival to discharge were collected. Adverse reactions were graded based on canine and feline consensus guidelines including imputability and severity scores. 21 rabbits were included. The most common indication for transfusion was blood loss from liver lobe torsion (10 of 21 [48%]) or intraoperative blood loss (6 of 21 [29%]). Results from crossmatching, performed in 62% of cases (13 of 21), were negative in all cases. Adverse reactions occurred in 10 of 21 rabbits, with 14 total adverse reactions reported. Transfusion-associated dyspnea (5 of 21 [24%]) and transfusion-associated cardiac overload (5 of 21 [24%]) occurred most frequently. All reactions were classified as nonsevere (9 of 14 [64%]) or severe (5 of 14 [36%]) and assigned imputability scores of possibly (9 of 14 [64%]) or probably (5 of 14 [36%]) related to the transfusion. Overall survival to discharge was 57% (12 of 21). Allogenic whole blood first transfusions in domestic rabbits appeared clinically effective and generally well tolerated, with improved PCV and no life-threatening complications. Rabbits had a higher rate of acute respiratory signs during or after transfusion compared to dogs or cats. Whole blood transfusion was a feasible, potentially lifesaving treatment in critically ill rabbits. Future studies should prospectively collect data to better characterize transfusion reactions in this species and allow optimization of protocols.",
+      "categories": [
+        "cardiology",
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42242283",
+      "title": "Preliminary investigation of T-wave peak-end interval and its ratio to QT interval in dogs with an echocardiographic phenotype of dilated cardiomyopathy and its possible correlation with left ventricular diameter and volume.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Kurogochi K, Stern JA, DeFrancesco TC, Ueda Y",
+      "date": "2026 08 21",
+      "dateObject": "2026 08 21",
+      "abstract": "The T-wave peak-end (TpTe) interval and its ratio to the QT interval (TpTe:QT) are ECG markers of myocardial repolarization dispersion. We hypothesized that these markers are associated with echocardiographic indices reflecting structural remodeling in dogs with the dilated cardiomyopathy (DCM) phenotype and are minimally influenced by heart rate (HR). A cross-sectional study was conducted in dogs with an echocardiographic subtype of DCM, excluding sighthound breeds, between July 2021 and June 2023. Dogs receiving antiarrhythmic drugs prior to the diagnostic ECG were excluded. Repolarization markers (QT interval, corrected QT interval using the Fridericia formula [QTc], TpTe interval, and TpTe:QT) were retrospectively evaluated from in-clinic ECGs and correlated with echocardiographic variables (left ventricular end-diastolic diameter normalized to body weight [LVEDDN], left ventricular end-systolic diameter normalized to body weight [LVESDN], end-diastolic volume, end-systolic volume [ESV], end-diastolic volume normalized to body surface area, ESV normalized to body surface area, fractional shortening, and ejection fraction). Correlation analysis between repolarization markers and HR showed a significant moderate negative correlation for the QT interval, whereas QTc exhibited a weak positive correlation. The TpTe interval showed a weak negative correlation, and TpTe:QT demonstrated a negligible correlation with HR; however, neither association was statistically significant. The TpTe interval showed significant weak correlations with LVEDDN and LVESDN, whereas TpTe:QT showed significant weak to moderate correlations with LVEDDN, LVESDN, ESV, and ESV normalized to body surface area, even after adjustment for HR. In contrast, QT and QTc were not significantly associated with any echocardiographic variable. The TpTe interval and TpTe:QT might have been independent of HR and correlated with left ventricular diameter and volume. The TpTe interval and TpTe:QT may serve as ECG repolarization markers reflecting myocardial structural remodeling in dogs with DCM.",
+      "categories": [
+        "cardiology"
+      ]
+    },
+    {
+      "pmid": "42173154",
+      "title": "Laparoscopic-induced pneumoperitoneum does not impair oxygenation in large-breed dogs but worsens hypercapnia, which is improved by low positive end-expiratory pressure ventilation.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Park FJ, Lepiz ML, Baetge C, Moreno K, Watanabe R, Dickerson V, Thieman K, Ida KK",
+      "date": "2026 08 21",
+      "dateObject": "2026 08 21",
+      "abstract": "To evaluate whether laparoscopic-induced pneumoperitoneum (8 to 10 mm Hg) in reverse Trendelenburg (RT) impairs ventilation and oxygenation, and whether pressure-controlled ventilation (PCV) with low positive end-expiratory pressure (PEEP; 3 cm H2O [PEEP-3] or 5 cm H2O [PEEP-5]) improves these variables in sevoflurane-anesthetized large-breed dogs. Cardiopulmonary variables were recorded before (T0) and 15 minutes after insufflation in RT (T1) during spontaneous ventilation (SV) and again 45 minutes after initiating PCV (T2) using 20 breaths/min, an inspiratory-to-expiratory ratio of 1:2, PEEP-3 or PEEP-5, and peak inspiratory pressure (PIP) starting at 10 or 12 cm H2O, respectively, with 2-cm H2O increments every 5 minutes until end-tidal CO2 reached 35 to 40 mm Hg or PIP reached 20 cm H2O. The final dataset was collected 5 minutes after desufflation on PCV (T3). During SV, pneumoperitoneum worsened Paco2 (median [range]; PEEP-3, 70.0 mm Hg [62.0 to 86.1 mm Hg]; PEEP-5, 72.0 mm Hg [61.0 to 81.9 mm Hg]) and plasma pH (mean &#xb1; SD; PEEP-3, 7.18 &#xb1; 0.04; PEEP-5, 7.18 &#xb1; 0.02). During PCV, after titrating PIP (median, 16 and 18 cm H2O, respectively), these variables improved, but in PEEP-5, pH remained lower (mean &#xb1; SD; 7.36 &#xb1; 0.03 vs 7.32 &#xb1; 0.04), and dead space-to-tidal volume higher (median [range]; 9.4% [2.2% to 16.1%] vs 16.2% [7.0% to 34.0%]). Oxygenation was unaffected, and cardiovascular changes and interventions were similar between groups. During SV, pneumoperitoneum in RT worsened hypercapnia and acidemia without impairing oxygenation. During PCV, PEEP-3 provided the best respiratory outcome. Low PEEP-3 PCV improves pneumoperitoneum-induced hypoventilation in large-breed dogs without oxygenation impairment, whereas PEEP-5 may be limited by PIP.",
+      "categories": [
+        "cardiology",
+        "internalMedicine",
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42161306",
+      "title": "Crowdfunding campaigns for canine pacemaker implantation costs infrequently meet fundraising targets.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Rishniw M",
+      "date": "2026 08 21",
+      "dateObject": "2026 08 21",
+      "abstract": "To examine the effectiveness of crowdfunding by veterinary clients hoping to defray the costs of pacemaker implantation in dogs. Data were collected from all fundraising campaigns on the GoFundMe website looking to help cover costs of canine pacemaker implantation. Efficacy was defined as the percentage of the target amount raised, and success was defined as raising &#x2265; 80% of the target amount. Relationships between the target amount or campaign age and percentage raised and the target amount over time were examined. Finally, costs of pacemaker implantation from various geographic regions were compared. 76 campaigns were identified. Only 10% raised the target amount, 16% of campaigns succeeded in raising > 80% of the target amount, 10% failed to raise any funds, and 50% raised < 50% of their target amount. Success was not related to the target amount or age of the campaign. Pacemaker implantation costs differed between regions: costs in Europe were lowest, and those in North America were highest. Only approximately 10% of crowdfunding campaigns succeed in raising at least 80% of their target amount. The percentage raised is weakly associated with the target amount and very weakly associated with the age of the campaign. The target amounts have not changed substantially over the existence of the GoFundMe website. Finally, pacemaker implantation costs are greatest in North America and lowest in Europe. Clients should not expect to raise funds sufficient to cover the costs of pacemaker implantation using crowdfunding, and veterinarians should explain the probabilities of success with crowdfunding campaigns.",
+      "categories": []
+    },
+    {
+      "pmid": "42161303",
+      "title": "Surgical site infection following clean-contaminated abdominal surgery in dogs is associated with increased postoperative costs.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Levitis S, Lopez D, Liu L, Buote N",
+      "date": "2026 08 21",
+      "dateObject": "2026 08 21",
+      "abstract": "To quantify the financial impact of surgical site infections (SSIs) following clean-contaminated abdominal surgery in dogs, as well as to evaluate perioperative risk factors in this patient population. This case-control retrospective study evaluated canine patients undergoing gastrointestinal or urogenital clean-contaminated surgery at a university hospital (2021 to 2024) that either developed an SSI (case) or did not develop an SSI (control). Surgical site infection-positive cases were identified via available records and matched 1:2 with SSI-negative controls by procedure, age, sex, and weight. Economic data and perioperative variables were compared with Wilcoxon rank-sum tests and univariable logistic regression. 63 dogs were included (21 SSI-positive, 42 controls). While initial surgical costs were equivalent, median total treatment costs were 24.1% higher in SSI cases than in matched controls. Intraoperative administration of antihypotensive medication was identified with greater frequency in cases compared to controls (OR, 4.68; 95% CI, 1.48 to 14.79), with glycopyrrolate identified as a specific risk factor (OR, 9.65; 95% CI, 1.00 to 92.73). No additional associations were identified. SSIs substantially increased total treatment costs in dogs undergoing clean-contaminated abdominal surgery, primarily driven by the intensity of intervention. Intraoperative vasopressor use, particularly glycopyrrolate, was identified with greater frequency in cases compared to controls. Reducing SSI rates is essential to minimizing client financial burden. When clinically appropriate, prioritizing medical management for superficial infections offers substantial cost savings over surgical intervention. Judicious use of specific intraoperative antihypotensives may represent a modifiable risk factor for reducing infection rates.",
+      "categories": [
+        "internalMedicine",
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42140270",
+      "title": "Clinical characteristics and disease progression of central corneal degeneration syndrome in dogs closely resemble Terrien marginal degeneration in humans.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Ahn J, Jeong D, Jang Y",
+      "date": "2026 08 21",
+      "dateObject": "2026 08 21",
+      "abstract": "This study aimed to describe clinical characteristics, prognosis, and therapeutic approaches for central corneal degeneration syndrome (CCDS) in dogs. 11 eyes from 9 client-owned dogs diagnosed with CCDS between 2015 and 2024. CCDS was diagnosed on the basis of the presence of central corneal facets that progressively deepened and widened in the absence of corneal ulceration. The mean age at diagnosis was 14.2 years (range, 10 to 17 years). At the time of diagnosis, the facet depth was < 50% in 5 eyes, between 50% and 90% in 4 eyes, and > 90% in 2 eyes. The lesions were located in the axial cornea in 5 eyes and in the paraxial cornea in 6 eyes. At the final follow-up (mean follow-up period, 500.2 days; range, 87 to 1,195 days), progression of the facet depth to > 90% was observed in 10 of 11 eyes. Corneal perforation occurred in 3 eyes, and 2 unperforated eyes underwent corneoconjunctival transposition, resulting in restoration of normal corneal thickness. CCDS is a rare condition in dogs, characterized by progressive thinning of the axial or paraxial corneal stroma without evidence of corneal ulceration, leading to the formation of corneal facets, potentially resulting in corneal perforation. Our findings suggested that CCDS occurs exclusively in older dogs and may be bilateral in some cases. When there is a risk of corneal perforation, surgical intervention, such as corneoconjunctival transposition, is recommended.",
+      "categories": [
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42102862",
+      "title": "American Association of Veterinary Parasitologists Hookworm Task Force review on best practices for diagnosis and treatment of multidrug-resistant hookworms.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Kaplan RM, Jimenez Castro PD, Marsh AE, Jesudoss Chelladurai JRJ, Gilleard JS",
+      "date": "2026 08 21",
+      "dateObject": "2026 08 21",
+      "abstract": "Ancylostoma caninum, the canine hookworm, is the most common and clinically important gastrointestinal nematode parasite infecting dogs in the US. Common clinical signs associated with acute infections include anemia, melena, hematochezia, dehydration, and poor weight gain or weight loss. In the past few years, multiple anthelmintic drug resistance to fenbendazole, moxidectin, and pyrantel pamoate has been documented in A caninum in the US, and cases of drug-resistant canine hookworms are increasingly being reported in the US and Canada. Clinical and genetic evidence strongly suggests that multiple anthelmintic drug-resistant A caninum likely originated on Greyhound breeding farms and kennels. However, the problem is no longer restricted to Greyhounds; several large national studies have shown that drug-resistant A caninum was present in dogs of all sizes, ages, and breeds and at varying but always high prevalence in every region of the continental US. The high prevalence and wide distribution of drug-resistant hookworms present a matter of urgent concern for veterinarians in North America and elsewhere. In response to this concern, the American Association of Veterinary Parasitologists established a Hookworm Task Force in 2021, and this paper is a result of the work of that task force. Here we provide guidance on best practices for diagnosis, treatment, and management of drug-resistant hookworm cases and summarize relevant studies to help veterinarians understand what is known about the biology, prevalence, and epidemiology of these parasites.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42091068",
+      "title": "Lorazepam reduces recurrence of urethral obstruction in male cats: a prospective, randomized, double-blinded, placebo-controlled study.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Splittstoesser A, Kerley J, Lulich J, Randall A, Tart K",
+      "date": "2026 08 21",
+      "dateObject": "2026 08 21",
+      "abstract": "To determine the efficacy of lorazepam in reducing the rate of recurrence in first-time feline urethral obstruction (UO) and frequency of lower urinary tract (LUT) signs following hospitalization, as well as adverse effects of the medication. This was a prospective, randomized, double-blinded, placebo-controlled study of 80 client-owned male cats presenting to a university teaching hospital with UO between 2021 and 2025. Cats with urolithiasis or urinary tract infection were excluded. Cats received lorazepam or placebo for 1 month after hospitalization for UO. 41 cats received lorazepam and 39 cats received placebo. Seventy-two cats completed the study. Five of 72 cats experienced recurrence of UO, all receiving placebo. No cats receiving lorazepam had UO recurrence (0%; 95% CI, 0.0% to 10.9%) compared to the placebo group (15.7%; 95% CI, 5.2% to 33.7%); this was statistically significant. There was a statistically significant reduction in LUT signs for 2 of 33 cats during days 8 to 15 (95% CI, 0.7% to 20.2%) and 1 of 31 cats during days 16 to 30 (95% CI, 0.1% to 16.7%) for the lorazepam group. Ataxia was the only statistically significant side effect of lorazepam, occurring in 4 of 31 cats (13%); other reported effects included sedation, increased appetite, and vocalization. Lorazepam administration was associated with a reduction in the recurrence of UO in this study population, as well as reduced LUT signs compared to cats receiving placebo. Lorazepam administration was found to be safe. Lorazepam may be used safely in the reduction of both recurrent UO and LUT signs following alleviation of UO in male cats.",
+      "categories": [
+        "internalMedicine",
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "42061462",
+      "title": "Gastrointestinal complications occur in dogs with intervertebral disk herniation undergoing ventral slot decompression but are mostly self-limiting.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Fenton HM, Love KR, Lewis MJ",
+      "date": "2026 08 21",
+      "dateObject": "2026 08 21",
+      "abstract": "To describe the frequency and types of gastrointestinal (GI) signs in dogs undergoing ventral slot decompression (VSD) and explore potential risk factors contributing to their development and their clinical impact during hospitalization. This was a retrospective study of dogs diagnosed with cervical intervertebral disk herniation that underwent VSD between 2016 and 2022. Information collected included signalment, neurologic status, medications administered, anesthesia and surgery details, and documented GI signs during hospitalization. Logistic regression evaluated variables potentially predictive of GI complications. 126 dogs were included, with a median age of 8 years (range, 1 to 14 years) and median preoperative Modified Frankel score of 2 (range, 0 to 5). Gastrointestinal signs occurred in 29 of 126 dogs (23%), including diarrhea (14 of 29 [48%]), regurgitation (14 of 29 [48%]), hematochezia (5 of 29 [17%]), melena (4 of 29 [14%]), and vomiting (3 of 29 [10%]). Duration of GI signs was 1 to 2 days in 25 of 29 dogs (85%). Age was a predictor of any GI signs (OR, 0.793; 95% CI, 0.659 to 0.942), regurgitation (OR, 0.717; 95% CI, 0.528 to 0.935), and diarrhea (OR, 0.782; 95% CI, 0.605 to 0.987), with younger dogs more likely to develop signs. Perioperative steroid administration was associated with regurgitation (OR, 6.180; 95% CI, 1.159 to 41.879). No other variables were identified as significant predictors. Hospitalization length did not significantly differ between dogs with and without GI signs. While relatively common, GI complications were self-limiting in most dogs. Younger age and perioperative corticosteroid administration might have increased the odds of development. Findings have implications for predicting and optimizing perioperative management of GI complications in dogs with cervical intervertebral disk herniation undergoing VSD.",
+      "categories": [
+        "internalMedicine",
+        "surgery",
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "42055052",
+      "title": "Immediate surgical intervention for small animal pyometra shows no definitive advantage.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Durocher E, Windsor R, Smola C",
+      "date": "2026 08 21",
+      "dateObject": "2026 08 21",
+      "abstract": "To describe preoperative parameters and outcomes in small animals undergoing ovariohysterectomy (OVH) for pyometra relative to duration of stabilization and surgical timing. This retrospective observational study included canine patients undergoing emergency OVH for pyometra. We searched electronic medical records to identify patients undergoing OVH for pyometra between November 2018 and July 2024 at 3 referral hospitals. Presentation, anesthetic induction, and discharge or mortality were recorded for 137 patients. Regression analyses were used to determine predictive impact of cervix patency, stabilization time, and after-hours procedures on surgery and anesthetic time, postoperative hospitalization, and cost. We found no difference in surgical time, anesthetic time, or postoperative hospitalization across surgical timing groups. There was also no observed difference between open and closed pyometra for any of the evaluated variables. Total cost was modeled to be lower by 19% (&#x3b2; = -$1,058.9; adjusted R2 = 0.043; 95% CI, -$1,831.03 to -$286.77) when patients presented after hours and to increase with additional stabilization (&#x3b2; = $43.20/h; adjusted R2 = 0.042; 95% CI, $11.58 to $74.88). This study indicated that operating time does not meaningfully affect clinical outcomes for open and closed pyometra other than a predicted increase in total cost. Immediate surgical intervention for patients with pyometra may not be superior to delayed surgical intervention.",
+      "categories": [
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42055026",
+      "title": "Cytology and histopathology have poor to fair agreement for determination of neoplastic or nonneoplastic lesions in dogs with splenic masses or nodules.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Aluisio MF, Garner BC, Howerth EW, Laver T, Grimes JA",
+      "date": "2026 08 21",
+      "dateObject": "2026 08 21",
+      "abstract": "To evaluate the correlation between cytology and histopathology of splenic masses or nodular lesions in dogs. Retrospective medical record review from January 2014 to July 2022 of dogs that had a splenic mass or nodular lesion and cytologic and histopathologic evaluation within 90 days of each other. Slide review was conducted by a single pathologist from each subspecialty and recorded as neoplastic, possibly neoplastic, or nonneoplastic. 33 dogs were included and had a median of 4 days (range, 0 to 90 days) between cytologic and histopathologic evaluation. Cytologic and histopathologic results agreed in 18 of 33 dogs (55%; 12 nonneoplastic and 6 neoplastic), although the type of neoplasm differed in one of these (sarcoma vs lymphoma). There was disagreement in 8 of 33 dogs (24%; 7 neoplastic on histopathology and nonneoplastic on cytology, 1 nonneoplastic on histopathology and neoplastic on cytology). When including a possibly neoplastic cytologic diagnosis as neoplastic, there was agreement in 22 of 33 dogs (67%) and disagreement in 11 of 33 dogs (33%). In dogs with a neoplastic or possibly neoplastic cytologic diagnosis, 10 of 14 (71%) were neoplastic on histopathology. In dogs with a nonneoplastic cytologic diagnosis, 12 of 19 (63%) were nonneoplastic on histopathology. Cytologic diagnosis correlated with histopathologic diagnosis of splenic masses or nodular lesions in 55% to 67% of dogs. Cytology was accurate in 71% of neoplastic and 63% of nonneoplastic splenic masses or nodular lesions. There is poor to fair agreement between cytology and histopathology in dogs with splenic masses or nodular lesions. A neoplastic cytologic diagnosis more commonly agrees with histopathology than a nonneoplastic diagnosis.",
+      "categories": [
+        "oncology"
+      ]
+    },
+    {
+      "pmid": "42019547",
+      "title": "Diagnostic limitations of oropharyngeal swab cultures and inconsistent presence of secondary bacterial infection in canine aspiration pneumonia.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Vient&#xf3;s-Plotts A, Reinero A, Gull T, Reinero C",
+      "date": "2026 08 21",
+      "dateObject": "2026 08 21",
+      "abstract": "In dogs with aspiration pneumonia (AP), our objectives were to determine whether oropharyngeal (OP) swab isolates would match bronchoalveolar lavage fluid (BALF) isolates and determine the frequency of secondary bacterial infection (SBI) in AP by use of 4 definitions. 30 client-owned dogs with clinical diagnosis of AP (cough or fever, and radiographic alveolar pattern with historical vomiting or regurgitation) with OP and BALF cultures were prospectively enrolled from 2019 to 2023. Exclusion criteria included antimicrobial administration within 14 days of presentation or inability to undergo BALF collection. Definitions of SBI included (1) positive BALF culture (noncontaminant), (2) veterinary criteria (septic inflammation in BALF or nonseptic inflammation with positive culture having &#x2265; 1.7 &#xd7; 103 CFU/mL), (3) human criteria (> 7% of cells with intracellular bacteria or positive culture with &#x2265; 104 CFU/mL), and (4) clinical recovery without antimicrobials. All OP and 16 of 30 BALF cultures were positive, yielding a median of 4 organisms (range, 1 to 6 organisms) and 1 organism (range, 0 to 3 organisms), respectively, with significantly more positive OP isolates. Most OP isolates (91%) were not recovered from BALF. Absence of SBI was documented in 30% to 77% of dogs with AP, depending on definition. OP swabs were polymicrobial, with most organisms (91%) not present in BALF. Many dogs with AP did not meet 1 or more definitions of SBI. Using OP cultures as surrogates for BALF cultures was inappropriate for dogs with AP. Not all dogs with AP had SBI, necessitating further study of when antimicrobial therapy could be avoided versus when it is warranted.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42019542",
+      "title": "Multiple factors, including client financial constraints, play a role in clinician decisions for canine atopic dermatitis: spectrum of care in a chronic and relapsing disease.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Gentry CM, Rey L, Rishniw M, Tater K, Teller L",
+      "date": "2026 08 21",
+      "dateObject": "2026 08 21",
+      "abstract": "To understand the current opinions, diagnostic process, and prescribing behavior of North American veterinarians for canine atopic dermatitis. A secondary objective was evaluating how treatment recommendations were guided by client financial limitations and veterinarian knowledge of canine atopic dermatitis. A Veterinary Information Network online survey was available from July 15 to August 15, 2025, to veterinarians who practiced in North America, saw canine patients, and consented to participation. Questions about frequency of owners with financial constraints, diagnostics and therapeutic recommendations, and referral to specialists were asked by either direct questioning or case scenarios. 718 respondents provided sufficient data for inclusion; 57% of respondents stated &#x2265; 25% of their clients had substantial financial constraints, while 28% of respondents stated &#x2265; 50% of clients had financial constraints. Most respondents always or often used financial status to guide recommendations. Respondents considered skin cytology followed by skin scraping the most important diagnostic tests regardless of financial constraint. Respondents preferred cephalexin for methicillin-sensitive pyoderma when there was financial constraint. Most respondents knew of the recommendation to use sole antiseptic topical therapy for methicillin-resistant superficial pyoderma, and most recommended aerobic bacterial culture before antibiotics with suspected methicillin-resistant pyoderma. Substantial financial constraints of clients do not always alter diagnostic and treatment recommendations for canine atopic dermatitis; however, clinicians' recommendations do not always align with consensus guidelines. A better understanding of veterinarians' diagnostic and prescribing behavior can improve veterinary education on spectrum-of-care decision-making for canine atopic dermatitis.",
+      "categories": [
+        "internalMedicine",
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "41985531",
+      "title": "Species-specific neurological examinations are necessary in guinea pigs (Cavia porcellus) and do not differ between client-owned and laboratory animals.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Murthy V, Durant A, Beaufr&#xe8;re H, Keller K, Guzman DS",
+      "date": "2026 08 21",
+      "dateObject": "2026 08 21",
+      "abstract": "To evaluate for differences in normal neurological examination findings between client-owned and laboratory guinea pigs and establish a species-specific neurological examination. Healthy adult client-owned and laboratory guinea pigs were prospectively enrolled in an observational study. Neurological examination tests commonly used in cats and dogs were performed and results documented. The study evaluated the ability to perform each test and whether it generated the result expected (extrapolated from cats and dogs). Differences between groups of > 20% were evaluated with Fisher exact tests. Tests with > 90% feasibility and expected response rate were used to generate a species-specific neurological examination. 34 guinea pigs were included, consisting of 17 in the client-owned group and 17 in the laboratory guinea pig group. Most tests (40 of 41 [98%]) could be successfully performed in over 90% of animals with minor modifications, while 27 of 40 tests (68%) resulted in expected results in over 90% of animals. Expected response rates for tactile placing of the pelvic limbs were different between groups but overall low. The rest of the neurological examination was not significantly different between the 2 groups. Neurological examinations in guinea pigs should be performed and interpreted with caution, as tests used in other species may not yield reliable results. A species-specific neurological examination should be considered. These findings allowed the creation of a guinea pig-specific neurological examination template that can be used in clinical patients and laboratory settings.",
+      "categories": [
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "41985525",
+      "title": "Comparison of owner-reported recurrent clinical signs of thoracolumbar disk herniation following multiple chondroitinase ABC intradiskal injections or routine surgical management.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Poacher J, Tammaro WJ, Jeffery ND, Freeman PM",
+      "date": "2026 08 21",
+      "dateObject": "2026 08 21",
+      "abstract": "To summarize owner-reported recurrence of clinical signs consistent with thoracolumbar intervertebral disk herniation in dogs treated by intradiskal injection of chondroitinase ABC (ChABC) and to compare recurrence rate versus routine surgical management. This pragmatic retrospective, time-matched cohort comparison study included 2 groups of dogs that recovered independent locomotion (> 50 unsupported steps) following treatment between October 2022 and March 2025 for acute nonambulatory paraparesis or paraplegia, assumed or proven to be caused by intervertebral disk herniation, with (1) 1.25-U ChABC injections into 4 consecutive intervertebral disks targeted on the basis of neurologic examination or (2) routine decompressive surgery following cross-sectional imaging. Recurrent clinical signs were reported retrospectively to investigators. The study population consisted of 47 ChABC-treated dogs and 79 surgical cases with similar demographics. Fenestration number in the surgery group was variable (7 dogs had 0 fenestrations, 32 dogs had 1, 17 dogs had 2, 20 dogs had 3, and 3 dogs had an unknown number). Recurrence occurred in 24 of 79 surgical dogs (30%) compared to 6 of 47 ChABC-treated dogs (13%). Univariable Poisson regression demonstrated a significantly lower recurrence rate in the ChABC group (incidence rate ratio [IRR], 0.38; 95% CI, 0.17 to 0.87) and in older dogs (IRR, 0.81; 95% CI, 0.70 to 0.93). The optimized multivariable model included both these variables and suggested that ChABC injections were associated with an adjusted recurrence incidence rate reduction of approximately 70%. Multidisk injection of ChABC was associated with a reduced rate of owner-reported recurrence of clinical signs suggestive of intervertebral disk herniation compared to surgery. Intradiskal injection of ChABC may be an effective prophylactic against intervertebral disk herniation.",
+      "categories": [
+        "surgery",
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "41962567",
+      "title": "Surgical technique for the management of acquired phimosis in 3 kittens.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Rousseau M, Ferrand FX",
+      "date": "2026 08 21",
+      "dateObject": "2026 08 21",
+      "abstract": "To describe a surgical technique applicable to all types of acquired phimosis in kittens. 3 kittens with phimosis. Medical records from a single hospital were reviewed to identify cats younger than 6 months old that had undergone extensive surgical treatment for phimosis. For each kitten, data regarding signalment, clinical signs, blood tests, history, treatments, surgical procedure, postoperative complications, and outcome were collected. Three kittens met the inclusion criteria. They all had a history of dysuria (n = 3), stranguria (3), and hematuria (3). All of them also had a history of preputial licking by littermates. On clinical examination, abdominal palpation revealed a distended bladder and an inability to extrude the penis through the prepuce (n = 3). The prepuce was distended with urine (n = 3). One cat had presented with a previous episode of hematuria, which resolved with NSAIDs. Two cats exhibited moderate azotemia, while the urea and creatinine values of the third were within normal limits. The surgical technique involved a wedge incision of the prepuce, extended circumferentially around the preputial opening, combined with extensive dissection of the penile-preputial adhesions. The 3 kittens underwent the extensive surgical technique without perioperative complications, and no recurrence was observed 6 months after the surgery. This technique of extensive preputioplasty may represent an effective option for the management of kittens with phimosis and penile preputial adhesions.",
+      "categories": [
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "41950951",
+      "title": "Dot-blot ELISA assay demonstrates strong agreement with hemagglutination inhibition for the detection of canine parvovirus antibodies in sera of healthy, vaccinated blood-donor dogs.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Talbot CT, Brewer M, Willis M, Kofron K, Shropshire SB, Santangelo KS, Zersen KM, Lappin MR",
+      "date": "2026 08 21",
+      "dateObject": "2026 08 21",
+      "abstract": "To compare canine parvovirus (CPV) antibody titers in sera of community blood-donor dogs using the hemagglutination inhibition (HI) assays from 2 state veterinary diagnostic laboratories (VDLs) and a dot-blot ELISA assay to determine intermethod agreement. Stored sera (-80-&#xb0;C freezer) from 100 healthy community-based blood-donor dogs were selected. Dogs represented various breeds and ages. Available vaccination history was retrospectively assessed. Sera were thawed and delivered to the VDLs, with HI and the dot-blot ELISA assay performed the following day. Of 100 samples, 96 dot-blot ELISA results were within a 2-fold dilution of the corresponding HI titer from the Colorado State University VDL, and 92 were within a 2-fold dilution of the HI titer from the New York State VDL. The dot-blot ELISA assay demonstrated high sensitivity (96% and 97%) and strong agreement (Spearman &#x3c1; = 0.72 and 0.92). Of 43 dogs with vaccination history, 93% had protective titers. The 3 lowest titers occurred in dogs vaccinated within 1 year. CPV antibody titers in community blood-donor dogs showed strong agreement between HI assays and the dot-blot ELISA assay. A high concordance and strong correlation support the dot-blot ELISA assay as a reliable method for estimating CPV antibody titers. Accurate, rapid assessment of CPV titers is important for selecting plasma from community blood-donor dogs intended for passive immunotherapy in critically ill parvoviral patients. Demonstration of strong agreement between the dot-blot ELISA and reference HI assays supports the use of this assay for in-house donor screening and timely plasma selection.",
       "categories": [
         "internalMedicine"
       ]
@@ -157,42 +417,6 @@
       ]
     },
     {
-      "pmid": "42617660",
-      "title": "The impact of changing living conditions, pollutants, and climate change on allergic skin disease in our pets: highlighting our interconnectedness.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Marsella R",
-      "date": "2026 08 19",
-      "dateObject": "2026 08 19",
-      "abstract": "Our pets share our living conditions. Many transformations have occurred over the past few decades, including lifestyle shifts and increased exposure to chemicals, pollution, and climate change. Our pets have left a rural environment to join our urban lifestyle, with a loss of plant and microbial diversity; increased exposure to pollution from car traffic, plastics, and chemicals; and more time spent indoors. Concurrently, they have experienced, with us, the effects of climate-related events, including extreme heat, humidity, wind, and exposure to dust from fires. Higher carbon dioxide levels have intensified pollen production and allergenicity, while pollution and chemicals damage epithelia, increasing their permeability. Pollen seasons are longer and more intense. These changes contribute to the rising incidence of allergic diseases and their increased severity. These factors affect the immune system, epithelial barriers, and microbiome, collectively leading to dysbiosis, increased allergen penetration, inflammation, and a higher risk of allergic sensitization. Our pets have mirrored the rise in certain conditions, such as allergic diseases, as seen in people. Atopic dermatitis has been linked to epithelial damage and gut dysbiosis in both dogs and people. This Currents in One Health article aims to present the current state of knowledge on our changing environmental conditions and their impact on our pets, with a focus on skin diseases. The purpose is to increase our awareness of the fact that animal, human, and environmental health are connected and changes in our environmental conditions are driving the rise of inflammatory skin diseases in pets and people.",
-      "categories": [
-        "dermatology"
-      ]
-    },
-    {
-      "pmid": "42617659",
-      "title": "Carbapenem-resistant Enterobacterales in companion animals are an emerging One Health threat.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Granick JL, Fellman CL, Curren EJ, Funk M, James A, Kollmann L, KuKanich K, McDermott D, Stull JW, Surendran-Nair M, Wagner R, Alroy KA, Beaudoin AL, DeStefano I, Diaz-Campos D, Frey E, King C, Louis S, Stapleton GS, Cole SD",
-      "date": "2026 08 19",
-      "dateObject": "2026 08 19",
-      "abstract": "Carbapenem-resistant Enterobacterales (CRE) are an emerging, multidrug-resistant threat to human and animal health. Emergence is driven by antimicrobial use and multidirectional transmission pathways between humans, animals, and the environment. Carbapenems are essential drugs for treatment of multidrug-resistant infections in humans and, although not approved for veterinary use, are infrequently prescribed in dogs and cats in an extralabel manner. In the US, CRE detections in companion animals have recently increased. While prevalence of CRE in US companion animals is estimated to be low, outbreaks in veterinary hospitals demonstrate that CRE can be transmitted within animal healthcare settings, persist in the environment, and cause operational disruption. Exchange of CRE between companion animals and people has been documented. There are several important knowledge gaps about CRE in companion animals, including (1) uncertainties in true prevalence due to infrequent testing and underreporting; (2) lack of understanding of carbapenem resistance mechanisms because of inconsistent access to testing; (3) limited data on colonization dynamics; and (4) lack of information characterizing risk factors for acquisition. A coordinated One Health approach for surveillance and preparedness is essential to identify, prevent, and contain CRE. Here we provide veterinary professionals with a comprehensive, practical overview of CRE epidemiology, mechanisms of resistance, diagnostic considerations, therapeutic limitations, and infection prevention and control (IPC) practices. The companion Currents in One Health article by Frey et al, AJVR, forthcoming 2026, reviews the current understanding of carbapenemase-producing CRE in companion animals; identifies gaps in epidemiology, diagnostics, and infection control; and outlines priorities for future research.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42612701",
-      "title": "Fixation of proximal humeral Salter-Harris type 1 fractures in a 3-dimensionally printed skeletally immature canine bone model: a biomechanical assessment of fully threaded headless cannulated screws.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Hwang TW, Kang E, Kim JM, Kim HY",
-      "date": "2026 08 18",
-      "dateObject": "2026 08 18",
-      "abstract": "To compare the biomechanical stability of 4 fixation techniques for proximal humeral physeal fractures in skeletally immature canines using 3-D-printed models. This experimental in vitro study was conducted from September 25, 2025, through April 22, 2026. To strictly control biological variability, identical 3-D-printed models of juvenile canine proximal humeral Salter-Harris type 1 fractures (CT-derived from a 6-month-old 26-kg Labrador Retriever) were evaluated across 4 groups: pin and tension band wire (group A), partially threaded cannulated screw (group B), fully threaded headless cannulated screw (FTHCS) alone (group C), and FTHCS with a 1.6-mm Kirschner (K)-wire (group D). Tensile loading was applied at 10 mm/min at 105&#xb0; to simulate supraspinatus traction. Outcomes included loads at 1- and 2-mm displacements, maximum failure load, and failure modes. Twenty-four models were tested (n = 6/group). Group D exhibited significantly higher resistance at 1-mm (663.95 N) and 2-mm (1,080.33 N) displacements than other groups. At 1-mm displacement, group D outperformed groups C, A, and B (mean differences [MD]: 206.2 N, 380.6 N, and 405.7 N, respectively; P < .0083). Maximum failure load did not differ significantly. Group B failed via localized proximal crushing and subsidence, whereas FTHCS groups (C, D) preserved proximal integrity, failing distally. In this 3-D-printed model, FTHCS combined with a K-wire provided superior resistance to tensile displacement compared with other tested constructs. FTHCS augmented with a K-wire may offer a biomechanically robust alternative mitigating subhead bone collapse, providing sufficient standalone stability for early rehabilitation in immature canines.",
-      "categories": [
-        "surgery"
-      ]
-    },
-    {
       "pmid": "42612694",
       "title": "Automated injection improves consistency of brain perfusion parameters in dynamic susceptibility contrast magnetic resonance imaging in dogs in a randomized trial.",
       "journal": "American Journal of Veterinary Research",
@@ -225,19 +449,6 @@
       "categories": [
         "internalMedicine",
         "surgery"
-      ]
-    },
-    {
-      "pmid": "42613071",
-      "title": "Toxicity of Cytarabine Intravenous Constant Rate Infusion in Cats With Lymphoma.",
-      "journal": "Veterinary and Comparative Oncology",
-      "authors": "Hanford R, Skorupski KA, Rebhun RB, Brady RV, Al-Nadaf S, Lejeune AT",
-      "date": "2026 08 18",
-      "dateObject": "2026 08 18",
-      "abstract": "Cytarabine intravenous constant rate infusion (IV CRI) toxicity in cats with lymphoma has not been well documented. We aimed to assess toxicities following cytarabine IV CRI as a single-agent or within a multiagent protocol in cats with lymphoma. Medical records of cats with lymphoma treated with cytarabine IV CRI, with documented dose, route, duration and at least one follow-up visit between 1990 and 2024, were retrospectively reviewed. Adverse events (AEs) were retrospectively graded according to VCOG-CTCAE v2. Thirty-eight cats were included, and 70 doses were evaluated for AEs. Median cytarabine dose was 389.8&#x2009;mg/m 2 (range 100.1-697.3&#x2009;mg/m 2 ) over a median infusion duration of 6&#x2009;h (range 2-17&#x2009;h). A total of 103 AEs were documented across 70 administrations. Gastrointestinal AEs were the most common category: altered appetite (21/38 cats, 55.2%), vomiting (9/38, 23.7%; one grade 3, the rest grades 1-2), diarrhoea (2/38, 5.3%) and dysphagia (2/38, 5.3%). Anaemia was the most common hematologic AE (14/38 cats, 36.8%; five grade 1, two grade 2, five grade 3, two grade 4); six cats (15.8%) developed thrombocytopenia (four grade 1, two grade 2), and one cat (2.6%) developed grade 2 neutropenia. Lethargy was the most common constitutional AE (12/38 cats, 31.6%). IV CRI of cytarabine was generally tolerated, with predominantly low-grade AEs, although grade 3-4 anaemia was not uncommon. Response rate and clinical benefit remain unknown; investigation of alternative dosing regimens may help clarify its therapeutic potential.",
-      "categories": [
-        "internalMedicine",
-        "oncology"
       ]
     },
     {
@@ -296,40 +507,6 @@
       "date": "2026 08 15",
       "dateObject": "2026 08 15",
       "abstract": "Case series summarySimultaneous portogram/cavogram and continuous portal pressure monitoring during coil deployment are standard practices during percutaneous transvenous coil embolization (PTCE) for the interventional treatment of congenital intrahepatic portosystemic shunts (IHPSSs). In cats, vascular access is more challenging because of their smaller size. The minimum vascular sheath size required to accommodate standard instrumentation for dual-catheter PTCE is 9&#x2009;Fr, which can be challenging to place in the feline jugular vein. The objective of this case series was to retrospectively describe a single-catheter modification of the PTCE technique in cats to avoid complications associated with large vascular sheaths and the outcomes of these cats. Four cats from two different institutions underwent single-catheter PTCE for left divisional IHPSSs between January 2024 and May 2025. Data collected from medical records included patient demographic data and peri- and post-procedural data. Single-catheter PTCE was performed in all cats through a 6&#x2009;Fr vascular sheath percutaneously placed in the jugular vein. Isolated portogram and cavogram were performed to localize the shunt, measure caval diameter and determine caval stent positioning using a 4&#x2009;Fr Berenstein catheter. A laser-cut stent was selected based on CT and cavogram measurements and positioned to span the shunt ostium. The same Berenstein catheter was used for portal pressure measurement and coil deployment by alternating between the shunt and portal vein locations. No complications associated with venous trauma or portal hypertension were reported.Relevance and novel informationThe case series results suggest the modified PTCE technique is a viable alternative that was associated with reasonable procedural duration and avoided vascular complications that may be associated with large vascular sheaths in cats.",
-      "categories": []
-    },
-    {
-      "pmid": "42600647",
-      "title": "Large language models demonstrate variable diagnostic performance and a systematic risk of undertriage in surgical triage of feline metacarpal and metatarsal fractures.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Okur S, &#xd6;zkalip&#xe7;i &#xc7;, Baykal B, Kartal T, &#x15e;enocak MG, Bedir AG, Yanmaz LE",
-      "date": "2026 08 14",
-      "dateObject": "2026 08 14",
-      "abstract": "To evaluate the diagnostic performance of multiple large language models (LLMs) against expert consensus in determining surgical intervention needs for feline metacarpal and metatarsal fractures. In this retrospective study (December 2023 to February 2025), 73 clinical cases of feline metacarpal and metatarsal fractures were evaluated. Two board-certified veterinary orthopedic surgeons established a reference standard for surgical versus conservative management. Five LLMs (ChatGPT, version 5.2 [OpenAI Inc]; Gemini, version 3 Pro [Alphabet Inc]; Grok, version 4.1 [SpaceXAI]; Qwen, version 3.5 [Alibaba Cloud]; and Claude Sonnet, version 4.5 [Anthropic PBC]; and Claude Sonnet, version 4.5 [Anthropic PBC]) assessed anonymized case summaries using a standardized zero-shot prompt. Model recommendations were compared with the reference standard to calculate accuracy, sensitivity, specificity, and the Cohen &#x3ba;. The reference standard classified 49 cases (67.1%) as surgical and 24 (32.9%) as conservative. ChatGPT achieved the highest performance (accuracy, 84.9%; sensitivity, 79.6%; specificity, 95.8%; &#x3ba; = 0.69). Other models showed lower performance; Qwen and Claude Sonnet failed to identify any surgical cases (0% sensitivity). A systematic bias toward conservative management was observed across all models, causing high false-negative rates (undertriage). LLMs demonstrate highly variable diagnostic performance and a systematic risk of undertriage in feline fracture assessment. While top-performing models approach expert-level agreement, others fail in critical clinical scenarios. Independent LLM use for surgical decision-making in feline orthopedics is not recommended due to undertriage risks. These tools require strict clinician oversight for preliminary triage.",
-      "categories": [
-        "surgery"
-      ]
-    },
-    {
-      "pmid": "42600645",
-      "title": "Medetomidine-vatinoxan (Zenalpha) results in reduction of systolic function, blood pressure, and heart rate with prolongation of electrocardiographic intervals in healthy dogs.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Forsyth KK, Hogan DF, Dos Santos LFN, Weng HY",
-      "date": "2026 08 14",
-      "dateObject": "2026 08 14",
-      "abstract": "To determine the effects of medetomidine-vatinoxan (Zenalpha; MVZ) on echocardiographic parameters, blood pressure, and cardiac rhythm in healthy dogs. Healthy, client-owned dogs were eligible for enrollment in this prospective, pretest/posttest study. Exclusion criteria included preexisting cardiac disease or medications that could alter the measured study parameters. Echocardiography, blood pressure, and 1-hour Holter monitor were performed at baseline and after sedation with MVZ per the manufacturer's guidelines. Multiple echocardiographic parameters, blood pressure, and arrhythmic burden score were assessed with pairwise comparisons between baseline and sedation. 21 dogs were enrolled in the study. Compared to baseline, MVZ resulted in significant reduction in multiple echocardiography-derived systolic function parameters (including ejection fraction, fractional shortening, end-systolic volume index, stroke volume index, and fractional area change), blood pressure, and heart rate, along with prolongation in PR and absolute QT intervals; there were nonsignificant increases in corrected QT interval and arrhythmic burden scores. Thirteen of 21 dogs (62%) developed or had worsening of atrioventricular nodal conduction on Holter monitor, while 2 of 21 (9.5%) developed or had worsening atrial or ventricular ectopic activity. Of all measured echocardiographic systolic function parameters, 15 of 21 dogs (71.4%) had 2 or more parameters below reference range with MVZ sedation. Sedation with MVZ resulted in significant changes to multiple cardiovascular and hemodynamic parameters. The cardiovascular effects of MVZ should be considered prior to sedation in dogs with, or being screened for, cardiovascular disease.",
-      "categories": [
-        "cardiology"
-      ]
-    },
-    {
-      "pmid": "42600641",
-      "title": "Severe azotemia, bilateral renomegaly, and anorexia in a 2-year-old female spayed mixed canine.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Ye Z, Riker J, Griffith KM, Oliveira LJ",
-      "date": "2026 08 14",
-      "dateObject": "2026 08 14",
-      "abstract": "",
       "categories": []
     },
     {
@@ -427,18 +604,6 @@
       "abstract": "To develop and evaluate a workflow for generating a patient-specific canine head phantom with intracranial pathology from clinical CT and MRI data using digital anatomy printing and to assess its anatomic accuracy and imaging fidelity for veterinary neurosurgical planning and training. This experimental proof-of-concept study used historical clinical CT and MRI data from a canine patient diagnosed with a brain glioma. A multimaterial head phantom was created using image segmentation, computer-aided design modeling, material assignment and slicing, PolyJet-based 3-D printing with a digital anatomy printer, and postprocessing. The produced phantom underwent CT and MRI scanning. Anatomical dimensional accuracy along a predefined intracranial trajectory and imaging realism were assessed by comparison of HU and MRI signal intensity between the phantom and the patient imaging data. 2 patient-specific canine head phantoms, one dual CT and MRI optimized and another purely CT optimized, were successfully produced and imaged. The phantom demonstrated CT attenuation and MRI signal characteristics qualitatively consistent with the patient's tissues. Quantitative assessment showed minimal dimensional deviation along the selected trajectory compared with the original patient anatomy. Imaging contrast between structures was reproduced, although measurable differences in CT attenuation values and MRI signal characteristics of the printed materials were identified. A streamlined workflow for generating patient-specific canine head phantoms using multimaterial 3-D printing was established and demonstrated anatomical fidelity and multimodal imaging compatibility. These phantoms offer a unique and practical model for advanced veterinary neurosurgical planning and training, particularly including trajectory planning for intracranial procedures, such as brain biopsy.",
       "categories": [
         "neurology"
-      ]
-    },
-    {
-      "pmid": "42590798",
-      "title": "Abnormal modified Insall-Salvati index values are associated with increased odds of medial meniscal tears in dogs with cranial cruciate ligament tears.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Zayas JP, Steurer JA, Dixon BC, Newman RJ",
-      "date": "2026 08 13",
-      "dateObject": "2026 08 13",
-      "abstract": "To evaluate the association between patellar height, as measured by the modified Insall-Salvati (IS) index, and medial meniscal tear in dogs with cranial cruciate ligament tears (CCLTs). Medical records from dogs treated for CCLT were reviewed. Preoperative patellar height was measured on mediolateral radiographs with the use of the modified IS index. Craniomedial stifle mini-arthrotomy documented the presence or absence of medial meniscal tears. Statistical analysis, adjusted to control for confounding variables, assessed whether abnormal IS index values were associated with meniscal injury. The study included 229 stifles. Abnormal modified IS index values were found in 12.6% (29 of 229) of stifles, of which 44.8% (13 of 29) had a concurrent medial meniscal tear. Among the dogs with a normal modified IS index (87.4% [200 of 229]), only 24.5% (49 of 200) had a concurrent medial meniscal tear. Dogs with an abnormal IS index had 3 times the odds of a medial meniscal tear (95% CI, 1.2 to 7.3) compared to those with a normal index. There was no statistically significant difference in the distribution between complete and partial CCLT between the normal IS index and abnormal IS index groups. Abnormal patellar height, as measured by the modified IS index, is significantly associated with increased risk of secondary medial meniscal tear in dogs with CCLT. Preoperative measurement of the modified IS index may help identify dogs at increased risk for meniscal tearing, supporting surgical planning and client communication.",
-      "categories": [
-        "surgery"
       ]
     },
     {
@@ -1064,16 +1229,6 @@
       ]
     },
     {
-      "pmid": "42567197",
-      "title": "Isorhythmic atrioventricular dissociation detected during anesthesia in a geriatric cat.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Sugimoto K, Fujiwara K, Tsuji K, Miyazaki M, Kobayashi K, Kanda T",
-      "date": "2026 08 07",
-      "dateObject": "2026 08 07",
-      "abstract": "",
-      "categories": []
-    },
-    {
       "pmid": "42563163",
       "title": "Longitudinal echocardiographic systolic changes in dogs receiving doxorubicin-based chemotherapy.",
       "journal": "BMC Veterinary Research",
@@ -1177,40 +1332,6 @@
       "dateObject": "2026 08 06",
       "abstract": "Symmetrical lupoid onychodystrophy (SLO) is a complex disease that exclusively affects the claws of dogs and represents a therapeutic challenge. Biopsy sampling of the third phalanx for histopathological evaluation has historically been the recommended diagnostic test, yet clinical diagnosis is currently encouraged. Numerous treatment protocols of varying success have been proposed for dogs with this condition. The goals of this study are to report clinical findings, treatment protocols and outcomes of dogs with SLO, to propose a rationale for the clinical diagnosis and to discuss therapies for SLO. Thirty-one dogs examined at a veterinary hospital from May 2004 to April 2024. Retrospective analysis of medical records from dogs diagnosed with SLO. The average age of dogs at disease onset and diagnosis was 7&#x2009;years old. Nineteen breeds were represented. Thirty dogs were clinically diagnosed with SLO, mostly presenting with onychodystrophy and onychomadesis, and in one a biopsy sample was collected. Different therapeutic combinations including tetracyclines alone or with niacinamide, pentoxifylline, essential fatty acids (EFAs), vitamin E, biotin and ciclosporin were used for the initial and/or maintenance treatment of SLO. The distinctive presentation of SLO supports its clinical diagnosis. Medical treatment seems to support a favourable long-term outcome, despite the wide variation in protocols and doses. EFAs were commonly used as initial and maintenance therapy, and tetracyclines could often be excluded from the treatment protocol, thus complying with good antimicrobial stewardship practice.",
       "categories": []
-    },
-    {
-      "pmid": "42556420",
-      "title": "Ultrasonographic evaluation of the canine gracilis, semimembranosus, and semitendinosus muscles.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Huguet E, Repac J",
-      "date": "2026 08 05",
-      "dateObject": "2026 08 05",
-      "abstract": "To describe a practical technique for ultrasonographic evaluation of the gracilis, semimembranosus, and semitendinosus muscles in dogs. 2 clinically healthy client-owned German Shepherd Dogs were used for this tutorial. Owner consent and approval from the University of Florida College of Veterinary Medicine IACUC were obtained prior to participation. Dogs were clipped, sedated, and placed into dorsal recumbency in a relaxed position with bilateral coxofemoral abduction. A stepwise ultrasonographic approach was demonstrated with a high-frequency linear transducer. The image was optimized by adjustment of depth, focal zone placement, gain, and time-gain compensation. Scanning was performed in both transverse and longitudinal planes to assess muscle origin, body, and insertion. Normal anatomic relationships of the gracilis, semimembranosus, and semitendinosus muscles were identified to facilitate consistent evaluation. Ultrasound allowed clear identification of the gracilis, semimembranosus, and semitendinosus muscles on the basis of location, shape, echogenicity, and fiber orientation. The gracilis was identified in a transverse plane as a superficial, flat adductor muscle, with the semimembranosus located deeper and the semitendinosus positioned more caudally with a rounded contour. Standardized scanning planes enabled consistent visualization of muscle architecture and tendon attachments. Ultrasonography is a valuable, accessible tool for evaluating the gracilis, semimembranosus, and semitendinosus muscles in dogs. Familiarity with normal anatomy and scanning techniques is essential for the diagnosis of conditions such as fibrotic myopathy, facilitating earlier intervention.",
-      "categories": []
-    },
-    {
-      "pmid": "42556405",
-      "title": "An artificial intelligence-enabled digital stethoscope demonstrates moderate murmur detection in dogs but not cats and unreliable arrhythmia classification in both species.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Johnson JH, Stern JA, DeFrancesco TC, Pierce KV",
-      "date": "2026 08 05",
-      "dateObject": "2026 08 05",
-      "abstract": "To prospectively evaluate the diagnostic performance of an AI-enabled digital stethoscope in detecting cardiac murmurs and arrhythmias compared to fourth-year veterinary students and experienced clinicians. Dogs and cats presenting to a university teaching hospital were prospectively enrolled from August 1, 2025, through December 31, 2025. Each animal underwent cardiac auscultation at 4 thoracic sites with the use of an AI-enabled digital stethoscope (Core 500; EKO Health Inc), 6-lead ECG, and echocardiogram, if clinically indicated. Auscultation was performed by a cardiology resident, board-certified cardiologist, and fourth-year veterinary student. The stethoscope demonstrated a sensitivity of 86.8%, specificity of 56.3%, and positive predictive value of 82.5% for murmur detection in dogs. There was no difference between the agreement of the AI stethoscope or students with a clinician (&#x3ba; = 0.447). In cats, sensitivity was markedly lower (9.1%), with only 2 of 22 murmurs detected (&#x3ba; = 0.081). The stethoscope demonstrated high sensitivity for atrial fibrillation (100%), but classified no dog as arrhythmia-free. Murmur grade was the only significant predictor of stethoscope murmur diagnosis, and high-grade murmurs (&#x2265; 3) had significantly greater odds of detection (OR, 15.11). The AI-enabled stethoscope demonstrated moderate murmur detection performance in dogs, comparable to fourth-year veterinary students, but performed poorly in cats. Arrhythmia classification was unreliable in both species. AI-enabled stethoscopes represent an emerging tool in veterinary medicine, but clinical validation is necessary before routine adoption. This study provides prospective performance data across small animals and examiner levels, identifying meaningful limitations regarding interpretation of this technology.",
-      "categories": [
-        "cardiology"
-      ]
-    },
-    {
-      "pmid": "42556400",
-      "title": "High-dose oral pentobarbital can produce anesthesia in aggressive dogs prior to euthanasia.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Cooney KA, Robertson SA, Kogan LR, Lor GZ",
-      "date": "2026 08 05",
-      "dateObject": "2026 08 05",
-      "abstract": "To determine whether PO administration of pentobarbital sodium solution at 3 times the labeled IV dose induces unconsciousness or euthanasia in dogs. 12 dogs met the inclusion criteria. Criteria included dogs in a shelter setting scheduled for euthanasia between June 2024 and October 2025. Dogs exhibiting human and/or animal aggression and scheduled for euthanasia were selected for the study. There were no limiting factors for inclusion such as breed, sex, or age. Pentobarbital sodium solution was injected into size 00 gelatin capsules (1-mL capacity), placed in high-reward foods, and offered to the dogs; 9 consumed the food and 3 refused. Five of the 9 dogs that ate the food containing pentobarbital capsules (&#x2265; 255 mg/kg) achieved unconsciousness within a mean time of 25 minutes. Respiratory rates remained slow but consistent during the observation period (120 minutes). All 12 dogs required another euthanasia method to achieve death. Ingestion of pentobarbital sodium as a euthanasia agent in dogs is unreliable. Death was not achieved 120 minutes after ingestion, and another euthanasia method was necessary. Oral administration of &#x2265; 255 mg/kg of pentobarbital sodium appears to be an effective pre-euthanasia anesthetic for dogs. When handling is best avoided because of behavior, veterinary and animal shelter personnel may try offering pentobarbital sodium at high doses in capsules hidden in food to fasted dogs as an anesthetic agent before euthanasia.",
-      "categories": [
-        "internalMedicine"
-      ]
     },
     {
       "pmid": "42554915",
@@ -2096,110 +2217,6 @@
       "categories": [
         "internalMedicine",
         "oncology"
-      ]
-    },
-    {
-      "pmid": "42248176",
-      "title": "Nail thickening, swelling of the digit, and paw sensitivity in a 7-year-old English Springer Spaniel.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Browning A, Sato AF, Almela R, Anson A",
-      "date": "2026 07 20",
-      "dateObject": "2026 07 20",
-      "abstract": "",
-      "categories": []
-    },
-    {
-      "pmid": "42019540",
-      "title": "The malignant potential of a canine incidental adrenal mass cannot be predicted by lesion size, but outcomes following laparoscopic adrenalectomy are excellent.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Cook AK, Mayhew PD, Massari F, Araya FL, van Nimwegen SA, Van Goethem B, Singh A",
-      "date": "2026 07 20",
-      "dateObject": "2026 07 20",
-      "abstract": "To describe demographics, imaging characteristics, diagnosis, and outcome for dogs undergoing laparoscopic adrenalectomy for an incidental adrenal mass (In-AM), compare findings in dogs with In-AMs against those with clinical adrenal masses (Cl-AMs), and identify preoperative indicators of histologic diagnosis for dogs with In-AMs. This was a retrospective study of 214 dogs undergoing laparoscopic adrenalectomy. Demographics, imaging characteristics, and histologic findings were compared for dogs with In-AMs versus Cl-AMs. Survival to discharge was determined for dogs with In-AMs. In-AMs were identified in 61 of 214 dogs (28.5%). Age and body weight were similar to dogs with Cl-AMs. In-AMs were more likely to be pheochromocytomas than Cl-AMs (32.8% vs 8.5%; OR, 5.25 [95% CI, 2.43 to 11.35]). Vascular invasion was highly suggestive of a medullary rather than a cortical lesion (OR, 11.31 [95% CI, 3.03 to 36.42]). Maximal mass dimension (MMD) for In-AMs was similar for pheochromocytomas, cortical carcinomas, and cortical adenomas, but smaller dogs were more likely to have a carcinoma or pheochromocytoma. A total of 20 In-AMs had MMD &#x2264; 2 cm, 8 of which had vascular invasion. However, 6 of 11 small, noninvasive In-AMs were malignant (3 carcinoma) or had malignant/invasive potential (3 pheochromocytoma). Two dogs with In-AMs (3.3%) died from complications related to adrenalectomy. In-AMs were routinely malignant or had malignant/invasive potential, irrespective of size. Vascular invasion was highly suggestive of pheochromocytoma. Short-term outcomes following elective laparoscopic adrenalectomy were excellent. Previous recommendations to monitor noninvasive In-AMs with MMD &#x2264; 2 cm should be reconsidered; perioperative planning should address the likelihood of pheochromocytoma.",
-      "categories": [
-        "internalMedicine",
-        "oncology",
-        "surgery"
-      ]
-    },
-    {
-      "pmid": "42019538",
-      "title": "Owners report satisfaction and perceived improvement following Sn-117m radiosynoviorthesis in dogs with osteoarthritis.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "V&#xe9;zina-Audette R, Barnhard JA, Brunke MW, Levine D, Agrodnia MD",
-      "date": "2026 07 20",
-      "dateObject": "2026 07 20",
-      "abstract": "To evaluate owner-reported satisfaction and perceived effects of Sn-117m radiosynoviorthesis (RSO) for canine osteoarthritis (OA). An anonymous multicenter online survey was distributed between December 2024 and February 2025 to owners whose dogs received Sn-117m RSO for OA. Owners rated changes in pain and OA interference with daily activity before and after treatment and overall satisfaction. They also rated the influence of cost, clinical outcome, sedation/anesthesia, and other factors on satisfaction. Complete responses were obtained from 168 of 397 owners (42.3%). Overall, 63.1% (106 of 168) reported being very satisfied or satisfied. Osteoarthritis interference with daily activity improved in 71.5% (118 of 165) of dogs, remained unchanged in 27.3% (45 of 165), and worsened in 1.2% (2 of 165). Three dogs had no OA interference at baseline. The median improvement was +1 category (IQR, 0 to 2; range, -1 to +5). Among those that improved, the median change was +2 categories (range, +1 to +5). Perceived pain improved in 78.6% (132 of 168) after the first treatment, 82.9% (29 of 35) after the second, and 83% (5 of 6) after the third. Among 35 dogs receiving multiple treatments, 81% of owners reported comparable or greater improvement after subsequent treatments. Treatment-related concerns were reported by 6.5% of owners. Clinical outcome was rated the most influential factor in owner satisfaction (68% very influential). Owners reported satisfaction with Sn-117m RSO and perceived meaningful, repeatable improvements in pain and function. Sn-117m RSO produced perceived clinically important improvements in canine OA, with satisfaction driven primarily by clinical outcome rather than cost, sedation/anesthesia, or other concerns.",
-      "categories": []
-    },
-    {
-      "pmid": "41962566",
-      "title": "Determination of optimal tracheal stent size using measurements derived from computed tomography.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Atiee GF, Cook AK, Applebaum J",
-      "date": "2026 07 20",
-      "dateObject": "2026 07 20",
-      "abstract": "To devise a reliable method of predicting postplacement tracheal stent length using measurements from CT and to compare predicted versus actual stent length in a cohort of dogs undergoing stent placement for tracheal collapse grades I to III. Retrospective analysis of 11 dogs undergoing tracheal stenting for tracheal collapse grades I to III. Measurements of tracheal diameter were determined from stored CT images. Tracheal diameter was calculated from the square root of the product of the major and minor axes at 4 locations: 1 cm caudal to the larynx, the thoracic inlet, the midthoracic trachea, and 1 cm cranial to the carina. Values were averaged to determine predicted stent diameter in situ. The predicted length of the stent placed in each dog was calculated with regression formulas derived from the manufacturer's information regarding stent diameter and length. Actual stent length following deployment was determined from stored fluoroscopic images. Predicted stent lengths were compared to actual stent lengths, and the percent error was determined for each patient. Appropriate images were available for 11 dogs. Differences in predicted length ranged from 0% to 5.5%, with a median of 2.32%. In 10 of 11 dogs, the error was < 5%. Tracheal diameter can be reliably determined from CT imaging with the use of 4 specific locations in dogs with tracheal collapse grades I to III, allowing for accurate prediction of stent length after placement. This study will assist with appropriate stent size selection for dogs with tracheal collapse and is expected to improve procedural efficiency and efficacy.",
-      "categories": []
-    },
-    {
-      "pmid": "41962564",
-      "title": "Diagnosis and clinical outcome of cats with primary appendicular bone tumors: 76 cases.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Kimura S, Lubelski J, Wood CJ, Selmic LE, Maritato KC, Morello E, Pellin MA, Oblak ML, Culp WTN, Malek S, S&#xe9;guin B, Vernier T, Sumner JP, Wustefeld-Janssens BG, Schlag AN, Liptak JM",
-      "date": "2026 07 20",
-      "dateObject": "2026 07 20",
-      "abstract": "To describe outcomes in cats with primary appendicular bone tumors treated with complete or partial amputation, with or without adjuvant chemotherapy. This retrospective study analyzed cats with histologically confirmed primary appendicular bone tumors treated surgically between 2008 and 2019. Data included signalment, clinical signs, tumor location, preoperative imaging, amputation level, adjunctive therapy, histologic characteristics, and oncologic outcomes. 76 cats were included, with osteosarcoma being the most commonly diagnosed tumor. Median survival time (MST) for cats with osteosarcoma was 469 days, with 1- and 2-year survival rates of 56.8% and 40.4%, respectively. The MST for cats with chondrosarcoma was 1,302 days, with 1- and 2-year survival rates of 91.7% and 66.7%. Overall metastatic rate was 32.9%, and 36.2% for osteosarcoma specifically; scapular tumors had the highest metastatic rate (87.5%). Preoperative pulmonary metastasis significantly shortened MST in cats with osteosarcoma (152 vs 573 days). In cats with osteosarcoma without preoperative pulmonary metastasis, adjuvant chemotherapy significantly improved MST (1,466 vs 440 days). Negative prognostic indicators for cats with osteosarcoma were increased age and presence of suspected metastasis at any time. Appendicular osteosarcoma in cats had a good prognosis following amputation alone, despite a higher metastatic rate than previously reported; however, adjuvant chemotherapy significantly improved survival time in cats with nonmetastatic osteosarcoma. Appendicular chondrosarcoma had an excellent prognosis following definitive surgery alone. Cats with nonmetastatic osteosarcoma at diagnosis should be treated with both definitive surgery and adjuvant chemotherapy.",
-      "categories": [
-        "oncology",
-        "surgery"
-      ]
-    },
-    {
-      "pmid": "41962563",
-      "title": "Increased dietary fiber intake improves fecal and clinical activity scores in dogs with chronic enteropathy.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Ford-Hrymak DB, Rudinsky AJ, Muirragui I, Landau ED, Rowe JC, Winston JA, Parker VJ",
-      "date": "2026 07 20",
-      "dateObject": "2026 07 20",
-      "abstract": "To determine whether modification of dietary fiber could improve fecal score and clinical activity score in a population of dogs diagnosed with chronic enteropathy (CE). This was a retrospective uncontrolled study of dogs with CE presenting to a nutrition service where increasing dietary fiber intake was the primary nutritional goal. Purina fecal score, canine inflammatory bowel disease activity index scores, and fiber concentrations (g/100 kcal) of diets fed at initial nutrition consult (baseline) and at follow-up were compared. The Wilcoxon matched-pairs signed rank test was used. 32 dogs were included. Median crude fiber and total dietary fiber increased from 0.6 g/100 kcal (range, 0.2 to 1.5 g/100 kcal) and 1.7 g/100 kcal (range, 0.4 to 2.8 g/100 kcal) at baseline to 1.8 g/100 kcal (range, 0.3 to 4.3 g/100 kcal) and 4.7 g/100 kcal (range, 2.1 to 7.1 g/100 kcal) at follow-up. Median time from baseline to follow-up was 21 weeks (range, 4 to 82 weeks). Purina fecal score decreased from baseline to follow-up with a median of 4.5 (range, 2 to 7) to 2 (range, 2 to 3), respectively (effect size, r = 0.82). Canine inflammatory bowel disease activity index scores decreased from baseline to follow-up with a median of 4.5 (range, 1 to 11) to 1 (range, 0 to 4), respectively (effect size, r = 0.86). At follow-up, 28 of 32 dogs (87.5%) had improved Purina fecal scores and 31 of 32 (97%) had improved canine inflammatory bowel disease activity index scores. Increased dietary fiber intake improved fecal and clinical activity scores in many dogs with CE. In addition to other dietary food trial approaches commonly considered, veterinarians should utilize fiber to manage clinical signs of dogs with CE.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "41950949",
-      "title": "Generalized tremors in a 2.5-year-old domestic shorthair cat.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Menchetti M, Cocchetto A, Galli G",
-      "date": "2026 07 20",
-      "dateObject": "2026 07 20",
-      "abstract": "",
-      "categories": []
-    },
-    {
-      "pmid": "41950947",
-      "title": "Antimicrobial stewardship education increases US veterinarians' intention to avoid prescribing antimicrobial drugs for canine acute diarrhea, January 2025.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Frey E, Kedrowicz A, Granick J, Hedgpeth MW, Townsend L",
-      "date": "2026 07 20",
-      "dateObject": "2026 07 20",
-      "abstract": "To evaluate whether an educational video or written evidence-based handout can reduce veterinarians' intentions to prescribe antibiotics for canine acute diarrhea. In January 2025, US veterinarians who treat dogs were recruited for an online cross-sectional pre- and postintervention survey via social media, email lists, and state veterinary medical associations. Questions probed knowledge, personal attitudes, subjective norms, and perceived behavioral control regarding the use of antibiotics in the treatment of canine acute diarrhea. Participants were randomized to control, handout, or video groups to evaluate the impact of educational resources on their intention to prescribe antibiotics. A total of 1,626 veterinarians completed the survey and were randomly assigned to the control (n = 567), handout (546), and video (513) groups. Baseline attitudes, social norms, and perceived behavioral control did not differ amongst intervention groups. After they received the interventions, questions of attitude were repeated. More veterinarians were comfortable with waiting to give antibiotics (video, 86% to 90%; handout, 85% to 91%), were comfortable not prescribing metronidazole (video, 79% to 84%; handout, 80% to 86%), and agreed that prebiotics (video, 38% to 55%; handout, 40% to 50%) and probiotics (video, 48% to 58%; handout, 44% to 53%) could be used instead of antibiotics. Evidence-based educational resources related to antimicrobial use increased veterinarians' intention to avoid antibiotic use and promote nonantimicrobial alternatives. Targeted evidence-based and actionable educational resources can increase veterinarians' intentions to follow antibiotic stewardship guidelines.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "41932357",
-      "title": "Fecal microbiota transplantation dosing regimen accelerates clinical resolution in canine parvovirus infection: a novel spectrum-of-care approach.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Winston JA, Jennings R, Randolph NK, Welton M, Partridge E, Schreeg M, Yaxley PE, Rudinsky AJ",
-      "date": "2026 07 20",
-      "dateObject": "2026 07 20",
-      "abstract": "To evaluate the efficacy of a novel spectrum-of-care fecal microbiota transplant (FMT) dosing regimen as an adjunctive therapy for canine parvovirus (CPV). 27 client-owned dogs naturally infected with CPV were enrolled from March to November 2023 in a prospective, double-blinded, placebo-controlled clinical trial. Patients were randomized into FMT-treated (n = 19) or placebo-treated (8) groups. Along with conventional treatments, CPV-infected dogs were administered FMT (single FMT enema, then 14 days of oral lyophilized FMT capsules) or placebo (single saline enema, then 14 days of oral placebo capsules) at admission. During hospitalization, dogs were monitored daily including fecal, clinical severity, and medication scores. Feces and serum were collected at admission, day 4, day 7, day 14, and day 21 for quantification of CPV viral shedding and immune response (bead-based multiplex of cytokines/chemokines). The primary outcome variable was length of hospitalization. Interim analysis revealed that placebo-treated dogs had excessive study withdrawals due to worsening clinical status when compared to FMT-treated dogs (37.5% compared to 0%, respectively), leading to ethical discontinuation of the placebo arm. Fecal microbiota transplant-treated dogs had significantly reduced hospitalization length and medications required for treatment (maximum medication score) compared to placebo-treated dogs. Fecal microbiota transplant did not reduce fecal viral shedding or elicit a host immune response. This novel FMT dosing regimen (single enema FMT followed by oral capsular FMT), designed to be feasible for inpatients or outpatients, accelerated clinical recovery from CPV. In-house and commercially available FMT products were effective in CPV-infected dogs, thus broadening the spectrum of care available to these patients.",
-      "categories": [
-        "internalMedicine",
-        "surgery"
       ]
     },
     {
