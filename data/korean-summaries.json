@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T21:59:40.861Z",
+  "updated_at": "2026-08-23T21:56:37.262Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -3743,6 +3743,22 @@
       "title": "Clinical Behaviour and Outcome of Pelvic Osteosarcoma in Dogs: A Retrospective Multicentre Analysis of 74 Cases (2007-2025).",
       "journal": "Veterinary and Comparative Oncology",
       "generated_at": "2026-08-22T21:55:53.374Z",
+      "model": "gpt-5-mini"
+    },
+    "42630792": {
+      "brief_summary": "본 연구는 3D 프린트한 CT 기반 고양이 팬텀과 Monte Carlo(Particle and Heavy Ion Transport Code System, PHITS) 시뮬레이션을 이용해 [211At]NaAt 치료 시 수의진료직원들의 외부 직업적 방사선 노출을 정량적으로 평가했다. 팬텀 표면에서 1 m 이내 거리에서는 측정값이 PHITS 시뮬레이션과 잘 일치했고, 단거리에서는 단순 해석식(FORM)이 최대 두 자릿수까지 과대평가하는 것으로 나타났다. 단순화한 임상 시나리오에서 직원 1회 치료당 선량은 어떠한 직군도 1.11 μSv를 넘지 않아 ICRP 권고 한계치보다 훨씬 낮아 방사선학적 안전성이 지지된다는 결론이다.",
+      "detailed_summary": "연구는 CT 유래 3D 프린트 고양이 팬텀의 목 부위에 구형 [211At]NaAt 원을 배치하고, NaI(Tl) 섬광 계측기를 사용해 팬텀 표면부터 1 m까지 2–5개 거리에서 주변 등가선량률 H*(10)를 측정하였다. 동일한 기하학 조건을 보장한 상태에서 PHITS를 이용한 Monte Carlo 시뮬레이션으로 211At의 광자 전달을 모델링하여 주변 등가선량률을 계산하고 측정값과 비교하였다. 측정과 PHITS 결과는 1 m 이내에서 대체로 일치했으나, 검출한계 근처의 매우 낮은 선량에서는 차이가 있었다. 단순 해석 계산(FORM)은 특히 10 cm 이내에서 최대 두 자릿수까지 선량을 과대평가했지만, PHITS는 보수적이면서 현실적인 추정을 제공했다. 감마분광분석에서는 211At 및 그 딸핵종의 광자가 약 10 cm 근처에서만 검출되어 고활동 투여 시 국소 차폐가 필요할 수 있음을 시사했다. 단순화한 임상 시나리오에 따른 추정값에서 유효선량, 피부 등가선량, 안구수정체 등가선량은 어떤 수의진료직군도 1.11 μSv를 초과하지 않았고, 연구진은 이 방법론이 다른 장기나 동물종에도 적용 가능하다고 결론지었다.",
+      "title": "A simplified feline phantom and Monte-Carlo simulation can be used to evaluate radiation exposure to veterinary staff during [ 211 At]NaAt treatment.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-08-23T21:56:37.252Z",
+      "model": "gpt-5-mini"
+    },
+    "42631010": {
+      "brief_summary": "본 연구는 고양이 골관절염(osteoarthritis, OA)과 관련해 소유자가 작성하는 평가도구 'FeOA-QoL-TS-A'를 개발·검증해 고양이의 삶의 질(QoL), 소유자의 QoL 및 치료 만족도를 동시에 측정하고자 했다. 초기 25문항 초안을 질적 면담(소유자 8명)과 6회 시점의 1상후(phase 4) 현장 연구(소유자 보고, n=139)를 통해 항목분석 및 확인적 요인분석으로 다듬어 5개 문항을 제거한 최종 20문항·3영역(고양이 QoL, 소유자 QoL, 치료 만족도)을 도출했다. 최종 도구는 내적 일관성 및 재검사 신뢰도가 우수하고 수렴 타당성, 집단 구분 능력 및 반응성(시간에 따른 유의한 개선)을 보여 임상 진료·연구 및 이해관계자 소통에 활용 가능한 OA 특이적 평가도구임을 시사한다.",
+      "detailed_summary": "연구는 문헌 메타합성에 기반한 개념모델과 보충 문헌검토로 초안 FeOA-QoL-TS-A(25문항)를 작성한 뒤, 질적 면담(OA 고양이 소유자 8명)으로 내용타당도를 평가하여 문항을 수정했다. 수정된 설문은 OA 치료를 받고 있는 고양이 소유자들을 대상으로 한 phase 4 현장 연구에서 6회 시점에 걸쳐 수집되어(n=139) 문항수준 분석 및 확인적 요인분석으로 심리계량적 특성을 평가했다. 분석 결과 5개 문항이 제거되어 최종 20문항이 되었고, 세 개의 별도 영역(고양이 QoL, 소유자 QoL, 치료 만족도) 구조가 확인되었다. 최종 도구는 내적 일관성 및 재검사 신뢰도가 양호했고, 동시 측정 도구와의 강한 상관을 통해 수렴 타당성이 입증되었다. 알려진 집단 비교에서 QoL 수준에 따라 구별할 수 있었고, 시간 경과에 따른 유의한 개선을 통해 반응성을 보였으며 ‘개선군’이 ‘안정군’보다 더 큰 효과크기를 보였다. 또한 앵커 기반 분석으로 고양이 및 소유자 QoL 영역에 대한 반응자 정의(responder definitions)가 각각 −1.0점과 −0.9점으로 제시되었고, 초록에서는 별도의 제한점은 구체적으로 제시하지 않았다.",
+      "title": "Development and validation of a Quality of Life and Treatment Satisfaction measure in feline osteoarthritis.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-08-23T21:56:19.432Z",
       "model": "gpt-5-mini"
     }
   }
