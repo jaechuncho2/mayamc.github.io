@@ -1,6 +1,40 @@
 {
-  "updated_at": "2026-08-23T21:56:01.167Z",
+  "updated_at": "2026-08-24T21:45:03.335Z",
   "papers": [
+    {
+      "pmid": "42633780",
+      "title": "Postoperative rotational instability after tibial plateau-leveling osteotomy is associated with acute cranial cruciate ligament rupture and meniscal injury.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Copet A, Fostier-Humbert M, Blondel M, Cachon T",
+      "date": "2026 08 23",
+      "dateObject": "2026 08 23",
+      "abstract": "To determine the prevalence and associated risk factors of postoperative rotational instability following tibial plateau-leveling osteotomy (TPLO) in dogs with cranial cruciate ligament (CrCL) rupture. A retrospective analysis of medical records was performed for dogs undergoing TPLO for CrCL rupture at a single referral institution from 2018 through 2025. Rotational instability was defined as persistence of a positive tibial pivot test (TPT) after TPLO requiring placement of an antirotational suture. Signalment, clinical findings, radiographic variables, and intraoperative data were compared between rotationally unstable and stable stifles. Variables associated with instability in univariable analysis were included in a multivariable logistic regression model. A total of 312 stifles met inclusion criteria. Postoperative rotational instability was identified in 77 of 312 stifles (24.6%). In multivariable analysis, chronic presentation was associated with lower odds of instability (OR, 0.41; 95% CI, 0.20 to 0.85). Increasing lameness severity (OR, 1.54/grade increase; 95% CI, 1.07 to 2.24), complete CrCL rupture (OR, 23.48; 95% CI, 6.50 to 152.25), and meniscal tear (OR, 2.68; 95% CI, 1.26 to 5.88) were associated with higher odds of instability. Age, body weight, osteoarthritis score, and preoperative tibial plateau angle were not independently associated with instability after adjustment. Rotational instability following TPLO is relatively common and is primarily associated with lesion severity and acute presentation. Recognition of these risk factors may prompt more careful intraoperative assessment for rotational instability using the tibial compression pivot test, thereby helping identify dogs that may benefit from adjunctive antirotational stabilization.",
+      "categories": [
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42633785",
+      "title": "A newly derived formula outperforms published formulae for estimating urine osmolality in healthy dogs receiving intravenous fluids.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Jeong Y, Qu Y, Kim MS, Her J",
+      "date": "2026 08 23",
+      "dateObject": "2026 08 23",
+      "abstract": "To derive a formula to estimate urine osmolality (Uosm) in dogs with urine sodium, potassium, glucose, and urea nitrogen and to compare the performance of the derived formula with published formulae. A prospective observational study was conducted using purpose-bred Beagles housed at a university research facility. Healthy dogs, confirmed by physical examination and laboratory testing, received isotonic or hypotonic IV fluids in a randomized sequence for 48 hours, with a 10-day washout period between treatments. Urine samples were collected through indwelling urinary catheters at baseline and every 12 hours. Urine osmolality and urinary osmolytes were measured. Linear mixed models were used to derive formulae, and agreement was assessed using the concordance correlation coefficient (CCC), Bland-Altman analysis, and Passing-Bablok regression. Performance was compared with published formulae. 9 dogs provided 89 urine measurements. The proposed formula was Uosm = 2 X sodium + 1.8 X potassium + urea nitrogen2.5 (mg/dL) + glucose3.9 (mg/dL). The CCC was 0.96 (95% CI, 0.94 to 0.97), and the fixed bias was +7.99 mOsm/kg. Passing-Bablok regression revealed no proportional or constant bias. Compared with the published formulae, the proposed formula had the highest CCC and lowest fixed bias. The proposed formula provided a simple and reliable method to estimate Uosm in healthy dogs receiving isotonic and hypotonic IV fluids and outperformed the published formulae. Further validation in pathologic states is warranted. This formula improves the assessment of renal water handling, fluid balance, and kidney concentration ability when measuring Uosm is unavailable.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42633783",
+      "title": "Survey of veterinarians' receptivity to a canine vaccine for Rocky Mountain spotted fever reveals a potential vaccine market and opportunities for education.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Moore TS, Pikel L, Horiuchi K, Biggerstaff BJ, Brophy MK, Carpenter A, Szymanski D, Salzer JS",
+      "date": "2026 08 23",
+      "dateObject": "2026 08 23",
+      "abstract": "To understand veterinary practitioner awareness about Rocky Mountain spotted fever (RMSF) and their receptivity and clients' perceived receptivity to a vaccine to protect dogs from RMSF. The survey tool was developed in collaboration with the CDC and AVMA. Responses were collected June 9, 2025, through July 1, 2025. Respondents were surveyed on whether they had ever diagnosed a case of RMSF and their confidence in identifying the symptoms of RMSF, receptivity to a canine RMSF or anti-tick vaccine, and clients' perceived receptivity to a vaccine. We calculated survey-weighted estimates for the companion- and mixed-animal practitioner population for proportions (95% CIs) and multinomial logistic regression to compute ORs (95% CIs) for comparisons of interest. Free-text responses to questions on vaccines were also collected for educational purposes. Eligible respondents included 731 (91.3%) companion-animal practitioners and 70 (8.7%) mixed-animal practitioners. The odds of practitioners recommending a vaccine who felt very confident in recognizing symptoms were 3.9 (95% CI, 3.1 to 4.9) times that of those who felt not confident at all. Fifty-four percent (95% CI, 50% to 58%) of practitioners' clients would be interested in a canine RMSF vaccine, and 79% (95% CI, 76% to 82%) of practitioners were interested in a combined anti-tick vaccine. Vaccine interest was not limited to a single geographic or practice environment. A potential market for a canine RMSF vaccine and a more general combined anti-tick vaccine exists across geographic regions and practice environments. Vaccine receptivity and patient care could be improved through education about RMSF and vaccine technology.",
+      "categories": []
+    },
     {
       "pmid": "42631010",
       "title": "Development and validation of a Quality of Life and Treatment Satisfaction measure in feline osteoarthritis.",
@@ -424,18 +458,6 @@
       "categories": [
         "surgery",
         "neurology"
-      ]
-    },
-    {
-      "pmid": "42617661",
-      "title": "Are common clinical protocols prioritizing detection over prevention in canine Dirofilaria immitis?",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Horvath M",
-      "date": "2026 08 19",
-      "dateObject": "2026 08 19",
-      "abstract": "Owner noncompliance, not preventive failure, drives most canine Dirofilaria immitis infections in established patients. Only 24.4% of dogs under care achieve full-year purchase compliance with monthly macrocyclic lactones. Informal data suggest far more practices send annual testing reminders than monthly dosing reminders. The primary goal is continuous chemical protection, not annual detection of prior failures. This viewpoint argues for tracking adherence rates, routine adherence counseling, and prospective evaluation of adherence-first protocols in standard prescription-renewal settings.",
-      "categories": [
-        "internalMedicine"
       ]
     },
     {
@@ -1507,28 +1529,6 @@
       "date": "2026 07 31",
       "dateObject": "2026 07 31",
       "abstract": "To compare the accuracy of 2 Doppler and 2 oscillometric devices to invasive blood pressure (IBP) measurements in conscious dogs at 2 cuff locations using the American College of Veterinary Internal Medicine (ACVIM) validation criteria. 8 Beagles had dorsal pedal arterial catheters placed under anesthesia on November 13 and 18, 2024. Once conscious, paired non-IBP and IBP measurements were collected at the tail and forelimb for all devices. Bias, SD, percentage of values within 10 and 20 mm Hg of IBP, correlation coefficients, and limits of agreement were calculated for each paired measurement. No device met ACVIM validation criteria at either cuff location. Devices performed better at the tail compared to the forelimb. Doppler devices performed better than oscillometric devices for systolic blood pressure. Oscillometric devices performed best for mean blood pressure (MBP). The MBP measured by the multiparameter monitor at the tail showed the most favorable overall performance, including a bias of 1.75 mm Hg (SD, 8.98); 82% and 96% of measurements within 10 and 20 mm Hg of IBP, respectively; and limits of agreement of -15 to 19. The correlation coefficient threshold was not met by any device. None of the devices were validated against IBP in conscious adult dogs using ACVIM criteria. Tail placement improved performance across devices. Oscillometric devices appeared more reliable for MBP, whereas Doppler devices provided more reliable systolic blood pressure measurements. Clinicians should interpret NIBP cautiously in conscious dogs.",
-      "categories": []
-    },
-    {
-      "pmid": "42190707",
-      "title": "Right ventricular systolic function in dogs with pulmonary hypertension can be assessed using tissue motion annular displacement.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Silva VBC, Lucina SB, Wolf M, Sarraff AP, Franco LFC, Sousa MG",
-      "date": "2026 07 31",
-      "dateObject": "2026 07 31",
-      "abstract": "To assess right ventricular (RV) systolic function using conventional echocardiography and advanced techniques, including strain and tissue motion annular displacement (TMAD), in dogs with and without pulmonary hypertension (PH). Dogs with PH and healthy client-owned dogs (control group) evaluated from March 2018 through June 2022 were eligible for inclusion in this case-control study. Dogs in the PH group were classified as having either precapillary or postcapillary PH. All dogs underwent physical examination, blood pressure measurement, electrocardiography, and echocardiographic evaluation, including conventional and speckle-tracking techniques. Right ventricular systolic function was assessed using multiple variables, including TMAD, measured as midpoint displacement (millimeters), midpoint displacement relative to RV length (percentage), and TMAD indexed to body weight (mm/kg) and body surface area (mm/m2). The results were compared among groups and subgroups. There were 46 dogs in the PH group (precapillary PH, n = 27; postcapillary PH, 19) and 44 dogs in the control group. The TMAD values were lowest in dogs with precapillary PH compared with the control group and dogs with postcapillary PH. Tissue motion annular displacement (mm/kg) showed weak to moderate positive correlations with RV structural variables and fractional area change percentage, a weak negative correlation with tricuspid annular plane systolic excursion normalized by body weight, and no significant correlation with peak velocity of systolic tricuspid annular motion as determined by tissue Doppler imaging (S'). TMAD does not replace conventional techniques for assessing RV systolic function. The evaluated technique may serve as a supplementary tool for assessing RV systolic function in dogs with PH.",
-      "categories": [
-        "cardiology"
-      ]
-    },
-    {
-      "pmid": "42190701",
-      "title": "Toward creating \"caninized\" mice: reconstitution of canine immune cells in immunodeficient mice.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Stokol T, Demeter EA, Cockey JR, Leifer CA, Puri R, Butler S, Byron M, Webb S",
-      "date": "2026 07 31",
-      "dateObject": "2026 07 31",
-      "abstract": "To generate \"caninized\" mice that could be used for investigating canine diseases and testing new therapies. In this experimental study, canine hematopoietic stem cells (HSCs) were isolated from bone marrow mononuclear cells from donor dogs using immunomagnetic sorting and an anti-canine CD34 antibody. Fresh or overnight-cultured HSCs were administered IV into sublethally irradiated immunodeficient mice (NOD scid &#x3b3; strain) 4 to 20 hours after irradiation (median dose, 2.0 X 105 cells; n = 120) with noninjected irradiated controls (30). Engraftment was assessed by serum canine immunoglobulin M (IgM) measurement and flow cytometric analysis for canine leukocytes and immunohistochemical staining for T and B cells. HSCs were enriched after sorting (median CD34+ cells, 87.6% vs 2.5% in bone marrow mononuclear cells). Canine IgM was measurable in sera of 49% of 94 surviving injected mice 19 to 42 weeks after irradiation (median IgM, 310 ng/mL; range, 18 to > 8,400 ng/mL). Higher serum canine IgM concentrations were detected in mice injected with fresh versus overnight-cultured HSCs. Low numbers of canine leukocytes and T and B cells were identified in the spleen and bone marrow with flow cytometry or immunohistochemistry. NOD scid &#x3b3; mice can be engrafted with canine immune cells. The creation of \"caninized\" mice is feasible, but efficiency of engraftment was low and requires further optimization before these mice can be used to model canine disease.",
       "categories": []
     },
     {

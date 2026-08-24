@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T21:56:37.262Z",
+  "updated_at": "2026-08-24T21:46:09.364Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -3759,6 +3759,30 @@
       "title": "Development and validation of a Quality of Life and Treatment Satisfaction measure in feline osteoarthritis.",
       "journal": "Frontiers in Veterinary Science",
       "generated_at": "2026-08-23T21:56:19.432Z",
+      "model": "gpt-5-mini"
+    },
+    "42633780": {
+      "brief_summary": "후향적 의무기록 분석에서 경골고원 평형 절골술(TPLO)을 받은 개 312개의 슬관절을 대상으로 수술 후 회전 불안정성의 유병률과 위험인자를 조사했다. 수술 후 tibial pivot test(TPT)가 양성으로 남아 항회전 봉합이 필요했던 경우를 회전 불안정성으로 정의했으며, 유병률은 24.6% (77/312)였다. 완전 전십자인대(CrCL) 파열, 반월판 손상, 더 심한 절뚝증이 회전 불안정성의 위험을 유의하게 증가시켰고, 만성 내원은 위험을 낮추는 인자로 나타났다. 이러한 인자는 수술 중 tibial compression pivot test로 회전 불안정성을 더 면밀히 평가하여 보조 항회전 안정화가 필요한 환자를 식별하는 데 도움이 된다.",
+      "detailed_summary": "단일 의뢰 병원에서 2018~2025년 사이 TPLO(경골고원 평형 절골술)를 시행한 개들의 의무기록을 후향적으로 분석하였다. 분석 대상은 총 312개의 슬관절로, 수술 직후 TPT(tibial pivot test)가 지속 양성이고 항회전 봉합이 시행된 경우를 회전 불안정성으로 정의하였다. 전체에서 77/312 슬관절(24.6%)에서 수술 후 회전 불안정성이 확인되었다. 다변량 로지스틱 회귀에서 만성 내원은 불안정성 발생의 오즈를 낮추었고(OR 0.41; 95% CI 0.20–0.85), 절뚝증 중증도 증가(등급당 OR 1.54; 95% CI 1.07–2.24), 완전 CrCL 파열(OR 23.48; 95% CI 6.50–152.25), 반월판 파열(OR 2.68; 95% CI 1.26–5.88)은 불안정성 오즈를 유의하게 높였다. 연령, 체중, 골관절염 점수, 수술 전 경골고원 기울기(티비알 플래토 각도)는 보정 후 독립적 연관성이 관찰되지 않았다. 결론적으로 TPLO 후 회전 불안정성은 비교적 흔하며 병변의 심각도와 급성성에 주로 연관되어 있어, 수술 중 TPT를 통한 면밀한 평가로 보조 항회전 안정화의 적용 대상자를 선별하는 것이 권장된다. 또한 이 연구는 후향적 단일 기관 자료 분석이라는 연구설계 특성이 있어 결과 해석 시 일반화 가능성에 유의할 필요가 있다.",
+      "title": "Postoperative rotational instability after tibial plateau-leveling osteotomy is associated with acute cranial cruciate ligament rupture and meniscal injury.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-08-24T21:45:27.425Z",
+      "model": "gpt-5-mini"
+    },
+    "42633783": {
+      "brief_summary": "미국 임상 수의사(반려동물 진료 731명, 혼합진료 70명)를 대상으로 Rocky Mountain spotted fever(RMSF)과 개용 백신에 대한 인식 및 수용성을 조사하는 설문조사를 실시하였다. 증상 인지에 '매우 자신 있음'이라고 답한 수의사는 '전혀 자신 없음'에 비해 백신을 권하는 가능성이 3.9배(95% CI 3.1–4.9) 높았고, 응답자들이 판단한 고객의 RMSF 백신 관심은 54%(95% CI 50–58%), 수의사 본인의 복합 항진드기(anti-tick) 백신 관심은 79%(95% CI 76–82%)였다. 결과는 지리적·진료 환경을 막론하고 개용 RMSF 및 복합 항진드기 백신에 대한 잠재 시장과 교육을 통한 수용성·환자 관리 개선 기회가 있음을 시사한다.",
+      "detailed_summary": "연구는 CDC 및 AVMA와 협력해 설문 도구를 개발하고 2025년 6월 9일부터 7월 1일까지 응답을 수집한 설문 기반 조사이다. 유자격 응답자는 반려동물(컴패니언) 진료 수의사 731명과 혼합진료 수의사 70명이었으며, 설문 항목에는 RMSF 진단 경험, 증상 인지 자신감, 개용 RMSF 또는 항진드기(anti-tick) 백신에 대한 수용성 및 고객의 수용성 추정 등이 포함되었다. 분석은 설문 가중치 적용 비율 추정과 다항 로지스틱 회귀를 사용해 수행되었다. 주된 결과로는 증상 인지에 '매우 자신 있음' 응답자가 '전혀 자신 없음' 응답자보다 백신 권고 가능성이 유의하게 높았고(OR 3.9; 95% CI 3.1–4.9), 응답자들은 고객의 RMSF 백신 관심을 54%(95% CI 50–58%)로, 본인의 복합 항진드기 백신 관심을 79%(95% CI 76–82%)로 보고했다. 백신에 대한 관심은 특정 지리적 지역이나 진료 환경에 국한되지 않아 전반적인 잠재 시장이 존재함을 나타냈다. 초록에는 연구의 구체적 제한점이 명시되어 있지 않다.",
+      "title": "Survey of veterinarians' receptivity to a canine vaccine for Rocky Mountain spotted fever reveals a potential vaccine market and opportunities for education.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-08-24T21:46:09.355Z",
+      "model": "gpt-5-mini"
+    },
+    "42633785": {
+      "brief_summary": "건강한 목적 번식 비글에서 정맥주사(IV) 수액(등장성·저장성)을 투여하는 동안 소변의 나트륨, 칼륨, 포도당, 요소질소 정보를 이용해 소변 삼투압(Uosm)을 추정하는 공식을 도출하고 기존 공식들과 성능을 비교했다. 제시된 공식(Uosm = 2 × sodium + 1.8 × potassium + urea nitrogen2.5 (mg/dL) + glucose3.9 (mg/dL))은 9마리에서 얻은 89개의 소변 측정값에서 CCC 0.96(95% CI 0.94–0.97)과 고정 편향 +7.99 mOsm/kg을 보여 기존 공식들보다 높은 일치도와 낮은 편향을 보였다. Uosm 측정이 불가능한 상황에서 건강한 개의 신장 수분 조절·체액 균형 및 농축 능력 평가에 간단하고 신뢰할 수 있는 방법을 제공한다.",
+      "detailed_summary": "전향 관찰 연구로, 정상으로 확인된 목적 번식 비글 9마리를 대상으로 무작위로 등장성 혹은 저장성 정맥주사(IV) 수액을 48시간씩 투여하고 10일의 세척기간을 두었다. 소변은 유치 도뇨관을 통해 기저치와 이후 12시간 간격으로 채취하였고, 소변 삼투압(Uosm)과 소변 내 나트륨·칼륨·포도당·요소질소(urea nitrogen)를 측정하였다. 선형 혼합모형(linear mixed models)을 사용해 Uosm을 추정하는 공식을 도출하고, 일치도는 concordance correlation coefficient(CCC), Bland–Altman 분석, Passing–Bablok 회귀로 평가하였다. 도출된 공식은 Uosm = 2 × sodium + 1.8 × potassium + urea nitrogen2.5 (mg/dL) + glucose3.9 (mg/dL)이며, 전체 89개 측정값에서 CCC는 0.96(95% CI 0.94–0.97), 고정 편향(fixed bias)은 +7.99 mOsm/kg이었다. Passing–Bablok 회귀에서는 비례적·상수적 편향이 관찰되지 않았고, 제시된 공식은 기존에 보고된 공식들보다 CCC가 높고 고정 편향이 낮았다. 결론적으로 이 공식은 건강한 개에서 등장성·저장성 IV 수액 투여 중 Uosm을 추정하는 간단하고 신뢰할 수 있는 방법을 제공하나, 병적 상태에서의 추가 검증이 필요하다고 저자들은 명시하였다.",
+      "title": "A newly derived formula outperforms published formulae for estimating urine osmolality in healthy dogs receiving intravenous fluids.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-08-24T21:45:49.920Z",
       "model": "gpt-5-mini"
     }
   }
