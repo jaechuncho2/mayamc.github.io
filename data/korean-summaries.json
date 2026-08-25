@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T21:46:09.364Z",
+  "updated_at": "2026-08-25T21:49:28.604Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -3783,6 +3783,110 @@
       "title": "A newly derived formula outperforms published formulae for estimating urine osmolality in healthy dogs receiving intravenous fluids.",
       "journal": "American Journal of Veterinary Research",
       "generated_at": "2026-08-24T21:45:49.920Z",
+      "model": "gpt-5-mini"
+    },
+    "42636340": {
+      "brief_summary": "2세 스페이드 암컷 믹스견의 5개월간 반복성 발열 및 간헐적 피하 결절(조직검사상 지방염)을 평가한 증례이다. 절제된 피하 결절에서 Bartonella vinsonii subsp. berkhoffii genotype III DNA가 검출되었고 혈액 PCR에서는 Bartonella 음성, 간접형광항체검사(IFA) 항체역가는 1:64였다. 또한 발열 시기 두 차례(77일 간격) 채취한 혈액에서 Babesia odocoilei 유사종 DNA가 검출되어 공동감염이 확인되었고, 독시사이클린·엔로플록사신·아지스로마이신 6개월 치료 후 임상적 호전과 15개월 추적 시 건강 유지가 보고되었다. 이 증례는 개에서 B. vinsonii subsp. berkhoffii genotype III 감염이 반복성 발열과 지방염으로 나타날 수 있음을 시사한다.",
+      "detailed_summary": "증례보고로, 평가 대상은 5개월간 반복성 발열과 간헐적 피하 결절을 보인 2세 스페이드 암컷 혼합견이다. 피하 병변의 조직병리에서 지방염(panniculitis)이 확인되었고, 절제된 결절에서 Bartonella vinsonii subsp. berkhoffii genotype III DNA가 증폭·염기서열분석으로 확인되었다. 혈액에서는 Bartonella PCR는 음성이었으나 간접형광항체검사(IFA) 항체역가는 1:64였다. 발열 시점에 채취한 두 번의 혈액(77일 간격)에서 Babesia odocoilei 유사종 DNA가 증폭·염기서열로 확인되어 Bartonella와 Babesia의 공동감염이 관찰되었다. 치료는 독시사이클린, 엔로플록사신, 아지스로마이신을 6개월간 시행하였고 임상적으로 호전되었으며 15개월 후에도 건강 상태가 유지되었다. 저자들은 이 증례가 개에서 B. vinsonii subsp. berkhoffii genotype III의 반복성 발열 및 지방염의 가능성을 제시한다고 결론내렸으나, 단일 증례 보고이므로 일반화에는 제한이 있으며 Babesia odocoilei 유사종의 개 감염은 그리스에서 최초 보고된 사례라고 언급하였다.",
+      "title": "Bartonella vinsonii subsp. berkhoffii genotype III in a dog with recurrent fever and panniculitis coinfected with Babesia odocoilei-like sp.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-08-25T21:49:28.597Z",
+      "model": "gpt-5-mini"
+    },
+    "42636342": {
+      "brief_summary": "이 논문은 장내 Prototheca bovis(P. bovis) 감염으로 진단된 3두의 개를 대상으로 포사코나졸(posaconazole)을 포함한 항진균 치료 후 장기 생존 경과를 보고한 증례보고이다. 한 마리는 초기 피하(SC) amphotericin B(AMB) 투여와 포사코나졸 치료로 진단 후 45개월째에도 경미한 간헐성 설사만 남고 직장 세포진에서 조류가 검출되지 않았다. 포사코나졸은 모든 증례에서 내약성이 양호해 장내 프로토테카증 치료의 하나로 고려될 수 있다.",
+      "detailed_summary": "연구는 증례보고로 장내 P. bovis 감염으로 진단된 3두의 개의 임상 경과를 기술했다. 첫 번째 개는 포사코나졸과 초기 1개월간 피하(SC) amphotericin B(AMB)를 투여받아 치료 시작 45개월째에도 경미한 간헐성 설사만 있고 직장 세포진에서 조류가 검출되지 않았다. 두 번째 개는 포사코나졸만으로 관리되어 치료 시작 39개월째에도 전이 징후 없이 중등도의 혼합성 장 설사와 지속적인 P. bovis 배출을 보였다. 세 번째 개는 이트라코나졸(itraconazole), AMB, 테르비나핀(terbinafine) 및 자가 백신을 이용한 면역치료를 포함한 추가 치료를 받았으나 중추신경계(CNS) 전이로 인해 21개월째에 사망했다. 저자들은 포사코나졸이 본 증례들에서 전반적으로 내약성이 양호했으며 장내 프로토테카증 개의 치료 옵션으로 고려될 수 있다고 결론지었다. 하지만 표본 수가 3두인 증례보고이므로 결과를 일반화하기는 어렵다.",
+      "title": "Prolonged survival of 3 dogs with Prototheca bovis infection treated with posaconazole.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-08-25T21:49:11.394Z",
+      "model": "gpt-5-mini"
+    },
+    "42636343": {
+      "brief_summary": "7세 중성화 수컷 코커스패니얼 한 마리가 무기력, 빈호흡, 기침을 주소로 내원해 흉부 방사선에서 비구조적 간질성 패턴을 보였고, 폐 FNA 세포검사에서 화농육아종성 염증과 버섯(lycoperdon) 포자가 관찰되어 이상감작성 폐염(hypersensitivity pneumonitis, HP)으로 판단했다. 산소요법과 면역억제 용량의 코르티코스테로이드(프레드니손(prednisone))로 치료를 시작했고, 치료 반응과 폐 구조 변화를 추적하기 위해 6일, 2개월, 1년 시점에 흉부 CT와 기관지폐포세척검사(BAL)를 시행했다. 임상증상 호전으로 약을 감량·중단했으나 1년 추적에서 CT와 BAL이 재노출과 경미한 지속성 염증 및 실질·소기도 병변을 시사했으며, 빠른 포자 확인이 신속한 면역억제 치료에 중요함을 시사한다.",
+      "detailed_summary": "단례보고로, 7세 중성화 수컷 코커스패니얼 1두가 점진적 무기력, 빈호흡, 기침을 보여 내원하였다. 흉부 방사선은 비구조적 간질성 패턴을 보였고, 폐 FNA 세포검사에서 화농육아종성 염증과 폐 내 버섯 포자가 확인되어 lycoperdonosis에 의한 2차적 이상감작성 폐염(HP)을 의심하였다. 치료는 산소 보조와 면역억제 용량의 코르티코스테로이드(프레드니손)를 사용하였고, 치료 경과 및 구조 변화를 평가하기 위해 6일, 2개월, 1년 시점에 흉부 CT와 기관지폐포세척검사(BAL)를 시행하였다. 임상 소견을 근거로 프레드니손을 점진적으로 감량·중단하였고 임상 증상은 호전되었다. 그러나 1년 추적에서 CT와 BAL 결과는 버섯 포자에 대한 재노출을 확인했고 임상 증상은 없었음에도 경미한 지속성 염증과 실질·소기도 병변이 남아 있음을 보였다. 저자들은 폐 내 버섯 포자의 신속한 확인이 조기 면역억제 치료에 중요하다고 강조하였고, 본 증례는 이전의 치명적 급성 양상 보고와 달리 만성 HP 양상으로 진행한 사례임을 보고하였다. 단, 단일 증례보고이므로 결과를 일반화할 수 없다는 제한이 있다.",
+      "title": "Successful immunosuppressive treatment of hypersensitivity pneumonitis secondary to lycoperdonosis in a dog.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-08-25T21:48:41.136Z",
+      "model": "gpt-5-mini"
+    },
+    "42636344": {
+      "brief_summary": "본 연구는 면역조절제 반응성 장병증(immunomodulator-responsive enteropathy, IRE) 개 42마리와 건강 비교개 12마리의 십이지장·회장·결장 점막에서 CD3+ T세포 밀도(CD3, 상대 밀도 RCD3)를 비교하고 임상·혈액·조직학적 중증도와의 연관성을 평가했다. 십이지장(중앙값 6.34% vs 1.42%, P=0.03), 회장(9.79% vs 0.85%, P<0.001), 결장(3.88% vs 1.32%, P=0.002)에서 IRE 개의 RCD3가 유의하게 증가했고 각 구간의 분류능력(AUC)은 각각 0.833, 0.896, 0.811이었다. 그러나 RCD3는 임상 지수, 혈중 알부민 농도 또는 전체 조직학 점수와는 상관을 보이지 않아 단독 모니터링 지표로는 권장되지 않으며 면역표지화(immunophenotyping)에 기여할 수 있다.",
+      "detailed_summary": "후향 다기관(retrospective multicenter) 연구로, 보관된 내시경 조직검사 표본(십이지장·회장·결장)을 사용했고 조직병리 평가는 Simplified Histopathological Scoring System으로 수행되었다. CD3 면역조직화학(IHC)을 디지털 영상분석(QuPath)으로 정량화하여 상대 CD3+ 밀도(RCD3)로 표현했다. 비교 결과 IRE 군은 십이지장(중앙값 6.34% 대 1.42%, P=0.03), 회장(9.79% 대 0.85%, P<0.001), 결장(3.88% 대 1.32%, P=0.002)에서 유의하게 높은 RCD3를 보였다. 각 장 구간에 대한 판별력은 AUC가 각각 0.833, 0.896, 0.811로 보고되었다. RCD3는 임상 지수, 혈청 알부민 농도 또는 전체 조직학 점수와는 유의한 상관이 없었고, 유일한 통계적 연관으로는 회장 조직학 점수와 RCD3의 음적 상관(ρ = -0.37, P = 0.04)이 관찰되었다. 결론적으로 IRE에서는 점막 CD3+ T세포 밀도가 증가하지만 임상적·전반적 조직학적 중증도를 반영하지 못하므로 단독 모니터링 도구로 사용해서는 안 되며, 면역 표현형화 보조자료로 활용 가능하다는 제한적 의의를 가진다.",
+      "title": "Assessment of CD3+ T cell density in the intestinal mucosa of dogs with inflammatory bowel disease.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-08-25T21:48:23.074Z",
+      "model": "gpt-5-mini"
+    },
+    "42636345": {
+      "brief_summary": "흉곽 함몰증(pectus excavatum)을 가진 반려견 53마리를 대상으로 투시촬영(fluoroscopy) 소견을 정리하고 임상적 중증도와의 연관을 평가한 단면 연구다. 역행성 흉골 운동(paradoxical sternal movement)이 임상 중증도와 독립적으로 연관되어(OR 3.71, 95% CI 1.03–13.4, P=0.045) 중증도 지표로서 의미가 있었고, 흉부 높이 감소 비율이 고중증군에서 더 컸다(0.140 vs 0.097, P=0.04). 모든 개에서 주기관지 허탈이 관찰(53/53, 100%)되고 경부 폐엽 탈장도 높은 빈도로 확인(50/53, 94%; 95% CI 84%–99%)되어 흉곽 함몰증과 이러한 기도 이상 사이의 관련성을 시사한다.",
+      "detailed_summary": "연구는 반려견 53마리의 흉곽 함몰증(pectus excavatum)을 대상으로 한 횡단(cross-sectional) 연구로, 호흡기 증상과 치료에 따라 저중증군과 고중증군으로 분류하였다. 투시촬영 소견을 통해 흉곽 함몰증 자체 소견과 동반 호흡기 이상을 평가하였고, 단변량 및 다변량 분석으로 임상 중증도와의 연관성을 검사하였다. 여러 투시 소견이 기술되었고, 그중 역행성 흉골 운동이 다변량 분석에서 임상 중증도와 독립적으로 연관되어 유의한 지표로 나타났다(OR 3.71, 95% CI 1.03–13.4, P=0.045). 흉부 높이 감소 비율은 고중증군에서 더 높았으며(중앙값 0.140, IQR 0.100–0.228 vs 0.097, IQR 0.064–0.133; P=0.04) 이는 중증도와의 연관성을 뒷받침한다. 모든 증례에서 주기관지 허탈이 관찰되었고(53/53, 100%), 경부 폐엽 탈장도 50/53 (94%; 95% CI 84%–99%)에서 확인되어 이들 기도 이상과의 높은 동반 빈도를 보고하였다. 대부분의 다른 투시 변수들은 임상 중증도와 유의한 연관을 보이지 않았으며, 저자들은 역행성 흉골 운동과 흉부 높이 감소가 임상 중증도 판단에 보조적으로 사용될 수 있음을 제시하였다. 초록에서는 별도의 제한점을 구체적으로 명시하지 않았다.",
+      "title": "Fluoroscopic characterization of pectus excavatum in dogs: a cross-sectional study.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-08-25T21:48:03.695Z",
+      "model": "gpt-5-mini"
+    },
+    "42636475": {
+      "brief_summary": "보호자 소유 개 49마리를 대상으로 컴퓨터단층촬영(CT)으로 특징지어진 간 종양을 수술적·특이적 치료 없이 보수적으로 관리한 후 예후와 연관 인자를 보고하였다. 전체 중앙생존기간은 313일(범위 2–1308)이었고, 체중감소, 복수(복강 내 삼출), 다발성 간종양, 높은 AST(aspartate aminotransferase) 수치 및 낮은 Hct(hematocrit)이 단축된 생존과 유의하게 연관되었다. 종양 부피/체중 비율은 생존과 관련이 없었다. 임상적으로 이 인자들은 보수적 관리 시 예후 평가에 참고할 수 있다.",
+      "detailed_summary": "단일 기관(Schwarzman Animal Medical Center)의 후향적 연구로 2013–2023년 사이 CT로 특징지어진 간 종양을 가진 보호자 소유 개 49마리를 포함하였으며, 분석 시점에 사망하거나 안락사된 증례만을 대상으로 하였다. 수집된 변수는 신호증(예: 체중감소), 임상 소견(예: 복수), 혈액검사 결과(예: AST, Hct), 영상 소견(종양 수, 종양 부피/체중 비율) 및 사망일이었다. 전체 중앙생존기간은 313일(범위 2–1308)이었다. 체중감소가 있는 경우 중앙생존기간은 128일로 체중감소 없는 군의 341일보다 짧았고(P=0.03), 복수가 있는 군은 227일 vs 없는 군 331.5일(P=0.03), 다발성 간종양은 209.5일 vs 단일 종양 346일(P=0.004)로 유의하게 짧았다. 혈액검사에서는 높은 AST 활동도와 낮은 Hct가 각각 단축된 생존과 연관되었다(P=0.02 및 P=0.01). 반면 종양 부피/체중 비율은 생존과 유의한 관련이 없었다(P=0.8). 결론적으로 체중감소·복수·다발성 병변·높은 AST·낮은 Hct가 보수적 관리된 개의 예후 불량과 연관되었으며, 단일 기관 후향적 설계라는 제한점이 있다.",
+      "title": "Prognosis and associated risk factors after conservative management of dogs with liver tumors.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-08-25T21:47:35.849Z",
+      "model": "gpt-5-mini"
+    },
+    "42638346": {
+      "brief_summary": "239마리의 개인 소유 개를 대상으로 한 무작위 위약대조 연구에서, 1% terbinafine과 0.1% betamethasone acetate를 함유한 2회 도포 귀용 겔이 Malassezia pachydermatis 우세 외이도염(OE) 치료 효과와 안전성을 평가했다. 치료군은 D0과 D7에 제품을 투여받았고 평가는 D7, D14, D28, D45에 시행되었다. 주요 결과는 D45에서 임상 성공률(OTIS3 ≤3)이 치료군 62.9% 대 위약 20.0%로 유의하게 높았으며(p<0.0001), 수의사·소유자 평가 및 효모 세포학적 감소도 긍정적이었다는 점이다.",
+      "detailed_summary": "무작위 위약대조 연구에 239마리의 개인 소유 개가 등록되었고, 포함기준은 OTIS3 점수 ≥6 및 귀 도말에서 효모 우세 소견이었다. 시험제품(TBG)은 1% terbinafine과 0.1% betamethasone acetate를 함유한 국소(귀) 겔이며, 위약(생리식염수)과 비교하여 D0과 D7에 각각 투여되었다. 주요 평가변수는 D45의 임상 성공(OTIS3 ≤3)이며, 추가로 수의사 및 소유자의 전반적 반응과 효모 세포학적 수 감소가 평가되었다. 결과는 D45에서 치료군의 임상 성공률이 62.9%로 위약군 20.0%보다 유의하게 높았고(p<0.0001), 수의사 평가에서 '우수' 또는 '양호'로 평가된 비율이 61.9%, 소유자 평가는 71.1%였다. 안전성 평가는 임상검진, 혈액학·생화학, 요검사 및 이상반응 보고를 바탕으로 이루어졌고, 초록에서는 otic gel의 안전성이 입증되었다고 보고되었다. 초록에는 추가적인 제한점에 대한 기술은 제시되어 있지 않다.",
+      "title": "A Randomised Placebo-Controlled Study to Evaluate the Efficacy and Safety of a Two-Dose Topical Terbinafine and Betamethasone Gel for the Treatment of Yeast (Malassezia pachydermatis) Otitis Externa in Dogs.",
+      "journal": "Veterinary Dermatology",
+      "generated_at": "2026-08-25T21:47:15.782Z",
+      "model": "gpt-5-mini"
+    },
+    "42638830": {
+      "brief_summary": "이 연구는 슬개건염(patellar tendinitis, PT)과 관련된 절름발이 및 통증을 TPLO(tibial plateau leveling osteotomy) 후 원격 능동 감시(remote active surveillance)로 탐지하는 유용성을 예비적으로 평가했다. 후향적으로 일반 추적(Group 1, N=910)과 원격 능동 감시로 초기 추적 후 문제 시 내원 유도(Group 2, N=195)를 비교했으며 PT 발생률은 Group 1에서 2%(18/910), Group 2에서 6% (12/195)로 보고되었다. 원격 능동 감시의 소유자 추적 순응도는 85%였고, 예비적 결과는 구조화된 원격 추적이 임상적으로 의미 있는 PT를 신뢰성 있게 탐지하는 데 도움이 될 수 있음을 시사한다.",
+      "detailed_summary": "연구는 후향적 평가로 설계되었으며 두 집단을 비교하였다. Group 1(N=910)은 병원에서의 일상적 추적(문진, 신체검사, 방사선 검사)을 받은 군이고, Group 2(N=195)는 초기 추적을 원격 능동 감시로 시행하여 절름발이 또는 소유자 보고 문제 발생 시 동일한 병원 프로토콜로 내원·평가하도록 한 군이다. 평가의 주요 항목은 TPLO 이후 PT의 발생 여부(절름발이 및/또는 통증 관련)였고, 발생률은 Group 1에서 2% (18/910), Group 2에서 6% (12/195)였다. 원격 능동 감시 집단의 소유자 추적 순응도는 85%였으며, 연구진은 원격 능동 감시가 진단 민감도를 유지하면서 수술 후 모니터링을 개선할 수 있다는 예비적 증거를 제시했다. 연구의 한계로는 Group 1에서 PT 환자가 완전히 포착되지 않았을 가능성, 활동 제한 준수에 대한 자료 부재, 두 그룹 간 인구학적 비교의 부재가 명시되어 있다. 결론적으로 본 연구는 원격 능동 감시의 유용성을 시사하나, 이를 검증하기 위한 전향적 연구가 필요하다고 제시한다.",
+      "title": "Remote active surveillance following tibial plateau leveling osteotomy: a preliminary study of patellar tendinitis in dogs.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-08-25T21:47:02.309Z",
+      "model": "gpt-5-mini"
+    },
+    "42638871": {
+      "brief_summary": "본 연구는 자연 감염된 개 100마리를 대상으로 국소 정향유(clove oil)의 안전성과 효능을 평가한 무작위 대조연구이다. 14일 치료 후 고농도군의 종합 감염 지수(CII) 감소율은 93.25%로 가장 높았고, 중간군 85.12%, 양성대조군 84.18%, 저농도군 65.23%로 나타나 D14에서 진드기 수·임상 점수 등에서 군간 유의한 차이(P<0.001)를 보였다. 혈액학적 이상(백혈구 및 글로불린 상승)은 치료 후 정상 범위로 점진적으로 회복되었고, 흰쥐 안전 약리시험에서는 심혈관·호흡기·중추신경계에 명백한 이상이 관찰되지 않아 국소 정향유가 S. scabiei var. canis 감염 개 치료에 안전하고 효과적임을 시사한다.",
+      "detailed_summary": "연구는 자연 감염된 개 100마리를 무작위로 배정하여 7% 정향유 처리군(고·중·저 용량), 양성대조군 및 무처치 대조군으로 나누고 14일간 국소 치료 효과를 비교한 대조시험이다. 주요 평가항목은 진드기 수(mite count), 종합 감염 지수(CII), MDD 점수 및 완치·진드기 무검출률 등 임상 점수와 감소율이었다. D14 시점에서 고농도군의 CII 감소율은 93.25%였고 중간 85.12%, 양성대조 84.18%, 저농도 65.23%로 고농도군이 가장 우수한 효능을 보였으며 진드기 부담·진드기 수·MDD 점수 모두 군간 유의한 차이를 보였다(H(4)=58.381~79.052, P<0.001). 진드기 수 감소와 MDD 점수 감소는 Spearman 상관계수 r_s=0.727(보정 P<0.001)로 강한 양의 상관을 보였고, 임상 증상 완화는 진드기 감소와 밀접히 연결되었다. 치료 전 관찰된 백혈구 및 글로불린 상승과 같은 혈액·생화학적 이상은 정향유 치료 후 점차 정상 범위로 회복되었다. 추가적인 안전성 평가로 수행된 흰쥐 대상 약리시험에서는 국소 투여 시 심혈관·호흡기·중추신경계에 명백한 이상이 관찰되지 않았다. 결론적으로 본 결과는 국소 정향유가 S. scabiei var. canis 자연감염 개에서 안전하고 유효할 수 있음을 시사하며, 추가 연구를 통한 검증이 필요함을 제시한다.",
+      "title": "The safety and efficacy of topical clove oil for the treatment of naturally occurring Sarcoptes scabiei var. canis infestation in dogs.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-08-25T21:46:51.700Z",
+      "model": "gpt-5-mini"
+    },
+    "42638931": {
+      "brief_summary": "본 연구는 보호소 직원 및 자원봉사자를 대상으로 인간-고양이 상호작용(HCI)에 대한 근거 기반 교육 중재의 효과를 평가했다. 실시간 상호작용을 촬영해 고양이 행동 전문가가 '근접하게(closely)', '다소(somewhat)', '전혀(not at all)'의 세 등급으로 블라인드 평가한 결과, CLMM 분석에서 유의한 개선(LR χ2(2)=37.07, p<0.001)이 관찰되었고 ‘근접하게’ 등급 비율이 T1 2%±3%에서 T2 25%±16%(p=0.008), T3 37%±27%(p=0.023)로 증가해 6개월 추적에서도 유지되었다. 임상적 의미는 근거기반 교육이 보호소 현장의 HCI 행동을 긍정적이고 지속적으로 개선할 수 있으며, 채용 후 2년 이내 교육이 더 효과적일 수 있다는 점이다.",
+      "detailed_summary": "전향적 전후 설계로 보호소 직원 및 자원봉사자를 세 시점에서 평가했으며 표본은 T1 n=47, T2 n=47, T3 n=19이었다. 실시간 HCI는 촬영 후 고양이 행동 전문가가 블라인드로 등급화(근접하게/다소/전혀)했고, 참가자는 근거기반 원칙에 따른 태도와 실무 항목을 자기보고해 합성 'attitude' 및 'practice' 점수를 산출했다. 통계적으로 Cumulative Link Mixed Models(CLMM)을 사용한 결과 전반적인 HCI 등급이 유의하게 개선되어 LR χ2(2)=37.07, p<0.001를 보였고, '근접하게' 등급 비율은 T1 2%±3%에서 T2 25%±16%(p=0.008), T3 37%±27%(p=0.023)로 증가하여 6개월 시점에서도 개선이 유지되었다. 중재 전에는 높은 attitude 점수가 더 좋은 실시간 HCI 등급을 예측했으나, 중재 후에는 전체 점수와 등급이 상승하며 이 연관성이 사라져 교육이 참가자 간 차이를 완화한 것으로 해석되었다. 근무 기간이 2년 미만인 직원은 장기 근속자에 비해 중재 이후 더 높은 HCI 등급을 받을 가능성이 거의 두 배였다고 보고되어, 교육 제공 시점(채용 후 기간)이 효과에 영향을 줄 수 있음을 시사한다. 결론적으로 저자들은 근거기반 교육이 보호소 HCI를 지속적으로 개선한다고 보았으나, 6개월 추적 표본(T3 n=19)이 상대적으로 작아 장기 일반화에는 제한이 있을 수 있다는 점이 있다.",
+      "title": "Sustained improvements in human-cat interaction in the shelter sector: a study of a best-practice educational intervention.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-08-25T21:46:17.584Z",
+      "model": "gpt-5-mini"
+    },
+    "42639128": {
+      "brief_summary": "9세, 30kg 암컷 벨지안 셰퍼드 말리노이즈에서 발생한 치명적 구리 관련 간병증(copper-associated hepatopathy, CAH)을 악의적 중독 의심으로 초동 조사하던 중 보고한 증례이다. 부검에서의 출혈성 체액, 비장비대 및 신장 피질의 다수 암색 병변과 함께 간은 취약성을 보였고, 조직학적으로 중심엽 간세포의 다초점성 괴사 및 다량의 갈색 세포내 색소가 관찰되었으며 Rhodanine 염색으로 간에서 구리 침착이 확인되었다. ICP-OES로 측정한 간 구리 농도는 887.4 µg/g(습중량)이고, 가정된 건조물 28%를 적용한 추정 건중량은 약 3176.4 µg/g으로 흔히 인용되는 독성 역치(>1,000 µg/g 건중량)를 초과하여 CAH가 치명적 결과에 기여한 것으로 해석되었다. 이 증례는 간의 육안적 이상이 뚜렷하지 않아도 급사 및 출혈 소견에서 CAH를 감별진단으로 고려해야 함을 시사한다.",
+      "detailed_summary": "증례보고로서 연구 대상은 9세, 30kg 암컷 벨지안 셰퍼드 말리노이즈 개이다. 초기 상황은 급사와 혀 돌출, 혈성 분변으로 악의적 중독 의심 하에 조사되었고, 부검에서 흉막 삼출액 약 55 mL, 복강 삼출액 약 10 mL, 현저한 비장비대 및 신장 표면의 다수 암색 병변이 관찰되었으며 간은 주로 취약성 외에 뚜렷한 육안 병변은 없었다. 조직학에서는 중심엽(centrilobular) 간세포의 다초점에서 합쳐지는 정도의 변성 및 괴사와 다량의 조대 갈색 세포내 색소가 관찰되었고, Rhodanine 염색이 간세포 내 구리 특이적 침착을 확인하였다. 위 내용물·간·신장에 대한 독성학적 스크리닝은 악의적 중독과 관련된 일반적 외인성 독물에 대해 음성이었다. 간 구리의 정량은 유도결합플라즈마 광학방출분광법(ICP-OES)으로 이루어졌고, 결과는 887.4 µg/g(습중량)이었으며 가정된 간 건조물 함량 28%를 적용한 추정 건중량은 약 3176.4 µg/g으로 보고된 독성 역치(>1,000 µg/g 건중량)를 초과하였다(추정값은 직접 측정한 건중량이 아님). 저자들은 조직 소견, 구리 특이 염색, 정량 결과를 종합하여 CAH가 치명적 결과에 기여한 것으로 해석하였으며, 이 증례는 수의 법의학적 검사에서 부검·조직병리·구리 특수염색·독성학적 스크리닝 및 정량분석의 통합적 접근의 중요성을 강조한다. 단, 단일 증례보고로 일반화할 수 없음을 명시하고 있다.",
+      "title": "Case Report: Fatal copper-associated hepatopathy in a Belgian Shepherd Malinois dog initially investigated as suspected malicious poisoning.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-08-25T21:45:50.857Z",
+      "model": "gpt-5-mini"
+    },
+    "42641070": {
+      "brief_summary": "만성 구내염(Feline chronic gingivostomatitis, FCGS)을 가진 고양이(증례 n=34)와 건강 대조군(n=18)을 대상으로 혈청 펩티드체를 분석하여 전신적 바이오마커와 신호 허브를 규명하려는 연구이다. MALDI-TOF MS와 nano LC-MS/MS로 FCGS와 대조군을 구분하는 특징적 단백질 서명이 확인되었고, 총 15개 단백질이 유의하게 변화(13개 증가, 2개 감소; 증가된 항염증 표지자에는 IL-6와 IFN-γ 포함, 감소는 가스트린과 IL-18)하였다. 네트워크 분석은 p21(CDKN1A), CASP1, IL-6 등을 포함한 8개 핵심 단백질과 약물 상호작용을 밝혔고, 전반적으로 JAK-STAT 및 PI3K-Akt 경로의 전신적 이상을 시사하여 잠재적 치료 표적과 질병 모니터링 기반을 제공한다.",
+      "detailed_summary": "이 연구는 사례-대조 횡단 연구로, 임상 및 조직학적으로 확인된 FCGS 고양이 34마리와 건강 대조 18마리를 대상으로 수행되었고, 모든 대상은 FeLV, FIV, 심장사상충 감염 검사를 시행하였다. 혈청을 MALDI-TOF MS로 펩타이드 질량 지문을 얻고, nano LC-MS/MS로 상세 펩티드/단백질 동정을 진행하였다. 두 분석법에서 FCGS와 대조군을 구분하는 특징적 전신 단백질 서명이 확인되었고, 총 15개 단백질이 유의하게 변화하여 13개는 증가하고 2개(가스트린, IL-18)는 감소하였다. 증가한 단백질들에는 염증 관련 표지자 IL-6와 인터페론-γ(IFN-γ)가 포함되었고, 단백질-단백질/화학물질 상호작용 네트워크 분석은 p21(CDKN1A), CASP1, IL-6 등 8개 핵심 단백질이 FCGS 약물처치와 상호작용함을 나타냈다. 기능적 경로 분석(Kyoto Encyclopedia of Genes and Genomes 등)은 전신적으로 JAK-STAT 및 PI3K-Akt 신호전달 경로의 이상을 강조하였으며, 저자들은 이를 잠재적 치료 표적 및 분자 병리 모니터링의 근거로 제시하였다. MALDI-TOF MS는 신속한 전신 프로파일링에 유용하고 nano LC-MS/MS는 핵심 이상 경로를 규명하는 데 기여했으나, 초록에는 별도의 제한점이 명시되어 있지 않다.",
+      "title": "Serum peptidomic profiling identifies systemic JAK-STAT and PI3K-Akt pathway dysregulation in cats with chronic gingivostomatitis.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-08-25T21:45:32.847Z",
+      "model": "gpt-5-mini"
+    },
+    "42641071": {
+      "brief_summary": "후향적 다기관 연구로 중증 신경학적 이상을 보이는 86마리의 수화된 수핵 탈출증(HNPE) 개를 대상으로 보존적 치료와 수술적 치료를 비교했다. 만족스러운 결과(자발적 배뇨 회복 및 독립 보행)는 보존적 85%, 수술적 100%였고 중앙값 회복 시간은 보존적 7일, 수술적 9일이었다. 초기 1주차에는 보존적군의 신경학적 상태가 더 양호했으나 이후 추적에서는 차이가 없었다. 저자들은 보존적 치료가 비보행성 개에서 유효한 선택지임을 제시하며, 신호종(품종)과 MRI 소견을 치료 선택에 반영할 것을 권고한다.",
+      "detailed_summary": "연구는 후향적 다기관 연구로, 가정된 MRI(자기공명영상) 진단의 HNPE로 비보행성 파레틱 또는 플레직(감각 보존 또는 상실) 상태인 86마리의 개를 포함하였다. 기록된 항목은 연령·품종 등 신상정보, 신경학적 등급·병소 국소화, MRI 소견 및 치료법이며, 평가는 1주, 4주, 6개월 시점에 수행되었다. 만족스러운 결과는 자발적 배뇨 회복과 독립 보행의 회복으로 정의되었다. 치료군은 보존적 60마리, 수술적 26마리였고, 병변 부위는 경추 71마리(83%), 흉요추 15마리(17%)였다; 초기 상태는 비보행성 파레틱 62마리, 플레직(감각 보존) 22마리, 플레직(감각 소실) 2마리였다. 주요 결과로 1주차에는 보존적군의 신경학적 상태가 더 양호했으나 이후 시점에서는 군 간 차이가 없었고, 만족스러운 결과는 보존적 85% 대 수술적 100%였으며 중앙값 회복 시간은 각각 7일과 9일이었다. 회복 기간과 연관된 인자로는 비연골퇴화성(non-chondrodystrophic) 품종, MRI에서의 척수 내 T2 고신호 및 물리치료(physical therapy)가 더 긴 회복과 연관되었다. 결론은 보존적 치료가 비보행성 HNPE 개에서 유효한 선택임을 시사하나 연구는 후향적 설계 및 '가정된' MRI 진단이라는 점을 한계로 제시하고 있어 신중한 해석이 필요하다.",
+      "title": "Acute hydrated nucleus pulposus extrusion in dogs with severe neurologic status: comparison between conservative and surgical treatment.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-08-25T21:45:18.928Z",
       "model": "gpt-5-mini"
     }
   }

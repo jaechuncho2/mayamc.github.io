@@ -1,6 +1,166 @@
 {
-  "updated_at": "2026-08-24T21:45:03.335Z",
+  "updated_at": "2026-08-25T21:45:00.943Z",
   "papers": [
+    {
+      "pmid": "42641071",
+      "title": "Acute hydrated nucleus pulposus extrusion in dogs with severe neurologic status: comparison between conservative and surgical treatment.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Di Tosto M, Toni C, Contiero B, Cozzi F, Marioni-Henry K, Menchetti M, Betti B, Tirrito F",
+      "date": "2026 08 25",
+      "dateObject": "2026 08 25",
+      "abstract": "Hydrated nucleus pulposus extrusion (HNPE) is associated with favorable outcome after conservative or surgical treatment. However, optimal management for dogs with severe neurologic deficits remains unclear. Compare conservative vs surgical treatment in nonambulatory paretic or plegic dogs with HNPE, focusing on recovery of unassisted ambulation and voluntary urination, and identify prognostic factors. Eighty-six dogs with severe neurologic impairment and a presumptive magnetic resonance imaging (MRI) diagnosis of HNPE. Retrospective multicenter study. Signalment, neurologic grade, neurolocalization, MRI findings, and treatment were recorded. Outcome was assessed at 1 week, 4 weeks, and 6 months. Satisfactory outcome was defined as recovery of voluntary urination and independent ambulation. Recovery time was defined as days to regain unassisted ambulation. Sixty dogs were treated conservatively and 26 surgically. Hydrated nucleus pulposus extrusion was cervical in 71/86 (83%) dogs and thoracolumbar in 15/86 (17%). At presentation, 62/86 (72%) dogs were nonambulatory paretic, 22/86 (26%) were plegic with intact nociception, and 2/86 (2%) were plegic without nociception. At 1 week, neurologic status was better in the conservative group than in the surgical group, whereas no differences were observed at later follow-up. Satisfactory outcome was achieved in 85% of conservatively treated and 100% of surgically treated dogs. Median recovery time was 7 days with conservative treatment and 9 days with surgery. Non-chondrodystrophic breed, MRI intramedullary T2-weighted hyperintensity, and physical therapy were associated with longer recovery. Conservative treatment represents a valid option for nonambulatory dogs with HNPE. Signalment and MRI features should guide treatment selection.",
+      "categories": [
+        "surgery",
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "42641070",
+      "title": "Serum peptidomic profiling identifies systemic JAK-STAT and PI3K-Akt pathway dysregulation in cats with chronic gingivostomatitis.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Ploypetch S, Pornthummawat A, Aruvornlop P, Roytrakul S, Jaresitthikunchai J, Phaonakrop N, Buamas S, Sukho P",
+      "date": "2026 08 25",
+      "dateObject": "2026 08 25",
+      "abstract": "Chronic gingivostomatitis in cats is a debilitating inflammatory disease marked by severe oral pain and systemic immune dysregulation. Although localized oral pathology is well-documented, the systemic peptidomic profile remains largely unclear. Characterize the serum peptidomic profiles of cats with feline chronic gingivostomatitis (FCGS) and identify systemic biomarkers and signaling hubs that drive disease pathogenesis and therapeutic interactions. Client-owned cats with clinically and histopathologically confirmed FCGS (n&#xa0;=&#xa0;34) and healthy controls (n&#xa0;=&#xa0;18). A case-control, cross-sectional study was conducted. All cats were screened for feline leukemia virus, feline immunodeficiency virus, and feline heartworm infections. Serum samples were analyzed using matrix-assisted laser desorption/ionization-time-of-flight mass spectrometry (MALDI-TOF MS) to produce peptide mass fingerprints. Detailed peptide identification was conducted using nanoscale liquid chromatography-tandem mass spectrometry (nano LC-MS/MS). Functional enrichment and protein-protein/chemical interaction networks were developed using ShinyGO and the Kyoto Encyclopedia of Genes and Genomes database. Both MALDI-TOF MS and nano LC-MS/MS identified distinct systemic protein signatures that distinguished FCGS from controls. Fifteen proteins showed significant changes, with 13 increased (including inflammatory markers such as interleukin (IL)-6 and interferon-&#x3b3;) and 2 decreased (gastrin, IL-18). Network analysis identified 8 key proteins (eg, p21(CDKN1A), CASP1, IL-6) that interact with FCGS drug treatments. These systemic changes focus on the Janus kinase-signal transducers and activators of transcription (JAK-STAT) and phosphatidylinositol 3-kinase (PI3K)/protein kinase B (AKT; PI3K-Akt) pathways, which are important therapeutic targets. Our study provides a molecular framework for FCGS. Whereas MALDI-TOF MS enables rapid systemic profiling, nano LC-MS/MS identifies key dysregulated pathways, specifically IL-6/JAK-STAT and PI3K-Akt. These findings offer potential therapeutic targets and a basis for monitoring molecular pathology in affected cats.",
+      "categories": [
+        "internalMedicine",
+        "oncology"
+      ]
+    },
+    {
+      "pmid": "42639128",
+      "title": "Case Report: Fatal copper-associated hepatopathy in a Belgian Shepherd Malinois dog initially investigated as suspected malicious poisoning.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Kim AY, Jang M, Baek JS, Ku BK, Lee K",
+      "date": "2026 08 25",
+      "dateObject": "2026 08 25",
+      "abstract": "Copper-associated hepatopathy (CAH) is a recognized cause of severe liver injury and acute hepatic decompensation in dogs and may present as chronic hepatitis, cirrhosis, or peracute death. This report describes a fatal case of CAH in a 9-year-old, 30-kg female Belgian Shepherd Malinois dog that was initially investigated as suspected malicious poisoning because of sudden death, tongue protrusion, and bloody feces at the scene. At forensic necropsy, approximately 55&#x202f;mL of blood-tinged pleural effusion and 10&#x202f;mL of blood-tinged ascitic fluid were present, the spleen was markedly enlarged, and both kidneys showed multiple dark cortical foci, whereas the liver lacked striking gross abnormalities apart from increased fragility. Histologically, the liver showed multifocal to coalescing hepatocellular degeneration and necrosis with abundant coarse brown intracytoplasmic pigment, raising suspicion of copper accumulation. Rhodanine staining confirmed copper-associated pigment within centrilobular hepatocytes, and toxicologic screening of stomach contents, liver, and kidneys was negative for common exogenous toxicants relevant to malicious poisoning. Quantitative analysis by inductively coupled plasma optical emission spectrometry (ICP-OES) yielded a hepatic copper concentration of 887.4&#x202f;&#x3bc;g/g wet weight, corresponding to approximately 3176.4&#x202f;&#x3bc;g/g on a dry-matter basis (estimated, not directly measured) when an assumed hepatic dry-matter content of 28% is applied. This estimated dry-weight concentration exceeds the commonly cited toxic threshold of >1,000&#x202f;&#x3bc;g/g dry weight and, considered together with the histologic lesions and copper-specific staining, was interpreted as supportive evidence of copper-associated hepatopathy contributing to the fatal outcome. This case highlights CAH as an important differential diagnosis in dogs that die suddenly with hemorrhagic findings, even when the liver is grossly unremarkable and the initial forensic suspicion is malicious poisoning. It also emphasizes the diagnostic value of integrating necropsy, histopathology, copper-specific histochemistry, toxicologic screening, and quantitative copper analysis in veterinary forensic investigations.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42638931",
+      "title": "Sustained improvements in human-cat interaction in the shelter sector: a study of a best-practice educational intervention.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Hatam EV, Barcelos AM, Waterman J, Bhatia A, Finka L",
+      "date": "2026 08 25",
+      "dateObject": "2026 08 25",
+      "abstract": "Human-cat interaction (HCI) in rescue settings is often inconsistent, driven by individual caregiver beliefs rather than standardised evidence-based practice. This study evaluates the efficacy of an educational intervention for shelter workers, incorporating evidence based HCI principles designed to promote cat comfort and reduce the risk of cat human-directed aggression. A pre-post study followed employees and volunteers across three timepoints: a pre-intervention baseline (T1, n &#x202f;=&#x202f;47), 2&#x202f;weeks post-intervention (T2, n &#x202f;=&#x202f;47), and a six-month follow-up (T3, n &#x202f;=&#x202f;19). To assess intervention efficacy, participants' real-time HCI were filmed at each time point and blind-rated by cat behaviour experts based on the degree to which participants' cat directed behaviour aligned with evidence based best practice HCI principles (either 'closely', 'somewhat' or 'not at all' aligned). Participants also completed self-reported attitude and practice questionnaires that were similarly designed to assess alignment with best practice HCI principles and approaches. Composite 'attitude' and 'practice' scores were generated with higher scores reflecting greater alignment with best practice HCI principles. Cumulative Link Mixed Models (CLMM) revealed very strong evidence that participants real-time HCI ratings improved post-intervention [LR &#x3c7; 2 (2)&#x202f;=&#x202f;37.07, p &#x202f;<&#x202f;0.001], with these gains remaining stable at the six-month follow-up. Specifically, the probability of receiving a \"closely aligned\" HCI rating increased from 2% (&#xb1;3%) at T1 to 25% (&#xb1;16%) at T2 ( p &#x202f;=&#x202f;0.008), rising further to 37% (&#xb1;27%) at T3 ( p &#x202f;=&#x202f;0.023). At baseline prior to training, higher participant attitude scores were significantly predictive of higher real-time HCI ratings. This association disappeared post-intervention as both HCI ratings and attitude scores increased across the population, effectively reducing score variance and suggesting the training \"levelled the playing field\" across participants regardless of their starting beliefs. Staff with shorter service lengths (under 2&#x202f;years) were nearly twice as likely to achieve higher HCI ratings post intervention compared to longer serving staff members, suggesting training may be more effective when delivered within shorter post-recruitment windows. The educational intervention was effective in promoting positive and sustainable improvements in participant's HCI, highlighting the benefits of evidence-based training delivered to shelter workers.",
+      "categories": []
+    },
+    {
+      "pmid": "42638871",
+      "title": "The safety and efficacy of topical clove oil for the treatment of naturally occurring Sarcoptes scabiei var. canis infestation in dogs.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Hu H, Dai L, Ma Y, Yu X, Yang X, Miao X, Zhang J, Shang X",
+      "date": "2026 08 25",
+      "dateObject": "2026 08 25",
+      "abstract": "Canine sarcoptic mange is a highly contagious parasitic skin disease of dogs. On the basis of previous in vitro investigations confirming the acaricidal activity of clove oil, this study evaluated the safety and efficacy of topical clove oil for the treatment of dogs naturally infested with Sarcoptes scabiei var. canis . A total of 100 naturally infected dogs were randomly assigned to 7% clove oil-treated groups, a positive control group, and an untreated control group. Therapeutic efficacy was assessed using mite counts, reduction rates, and clinical scores. Following a 14&#x2011;day treatment, the decline in the comprehensive infection index reached 93.25% (high dose), 85.12% (medium dose), 84.18% (positive control), and 65.23% (low dose). At D14, significant between-group differences were observed in mite-burden score (H(4) = 58.381, P &#x202f;<&#x202f;0.001), mite count (H(4) = 76.161, P &#x202f;<&#x202f;0.001), and MDD score (H(4) = 72.487, P &#x202f;<&#x202f;0.001). Mite-free rate, complete MDD resolution rate, and cure rate also differed significantly among groups (all P &#x202f;<&#x202f;0.001), with the high-dose group showing the greatest efficacy. The exploratory CII reduction rate likewise differed significantly among groups (H(4) = 79.052, P &#x202f;<&#x202f;0.001). Reductions in mite count and MDD score were positively correlated (Spearman's r s &#x202f;=&#x202f;0.727, adjusted P &#x202f;<&#x202f;0.001). Notably, mite reduction was tightly linked to the alleviation of dermatitis symptoms. Hematological and biochemical abnormalities observed before treatment, including elevated white blood cell and globulin levels, gradually returned toward normal ranges following clove oil therapy. Safety pharmacology studies in rats demonstrated that topical administration of clove oil at the different doses caused no apparent adverse effects on the cardiovascular, respiratory, or central nervous systems. These results indicate that topical clove oil is a safe and effective treatment for dogs naturally infested with S. scabiei var. canis and supports its potential for further investigation.",
+      "categories": [
+        "cardiology",
+        "internalMedicine",
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42638830",
+      "title": "Remote active surveillance following tibial plateau leveling osteotomy: a preliminary study of patellar tendinitis in dogs.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Matiasovic M, Hill PJ, Bright SR, Condon AM, Keeley BJ, Bayer K",
+      "date": "2026 08 25",
+      "dateObject": "2026 08 25",
+      "abstract": "Traditional follow-up methods in small animal orthopedic surgery are primarily passive. These methods have been shown to result in only moderate owner adherence, and their value has been questioned in recent years. In human medicine, active surveillance has been demonstrated to consistently outperform passive methods in detecting adverse events. Our goal was to obtain preliminary data on the utility of active surveillance after tibial plateau leveling osteotomy (TPLO) for detecting patellar tendinitis (PT) associated with lameness and/or pain in dogs. Two groups of dogs were retrospectively evaluated for the occurrence of PT. Group 1 ( N &#x202f;=&#x202f;910) consisted of a review of data from dogs that underwent routine TPLO follow-up visits, which included history taking, examination, and radiographic assessment. Follow-up for dogs in Group 2 ( N &#x202f;=&#x202f;195) was initially performed remotely through active surveillance. Dogs with lameness and/or owner-reported problems were invited for a physical evaluation, which was conducted using the same protocol as in Group 1. The incidence of PT was 2% (18/910) in Group 1 and 6% (12/195) in Group 2. Owner adherence to follow-up with active surveillance was 85%. Preliminary evidence suggests that remote active surveillance after TPLO may enable reliable detection of clinically relevant PT in dogs. Incorporating structured remote follow-up could improve postoperative monitoring while maintaining diagnostic sensitivity. The limitations of this study include the potential incomplete capture of PT cases in Group 1, the absence of data on activity restriction compliance, and the lack of a demographic comparison between the groups. Further prospective studies are needed to validate this novel approach.",
+      "categories": [
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42638346",
+      "title": "A Randomised Placebo-Controlled Study to Evaluate the Efficacy and Safety of a Two-Dose Topical Terbinafine and Betamethasone Gel for the Treatment of Yeast (Malassezia pachydermatis) Otitis Externa in Dogs.",
+      "journal": "Veterinary Dermatology",
+      "authors": "Baks ZZ, Heinz HB, Grundke S, Thompson C, Garcia R",
+      "date": "2026 08 25",
+      "dateObject": "2026 08 25",
+      "abstract": "Otitis externa (OE) with Malassezia pachydermatis overgrowth with limited bacterial involvement is common in dogs. Treatment with products containing antibiotics is unnecessary and not consistent with judicious use of antimicrobials. To evaluate the efficacy and safety of an otic gel containing 1% terbinafine and 0.1% betamethasone acetate for the treatment of yeast-predominant canine OE. 239 privately owned dogs were enrolled. Inclusion criteria were an otitis index score (OTIS3) of &#x2265;&#x2009;6 and yeast-predominance on ear swab cytological evaluation. Dogs received either the study product containing terbinafine and betamethasone (TBG) or placebo (saline) on Day (D) 0 and D7. Follow-up visits were on D7, D14, D28 and D45. Clinical success was defined as an OTIS3 score &#x2264;&#x2009;3 on D45. Overall clinical response (by the veterinary surgeon and owner) and yeast cytological count reduction also were assessed. Safety was evaluated based on clinical assessments, haematological and clinical chemical analysis, urinalysis and adverse events. The treatment success was significantly higher in the treated group compared to the placebo group (62.9% versus 20.0%, p&#x2009;<&#x2009;0.0001). Dogs receiving TBG had a treatment response described as 'excellent' or 'good' by 61.9% and 71.1% of veterinary surgeons and owners, respectively. The safety evaluation demonstrated that the otic gel was safe. Efficacy and safety of an otic gel for the treatment of canine OE associated with Malassezia pachydermatis were demonstrated.",
+      "categories": [
+        "internalMedicine",
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42636475",
+      "title": "Prognosis and associated risk factors after conservative management of dogs with liver tumors.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Coffey SR, Weisse CWC, Ferrari JT, DeJesus AA, King AP, Chua JA",
+      "date": "2026 08 24",
+      "dateObject": "2026 08 24",
+      "abstract": "Information is limited regarding prognosis for conservatively managed hepatic tumors in dogs. Report prognosis and identify prognostic factors in dogs with conservatively managed hepatic tumors. Client-owned dogs (n&#xa0;=&#xa0;49) with hepatic tumors characterized by computed tomography (CT) without directed treatment that had died or were euthanized by the time of analysis. Retrospective, single institutional study utilizing the Schwarzman Animal Medical Center medical record system to identify all dogs from 2013 to 2023 that met the inclusion criteria. Data collected included signalment, presenting complaints, blood test results, diagnosis, tumor imaging characteristics, and date of death. Median survival time from date of diagnosis was 313&#xa0;days (range, 2-1308). Dogs with a presenting complaint of weight loss (P&#xa0;=&#xa0;.03) had a significantly shorter median survival time (128&#xa0;days) than those without weight loss (341&#xa0;days). Dogs presented with abdominal effusion (P&#xa0;=&#xa0;.03) had a significantly shorter median survival time (227&#xa0;days) than dogs without effusion (331.5&#xa0;days). Dogs with multiple hepatic masses (P&#xa0;=&#xa0;.004) had a significantly shorter median survival time (209.5&#xa0;days) than dogs with a solitary mass (346&#xa0;days). Higher aspartate aminotransferase (AST) activity and lower hematocrit (Hct) within 30&#xa0;days of CT were associated with shorter median survival times (P&#xa0;=&#xa0;.02 and P&#xa0;=&#xa0;.01, respectively). Tumor volume/body weight ratio was not significantly related to survival time (P&#xa0;=&#xa0;.8). Poor prognostic factors for dogs with hepatic tumors include weight loss, abdominal effusion, multiple hepatic masses, increased AST activity, and low Hct.",
+      "categories": [
+        "internalMedicine",
+        "oncology"
+      ]
+    },
+    {
+      "pmid": "42636345",
+      "title": "Fluoroscopic characterization of pectus excavatum in dogs: a cross-sectional study.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Kwon M, Park N, Choi Y, Choi J, Yoon J",
+      "date": "2026 08 24",
+      "dateObject": "2026 08 24",
+      "abstract": "The dynamic respiratory abnormalities in dogs with pectus excavatum are incompletely characterized. To characterize fluoroscopic findings in dogs with pectus excavatum and evaluate their associations with clinical severity. Fifty-three client-owned dogs with pectus excavatum. Cross-sectional study. Dogs were classified into low-severity or high-severity groups based on respiratory signs and treatment. Fluoroscopic examinations were evaluated for pectus excavatum-intrinsic findings and concurrent respiratory abnormalities. Associations with clinical severity were assessed using univariable and multivariable analyses. Multiple fluoroscopic findings of pectus excavatum were characterized. Paradoxical sternal movement was independently associated with clinical severity (odds ratio [OR] 3.71, 95% CI, 1.03-13.4; P&#xa0;=&#xa0;.045). Thoracic height reduction ratio was significantly higher in the high-severity group (0.140 [IQR, 0.100-0.228]) compared with the low-severity group (0.097 [IQR, 0.064-0.133]; P&#xa0;=&#xa0;.04). Mainstem bronchial collapse was present in all dogs (53/53, 100%) and cervical lung lobe herniation in 50/53 (94%; 95% CI, 84%-99%). Most other fluoroscopic variables showed no significant associations with clinical severity. Paradoxical sternal movement, particularly with greater thoracic height reduction, may serve as a supportive indicator of clinical severity. The high prevalence of bronchial collapse and cervical lung lobe herniation suggests an association between pectus excavatum and these airway abnormalities in dogs.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42636344",
+      "title": "Assessment of CD3+ T cell density in the intestinal mucosa of dogs with inflammatory bowel disease.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Bouillet G, M&#xe9;ric T, Gonel G, Darnis E, Mendoza B, Leal RO, Galmes MR, Bertolani C, Ruiz MD, Toulza O, Hugonnard M, Duperrier-Simond C, S&#xe9;n&#xe9;cat O, Drut A, Rhimi M, Barrot AC, Larcher T, Hernandez J",
+      "date": "2026 08 24",
+      "dateObject": "2026 08 24",
+      "abstract": "T lymphocytes play a central role in the intestinal immune response in dogs with immunomodulator-responsive enteropathy (IRE), but the clinical relevance of mucosal T-cell infiltration remains unclear. Compare mucosal CD3+ T-cell density between dogs with IRE and healthy comparison dogs across intestinal segments, and assess associations with clinical, biochemical, and histologic severity markers. Forty-two client-owned dogs with IRE and 12 healthy research dogs. Retrospective multicenter study. Archived endoscopic biopsy samples from the duodenum, ileum, and colon were evaluated using the Simplified Histopathological Scoring System. Immunohistochemistry for CD3 was quantified by digital image analysis (QuPath) and expressed as relative CD3+ density (RCD3). Group comparisons, receiver operating characteristic curve analyses, mixed linear models, and correlation analyses were performed. Relative CD3+ density was significantly higher in dogs with IRE than in comparison dogs in the duodenum (median, 6.34% vs 1.42%; P&#xa0;=&#xa0;.03), ileum (9.79% vs 0.85%; P&#xa0;<&#xa0;.001), and colon (3.88% vs 1.32%; P&#xa0;=&#xa0;.002). The area under the curve values were 0.833, 0.896, and 0.811, respectively. The RCD3 was not correlated with clinical indices, serum albumin concentration, or histologic scores, but ileal histologic score was negatively correlated with RCD3 (&#x3c1;&#xa0;=&#xa0;-0.37; P&#xa0;=&#xa0;.04). Mucosal CD3+ T-cell density is increased in dogs with IRE but is not associated with clinical or overall histologic disease severity. Quantification of CD3+ should not be used as a solitary monitoring tool but may contribute to immunophenotyping. Chronic inflammatory bowel disease is a common cause of long-lasting digestive problems in dogs. The immune system is thought to play an important role in this disease, but it is still unclear whether the number of immune cells present in the intestine reflects how severe the disease is. This study measured a specific type of immune cell, called T lymphocytes, in intestinal biopsy samples from dogs with inflammatory bowel disease and compared the results with those from healthy dogs. Computer-assisted image analysis was used to obtain objective and reproducible measurements. Dogs with inflammatory bowel disease had a greater number of these immune cells in the lining of the small and large intestine than healthy dogs. However, the number of immune cells was not related to the severity of clinical signs, blood protein concentrations, or the overall severity of tissue damage seen under the microscope. These findings suggest that counting T lymphocytes alone is unlikely to be useful for monitoring disease severity or treatment response. Instead, this measurement may help improve the biological classification of chronic inflammatory bowel disease and contribute to a better understanding of the different forms of this condition.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42636343",
+      "title": "Successful immunosuppressive treatment of hypersensitivity pneumonitis secondary to lycoperdonosis in a dog.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Navarro I, Vient&#xf3;s-Plotts A, Masseau I, Farrell E, Royal A, Reinero CR",
+      "date": "2026 08 24",
+      "dateObject": "2026 08 24",
+      "abstract": "A 7-year-old neutered male Cocker Spaniel with unrestricted access to rural land presented for progressive lethargy, tachypnea, and cough. Thoracic radiographs showed an unstructured interstitial pattern. Fine-needle aspirate (FNA) lung cytology identified pyogranulomatous inflammation with intralesional mushroom spores. Acute hypersensitivity pneumonitis (HP) was suspected, and treatment was initiated with oxygen supplementation and an immunosuppressive dosage of corticosteroid. Thoracic computed tomography (CT) and bronchoalveolar lavage (BAL) were performed on day 6, month 2, and year 1 to track therapeutic response and assess architectural changes. Clinical signs guided prednisone tapering and discontinuation. One year later, thoracic CT and BAL confirmed re-exposure to mushroom spores with mild persistent inflammation and CT changes suggestive of mixed parenchymal and small airway disease despite absent clinical signs. This case report emphasizes the importance of rapid identification of pulmonary mushroom spores for prompt immunosuppressive treatment. Unlike prior reports of lycoperdonosis with acute, fulminating, and generally fatal outcomes, this dog developed chronic HP.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42636342",
+      "title": "Prolonged survival of 3 dogs with Prototheca bovis infection treated with posaconazole.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Langner KFA, Higgins A, Roser M, Bunn TA, Lam A, Proskurnicka A, Jagielski T, Malik R",
+      "date": "2026 08 24",
+      "dateObject": "2026 08 24",
+      "abstract": "Primary enteric or disseminated infections with Prototheca bovis in dogs typically are associated with short survival times despite treatment. We describe the extended clinical course of 3 dogs diagnosed with enteric P. bovis infection treated with antifungal therapy incorporating posaconazole. One dog was alive 45&#xa0;months after starting treatment, exhibiting only mild, intermittent diarrhea and no detectable algae on rectal cytology. This dog also received SC amphotericin B (AMB) infusions during the first month after diagnosis. The second dog, managed exclusively with posaconazole, was alive after 39&#xa0;months with moderate mixed-bowel diarrhea and ongoing P. bovis shedding but without clinical signs of dissemination. The third dog survived 21&#xa0;months before death because of central nervous system dissemination; additional treatments included itraconazole, AMB, terbinafine, and immunotherapy using an autologous vaccine. Posaconazole was well tolerated in all dogs and can be considered a therapeutic option for dogs with enteric protothecosis.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42636340",
+      "title": "Bartonella vinsonii subsp. berkhoffii genotype III in a dog with recurrent fever and panniculitis coinfected with Babesia odocoilei-like sp.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Daravigka A, Soubasis N, Ygeionomakis P, Mylonakis ME, Saridomichelakis MN, Farmaki R, Konstantinidis AO, Civello A, Bourdekas P, Pardali D, Kingston E, Maggi RG, Breitschwerdt EB",
+      "date": "2026 08 24",
+      "dateObject": "2026 08 24",
+      "abstract": "A 2-year-old, spayed female, mixed breed dog presented for evaluation of recurrent febrile episodes over 5 months, intermittently accompanied by the development of SC nodules. Histopathologic examination of the SC lesions was indicative of panniculitis. Bartonella vinsonii subsp. berkhoffii genotype III DNA was amplified and sequenced from an excised SC nodule. Indirect immunofluorescence antibody titer was 1:64, whereas Bartonella blood PCR was negative. Babesia odocoilei-like species DNA was amplified and sequenced from 2 blood samples obtained 77&#xa0;days apart at the time of febrile episodes. Treatment with doxycycline, enrofloxacin, and azithromycin for 6 months resulted in a favorable clinical outcome. Fifteen months later, the dog remained healthy. This case indicates that relapsing fever and panniculitis are possible manifestations of B vinsonii subsp. berkhoffii genotype III infection in dogs. To the best of the authors' knowledge, infection with a B odocoilei-like species has not been reported previously in dogs from Greece.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
     {
       "pmid": "42633780",
       "title": "Postoperative rotational instability after tibial plateau-leveling osteotomy is associated with acute cranial cruciate ligament rupture and meniscal injury.",
@@ -673,18 +833,6 @@
       ]
     },
     {
-      "pmid": "42591100",
-      "title": "Xuebijing alleviates acute hydrogen sulfide-induced pyroptosis in rat spleen via suppression of the caspase-1/NLRP3 pathway.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Ding L, Han Y, Chen Y, Zou H, Ma Y, Tong X, Song R, Liu Z, Zhao H",
-      "date": "2026 08 13",
-      "dateObject": "2026 08 13",
-      "abstract": "Hydrogen sulfide (H 2 S) is a pervasive environmental toxicant with well-established immunotoxic effects. However, its action on lymphoid organs-particularly whether it triggers splenic pyroptosis-remains elusive. This study explored the effect of acute H 2 S exposure on rat spleen and the therapeutic potential of Xuebijing (XBJ), a traditional Chinese medicine for sepsis. Rats were exposed to 300 ppm H 2 S for 3 h, with or without 7-day XBJ pretreatment (4 mg/kg, i.p.). Splenic injury was evaluated by histopathology, ultrastructure, oxidative stress parameters, immunofluorescence, and immunoblotting. H 2 S exposure alone caused marked splenic damage, evidenced by increased organ coefficient, disrupted tissue architecture, mitochondrial swelling, and redox imbalance [depleted glutathione (GSH), superoxide dismutase (SOD), catalase (CAT); elevated malondialdehyde (MDA)]. Mechanistically, H 2 S activated the NF-&#x3ba;B/NLRP3/caspase-1 axis, upregulating NLRP3, ASC, cleaved caspase-1, and GSDMD-N, along with elevated interleukin-1&#x3b2; (IL-1&#x3b2;) and interleukin-18 (IL-18). XBJ pretreatment reversed these alterations, suppressing NF-&#x3ba;B phosphorylation, inflammasome assembly, and pyroptotic cell death. These findings demonstrate that H 2 S induces splenic pyroptosis via the NF-&#x3ba;B/NLRP3/caspase-1 pathway, and that XBJ confers protection by interrupting this cascade, offering a mechanism-based candidate for the treatment of acute H 2 S poisoning.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
       "pmid": "42410596",
       "title": "Correction: Descriptive comparative morphology of the eye and ocular adnexa in Felidae: observations from a clouded leopard (Neofelis nebulosa), African lion (Panthera leo), and Pallas's cat (Otocolobus manul).",
       "journal": "BMC Veterinary Research",
@@ -773,41 +921,6 @@
       "abstract": "Spontaneous subperiosteal vertebral hemorrhages (SSVHs) are rarely documented in veterinary literature, with only a few cases reported in dogs. Describe the clinical presentation, imaging findings, and outcome of presumptive cervical SSVHs in dogs and perform a prospective cadaveric study describing the morphology of lesions. Nine greyhounds presented with acute onset of cervical myelopathy. Multicenter descriptive study. The databases were searched for dogs that underwent magnetic resonance imaging (MRI), computed tomography (CT), or both of cervical vertebral column with SSVH as the main or differential diagnosis. Nine middle-aged greyhounds met the inclusion criteria. On MRI, all lesions were at third cervical vertebra or fourth cervical vertebra or both vertebral bodies. Most were bilateral, symmetrical, and ventrolaterally located, causing spinal cord compression. Lesions showed homogeneous T2W hyperintense and T1W isointense to hyperintense signal relative to gray matter; they were non-contrast-enhancing and exhibited a peripheral rim of susceptibility artifact on T2*W images. On CT images, extradural lesions were homogeneously hyperattenuating (60-80 Hounsfield Units). All dogs had an acute onset of clinical signs and were treated medically. Clinical improvement was observed in all cases, and all nonambulatory dogs became ambulatory within 9&#xa0;days. Clinical signs did not recur during the follow-up period (median, 254&#xa0;days; range, 5-1217&#xa0;days). Spontaneous subperiosteal vertebral hemorrhage should be included in the differential diagnosis of acute onset cervical myelopathy in greyhounds. Imaging characteristics can aid in differentiating subperiosteal hemorrhage from other extramedullary or extradural lesions. The prognosis is excellent despite the severity of neurologic impairment at presentation.",
       "categories": [
         "neurology"
-      ]
-    },
-    {
-      "pmid": "42583395",
-      "title": "Correction: Radiographic and cone-beam computed tomography characterization of Chevron lucency in 82 clinically healthy maxillary canine teeth of dogs: a retrospective descriptive study.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Villamizar-Martinez LA, Qu Y, Villegas Lobos CM, Lopes-Kubitza FM",
-      "date": "2026 08 12",
-      "dateObject": "2026 08 12",
-      "abstract": "[This corrects the article DOI: 10.3389/fvets.2026.1876288.].",
-      "categories": []
-    },
-    {
-      "pmid": "42582328",
-      "title": "Treatment of canine otitis externa: a randomized, double-blinded, clinical field study comparing the hydrocortisone aceponate monotherapy to a multi-agent reference product.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Kuwahara T, Poincelot L, Jasmin P, Bidaud A, Kinoshita G",
-      "date": "2026 08 12",
-      "dateObject": "2026 08 12",
-      "abstract": "Erythemato-ceruminous otitis externa (ECOE) is a canine inflammatory condition very frequently involving secondary microbial infections. This multicentric, masked, randomized, clinical field trial in Japan evaluated the efficacy and safety of a hydrocortisone aceponate (HCA) spray solution (Cortotic&#x2122;, Virbac, France) compared to a terbinafine/florfenicol/betamethasone acetate ear gel (Osurnia&#x2122;, Bussan Animal Health CO Ltd, Japan) in 200 dogs with ECOE (OTIS3 &#x2265; 5). Dogs received either Cortotic&#x2122; daily for 7 or 14 days or Osurnia&#x2122; on Days 0 and 7. OTIS3 clinical evaluation and cytological examinations were conducted, as well as the subjective veterinarian product efficacy evaluation. Results showed no significant differences between groups in OTIS3 score reduction, cytological reduction, or treatment success rates at any time point. On Day 28, Cortotic&#x2122; showed a 72.1% OTIS3 reduction, comparable to Osurnia&#x2122; 76.1%. Treatment success rates were also similar, and relapse rate was low in both groups. On Day 28, the veterinarians subjectively assessed the efficacy as good or excellent in 83% of cases for Cortotic&#x2122; and 87% for Osurnia&#x2122;. Both treatments were well-tolerated. Cortotic&#x2122; demonstrated non-inferiority to Osurnia&#x2122; regarding clinical and cytological efficacy. The use of Cortotic&#x2122;, a corticosteroid-monotherapy, can offer an effective strategy for managing ECOE while avoiding unnecessary antibiotic exposure. This study supports Cortotic&#x2122; as a first-line therapeutic option for otitis externa in dogs.",
-      "categories": [
-        "internalMedicine",
-        "dermatology"
-      ]
-    },
-    {
-      "pmid": "42582002",
-      "title": "Systemic immune-inflammation index as a prognostic biomarker in critically ill dogs.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Kim SG, Han HJ",
-      "date": "2026 08 12",
-      "dateObject": "2026 08 12",
-      "abstract": "Rapid and accurate prognostic assessment in critically ill dogs with systemic inflammation remains challenging. The Systemic Immune-Inflammation Index (SII), calculated as (neutrophil count&#x202f;&#xd7;&#x202f;platelet count)/lymphocyte count, has been recognized as a biomarker for systemic inflammation and immune dysregulation in human medicine. However, its clinical relevance in veterinary emergency and critical care settings remains unclear. This study aimed to evaluate the clinical significance of the SII in critically ill dogs and establish its reference interval in healthy control dogs. This retrospective study analyzed 96 healthy control dogs and 61 critically ill dogs that presented to the intensive care unit (June 2023-January 2025). Complete blood count (CBC) parameters collected within 1&#x202f;h of presentation were used to calculate the SII. CBC parameters and CBC-derived indices including SII were compared between critically ill dogs and healthy control dogs. Furthermore, CBC parameters, CBC-derived indices, and the Acute Patient Physiologic and Laboratory Evaluation (APPLE) score were compared between survivors and non-survivors. Receiver operating characteristic (ROC) curve analysis was performed to determine an optimal SII cutoff for predicting mortality and a 95% reference interval was established for healthy control dogs. Critically ill dogs had significantly higher median SII compared to healthy control dogs (1,997 vs. 516, p &#x202f;<&#x202f;0.001). Non-survivors showed significantly elevated white blood cell count, neutrophil count, SII, neutrophil-to-lymphocyte ratio (NLR), and APPLEfast score compared to survivors. ROC curve analysis demonstrated that SII predicted mortality with moderate accuracy (area under the curve [AUC]: 0.806; cutoff: 2,628; sensitivity: 90%; specificity: 74.5%), with performance at least comparable to the APPLEfast score (AUC: 0.759; sensitivity: 90%; specificity: 64.7%) in this cohort. The 95% reference interval for SII in healthy control dogs was 180-1,392. In conclusion, SII was significantly increased in critically ill dogs, and values above the cutoff were associated with an increased mortality risk. These findings suggest that the SII is a valuable, novel indicator for prognostic evaluation in critically ill canine patients; however, further validation in larger cohorts is warranted.",
-      "categories": [
-        "internalMedicine"
       ]
     },
     {
@@ -1544,42 +1657,6 @@
       ]
     },
     {
-      "pmid": "42531050",
-      "title": "Dachshund spinal health by coat and size type.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Hopper M, Liu CC, Embersics C, Otamendi A, Sullivan S",
-      "date": "2026 07 30",
-      "dateObject": "2026 07 30",
-      "abstract": "A prior report demonstrated that intervertebral disc disease (IVDD) risk varies in dachshunds by size-coat type, suggesting that coat and size genes affect IVDD risk. The furnishings (wire) coat gene, R-spondin-2, affects disc health in dogs, making such a role plausible. Identify differences in spinal health metrics (SHMs): by coat type, within a coat type by size, and by size-coat type. Dachshunds (n&#xa0;=&#xa0;4295) with known SHMs. Retrospective study reporting SHMs by coat and size type in dachshund populations in the United Kingdom (UK), Norway, and Denmark. For the UK population, a binary logistic regression was fitted with owner-reported disc disease status (yes vs no) as the outcome variable. For Denmark and Norway, populations were analyzed using proportional-odds ordinal logistic regression models, with calcification number (KN) groups (K0, K1/2, K3/4, and K5+) as the ordinal outcome. In all 3 populations, smooth coat was associated with worse SHMs compared with other coat types (eg, Norway vs long; odds ratio [OR], 2.11; 95% confidence interval [CI], 1.58-2.83; overall OR range, 1.81-2.59). Within a coat type, size was inconsistently associated with SHMs. In 12 of 15 comparisons, small smooth dachshunds had worse SHMs compared with other size-coat types (eg, Norway vs standard long; OR, 3.56; 95% CI, 2.19-5.79; range, 1.80-5.40). Dachshund spinal health varies by coat and inconsistently by size type. Coat and size genes may be factors that determine IVDD risk in dachshunds. We investigated differences in spinal health (disc disease risk) by coat and size in dachshunds from the UK, Norway, and Denmark (number, 4295). In these populations, smooth coat was consistently and small size was inconsistently associated with worse spinal health. Small (miniature and kaninchen) smooth dachshunds had worse spinal health than other size-coat combinations. Our findings could be explained by a higher fibroblast growth factor 4 like 2 (FGF4L2) chondrodystrophy (CDDY) allele frequency in smooth or small dachshunds, but data supporting this explanation is currently lacking. Another possibility is that coat and size genes affect spinal health in the following manner: smooth gene (fibroblast growth factor 5, FGF5)&#xa0;=&#xa0;detrimental, long gene (non-functional FGF5)&#xa0;=&#xa0;protective, furnishings (wire) gene (R-spondin-2, RSPO2)&#xa0;=&#xa0;very protective. Six genes in variable combinations produce small body size in dogs but which of these are present in dachshunds is poorly understood, and may explain the inconsistent association between size and spinal health. Our findings support the view that disc disease is polygenetic in dachshunds. Further research suggested by these findings should include: determining CDDY allele frequency by coat and size type, determining which small size gene combinations are most common in dachshunds, and investigating the mechanisms by which RSPO2 and FGF5 might affect disc health in dogs.",
-      "categories": [
-        "neurology",
-        "dermatology"
-      ]
-    },
-    {
-      "pmid": "42518279",
-      "title": "Correction to: Pyogranulomatous lymphadenitis with Splendore-Hoeppli phenomenon caused by Neisseria species in a domestic shorthair cat.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "",
-      "date": "2026 07 30",
-      "dateObject": "2026 07 30",
-      "abstract": "",
-      "categories": []
-    },
-    {
-      "pmid": "42525883",
-      "title": "Survival outcomes of dogs with multicentric lymphoma treated with sequential half-body radiotherapy and L-CHOP without maintenance chemotherapy.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Colosi J, Kent MS, Close NC, Lawrence J, Skorupski KA, Rebhun RB, Rosseel M, Al-Nadaf S, Lejeune AT",
-      "date": "2026 07 29",
-      "dateObject": "2026 07 29",
-      "abstract": "L-CHOP (L-asparaginase, cyclophosphamide, doxorubicin, vincristine, prednisone) is the standard therapy for lymphoma in dogs, but relapse and limited long-term survival are common. Given the radiosensitivity of lymphoma, sequential half-body radiotherapy (HBRT) has been investigated to improve outcomes. Evaluate progression-free survival (PFS), overall survival (OS), and adverse events in dogs treated with a no-maintenance L-CHOP protocol combined with low-dose-rate (LDR, 6&#xa0;Gy; 8-14&#xa0;cGy/min) HBRT compared to L-CHOP alone. Client-owned dogs with intermediate- to high-grade multicentric lymphoma treated with L-CHOP-LDR-HBRT or a 6-month&#xa0;L-CHOP protocol (controls). Medical records were retrospectively reviewed in this case-control study. Adverse events were graded using VCOG-CTCAE v2 (Veterinary Cooperative Oncology Group-Common Terminology Criteria for Adverse Events guidelines) criteria. Seventy-five dogs received L-CHOP-LDR-HBRT and were compared with 115 controls. Median PFS and OS for the L-CHOP-LDR-HBRT group were 532&#xa0;days (95% confidence interval [CI], 389-782) and 752&#xa0;days (95% CI, 526-963), significantly longer than in controls (296&#xa0;days [95% CI, 260-331] and 457&#xa0;days [95% CI, 382-553], respectively, P&#xa0;<&#xa0;.0001). A delay in irradiating the caudal half negatively affected PFS and OS. Adverse event data were available for 30 dogs treated with L-CHOP-LDR-HBRT; most were low-grade, with grade 3 and 4 toxicities occurring in 4.5% of all administered treatments. One dog required hospitalization after HBRT. Dose reductions and treatment delays were observed in 39 and 74 instances, respectively, over the 28-week protocol in this cohort. Combining L-CHOP with LDR-HBRT, without maintenance chemotherapy, might substantially extend PFS and OS over L-CHOP alone in dogs with multicentric lymphoma, with predominantly mild, manageable toxicities.",
-      "categories": [
-        "internalMedicine",
-        "oncology"
-      ]
-    },
-    {
       "pmid": "42525188",
       "title": "Quadruple co-infection with Mycobacterium tuberculosis complex and M. kansasii in a chronically immunosuppressed cat.",
       "journal": "Veterinary Research Communications",
@@ -1944,31 +2021,6 @@
       ]
     },
     {
-      "pmid": "42496166",
-      "title": "Correction to: Optic neuritis and meningoencephalitis associated with an ovarian teratoma in a dog.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "",
-      "date": "2026 07 26",
-      "dateObject": "2026 07 26",
-      "abstract": "",
-      "categories": [
-        "neurology"
-      ]
-    },
-    {
-      "pmid": "42501363",
-      "title": "Clinical, magnetic resonance imaging, and neuropathological features of suspected inborn methylmalonic aciduria in a domestic shorthair kitten.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Fisher C, Degl'Innocenti S, Ortiz A, Major A, Rawson F, Scarin G, Fadda A",
-      "date": "2026 07 25",
-      "dateObject": "2026 07 25",
-      "abstract": "A 10-month-old domestic shorthair kitten was evaluated for progressive neurological dysfunction characterized by ataxia, episodic opisthotonus, impaired vision, dysphagia and seizures. Clinicopathological findings included marked hypocobalaminemia and abnormal concentrations of urinary methylmalonic acid, methylcitrate, and propionylglycine. Magnetic resonance imaging revealed generalized cerebral and cerebellar atrophy, with mild ventriculomegaly. Despite dietary modification, cobalamin supplementation, antiepileptic therapy, neurological deterioration progressed, culminating in refractory seizures and euthanasia. Post-mortem examination revealed multiorgan and central nervous system changes, characterized by neuronal degeneration and necrosis, cortical atrophy, globular eosinophilic intracytoplasmic material within neurons and gliosis. Methylmalonic aciduria is a rare metabolic disorder resulting from defects in cobalamin metabolism or methylmalonyl-CoA mutase activity.",
-      "categories": [
-        "internalMedicine",
-        "neurology"
-      ]
-    },
-    {
       "pmid": "42499308",
       "title": "Presumptive Postoperative Nontraumatic Adrenal Haemorrhage After Orthopaedic Surgery in a Dog.",
       "journal": "Veterinary Medicine and Science",
@@ -2083,28 +2135,6 @@
       ]
     },
     {
-      "pmid": "42492063",
-      "title": "Unusually slow progression of a high-grade intramedullary oligodendroglioma in a dog: serial magnetic resonance imaging findings and clinical course over two years.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Wise R, Miller LR, Church ME, Mai W",
-      "date": "2026 07 23",
-      "dateObject": "2026 07 23",
-      "abstract": "A 7.5-year-old spayed female French Bulldog presented for back pain that did not respond to conservative management after the dog had jumped off a couch. Magnetic resonance imaging (MRI) identified an intramedullary mass that was T2 hyperintense, T1 iso- to hypointense, short tau inversion recovery (STIR) hyperintense, strongly rim-enhancing, and centrally suppressed on post-contrast T2-fluid-attenuated inversion recovery (FLAIR) images. Despite a suspected glial cell neoplasm, clinical signs initially improved with palliative treatment. Follow-up MRI 2 years later showed progressive enlargement of the lesion, with newly noted multiseptated regions. Histopathology indicated a high-grade oligodendroglioma.",
-      "categories": [
-        "oncology"
-      ]
-    },
-    {
-      "pmid": "42492061",
-      "title": "Effects of cow placenta extract on cognitive function in aged dogs: a randomized controlled trial.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Lu J, Lu W, Qian XL",
-      "date": "2026 07 23",
-      "dateObject": "2026 07 23",
-      "abstract": "Cow placenta extract (CPE) has demonstrated beneficial effects in antiaging; however, its effect on age-related cognitive decline remains unclear. To evaluate the potential therapeutic benefits of CPE in improving cognitive function in aged dogs. The aged dogs (&#x2265;7&#xa0;years) with a Canine Social and Learning Behavior Survey (CSLB) score of &#x2265; 30 owned by clients. A 6-month randomized controlled trial. Eighty-eight dogs received CPE (n&#xa0;=&#xa0;45) or placebo (n&#xa0;=&#xa0;43). Canine Social and Learning Behavior Survey questionnaires were administered, and serum oxidative stress markers were assessed. By month 6, the mean&#xa0;&#xb1;&#xa0;SD of CSLB was 35.1&#xa0;&#xb1;&#xa0;4.9 in the CPE group vs 41.1&#xa0;&#xb1;&#xa0;5.3 (P&#xa0;<&#xa0;.05; Cohen's d&#xa0;=&#xa0;-1.17; 95% CI for d: -1.63 to -0.72) in the placebo group. The successful therapeutic response was 77.8% (95% CI, 63.2-88.0) in the CPE group vs 9.3% (95% CI, 3.1-22.3; P&#xa0;<&#xa0;.001) in the placebo group. The correlation between the change (&#x394;%) in CSLB and change in malondialdehyde (MDA) was positive (r&#xa0;=&#xa0;0.77, P&#xa0;<&#xa0;.001), and correlations between the &#x394;% in CSLB and change in glutathione peroxidase (GSH-Px) and glutathione (GSH) were negative (r&#xa0;=&#xa0;-0.893, P&#xa0;<&#xa0;.001 and r&#xa0;=&#xa0;-0.878, P&#xa0;<&#xa0;.001, respectively). A six-month CPE administration improved cognitive function and oxidative stress in aged dogs, suggesting its potential for long-term management of cognitive impairment.",
-      "categories": []
-    },
-    {
       "pmid": "42477745",
       "title": "Fatal traumatic injury patterns in free-roaming cats: an anatomopathological study of 40 cases.",
       "journal": "BMC Veterinary Research",
@@ -2167,16 +2197,6 @@
         "cardiology",
         "neurology"
       ]
-    },
-    {
-      "pmid": "42485626",
-      "title": "Lung ultrasound interpretation using deep learning for the detection of B-lines in dogs.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Ward JL, VanBerlo B, Huggard B, Smith D, Arntfield R",
-      "date": "2026 07 22",
-      "dateObject": "2026 07 22",
-      "abstract": "Deep learning (DL) shows promise for interpretation of lung ultrasound (LUS) images in humans, but its performance in animals remains underexplored. Assess performance of a B-line detection algorithm (BLDA) trained on LUS images from humans when applied to images from dogs. A total of 1,950 clips collected from 201 LUS examinations in 90 dogs across 4 studies. Ultrasound clips were collated and labeled with A-line or B-line profiles by an expert reviewer. A DL model previously trained on LUS images from humans was applied to detect presence of B-lines at a framewise level. A clip classification algorithm was calibrated to maximize clip-level performance of the BLDA using a calibration data set. Performance of the DL model and BLDA was assessed on a held-out test set of LUS images. A heatmap-based explainability method was used to visualize regions most utilized by the model for predictions. When applied to the test set, the BLDA showed an overall accuracy of 87%, with sensitivity of 73% and specificity of 93%. The algorithm performed best when identifying images with strong (versus weak) B-line profiles. Assessing raw model predictions, zero-shot performance for identification of B-lines was excellent (area under the curve, 0.96). Heatmaps suggested that the DL model utilized image areas that were plausibly relevant for LUS interpretation. A LUS model trained on images from humans maintained strong performance when applied to dogs, supporting cross-species generalization to accelerate veterinary diagnostic innovations.",
-      "categories": []
     },
     {
       "pmid": "42485503",
@@ -2721,19 +2741,6 @@
       "categories": [
         "internalMedicine",
         "surgery"
-      ]
-    },
-    {
-      "pmid": "42405442",
-      "title": "Cutaneous Reactive Histiocytosis in Golden Retrievers: An&#xa0;Immunohistochemical Approach.",
-      "journal": "Veterinary Dermatology",
-      "authors": "Albanese F, Lazzarini G, Orlandi M, Pirone A, Miragliotta V, Mazzoni E, Pazzini L, Massaro M, Aresu L, Abramo F",
-      "date": "2026 07 06",
-      "dateObject": "2026 07 06",
-      "abstract": "Canine cutaneous reactive histiocytosis (CRH) is a proliferative histiocytic disease characterised by the accumulation of dendritic cells (DCs). Differentiating CRH from other infectious or non-infectious granulomatous or histiocyte-rich diseases is challenging on histological evidence alone. This study aims to characterise the predominant histiocytic population in 11 golden retrievers with histological features compatible with CRH, using ionised calcium-binding adapter molecule 1 (Iba1) and a validated macrophage antibodies cocktail for canine skin diseases. Eleven golden retriever dogs were enrolled with a clinical and histological diagnosis of CRH. Paraffin-embedded skin biopsy samples from cases with a confirmed diagnosis of CRH were evaluated to identify the histiocytic cell type. Two antibody reagents were used: (1) anti-Iba1 (goat polyclonal), a broad histiocytic marker and (2) a cocktail of rabbit recombinant monoclonal antibodies against CD11b, CD68, CD163, CD14 and CD16 to phenotype cutaneous macrophages. All cases showed positive immunostaining with both antibodies. Although Iba1 immunostaining was diffuse in most of the histiocytoid cell population, only a few scattered histiocytoid cells stained with the anti-macrophage antibody cocktail. Strong Iba1 positivity in the histiocytoid cells, together with their lack of staining for macrophage markers, supports a dendritic cell phenotype and is consistent with a diagnosis of CRH. In conclusion, using a macrophage marker in combination with a broad histiocytic marker may help to distinguish CRH from granulomatous, macrophage-rich diseases in paraffin-embedded skin tissue.",
-      "categories": [
-        "internalMedicine",
-        "dermatology"
       ]
     },
     {
