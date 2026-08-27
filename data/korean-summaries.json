@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T21:49:28.604Z",
+  "updated_at": "2026-08-27T00:49:27.233Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -3887,6 +3887,30 @@
       "title": "Acute hydrated nucleus pulposus extrusion in dogs with severe neurologic status: comparison between conservative and surgical treatment.",
       "journal": "Journal of Veterinary Internal Medicine",
       "generated_at": "2026-08-25T21:45:18.928Z",
+      "model": "gpt-5-mini"
+    },
+    "42643243": {
+      "brief_summary": "다기관 통제 임상시험에서 중성화 수술을 받은 고양이 90마리를 기존 수술용 드레이프군과 유연성 개선 프로토타입 드레이프군으로 무작위 배정하여 드레이프의 박리 정도를 비교했다. 수술 중 피부 절개 직후 및 봉합 전 외과의가 사전 도표에 따라 박리 등급을 평가한 결과, 프로토타입 드레이프의 박리 등급이 두 시점 모두 기존 드레이프보다 낮았다. 저자들은 유연한 기저 필름을 가진 프로토타입이 수술 중 드레이프 박리 면적을 줄일 수 있다고 결론지었다; 이는 드레이프 박리로 인한 수술부위 감염(surgical site infection, SSI) 위험 증가를 완화할 가능성이 있다.",
+      "detailed_summary": "연구는 다기관 통제 임상시험으로, 중성화 수술을 받은 고양이 90마리를 기존 드레이프군과 프로토타입(기저 필름 유연성 개선) 드레이프군으로 무작위 배정했다. 주요 평가 항목은 피부 절개 직후와 봉합 전의 드레이프 박리 정도로, 외과의가 사전에 준비된 도표를 이용해 박리 등급을 평정했다. 결과는 두 시점 모두에서 프로토타입 드레이프의 박리 등급이 기존 드레이프보다 낮은 방향으로 나타났다(초록에 제시된 구체적 수치 미기재). 연구진은 기저 필름의 유연성 개선이 수술 중 드레이프의 박리 면적을 줄이는 데 효과적이라고 결론지었다. 초록에는 수술 후 감염률이나 장기적 임상 결과에 대한 보고는 포함되어 있지 않으며, 평정은 외과의에 의해 시행된 등급 기반 평가로 이루어졌다. 따라서 본 연구 결과는 드레이프 박리 감소라는 지표에서는 명확한 방향성을 보이지만, 초록만으로는 감염률 감소 등 임상적 결과로의 직접적 연계는 확인되지 않는다.",
+      "title": "Comparison of adhesiveness between new improved surgical drapes and existing drapes during contraceptive surgery in 90 cats: a multi-center controlled clinical trial.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-08-27T00:49:27.224Z",
+      "model": "gpt-5-mini"
+    },
+    "42643296": {
+      "brief_summary": "본 논문은 Microsporum canis에 의해 발생한 개의 피부진균증성 케리온(dermatophytic kerion) 2건을 보고한다. 진단은 모발의 직접현미경 검사에서 관찰된 외피형(ectothrix) 아르트로콘디아와 배양 소견, 리보솜 ITS 영역(ITS) 부분 염기서열 분석(PCR 및 BLAST/계통수 재구성)으로 확인되었다. 이트라코나졸 또는 터비나핀의 펄스 요법과 국소치료, 환경 소독을 병행한 결과 두 증례 모두 임상적·미생물학적 완치에 이르렀으며, 임상적으로는 깊은 염증성 피부 병변에서 케리온을 감별진단에 포함할 필요가 있음을 강조한다.",
+      "detailed_summary": "증례보고로서 개 2마리의 피부진균증성 케리온을 다루었다. 진단 과정에는 모발의 직접현미경 검사에서 ectothrix 아르트로콘디아 관찰, 진균 배양에서 M. canis와 일치하는 집락 소견, 그리고 리보솜 ITS 영역(ITS)의 PCR(중합효소연쇄반응) 증폭 및 부분 염기서열 분석 후 BLAST와 계통수 재구성이 포함되었다. 항진균제 감수성 검사는 agar diffusion 방법으로 시행되었다. 치료는 전신 항진균제의 펄스 요법(이터라코나졸 또는 터비나핀)과 국소치료 및 환경 소독을 병행하였다. 두 증례 모두 임상적 및 미생물학적 완치를 보였다고 보고되었다. 저자들은 이러한 증례가 개의 깊은 염증성 피부 병변에서 피부진균증 특히 케리온을 감별해야 함을 시사하며, 조기 인식과 적절한 항진균치료가 성공적인 결과와 인체 감염 위험 감소에 중요하다고 결론지었다. 다만 사례보고이므로 결과를 일반화하는 데에는 한계가 있다.",
+      "title": "Canine dermatophytic kerion caused by Microsporum canis : two case reports.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-08-27T00:49:09.266Z",
+      "model": "gpt-5-mini"
+    },
+    "42647817": {
+      "brief_summary": "건강한 반려견 15마리를 대상으로 한 전향적, 맹검, 무작위 교차 연구로, 경구 비디오 캡슐 내시경(VCE) 시 심에티콘(simethicone) 20 mg(1 mL)을 섭취 30분 전에 투여한 효과를 평가했다. 심에티콘은 소장 전체의 시야(visualization quality, VQ)를 유의하게 개선했으며 특히 근위 소장(proximal small bowel)에서 효과가 컸다(P < .05). 위와 원위 소장(distal small bowel)에서는 유의한 차이가 없었고, 위 통과 시간(GTT)과 소장 통과 시간(SBTT), 불완전 검사율에는 영향이 없었다. 이는 소장(특히 근위부) VQ 향상을 위한 잠재적 보조제로서의 가능성을 시사하는 예비적 근거다.",
+      "detailed_summary": "연구는 3–10 kg의 건강한 반려견 15마리를 대상으로 한 전향적, 맹검, 무작위 교차 설계이다. 각 개체는 심에티콘 20 mg(1 mL)을 캡슐 복용 30분 전에 투여받는 기간과 1 mL 식염수 대조 기간을 각각 시행하였다. 시야 평가는 점막 관찰 비율(variable 1), 거품·잔여물·출혈·담즙에 의한 가림 정도(variable 2), 그리고 이들의 평균(variable 3)으로 이루어졌다. 결과적으로 심에티콘은 소장 전체의 VQ를 유의하게 개선했으며, 특히 근위 소장에서 세 변수 모두에서 P < .05로 개선을 보였다. 반면 원위 소장과 위에서는 VQ 차이가 없었고, 위 통과 시간(GTT)과 소장 통과 시간(SBTT)에서도 두 프로토콜 간 유의한 차이가 관찰되지 않았다. 검사 불완전 비율은 투약 프로토콜, 성별, 체중, 연령에 의해 유의하게 달라지지 않았다. 저자들은 심에티콘이 소장 VQ를 부위 특이적으로 개선한다는 예비적 증거를 제시한다고 결론지었다.",
+      "title": "Effect of simethicone on visualization quality and capsule transit time during video capsule endoscopy in healthy dogs.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-08-27T00:48:56.245Z",
       "model": "gpt-5-mini"
     }
   }

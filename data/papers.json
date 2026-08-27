@@ -1,6 +1,55 @@
 {
-  "updated_at": "2026-08-25T21:45:00.943Z",
+  "updated_at": "2026-08-27T00:48:36.088Z",
   "papers": [
+    {
+      "pmid": "42647817",
+      "title": "Effect of simethicone on visualization quality and capsule transit time during video capsule endoscopy in healthy dogs.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Jeong W, Kim GH, Kim SH, Ryu MO, Seo KW",
+      "date": "2026 08 26",
+      "dateObject": "2026 08 26",
+      "abstract": "Simethicone enhances visualization quality (VQ) during video capsule endoscopy (VCE) in humans, but its effects on VQ and capsule transit time (CTT) in dogs remain unclear. Evaluate the effects of simethicone on VQ and CTT in dogs undergoing VCE. Fifteen client-owned healthy dogs weighing 3-10&#xa0;kg. Prospective, blinded, randomized crossover study. Each dog underwent VCE twice: once with 20&#xa0;mg (1&#xa0;mL) simethicone administered 30&#xa0;minutes before capsule ingestion, and once with 1&#xa0;mL normal saline as a control. Visualization quality was assessed based on the proportion of mucosa visualized (variable 1), the degree of obscuration by bubbles, debris, blood, or bile (variable 2), and their average (variable 3). Capsule transit time, including gastric transit time (GTT) and small bowel transit time (SBTT), and incomplete study rates also were evaluated. Simethicone significantly improved VQ in the entire small bowel, especially in the proximal segment (P&#xa0;<&#xa0;.05 for all variables). However, no significant differences were observed between protocols in the distal small bowel and stomach. Gastric transit time and SBTT also were not significantly different between protocols. The risk of incomplete studies was not significantly affected by protocol, sex, body weight, or age. Simethicone had region-specific effects on VQ in dogs undergoing VCE, specifically enhancing VQ in the small intestine. These findings provide preliminary evidence of a potential role for simethicone in improving small bowel VQ.",
+      "categories": []
+    },
+    {
+      "pmid": "42643296",
+      "title": "Canine dermatophytic kerion caused by Microsporum canis : two case reports.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Dumont-Viollaz A, G&#xf3;mez-Barris BR, Del R&#xed;o LC, Moreno C, Thomson P",
+      "date": "2026 08 26",
+      "dateObject": "2026 08 26",
+      "abstract": "Dermatophytosis is a superficial, highly contagious mycosis caused mainly by keratinophilic fungi of the genera Microsporum, Trichophyton and Nannizzia . This report describes two clinical cases of dermatophytic kerion in dogs caused by Microsporum canis . In both, direct microscopic examination of hairs revealed ectothrix arthroconidia, and fungal culture yielded colonies morphologically consistent with M. canis . Species identification was confirmed by PCR amplification and partial sequencing of the ribosomal ITS region, followed by BLAST analysis and phylogenetic reconstruction. Antifungal susceptibility testing was performed by agar diffusion. Systemic antifungal therapy using pulse regimens of itraconazole or terbinafine, combined with topical treatment and environmental decontamination, resulted in complete clinical and mycological cure in both patients. These cases emphasize the importance of considering dermatophytosis, particularly kerion, in the differential diagnosis of deep inflammatory skin lesions in dogs. Early recognition and appropriate antifungal therapy are essential to achieve successful outcomes and to reduce the risk of zoonotic transmission.",
+      "categories": [
+        "internalMedicine",
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42643243",
+      "title": "Comparison of adhesiveness between new improved surgical drapes and existing drapes during contraceptive surgery in 90 cats: a multi-center controlled clinical trial.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Namiki R, Uemura A, Shimada K, Tanaka T, Yoshida T, Onitsuka A, Mandour A, Ogawa S, Tanaka R",
+      "date": "2026 08 26",
+      "dateObject": "2026 08 26",
+      "abstract": "Plastic drapes are used prevent surgical site infections by enclosing bacteria within adhesive layers that directly contact the skin during surgery. However, these drapes often peel from the surgical edge, increasing the risk of surgical site infection. This problem has remained unresolved since the development of plastic drapes decades ago. Recently, a basic study using rat skin reported improvements in the structure of these drapes. This study indicated that drape detachment during skin incision can be suppressed by improving the flexibility of the drape base film. Furthermore, although the number of cases was small, a clinical study was conducted, and the improved flexible drape was found to peel off less during cat surgery. The purpose of this study was to compare the peeling area of an existing drape with that of a prototype drape with an improved flexible base film in a large number of feline cases as part of a multi-center controlled clinical trial. Ninety cats that underwent neutering were randomly assigned to the existing drape group and the prototype drape group. Immediately after the skin incision and before suturing, the surgeon graded the degree of detachment of the drape from the surgical edge based on the diagram prepared in advance. The peeling grade of the prototype drape was lower than that of the existing drape at both times. We concluded that the prototype drape with a more flexible base film could reduce the intraoperative drape peeling area.",
+      "categories": [
+        "internalMedicine",
+        "surgery",
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42644499",
+      "title": "Comments on Statistical Analysis of \"Comparative Efficacy and Safety of Ilunocitinib and Oclacitinib for the Control of Pruritus and Associated Skin Lesions in Dogs With Atopic Dermatitis\".",
+      "journal": "Veterinary Dermatology",
+      "authors": "Hakala M, Zschiesche E, Hala P, Kuhlmann I",
+      "date": "2026 08 26",
+      "dateObject": "2026 08 26",
+      "abstract": "",
+      "categories": [
+        "dermatology"
+      ]
+    },
     {
       "pmid": "42641071",
       "title": "Acute hydrated nucleus pulposus extrusion in dogs with severe neurologic status: comparison between conservative and surgical treatment.",
@@ -120,7 +169,7 @@
       "authors": "Bouillet G, M&#xe9;ric T, Gonel G, Darnis E, Mendoza B, Leal RO, Galmes MR, Bertolani C, Ruiz MD, Toulza O, Hugonnard M, Duperrier-Simond C, S&#xe9;n&#xe9;cat O, Drut A, Rhimi M, Barrot AC, Larcher T, Hernandez J",
       "date": "2026 08 24",
       "dateObject": "2026 08 24",
-      "abstract": "T lymphocytes play a central role in the intestinal immune response in dogs with immunomodulator-responsive enteropathy (IRE), but the clinical relevance of mucosal T-cell infiltration remains unclear. Compare mucosal CD3+ T-cell density between dogs with IRE and healthy comparison dogs across intestinal segments, and assess associations with clinical, biochemical, and histologic severity markers. Forty-two client-owned dogs with IRE and 12 healthy research dogs. Retrospective multicenter study. Archived endoscopic biopsy samples from the duodenum, ileum, and colon were evaluated using the Simplified Histopathological Scoring System. Immunohistochemistry for CD3 was quantified by digital image analysis (QuPath) and expressed as relative CD3+ density (RCD3). Group comparisons, receiver operating characteristic curve analyses, mixed linear models, and correlation analyses were performed. Relative CD3+ density was significantly higher in dogs with IRE than in comparison dogs in the duodenum (median, 6.34% vs 1.42%; P&#xa0;=&#xa0;.03), ileum (9.79% vs 0.85%; P&#xa0;<&#xa0;.001), and colon (3.88% vs 1.32%; P&#xa0;=&#xa0;.002). The area under the curve values were 0.833, 0.896, and 0.811, respectively. The RCD3 was not correlated with clinical indices, serum albumin concentration, or histologic scores, but ileal histologic score was negatively correlated with RCD3 (&#x3c1;&#xa0;=&#xa0;-0.37; P&#xa0;=&#xa0;.04). Mucosal CD3+ T-cell density is increased in dogs with IRE but is not associated with clinical or overall histologic disease severity. Quantification of CD3+ should not be used as a solitary monitoring tool but may contribute to immunophenotyping. Chronic inflammatory bowel disease is a common cause of long-lasting digestive problems in dogs. The immune system is thought to play an important role in this disease, but it is still unclear whether the number of immune cells present in the intestine reflects how severe the disease is. This study measured a specific type of immune cell, called T lymphocytes, in intestinal biopsy samples from dogs with inflammatory bowel disease and compared the results with those from healthy dogs. Computer-assisted image analysis was used to obtain objective and reproducible measurements. Dogs with inflammatory bowel disease had a greater number of these immune cells in the lining of the small and large intestine than healthy dogs. However, the number of immune cells was not related to the severity of clinical signs, blood protein concentrations, or the overall severity of tissue damage seen under the microscope. These findings suggest that counting T lymphocytes alone is unlikely to be useful for monitoring disease severity or treatment response. Instead, this measurement may help improve the biological classification of chronic inflammatory bowel disease and contribute to a better understanding of the different forms of this condition.",
+      "abstract": "T lymphocytes play a central role in the intestinal immune response in dogs with immunomodulator-responsive enteropathy (IRE), but the clinical relevance of mucosal T-cell infiltration remains unclear. Compare mucosal CD3+ T-cell density between dogs with IRE and healthy comparison dogs across intestinal segments, and assess associations with clinical, biochemical, and histologic severity markers. Forty-two client-owned dogs with IRE and 12 healthy research dogs. Retrospective multicenter study. Archived endoscopic biopsy samples from the duodenum, ileum, and colon were evaluated using the Simplified Histopathological Scoring System. Immunohistochemistry for CD3 was quantified by digital image analysis (QuPath) and expressed as relative CD3+ density (RCD3). Group comparisons, receiver operating characteristic curve analyses, mixed linear models, and correlation analyses were performed. Relative CD3+ density was significantly higher in dogs with IRE than in comparison dogs in the duodenum (median, 6.34% vs 1.42%; P&#xa0;=&#xa0;.03), ileum (9.79% vs 0.85%; P&#xa0;<&#xa0;.001), and colon (3.88% vs 1.32%; P&#xa0;=&#xa0;.002). The area under the curve values were 0.833, 0.896, and 0.811, respectively. The RCD3 was not correlated with clinical indices, serum albumin concentration, or histologic scores, but ileal histologic score was negatively correlated with RCD3 (&#x3c1;&#xa0;=&#xa0;-0.37; P&#xa0;=&#xa0;.04). Mucosal CD3+ T-cell density is increased in dogs with IRE but is not associated with clinical or overall histologic disease severity. Quantification of CD3+ should not be used as a solitary monitoring tool but may contribute to immunophenotyping. Chronic inflammatory bowel disease is a common cause of long-lasting digestive problems in dogs. The immune system is thought to play an important role in this disease, but it is still unclear whether the number of immune cells present in the intestine reflects how severe the disease is. This study measured a specific type of immune cell, called T lymphocytes, in intestinal biopsy samples from dogs with inflammatory bowel disease and compared the results with those from healthy dogs. Computer-assisted image analysis was used to obtain objective and reproducible measurements. Dogs with inflammatory bowel disease had a greater number of these immune cells in the lining of the small and large intestine than healthy dogs. However, the number of immune cells was not related to the severity of clinical signs, blood protein concentrations, or the overall severity of tissue damage seen under the microscope. These findings suggest that counting T lymphocytes alone is unlikely to be useful for monitoring disease severity or treatment response. Instead, this measurement may help improve the biological classification of chronic inflammatory bowel disease and contribute to a better understanding of the different forms of this condition. Les lymphocytes T jouent un r&#xf4;le central dans la r&#xe9;ponse immunitaire intestinale chez les chiens atteints d&#x2019;ent&#xe9;ropathie r&#xe9;pondant aux immunomodulateurs (IRE), mais la pertinence clinique de l&#x2019;infiltration lymphocytaire T de la muqueuse reste mal d&#xe9;finie. Comparer la densit&#xe9; des lymphocytes T CD3 + de la muqueuse intestinale entre des chiens atteints d&#x2019;IRE et des chiens sains t&#xe9;moins au niveau des diff&#xe9;rents segments intestinaux, et &#xe9;valuer les associations avec les marqueurs de s&#xe9;v&#xe9;rit&#xe9; clinique, biochimique et histologique. Quarante-deux chiens de client&#xe8;le atteints d&#x2019;IRE et 12 chiens de recherche sains. &#xc9;tude r&#xe9;trospective multicentrique. Des biopsies endoscopiques archiv&#xe9;es du duod&#xe9;num, de l&#x2019;il&#xe9;on et du c&#xf4;lon ont &#xe9;t&#xe9; &#xe9;valu&#xe9;es &#xe0; l&#x2019;aide du Simplified Histopathological Scoring System . L&#x2019;immunohistochimie anti-CD3 a &#xe9;t&#xe9; quantifi&#xe9;e par analyze num&#xe9;rique d&#x2019;images (QuPath) et exprim&#xe9;e sous forme de densit&#xe9; relative en cellules CD3 + (RCD3). Des comparaisons entre groupes, des analyses par courbes ROC, des mod&#xe8;les lin&#xe9;aires mixtes et des analyses de corr&#xe9;lation ont &#xe9;t&#xe9; r&#xe9;alis&#xe9;s. La densit&#xe9; relative en cellules CD3 + &#xe9;tait significativement plus &#xe9;lev&#xe9;e chez les chiens atteints d&#x2019;IRE que chez les chiens t&#xe9;moins dans le duod&#xe9;num (m&#xe9;diane: 6,34 % vs 1,42 %; P &#xa0;=&#xa0;0,03), l&#x2019;il&#xe9;on (9,79 % vs 0,85 %; P &#xa0;<&#xa0;0,001) et le c&#xf4;lon (3,88 % vs 1,32 %, P &#xa0;=&#xa0;0,002). Les aires sous la courbe (AUC) &#xe9;taient respectivement de 0,833, 0,896 et 0,811. La RCD3 n&#x2019;&#xe9;tait pas corr&#xe9;l&#xe9;e aux indices cliniques, &#xe0; la concentration s&#xe9;rique en albumine ni aux scores histologiques. En revanche, une corr&#xe9;lation n&#xe9;gative a &#xe9;t&#xe9; observ&#xe9;e entre la RCD3 et le score histologique il&#xe9;al (&#x3c1;&#xa0;=&#xa0;&#x2212;0,37; P &#xa0;=&#xa0;0,036). La densit&#xe9; des lymphocytes T CD3 + de la muqueuse intestinale est augment&#xe9;e chez les chiens atteints d&#x2019;IRE, mais n&#x2019;est pas associ&#xe9;e &#xe0; la s&#xe9;v&#xe9;rit&#xe9; clinique ni &#xe0; la s&#xe9;v&#xe9;rit&#xe9; histologique globale de la maladie. La quantification des cellules CD3 + ne devrait pas &#xea;tre utilis&#xe9;e comme unique outil de suivi, mais pourrait contribuer &#xe0; l&#x2019;immunoph&#xe9;notypage des ent&#xe9;ropathies chroniques.",
       "categories": [
         "internalMedicine"
       ]
@@ -808,28 +857,6 @@
       "abstract": "To develop and evaluate a workflow for generating a patient-specific canine head phantom with intracranial pathology from clinical CT and MRI data using digital anatomy printing and to assess its anatomic accuracy and imaging fidelity for veterinary neurosurgical planning and training. This experimental proof-of-concept study used historical clinical CT and MRI data from a canine patient diagnosed with a brain glioma. A multimaterial head phantom was created using image segmentation, computer-aided design modeling, material assignment and slicing, PolyJet-based 3-D printing with a digital anatomy printer, and postprocessing. The produced phantom underwent CT and MRI scanning. Anatomical dimensional accuracy along a predefined intracranial trajectory and imaging realism were assessed by comparison of HU and MRI signal intensity between the phantom and the patient imaging data. 2 patient-specific canine head phantoms, one dual CT and MRI optimized and another purely CT optimized, were successfully produced and imaged. The phantom demonstrated CT attenuation and MRI signal characteristics qualitatively consistent with the patient's tissues. Quantitative assessment showed minimal dimensional deviation along the selected trajectory compared with the original patient anatomy. Imaging contrast between structures was reproduced, although measurable differences in CT attenuation values and MRI signal characteristics of the printed materials were identified. A streamlined workflow for generating patient-specific canine head phantoms using multimaterial 3-D printing was established and demonstrated anatomical fidelity and multimodal imaging compatibility. These phantoms offer a unique and practical model for advanced veterinary neurosurgical planning and training, particularly including trajectory planning for intracranial procedures, such as brain biopsy.",
       "categories": [
         "neurology"
-      ]
-    },
-    {
-      "pmid": "42591120",
-      "title": "Perceptions of dogs and animal-assisted support programs among veterinary students and teaching staff in Romania.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Grigoreanu A, Gaspar C, Bucur I, Udrea A, Cojocaru R, Moza A, Ban-Cucerzan A, Lazarescu C, Tirziu E, Tibru I",
-      "date": "2026 08 13",
-      "dateObject": "2026 08 13",
-      "abstract": "Animal-assisted support programs (AASP) are increasingly used to promote psychological wellbeing in educational settings, yet their acceptability within veterinary education remains underexplored. This study aimed to assess perceptions, knowledge, attitudes, and implementation preferences related to AASP among veterinary students and teaching staff from a Romanian Faculty of Veterinary Medicine. A cross-sectional survey was conducted among 200 students and 99 teaching staff members, using a structured questionnaire addressing demographics, attitudes toward dogs, awareness of AASP, and self-reported mental health-related variables. Group and gender differences were analyzed using chi-square and Fisher's exact tests. Overall, respondents demonstrated positive attitudes toward dogs and strong acceptance of AASP. Most participants perceived AASP as potentially beneficial for stress reduction, mental health support, and enhancement of the educational environment, despite limited prior experience with such programs. A considerable proportion of students (20.5%) reported a diagnosed mental health condition, highlighting the relevance of student wellbeing support within the investigated academic setting. Gender differences were observed, with female respondents generally expressing more favorable attitudes and lower risk perception. High willingness to participate and support for the potential introduction of structured AASP and related training opportunities were reported, although concerns regarding anxiety and logistical constraints were acknowledged. These findings indicate a high level of perceived acceptability of AASP among veterinary students and teaching staff and support further investigation of their potential role within student wellbeing initiatives in veterinary higher education.",
-      "categories": []
-    },
-    {
-      "pmid": "42591112",
-      "title": "Commentary: QRS complex configurations in 12-lead electrocardiograms of dogs with monomorphic ventricular tachycardia or complete bundle branch block.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Novosel D, &#x17d;uljevi&#x107; P, Be&#x10d;i&#x107; T",
-      "date": "2026 08 13",
-      "dateObject": "2026 08 13",
-      "abstract": "",
-      "categories": [
-        "cardiology"
       ]
     },
     {
@@ -1524,18 +1551,6 @@
       "categories": [
         "internalMedicine",
         "oncology"
-      ]
-    },
-    {
-      "pmid": "42544488",
-      "title": "Retrospective evaluation of C-reactive protein for discriminating between lower urinary tract infections and acute pyelonephritis in dogs.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Fidanzio F, Colombo G, Vasylyeva K, Tirolo A, Sabetti MC, Tirelli I, Monari E, Corsini A, Dondi F",
-      "date": "2026 08 03",
-      "dateObject": "2026 08 03",
-      "abstract": "The role of C-reactive protein (CRP) in differentiating pyelonephritis from other types of urinary tract infection in dogs is not well defined. Compare serum CRP concentrations at diagnosis in dogs with acute pyelonephritis (APy), acute prostatitis (APr), and bacterial cystitis (BC). Serum CRP concentration is hypothesized to be higher in APy and APr than in BC. One hundred fifteen client-owned dogs were included: 56 with BC, 32 with APy, 23 with APr, and 4 with both APy and APr. Retrospective observational study. Dogs with positive urine culture were included and divided into 3 groups (BC, APy, and APr), based on medical history. Dogs with comorbidities potentially affecting CRP concentrations and dogs with subclinical bacteriuria were excluded. Data were compared among groups, and the diagnostic accuracy of CRP was assessed post-hoc. Dogs with BC had lower median CRP (1.04&#xa0;mg/dL; range, 0.08-7.21) than those with APy (23.65&#xa0;&#xb1;&#xa0;11.96&#xa0;mg/dL; median difference [MD], 22.9&#xa0;mg/dL; 95% CI, 18.2-26.5; P&#xa0;<&#xa0;.001) and APr (20.9&#xa0;mg/dL; range, 5.93-55.97; MD, 19.9&#xa0;mg/dL; 95% CI, 10.7-25.6; P&#xa0;<&#xa0;.001), whereas APy and APr did not differ (MD, -3.0&#xa0;mg/dL; 95% CI, -10.6 to 4.4; P&#xa0;>&#xa0;.99). Serum CRP concentration had high discriminative ability to differentiate dogs with BC and APy, APr, or both (area under the curve [AUC], 0.99; 95% CI, 0.99-1). Serum CRP concentration evaluated at diagnosis, when highly increased, may help differentiate BC from APy in dogs without concurrent inflammatory diseases.",
-      "categories": [
-        "internalMedicine"
       ]
     },
     {
@@ -2680,18 +2695,6 @@
       "abstract": "Calcium oxalate (CaOx) urolithiasis is a common and recurrent condition in dogs, typically managed with dietary modification, thiazide diuretics, and potassium citrate. In human medicine, sodium-glucose cotransporter 2 (SGLT2) inhibitors such as dapagliflozin are increasingly used to manage diabetes mellitus and chronic kidney disease and have been shown to alter urinary factors associated with nephrolithiasis. Their effects in veterinary patients, however, remain uncharacterized. This case report describes the novel off-label use of dapagliflozin in a dog with refractory CaOx cystolithiasis despite standard preventive therapies. An 8-year-old neutered male Chihuahua with a history of recurrent CaOx urolithiasis experienced multiple episodes of stone recurrence despite adherence to a therapeutic stone-prevention diet, hydrochlorothiazide, and potassium citrate. Dapagliflozin was initiated off-label as adjunctive therapy to evaluate its potential impact on urinary calcium excretion. Pre- and post-treatment urinalyses and urine calcium-to-creatinine ratios were compared. Following initiation, the dog developed glucosuria, acidic urine, and increased urine specific gravity, while urinary calcium-to-creatinine ratios remained elevated. The medication was discontinued after 12 days due to concerns about underhydration. Short-term SGLT2 inhibition combined with a thiazide diuretic did not reduce hypercalciuria and may increase lithogenic risk if fluid intake is insufficient to offset the osmotic diuresis. This case underscores the importance of hydration monitoring and highlights potential pharmacologic interactions when using SGLT2 inhibitors off-label in dogs. Further controlled studies are needed to elucidate their safety and therapeutic role in managing CaOx urolithiasis in veterinary patients.",
       "categories": [
         "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42413856",
-      "title": "Fibroepithelial Polyps of the Ear Canal in Dogs: A Retrospective Analysis of 17 Cases.",
-      "journal": "Veterinary Dermatology",
-      "authors": "Mendes C, Berto L, Costa A, Nordio L, Bertolini G, De Lucia M",
-      "date": "2026 07 07",
-      "dateObject": "2026 07 07",
-      "abstract": "Fibroepithelial polyps (FEPs) are well-characterised benign hyperplastic lesions of the skin and mucous membranes. Little is known about their localisation in the ear canal of dogs. To provide clinical, endoscopic, computed tomography (CT) and histological descriptions of aural (a)FEPs in 14 dogs. Fourteen client-owned dogs diagnosed with aFEPs between 2018 and 2025. Retrospective analysis of the electronic medical records of dogs diagnosed with aFEPs based on compatible histopathological findings. Seventeen aFEPs were described in 14 dogs. All dogs were of brachycephalic breeds, and French bulldogs were the most common breed. Most dogs had a history of chronic-recurrent otitis externa (n&#x2009;=&#x2009;12) and a diagnosis of atopic dermatitis (n&#x2009;=&#x2009;10). Ear cytological results showed neutrophilic inflammation with bacteria in 14 of 17 cases. CT scan detected 15 of 17 aFEPs. In all cases, video-otoscopy revealed the presence of a pedunculated neoformation of variable size. All lesions were removed during the endoscopic procedure with a polypectomy snare or grasping forceps. Histologically, all masses were characterised by a broad fibrous core with a narrow stalk covered by either keratinised or keratinised and ciliated epithelium. Thirteen polyps contained broad trabeculae of bone. In two dogs, a second endoscopic procedure was needed to completely remove residual polyp fragments. During the follow-up period (1-80&#x2009;months), 13 of the 14 dogs experienced no relapses. In dogs, aFEPs present distinctive histopathological characteristics and should be differentiated from other aural masses. Identification and removal of aFEPs might be critical for the resolution of chronic-recurrent otitis in dogs.",
-      "categories": [
-        "dermatology"
       ]
     },
     {
