@@ -1,6 +1,64 @@
 {
-  "updated_at": "2026-08-29T03:11:24.799Z",
+  "updated_at": "2026-08-29T23:21:31.671Z",
   "papers": [
+    {
+      "pmid": "42666701",
+      "title": "Carbohydrate source modulates protein and amino acid digestibility patterns in domestic cats.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Lee WJ, Oh ER, Seo JH, Kim Y, Lee SH, Jang HJ",
+      "date": "2026 08 29",
+      "dateObject": "2026 08 29",
+      "abstract": "Domestic cats are obligate carnivores with high dietary protein requirements, yet carbohydrates remain functionally necessary in extruded dry foods. Because carbohydrate matrices may be associated with nutrient accessibility during digestion, this study evaluated whether defined protein- and carbohydrate-source formulations are associated with nutrient and amino acid apparent total tract digestibility (ATTD) in cats. A total of 117 Korean short-haired domestic cats were enrolled and underwent a two-week adaptation period before digestibility evaluation. Twelve diets were formulated to compare six protein sources (chicken, duck, salmon, pollock, beef, and cricket) using rice as a reference carbohydrate source and six carbohydrate sources (rice, corn, potato, tapioca, sweet potato, and wheat) using chicken as a reference protein source. ATTD of nutrients and amino acids was measured, and an efficiency ratio (ER) was calculated as an exploratory descriptive ratio reflecting the relationship between crude protein ATTD and the carbohydrate digestibility denominator. Among protein sources, duck, chicken, and salmon showed the highest protein digestibility (86.36, 85.72, and 83.05%, respectively), whereas beef and cricket showed lower values (74.77 and 74.97%). Among carbohydrate sources, rice and corn showed higher protein digestibility (85.72 and 76.82%, respectively) than wheat, tapioca, potato, and sweet potato (75.23, 74.49, 72.52, and 72.04%, respectively) within the tested chicken-based formulations. Although rice showed the lowest carbohydrate digestibility (7.71%), it yielded the highest ER (11.12), reflecting high crude protein ATTD relative to the carbohydrate digestibility denominator rather than direct evidence of protein utilization efficiency. Seven candidate indicator amino acids (Ala, Ser, Val, Thr, His, Phe, and Ile) were identified based on their strong linear agreement with crude protein ATTD across both source categories. Exploratory group-level regressions showed positive associations between ER and selected candidate amino acid ATTD values, with the strongest relationships observed for Phe ( R 2 &#x202f;=&#x202f;0.89), Ala ( R 2 &#x202f;=&#x202f;0.87), and Ile ( R 2 &#x202f;=&#x202f;0.85). These findings suggest that carbohydrate source may be associated with protein and amino acid ATTD within fixed-matrix feline diet formulations. However, ER should be interpreted as a preliminary, matrix-sensitive descriptive index requiring further validation rather than as a direct measure of protein bioavailability or post-absorptive amino acid utilization.",
+      "categories": []
+    },
+    {
+      "pmid": "42666301",
+      "title": "Seroprevalence of Toxoplasma gondii infection and risk factors in sheep from Afyonkarahisar province, T&#xfc;rkiye.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Tun&#xe7; AC, Erez MS, Kozan E, Birdane FM, Herv&#xe9;-Claude LP",
+      "date": "2026 08 29",
+      "dateObject": "2026 08 29",
+      "abstract": "Toxoplasma gondii is a major zoonotic pathogen causing reproductive losses in sheep and posing significant public health risks, particularly through meat consumption and congenital infection. Despite Afyonkarahisar Province being one of the most important sheep-producing regions in T&#xfc;rkiye, no farm-level seroepidemiological study with structured risk factor analysis had previously been conducted there. A cross-sectional study was conducted between September and December 2025 on 550 sheep blood samples collected from 55 commercial farms across Afyonkarahisar Province. Anti- T. gondii antibodies were detected using a commercial indirect ELISA (ID Screen &#xae; Toxoplasmosis Indirect Multi-Species, IDvet), with samples classified as positive (sample-to-positive percentage [S/P%] &#x2265; 50%), doubtful (40%-50%), or negative (&#x2264;40%). A structured questionnaire was administered to collect 19 farm- and animal-level variables. Associations with seropositivity were evaluated by univariable analysis and a mixed-effects logistic regression model with farm as a random effect, with Firth's penalized regression applied to obtain stable estimates where quasi-complete separation occurred. The overall animal-level seroprevalence was 42.2% (232/550; 95% CI: 38.0%-46.4%), and 44 of 55 farms (80.0%; 95% CI: 67.0%-89.6%) were classified as seropositive. In multivariable analysis using Firth's penalized logistic regression, five variables were independently associated with higher seropositivity: flock-level history of abortion (aOR = 3.77; 95% CI: 2.41-6.00), age over 12 months (aOR = 3.54; 95% CI: 2.15-5.97), communal pasture use (aOR = 74.12; 95% CI: 10.22-9431.54, wide owing to quasi-complete separation), leaving aborted materials on site (aOR = 2.30; 95% CI: 1.49-3.61), and irregular barn cleaning (aOR = 2.32; 95% CI: 1.46-3.72). Cat presence was universal across all 55 farms, precluding statistical evaluation; however, stray cats had unrestricted access to feed and water on every farm, likely representing the primary driver of environmental oocyst contamination. Breed, sex, water source, and antiparasitic drug type were not significantly associated with seropositivity. T. gondii infection is highly endemic in sheep in Afyonkarahisar, with seroprevalence exceeding the national average. Stray cat access control, safe disposal of aborted materials, and routine differential diagnosis for abortifacient pathogens are recommended as priority interventions for reducing infection pressure and mitigating both animal health and public health risks within a One Health framework.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42666034",
+      "title": "EXPRESS: Colonization of Helicobacter Species and Associated Gastritis in Cats with Gastrointestinal disease: a Cross-Sectional Study on 154 Cases.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "authors": "Immonen TK, Pettersson JM, Vauhkonen H, Palen S, Weinstein I, Sironen T, Kant R, Sukura AKK, Airas N",
+      "date": "2026 08 29",
+      "dateObject": "2026 08 29",
+      "abstract": "ObjectivesThis study aimed to determine the occurrence of gastric Helicobacter species colonization in cats with confirmed gastrointestinal disease and to investigate possible associations between Helicobacter species colonization and gastric histopathological changes. It also aimed to identify the Helicobacter species present in cats in countryX.MethodsPrivately owned cats were prospectively enrolled between May 2018 and December 2022. Regardless of the reason for presentation, the owners of all cats presented to the cat clinic during that time period were systematically interviewed regarding chronic gastrointestinal signs. Cats with suspected chronic gastrointestinal disease underwent non-invasive diagnostic evaluation, and those with persistent suspicion proceeded to gastrointestinal biopsies. Full-thickness gastric and small intestinal biopsies were collected from each cat to evaluate histopathological lesions and to determine the presence and localization of Helicobacter species in the stomach. A total of 154 cats that underwent biopsies were included in the study. A subset of Helicobacter-positive samples was further analyzed to the species level using the nanopore sequencing technique.ResultsAll cats had chronic small intestinal disease. Of these, 79% had inflammatory enteropathy and 21% had lymphoma. Helicobacter species were detected in 75% of cats. Colonization with multiple Helicobacter species was common, with Helicobacter heilmannii being the most prevalent species. Gastritis was present in 58% of cats and occurred with similar frequency in both small intestinal diseases. The presence of Helicobacter species was significantly associated with lymphoplasmacytic gastritis. However, the density of bacterial colonization was not associated with gastritis severity.Conclusions and relevanceOur findings indicate that colonization by Helicobacter species is common in cats with gastrointestinal clinical signs and is associated with chronic lymphoplasmacytic gastritis. Nevertheless, the causal relationship between Helicobacter species and gastritis cannot be established with this study design due to the lack of a control group. Most cats were colonized with mixed Helicobacter species.",
+      "categories": [
+        "internalMedicine",
+        "oncology"
+      ]
+    },
+    {
+      "pmid": "42665890",
+      "title": "EXPRESS: Efficacy and tolerability of sequential COP and doxorubicin chemotherapy protocol for treatment of high-grade lymphoma in cats.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "authors": "Neiderfer K, Iwaki Y, Donnelly LL, Bryant JE, Bryan JN, Henry C",
+      "date": "2026 08 29",
+      "dateObject": "2026 08 29",
+      "abstract": "ObjectivesThe aim of this study was to evaluate tolerability of a COP/DOX protocol, where cats received COP (vincristine, cyclophosphamide, and prednisolone) induction weekly for 6 weeks followed by doxorubicin (DOX) consolidation every three weeks for 6 doses. A secondary objective was to evaluate the efficacy of COP/DOX protocol in this cohort of cats.MethodsRecords were retrospectively reviewed for cats with high-grade lymphoma treated with the COP/DOX protocol from 2005-2024. Data collected included signalment, method of diagnosis, tumor location, staging, baseline diagnostics, drug dosages, adverse events, re-staging diagnostics and treatment response. Progression free survival (PFS) and survival time (ST) were estimated using the Kaplan-Meier method and compared across selected variables using log-rank test. ResultsTwenty-seven cats met inclusion criteria. The most common form of lymphoma was gastrointestinal in 33.3% of cats. The number of cats achieving a maximal response of clinical remission (CR) and partial remission (PR) throughout COP were 10 (37.0%) and 12 (44.4%), respectively. Of the 5 cats that had stable disease (SD) or progressive disease (PD) during COP, 1 achieved PR on doxorubicin. Four cats (14.8%) did not respond either to the COP or DOX part of the protocol. The overall response rate at 6 weeks after initiation of COP/DOX was 77.7%. PFS was 98 days (Interquartile range (IQR) 41 - 141) and MST was 154 days (IQR 102 - 546). The cats that had CR at the completion of DOX had PFS of 554.5 days and MST of 546 days. High grade adverse events included grade 3 and 4 neutropenia (n=3 for each) during COP. Lymphocyte: monocyte ratio and response at the completion of DOX were significantly associated with PFS and MST.Conclusions and relevanceWe conclude that the COP/DOX protocol was well tolerated by this population. PFS and MST were similar to previous reports. The COP/DOX protocol is an effective treatment approach for cats with lymphoma.",
+      "categories": [
+        "internalMedicine",
+        "oncology"
+      ]
+    },
+    {
+      "pmid": "42665888",
+      "title": "EXPRESS: Effect of oral gabapentin administered in-hospital on behavioral stress, compliance, and physiologic stress markers: a randomized, double-blind, placebo-controlled trial.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "authors": "Canosa C, Summers SC",
+      "date": "2026 08 29",
+      "dateObject": "2026 08 29",
+      "abstract": "The aim of the study was to determine whether post-admission oral gabapentin improves stress indices and handling tolerance in hospitalized cats. In this double-blind, randomized, placebo-controlled, parallel-design trial, healthy client-owned cats were enrolled. After initial exam, cats received a 100-mg gabapentin or placebo capsule. At ninety minutes, a second examination, venipuncture, and brief dorsal positioning were performed. Five stress behaviors (struggling, vocalization, repelling, hypersalivation, mouth breathing), compliance, and enclosure activity score (1, sedate; 5, very active) were recorded; blood glucose, lactate, serum cortisol, and lymphocyte count were measured. Serum gabapentin concentrations were obtained 90-minutes post-capsule. Thirty cats (15 cats/group) were included in analysis. In the 15 cats that received gabapentin, median gabapentin dose was 21.7 mg/kg (range, 14.3-28.1 mg/kg), yielding a median serum concentration 16.4 mcg/mL (range, 1.3-24.5 mcg/mL). Most cats gabapentin-treated cats exhibited less stress behaviors (86%; 13/15) and better compliance for handling during examination (73%; 11/15) at 90-minutes post-capsule compared with 20% (3/15) and 26% (4/15), respectively, in placebo cats. Between group differences were not detected for behavioral or compliance scores during venipuncture or dorsal positioning. Enclosure activity scores in the gabapentin group decreased from median 3 at baseline to 2 from 90-360 minutes post dose (120, 240, and 300 minutes; P <0.05, respectively), consistent with mild sedation. Blood lactate and cortisol concentrations were lower in gabapentin group than placebo group (P = 0.002 and P = 0.04, respectively). A 100-mg oral dose of gabapentin provides modest improvement in stress behaviors during examination and favorably alters select physiologic stress markers within 90 minutes of administration, with sustained reductions in kennel activity. Findings support incorporating gabapentin within a multimodal, low stress approach for cats presenting without pre appointment medication, while maintaining contingency plans for additional sedation as needed.",
+      "categories": []
+    },
     {
       "pmid": "42661763",
       "title": "Case Report: Diet-associated iodine-deficiency goitrous hypothyroidism in a dog: a longitudinal clinical, endocrine, and ultrasonographic evaluation.",
@@ -41,6 +99,19 @@
       ]
     },
     {
+      "pmid": "42482571",
+      "title": "Serial measurement of serum pancreatic lipase immunoreactivity and trypsin-like immunoreactivity concentrations in cats with chronic enteropathy.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "authors": "Karra DA, Moraiti KT, Lidbury JA, Steiner JM, Newman SJ, Giaretta PR, Cavasin JP, Xenoulis PG",
+      "date": "2026 08 28",
+      "dateObject": "2026 08 28",
+      "abstract": "ObjectivesSerial measurement of serum feline pancreatic lipase immunoreactivity (fPLI) and trypsin-like immunoreactivity (fTLI) concentrations in cats with chronic enteropathy (CE) has not been previously reported. The aim of the current observational study was to serially evaluate serum fPLI and fTLI concentrations in cats with different forms of CE.MethodsA total of 60 cats with CE were included, diagnosed either with immunosuppressive-responsive enteropathy (IRE; n&#x2009;=&#x2009;22), food-responsive enteropathy (FRE; n&#x2009;=&#x2009;7) or low-grade intestinal T-cell lymphoma (LGITL; n&#x2009;=&#x2009;32, one diagnosed previously as FRE progressed to lymphoma). Serum fPLI and fTLI concentrations were measured in 252 and 245 serum samples, respectively, from 60 cats with CE at initial presentation and during re-examination.ResultsSerum fPLI concentrations indicative of pancreatitis were found in 3/60 cats (one with IRE and two with LGITL) at initial presentation and in an additional 8/60 cats (four with IRE and four with LGITL) during treatment (24/252 serum samples). Serum fTLI concentrations indicative of exocrine pancreatic insufficiency were found in 2/60 cats (both with IRE) at initial presentation and during re-examination (n&#x2009;=&#x2009;3/245). None of the cats with FRE had fPLI concentrations above or fTLI concentrations below the respective reference intervals (RIs).Conclusions and relevanceSerum fPLI concentrations may fluctuate during treatment in a subset of cats with IRE or LGITL and, in some cats, are indicative of pancreatitis. Serum fTLI concentrations may vary within and outside the RI in a relatively small proportion of cats with IRE. The long-term clinical importance of these findings requires further study.",
+      "categories": [
+        "internalMedicine",
+        "oncology"
+      ]
+    },
+    {
       "pmid": "42332403",
       "title": "Ala vestibuloplasty for treatment of feline brachycephalic syndrome: a description of the procedure and long-term outcomes in 27 cats.",
       "journal": "Journal of Feline Medicine and Surgery",
@@ -51,6 +122,18 @@
       "categories": [
         "internalMedicine",
         "surgery"
+      ]
+    },
+    {
+      "pmid": "42665336",
+      "title": "Diagnostic Performance of Immunoglobulin E Serology, Prick Test and Patch Test With Food Allergens in Dogs With Atopic Dermatitis and Adverse Food Reactions Using the Double-Blind Placebo-Controlled Food Challenge as Gold Standard.",
+      "journal": "Veterinary Dermatology",
+      "authors": "Sofou EI, Aleksandrova S, Samuel E, Chatzis M, Saridomichelakis MN",
+      "date": "2026 08 28",
+      "dateObject": "2026 08 28",
+      "abstract": "In dogs with adverse food reactions (AFRs), immunoglobulin (Ig)E serology, prick test and patch test with food allergens have shown variable diagnostic performance for the identification of the offending foods, when the latter were identified using open food challenges. To evaluate the diagnostic performance of these tests in dogs with atopic dermatitis (AD) and AFRs, using the double-blind placebo-controlled food challenge (DBPCFC) as the gold standard. Twelve dogs with AD and AFRs underwent DBPCFCs with eight food items. IgE serology, prick test and patch test with the same eight food allergens were performed after the diagnosis of AD and before the diagnostic investigation for AFRs and the DBPCFCs. The sensitivity (3%-60.6%), specificity (54.8%-98.4%), positive predictive value (25%-66.7%) and negative predictive value (64.1%-72.3%) of the three tests and of their combination were unsatisfactory. Furthermore, their positive and negative likelihood ratio values were not in the clinically informative range, apart from the prick test having a weakly informative positive likelihood ratio value of 3.81. Under the conditions of this study, the diagnostic performance of IgE serology, prick test and/or patch test with food allergens was poor using the DBPCFC as gold standard.",
+      "categories": [
+        "dermatology"
       ]
     },
     {
@@ -1083,28 +1166,6 @@
       "abstract": "Ascites in dogs results from a range of systemic and localized disorders. Early distinction between transudative and exudative peritoneal effusions, and between septic and non-septic exudates, is crucial for guiding emergency interventions and treatment strategies. To evaluate the relationship between echogenicity of ascites and results of fluid analysis, and to determine whether echogenicity can help differentiate transudates from exudates. Retrospective study including 100 client-owned dogs with ultrasonographically confirmed peritoneal effusion and fluid analysis performed within 3 h of imaging. Effusions were classified according to total nucleated cell count (TNCC) and total protein concentration (TPC) as follows: transudates (<1,500 cells/&#x3bc;L, <2.5 g/dl), exudates (&#x2265;5,000 cells/&#x3bc;L, &#x2265;2.5 g/dl), or other (hemoperitoneum, biliary peritonitis, uroperitoneum). Static DICOM images and cine loops were acquired and independently assessed by a board-certified radiologist and a radiology resident. Consensus was reached for all cases. Effusions with uniform echo-free appearance were deemed anechogenic; those containing multiple or confluent hyperechoic foci were classified as echogenic. Sixty-six effusions were echogenic and 34 anechogenic. Of the 40 exudates, 80% were echogenic compared to 43% of the 41 transudates. All 17 septic exudates (100%) were echogenic compared to 65% of 23 non-septic exudates. TNCC (&#x2265;5,000 cells/&#x3bc;L) and TPC (>4.5 g/dL) were strongly correlated with echogenic appearance. Echogenicity correlated significantly with exudative and septic effusions. Echogenicity may offer a rapid, non-invasive method to complement cytologic and biochemical analyses. Incorporating echogenicity assessment into abdominal ultrasonographic protocols may hasten critical clinical decision-making and improve outcomes in dogs with ascites.",
       "categories": [
         "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42626406",
-      "title": "Measuring canine impulsivity: translation and validation of a German dog impulsivity assessment scale.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Kero D, Dolezal M, Affenzeller N",
-      "date": "2026 08 21",
-      "dateObject": "2026 08 21",
-      "abstract": "Psychometric questionnaires are used to assess canine temperament, aiding in the identification of behavioral and affective traits. Impulsivity, defined as a predisposition toward rapid, unplanned reactions to internal or external stimuli, is one such trait and is considered a contributing factor in various behavioral problems, including aggression. This study aimed to translate and validate the Dog Impulsivity Assessment Scale (DIAS) for use in German-speaking populations. Data from 2,788 dog-caretaker dyads were subjected to an exploratory factor analysis (EFA), revealing a four-factor structure. This structure was subsequently confirmed using a confirmatory factor analysis (CFA) in a separate subsample of 557 dyads. The resulting factors were labeled Excitability, Reactive Aggressive Behavior, Interest in Environment, and behavioral Regulation and explained 32.7% of the total variance. Three original scale items did not demonstrate adequate stability. Item 12 (\" takes a long time to lose interest \") was removed from the final German version, whereas Items 6 (\" appears to be sorry \") and 16 (\" reacts very quickly \") likely reflect cross-cultural differences in interpretation. These results support the German DIAS as a useful tool for assessing impulsivity related traits in dogs and underscore the value of cross-cultural research in advancing our understanding of canine impulsivity. Further research is needed to explore cultural influences, including the increasing knowledge of dog behavior in recent decades, which may shape dog caretakers' perceptions and interpretations of their dogs' behavior and thus influence their responses to certain questions in behavioral assessment scales over time.",
-      "categories": []
-    },
-    {
-      "pmid": "42622030",
-      "title": "Effects of a resveratrol-containing nutraceutical on cardiac biomarkers, echocardiographic parameters, and oxidative stress in dogs with naturally occurring cardiac disease.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Kim DY, Park HM",
-      "date": "2026 08 20",
-      "dateObject": "2026 08 20",
-      "abstract": "Cardiac diseases such as myxomatous mitral valve disease (MMVD) and dilated cardiomyopathy (DCM) are common in dogs and are associated with progressive cardiac dysfunction and increased oxidative stress. Despite the widespread use of nutraceuticals in veterinary medicine, clinical evidence supporting their efficacy remains limited. This study aimed to evaluate the effects of a resveratrol-containing nutraceutical on cardiac biomarkers, echocardiographic parameters, oxidative stress, and safety in dogs with naturally occurring cardiac disease. This prospective, non-randomized, open-label study included 24 client-owned dogs allocated to a treatment group ( n = 12) or a control group ( n = 12). Dogs in the treatment group received a resveratrol-containing nutraceutical (with taurine, vitamin E, and coenzyme Q10) once daily for approximately one month, while control dogs received standard cardiac medications without nutraceutical supplementation. Cardiac biomarkers (NT-proBNP, cTnI), echocardiographic variables including global longitudinal strain (GLS), and oxidative stress markers (TAC, MDA) were evaluated. The percent change in NT-proBNP was significantly lower in the treatment group than in controls (-4.51 &#xb1; 46.21% vs. +44.61 &#xb1; 62.36%, P = 0.024), indicating attenuation of NT-proBNP elevation. TAC increased in the treatment group but decreased in controls (7.85 &#xb1; 7.07% vs. -8.00 &#xb1; 5.31%, P < 0.0001). No significant between-group differences were observed for cTnI ( P = 0.164), GLS ( P = 0.214), or MDA ( P = 0.590). A significant negative association was observed between changes in TAC and NT-proBNP ( r = -0.471, P = 0.020). No clinically relevant adverse effects were observed. Findings from this exploratory pilot study suggest that a resveratrol-containing nutraceutical was associated with attenuation of NT-proBNP elevation and an increase in total antioxidant capacity in dogs with cardiac disease. These preliminary findings suggest a potential role for antioxidant-based nutraceuticals as adjunctive therapy, although further studies with larger populations and longer follow-up are needed.",
-      "categories": [
-        "cardiology"
       ]
     },
     {
@@ -2285,19 +2346,6 @@
       ]
     },
     {
-      "pmid": "42482571",
-      "title": "EXPRESS: Serial measurement of serum pancreatic lipase immunoreactivity and trypsin-like immunoreactivity concentrations in cats with chronic enteropathy .",
-      "journal": "Journal of Feline Medicine and Surgery",
-      "authors": "Karra DA, Moraiti KT, Lidbury JA, Steiner JM, Newman SJ, Giaretta PR, Cavasin JP, Xenoulis PG",
-      "date": "2026 07 22",
-      "dateObject": "2026 07 22",
-      "abstract": "ObjectivesSerial measurement of serum feline pancreatic lipase immunoreactivity (fPLI) and trypsin-like immunoreactivity (fTLI) concentrations in cats with chronic enteropathy (CE) has not been previously reported. The aim of the current observational study was to serially evaluate serum fPLI and fTLI concentrations in cats with different forms of CE.MethodsA total of 60 cats with CE were included, diagnosed either with immunosuppressive-responsive enteropathy (IRE, n=22), food-responsive enteropathy (FR&#x395;, n=7) or low-grade intestinal T-cell lymphoma (LGITL, n=32, one diagnosed previously as FRE progressed to lymphoma). Serum fPLI and fTLI concentrations were measured in 252 and 245 serum samples, respectively, from 60 cats with CE at initial presentation and during reexaminations.ResultsSerum fPLI concentrations indicative of pancreatitis were found in 3/60 cats (1 with IRE and 2 with LGITL) at initial presentation, and in an additional 8/60 cats (4 with IRE and 4 with LGITL) during treatment (24/252 serum samples). Serum fTLI concentrations indicative of exocrine pancreatic insufficiency (EPI) were found in 2/60 cats (both with IRE) at initial presentation and during reexaminations (3/245). None of the cats with FRE had fPLI concentrations above or fTLI concentrations below the respective reference intervals.Conclusions and relevanceSerum fPLI concentrations may fluctuate during treatment in a subset of cats with IRE or LGITL, and in some cats are indicative of pancreatitis. Serum fTLI concentrations may vary within and outside the reference interval in a relatively small proportion of cats with IRE. The long-term clinical importance of these findings requires further studying.",
-      "categories": [
-        "internalMedicine",
-        "oncology"
-      ]
-    },
-    {
       "pmid": "42474547",
       "title": "High prevalence of Giardia spp. in cats without diarrhea and agreement between diagnostic techniques in the municipality of Londrina, Paran&#xe1;, Brazil.",
       "journal": "Veterinary Research Communications",
@@ -2479,28 +2527,6 @@
       ]
     },
     {
-      "pmid": "42454743",
-      "title": "EXPRESS: Factors associated with antimicrobial drug prescription in cats receiving outpatient care at a veterinary teaching hospital.",
-      "journal": "Journal of Feline Medicine and Surgery",
-      "authors": "Thane K, Kwong M, Destefano IM, Sweigart B, Beaulac K, Doron S, Fellman C",
-      "date": "2026 07 15",
-      "dateObject": "2026 07 15",
-      "abstract": "Investigation of factors associated with antimicrobial drug prescription (ADP) in cats receiving outpatient care is lacking, which limits antimicrobial stewardship efforts and benchmarking of veterinary antimicrobial use. This study aimed to identify factors associated with ADP in cats receiving outpatient care at a veterinary teaching hospital. A retrospective analysis of electronic medical record data from cats receiving outpatient care at a veterinary teaching hospital in 2022 was performed. Subjects included 2,245 cats with 3,973 outpatient visits. The primary study outcome was receipt of systemic ADP during or immediately following an outpatient visit; an exploratory outcome was receipt of a \"Watch\" or \"Reserve\" (WR) ADP using the World Health Organization (WHO) Access-Watch-Reserve (AWaRe) classification adapted to include veterinary agents. Independent variables including patient demographics, hospital service, and owner sociodemographic factors were identified for model fitting using univariable logistic regression; multivariable models were built using generalized estimating equations. 9.2% of outpatient visit records (367/3,973) were associated with &#x2265;1 ADP. Factors significantly associated with receipt of ADP included patient sex, hospital service visited, veterinarian training status, visit duration, and urine culture performed. Among patients receiving any antimicrobial, factors associated with receipt of WHO-WR ADP included hospital service, visit date, receipt of >1 ADP, and history of a visit to any hospital service within the prior month. These findings expand our understanding of antimicrobial usage in cats. This knowledge identifying factors associated with antimicrobial use can be used to refine local prescribing practices and supports the development of veterinary and One Health antimicrobial stewardship initiatives and veterinary antimicrobial use benchmarking metrics.",
-      "categories": []
-    },
-    {
-      "pmid": "42457205",
-      "title": "External Validation of a Custom-Trained Artificial Intelligence Model for Canine Ear Canal Disease and Comparison With Veterinary Professionals.",
-      "journal": "Veterinary Dermatology",
-      "authors": "McInnis M, Liu CC, Arbona V, Apostolopoulos N",
-      "date": "2026 07 15",
-      "dateObject": "2026 07 15",
-      "abstract": "Otitis externa (OE) is common in dogs, yet accurate otoscopic diagnosis remains challenging. Artificial intelligence (AI) may augment clinical decision-making in otoscopy. Previous work suggested that dataset size and duplicate images affect model performance. External validation of four YOLOv8n models using new images and comparison with six veterinary professionals of varying experience. We expected that models trained on larger, deduplicated datasets would demonstrate superior performance, and that the best-performing model would outperform non-specialist veterinary professionals while remaining comparable to board-certified referral clinicians. Four YOLOv8n models (A-D) were trained using different dataset compositions and externally validated on 300 previously unseen otoscopic images (100 healthy, 100 OE, 100 ear canal masses). Predictions were compared with reference labels assigned by a board-certified referral clinician. Six veterinary professionals independently classified the same images, blinded to ground truth and AI outputs. Performance was assessed across multiple confidence thresholds (0.25-0.75) using overall agreement, Cohen's &#x3ba;, sensitivity and specificity. Model D (largest deduplicated dataset) demonstrated the highest external performance, achieving 66.3% agreement and &#x3ba;&#x2009;=&#x2009;0.508 at a 0.25 confidence threshold. Classwise sensitivity/specificity for Model D (0.25) were: healthy (90.0%/69.0%), OE (59.0%/75.5%) and mass (50.0%/93.5%). Veterinary professionals outperformed all AI models (median agreement 77.2%, &#x3ba;&#x2009;=&#x2009;0.658), with the referral clinician achieving the highest concordance. Model D generalised best during external validation yet remained inferior to veterinary professionals. These results support the model's role as a decision-support tool rather than a replacement for clinical expertise.",
-      "categories": [
-        "dermatology"
-      ]
-    },
-    {
       "pmid": "42443922",
       "title": "Effect of mixed microbial silage of mulberry and navel orange residue on growth performance, blood metabolism, and rumen microbiome changes in beef cattle.",
       "journal": "BMC Veterinary Research",
@@ -2523,16 +2549,6 @@
         "surgery",
         "dermatology"
       ]
-    },
-    {
-      "pmid": "42444066",
-      "title": "EXPRESS: Comparing the Efficacy of Transmucosal and Subcutaneous Glucagon Administration in Response to Insulin-Induced Hypoglycemia in Healthy Cats.",
-      "journal": "Journal of Feline Medicine and Surgery",
-      "authors": "Lam JPM, Justus-Heale O, Snead E",
-      "date": "2026 07 14",
-      "dateObject": "2026 07 14",
-      "abstract": "ObjectivesTo evaluate the efficacy of two different formulations of glucagon given by three different routes (subcutaneous; SQ, rectal, intranasal; IN) for correcting insulin-induced hypoglycaemia in cats and to describe any adverse effects and compare the time required for administration by each route.MethodsA randomized, nonblinded, sham-controlled crossover study was conducted in six healthy cats, with a 7-day washout period between treatments. Hypoglycemia was induced using a continuous rate infusion (CRI) of rapid-acting Lispro insulin. Glucagon nasal powder (single-dose, ready-to-use) was given intranasally and rectally and compared to subcutaneous glucagon injection and intranasal sham control. Blood glucose concentration (BG) was measured from samples collected at baseline (T-15), after induction of hypoglycemia (T0), and at 5-minute intervals for 30 minutes (min), and then at 15 min intervals for 1 hour (h) following glucagon administration. Plasma glucagon and potassium (K+) concentrations were measured at T-15, T0, and T15 and T30 following glucagon administration. The time taken to prepare and administer each treatment was recorded.ResultsMedian BG was 2.6 mmol/L at T0 and increased significantly following glucagon administration by all routes, reaching peak median concentrations of 11.2 mmol/L (intranasal), 9.7 mmol/L (rectal), and 10.15 mmol/L (subcutaneous). Plasma glucagon concentrations increased markedly by T15, with the highest concentrations observed following intranasal administration (1562 pmol/L), followed by subcutaneous (191.7 pmol/L) and rectal (158 pmol/L) routes of administration. Plasma potassium decreased following insulin administration and increased modestly by T30 following glucagon administration by all routes. No serious adverse effects occurred following glucagon administration.Conclusions and Clinical ImportanceTransmucosal glucagon effectively restores BG towards baseline following insulin-induced hypoglycemia with minimal side effects. The IN route resulted in the highest plasma glucagon and BG concentrations compared to the rectal and subcutaneous routes of administration. Further studies are needed to quantify the efficacy and safety of transmucosal glucagon in diabetic cats in response to spontaneous insulin-induced hypoglycemia.",
-      "categories": []
     },
     {
       "pmid": "42136007",
@@ -2696,16 +2712,6 @@
         "internalMedicine",
         "surgery"
       ]
-    },
-    {
-      "pmid": "42415333",
-      "title": "EXPRESS: Feline stress through owners' eyes: Comparing perceptions in veterinary clinics with and without designated feline-only areas or hours.",
-      "journal": "Journal of Feline Medicine and Surgery",
-      "authors": "Baltz A",
-      "date": "2026 07 08",
-      "dateObject": "2026 07 08",
-      "abstract": "This study compared veterinary clinics with and without designated feline-only areas or hours across four domains: feline stress during visits, handling and restraint techniques, owner education on preventive care and common diseases, and overall client satisfaction. A cross-sectional questionnaire study was conducted across eight clinics in Greater Lisbon, Portugal (November 2015-January 2016). In total, 204 cat owners completed a 37-question survey evaluating clinic experience, feline stress, owner education, and service quality. Respondents were divided based on whether their clinic offered feline-segregated areas or hours (n = 96) or not (n = 108). Data were analysed using Chi-square and Mann-Whitney U tests (p < 0.05), with effect sizes calculated via Cram&#xe9;r's V and rank-biserial correlation. Owners at non-segregated clinics reported greater difficulty removing cats from carriers (p = 0.034) and administering home medication (p = 0.040). Their cats were more frequently scruffed (18.4% vs 7.4%) or sedated (10.3% vs 2.5%; p = 0.046; Cram&#xe9;r's V = 0.24), with the presence of other species increasing perceived stress (p = 0.004; r = 0.21). Non-segregated clinic owners also received significantly less information regarding FeLV (42.6% vs 17.7% uninformed; p < 0.001), FIV (40.7% vs 15.6%; p < 0.001), flea prevention (27.8% vs 7.3%; p < 0.001), and deworming (21.3% vs 5.2%; p = 0.001). Satisfaction with staff and veterinarians was higher in the segregated group (p = 0.001 for both). Clinics utilizing designated feline-only spaces or hours demonstrated superior outcomes across all evaluated domains. These findings provide quantitative support for feline-friendly principles, suggesting that investing in species segregation, staff training, and client education yields tangible improvements in animal welfare, client relationships, and veterinary practice quality.",
-      "categories": []
     },
     {
       "pmid": "42414994",
