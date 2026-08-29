@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-08-28T05:25:31.477Z",
+  "updated_at": "2026-08-29T03:11:24.799Z",
   "papers": [
+    {
+      "pmid": "42661763",
+      "title": "Case Report: Diet-associated iodine-deficiency goitrous hypothyroidism in a dog: a longitudinal clinical, endocrine, and ultrasonographic evaluation.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Lim S, Sohn SJ, Hong YJ",
+      "date": "2026 08 28",
+      "dateObject": "2026 08 28",
+      "abstract": "Iodine-deficiency hypothyroidism is well recognized in humans, but is considered rare in dogs, largely because commercial canine diets typically meet the established iodine requirements. Herein, we describe a dog that developed primary hypothyroidism with bilateral goiter attributable to dietary iodine deficiency. A 9-year-old spayed female Chihuahua fed a non-standardized home-prepared diet without vitamin and mineral supplementation presented with mild weight gain and bilaterally enlarged thyroid lobes, but without the classic clinical signs of hypothyroidism. Basal thyroid hormone testing revealed markedly decreased total and free thyroxine concentrations with pronounced elevation of thyroid-stimulating hormone levels, consistent with primary hypothyroidism. Ultrasonography revealed symmetric thyroid enlargement with preserved architecture and mild diffuse hypoechogenicity. Fine-needle aspiration excluded neoplasia, and the serum inorganic iodine concentration was severely decreased. The dog's diet was changed to a commercially prepared, iodine-supplemented formula without thyroid hormone replacement. Over the following 2&#x202f;months, serum thyroid hormone concentrations normalized, serum iodine concentrations returned to reference values, and ultrasonographic abnormalities improved markedly, with a substantial reduction in thyroid size and restoration of homogeneous echogenicity. This case highlights the potential for iodine-deficiency hypothyroidism to occur in dogs consuming unbalanced home-prepared diets and demonstrates the reversibility of functional abnormalities and marked ultrasonographic improvement following restoration of adequate dietary iodine intake.",
+      "categories": [
+        "internalMedicine",
+        "oncology"
+      ]
+    },
+    {
+      "pmid": "42661687",
+      "title": "SARS-CoV-2 infection in dogs, dog owners, dog breeders, and veterinarians in the Ashanti and Greater Accra regions of Ghana-zoonotic implications.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Amemor E, Folitse RD, Hoerauf A, Parcina M, Ritter M, Burimuah V, Yeboah BA, Emikpe BO",
+      "date": "2026 08 28",
+      "dateObject": "2026 08 28",
+      "abstract": "After the COVID-19 pandemic, there is an increasing concern over the causative agent, SARS-CoV-2 , mutating into a more virulent strain in animals and spilling over to humans, a potential threat of future pandemics. Anthropo-zoonotic transmissions of the virus can as well not be ruled out. The dynamics of spillover of SARS-CoV-2 , particularly from humans to animals and has not been fully studied. Livestock and pet owners, as well as animal health workers, have been documented to be at greater risk of COVID-19 infection. To effectively control and prevent the COVID-19 disease, the virus needs to be adequately studied in humans, animals and the environment. There is limited information on COVID-19 infections in animals in Ghana. A cross-sectional study was carried out to ascertain the COVID-19 infection status in dogs, their owners, dog breeders, and veterinarians in Ghana, specifically in the Ashanti and Greater Accra regions. Blood samples and nasopharyngeal swabs were taken from dogs for serological and molecular analysis. Questionnaires on COVID-19 risk factors were administered. SARS-CoV-2 antibodies in sera and viral RNA in swabs were detected using ELISA and RT- PCR, respectively. It was observed that 2.3% (CI = 1%-5.3%) of the dogs tested positive on RT-PCR for SARS-CoV-2 ; 5.1% (CI = 2.4%-10.7%) of humans tested positive on PCR for SARS-CoV-2 . A seroprevalence of 6.5% (CI = 3.9%-0.6%) of SARS-CoV-2 was detected in dogs, and 99.1% (CI = 95.3%-99.8%) seropositivity was detected in humans. Close proximity to livestock was statistically associated with active SARS-CoV-2 infection in dogs ( p = 0.004). In humans, a statistically significant association was found between infrequent mask use in public and a positive SARS-CoV-2 infection ( p = 0.009). This study provides evidence of natural SARS-CoV-2 infection in dogs in Ghana, among the first such indications in the sub-Saharan African region. Close proximity to livestock was associated with infection in dogs and inconsistent mask use with infection in humans, though the cross-sectional design precludes determination of transmission direction, and these associations should be regarded as hypothesis-generating. Longitudinal studies with larger samples and viral sequencing will clarify SARS-CoV-2 transmission dynamics among humans, animals, and environment.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42663853",
+      "title": "Interventional tracheoscopy for management of intratracheal plasmacytoma in a dog.",
+      "journal": "Veterinary Research Communications",
+      "authors": "Malheiro JIO, da Silva KB, de Jesus IS, de Ara&#xfa;jo AVN, Bezerra J&#xfa;nior PS, da Silva SF, de Oliveira Monteiro FD, Crivelaro RM, Thiesen R, Teixeira PPM",
+      "date": "2026 08 28",
+      "dateObject": "2026 08 28",
+      "abstract": "Intraoperative haemorrhage during interventional tracheoscopy for intratracheal masses can pose a life-threatening challenge. This report emphasizes the technical management of severe bleeding during endoscopic excision of a rare tracheal plasmacytoma in a dog, highlighting the importance of immediate replacement of the endoscope with a larger-calibre device and use of bipolar electrosurgical forceps placed parallel to the endoscope. An 8-year-old male Standard Poodle presented with a two-month history of nonproductive cough and exertional dyspnea. Cervical radiography revealed a nodular mass (1.21&#x2009;&#xd7;&#x2009;1.13&#xa0;cm) attached to the dorsal wall of the cervical trachea. During anesthetic induction for diagnostic and therapeutic tracheoscopy, the endotracheal tube inadvertently compressed the mass, causing substantial haemorrhage with imminent risk of blood aspiration and airway obstruction. The endoscope was immediately replaced with a larger-calibre (5.9&#xa0;mm) device to improve lavage and suction. After removing the endotracheal tube to permit parallel instrument placement, initial attempted resection using a polypectomy snare failed due to recurrent bleeding. Bipolar electrosurgical forceps were then introduced parallel to the endoscope, directly grasping and coagulating the tumour base, which achieved hemostasis and enabled gross endoscopic excision (macroscopic removal of the visible tumour). The dog recovered without respiratory distress and was discharged the same day. Histopathology and immunohistochemistry confirmed extramedullary plasmacytoma. Gross endoscopic excision was achieved; histological margins were not assessable due to cautery artefact. The dog remained free of respiratory signs and tumour recurrence at 12-month follow-up.",
+      "categories": [
+        "internalMedicine",
+        "oncology",
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42332403",
+      "title": "Ala vestibuloplasty for treatment of feline brachycephalic syndrome: a description of the procedure and long-term outcomes in 27 cats.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "authors": "Shinsako D, McCoy AM, Samuelson JP, Billhymer AC, Phillips H",
+      "date": "2026 08 28",
+      "dateObject": "2026 08 28",
+      "abstract": "ObjectivesThe aims of the study were to describe a technique for feline ala vestibuloplasty and report long-term postoperative outcomes in 27 brachycephalic (BC) cats.MethodsThe study was a retrospective, questionnaire-based study of owned, clinically affected BC cats (n&#x2009;=&#x2009;27). Owners completed a single, two-part questionnaire regarding presence or absence, frequency or severity of clinical signs before and more than 6 months after ala vestibuloplasty. The questionnaire consisted of questions regarding respiratory and gastrointestinal signs, sleep and activity-related behaviors, and ocular, aural and dental health before and after surgery. Response options were scored and individual scores summed to give a total clinical severity score for each cat (range 0-129). Relationships between clinical variables and outcome were evaluated by regression analysis. A total of 13 cats in the cohort were also enrolled in a previous questionnaire-based study reporting real-time preoperative clinical signs. Owner responses regarding preoperative clinical signs gathered at that time and in the present study were compared to assess for recall bias.ResultsOf the 27 cats, 25 (92.5%) sustained long-term clinical improvement for a mean of 1190 days (range 354-1802 days) after ala vestibuloplasty. Median clinical severity score improved from 48 preoperatively to 17 postoperatively ( P <0.0001). Owners reported reduced frequencies of sneezing ( P <0.0001), coughing ( P &#x2009;=&#x2009;0.001), nasal discharge ( P &#x2009;=&#x2009;0.0002), snoring ( P <0.0001), open-mouth breathing ( P &#x2009;=&#x2009;0.001), dyspnea ( P &#x2009;=&#x2009;0.0001), difficulty eating ( P &#x2009;=&#x2009;0.04), messy eating ( P &#x2009;=&#x2009;0.01), dyspnea while eating ( P &#x2009;=&#x2009;0.003), regurgitation ( P &#x2009;=&#x2009;0.03), vomiting ( P &#x2009;=&#x2009;0.03) and dyspnea during activity ( P &#x2009;=&#x2009;0.007). Owners also reported increased frequency ( P &#x2009;=&#x2009;0.0002) and duration ( P &#x2009;=&#x2009;0.0004) of activity. Owners of cats enrolled in both studies recalled their cats' preoperative clinical signs as slightly more severe than originally reported.Conclusions and relevanceAla vestibuloplasty yields long-term clinical improvements in cats' respiratory, gastrointestinal, sleep, activity, aural and ocular signs. Ala vestibuloplasty should be considered for effective treatment of the described clinical signs of feline BC syndrome.",
+      "categories": [
+        "internalMedicine",
+        "surgery"
+      ]
+    },
     {
       "pmid": "42658783",
       "title": "Effect of amiodarone, diltiazem, or both to achieve strict heart rate control in dogs with atrial fibrillation.",
@@ -48,6 +100,54 @@
       "date": "2026 08 27",
       "dateObject": "2026 08 27",
       "abstract": "Stress may influence blood pressure (BP), making home-based measurements potentially more reliable. Compare BP, stress, and clinical laboratory results obtained from dogs in 2 environments. Forty client-owned healthy dogs. A crossover observational study evaluated 40 healthy dogs after acclimatization in hospital and home settings. The BP was measured using Doppler and oscillometry, and clinical laboratory and stress-related variables were recorded. Blood and urine samples, including for cortisol determination, were collected. One urine sample was collected by the owner without veterinary intervention (referred to as PAZ urine). Statistical hypothesis testing compared measurements between settings, and multiple regression analysis was used to estimate the associations between physiological, biochemical, and stress-related variables on urinary cortisol concentrations. The dogs were adults, with most being female and mixed-breed. Stress scores and Doppler BP results were higher in the hospital environment (P&#xa0;<&#xa0;.001). Hospital BP results exceeded home measurements by 46&#xa0;mmHg in normotensive and 48&#xa0;mmHg in prehypertensive, hypertensive, and severely hypertensive groups. Most of the laboratory variables assessed, including serum and urinary cortisol concentrations, also were increased in the hospital setting (P&#xa0;<&#xa0;.001). Regression analysis indicated that urinary cortisol concentration was negatively associated with systolic BP and the urine protein-to-creatinine ratio, and positively associated with proteinuria, urine creatinine concentration, and urine cortisol-to-creatinine ratio (P&#xa0;<&#xa0;.001). Dogs evaluated in the hospital excreted an additional 135.61&#xa0;units of cortisol (P&#xa0;<&#xa0;.001). The hospital setting can influence BP, clinical laboratory results, and stress-related variables.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42660198",
+      "title": "Urinary angiotensinogen indexed to creatinine or protein is higher in cats with surgically induced chronic kidney disease compared to healthy cats.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Huang JHC, Louren&#xe7;o BN, Schmiedt CW",
+      "date": "2026 08 27",
+      "dateObject": "2026 08 27",
+      "abstract": "To compare urinary angiotensinogen, a proposed biomarker for intrarenal renin-angiotensinogen system (RAS) activity, between cats with surgically induced chronic kidney disease (CKD) and healthy cats and explore its correlation with select clinical and circulating renin-angiotensin-aldosterone system (RAAS) markers. Urine was banked from September 2022 through April 2023 during a study comparing circulating RAAS markers between cats with induced CKD and sex- and life stage-matched healthy cats. Urinary angiotensinogen concentration was measured from October 2025 through July 2026 using a validated in-house ELISA. Urinary concentration of angiotensinogen was indexed to that of creatinine or protein to account for urine concentration or indiscriminate urinary protein loss, respectively. 28 cats (n = 14/group) were included. The median (IQR) indexed urinary angiotensinogen was higher in cats with CKD than in healthy cats (urinary angiotensinogen-to-protein ratio, 9.80 [5.47, 17.22] vs 3.38 [1.09, 5.52]; urinary angiotensinogen-to-creatinine ratio, 0.99 [0.40, 2.34] vs 0.31 [0.21, 0.60]). In cats with CKD, indexed urinary angiotensinogen correlated positively with serum creatinine concentration (urinary angiotensinogen-to-protein ratio, &#x3c1; = 0.573; urine angiotensinogen-to-creatinine ratio, &#x3c1; = 0.642). In healthy cats, urinary angiotensinogen-to-creatinine ratio correlated negatively with several circulating RAAS markers, including serum angiotensin II (&#x3c1; = -0.547) and angiotensin 1-7 (&#x3c1; = -0.631) equilibrium concentrations. The intrarenal RAS, assessed by urinary angiotensinogen, is activated in cats with induced CKD, and its activity is inversely related to that of the circulating RAAS in healthy cats but not those with CKD. Concurrent evaluation of circulating RAAS and intrarenal RAS markers is required for complete assessment of this system.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42660193",
+      "title": "Clinical presentation, diagnosis, and treatment of caudal mediastinal paraesophageal abscesses in dogs: a multi-institutional retrospective study.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Biehl K, Williams RW, Orr E, Thieman Mankin K, Piegols H, Blew J, Holt DE, Solari FP, Vilaplana Grosso FR",
+      "date": "2026 08 27",
+      "dateObject": "2026 08 27",
+      "abstract": "To describe the clinical presentation, diagnostic findings, management, and short- and long-term outcomes of dogs with caudal mediastinal paraesophageal abscesses (CMPA) in a multi-institutional retrospective cohort. 12 client-owned dogs with CMPA confirmed on CT and/or surgery. The most common presenting complaints were inappetence and lethargy. Tachypnea and dyspnea were frequent physical examination findings at presentation. All 12 dogs underwent CT. The CMPA was located within the mediastinal serous cavity in 7 of 12 dogs. Communication between the CMPA and the lumen of the esophagus was noted in 3 dogs, all of which had associated esophageal foreign bodies. Ten dogs underwent surgical treatment, which involved drainage (n = 8) and debridement (7) of the abscess, combined with antimicrobial therapy. All dogs who survived surgery were discharged from the hospital. No recurrence was identified in dogs with available long-term follow-up. In dogs, CMPA is associated with nonspecific clinical signs, and CT is the imaging modality of choice for diagnosis. Treatment, including surgical drainage, debridement, and appropriate antimicrobial therapy, is associated with a favorable prognosis.",
+      "categories": [
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42660187",
+      "title": "Different fresh gas flows produce similar rebreathing and regional ventilation during helmet continuous positive airway pressure in sedated Beagles.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Mandelbaum R, Albano V, Vicenti C, Ali H, Martin-Flores M, Adler A, Araos J",
+      "date": "2026 08 27",
+      "dateObject": "2026 08 27",
+      "abstract": "To evaluate the effects of 4 oxygen driving flows on carbon dioxide rebreathing and ventilation in healthy sedated dogs receiving helmet continuous positive airway pressure (CPAP). This prospective experimental crossover study included 7 healthy adult Beagles sedated using a standardized protocol. Dogs received helmet CPAP (approx 5 cm H2O) through a Venturi valve system. Following stabilization at 15 L/min, dogs underwent evaluation at 4 oxygen driving flows (5, 10, 15, and 20 L/min), with flow conditions administered in randomized order. Primary outcomes included inspired carbon dioxide (PiCO2), PaCO2, and end-tidal carbon dioxide. Secondary outcomes included oxygenation, hemodynamics, and electrical impedance tomography-derived regional ventilation. Data were analyzed using generalized linear mixed-effects models with flow as a fixed effect and dog as a random effect. Flow significantly affected PiCO2, although the magnitude of the difference was small. Median PiCO2 differed by approximately 1 mm Hg between 5 and 15 L/min, and maximum observed PiCO2 remained low (2 mm Hg). No differences were detected in PaCO2, end-tidal carbon dioxide, respiratory rate, surrogate minute ventilation, or regional ventilation distribution. Arterial oxygen tension differed among flows, but the ratio of arterial oxygen tension to inspired oxygen fraction (P:F ratio) was unchanged. Carbon dioxide rebreathing during helmet CPAP remained minimal across the tested oxygen driving flows and was not associated with measurable changes in PaCO2 or regional ventilation. Lower oxygen driving flows may provide adequate helmet washout in healthy sedated dogs using a Venturi-based helmet CPAP system.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42660184",
+      "title": "Canine parvovirus monoclonal antibody successfully prevented disease when administered before canine parvovirus experimental challenge.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Larson L, Akki FE, Ramasami P, Pattee J, George C, Purse A, Slagter BJ, Wasmoen T",
+      "date": "2026 08 27",
+      "dateObject": "2026 08 27",
+      "abstract": "To determine the effectiveness of canine parvovirus (CPV-2) monoclonal antibody (CPMA) to prevent CPV-2 disease after an experimental challenge to support a label claim for prophylactic use. 25 Beagle pups aged 7 to 8 weeks were randomized to CPMA-treated (n = 20) or PBS-treated control (5) groups. One day after SC administration of PBS or CPMA (0.1 mL/kg) on study day (SD) 0, all pups were challenged by intranasal administration of virulent CPV-2b. Personnel masked to treatment groups monitored clinical signs, including rectal temperature, vomiting, and/or abnormal feces, over SD 2 through SD 14. Samples collected included sera, whole blood, and feces to assess antibody responses, lymphopenia, and fecal shedding of CPV-2, respectively. The CPV-2 disease case definition included at least 3 of 4 criteria: fever of 39.7 &#xb0;C (103.4 &#xb0;F) or greater, decreased lymphocytes to 50% of baseline or below, presence of diarrhea, and detection of CPV-2 virus in feces. All 5 control pups developed parvovirosis and met the CPV-2 case definition. In contrast, none of the 19 CPMA prophylactically treated pups developed more than 1 of the criteria for CPV-2 disease. One pup infected with CPV-2 via environmental exposure and treated therapeutically was also protected against CPV-2 disease signs. Prophylactic CPMA treatment successfully protected all pups from experimental CPV-2 disease. Prophylactically administered CPMA provides a reasonable expectation of passive protection of na&#xef;ve pups against parvovirosis in high-risk settings, such as outbreak situations.",
       "categories": [
         "internalMedicine"
       ]
@@ -160,6 +260,20 @@
       "abstract": "ObjectiveThis study aimed to report and compare attitudes and practices of veterinarians regarding feline pain management in Eastern and Western Europe.MethodsA questionnaire was developed and divided into demographic data, drug availability/administration and pain management practices. The questionnaire went through content and face validity and was translated into several languages. An internet-based survey was created and responses were collected using a convenience sampling method. Data were analysed using multiple correspondence analysis.ResultsA total of 833 participants from Europe were included. Most respondents indicated good knowledge of acute pain assessment and recognition (n = 478; 57.4%). The Feline Grimace Scale was the most commonly used acute pain assessment instrument (n = 346; 41.5%). Chronic pain scoring instruments were not used by 48.5% (n = 404) of participants. Meloxicam and robenacoxib were the most used NSAIDs for chronic pain management. Limited knowledge of pain assessment, non-use of nonsteroidal anti-inflammatory drugs (NSAIDs) in cats undergoing surgery, and post-operative use of opioids were more closely associated with Eastern than Western Europe. Reported good knowledge of pain management, pre- and intraoperative use of NSAIDs, use of pain scales and pre-operative opioids, having a specialty diploma, and working in a cat-friendly practice were associated with Western than Eastern Europe.Conclusion and relevanceImportant regional differences were found regarding feline pain management across Europe. Continuing education, wider implementation of validated pain assessment tools, and improved access to analgesics may help reduce regional disparities and improve feline welfare.",
       "categories": [
         "surgery"
+      ]
+    },
+    {
+      "pmid": "42661152",
+      "title": "Plasma Dimethylarginine Concentrations in Dogs With Large Cell Lymphoma or Hemangiosarcoma: A Prospective Observational Study.",
+      "journal": "Veterinary and Comparative Oncology",
+      "authors": "Marques GB, Maurey C, Le Roux D, B&#xe9;guin J",
+      "date": "2026 08 27",
+      "dateObject": "2026 08 27",
+      "abstract": "Asymmetric dimethylarginine (ADMA) and symmetric dimethylarginine (SDMA) are endogenous methylated arginine derivatives associated with endothelial dysfunction and tumour progression in humans. Their relevance in canine oncology remains unclear. This prospective study aimed to assess plasma concentrations of ADMA and SDMA in dogs newly diagnosed with large cell lymphoma or non-cutaneous hemangiosarcoma (HSA); dogs with benign splenic lesions were also enrolled. Renal function was assessed at the time of inclusion to exclude overt kidney disease. Plasma ADMA and SDMA concentrations were measured at diagnosis, and clinical staging data were collected. A total of 31 dogs were enrolled: 11 with lymphoma, 15 with HSA and 5 with benign splenic lesions. SDMA concentrations exceeded the reference interval in 47%, 36% and 0% of dogs with HSA, lymphoma and benign lesions, respectively. Dogs with lymphoma (p&#x2009;=&#x2009;0.003) and HSA (p&#x2009;=&#x2009;0.013) had significantly higher SDMA concentrations than dogs with benign splenic lesions. Moreover, dogs with presumed disseminated HSA had significantly higher SDMA concentrations than those without metastatic disease (median: 21.5 vs. 12&#x2009;&#x3bc;g/dL; p&#x2009;=&#x2009;0.012). In contrast, plasma ADMA concentrations did not differ significantly among groups (p&#x2009;=&#x2009;0.39). These findings suggest that lymphoma and HSA may represent extra-renal causes of SDMA elevation in dogs, and that SDMA could have value as a biomarker of tumour burden or progression. The potential clinical utility of ADMA in canine cancer warrants further investigation.",
+      "categories": [
+        "internalMedicine",
+        "oncology",
+        "dermatology"
       ]
     },
     {
@@ -700,18 +814,6 @@
       ]
     },
     {
-      "pmid": "42630097",
-      "title": "Clinical Behaviour and Outcome of Pelvic Osteosarcoma in Dogs: A Retrospective Multicentre Analysis of 74 Cases (2007-2025).",
-      "journal": "Veterinary and Comparative Oncology",
-      "authors": "Fej&#xf6;s C, Czichon F, Griffin M, Grillo N, Fournier Q, Oblak ML, Eng-Toogood M, Kent M, Desmas-Bazelle I, Kleiter M, Marconato L, McNaught K, Vincenti S, Chalfon C, Odatzoglou P, Rohrer Bley C",
-      "date": "2026 08 22",
-      "dateObject": "2026 08 22",
-      "abstract": "Although osteosarcoma is the most common primary bone tumour in dogs, involvement of the pelvic bones is rare. The aim of the present study was to describe clinical presentation, identify possible prognostic factors, and evaluate outcomes in dogs diagnosed with pelvic osteosarcoma. Seventy-four dogs with cytologically or histologically diagnosed pelvic osteosarcoma were included in this multicentre retrospective study (2007-2025). The median progression-free survival (PFS) and overall survival (OS) were estimated using the Kaplan-Meier method, with comparisons performed using log-rank tests. Prognostic factors for PFS and OS were assessed using multivariable Cox proportional hazards regression analysis. Lameness (84%) was the most common presenting clinical sign, and the ilium (57%) was the most frequent intrapelvic tumour location. Thirty-one percent of dogs had metastases at diagnosis, primarily affecting the lungs. The median PFS was 75&#x2009;days, and the median OS was 79&#x2009;days. Dogs receiving any treatment had significantly longer PFS (116 vs. 7&#x2009;days, p&#x2009;<&#x2009;0.001) and OS (145 vs. 8&#x2009;days, p&#x2009;<&#x2009;0.001) than untreated dogs. No factors were significantly associated with PFS. In contrast, dogs with higher body weight and shorter time to diagnosis tended to have more favourable survival, whereas chemotherapy and local progression were associated with poorer outcomes. Despite the overall poor prognosis associated with pelvic osteosarcoma, treatment may extend survival. An individualized, often multimodal approach may provide clinical benefit in selected dogs.",
-      "categories": [
-        "oncology"
-      ]
-    },
-    {
       "pmid": "42627936",
       "title": "Rethinking clinical response criteria in trials of chronic enteropathy in dogs: what change is truly meaningful?",
       "journal": "Journal of Veterinary Internal Medicine",
@@ -1004,28 +1106,6 @@
       "categories": [
         "cardiology"
       ]
-    },
-    {
-      "pmid": "42620936",
-      "title": "Global transcriptomic response of Malassezia pachydermatis isolates under ketoconazole-induced stress.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Dom&#xe1;n M, Wehmann E, Makrai L, Feh&#xe9;r E, Magyar T",
-      "date": "2026 08 20",
-      "dateObject": "2026 08 20",
-      "abstract": "Malassezia pachydermatis is an opportunistic yeast associated with otitis externa and dermatitis in dogs. Despite reduced susceptibility to azole antifungals has increasingly been reported in M. pachydermatis , the molecular mechanisms underlying azole stress responses in this species remain poorly understood. In this study, we investigated the global transcriptional response of two M. pachydermatis isolates with different ketoconazole minimum inhibitory concentration values following short-term ketoconazole exposure. Ketoconazole treatment resulted in slightly distinct transcriptional profiles in the two isolates. In isolate 12372, 80 genes were significantly upregulated and 120 were downregulated, whereas isolate 12693 showed 158 upregulated and 211 downregulated genes. Both isolates exhibited significant upregulation of genes involved in ergosterol biosynthesis, including ERG3 , ERG5 , ERG11 , ERG24 , and ERG25 suggesting a conserved compensatory response to azole-mediated disruption of sterol metabolism. In isolate 12372, genes associated with ribosome biogenesis was predominantly downregulated, indicating reduced protein synthesis and growth-related activity. In isolate 12693, ketoconazole primarily suppressed genes involved in amino acid biosynthesis, and central carbon metabolism; and upregulated genes associated with ubiquitin ligases, RNA polymerase II regulators, and RNA-binding proteins. Notably, genes encoding ABC transporter-associated efflux pumps were not transcriptionally induced under the tested conditions. Our results provide a comprehensive transcriptomic profile of M. pachydermatis under azole stress, demonstrating that the yeast employs diverse metabolic strategies to enter a decelerated growth state and offer a good basis for identifying future therapeutic targets to combat azole resistance.",
-      "categories": [
-        "dermatology"
-      ]
-    },
-    {
-      "pmid": "42620618",
-      "title": "Evaluating cone-beam computed tomography vs. intraoral radiography for the detection of endodontal disease in dogs: diagnostic performance and inter-rater agreement.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Bonacini S, Goldschmidt S, Arzi B, Vapniarsky N, Lommer M, Blandino A, Hatcher D, Soltero-Rivera M",
-      "date": "2026 08 20",
-      "dateObject": "2026 08 20",
-      "abstract": "The comparative diagnostic utility of cone-beam computed tomography (CBCT) and intraoral dental radiography (IDR) for endodontal disease in dogs remains unclear. Accordingly, this study evaluated both imaging modalities against histopathologic findings as the gold standard. In this prospective observational study, client-owned dogs undergoing evaluation for suspected endodontal disease were imaged with both CBCT and IDR under general anesthesia. Forty-six teeth from 16 dogs were included. Four radiographic features-periapical lucency, failure of pulp canal narrowing, external inflammatory root resorption, and loss of crown integrity-were independently scored by five blinded evaluators using a standardized qualitative scale. Histopathological assessment of pulp vitality was available for 18 teeth. Diagnostic performance, inter-rater agreement, and modality-related effects were analyzed using mixed-effects models and concordance statistics. CBCT was associated with significantly greater detection of imaging features associated with endodontal disease than IDR overall ( p < 0.002), particularly for periapical lucency ( p < 0.001). Both modalities demonstrated high sensitivity for identifying non-vital teeth, but limited specificity, reflecting disease prevalence within the histopathology subset. Inter-rater agreement was modest for both modalities and was affected primarily by scoring variability among evaluators rather than systematic differences in scoring patterns. CBCT demonstrated superior detection of periapical lucency compared with IDR in dogs. Nonetheless, inter-rater variability remains a significant limitation, emphasizing the need for standardized image interpretation and integration with clinical findings.",
-      "categories": []
     },
     {
       "pmid": "42618917",
@@ -1722,20 +1802,6 @@
       ]
     },
     {
-      "pmid": "42567185",
-      "title": "Transcatheter arterial embolization for massive hepatocellular carcinoma in 18 dogs (2020-2025).",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Kadowaki K, Nishimura S, Toyoda A, Yamamoto R",
-      "date": "2026 08 07",
-      "dateObject": "2026 08 07",
-      "abstract": "To report tumor response, complications, outcomes, and extrahepatic collateral arterial supply presence in dogs with massive hepatocellular carcinoma (HCC) treated with transcatheter arterial embolization (TAE). 18 dogs diagnosed with massive HCC. All dogs underwent contrast-enhanced CT and pretreatment histopathologic confirmation by laparoscopic biopsy (n = 1) or ultrasound-guided needle core biopsy (17). Tumor response was assessed using percentage of change in tumor volume on CT before TAE and 1 to 3 months after TAE. Post-TAE tumor response was classified as partial response in 9 of 18 (50.0%), stable disease in 6 of 18 (33.3%), and progressive disease in 1 of 18 (5.6%). Two dogs (11.1%) died within 2 weeks after TAE. The median percentage of change in tumor volume, excluding those 2 dogs, was -32.6%. Extrahepatic collateral arterial supplies to tumors were identified in 13 of 18 (72.2%), including the gastroepiploic (22.2%), right phrenic (22.2%), left phrenic (27.8%), pancreatic (16.7%), and mesenteric (5.6%) arteries. Collateral supply from 2 and 3 vessels was observed in 3 of 18 (16.7%) and 1 of 18 (5.6%), respectively; second TAE was performed in 2 of 18 (11.1%) and hepatic lobectomy after TAE in 4 of 18 (22.2%) cases. Postoperative complications included mild diarrhea (77.8%), anorexia (61.1%), mild anemia (16.7%), and acute gallbladder infarction (11.1%) etc. Both cases of gallbladder infarction were asymptomatic with good clinical outcomes. Median survival time was 447 days, including all 18 dogs. Transcatheter arterial embolization achieved disease control in most dogs and often involved extrahepatic collaterals. TAE may be a useful option in selected dogs with massive HCC.",
-      "categories": [
-        "internalMedicine",
-        "oncology",
-        "surgery"
-      ]
-    },
-    {
       "pmid": "42563163",
       "title": "Longitudinal echocardiographic systolic changes in dogs receiving doxorubicin-based chemotherapy.",
       "journal": "BMC Veterinary Research",
@@ -1827,18 +1893,6 @@
       ]
     },
     {
-      "pmid": "42551864",
-      "title": "Needle bevel orientation does not affect the cranial spread of injectate in a lumbosacral epidural in canine cadavers.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Harris O, Ferreira TH, Loeber S, Hughes S, Bartholomew KJ",
-      "date": "2026 08 04",
-      "dateObject": "2026 08 04",
-      "abstract": "To investigate the cranial and circumferential spread of iohexol (240 mg/mL) diluted 1:3 with saline injected at the lumbosacral junction in canine cadavers using 0.1- and 0.2-mL/kg volumes administered with a cranial- or caudal-facing Tuohy bevel direction. Lumbosacral epidurals were performed with a cranial- or caudal-facing needle bevel. The median vertebrae reached and the estimated percentage of the spinal cord surrounded with injectate were assessed via CT after administering two 0.1-mL/kg aliquots of injectate. Contrast medium was diluted to achieve physical properties closer to local anesthetics. 5 cadavers in each group were assessed in August of 2024. The median vertebrae reached with a 0.1-mL/kg volume using a cranial bevel and 100%, &#x2265; 50%, and &#x2265; 1% circumferential epidural coverage contrast medium were 1, 7, and 10 bodies compared to a caudal bevel direction of 1, 7, and 9 bodies. For 0.2-mL/kg total volume using a cranial bevel and having 100%, &#x2265; 50%, and &#x2265; 1% circumferential epidural coverage, there were 2, 9, and 14 bodies compared to a caudal bevel direction being 2, 11, and 15 bodies. The findings in this cadaveric study suggest that needle bevel direction does not affect the cranial epidural spread of injectate performed at the lumbosacral space. While no benefit to performing a lumbosacral epidural with a caudally facing bevel in limiting cranial spread was found, further studies in live patients are required to adjust clinical recommendations.",
-      "categories": [
-        "neurology"
-      ]
-    },
-    {
       "pmid": "42548827",
       "title": "Rare occurrence of an intumescent cataract in a diabetic domestic longhair cat.",
       "journal": "JFMS Open Reports",
@@ -1848,18 +1902,6 @@
       "abstract": "A domestic longhair cat in Australia was referred to an ophthalmology service with the complaint of lens opacity. An incipient cataract was diagnosed in the right eye and an intumescent cataract with an equatorial lens capsule rupture in the left eye. The patient was being treated for diabetes mellitus, and previous concerns for the eyes had included conjunctivitis and left-sided periocular swelling and epiphora. Systemic work-up performed over the 7 months before ophthalmic referral included complete blood counts, biochemistry, serology (feline immunodeficiency virus, feline leukaemia virus, toxoplasmosis, cryptococcosis), thoracic radiographs, and ocular ultrasound and electroretinography performed before phacoemulsification. The patient did not have evidence of active uveitis at the initial ophthalmological examination, and historical serology excluded some common infectious causes of uveitis. The cataracts were treated successfully by phacoemulsification in both eyes, restoring vision. However, an intraocular lens was implanted only in the right eye, as the pre-existing lens capsule tear in the left eye precluded intraocular lens placement. Based on the medical history and clinical presentation, diabetes mellitus was suspected to be the cause of the cataracts. Intumescent cataracts are reported in humans and dogs but have rarely been reported in domestic cats. Nonetheless, the intumescent cataract in this patient had similar characteristics to those in diabetic canine cataracts.",
       "categories": [
         "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42542132",
-      "title": "Reference intervals for myocardial T1, T2, and extracellular volume in clinically normal dogs and cats at 3-Tesla magnetic resonance imaging: a single-center study.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Fries RC, Kadotani S, Toborowsky C, Javery EA",
-      "date": "2026 08 03",
-      "dateObject": "2026 08 03",
-      "abstract": "To establish species-specific reference values for myocardial native T1, native T2, and extracellular volume fraction (ECV) in clinically normal dogs and cats using a 3-Tesla (3-T) cardiac MRI (CMRI) and to provide a description of image acquisition and analysis suitable for veterinary clinical and research applications. Cardiac examinations were performed between 2015 and 2024 using a 3-T system with ECG gating under general anesthesia on clinically normal client-owned dogs and cats. Native T1 and T2 maps were acquired at the midventricular short-axis level using validated mapping sequences adapted from human CMRI protocols. Calculated ECV values were obtained from native and postcontrast T1 measurements in conjunction with Hct values. Reference intervals were determined using parametric methods and expressed as 95% prediction intervals with 90% CIs around the lower and upper reference limits. In dogs (n = 54), native T1, native T2, and ECV reference intervals (95% prediction intervals) were 1,057 to 1,152 ms, 42.0 to 60.9 ms, and 19.3% to 25.7%, respectively. In cats (n = 60), corresponding reference intervals were 1,066 to 1,172 ms, 34.2 to 61.6 ms, and 21.8% to 30.3%. Age was not a significant predictor of myocardial ECV in either species. This study establishes clinically applicable reference values for myocardial T1, T2, and ECV in dogs and cats at 3 T and provides imaging methodology to facilitate reproducibility. Species-specific reference intervals established in this study enable objective quantification of myocardial composition and support clinical implementation of CMRI tissue characterization in dogs and cats.",
-      "categories": [
-        "cardiology"
       ]
     },
     {
@@ -1932,18 +1974,6 @@
       "abstract": "Vector-borne diseases in dogs are an emerging problem worldwide due to their frequency, morbidity, and zoonotic relevance. Since there are no previous studies determining the frequency of Ehrlichia canis and Rickettsia rickettsii infection in three neighborhoods of the city of Chihuahua, Mexico, using molecular detection techniques, the objective of the present study was to detect, by nested polymerase chain reaction (PCR), a fragment of the gp36 gene of E. canis and the ompA gene of R. rickettsii in tick-infested dogs captured at the canine control center of the city of Chihuahua, and to phylogenetically analyze the genotypes present. Blood samples were collected from 123 tick-infested dogs. DNA was extracted from peripheral blood leukocytes and used in nested PCR protocols. The results showed a positivity frequency of 16.2% (20/123) for E. canis and 3.2% (4/123) for R. rickettsii. Six sequenced samples corresponded to E. canis and four to R. rickettsii. Phylogenetic analysis showed a close relationship with sequences previously described in the United States. This is the first molecular identification confirming E. canis and R. rickettsii infection in tick-infested dogs from some neighborhoods of the Chihuahua city, Mexico.",
       "categories": [
         "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42208593",
-      "title": "Preoperative parathyroid hormone concentration predicts postoperative hypocalcemia severity in dogs undergoing parathyroidectomy.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Daugherty E, Codd C, Howard J",
-      "date": "2026 07 31",
-      "dateObject": "2026 07 31",
-      "abstract": "To evaluate preoperative parathyroid hormone (PTH) concentration as a predictor of moderate to severe postoperative hypocalcemia following parathyroidectomy in dogs with primary hyperparathyroidism. Retrospective analysis of dogs undergoing parathyroidectomy for primary hyperparathyroidism and excluding dogs receiving prophylactic calcitriol. Preoperative serum PTH measurement was stratified into groups by multiples of the assay-specific upper limit of normal (ULN). Whole blood ionized calcium (iCa) nadir was used to classify postoperative outcome, with moderate to severe hypocalcemia defined as iCa < 1.00 mmol/L. 92 dogs were included. Moderate to severe hypocalcemia occurred in 36 dogs (39.1%). A graded relationship was identified between PTH strata and moderate to severe hypocalcemia: 9 of 47 dogs (19.1%) with normal PTH, 14 of 27 (51.9%) with > 1 to 2 times ULN, 5 of 10 (50.0%) with > 2 to 3 times ULN, and 8 of 8 (100%) with > 3 times ULN. A PTH cutoff of 1.05 times ULN yielded an area under the curve of 0.76 (95% CI, 0.65 to 0.86), with 72.2% sensitivity and 71.4% specificity. Median time to overall calcium nadir was 65.8 hours (range, 3.7 to 19,794.1), with 40 of 92 dogs (43.5%) reaching nadir after 72 hours. Late nadirs were common in dogs with moderate to severe hypocalcemia (25 of 36 [69.4%]) versus normocalcemia (10 of 44 [22.7%]). Preoperative PTH concentration stratified by ULN multiples demonstrates a graded relationship with postoperative hypocalcemia. PTH-based stratification could identify high-risk patients warranting prophylactic therapeutics and extended monitoring.",
-      "categories": [
-        "surgery"
       ]
     },
     {
@@ -2024,18 +2054,6 @@
       "categories": [
         "internalMedicine",
         "dermatology"
-      ]
-    },
-    {
-      "pmid": "42505041",
-      "title": "Sarcopenia, cachexia and frailty in older cats: Mechanisms, assessment and therapeutic considerations.",
-      "journal": "Journal of Feline Medicine and Surgery",
-      "authors": "Chandler M",
-      "date": "2026 07 27",
-      "dateObject": "2026 07 27",
-      "abstract": "Age-related muscle loss due to sarcopenia and cachexia is common in mammals and is likely a major contributor to frailty in older cats. Frailty adversely affects quality of life and is a predictor of survival time. In some cats, excess body fat is preserved but muscle mass is lost, a condition termed sarcopenic obesity. Although the mechanisms underlying sarcopenia and cachexia have been studied in humans, the pathophysiology has not been well studied in cats. Early diagnosis of muscle loss by a muscle condition score may aid therapeutic intervention, and epaxial muscle ultrasound offers a promising adjunctive diagnostic tool. In humans, muscle strength predicts adverse outcomes; however, direct measurement of this is difficult in cats. Furthermore, in humans, physical performance is used as an estimate of muscle strength; in cats, it may be possible to estimate strength and function by activity. The development and use of a frailty score, which incorporates activity along with other measurements, will provide a valuable tool, which may improve the assessment of the effects of sarcopenia in cats, including their quality of life and possibly survival time.Therapeutic considerations:Anabolic resistance to muscle synthesis may result in increased dietary protein requirements. Some older cats may also have decreased fat and protein digestion, sometimes concurrently with decreased serum cobalamin and vitamin E. These nutritional requirements should be addressed along with feeding management practices.Recent advances and future prospects:New therapeutic interventions for sarcopenia are being investigated for humans, often in conjunction with resistance exercise; however, their safety and efficacy have not been evaluated in cats. Further research in this area presents an opportunity to improve the health and longevity of ageing cats. The aim of this review is to describe the pathophysiology, diagnosis and potential treatment of feline muscle loss. Further aims are to encourage early diagnosis and treatment of muscle loss by clinicians and to inspire more research in this area. Sarcopenia, cachexia and frailty are common in many older cats, with the incidence increasing with increasing age. It is likely that the pathophysiology of these is similar to other mammals. Muscle condition score (MCS) is currently the most practical tool for assessing muscle mass. Every feline veterinary consultation should include an MCS, possibly along with an epaxial muscle height ultrasound for older cats. A cat frailty score is also a very useful assessment. The therapeutic effects of activity and nutritional supplementation are likely limited with severe sarcopenia, so early diagnosis is recommended.To date, no pharmacological interventions or nutritional supplements have been researched or approved for use in sarcopenic, cachexic or frail cats, so currently the best prevention and treatment are a good diet with adequate protein and sufficient exercise. Nutritional supplements, such as leucine, are promising but require more feline research for safety and efficacy. Suspected chronic enteropathy should be addressed nutritionally.",
-      "categories": [
-        "internalMedicine"
       ]
     },
     {
@@ -2653,18 +2671,6 @@
       "dateObject": "2026 07 10",
       "abstract": "Trypanocide resistance is an escalating threat to African animal trypanosomosis control, yet how dogs are actually treated for trypanosomosis, by who, with what drugs, and under what oversight, remains poorly characterized despite the documented presence of resistant trypanosome populations in this neglected host compartment. In a cross-sectional survey interpreted within a One Health framework, grounded in data from Enugu North Senatorial Zone, Southeastern Nigeria, we integrate previously published molecular and epidemiological data on canine trypanosomes with original cross-sectional survey data from 120 dog-owning households and 250 dogs. Associations are descriptive and inferential; no new resistance assays or transmission studies were undertaken. Survey data revealed that 87.5% of treated dogs received treatment without prior parasitological confirmation, 83% received doses estimated without weight-based calculation, and 76.7% of households obtained trypanocides from unregulated sources. Only 38.3% had geographic access to a licensed veterinarian, and 60% reported no community access to diagnostic testing. Inter-household dog movement was documented in 44.2% of households and 57.5% reported livestock co-habitation. These findings are consistent with sustained selective pressure for resistance, interpreted alongside published evidence of diminazene-resistant and multidrug-resistant Trypanosoma isolates from the same zone. Dogs emerge as plausible reservoirs and amplifiers of drug-resistant trypanosomes within a One Health framework, posing risks to livestock productivity and public health. The molecular identification of Trypanosoma brucei gambiense in study-area dogs warrants structured surveillance investigation. Direct transmission pathways were not evaluated. Addressing these drivers requires robust veterinary drug regulation, expanded veterinary service access, community education, and integration of companion animals into national trypanosomosis surveillance frameworks.",
       "categories": []
-    },
-    {
-      "pmid": "42430044",
-      "title": "Natural intoxication by Solanum bonariense causing cerebellar neurodegeneration in cattle in Argentina.",
-      "journal": "Veterinary Research Communications",
-      "authors": "Sosa E, Giannitti F, Gamietea I, Gimeno EJ, Verdes JM, Odriozola E, Cant&#xf3;n G",
-      "date": "2026 07 10",
-      "dateObject": "2026 07 10",
-      "abstract": "Solanum bonariense is a perennial shrub widely distributed in South America and has also been introduced into other regions, including parts of Europe and North Africa. Its consumption has been associated with chronic neurodegenerative disease in grazing cattle, although well-documented natural cases remain limited, particularly those integrating clinical, epidemiological, and advanced pathological findings. This study provides a comprehensive characterization of a natural outbreak of S. bonariense intoxication in cattle under field conditions. The outbreak was observed on a beef cattle farm located on an island of the Paran&#xe1; River Delta, Buenos Aires Province, Argentina, during a prolonged drought that resulted in severe forage scarcity. Neurological disease affected 20 of 76 (26%) adult Aberdeen Angus cows, with a high lethality (75%). Clinically, the affected animals exhibited recurrent, episodic neurological signs characterized by abnormal gait (ataxia, hypermetria), postural instability, muscle tremors, frequent falls, and, during recovery, occasional dog-sitting posture and stargazing, with no loss of consciousness. Postmortem examination was conducted in an affected cow; no gross lesions were observed. Histopathological examination revealed marked vacuolar degeneration, death and loss of Purkinje neurons in the cerebellum, with axonal and dendritic spheroids, and secondary demyelination. Prominent reactive cerebellar astrogliosis was demonstrated by immunofluorescence with anti-glial fibrillary acidic protein. Ultrastructural analysis demonstrated numerous membrane-bound intracytoplasmic vesicles containing electron-dense material, consistent with dilated lysosomes in Purkinje neurons. Abundant S. bonariense was botanically identified in the paddocks the affected animals grazed on for nearly 8 months. The epidemiological context, characteristic clinical presentation, and distinctive neuropathological findings support a diagnosis of chronic plant-induced cerebellar neurodegeneration. By integrating field epidemiology with detailed histopathological, ultrastructural, and immunofluorescence data, this study complements previous experimental and sporadic reports and contributes to improved recognition, differential diagnosis, and understanding of the pathogenesis of S. bonariense intoxication in diverse production systems.",
-      "categories": [
-        "neurology"
-      ]
     },
     {
       "pmid": "42421062",
