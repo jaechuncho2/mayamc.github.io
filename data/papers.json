@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T23:21:31.671Z",
+  "updated_at": "2026-08-30T23:31:07.842Z",
   "papers": [
     {
       "pmid": "42666701",
@@ -19,6 +19,137 @@
       "date": "2026 08 29",
       "dateObject": "2026 08 29",
       "abstract": "Toxoplasma gondii is a major zoonotic pathogen causing reproductive losses in sheep and posing significant public health risks, particularly through meat consumption and congenital infection. Despite Afyonkarahisar Province being one of the most important sheep-producing regions in T&#xfc;rkiye, no farm-level seroepidemiological study with structured risk factor analysis had previously been conducted there. A cross-sectional study was conducted between September and December 2025 on 550 sheep blood samples collected from 55 commercial farms across Afyonkarahisar Province. Anti- T. gondii antibodies were detected using a commercial indirect ELISA (ID Screen &#xae; Toxoplasmosis Indirect Multi-Species, IDvet), with samples classified as positive (sample-to-positive percentage [S/P%] &#x2265; 50%), doubtful (40%-50%), or negative (&#x2264;40%). A structured questionnaire was administered to collect 19 farm- and animal-level variables. Associations with seropositivity were evaluated by univariable analysis and a mixed-effects logistic regression model with farm as a random effect, with Firth's penalized regression applied to obtain stable estimates where quasi-complete separation occurred. The overall animal-level seroprevalence was 42.2% (232/550; 95% CI: 38.0%-46.4%), and 44 of 55 farms (80.0%; 95% CI: 67.0%-89.6%) were classified as seropositive. In multivariable analysis using Firth's penalized logistic regression, five variables were independently associated with higher seropositivity: flock-level history of abortion (aOR = 3.77; 95% CI: 2.41-6.00), age over 12 months (aOR = 3.54; 95% CI: 2.15-5.97), communal pasture use (aOR = 74.12; 95% CI: 10.22-9431.54, wide owing to quasi-complete separation), leaving aborted materials on site (aOR = 2.30; 95% CI: 1.49-3.61), and irregular barn cleaning (aOR = 2.32; 95% CI: 1.46-3.72). Cat presence was universal across all 55 farms, precluding statistical evaluation; however, stray cats had unrestricted access to feed and water on every farm, likely representing the primary driver of environmental oocyst contamination. Breed, sex, water source, and antiparasitic drug type were not significantly associated with seropositivity. T. gondii infection is highly endemic in sheep in Afyonkarahisar, with seroprevalence exceeding the national average. Stray cat access control, safe disposal of aborted materials, and routine differential diagnosis for abortifacient pathogens are recommended as priority interventions for reducing infection pressure and mitigating both animal health and public health risks within a One Health framework.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42546968",
+      "title": "Effect of 24-hour sedation during mechanical ventilation on hematological, biochemical, and coagulation parameters in bitches: A randomized clinical study.",
+      "journal": "Topics in Companion Animal Medicine",
+      "authors": "Regalin D, Adorno BA, Chimenes ND, Ribeiro D, de Moraes RS, Benevenuto LGD, Serighelli-J&#xfa;nior G, Saito ME, Comassetto F, Regalin BDDC, Padilha VS, Volpato J, Oleskovicz N",
+      "date": "2026 08 29",
+      "dateObject": "2026 08 29",
+      "abstract": "The effects of prolonged sedation on hematological, biochemical, and coagulation variables have not been previously investigated in veterinary medicine. Twelve healthy adult mixed-breed female dogs were included. Blood samples (6 mL) were collected at baseline (M0) for complete blood count (CBC), biochemical testing, prothrombin time (PT), activated partial thromboplastin time (PTT) and fibrinogen. After M0, dogs were allocated into two groups: midazolam-fentanyl-propofol group (MFG; n = 6), which received a continuous infusion of midazolam (0.5 mg/kg/h), fentanyl (10 &#xb5;g/kg/h), and propofol (18 mg/kg/h); and ketamine-morphine-propofol group (KMG; n = 6), which received a continuous infusion of ketamine (0.6 mg/kg/h), morphine (0.26 mg/kg/h), and propofol (18 mg/kg/h). The infusion was maintained for 24 hours under mechanical ventilation. Laboratory parameters were reassessed from 12 to 24 hours after the beginning of infusion (M12 and M24), and at 12, 24, and 48 hours after the infusion (T12, T24, and T48). Both protocols significantly reduced erythrocyte count, packed cell volume, and haemoglobin concentration. In KMG, TTP decreased significantly at M12, M24, and T24; TSP at M24; and lymphocytes at M12 and M24. No significant changes were observed in ALP, ALT, albumin, globulins, creatinine, urea, glucose and blood coagulation. Triglyceride and cholesterol concentrations increased significantly from M6 to T48, but without biochemical evidence of hepatic, renal, or coagulation impairment. Overall, both protocols induced transient hematological and biochemical changes without clinically meaningful alterations in hepatic or renal function, supporting their use in healthy dogs mechanically ventilated for 24 hours.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42546967",
+      "title": "Simply adding positive end-expiratory pressure has limited effects on oxygenation in obese dogs.",
+      "journal": "Topics in Companion Animal Medicine",
+      "authors": "Martin-Flores M, Araos J, Rondon TA",
+      "date": "2026 08 29",
+      "dateObject": "2026 08 29",
+      "abstract": "Positive end-expiratory pressure (PEEP) can be used to prevent atelectasis during anesthesia. We evaluated the effect of PEEP on intra- and postoperative oxygenation on obese dogs admitted for stifle surgery. Dogs received no PEEP (ZEEP; n = 10) or 7 cmH 2 O PEEP (n = 9) at random during general anesthesia. The partial pressure of arterial oxygen (PaO 2 ) and its ratio to inspired fractional oxygen (PaO 2 :FiO 2 ) were measured at start and end of surgery (FiO 2 1.0), and 20, 120, and 240 minutes after extubation (FiO 2 0.2). Cases of hypoxemia (PaO 2 < 80 mmHg) were identified. There were no differences between treatment for either variable (P > 0.1 for treatment and P > 0.6 for treatment*time, for both variables). There were three cases of postoperative hypoxemia in the ZEEP treatment (P = 0.21). No significant improvement was achieved when PEEP 7 cmH 2 O was applied in isolation. Successful use of PEEP may require additional maneuvers.",
+      "categories": [
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42288150",
+      "title": "Electrochemotherapy with carboplatin and bleomycin associated with mastectomy in cats with mammary carcinoma: A pilot study.",
+      "journal": "Topics in Companion Animal Medicine",
+      "authors": "Regadas R, Dias GS, Brunner CHM, Carvalho VMP, Silva LP, Damasceno KA, Fontes TN, Rocha MAN, Barrouin-Melo SM, Machado MCA, Estrela-Lima A",
+      "date": "2026 08 29",
+      "dateObject": "2026 08 29",
+      "abstract": "In cats, the high incidence of malignant mammary neoplasms with elevated rates of metastasis and recurrence underscores the need for more effective therapies to prevent disease progression. This preliminary study evaluated the impact of carboplatin or bleomycin electrochemotherapy on recurrence rates, adverse effects, and overall survival in female cats with mammary carcinoma undergoing mastectomy. Thirty-four female cats with mammary carcinoma were assigned to four groups: Group 1 (mastectomy), Group 2 (mastectomy plus chemotherapy), Group 3 (mastectomy plus electrochemotherapy with carboplatin and chemotherapy), and Group 4 (mastectomy plus electrochemotherapy with bleomycin and chemotherapy). The tumors were classified and graded histologically, and the proliferative index was assessed using Ki-67. Most cases were stage III, and 50% had nodal metastases. The predominant tumor types included cribriform carcinoma and histological grade II. All groups showed a high Ki-67 proliferation index (>20%), with no significant differences (p = 0.753). Hematocrit values in the fourth chemotherapy session were higher in G3 than in G2 (p = 0.022). The highest numerical recurrence rate occurred in G1, while no recurrences were observed in G2 or G4 during follow-up; however, this difference did not reach statistical significance (p = 0.086). Overall survival analysis showed a 82% mortality rate; G1 had 100% mortality, with a significant difference compared with the other groups (p = 0.0287). More chemotherapy sessions (&#x2265;5) were significantly associated with increased overall survival (p = 0.002), adding a mean of 39.1 days to disease-free survival per additional session. Taken together, these preliminary findings suggest that mastectomy alone was insufficient to control progression the cancer. Carboplatin-based protocols, whether used as conventional chemotherapy or combined with electrochemotherapy, showed lower recurrence rates, fewer adverse effects, and longer overall survival. However, due to the limited sample size, these results should be interpreted with caution. Further studies with larger cohorts are warranted to confirm these observations.",
+      "categories": [
+        "oncology"
+      ]
+    },
+    {
+      "pmid": "42263849",
+      "title": "Giant mammary fibroadenoma in four female dogs.",
+      "journal": "Topics in Companion Animal Medicine",
+      "authors": "Dos Reys MP, de Sousa CG, Santana TCF, Nakagaki KYR, Cassali GD",
+      "date": "2026 08 29",
+      "dateObject": "2026 08 29",
+      "abstract": "Fibroadenoma is a benign neoplasm with high prevalence in women but is rare in dogs. Its giant variant is defined by the lesion's size (exceeding 5 cm) and weight. The standard treatment is surgical excision. The objective of this study was to demonstrate that the subclassification of giant fibroadenoma, as described in humans, can also be observed in female dogs, as evidenced by four cases analyzed. The evaluation comprised macroscopic examination and histopathological analysis, underscoring the importance of differential diagnosis and the characterization of this condition in the canine species.",
+      "categories": [
+        "oncology",
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42263848",
+      "title": "In vitro evaluation of temperature-dependent stability and antimicrobial activity of reconstituted cefovecin sodium.",
+      "journal": "Topics in Companion Animal Medicine",
+      "authors": "Fukayama T, Iwahana M, Yamada H, Hamabe L",
+      "date": "2026 08 29",
+      "dateObject": "2026 08 29",
+      "abstract": "Cefovecin sodium is a long-acting third-generation cephalosporin widely used in dogs and cats. After reconstitution, refrigerated storage for a limited period is recommended; however, experimental data regarding the effects of alternative controlled storage temperatures on drug stability and antimicrobial activity are limited. This study evaluated, under in vitro conditions, the impact of storage temperature on the physicochemical stability and antimicrobial activity of reconstituted cefovecin sodium. Samples were stored at room temperature (25 &#xb1; 2&#xb0;C), refrigerated conditions (4&#xb0;C), or frozen conditions (-20&#xb0;C) for up to 12 weeks. Visual appearance, absorbance at 360 nm, minimum inhibitory concentrations (MICs) against E. coli and Staphylococcus aureus, and cefovecin sodium concentrations determined by liquid chromatography-tandem mass spectrometry (LC-MS/MS) were assessed over time. Room temperature storage resulted in progressive discoloration, increased absorbance, elevated MIC values, and a significant decrease in drug concentration at later time points. Refrigerated storage delayed these changes, although mild increases in absorbance and MIC values were descriptively observed at later time points. In contrast, frozen storage preserved physicochemical properties, antimicrobial activity, and measured drug concentrations throughout the study period. These findings demonstrate that storage temperature influences the stability and in vitro antimicrobial activity of reconstituted cefovecin sodium in a condition-dependent manner. The results provide experimental reference data under controlled laboratory conditions and do not support clinical use outside the manufacturer's approved storage instructions.",
+      "categories": []
+    },
+    {
+      "pmid": "42219058",
+      "title": "A new era in the early treatment of dioctophymosis - The first laparoscopic nephrotomy without ischemia in a dog.",
+      "journal": "Topics in Companion Animal Medicine",
+      "authors": "Caye P, Gasparotto JC, H&#xf6;rbe AV, Socolhoski BVG, Paraguass&#xfa; AO, Pozzobon FM, Reinstein RDS, M&#xfc;ller DCM, Brun MV",
+      "date": "2026 08 29",
+      "dateObject": "2026 08 29",
+      "abstract": "The parasite Dioctophyme renale is a nematode that infects carnivores and often causes total and irreversible destruction of renal tissue. In cases of early diagnosis, nephrotomy is an alternative for renal preservation. This report describes the first laparoscopic nephrotomy performed without ischemia in the treatment of a female dog with renal dioctophymosis, using an ultrasonic scalpel for hemorrhage control. The technique stood out for its precision in simultaneous renal parenchyma incision and coagulation, eliminating the need for temporary blood flow interruption to the organ. It allowed the removal of a 32 cm D. renale from inside the kidney. This approach minimized the risks associated with ischemia-reperfusion injury, proving particularly advantageous in cases with partial preservation of renal parenchyma. Postoperatively, the patient exhibited a reduction in the size of the parasitized kidney and normalization of urinary parameters in urinalysis and blood biochemistry, confirming the technique's success. The use of the ultrasonic scalpel proved safe, efficient, and promising as a tool in the minimally invasive surgical management of renal diseases. This technique represents a significant advancement in the treatment of dioctophymosis with renal preservation.",
+      "categories": [
+        "internalMedicine",
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42214615",
+      "title": "Acepromazine does not enhance sedation or reduce propofol requirements when combined with dexmedetomidine in dogs.",
+      "journal": "Topics in Companion Animal Medicine",
+      "authors": "Iepsen LB, Griebeler LB, de Almeida ICA, Puga EB, Vogt MP, de Freitas VR, Guim TN, Gehrcke MI",
+      "date": "2026 08 29",
+      "dateObject": "2026 08 29",
+      "abstract": "This study aimed to evaluate the sedative effects of acepromazine and dexmedetomidine in dogs and their influence on propofol requirements for anesthetic induction, electrocardiographic findings, heart rate and arterial blood pressure. Twenty-one healthy mixed-breed dogs were included in the study. Dogs were randomly assigned to one of 3 protocols (n = 7): dexmedetomidine (2 &#xb5;g/kg IM) (GD); dexmedetomidine (2 &#xb5;g/kg IM) and acepromazine (0.02 mg/kg IM) (GAD); or acepromazine (0.02 mg/kg IM) followed 15 minutes later by dexmedetomidine (2 &#xb5;g/kg IM) (GAD15). Sedation scores and cardiorespiratory variables were recorded at baseline (T0), 15 minutes after the first drug administration (T15), and 15 minutes after the second drug administration (T30). Propofol induction dose was recorded. All protocols produced moderate sedation, with no significant differences among groups. Heart rate decreased significantly at T30 compared with T0 in GD but not in GAD or GAD15. SAP decreased significantly at T30 compared with T0 in GAD15. Propofol induction doses (mean &#xb1; SD) were 3.8 &#xb1; 1.1 mg/kg (GD), 3.6 &#xb1; 0.5 mg/kg (GAD), and 3.1 &#xb1; 0.5 mg/kg (GAD15), with no significant differences. Retching occurred in 2 dogs (GD and GAD), and none in GAD15. The combination of acepromazine and dexmedetomidine provided mild to moderate sedation but did not reduce propofol requirements compared with dexmedetomidine alone.",
+      "categories": [
+        "cardiology"
+      ]
+    },
+    {
+      "pmid": "42214614",
+      "title": "Radiographic tracheal comparison among American, English, and French bulldogs via the utilization of manubrium and thoracic inlet tracheal indices.",
+      "journal": "Topics in Companion Animal Medicine",
+      "authors": "McCutcheon K, Berry CR, Mostafa AA",
+      "date": "2026 08 29",
+      "dateObject": "2026 08 29",
+      "abstract": "Tracheal hypoplasia is a congenital abnormality associated with brachycephalic airway syndrome, resulting in a generalized decrease in tracheal lumen diameter (TLD). Radiographic techniques to assess tracheal narrowing have been described; however, comparisons of tracheal diameter among breeds of bulldogs have not been made. The objective of this study was to investigate potential differences in standardized tracheal lumen diameters among bulldog breeds at different regions of the trachea and determine whether breed-specific reference values should be established. Medical records and thoracic radiographs were reviewed for clinically asymptomatic American, English, and French bulldogs. TLDs at three defined, well-established regions (caudal cervical, thoracic inlet, and intrathoracic trachea) were measured and standardized using manubrium length (ML) and thoracic inlet distance (Ti-D). One hundred dogs met the inclusion criteria and were represented by 33 American bulldogs, 33 English bulldogs, and 34 French bulldogs. No significant difference was found in the average manubrium tracheal index (M-TI) among bulldog breeds. A significant difference was found (p < 0.001) in the average thoracic inlet tracheal index (Ti-TI) among breeds, with the difference attributed to American bulldogs versus French and English bulldogs. This discrepancy might be attributed to the thoracic vertebral anomaly (TVA) associated with bulldogs. MT-I may be a reliable alternative to Ti-TI due to the potential influence of TVA on Ti-D.",
+      "categories": []
+    },
+    {
+      "pmid": "42214613",
+      "title": "Persistent pseudomembranous cystitis associated with Vagococcus lutrae in a setter dog: First clinical report.",
+      "journal": "Topics in Companion Animal Medicine",
+      "authors": "Sezener Kabay MG, Kot ZN, Atalar A, Ozcan U",
+      "date": "2026 08 29",
+      "dateObject": "2026 08 29",
+      "abstract": "Urinary tract infections (UTIs) are among the most common diseases in companion animals, but empirical antibiotic treatments without culture often lead to recurrence and resistance. Vagococcus species are rarely reported as pathogens in animals, and Vagococcus lutrae has not previously been described in dogs. We report the first case of V. lutrae-associated cystitis in a dog in T&#xfc;rkiye. An 8-year-old female English Setter developed persistent dysuria and hematuria after surgery for pelvic trauma. Despite multiple antibiotic treatments (enrofloxacin, ceftriaxone, ciprofloxacin, amoxicillin-clavulanic acid), no clinical improvement was observed. On presentation, hematology indicated leukocytosis with regenerative anemia, and ultrasonography revealed bladder wall thickening and intraluminal hyperechoic material consistent with cystitis. Urine obtained by cystocentesis appeared dark red, alkaline (pH 9), and contained struvite crystals and urothelial cells. Urine culture obtained by cystocentesis yielded a pure growth of Gram-positive cocci identified as V. lutrae using MALDI-TOF mass spectrometry. Antibiotic susceptibility testing showed resistance to commonly used antimicrobials, including amoxicillin, ceftriaxone, ciprofloxacin, doxycycline, and gentamicin, but susceptibility to daptomycin, vancomycin, and teicoplanin. Supportive therapy was initiated; however, the patient died on the third day of treatment. This case suggests the potential pathogenic relevance of V. lutrae in dogs and emphasizes the importance of culture and sensitivity testing in recurrent or treatment-resistant UTIs to guide appropriate antimicrobial therapy.",
+      "categories": [
+        "internalMedicine",
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42173238",
+      "title": "Open approach transversus abdominis plane block for postoperative pain management in bitches undergoing ovariohysterectomy: First in vivo study.",
+      "journal": "Topics in Companion Animal Medicine",
+      "authors": "Marangoni M, Castanho AL, Marques ALR, Meznerovvicz AFF, Caon E, Alves MC, Braz PH",
+      "date": "2026 08 29",
+      "dateObject": "2026 08 29",
+      "abstract": "To compare the postoperative analgesic efficacy of the Open Approach Transversus Abdominis Plane block with the traditional ultrasound-guided technique in female dogs undergoing elective ovariohysterectomy. Prospective, randomized, controlled, blinded clinical study. Ten female dogs, weighing 3-5 kg, aged between 1-6 years. Animals were divided into two groups to receive either the ultrasound-guided TAP block (G-US, n = 5) or the open-approach TAP block (G-OA, n = 5). Pre-medication with methadone (0.3 mg/kg) was followed by propofol induction (4 mg/kg IV) and isoflurane maintenance. The TAP block was performed using 0.25% bupivacaine at a total dose of 0.3 mL/kg, administered as 0.15 mL/kg per side of the abdomen. Postoperative monitoring for 24 hours assessed physiological parameters and pain using the Visual Analogue Scale (VAS) and the Short Form of the Glasgow Composite Pain Scale (CMPS-SF). Data were analyzed using ANOVA, Chi-square, and Shapiro-Wilk tests, with significance set at P < 0.05. The Open Approach technique significantly reduced block execution time (p < 0.001) compared to the US-guided approach. No significant differences were observed between groups in postoperative pain scores (VAS, p = 0.054; CMPS-SF, p = 0.922) or additional analgesic requirements (p > 0.999). The Open Approach TAP block is a safe and effective alternative to the ultrasound-guided technique for dogs undergoing OVH. It provides comparable analgesia while reducing procedural time and eliminating ultrasound-related risks. Its simplicity may enhance clinical accessibility, making it a valuable addition to veterinary locoregional anesthesia.",
+      "categories": [
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42155922",
+      "title": "Sub-anesthetic doses of ketamine associated with TAP block in a cat with acute abdominal pain.",
+      "journal": "Topics in Companion Animal Medicine",
+      "authors": "Obeid PCI, Moghaddam R, Perkins M, Jaffey JA",
+      "date": "2026 08 29",
+      "dateObject": "2026 08 29",
+      "abstract": "To describe the combination of sub-anesthetic doses of ketamine along with ultrasound-guided abdominal anesthesia for a cat with acute abdominal pain. A domestic short-haired male neutered cat with a history of anorexia leading to elevated serum liver enzyme activities presented with progressive signs of severe acute abdominal pain related to acute pancreatitis. After two weeks of hospitalization and progressive worsening of signs, the cat received three subcutaneous doses of ketamine (0.5 mg/kg ea.) in association with ultrasound-guided locoregional anesthesia for abdominal pain relief. This analgesic protocol significantly improved the response to the medical treatment and abbreviated the period of hospitalization. For hospitalized patients who are sometimes unresponsive to opioid-based analgesic protocols commonly included in the medical treatment, ketamine, mostly indicated for the treatment of somatic and/or chronic pain, can be considered as an alternative for visceral pain. US-guided transversus abdominis plane (TAP) block is a minimally invasive and feasible locoregional anesthesia technique that does not require heavy sedation or general anesthesia in debilitated patients. To date, the combination of sub-anesthetic subcutaneous doses of ketamine associated with the TAP block for pain management in cats with acute abdominal pain has not been reported in the veterinary literature.",
       "categories": [
         "internalMedicine"
       ]
@@ -1538,18 +1669,6 @@
       ]
     },
     {
-      "pmid": "42546968",
-      "title": "Effect of 24-hour sedation during mechanical ventilation on hematological, biochemical, and coagulation parameters in bitches: A randomized clinical study.",
-      "journal": "Topics in Companion Animal Medicine",
-      "authors": "Regalin D, Adorno BA, Chimenes ND, Ribeiro D, de Moraes RS, Benevenuto LGD, Serighelli-J&#xfa;nior G, Saito ME, Comassetto F, Regalin BDDC, Padilha VS, Volpato J, Oleskovicz N",
-      "date": "2026 08 11",
-      "dateObject": "2026 08 11",
-      "abstract": "The effects of prolonged sedation on hematological, biochemical, and coagulation variables have not been previously investigated in veterinary medicine. Twelve healthy adult mixed-breed female dogs were included. Blood samples (6 mL) were collected at baseline (M0) for complete blood count (CBC), biochemical testing, prothrombin time (PT), activated partial thromboplastin time (PTT) and fibrinogen. After M0, dogs were allocated into two groups: midazolam-fentanyl-propofol group (MFG; n = 6), which received a continuous infusion of midazolam (0.5 mg/kg/h), fentanyl (10 &#xb5;g/kg/h), and propofol (18 mg/kg/h); and ketamine-morphine-propofol group (KMG; n = 6), which received a continuous infusion of ketamine (0.6 mg/kg/h), morphine (0.26 mg/kg/h), and propofol (18 mg/kg/h). The infusion was maintained for 24 hours under mechanical ventilation. Laboratory parameters were reassessed from 12 to 24 hours after the beginning of infusion (M12 and M24), and at 12, 24, and 48 hours after the infusion (T12, T24, and T48). Both protocols significantly reduced erythrocyte count, packed cell volume, and haemoglobin concentration. In KMG, TTP decreased significantly at M12, M24, and T24; TSP at M24; and lymphocytes at M12 and M24. No significant changes were observed in ALP, ALT, albumin, globulins, creatinine, urea, glucose and blood coagulation. Triglyceride and cholesterol concentrations increased significantly from M6 to T48, but without biochemical evidence of hepatic, renal, or coagulation impairment. Overall, both protocols induced transient hematological and biochemical changes without clinically meaningful alterations in hepatic or renal function, supporting their use in healthy dogs mechanically ventilated for 24 hours.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
       "pmid": "42575087",
       "title": "Assessment of gastrointestinal health and the coagulation system in dogs with right-sided heart disease: an exploratory study.",
       "journal": "Journal of Veterinary Internal Medicine",
@@ -1849,18 +1968,6 @@
       "dateObject": "2026 08 10",
       "abstract": "Canine pulmonary adenocarcinoma (cPAC) lacks well-validated systemic treatment options, motivating preclinical identification of potential therapeutic candidates. To explore potential therapeutic candidates, we first performed a screening of an FDA-approved drug library using a cPAC cell line, which identified bortezomib-a proteasome inhibitor-as a potential agent. Guided by this result, we focused subsequent investigations on proteasome blockade and evaluated the antitumor activity and mechanisms of bortezomib together with a second-generation proteasome inhibitor, carfilzomib-alone and in combination with standard cytotoxics-in three cPAC cell lines (CLAC, HDC, and LuBi). Both agents reduced cell proliferation and cell viability in a dose-dependent manner, with proteasome target engagement (ubiquitinated protein accumulation), G2/M arrest, sub-G1 increase, and caspase-3 cleavage. Pan- and selective caspase inhibition partially rescued viability, suggesting contributions from both intrinsic and extrinsic apoptosis, together with caspase-independent mechanisms. We also observed activation of the JNK-c-Jun pathway and increased Bim expression, indicating the induction of cellular stress responses and apoptosis. Drug-interaction analysis showed reproducible synergy between carfilzomib and carboplatin in HDC and LuBi, whereas combinations with vinorelbine were mainly additive or antagonistic effects. Overall, proteasome inhibitors exert multifaceted cytotoxic effects in cPAC through proteotoxic stress, cell-cycle arrest, and caspase-associated apoptosis. In particular, the combination of carfilzomib and carboplatin may represent a promising therapeutic strategy. Further in&#xa0;vivo and clinical investigations are warranted to evaluate therapeutic efficacy, safety, and pharmacokinetics of proteasome inhibitors in cPAC.",
       "categories": []
-    },
-    {
-      "pmid": "42546967",
-      "title": "Simply adding positive end-expiratory pressure has limited effects on oxygenation in obese dogs.",
-      "journal": "Topics in Companion Animal Medicine",
-      "authors": "Martin-Flores M, Araos J, Rondon TA",
-      "date": "2026 08 08",
-      "dateObject": "2026 08 08",
-      "abstract": "Positive end-expiratory pressure (PEEP) can be used to prevent atelectasis during anesthesia. We evaluated the effect of PEEP on intra- and postoperative oxygenation on obese dogs admitted for stifle surgery. Dogs received no PEEP (ZEEP; n = 10) or 7 cmH 2 O PEEP (n = 9) at random during general anesthesia. The partial pressure of arterial oxygen (PaO 2 ) and its ratio to inspired fractional oxygen (PaO 2 :FiO 2 ) were measured at start and end of surgery (FiO 2 1.0), and 20, 120, and 240 minutes after extubation (FiO 2 0.2). Cases of hypoxemia (PaO 2 < 80 mmHg) were identified. There were no differences between treatment for either variable (P > 0.1 for treatment and P > 0.6 for treatment*time, for both variables). There were three cases of postoperative hypoxemia in the ZEEP treatment (P = 0.21). No significant improvement was achieved when PEEP 7 cmH 2 O was applied in isolation. Successful use of PEEP may require additional maneuvers.",
-      "categories": [
-        "surgery"
-      ]
     },
     {
       "pmid": "42563163",
@@ -2960,19 +3067,6 @@
       ]
     },
     {
-      "pmid": "42263849",
-      "title": "Giant mammary fibroadenoma in four female dogs.",
-      "journal": "Topics in Companion Animal Medicine",
-      "authors": "Dos Reys MP, de Sousa CG, Santana TCF, Nakagaki KYR, Cassali GD",
-      "date": "2026 06 22",
-      "dateObject": "2026 06 22",
-      "abstract": "Fibroadenoma is a benign neoplasm with high prevalence in women but is rare in dogs. Its giant variant is defined by the lesion's size (exceeding 5 cm) and weight. The standard treatment is surgical excision. The objective of this study was to demonstrate that the subclassification of giant fibroadenoma, as described in humans, can also be observed in female dogs, as evidenced by four cases analyzed. The evaluation comprised macroscopic examination and histopathological analysis, underscoring the importance of differential diagnosis and the characterization of this condition in the canine species.",
-      "categories": [
-        "oncology",
-        "surgery"
-      ]
-    },
-    {
       "pmid": "42319213",
       "title": "Clinical Remission of an Unresectable Presumptive Haemangiosarcoma in a Dog Treated With Toceranib, Piroxicam, and Propranolol: A Case Report.",
       "journal": "Veterinary Medicine and Science",
@@ -3010,18 +3104,6 @@
       "categories": []
     },
     {
-      "pmid": "42288150",
-      "title": "Electrochemotherapy with carboplatin and bleomycin associated with mastectomy in cats with mammary carcinoma: A pilot study.",
-      "journal": "Topics in Companion Animal Medicine",
-      "authors": "Regadas R, Dias GS, Brunner CHM, Carvalho VMP, Silva LP, Damasceno KA, Fontes TN, Rocha MAN, Barrouin-Melo SM, Machado MCA, Estrela-Lima A",
-      "date": "2026 06 19",
-      "dateObject": "2026 06 19",
-      "abstract": "In cats, the high incidence of malignant mammary neoplasms with elevated rates of metastasis and recurrence underscores the need for more effective therapies to prevent disease progression. This preliminary study evaluated the impact of carboplatin or bleomycin electrochemotherapy on recurrence rates, adverse effects, and overall survival in female cats with mammary carcinoma undergoing mastectomy. Thirty-four female cats with mammary carcinoma were assigned to four groups: Group 1 (mastectomy), Group 2 (mastectomy plus chemotherapy), Group 3 (mastectomy plus electrochemotherapy with carboplatin and chemotherapy), and Group 4 (mastectomy plus electrochemotherapy with bleomycin and chemotherapy). The tumors were classified and graded histologically, and the proliferative index was assessed using Ki-67. Most cases were stage III, and 50% had nodal metastases. The predominant tumor types included cribriform carcinoma and histological grade II. All groups showed a high Ki-67 proliferation index (>20%), with no significant differences (p = 0.753). Hematocrit values in the fourth chemotherapy session were higher in G3 than in G2 (p = 0.022). The highest numerical recurrence rate occurred in G1, while no recurrences were observed in G2 or G4 during follow-up; however, this difference did not reach statistical significance (p = 0.086). Overall survival analysis showed a 82% mortality rate; G1 had 100% mortality, with a significant difference compared with the other groups (p = 0.0287). More chemotherapy sessions (&#x2265;5) were significantly associated with increased overall survival (p = 0.002), adding a mean of 39.1 days to disease-free survival per additional session. Taken together, these preliminary findings suggest that mastectomy alone was insufficient to control progression the cancer. Carboplatin-based protocols, whether used as conventional chemotherapy or combined with electrochemotherapy, showed lower recurrence rates, fewer adverse effects, and longer overall survival. However, due to the limited sample size, these results should be interpreted with caution. Further studies with larger cohorts are warranted to confirm these observations.",
-      "categories": [
-        "oncology"
-      ]
-    },
-    {
       "pmid": "42313899",
       "title": "A Multispecies Systematic and Critical Review of Intranasal Administration in Veterinary Anaesthesia and Emergency Care: Promising Evidence and Overlooked Challenges.",
       "journal": "Veterinary Medicine and Science",
@@ -3035,29 +3117,6 @@
       ]
     },
     {
-      "pmid": "42263848",
-      "title": "In vitro evaluation of temperature-dependent stability and antimicrobial activity of reconstituted cefovecin sodium.",
-      "journal": "Topics in Companion Animal Medicine",
-      "authors": "Fukayama T, Iwahana M, Yamada H, Hamabe L",
-      "date": "2026 06 16",
-      "dateObject": "2026 06 16",
-      "abstract": "Cefovecin sodium is a long-acting third-generation cephalosporin widely used in dogs and cats. After reconstitution, refrigerated storage for a limited period is recommended; however, experimental data regarding the effects of alternative controlled storage temperatures on drug stability and antimicrobial activity are limited. This study evaluated, under in vitro conditions, the impact of storage temperature on the physicochemical stability and antimicrobial activity of reconstituted cefovecin sodium. Samples were stored at room temperature (25 &#xb1; 2&#xb0;C), refrigerated conditions (4&#xb0;C), or frozen conditions (-20&#xb0;C) for up to 12 weeks. Visual appearance, absorbance at 360 nm, minimum inhibitory concentrations (MICs) against E. coli and Staphylococcus aureus, and cefovecin sodium concentrations determined by liquid chromatography-tandem mass spectrometry (LC-MS/MS) were assessed over time. Room temperature storage resulted in progressive discoloration, increased absorbance, elevated MIC values, and a significant decrease in drug concentration at later time points. Refrigerated storage delayed these changes, although mild increases in absorbance and MIC values were descriptively observed at later time points. In contrast, frozen storage preserved physicochemical properties, antimicrobial activity, and measured drug concentrations throughout the study period. These findings demonstrate that storage temperature influences the stability and in vitro antimicrobial activity of reconstituted cefovecin sodium in a condition-dependent manner. The results provide experimental reference data under controlled laboratory conditions and do not support clinical use outside the manufacturer's approved storage instructions.",
-      "categories": []
-    },
-    {
-      "pmid": "42219058",
-      "title": "A new era in the early treatment of dioctophymosis - The first laparoscopic nephrotomy without ischemia in a dog.",
-      "journal": "Topics in Companion Animal Medicine",
-      "authors": "Caye P, Gasparotto JC, H&#xf6;rbe AV, Socolhoski BVG, Paraguass&#xfa; AO, Pozzobon FM, Reinstein RDS, M&#xfc;ller DCM, Brun MV",
-      "date": "2026 06 11",
-      "dateObject": "2026 06 11",
-      "abstract": "The parasite Dioctophyme renale is a nematode that infects carnivores and often causes total and irreversible destruction of renal tissue. In cases of early diagnosis, nephrotomy is an alternative for renal preservation. This report describes the first laparoscopic nephrotomy performed without ischemia in the treatment of a female dog with renal dioctophymosis, using an ultrasonic scalpel for hemorrhage control. The technique stood out for its precision in simultaneous renal parenchyma incision and coagulation, eliminating the need for temporary blood flow interruption to the organ. It allowed the removal of a 32 cm D. renale from inside the kidney. This approach minimized the risks associated with ischemia-reperfusion injury, proving particularly advantageous in cases with partial preservation of renal parenchyma. Postoperatively, the patient exhibited a reduction in the size of the parasitized kidney and normalization of urinary parameters in urinalysis and blood biochemistry, confirming the technique's success. The use of the ultrasonic scalpel proved safe, efficient, and promising as a tool in the minimally invasive surgical management of renal diseases. This technique represents a significant advancement in the treatment of dioctophymosis with renal preservation.",
-      "categories": [
-        "internalMedicine",
-        "surgery"
-      ]
-    },
-    {
       "pmid": "42256055",
       "title": "Acute vitamin D toxicosis in an adult cat.",
       "journal": "JFMS Open Reports",
@@ -3067,31 +3126,6 @@
       "abstract": "A 4-year-old, female spayed domestic shorthair cat was presented to the Michigan State University emergency service for evaluation of vomiting 4 days after exposure to vitamin D supplements. On intake, the patient was found to have ionized hypercalcemia and azotemia. The patient was hospitalized for calciuresis therapy including fluid diuresis, diuretics, steroids, bisphosphonates and a nasogastric feeding tube. She was discharged and presented for a recheck evaluation and was then hospitalized a second time for the same therapy as her first hospitalization. Eventually the patient was discharged for at-home care with subcutaneous fluids and oral medications because of financial constraints. Approximately 52 days after exposure, the cat was noted to have persistently normal ionized calcium and all medications were discontinued. This case provides a unique example of acute vitamin D toxicosis in a cat and a financially conservative approach in treating a toxicity with a significant half-life.",
       "categories": [
         "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42214615",
-      "title": "Acepromazine does not enhance sedation or reduce propofol requirements when combined with dexmedetomidine in dogs.",
-      "journal": "Topics in Companion Animal Medicine",
-      "authors": "Iepsen LB, Griebeler LB, de Almeida ICA, Puga EB, Vogt MP, de Freitas VR, Guim TN, Gehrcke MI",
-      "date": "2026 06 06",
-      "dateObject": "2026 06 06",
-      "abstract": "This study aimed to evaluate the sedative effects of acepromazine and dexmedetomidine in dogs and their influence on propofol requirements for anesthetic induction, electrocardiographic findings, heart rate and arterial blood pressure. Twenty-one healthy mixed-breed dogs were included in the study. Dogs were randomly assigned to one of 3 protocols (n = 7): dexmedetomidine (2 &#xb5;g/kg IM) (GD); dexmedetomidine (2 &#xb5;g/kg IM) and acepromazine (0.02 mg/kg IM) (GAD); or acepromazine (0.02 mg/kg IM) followed 15 minutes later by dexmedetomidine (2 &#xb5;g/kg IM) (GAD15). Sedation scores and cardiorespiratory variables were recorded at baseline (T0), 15 minutes after the first drug administration (T15), and 15 minutes after the second drug administration (T30). Propofol induction dose was recorded. All protocols produced moderate sedation, with no significant differences among groups. Heart rate decreased significantly at T30 compared with T0 in GD but not in GAD or GAD15. SAP decreased significantly at T30 compared with T0 in GAD15. Propofol induction doses (mean &#xb1; SD) were 3.8 &#xb1; 1.1 mg/kg (GD), 3.6 &#xb1; 0.5 mg/kg (GAD), and 3.1 &#xb1; 0.5 mg/kg (GAD15), with no significant differences. Retching occurred in 2 dogs (GD and GAD), and none in GAD15. The combination of acepromazine and dexmedetomidine provided mild to moderate sedation but did not reduce propofol requirements compared with dexmedetomidine alone.",
-      "categories": [
-        "cardiology"
-      ]
-    },
-    {
-      "pmid": "42214613",
-      "title": "Persistent pseudomembranous cystitis associated with Vagococcus lutrae in a setter dog: First clinical report.",
-      "journal": "Topics in Companion Animal Medicine",
-      "authors": "Sezener Kabay MG, Kot ZN, Atalar A, Ozcan U",
-      "date": "2026 06 05",
-      "dateObject": "2026 06 05",
-      "abstract": "Urinary tract infections (UTIs) are among the most common diseases in companion animals, but empirical antibiotic treatments without culture often lead to recurrence and resistance. Vagococcus species are rarely reported as pathogens in animals, and Vagococcus lutrae has not previously been described in dogs. We report the first case of V. lutrae-associated cystitis in a dog in T&#xfc;rkiye. An 8-year-old female English Setter developed persistent dysuria and hematuria after surgery for pelvic trauma. Despite multiple antibiotic treatments (enrofloxacin, ceftriaxone, ciprofloxacin, amoxicillin-clavulanic acid), no clinical improvement was observed. On presentation, hematology indicated leukocytosis with regenerative anemia, and ultrasonography revealed bladder wall thickening and intraluminal hyperechoic material consistent with cystitis. Urine obtained by cystocentesis appeared dark red, alkaline (pH 9), and contained struvite crystals and urothelial cells. Urine culture obtained by cystocentesis yielded a pure growth of Gram-positive cocci identified as V. lutrae using MALDI-TOF mass spectrometry. Antibiotic susceptibility testing showed resistance to commonly used antimicrobials, including amoxicillin, ceftriaxone, ciprofloxacin, doxycycline, and gentamicin, but susceptibility to daptomycin, vancomycin, and teicoplanin. Supportive therapy was initiated; however, the patient died on the third day of treatment. This case suggests the potential pathogenic relevance of V. lutrae in dogs and emphasizes the importance of culture and sensitivity testing in recurrent or treatment-resistant UTIs to guide appropriate antimicrobial therapy.",
-      "categories": [
-        "internalMedicine",
-        "surgery"
       ]
     },
     {
@@ -3110,16 +3144,6 @@
       ]
     },
     {
-      "pmid": "42214614",
-      "title": "Radiographic tracheal comparison among American, English, and French bulldogs via the utilization of manubrium and thoracic inlet tracheal indices.",
-      "journal": "Topics in Companion Animal Medicine",
-      "authors": "McCutcheon K, Berry CR, Mostafa AA",
-      "date": "2026 06 04",
-      "dateObject": "2026 06 04",
-      "abstract": "Tracheal hypoplasia is a congenital abnormality associated with brachycephalic airway syndrome, resulting in a generalized decrease in tracheal lumen diameter (TLD). Radiographic techniques to assess tracheal narrowing have been described; however, comparisons of tracheal diameter among breeds of bulldogs have not been made. The objective of this study was to investigate potential differences in standardized tracheal lumen diameters among bulldog breeds at different regions of the trachea and determine whether breed-specific reference values should be established. Medical records and thoracic radiographs were reviewed for clinically asymptomatic American, English, and French bulldogs. TLDs at three defined, well-established regions (caudal cervical, thoracic inlet, and intrathoracic trachea) were measured and standardized using manubrium length (ML) and thoracic inlet distance (Ti-D). One hundred dogs met the inclusion criteria and were represented by 33 American bulldogs, 33 English bulldogs, and 34 French bulldogs. No significant difference was found in the average manubrium tracheal index (M-TI) among bulldog breeds. A significant difference was found (p < 0.001) in the average thoracic inlet tracheal index (Ti-TI) among breeds, with the difference attributed to American bulldogs versus French and English bulldogs. This discrepancy might be attributed to the thoracic vertebral anomaly (TVA) associated with bulldogs. MT-I may be a reliable alternative to Ti-TI due to the potential influence of TVA on Ti-D.",
-      "categories": []
-    },
-    {
       "pmid": "42226961",
       "title": "Oesophageal necrosis after impaction as a proposed cause of markedly elevated serum creatine kinase activity in a juvenile cat.",
       "journal": "JFMS Open Reports",
@@ -3129,18 +3153,6 @@
       "abstract": "A 21-week-old, male castrated domestic mediumhair cat presented with a history of acute, severe regurgitation. No abnormalities were detected on physical examination. Initial serum biochemistry identified marked elevation in creatine kinase (CK) (905,409 U/l, reference interval [RI] 50-400), which persisted after 24&#x2009;h of supportive care (32,491 U/l, RI 50-400). Serology for Toxoplasma gondii was negative. Radiography and ultrasound found severe caudal oesophageal impaction. The kitten was euthanased; a post-mortem examination confirmed oesophageal food impaction and severe, focally extensive oesophageal necrosis. The underlying cause of the oesophageal impaction was not definitively determined. Other than the oesophageal necrosis, there were no other autopsy findings to explain the elevated CK. Oesophageal muscle necrosis may be associated with severe elevations in CK concentrations and oesophageal disease should be considered if there is no obvious trauma, polymyopathy or cardiac disease in feline patients with markedly elevated CK.",
       "categories": [
         "cardiology"
-      ]
-    },
-    {
-      "pmid": "42155922",
-      "title": "Sub-anesthetic doses of ketamine associated with TAP block in a cat with acute abdominal pain.",
-      "journal": "Topics in Companion Animal Medicine",
-      "authors": "Obeid PCI, Moghaddam R, Perkins M, Jaffey JA",
-      "date": "2026 06 01",
-      "dateObject": "2026 06 01",
-      "abstract": "To describe the combination of sub-anesthetic doses of ketamine along with ultrasound-guided abdominal anesthesia for a cat with acute abdominal pain. A domestic short-haired male neutered cat with a history of anorexia leading to elevated serum liver enzyme activities presented with progressive signs of severe acute abdominal pain related to acute pancreatitis. After two weeks of hospitalization and progressive worsening of signs, the cat received three subcutaneous doses of ketamine (0.5 mg/kg ea.) in association with ultrasound-guided locoregional anesthesia for abdominal pain relief. This analgesic protocol significantly improved the response to the medical treatment and abbreviated the period of hospitalization. For hospitalized patients who are sometimes unresponsive to opioid-based analgesic protocols commonly included in the medical treatment, ketamine, mostly indicated for the treatment of somatic and/or chronic pain, can be considered as an alternative for visceral pain. US-guided transversus abdominis plane (TAP) block is a minimally invasive and feasible locoregional anesthesia technique that does not require heavy sedation or general anesthesia in debilitated patients. To date, the combination of sub-anesthetic subcutaneous doses of ketamine associated with the TAP block for pain management in cats with acute abdominal pain has not been reported in the veterinary literature.",
-      "categories": [
-        "internalMedicine"
       ]
     },
     {
@@ -3166,18 +3178,6 @@
       "abstract": "A 1-year-old domestic cat was presented with lameness and progressive swelling of the right stifle joint. The condition had been present for 1 month; during the consultation, it was evident that the cat was not bearing weight on the limb, which also exhibited muscle atrophy and tremors, as well as signs of pain upon manipulation. After sedation, crepitus was noted at the femorotibial-patellar joint. Radiographic examination showed osteolysis, and during clinical exploration, tumor cells destroying the joint were confirmed by cytology. Surgical excision was performed via limb amputation, and the mass was found to measure 3&#x2009;&#xd7;&#x2009;5&#x2009;&#xd7;&#x2009;3&#x2009;cm. Histopathological analysis showed a biphasic neoplasm composed of spindle-shaped mesenchymal-like cells and large epithelial-like cells. Normal joint structures, including the capsule and articular cartilage, were completely effaced by neoplastic infiltration, including similar neoplastic changes in distal femur and proximal tibia epiphyses, metaphyses and diaphyses. Tumor cells were immunopositive for either vimentin or cytokeratin. Based on the 2020 World Health Organization (WHO) classification, the tumor was diagnosed as a malignant synovial and perisynovial neoplasm. The cat died 3 months after surgery; at the owner's request, no post-mortem examination was conducted. &#x2003;To the authors' knowledge, this is the first reported case of malignant synovial and perisynovial neoplasia diagnosed in a juvenile cat in accordance with the 2020 WHO classification. This case provides new insights into the histopathological findings of this rare tumor type in feline patients. Rare joint cancer in a young cat A 1-year-old domestic cat was examined because of lameness and progressive swelling of the right stifle joint that had been present for about 1 month. The cat was unable to bear weight on the limb and showed muscle loss, tremors and pain when the joint was moved. Imaging showed bone destruction around the joint. Examination of cells collected from the joint indicated the presence of a tumor. The affected limb was surgically removed, and the mass measured 3&#x2009;&#xd7;&#x2009;5&#x2009;&#xd7;&#x2009;3&#x2009;cm. Microscopic examination showed an invasive cancer made up of two different types of tumor cells that had destroyed the normal structures of the joint and extended into the surrounding bones. Additional tests confirmed that the tumor was a malignant synovial and perisynovial neoplasm, according to the 2020 World Health Organization classification. The cat died 3 months after surgery. To the authors&#x2019; knowledge, this is the first reported case of this type of joint cancer in a young cat diagnosed using the current classification system.",
       "categories": [
         "oncology",
-        "surgery"
-      ]
-    },
-    {
-      "pmid": "42173238",
-      "title": "Open approach transversus abdominis plane block for postoperative pain management in bitches undergoing ovariohysterectomy: First in vivo study.",
-      "journal": "Topics in Companion Animal Medicine",
-      "authors": "Marangoni M, Castanho AL, Marques ALR, Meznerovvicz AFF, Caon E, Alves MC, Braz PH",
-      "date": "2026 05 28",
-      "dateObject": "2026 05 28",
-      "abstract": "To compare the postoperative analgesic efficacy of the Open Approach Transversus Abdominis Plane block with the traditional ultrasound-guided technique in female dogs undergoing elective ovariohysterectomy. Prospective, randomized, controlled, blinded clinical study. Ten female dogs, weighing 3-5 kg, aged between 1-6 years. Animals were divided into two groups to receive either the ultrasound-guided TAP block (G-US, n = 5) or the open-approach TAP block (G-OA, n = 5). Pre-medication with methadone (0.3 mg/kg) was followed by propofol induction (4 mg/kg IV) and isoflurane maintenance. The TAP block was performed using 0.25% bupivacaine at a total dose of 0.3 mL/kg, administered as 0.15 mL/kg per side of the abdomen. Postoperative monitoring for 24 hours assessed physiological parameters and pain using the Visual Analogue Scale (VAS) and the Short Form of the Glasgow Composite Pain Scale (CMPS-SF). Data were analyzed using ANOVA, Chi-square, and Shapiro-Wilk tests, with significance set at P < 0.05. The Open Approach technique significantly reduced block execution time (p < 0.001) compared to the US-guided approach. No significant differences were observed between groups in postoperative pain scores (VAS, p = 0.054; CMPS-SF, p = 0.922) or additional analgesic requirements (p > 0.999). The Open Approach TAP block is a safe and effective alternative to the ultrasound-guided technique for dogs undergoing OVH. It provides comparable analgesia while reducing procedural time and eliminating ultrasound-related risks. Its simplicity may enhance clinical accessibility, making it a valuable addition to veterinary locoregional anesthesia.",
-      "categories": [
         "surgery"
       ]
     },
