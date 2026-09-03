@@ -1,6 +1,157 @@
 {
-  "updated_at": "2026-09-02T23:20:14.307Z",
+  "updated_at": "2026-09-03T23:17:45.806Z",
   "papers": [
+    {
+      "pmid": "42689384",
+      "title": "Severe Hypernatraemia Secondary to Adipsia Associated With a Pituitary Macroadenoma in a Dog: A Case Report.",
+      "journal": "Veterinary Medicine and Science",
+      "authors": "Choo GB, Choi BK, Choi S, Noh D, An JH",
+      "date": "2026 09 03",
+      "dateObject": "2026 09 03",
+      "abstract": "Adipsia is a rare disorder characterised by absence of thirst despite hyperosmolality, resulting from dysfunction of the hypothalamic thirst centre. In veterinary medicine, most reported cases of adipsia are associated with congenital forebrain abnormalities, whereas acquired causes in adult dogs are uncommon. This report describes a 9-year-old neutered male mixed-breed dog presented with lethargy, anorexia, vomiting, recumbency, complete absence of voluntary water intake (adipsia) and intermittent tremors. Severe hypernatraemia (192 mmol/L) and hyperchloremia were identified on initial evaluation. Plasma aldosterone concentration was within the reference interval, excluding hyperaldosteronism. An ACTH stimulation test revealed hypercortisolemia, and abdominal ultrasonography demonstrated bilateral adrenal enlargement. Following controlled correction of hypernatraemia with intravenous fluid therapy, magnetic resonance imaging identified a pituitary macroadenoma occupying the sellar and suprasellar regions with mass effect toward the hypothalamus. Secondary adipsia due to hypothalamic compression was considered the most likely cause of hypernatraemia. Medical management with trilostane and cabergoline was initiated. Follow-up imaging demonstrated mild tumour reduction, and serum sodium concentrations remained stable with assisted water supplementation during nine months of follow-up. This case expands the recognised neurological manifestations of pituitary-dependent hyperadrenocorticism and highlights pituitary macroadenoma as a potential cause of acquired adipsia and severe hypernatraemia in geriatric dogs. Not applicable.",
+      "categories": [
+        "internalMedicine",
+        "oncology",
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "42689095",
+      "title": "Mode-dependent differences in kinetic and selected temporospatial gait parameters in healthy cats walking on a pressure-sensitive treadmill: a pilot study.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Mille MA, Weissig D, Dobenecker B, Mille EB, Zablotski Y, Lauer SK",
+      "date": "2026 09 03",
+      "dateObject": "2026 09 03",
+      "abstract": "Standardized and repeatable assessment of feline gait remains challenging, highlighting the need for controlled measurement systems such as pressure-sensitive treadmills. This study aimed to compare kinetic and temporospatial gait parameters in healthy cats walking on a treadmill operated in standing vs. running mode. We hypothesized that no significant differences would be observed between modes. Ten healthy adult cats were enrolled in a prospective, controlled crossover study. Inclusion criteria included body weight >4.0 kg, body condition score (BCS) 4-6/9, and age >24 months. Cats walked on a pressure-sensitive treadmill (FDM-T-CanidGait &#xae; , zebris Medical GmbH, Isny, Germany) under two conditions: standing mode (stationary belt) and running mode (moving belt). Five 2-min trials per mode were recorded. Kinetic and temporospatial gait parameters were assessed, including peak vertical force, vertical impulse, stride length, stance and swing phase duration, and step width. Right and left limb data were pooled and analyzed collectively as forelimbs (FL) and hindlimbs (HL). Data were analyzed using robust linear mixed-effects models (R 4.4.3), with significance set at p < 0.05. Significant differences between treadmill modes were detected for peak vertical force and vertical impulse in both forelimbs and hindlimbs ( p < 0.01). Forelimb swing and stance phase durations also differed significantly ( p < 0.05). In contrast, stride length, step width, and hindlimb temporal parameters did not differ significantly between modes. Estimated differences were generally small in magnitude across variables. In healthy cats, stride length, step width, and hindlimb temporal parameters were comparable between standing and running treadmill modes. In contrast, kinetic variables (peak vertical force and vertical impulse) and forelimb stance and swing phase durations differed significantly between modes and should therefore be interpreted only within the same treadmill mode. These findings indicate that treadmill modes may be used interchangeably for selected temporospatial parameters but not for kinetic variables or forelimb temporal parameters.",
+      "categories": []
+    },
+    {
+      "pmid": "42688045",
+      "title": "Common recorded diagnoses in purebred vs. mixed-breed dogs: a multivariable analysis of primary-care electronic medical records in South Korea.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Yang I, Kim AY, Baek JS, Ku B, Jeong HJ, Lee K",
+      "date": "2026 09 03",
+      "dateObject": "2026 09 03",
+      "abstract": "In South Korea, the companion-dog population is strongly skewed toward a small number of small-breed purebred dogs, and distinguishing breed-type differences in recorded diagnoses from confounding by age, neuter status, and healthcare utilization is challenging in primary-care data. This retrospective study used electronic medical records (EMRs) from primary-care veterinary clinics in South Korea, covering January 2016-December 2024, to compare the adjusted odds of the 20 most frequently recorded diagnoses between purebred and mixed-breed dogs. Records were standardized using Veterinary Nomenclature (VENOM) coding. For each condition, a separate multivariable logistic regression model estimated the adjusted odds ratio (aOR) and 95% confidence interval (CI) for purebred status, adjusting for age, sex, neuter status, and visit frequency. Age was assigned as age at first recorded diagnosis for cases and last observed age for non-cases. After adjustment, purebred dogs showed higher odds of recorded diagnosis for nine conditions, including meningoencephalitis (aOR 2.77; 95% CI 1.17-6.57), intervertebral disc disorder (aOR 1.85; 95% CI 1.49-2.29), myxomatous mitral valve degeneration (aOR 1.57; 95% CI 1.46-1.68), and patellar luxation (aOR 1.54; 95% CI 1.38-1.71). Mammary neoplasm showed higher crude prevalence in mixed-breed dogs, and this association remained statistically significant after adjustment for binary neuter status (aOR 0.80; 95% CI 0.68-0.95; Adj p = 0.0202), likely reflecting unmeasured confounding by the timing of neutering. Ten conditions, including chronic kidney disease and unspecified dermatitis, showed no statistically significant difference between groups. These findings indicate breed-type differences in the odds of recorded diagnoses in a Korean primary-care EMR dataset rather than true disease risk or causal effects. Because the cohort was dominated by small-breed dogs and the analyses could not fully account for body size, follow-up duration, detection bias, or diagnostic-coding heterogeneity, the observed associations may reflect breed composition, morphology, owner behavior, healthcare access, and recording practices in addition to underlying biological differences.",
+      "categories": [
+        "cardiology",
+        "internalMedicine",
+        "oncology",
+        "neurology",
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42688043",
+      "title": "A multicenter, retrospective, cross-sectional analysis of fresh and processed Vitis vinifera (grape) ingestion in dogs and cats.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Altman KD, Kamat TA, Leicester L, Fraser T, Singleton DA, Elias Santo-Domingo N",
+      "date": "2026 09 03",
+      "dateObject": "2026 09 03",
+      "abstract": "Vitis vinifera fruits are common household toxicants and domestic pets are often presented to veterinarians following exposure due to risk of acute kidney injury. To develop a regular expression-based method for identifying cases of Vitis vinifera fruit ingestion in electronic health records and to use this dataset to compare outcomes between fresh and processed exposures in canines and felines. Secondary aims were to characterize differences in outcome by species, demographics, seasonality, chocolate co-ingestion, and treatment patterns to inform risk stratification and management. A retrospective cross-sectional analysis was performed using emergency-care electronic health records from 64 United Kingdom-based private veterinary emergency centers between 2018 and 2024. Iteratively refined Python-based regular expressions were developed and validated to identify suspected or confirmed ingestion from free-text clinical narratives. Cases with confounding toxicities or incomplete records were excluded. Demographic, treatment, and outcome data were extracted. Mortality analyses were conducted by species with correction for multiple comparisons. Decision tree models were developed for canines and felines using stratified training and testing datasets with Bayesian hyperparameter optimization. Model performance was assessed using average precision on held-out data. 31,425 probable canine cases and 1,030 probable feline cases were identified. Processed fruit ingestion was more common than fresh fruit ingestion in both species (canines: 61.6% versus 31.2%; felines: 65.0% versus 31.1%), with seasonal clustering in December (canines: 22.0%; felines: 15.5%). Mortality was 1.3%, significantly higher in felines (11.8%) than in canines (0.9%). Fresh fruit ingestion was associated with higher mortality in both species (canine relative risk 3.47; feline relative risk 3.13). Age was associated with mortality in both species, and increased weight was associated with mortality in canines only. Chocolate co-ingestion was not associated with increased mortality. Treatment differed by species, with emesis more common in canines and intravenous fluids more frequent in felines. Decision tree analysis identified decontamination as the strongest predictor of survival. Vitis vinifera ingestion is common in canine emergency presentations and less frequent but more fatal in felines. Fresh fruit ingestion carries higher mortality risk in both species. Gastrointestinal decontamination was the variable most strongly associated with favorable outcomes and supports prompt, species-specific management strategies.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42687958",
+      "title": "Physical simulation models for veterinary surgical training: a systematic review.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Salas-Guerra J, S&#xe1;nchez-Margallo JA, Dur&#xe1;n-Rey D, S&#xe1;nchez-Margallo FM",
+      "date": "2026 09 03",
+      "dateObject": "2026 09 03",
+      "abstract": "Simulation has become an increasingly important educational strategy in veterinary surgical training. This is driven by ethical considerations, the need to standardize skill acquisition, and limitations associated with training based on live animals and cadavers. However, the characteristics, scope, and validation of simulators used in veterinary surgery remain heterogeneous and insufficiently systematized. This study aimed to systematically review and characterize the simulators used in veterinary surgical education, focusing on their characteristics, applications, and validations. This should also identify current limitations and potential future research directions. A systematic review was conducted following the PRISMA 2020 guidelines. The PubMed and Web of Science databases were searched to identify studies on the use of physical simulators in veterinary surgical training published between July 2016 and July 2026. Studies based solely on cadavers, ex vivo models, virtual reality simulators, and those not focused on veterinary practice, were excluded. The results were synthesized descriptively using predefined categorical frameworks. A total of 1,409 articles were identified, of which 78 studies were ultimately included. Most simulators were low fidelity (55%) and developed in academic settings. High-fidelity simulators were predominantly commercial (79%). The majority of the simulators identified were canine models (42%) or box trainers (21%), with a focus on sterilization procedures. Comparatively limited representation was found for other species and surgical specialties. Validation approaches were heterogeneous, with face, content and construct validity being the most frequently reported. Physical simulators are widely used in veterinary surgical education, but their development remains uneven across species, specialties, and validation standards. There is a clear need for higher-fidelity, species-diverse simulators, as well as more rigorous and standardized validation frameworks to strengthen the educational and clinical impact of simulation-based training.",
+      "categories": [
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42690268",
+      "title": "Comparison of 30&#xb0; and 70&#xb0; arthroscopes in canine hip arthroscopy: a 3D-printed model study.",
+      "journal": "Veterinary Research Communications",
+      "authors": "Tr&#x119;bacz P, Pawlik M, Czopowicz M, Barteczko A, Kurkowska A, Pi&#x105;tek A",
+      "date": "2026 09 03",
+      "dateObject": "2026 09 03",
+      "abstract": "Hip arthroscopy is a valuable diagnostic and surgical tool in veterinary medicine; however, the optimal arthroscope viewing angle for the canine coxofemoral joint has not been established. We hypothesised that a 70&#xb0; arthroscope would provide superior visualisation of the hip joint cavity compared to the standard 30&#xb0; arthroscope when inserted via a dorso-lateral approach. To test this hypothesis, five 3D-printed canine hip joint models were developed using computed tomography (CT) scans of large-breed dogs. The articular surfaces were embossed with a 1&#x2009;&#xd7;&#x2009;1&#xa0;mm checkerboard pattern to enable objective quantification of the visible area. Arthroscopy was performed with 2.7-mm-diameter 30&#xb0; and 70&#xb0; arthroscopes at four positions (3, 6, 9, and 12 o'clock), and the visible area was calculated by counting visible tiles. Statistical analysis was performed using a mixed-effect general linear model. There was no significant overall difference in the visible area between the two arthroscope viewing angles (P&#x2009;=&#x2009;0.977). However, arthroscope position significantly affected the visible area (P&#x2009;<&#x2009;0.001), and a significant interaction between viewing angle and position was identified (P&#x2009;=&#x2009;0.001). Notably, the visible area produced by the 70&#xb0; arthroscope was significantly smaller than that produced by the 30&#xb0; arthroscope at the 12 o'clock position (P&#x2009;=&#x2009;0.026). However, at the 3 o'clock position, the visible area produced by the 70&#xb0; arthroscope appeared to be larger than that produced by the 30&#xb0; arthroscope. Nevertheless, this difference was not significant (P&#x2009;=&#x2009;0.085). The results suggest that, in this experimental model, the 70&#xb0; arthroscope provided a comparable overall visible area of the artificial hip joint surface to the 30&#xb0; arthroscope during dorso-lateral canine hip arthroscopy. Further comparative studies, particularly on calibrated cadaveric hip joints, are required.",
+      "categories": [
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42685339",
+      "title": "A SINE-like insertion in intron 13 of the ATP7A gene is associated with a mild form of Menkes-like disease in a Cavalier King Charles Spaniel.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Fulton EA, Schwarz C, Jagannathan V, Leeb T, Gutierrez-Quintana R",
+      "date": "2026 09 02",
+      "dateObject": "2026 09 02",
+      "abstract": "A 7-month-old intact male Cavalier King Charles Spaniel was presented for persistent glucosuria despite normoglycemia, failure to thrive, chronic diarrhea, and cerebellar ataxia. Fanconi syndrome was diagnosed, but the neurologic abnormalities were not fully explained. As a consequence of the early onset Fanconi syndrome, a hereditary process was suspected. Whole genome sequencing identified a private hemizygous SINE-like insertion into the ATP7A gene, at the end of intron 13, near the start of exon 14. In humans, variants in ATP7A are associated with Menkes disease, a disorder of copper metabolism associated with a spectrum of clinical signs including progressive neurodegeneration and connective tissue abnormalities. Clinically affected dogs with variants in ATP7A have not been reported previously. Although this case appears to represent a mild phenotypic presentation of Menkes-like disease, it raises the possibility that copper disorders aside from copper-associated hepatitis might exist in dogs. Further genetic screening and phenotypic characterization of rare genetic variants associated with copper metabolism would be beneficial to expand our knowledge of copper disorders in dogs and allow potential early intervention and modeling for metabolic diseases in humans.",
+      "categories": [
+        "internalMedicine",
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "42685338",
+      "title": "Subcutaneous ureteral bypass explantation in 21 cats (2015-2023): outcomes and owner perceptions.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Broughton SE, Frykfors von Hekkel A, Rossanese M, Rutherford L, Geddes RF, Lawson JS",
+      "date": "2026 09 02",
+      "dateObject": "2026 09 02",
+      "abstract": "Subcutaneous ureteral bypass (SUB) can be an effective treatment for ureteral obstruction in cats, but SUB explantation is little documented. Describe reasons for SUB explantation, outcomes, and owner experiences. We hypothesized that explantation would be effective in managing common SUB-related complications. Twenty-one cats (31 SUBs) that underwent 29 explantations. Retrospective case-series of cats undergoing explantation between 2015 and 2023 with medical record review and 20 owners emailed for follow-up. Results are median (range). Explantation was performed 1.8&#xa0;years (0.2-4.1&#xa0;years) after placement because of positive urine culture (PUC; 15/21), SUB obstruction (8/21), sterile cystitis (4/21), and suspected SUB failure (2/21). Twenty-six out of 31 ureters had documented patency. Seventeen cats had all implants removed (9 unilateral, 8 bilateral). Two underwent unilateral explantation and ipsilateral ureteronephrectomy. Two with bilateral SUBs underwent unilateral explantation. Follow-up after explantation was 596&#xa0;days (3-2310&#xa0;days). Four cats had ureteral re-obstruction (1 after partial obstruction at explantation), 10 did not re-obstruct and the remainder were undetermined. Seven cats died at 614&#xa0;days (405-2200&#xa0;days), 11 were lost to follow-up at 135&#xa0;days (19-1774&#xa0;days) after explantation, and 3 remained alive. Four deaths were renal related (2/4 re-obstructions). Nine of 15 cats explanted due to PUC had a negative postoperative urine culture. Three of 15 cats had clinical signs related to PUC postoperatively. Questionnaire response was 9 of 20, and 8 of 9 owners would consider explantation if in the same situation again. For SUB cats with complications, explantation is a viable option. A small proportion of cats had clinical signs of PUC, or ureteral re-obstruction postoperatively. Cats have narrow ureters which connect the kidney to the bladder. These are prone to blockage, in which case placement of an implant to bypass the blockage can be lifesaving. Implants need to be examined and flushed every 3-6&#xa0;months, and can become blocked, infected, or cause irritation. We used clinical records of cats treated at a referral hospital to investigate if removing the implant could treat complications. We also asked if owners felt this was the right choice when considering the long-term outcome. We reviewed 21 cats and found 26 of 31 ureters had unblocked and 29 implants were removed. We had follow-up information for an average of 596&#xa0;days. Four cats did get a new ureteral blockage, but 60% of cats who had an infection in the urine were cured after the surgery. Nine owners completed our survey, and 8 felt that they would make the same decision for implant removal in the future. Our study shows that removing the implant can be considered in certain cats, but there is a risk of a new blockage forming which would require a new implant.",
+      "categories": [
+        "internalMedicine",
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42685337",
+      "title": "Phenotypic features of paroxysmal dyskinesia in Dachshund dogs: 62 cases (2017-2025).",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Boyd B, Corsini G, Polidoro D, Bhatti SFM, Grapes N, Alza D, Motta L, Formoso S, De Decker S, Bertram S, Gilbert S, Karpozilou A, Douralidou D, Santifort K, De Frias JM, Bongers J, Kaczmarska A, Liatis T",
+      "date": "2026 09 02",
+      "dateObject": "2026 09 02",
+      "abstract": "Paroxysmal dyskinesia (PxD) has not been characterized in Dachshunds. Describe the phenotype, treatment, and outcome of PxD in Dachshunds. Sixty-two Dachshunds with presumptive PxD. Observational, retrospective, multicenter study of dogs diagnosed with PxD between 2017 and 2025, with prospective information using an owner questionnaire. Median age at presentation was 3.2&#xa0;years (range, 1-11&#xa0;years). Episodes were characterized by shifting (55/62; 88.7%), single (4/62; 6.5%) limb or cervical dystonia (28/62; 45.2%), tremors (25/62; 40.3%), dystonic head tremors (15/62; 35.5%), truncal sway (20/62, 32.3%), kyphosis (17/62; 27.4%), and ataxia (15/62, 24.2%) or head sway (12/62, 19.4%). Shifting limb dystonia was exhibited in all (19/55; 34.5%), pelvic (7/55; 12.7%), or thoracic (1/55; 1.8 %) limbs. Ptyalism (25/62; 40.3%), vomiting (23/62; 37.1%), or lip smacking (25/62; 40.3%) were common. All dogs were diagnosed with presumptive idiopathic paroxysmal non-kinesigenic dyskinesia. Most common treatments were gluten-free diet (42/62; 67.7%), levetiracetam (9/62; 14.5%), phenobarbital (5/62; 8.1%), or no treatment (18/62; 29%). Follow-up was available for 49 of 62 (79%) dogs with a median follow-up of 543&#xa0;days (range, 5-2903&#xa0;days). Twenty-six of 49 (53%) dogs had a decrease, 19 of 49 (38.8%) had no change and 4 of 49 (8.2%) had an increase in the frequency or intensity of episodes. Paroxysmal dyskinesia occurs in young Dachshunds. Shifting limb dystonia is a common feature, and it can affect the pelvic limbs exclusively, mimicking spinal cord disease. Most dogs experienced a decrease in numbers of events regardless of treatment.",
+      "categories": [
+        "internalMedicine",
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "42685790",
+      "title": "Exchangeable copper concentration and 3-kilodalton ultrafiltered urinary copper measurements are successfully adapted and partially validated in dogs.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Chuang WH, Cavasin JP, Fosgate GT, Tinoco-N&#xe1;jera A, Dr&#xf6;es FC, Phillips RK, Cullen JM, Steiner JM, Lidbury JA, Aicher KM",
+      "date": "2026 09 02",
+      "dateObject": "2026 09 02",
+      "abstract": "To adapt and partially validate the accuracy and precision of serum exchangeable copper and 3-kDa ultrafiltered urinary copper concentrations as an analytical prerequisite to investigate the clinical utility of relative exchangeable copper and urinary small copper carrier-to-creatinine ratio as noninvasive biomarkers in dogs with copper-associated hepatitis. Serum exchangeable copper and 3-kDa ultrafiltered urinary copper concentrations of surplus samples of dogs submitted for diagnostic purposes from October 2023 through March 2024 were measured by adapting a previously described ultracentrifugation method. Copper concentrations were quantified using inductively coupled plasma mass spectrometry. The optimal relative centrifugal force was selected based on minimizing the variability among replicates. Analytical performance was evaluated through spike recovery and intra- and interassay repeatability. Optimal parameters were identified as 5 g/L EDTA and 5,000 X g for serum exchangeable copper and 4,000 X g for 3-kDa ultrafiltered urinary copper. Spike recovery ranged from 97.9% to 108.5% for serum exchangeable copper and from 96.7% to 120% for ultrafiltered urinary copper. The median intra- and interassay coefficients of variation were 8.5% and 10.8% for exchangeable copper and 2.6% and 5.6% for ultrafiltered urinary copper, respectively. Ultrafiltration-based methods for measuring serum exchangeable copper and 3-kDa ultrafiltered urinary copper concentrations were successfully adapted for dogs, with spike recovery and intra- and interassay coefficients of variation within predefined acceptance criteria. The results provide the analytical foundation for future investigation of the diagnostic utility of relative exchangeable copper and urinary small copper carrier protein as noninvasive biomarkers for copper-associated hepatitis in dogs.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42685771",
+      "title": "Skin fragility in a 12-year-old domestic shorthair cat.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Athayde CO, Hartmann G, Bandinelli MB, P&#xf6;ppl &#xc1;G, Pavarini SP",
+      "date": "2026 09 02",
+      "dateObject": "2026 09 02",
+      "abstract": "",
+      "categories": [
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42685768",
+      "title": "Comparing compressed 2-dose and 3-dose melarsomine protocols in the era of adjunctive therapy: a randomized clinical trial of 168 dogs with heartworm disease.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Jacobson LS, Dyer JL, Van Vlake A, DiGangi BA, Horowitz MA, Levy JK",
+      "date": "2026 09 02",
+      "dateObject": "2026 09 02",
+      "abstract": "To test the hypothesis that, when used with doxycycline, moxidectin, and prednisone, 2-dose melarsomine would be as safe and effective as 3-dose melarsomine. A randomized clinical trial was conducted from April 2024 to December 2025, comparing compressed 2-dose and 3-dose melarsomine protocols. Dogs with Class 1 or 2 heartworm disease received sustained-release moxidectin, doxycycline, prednisone, and 2 or 3 injections of melarsomine. Melarsomine was administered on days 14 and 15 (2-dose group) or days 14, 44, and 45 (3-dose group). Dogs were exercise restricted for 4 weeks following melarsomine. Daily clinical observations were made until the last day of exercise restriction. Antigen tests were performed 6 or 9 months after melarsomine. 168 dogs completed treatment (2-dose group, n = 85; 3-dose group, 83), and 165 were retested (2-dose group, 85; 3-dose group, 80). There was no significant difference in efficacy between the 2-dose group (95.3%; 95% CI, 88.4% to 98.7%) and the 3-dose group (98.8%; exact 95% CI, 93.2% to 100.0%). The sample size was insufficient for conclusive noninferiority analysis at the predefined noninferiority margin of 4%. Survival was 100%. Complications were rare, with 7 dogs requiring thoracic radiographs with or without additional treatment, but none requiring intensive management. Incidence of post-melarsomine cough, increased respiratory effort, and weakness was not significantly different between groups. A compressed 2-dose melarsomine protocol, with doxycycline, moxidectin, and prednisone, was safe and effective. Compared with 3-dose protocols, the 2-dose melarsomine protocol reduces the cost, resources, and time required to treat heartworm disease.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
     {
       "pmid": "42682558",
       "title": "Short-term effects of pimobendan in dogs with preclinical myxomatous mitral valve disease.",
@@ -248,16 +399,6 @@
       "date": "2026 09 01",
       "dateObject": "2026 09 01",
       "abstract": "To evaluate natural, environmentally safe alternatives for controlling hard ticks in response to emerging resistance against commonly used acaricides. Punica granatum peel ethanolic extract (PPE) was prepared and then chemically characterized using liquid chromatography-electrospray ionization-tandem mass spectrometry. The adult immersion test was used to evaluate the in vitro anti-tick activity of PPE at the concentrations of 12.5, 25, 50, 100, and 200 mg/mL. The effect of PPE on tick counts and antioxidant activity in artificially infested dogs was assessed for 7 days after application. Chromatographic analysis detected 8 O-glycosylated flavonoids as well as catechin, apigenin, luteolin, and procyanidin. In vitro, immersing adult ticks in 35 mg/mL PPE for 5 min resulted in 50% mortality after 6 hours (LC50). In the in vivo trial, tick-infested dogs sprayed with PPE (35 mg/mL) had significantly lower tick counts than untreated infested controls on days 2, 4, and 7 after treatment, with the maximum count reduction on day 7 (4.67 &#xb1; 1.53 in treated dogs vs 81.7 &#xb1; 5.0 in controls). In vivo results showed that PPE treatment improved antioxidant activity in tick-infested dogs, increasing glutathione reductase, glutathione peroxidase, and catalase levels while decreasing malondialdehyde. In vivo results showed that PPE treatment improved antioxidant activity in tick-infested dogs, increasing glutathione reductase, glutathione peroxidase, and catalase levels while decreasing malondialdehyde. This study is the first to show the acaricidal activity of PPE against tick species. The results suggest the potential of this botanical byproduct as an alternative to chemical acaricides for tick control.",
-      "categories": []
-    },
-    {
-      "pmid": "42674071",
-      "title": "Rabies surveillance in the United States during 2024.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Keshavamurthy R, Boutelle C, Bonaparte S, Gigante CM, Condori RE, Earnest R, Kirby JD, Nelson KM, Orciari LA, Ross Y, Wallace RM",
-      "date": "2026 09 01",
-      "dateObject": "2026 09 01",
-      "abstract": "Describe the epidemiologic landscape of rabies and rabies testing in the US during 2024. Animal rabies testing results from approximately 130 public health, agriculture, and academic laboratories are collected by the US National Rabies Surveillance System (NRSS) each month. Data reported in 2024 were analyzed to examine temporal and geographic trends in animal rabies cases by rabies virus variant (RVV). In 2024, 3,834 cases of animal rabies were reported to the NRSS (4.2% of 90,343 samples submitted), representing a 2.0% increase from 2023. Of positive samples, 331 (8.6%) were domestic animals, and 3,503 (91.4%) were wildlife. The most commonly found rabid domestic animal was cats (243 positive [1.3% positivity]), and the most commonly found wildlife were bats (1,376 positive [5.7% positivity]) followed by raccoons (1,080 [10.1% positivity]). Two nonenzootic RVVs gained entry into the US in 2024. Four people died from rabies, including 2 who experienced bat exposures that were left untreated and 1 person whose case involved international travel. The expansion of the historical range of enzootic RVVs can lead to substantial public health and animal health burden. Domestically acquired human rabies cases in 2024 underscore the need for continual public education on the risks of rabies exposures to ensure timely and effective administration of postexposure prophylaxis. The internationally acquired human rabies case demonstrates that the US remains vulnerable to human and animal rabies importations. The NRSS plays a crucial role in protecting public and animal health by monitoring rabies trends in the US.",
       "categories": []
     },
     {
@@ -756,18 +897,6 @@
       ]
     },
     {
-      "pmid": "42660187",
-      "title": "Different fresh gas flows produce similar rebreathing and regional ventilation during helmet continuous positive airway pressure in sedated Beagles.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Mandelbaum R, Albano V, Vicenti C, Ali H, Martin-Flores M, Adler A, Araos J",
-      "date": "2026 08 27",
-      "dateObject": "2026 08 27",
-      "abstract": "To evaluate the effects of 4 oxygen driving flows on carbon dioxide rebreathing and ventilation in healthy sedated dogs receiving helmet continuous positive airway pressure (CPAP). This prospective experimental crossover study included 7 healthy adult Beagles sedated using a standardized protocol. Dogs received helmet CPAP (approx 5 cm H2O) through a Venturi valve system. Following stabilization at 15 L/min, dogs underwent evaluation at 4 oxygen driving flows (5, 10, 15, and 20 L/min), with flow conditions administered in randomized order. Primary outcomes included inspired carbon dioxide (PiCO2), PaCO2, and end-tidal carbon dioxide. Secondary outcomes included oxygenation, hemodynamics, and electrical impedance tomography-derived regional ventilation. Data were analyzed using generalized linear mixed-effects models with flow as a fixed effect and dog as a random effect. Flow significantly affected PiCO2, although the magnitude of the difference was small. Median PiCO2 differed by approximately 1 mm Hg between 5 and 15 L/min, and maximum observed PiCO2 remained low (2 mm Hg). No differences were detected in PaCO2, end-tidal carbon dioxide, respiratory rate, surrogate minute ventilation, or regional ventilation distribution. Arterial oxygen tension differed among flows, but the ratio of arterial oxygen tension to inspired oxygen fraction (P:F ratio) was unchanged. Carbon dioxide rebreathing during helmet CPAP remained minimal across the tested oxygen driving flows and was not associated with measurable changes in PaCO2 or regional ventilation. Lower oxygen driving flows may provide adequate helmet washout in healthy sedated dogs using a Venturi-based helmet CPAP system.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
       "pmid": "42656136",
       "title": "Clinical Case and Follow-Up of Babesia banethi Infection in a Red Fox.",
       "journal": "Veterinary Medicine and Science",
@@ -852,16 +981,6 @@
       "categories": [
         "surgery"
       ]
-    },
-    {
-      "pmid": "42656245",
-      "title": "A participatory rapid ethnographic assessment protocol for studying human-animal-material interactions in veterinary clinical practice.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Kliewer BW, Orchard R",
-      "date": "2026 08 27",
-      "dateObject": "2026 08 27",
-      "abstract": "Veterinary clinical practice involves complex interactions among clinicians, learners, clients, animals, material objects, and built environments. These interactions shape how care is delivered, how students learn, and how practitioners respond to changing circumstances in real time. However, existing qualitative and ethnographic methods often lack a replicable protocol for capturing how human, animal, and material contributions jointly shape clinical practice as it unfolds. This methodology article presents a participatory Rapid Ethnographic Assessment protocol designed for veterinary educators, practitioners, and researchers who seek to study, teach, and improve context-sensitive clinical practice in interspecies settings. The protocol details the epistemological and philosophical implications of a two-camera audiovisual data collection strategy: one camera records naturally occurring clinical interactions for later research analysis, while a second assessment camera captures interactional sequences that can be rapidly replayed to participants for reflection and coaching. The method proceeds through four stages: identifying candidate sequences of practice, conducting participatory interactional sense- and meaning-making, organizing paired assessment and research recordings for close analysis, and interpreting selected sequences using relevant clinical, educational, organizational, or social science theory. The protocol is illustrated through an example from mobile veterinary care in which a dog treat, clinician, client, patient, and technician collectively contribute to redirecting an interaction and enabling care to proceed. Anticipated outputs include participant-validated interactional data, teachable examples of clinical and leadership practice, context-specific quality improvement insights, and evidence that can inform veterinary education and One Welfare-oriented outreach. The article details required materials, step-by-step procedures, timing, pause points, anticipated results, limitations, pitfalls, and troubleshooting strategies. By making human-animal-material interactions visible and analyzable, this methodological protocol offers a practical method for studying and improving clinical practice in veterinary humanities, social science, and community-engaged veterinary research.",
-      "categories": []
     },
     {
       "pmid": "42337734",
@@ -1158,33 +1277,6 @@
       "categories": []
     },
     {
-      "pmid": "42643296",
-      "title": "Canine dermatophytic kerion caused by Microsporum canis : two case reports.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Dumont-Viollaz A, G&#xf3;mez-Barris BR, Del R&#xed;o LC, Moreno C, Thomson P",
-      "date": "2026 08 26",
-      "dateObject": "2026 08 26",
-      "abstract": "Dermatophytosis is a superficial, highly contagious mycosis caused mainly by keratinophilic fungi of the genera Microsporum, Trichophyton and Nannizzia . This report describes two clinical cases of dermatophytic kerion in dogs caused by Microsporum canis . In both, direct microscopic examination of hairs revealed ectothrix arthroconidia, and fungal culture yielded colonies morphologically consistent with M. canis . Species identification was confirmed by PCR amplification and partial sequencing of the ribosomal ITS region, followed by BLAST analysis and phylogenetic reconstruction. Antifungal susceptibility testing was performed by agar diffusion. Systemic antifungal therapy using pulse regimens of itraconazole or terbinafine, combined with topical treatment and environmental decontamination, resulted in complete clinical and mycological cure in both patients. These cases emphasize the importance of considering dermatophytosis, particularly kerion, in the differential diagnosis of deep inflammatory skin lesions in dogs. Early recognition and appropriate antifungal therapy are essential to achieve successful outcomes and to reduce the risk of zoonotic transmission.",
-      "categories": [
-        "internalMedicine",
-        "dermatology"
-      ]
-    },
-    {
-      "pmid": "42643243",
-      "title": "Comparison of adhesiveness between new improved surgical drapes and existing drapes during contraceptive surgery in 90 cats: a multi-center controlled clinical trial.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Namiki R, Uemura A, Shimada K, Tanaka T, Yoshida T, Onitsuka A, Mandour A, Ogawa S, Tanaka R",
-      "date": "2026 08 26",
-      "dateObject": "2026 08 26",
-      "abstract": "Plastic drapes are used prevent surgical site infections by enclosing bacteria within adhesive layers that directly contact the skin during surgery. However, these drapes often peel from the surgical edge, increasing the risk of surgical site infection. This problem has remained unresolved since the development of plastic drapes decades ago. Recently, a basic study using rat skin reported improvements in the structure of these drapes. This study indicated that drape detachment during skin incision can be suppressed by improving the flexibility of the drape base film. Furthermore, although the number of cases was small, a clinical study was conducted, and the improved flexible drape was found to peel off less during cat surgery. The purpose of this study was to compare the peeling area of an existing drape with that of a prototype drape with an improved flexible base film in a large number of feline cases as part of a multi-center controlled clinical trial. Ninety cats that underwent neutering were randomly assigned to the existing drape group and the prototype drape group. Immediately after the skin incision and before suturing, the surgeon graded the degree of detachment of the drape from the surgical edge based on the diagram prepared in advance. The peeling grade of the prototype drape was lower than that of the existing drape at both times. We concluded that the prototype drape with a more flexible base film could reduce the intraoperative drape peeling area.",
-      "categories": [
-        "internalMedicine",
-        "surgery",
-        "dermatology"
-      ]
-    },
-    {
       "pmid": "42644499",
       "title": "Comments on Statistical Analysis of \"Comparative Efficacy and Safety of Ilunocitinib and Oclacitinib for the Control of Pruritus and Associated Skin Lesions in Dogs With Atopic Dermatitis\".",
       "journal": "Veterinary Dermatology",
@@ -1220,18 +1312,6 @@
       "categories": [
         "internalMedicine",
         "oncology"
-      ]
-    },
-    {
-      "pmid": "42639128",
-      "title": "Case Report: Fatal copper-associated hepatopathy in a Belgian Shepherd Malinois dog initially investigated as suspected malicious poisoning.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Kim AY, Jang M, Baek JS, Ku BK, Lee K",
-      "date": "2026 08 25",
-      "dateObject": "2026 08 25",
-      "abstract": "Copper-associated hepatopathy (CAH) is a recognized cause of severe liver injury and acute hepatic decompensation in dogs and may present as chronic hepatitis, cirrhosis, or peracute death. This report describes a fatal case of CAH in a 9-year-old, 30-kg female Belgian Shepherd Malinois dog that was initially investigated as suspected malicious poisoning because of sudden death, tongue protrusion, and bloody feces at the scene. At forensic necropsy, approximately 55&#x202f;mL of blood-tinged pleural effusion and 10&#x202f;mL of blood-tinged ascitic fluid were present, the spleen was markedly enlarged, and both kidneys showed multiple dark cortical foci, whereas the liver lacked striking gross abnormalities apart from increased fragility. Histologically, the liver showed multifocal to coalescing hepatocellular degeneration and necrosis with abundant coarse brown intracytoplasmic pigment, raising suspicion of copper accumulation. Rhodanine staining confirmed copper-associated pigment within centrilobular hepatocytes, and toxicologic screening of stomach contents, liver, and kidneys was negative for common exogenous toxicants relevant to malicious poisoning. Quantitative analysis by inductively coupled plasma optical emission spectrometry (ICP-OES) yielded a hepatic copper concentration of 887.4&#x202f;&#x3bc;g/g wet weight, corresponding to approximately 3176.4&#x202f;&#x3bc;g/g on a dry-matter basis (estimated, not directly measured) when an assumed hepatic dry-matter content of 28% is applied. This estimated dry-weight concentration exceeds the commonly cited toxic threshold of >1,000&#x202f;&#x3bc;g/g dry weight and, considered together with the histologic lesions and copper-specific staining, was interpreted as supportive evidence of copper-associated hepatopathy contributing to the fatal outcome. This case highlights CAH as an important differential diagnosis in dogs that die suddenly with hemorrhagic findings, even when the liver is grossly unremarkable and the initial forensic suspicion is malicious poisoning. It also emphasizes the diagnostic value of integrating necropsy, histopathology, copper-specific histochemistry, toxicologic screening, and quantitative copper analysis in veterinary forensic investigations.",
-      "categories": [
-        "internalMedicine"
       ]
     },
     {
@@ -1567,18 +1647,6 @@
       ]
     },
     {
-      "pmid": "41950951",
-      "title": "Dot-blot ELISA assay demonstrates strong agreement with hemagglutination inhibition for the detection of canine parvovirus antibodies in sera of healthy, vaccinated blood-donor dogs.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Talbot CT, Brewer M, Willis M, Kofron K, Shropshire SB, Santangelo KS, Zersen KM, Lappin MR",
-      "date": "2026 08 21",
-      "dateObject": "2026 08 21",
-      "abstract": "To compare canine parvovirus (CPV) antibody titers in sera of community blood-donor dogs using the hemagglutination inhibition (HI) assays from 2 state veterinary diagnostic laboratories (VDLs) and a dot-blot ELISA assay to determine intermethod agreement. Stored sera (-80-&#xb0;C freezer) from 100 healthy community-based blood-donor dogs were selected. Dogs represented various breeds and ages. Available vaccination history was retrospectively assessed. Sera were thawed and delivered to the VDLs, with HI and the dot-blot ELISA assay performed the following day. Of 100 samples, 96 dot-blot ELISA results were within a 2-fold dilution of the corresponding HI titer from the Colorado State University VDL, and 92 were within a 2-fold dilution of the HI titer from the New York State VDL. The dot-blot ELISA assay demonstrated high sensitivity (96% and 97%) and strong agreement (Spearman &#x3c1; = 0.72 and 0.92). Of 43 dogs with vaccination history, 93% had protective titers. The 3 lowest titers occurred in dogs vaccinated within 1 year. CPV antibody titers in community blood-donor dogs showed strong agreement between HI assays and the dot-blot ELISA assay. A high concordance and strong correlation support the dot-blot ELISA assay as a reliable method for estimating CPV antibody titers. Accurate, rapid assessment of CPV titers is important for selecting plasma from community blood-donor dogs intended for passive immunotherapy in critically ill parvoviral patients. Demonstration of strong agreement between the dot-blot ELISA and reference HI assays supports the use of this assay for in-house donor screening and timely plasma selection.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
       "pmid": "42618917",
       "title": "Morphometric assessment of the femoral trochlea, patella and patellar ligament in small breed dogs with and without grade II medial patellar luxation.",
       "journal": "BMC Veterinary Research",
@@ -1856,43 +1924,6 @@
       ]
     },
     {
-      "pmid": "42585566",
-      "title": "Endoscopic reduction of true gastrogastric intussusception in a dog.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Ogawana T, Fukui S, Daimon Y, Kanemoto H",
-      "date": "2026 08 12",
-      "dateObject": "2026 08 12",
-      "abstract": "A 9-year-old neutered male Toy Poodle was diagnosed with true gastrogastric intussusception based on clinical signs, imaging studies, and endoscopic findings. The dog presented with vomiting, hematochezia, and decreased activity. Abdominal ultrasonography identified edematous thickening of the gastric wall and invagination of the gastric fundus into the gastric body. The diagnosis was confirmed by computed tomography (CT). Endoscopic examination clearly identified the intussuscepted portion of the gastric fundus, which was successfully reduced without surgery using insufflation. Histopathologic analysis of gastrointestinal biopsy samples identified chronic gastritis, enteritis, and colitis. After the procedure, the dog remained free of recurrence through day 216. This case emphasizes the value of early ultrasonographic diagnosis and successful endoscopic reduction in the management of true gastrogastric intussusception.",
-      "categories": [
-        "internalMedicine",
-        "surgery"
-      ]
-    },
-    {
-      "pmid": "42585565",
-      "title": "Evaluation of plasma kynurenine 3-monooxygenase and Ki-67 as screening biomarkers for neoplasia in dogs.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Sio KM, Ke CH, Lin CS",
-      "date": "2026 08 12",
-      "dateObject": "2026 08 12",
-      "abstract": "Early detection of tumors might prolong the survival of dogs. Kynurenine 3-monooxygenase (KMO) and Ki-67 are tumor biomarkers, but few studies have described the clinical value of KMO and Ki-67 in veterinary medicine. This study aims to compare the activity of KMO and the concentration of Ki-67 between healthy dogs and dogs with neoplasms. A total of 162 dogs with different types of tumors were included. Forty-six tumor-free individuals were included as the control group. This is a case-control study. Dogs with neoplasms, confirmed through medical record review, were recruited. The primary outcomes were the plasma concentrations of KMO and Ki-67, along with their diagnostic efficacy. Expression levels of KMO were significantly higher in dogs with neoplasms (median, 2.02&#xa0;ng/mL; IQR, 1.03-3.65) than in tumor-free individuals (median, 0.69&#xa0;ng/mL; IQR, 0.23-1.18; P&#xa0;<&#xa0;.0001). The values of Ki-67 were higher in dogs with neoplasms (median, 4.28&#xa0;ng/mL; IQR, 3.75-4.84) than in the control group (median, 3.80&#xa0;ng/mL; IQR, 3.31-4.43; P&#xa0;<&#xa0;.05). No significant correlation was found between KMO and Ki-67 concentrations (R2&#xa0;=&#xa0;0.003, P&#xa0;=&#xa0;.48) in the tested samples and 50.6% (82/162) of dogs exhibited inconsistent results. The area under the ROC curve for KMO and Ki-67 were 0.837 and 0.644. This study presents that KMO is an effective biomarker and Ki-67 is an adjunctive marker. While lacking standalone diagnostic utility, Ki-67 reflects systemic tumor biology and complements biomarkers such as KMO.",
-      "categories": [
-        "oncology"
-      ]
-    },
-    {
-      "pmid": "42585564",
-      "title": "Presumed cervical subperiosteal vertebral hemorrhage in nine greyhounds.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Orgonikova I, Mallol C, Gutierrez-Quintana R, Aige-Gil V, Amengual Batle P, Alcoverro E, Faller KME, Elvira T, Brocal J",
-      "date": "2026 08 12",
-      "dateObject": "2026 08 12",
-      "abstract": "Spontaneous subperiosteal vertebral hemorrhages (SSVHs) are rarely documented in veterinary literature, with only a few cases reported in dogs. Describe the clinical presentation, imaging findings, and outcome of presumptive cervical SSVHs in dogs and perform a prospective cadaveric study describing the morphology of lesions. Nine greyhounds presented with acute onset of cervical myelopathy. Multicenter descriptive study. The databases were searched for dogs that underwent magnetic resonance imaging (MRI), computed tomography (CT), or both of cervical vertebral column with SSVH as the main or differential diagnosis. Nine middle-aged greyhounds met the inclusion criteria. On MRI, all lesions were at third cervical vertebra or fourth cervical vertebra or both vertebral bodies. Most were bilateral, symmetrical, and ventrolaterally located, causing spinal cord compression. Lesions showed homogeneous T2W hyperintense and T1W isointense to hyperintense signal relative to gray matter; they were non-contrast-enhancing and exhibited a peripheral rim of susceptibility artifact on T2*W images. On CT images, extradural lesions were homogeneously hyperattenuating (60-80 Hounsfield Units). All dogs had an acute onset of clinical signs and were treated medically. Clinical improvement was observed in all cases, and all nonambulatory dogs became ambulatory within 9&#xa0;days. Clinical signs did not recur during the follow-up period (median, 254&#xa0;days; range, 5-1217&#xa0;days). Spontaneous subperiosteal vertebral hemorrhage should be included in the differential diagnosis of acute onset cervical myelopathy in greyhounds. Imaging characteristics can aid in differentiating subperiosteal hemorrhage from other extramedullary or extradural lesions. The prognosis is excellent despite the severity of neurologic impairment at presentation.",
-      "categories": [
-        "neurology"
-      ]
-    },
-    {
       "pmid": "42585227",
       "title": "Effects of Exercise on Ocular Parameters and Oxidative Stress Biomarkers in Saliva and Tear Fluid of Horses.",
       "journal": "Veterinary Medicine and Science",
@@ -1937,16 +1968,6 @@
       "categories": [
         "dermatology"
       ]
-    },
-    {
-      "pmid": "42579313",
-      "title": "Characterization of Phylogroups, Virulence Factors and Antimicrobial Resistance in Canine Pyometra-associated Escherichia coli.",
-      "journal": "Veterinary Medicine and Science",
-      "authors": "M&#xfc;&#x15f;tak &#x130;B, Yazl&#x131;k MO, &#x15e;itvan BN, M&#xfc;&#x15f;tak HK, Kaya U",
-      "date": "2026 08 11",
-      "dateObject": "2026 08 11",
-      "abstract": "The presence of multidrug-resistant extraintestinal pathogenic Escherichia coli (ExPEC) in pets poses a significant threat to animal health and represents a potential source of antimicrobial resistance with zoonotic transmission to humans. A total of 56 pyometra swab samples from dogs were analysed for the presence of E. coli using standard microbiological procedures. Phylogrouping of the E. coli isolates was performed using the quadruplex, and 12 virulence genes were detected by single polymerase chain reaction (PCR) method. Antimicrobial susceptibility testing was conducted against 12 antimicrobial agents in five different classes using the Kirby-Bauer disc diffusion method. E. coli was isolated from all 56 swab samples of pyometra cases using 5% ovine blood agar and MacConkey agar, and identified with Eosin Methylene Blue agar, Methyl Red and Voges-Proskauer tests. fimH was found in all strains. The most common virulence genes were fyuA (96.4%), usp (83.9%), sfa (73.2%), hlyA (69.6%), cnf1 (69.6%), papGIII (64.2%), and papC (58.9%). The least common virulence gene was iucD,while none of the strains carried afa and papG allelic variants (papGI and II). A total of 83.9% of isolates belonged to phylogenetic group B2. All isolates were resistant to amoxicillin/clavulanic acid, ampicillin and lincomycin but sensitive to amikacin. The multidrug resistance (MDR) rate was 58.9% (33/56 isolates). MDR and multiple antibiotic resistance index (MARI) scores were similar between the groups (p > 0.05). The phylogenetic analysis revealed that resistant isolates were found across all detected phylogroups, with strains from different phylogroups sharing the same virulence genes. E. coli from pyometra cases in companion animals is largely associated with resistance and possesses virulence genes enabling efficient colonization and carriage.",
-      "categories": []
     },
     {
       "pmid": "42579237",
@@ -2727,16 +2748,6 @@
       "categories": [
         "internalMedicine"
       ]
-    },
-    {
-      "pmid": "42467133",
-      "title": "A comparative analysis of gut microbiome in dogs using short- and long-reads of 16S rRNA sequences reveals workflow-dependent biases.",
-      "journal": "Veterinary Research Communications",
-      "authors": "Polacchini G, Stefanon B, Mongillo P, Licastro D",
-      "date": "2026 07 17",
-      "dateObject": "2026 07 17",
-      "abstract": "Short-read Illumina sequencing of hypervariable regions of the 16S rRNA gene and long-read Oxford Nanopore Technologies (ONT) sequencing of the full-length 16S gene are increasingly used to profile microbial communities. However, differences in sequencing chemistry, read length, and taxonomic assignment methods raise concerns about the comparability of microbiome profiles and their impact on biological interpretation. Faecal samples from two groups of healthy dogs, 8 young (32&#x2009;<&#x2009;age&#x2009;<&#x2009;59 months) and 8 old (age&#x2009;>&#x2009;109 months), were analysed. Taxonomic relative abundances obtained from Illumina and ONT sequencing were compared after nomenclature harmonisation. Agreement between workflows was assessed using Bland-Altman analysis on log2-transformed relative abundances. Although the mean bias at the genus level was small (0.229), limits of agreement indicated poor interchangeability between workflows. When restricted to taxa detected by both workflows, variability decreased but a larger negative bias emerged, suggesting abundance-dependent discrepancies. The effects of sequencing workflow on biologically relevant signals related to host age were evaluated by computing alpha and beta diversity metrics independently within each workflow. Alpha diversity differed between workflows, with ONT yielding higher Shannon diversity and richness values than Illumina. Beta diversity analyses indicated significant (p&#x2009;<&#x2009;0.05) age-related shifts in community composition only in ONT, with differences in variance explained and effect sizes. Workflow comparisons revealed taxon-specific differences at phylum, family, and genus levels, affecting both moderately and highly abundant taxa. These findings indicate that sequencing workflow choice impacts microbiome profiling and downstream interpretation, underscoring the need for care in cross-workflow comparisons.",
-      "categories": []
     },
     {
       "pmid": "42082101",
