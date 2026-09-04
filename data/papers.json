@@ -1,6 +1,87 @@
 {
-  "updated_at": "2026-09-03T23:17:45.806Z",
+  "updated_at": "2026-09-04T23:03:33.643Z",
   "papers": [
+    {
+      "pmid": "42694928",
+      "title": "Dogs display context-dependent behavioral responses to subtle owner-derived multimodal stimuli.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Ikeda R, Saito M, Iwata Y, Ozono T, Alemayoh TT, Kubo T, Izawa EI, Fujiwara K, Yamakawa T, Ohno K, Kikusui T, Nagasawa M",
+      "date": "2026 09 04",
+      "dateObject": "2026 09 04",
+      "abstract": "Dogs ( Canis familiaris ) can discriminate explicit human emotions using various sensory modalities. However, their sensitivity to subtle human-derived emotional cues accompanied by physiological changes, but lacking clear behavioral cues, remains poorly understood. This study investigated whether dogs could perceive owner-derived emotional cues when suppressing explicit expressions. Owners were assigned to either stress or relaxation conditions designed to induce stress or relaxation, respectively. Following the experimental manipulation, facial video, voice, and olfactory samples were collected during a standardized reading task and simultaneously presented to the dogs. The behavioral responses and heart rate variability (HRV) of the dogs during stimulus presentation were recorded. Owners exhibited elevated physiological arousal during both the control and stress induction periods, whereas negative mood increased only during stress induction. In response to these owner-derived stimuli, dogs under the stress condition displayed greater stimulus-directed attention toward control-derived stimuli than toward stress-derived stimuli. No clear effects of condition or stimulus type on dog HRV were observed; however, SDNN-based physiological synchrony between owners and dogs tended to increase with stress-derived stimuli. Our results suggest that dogs respond to complex owner-derived stimuli in a context-dependent manner. These findings suggest that dogs may respond to subtle combinations of owner-derived cues that reflect physiological arousal, subjective emotional state, and task-related influences.",
+      "categories": [
+        "cardiology"
+      ]
+    },
+    {
+      "pmid": "42694190",
+      "title": "Veterinary student wellbeing and its relationship with dog handling and fear responses during a clinical examination laboratory.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Nakonechny L, Pulver V, Artemiou E, Stellato AC",
+      "date": "2026 09 04",
+      "dateObject": "2026 09 04",
+      "abstract": "Veterinary care can be a significant source of fear and stress for dogs, and handling techniques play a key role in shaping these responses. Emerging evidence suggests that clinician mental wellbeing and stress can influence patient interactions. These challenges extend to veterinary students, who experience high stress during training and represent a critical population for understanding how these influences may emerge in clinical development. During a clinical examination laboratory, we aimed to assess (1) associations among veterinary students' mental well-being and affective state, dog handling techniques, and dog fear responses, (2) whether dog fear responses were associated with students' affective state, and (3) how students' assessments of dog fear compared with investigator-rated fear scores. Third-year veterinary students ( n &#x202f;=&#x202f;66) performed physical examinations on dogs ( n &#x202f;=&#x202f;13) and communicated findings to a simulated client. Student mental well-being and affective state were measured using the WHO-5 and PANAS-SF, respectively. Following the laboratory, students rated the dog's level of fear during the examination using a validated 5-item scale (0&#x202f;=&#x202f;no fear, 4&#x202f;=&#x202f;severe fear). Dog behavior and handling techniques were assessed from videos using one-zero sampling, with fear-related behaviors measured using an ethogram and the 5-item fear scale. Mixed regression models examined associations between student and examination factors, and dog fear outcomes. Passive handling was associated with lower dog fear scores and fear-related behaviors; whereas more restrictive techniques, including standing restraint, abdominal lift, and muzzle hold, were associated with higher fear scores and behaviors (e.g., avoidance, reduced posture, lip/snout licking). Students assigned lower dog fear scores compared to the investigator ( p &#x202f;<&#x202f;0.001). Student mental well-being and affective state was not associated with handling techniques or dog fear outcomes; however, negative affect decreased post-laboratory ( p &#x202f;<&#x202f;0.001) and was associated with higher student-rated dog fear scores ( p &#x202f;=&#x202f;0.017). These findings highlight the influence of handling techniques on dog fear responses during clinical training and suggest the need for enhanced education in behavior recognition. Although student well-being was not associated with dog handling, supporting resilience during training may foster positive clinical interactions throughout veterinary careers.",
+      "categories": []
+    },
+    {
+      "pmid": "42696223",
+      "title": "Noninvasive malignant mammary adenomyoepithelioma in a male cat.",
+      "journal": "Veterinary Research Communications",
+      "authors": "Pastor FM, Ferreira E, Taborda DYO, da Silva Martinez NT, Cassali GD, Serakides R, Ocarino NM",
+      "date": "2026 09 04",
+      "dateObject": "2026 09 04",
+      "abstract": "This report describes the histopathological and immunohistochemical findings of a noninvasive malignant mammary adenomyoepithelioma in a seven-year-old neutered male mixed-breed cat. The animal was euthanized due to an extensive mandibular fracture caused by squamous cell carcinoma. Macroscopically, a 3&#x2009;&#xd7;&#x2009;1.5&#xa0;cm, elevated, well-defined, ulcerated, lobulated, reddish-white, solid - occasionally cystic - and firm nodule was observed in the right inguinal mammary gland. Microscopically, an expansive neoplastic proliferation composed of myoepithelial and epithelial cells arranged predominantly in a papillary pattern was observed. Immunohistochemistry was performed for the markers C-Kit, pan-cytokeratin (CK-AE1/AE3), cytokeratin 7 (CK7), P63, estrogen receptor (ER), progesterone receptor (PR), Ki67, cyclooxygenase-2 (Cox-2), and GATA3. The neoplastic cells were positive for CK AE1/AE3 and 7 (epithelial cells), P63 (myoepithelial cells), Cox-2 (epithelial and myoepithelial cells), and PR (epithelial cells). Positive results for CK-AE1/AE3, CK7, and P63 confirmed the epithelial and myoepithelial nature of the tumor, the mitotic index and elevated Ki-67 expression supported the interpretation of a malignant proliferative phenotype and contributed to the classification of the lesion as a noninvasive malignant adenomyoepithelioma. Based on the macroscopic, microscopic, and immunohistochemical findings, a diagnosis of noninvasive malignant mammary adenomyoepithelioma was established.",
+      "categories": [
+        "oncology",
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42696055",
+      "title": "First case of Brucella suis biovar 1 infection in a dog in Switzerland.",
+      "journal": "Veterinary Research Communications",
+      "authors": "Akdesir E, Sp&#xf6;rri M, Gross N, Schneider P, Brodard I, Feyer S, Overesch G, Kittl S",
+      "date": "2026 09 04",
+      "dateObject": "2026 09 04",
+      "abstract": "As one of the most common zoonoses globally, brucellosis threatens not only animals but also humans with Brucella (B.) melitensis, B. abortus and B. suis biovar 1&3, being more virulent for humans than B. canis, B. ovis and B. suis biovar 2. Canine brucellosis is caused mainly by B. canis, however, B. suis infections in dogs have been reported sporadically in Europe and more frequently in Australia. B. suis infection in dogs is mainly associated with hunting or wild-animal exposure and rarely with consumption of commercial raw meat products. In Switzerland, B. canis is sporadically diagnosed in dogs and B. suis biovar 2 is present in wild boar and brown hare. We report a case of brucellosis in a dog from Switzerland, neither having a history of hunting nor travel-associated risk of exposure. The intact male dog showed clinical signs (fever and epididymitis) consistent with brucellosis, which was confirmed by culture and molecular methods in urine and by serological methods. Culture and subsequent whole genome sequencing revealed the isolate as B. suis biovar 1, ST-14. The most closely related strain was shown to be a strain isolated in 2021 from a dog in Germany. Based on the lack of any previous report, infection by B. suis in dogs has not previously been diagnosed in Switzerland. This case highlights the need for vigilance regarding this less expected pathogen of high zoonotic importance in dogs.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42693626",
+      "title": "2026 iCatCare consensus guidelines on the diagnosis and management of chronic kidney disease in cats.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "authors": "Taylor S, Finch N, Caney S, Elliott J, Geddes R, Mortier F, Parker V, Quimby J, Segev G, White J",
+      "date": "2026 09 04",
+      "dateObject": "2026 09 04",
+      "abstract": "Chronic kidney disease (CKD) is common in senior cats. Early diagnosis can facilitate interventions to slow progression and minimise clinical signs. Management according to the International Renal Interest Society (IRIS) staging system for CKD can lead to prolonged survival and an excellent quality of life for affected cats. The '2026 iCatCare consensus guidelines on the diagnosis and management of chronic kidney disease in cats' provide information on the pathogenesis of CKD, guidance on making a diagnosis and staging of disease, and practical content on medical and nutritional treatment. They also discuss optimising the home and veterinary clinic environment to positively influence mental wellbeing and, in turn, physical health, as well as working with the whole veterinary team and caregivers to slow disease progression and maximise quality of life. Affected cats may show minimal or no clinical signs in the early stages of CKD, which can result in a delay in diagnosis. The condition is generally progressive and management requires consideration of multiple factors in order to address clinical signs. Complications such as hypercalcaemia, hypertension, proteinuria and anaemia may develop, requiring treatment. Moreover, as advancing age is a risk factor for CKD, cats may have important comorbidities that need to be balanced, with impacts on the kidney. Caring for a cat with CKD can result in caregiver burden. Hence, supporting caregivers, contextualising monitoring to the individual cat, and involving both the veterinary and nursing teams is important. These Guidelines have been created by a panel of experts brought together by International Cat Care (iCatCare) Veterinary Society. Information is based on the available literature, expert opinion and the panel members' experience.Specific abbreviations:ACE = angiotensin-converting enzyme; ACKD = acute-on-chronic kidney disease; AKI = acute kidney injury; ARB = angiotensin receptor blocker; CKD = chronic kidney disease; CKD-MBD = CKD-mineral and bone disorder; FGF23 = fibroblast growth factor 23; GFR = glomerular filtration rate; iCa = ionised calcium; ICGN = immune-complex glomerulonephritis; IRIS = International Renal Interest Society; PTH = parathyroid hormone; SDMA = symmetric dimethylarginine.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42691613",
+      "title": "Post-marketing safety monitoring of sodium-glucose cotransporter 2 inhibitors for diabetes in cats: a pharmacovigilance study based on the FDA ADAE database.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Lai X, Chen M, Huang Y, Cheng Y",
+      "date": "2026 09 03",
+      "dateObject": "2026 09 03",
+      "abstract": "Bexagliflozin and velagliflozin are currently the only sodium-glucose cotransporter 2 inhibitors approved by the United States Food and Drug Administration (FDA) for treating diabetes in cats. There are limited real-world safety reports on their associated adverse events (AEs). To analyze AEs associated with bexagliflozin and velagliflozin using real-world data from the FDA Animal Drug Adverse Events (ADAE) database. None. AE reports submitted for cats receiving bexagliflozin and velagliflozin. Data were obtained from the ADAE database up to the second quarter of 2025. Disproportionality analysis was conducted employing four algorithms: the reporting odds ratio (ROR), proportional reporting ratio, Bayesian confidence propagation neural network, and multi-item gamma Poisson shrinker. Of the 34&#x2009;187 AE reports for cats, 2876 were related to bexagliflozin and 2776 to velagliflozin. AEs associated with bexagliflozin spanned 22 system organ classes (SOCs), with stronger signals observed for weight fluctuation, glucosuria, and diabetic ketoacidosis. Velagliflozin-related AEs occurred in 19 SOCs, with higher RORs for ketonuria, hypochloremia, and acid-base disorders. Bexagliflozin was associated with stronger signals for DKA and ketosis, whereas velagliflozin showed stronger signals for ketonuria and hypochloremia. Velagliflozin-related AEs occurred earlier (median onset: 5 vs. 9&#xa0;days), resolved more quickly (median duration: 8 vs. 14&#xa0;days). This study provides a comprehensive safety profile of bexagliflozin and velagliflozin for diabetes in cats. These findings support veterinarians in implementing differentiated risk monitoring and individualized therapeutic decisions in the management of diabetes in cats. This study investigated the safety of 2 diabetes medications for cats, bexagliflozin and velagliflozin, by analyzing adverse event (AE) reports submitted to the FDA. The analysis revealed distinct AE patterns for the 2 drugs. Bexagliflozin was more frequently associated with weight changes, sugar in the urine, and a serious complication called diabetic ketoacidosis, whereas velagliflozin was more commonly linked to ketones in the urine, low blood chloride, and acid&#x2013;base imbalances. The timing of AEs also differed. AEs related to velagliflozin tended to appear sooner and resolve more rapidly than those associated with bexagliflozin. These differences can guide veterinarians in selecting the most appropriate treatment and in tailoring monitoring protocols to enable early detection of specific problems in each diabetic cat.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42691612",
+      "title": "Evaluation of basal cortisol and the adrenocorticotropic hormone stimulation test in 982 dogs undergoing investigation for hypoadrenocorticism.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Da Silva AJ, Barton SA, Shiel RE, Mooney CT",
+      "date": "2026 09 03",
+      "dateObject": "2026 09 03",
+      "abstract": "The adrenocorticotropic hormone (ACTH) stimulation test is the gold standard test for diagnosing hypoadrenocorticism. However, basal cortisol is recommended for screening but fails to consider the effect of analytical variation and previous glucocorticoid therapy on test performance and additional information that a stimulation test could provide. To investigate the effect of varied cut-offs and previous glucocorticoid therapy on the diagnostic performance of basal cortisol and whether ACTH stimulation test results impart additional prognostic information. Fifty-five and 927 hospitalized dogs with and without hypoadrenocorticism, respectively. Retrospective case record analysis of dogs undergoing ACTH stimulation testing. Cortisol concentrations were compared between glucocorticoid-exposed (GS, n&#xa0;=&#xa0;198) and non-exposed (NGS, n&#xa0;=&#xa0;729) groups. Basal cortisol concentrations &#x2264;&#x2009;2.0&#xa0;&#x3bc;g/dL were significantly (P&#xa0;<&#xa0;.0001) more common in the GS (n&#xa0;=&#xa0;91, 46.0%) than in the NGS group (n&#xa0;=&#xa0;226, 31.0%). False-positive flat-line ACTH stimulation test results occurred in 11 (1.2%) dogs. Basal cortisol &#x2264;&#x2009;2.0&#xa0;&#x3bc;g/dL demonstrated imperfect diagnostic sensitivity (98.2%; 95% CI, 90.3%-100%) and poor specificity (65.8%; 95% CI, 62.7%-68.9%). Increasing the cut-off from 2.0 to 2.4, 2.7, or 3.1&#xa0;&#x3bc;g/dL improved diagnostic sensitivity at the expense of specificity. In the NGS group, basal >&#x2009;7.0&#xa0;&#x3bc;g/dL, post-ACTH >&#x2009;15.6&#xa0;&#x3bc;g/dL, and delta <&#x2009;5.3&#xa0;&#x3bc;g/dL cortisol concentrations were associated with increased risk of not surviving to discharge. Higher basal cortisol concentration cut-offs (>2&#xa0;&#x3bc;g/dL) maximize test sensitivity to the detriment of specificity. Adrenocorticotropic hormone stimulation test results rule out hypoadrenocorticism in the majority of dogs and can provide prognostic information.",
+      "categories": []
+    },
     {
       "pmid": "42689384",
       "title": "Severe Hypernatraemia Secondary to Adipsia Associated With a Pituitary Macroadenoma in a Dog: A Case Report.",
@@ -75,6 +156,19 @@
       "abstract": "Hip arthroscopy is a valuable diagnostic and surgical tool in veterinary medicine; however, the optimal arthroscope viewing angle for the canine coxofemoral joint has not been established. We hypothesised that a 70&#xb0; arthroscope would provide superior visualisation of the hip joint cavity compared to the standard 30&#xb0; arthroscope when inserted via a dorso-lateral approach. To test this hypothesis, five 3D-printed canine hip joint models were developed using computed tomography (CT) scans of large-breed dogs. The articular surfaces were embossed with a 1&#x2009;&#xd7;&#x2009;1&#xa0;mm checkerboard pattern to enable objective quantification of the visible area. Arthroscopy was performed with 2.7-mm-diameter 30&#xb0; and 70&#xb0; arthroscopes at four positions (3, 6, 9, and 12 o'clock), and the visible area was calculated by counting visible tiles. Statistical analysis was performed using a mixed-effect general linear model. There was no significant overall difference in the visible area between the two arthroscope viewing angles (P&#x2009;=&#x2009;0.977). However, arthroscope position significantly affected the visible area (P&#x2009;<&#x2009;0.001), and a significant interaction between viewing angle and position was identified (P&#x2009;=&#x2009;0.001). Notably, the visible area produced by the 70&#xb0; arthroscope was significantly smaller than that produced by the 30&#xb0; arthroscope at the 12 o'clock position (P&#x2009;=&#x2009;0.026). However, at the 3 o'clock position, the visible area produced by the 70&#xb0; arthroscope appeared to be larger than that produced by the 30&#xb0; arthroscope. Nevertheless, this difference was not significant (P&#x2009;=&#x2009;0.085). The results suggest that, in this experimental model, the 70&#xb0; arthroscope provided a comparable overall visible area of the artificial hip joint surface to the 30&#xb0; arthroscope during dorso-lateral canine hip arthroscopy. Further comparative studies, particularly on calibrated cadaveric hip joints, are required.",
       "categories": [
         "surgery"
+      ]
+    },
+    {
+      "pmid": "42692466",
+      "title": "Systemic Inflammation in Dogs With Atopic Dermatitis Compared to Healthy Dogs and Dogs With Pemphigus Foliaceus: A Study Using a Limited Cytokine Panel.",
+      "journal": "Veterinary Dermatology",
+      "authors": "Herrmann I, Mamo LB, Bizikova P",
+      "date": "2026 09 03",
+      "dateObject": "2026 09 03",
+      "abstract": "Atopic dermatitis (AD) is a common chronic, pruritic and inflammatory skin disease in both humans and dogs. In people, AD is increasingly recognised as a systemic inflammatory disease in which immune dysregulation drives chronic inflammation extending beyond the skin, particularly in moderate-to-severe disease. Whether a comparable systemic inflammation exists in canine AD, however, remains poorly characterised. We hypothesised that serum cytokine concentrations would differ between dogs with varying AD severity and healthy controls. This study aimed to identify systemic inflammatory markers correlating with AD severity, by comparing cytokine profiles in dogs with mild AD and moderate-to-severe AD against healthy dogs (negative control) and dogs with active pemphigus foliaceus (PF) lesions (positive control). Forty client-owned dogs were enrolled, with 10 dogs in each of four groups: healthy controls, mild AD, moderate-to-severe AD and PF. Serum concentrations of tumour necrosis factor (TNF)-&#x3b1;, TNF-&#x3b2;/lymphotoxin-&#x3b1;, interleukin (IL)-1&#x3b2;, IL-6, IL-12 and IL-1 receptor antagonist (IL-1RA) were measured using standardised immunoassays to evaluate systemic inflammation across groups. Marked interindividual variability was observed across all groups. No statistically significant differences in serum concentrations of any of the six cytokines were detected between the healthy, mild AD, moderate-to-severe AD and PF groups. In a limited cytokine panel, no evidence of differential systemic inflammation was detected across groups, including dogs with moderate-to-severe AD compared to healthy controls. These findings may reflect true lack of systemic inflammation in dogs or may be attributable to the small sample size, high interindividual variability or the limited scope of the cytokine panel evaluated.",
+      "categories": [
+        "oncology",
+        "dermatology"
       ]
     },
     {
@@ -961,28 +1055,6 @@
       ]
     },
     {
-      "pmid": "42656266",
-      "title": "From dyadic deco-construction to reco-construction: a framework for the human-osteoarthritic dog relationship.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Martin L, Otis C, Lussier B, Troncy E",
-      "date": "2026 08 27",
-      "dateObject": "2026 08 27",
-      "abstract": "Chronic pain (CP) associated with canine osteoarthritis (OA), remains under-detected, under-diagnosed, and insufficiently managed, while the early signals prompting owners to consult a veterinarian are poorly characterized. This narrative review draws on self-determination theory (SDT) to explore how the experience of OA-associated CP reshapes the self-determination capacities within owner-dog dyads. It describes the deco-construction of dyadic co-construction induced by the apparition and progression of OA-associated CP, followed by its reco-construction after the veterinary diagnosis, integrating a pivotal moment: the owner's rupture point. Its objectives are twofold: (1) from a SDT perspective, to conceptualize these processes when the dog develops OA-associated CP; and (2) to propose strategies that help dyads navigate them more effectively and trigger the rupture point earlier. Deco-construction progressively erodes dyadic self-determination. While the accumulation of CP-related signals may lead the owner to their rupture point, their perceived competence, denial, wait-and-see attitude and apprehension of veterinary cost often delay it. Reco-construction relies on respecting the self-determination of the dog, the owner, and the veterinarian. At home, the adaptation of therapeutic strategies enables the dyad to regain a sense of mutual self-determination. These processes are influenced by biopsychosocial, experiential, environmental, and technical factors specific to the dog, the human, and the disease. A strong co-construction appears to facilitate them. To better capture the dynamics of co-/deco-/reco-construction and anticipate owners' rupture point, several tools appear promising, but none fully integrate co-construction, bidirectionality, and dyadic attachment. There is an urgent need to develop more integrative conceptual frameworks and tools. This review remains conceptual and narrative in nature (albeit based on an exhaustive literature), and the proposed framework has not yet been clinically validated.",
-      "categories": []
-    },
-    {
-      "pmid": "42656264",
-      "title": "Comparison of two postoperative complication grading systems following an elective orthopedic procedure in dogs.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Crowdis SK, Barrett FM, Guan YA, Marrs JJ, Fox DB",
-      "date": "2026 08 27",
-      "dateObject": "2026 08 27",
-      "abstract": "A standardized system for grading postoperative complications in veterinary orthopedics was proposed in 2010 by Cook et al. categorizing complications as minor, major, or catastrophic. Despite broad acceptance, complication rates still vary widely between studies. An alternative to the Cook system has been proposed; the adapted Clavien-Dindo (aCD) system, which categorizes five complication grades and distinguishes them from two other outcomes: 'sequelae' and 'failures-to-cure'. The objective of this study was to compare postoperative complication rates in dogs undergoing tibial plateau leveling osteotomies (TPLO) using both systems. We hypothesized that there would be no significant difference in complication rates between grading systems. Dogs undergoing TPLO between December 2023 and January 2025 were prospectively enrolled. Owner consent was obtained to review medical records and perform serial surveys for potential postoperative complications. A single investigator graded events with the Cook and aCD systems. Complication rates were compared with McNemar's &#x3c7;2 test ( &#x3b1; < 0.05). Eighty-five TPLO procedures in 79 dogs were evaluated. Using the aCD system, the complication rate was 28.2% while the Cook system reported 54.1%. McNemar's &#x3c7;2 test showed a significant difference ( p < 0.001) between systems. Twenty-six percent of Cook-classified complications were considered non-complications by the aCD system. We rejected our hypothesis that the Cook and aCD grading systems would yield comparable postoperative complication rates. The Cook system classified approximately twice the number of events as complications compared to the aCD system. A grading system with greater categorical resolution that distinguishes true complications from expected outcomes may provide a more clinically relevant assessment of postoperative risk.",
-      "categories": [
-        "surgery"
-      ]
-    },
-    {
       "pmid": "42337734",
       "title": "Assessment of pharmacokinetic parameters, oral bioavailability, and physiological effects of amantadine in horses.",
       "journal": "BMC Veterinary Research",
@@ -1411,18 +1483,6 @@
       "categories": []
     },
     {
-      "pmid": "42627936",
-      "title": "Rethinking clinical response criteria in trials of chronic enteropathy in dogs: what change is truly meaningful?",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "M&#xe9;ric T, V&#xe9;rollet C, Darnis E, Rhimi M, Hernandez J",
-      "date": "2026 08 21",
-      "dateObject": "2026 08 21",
-      "abstract": "Rethinking response criteria of treatment of chronic enteropathy in dog is necessary, as clinical activity indices are widely used as primary endpoints despite substantial variability in how \"response,\" \"remission,\" and \"relapse\" are defined. Across recent studies, response thresholds range from modest relative reductions (eg, &#x2265;25%) to stringent targets (eg, &#x2265;75%), absolute score cut-offs, shifts between severity categories, or binary resolution of clinical signs. This methodological heterogeneity undermines comparability between trials and complicates evidence synthesis. An often-overlooked contributor to this issue is the intrinsic variability of the Canine Inflammatory Bowel Disease Activity Index and the Canine Chronic Enteropathy Clinical Activity Index, particularly their limited inter-observer reproducibility for total scores and several core items. When commonly used response thresholds overlap with expected measurement error, apparent clinical improvement might reflect scoring variability rather than true change in disease activity. We therefore propose a pragmatic framework for response classification anchored in the measurement properties of these instruments. For research endpoints, an absolute change of at least 4 points (&#x394;&#xa0;&#x2265;&#xa0;4) is suggested as a conservative minimal detectable change to reduce misclassification of responders and non-responders. In dogs with low baseline scores driven by 1 or 2 isolated abnormalities, an item-centered approach (&#x394; item &#x2265;2) might be more appropriate, particularly for variables such as stool consistency or defecation frequency. Finally, transparent reporting of scoring conditions, prioritization of evaluator consistency, and integration of complementary outcomes, including validated health-related quality-of-life measures and longitudinal symptom tracking, might help better capture clinically meaningful effects.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
       "pmid": "42269678",
       "title": "Favorable short- and long-term outcomes reported for cats following surgical management of biliary cystadenomas.",
       "journal": "Journal of the American Veterinary Medical Association",
@@ -1758,16 +1818,6 @@
       ]
     },
     {
-      "pmid": "42175789",
-      "title": "Outcome of four cats with congenital intrahepatic portosystemic shunts treated by a modified percutaneous transvenous coil embolization technique.",
-      "journal": "Journal of Feline Medicine and Surgery",
-      "authors": "Tiffinger K, Gibson E, Ganjei J, Clarke D",
-      "date": "2026 08 15",
-      "dateObject": "2026 08 15",
-      "abstract": "Case series summarySimultaneous portogram/cavogram and continuous portal pressure monitoring during coil deployment are standard practices during percutaneous transvenous coil embolization (PTCE) for the interventional treatment of congenital intrahepatic portosystemic shunts (IHPSSs). In cats, vascular access is more challenging because of their smaller size. The minimum vascular sheath size required to accommodate standard instrumentation for dual-catheter PTCE is 9&#x2009;Fr, which can be challenging to place in the feline jugular vein. The objective of this case series was to retrospectively describe a single-catheter modification of the PTCE technique in cats to avoid complications associated with large vascular sheaths and the outcomes of these cats. Four cats from two different institutions underwent single-catheter PTCE for left divisional IHPSSs between January 2024 and May 2025. Data collected from medical records included patient demographic data and peri- and post-procedural data. Single-catheter PTCE was performed in all cats through a 6&#x2009;Fr vascular sheath percutaneously placed in the jugular vein. Isolated portogram and cavogram were performed to localize the shunt, measure caval diameter and determine caval stent positioning using a 4&#x2009;Fr Berenstein catheter. A laser-cut stent was selected based on CT and cavogram measurements and positioned to span the shunt ostium. The same Berenstein catheter was used for portal pressure measurement and coil deployment by alternating between the shunt and portal vein locations. No complications associated with venous trauma or portal hypertension were reported.Relevance and novel informationThe case series results suggest the modified PTCE technique is a viable alternative that was associated with reasonable procedural duration and avoided vascular complications that may be associated with large vascular sheaths in cats.",
-      "categories": []
-    },
-    {
       "pmid": "42599763",
       "title": "Giant Hepatobiliary Cystadenoma Requiring Biliary Reconstruction in a Cat: A Case Report.",
       "journal": "Veterinary Medicine and Science",
@@ -1830,18 +1880,6 @@
         "internalMedicine",
         "oncology",
         "surgery"
-      ]
-    },
-    {
-      "pmid": "42593949",
-      "title": "Sepsis in critically ill dogs: identification of clinical and laboratory risk factors and evaluation of sepsis scoring systems.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Castelain D, Pas ML, Skotarek M, Boyen F, Pardon B, Paepe D",
-      "date": "2026 08 13",
-      "dateObject": "2026 08 13",
-      "abstract": "Being a life-threatening syndrome, rapid detection of sepsis in critically ill dogs is mandatory. Determine risk factors associated with sepsis in critically ill dogs and evaluate diseases and scoring systems associated with sepsis or mortality. One hundred thirty critically ill dogs. Prospective single-center cohort study. Logistic regression and classification and regression tree (CART) analysis were performed to assess clinical and laboratory variables as risk factors for sepsis. Diagnostic and prognostic performance of available scoring systems was evaluated. Sepsis was confirmed in 29 of 130 critically ill dogs (22.3%), and 18 died, with a short-term mortality rate of 62.1%. Pneumonia (odds ratio [OR]&#xa0;=&#xa0;4.8; 95% confidence interval [CI]&#xa0;=&#xa0;1.8-13.1; P&#xa0;=&#xa0;.002) and acute kidney injury (AKI; OR&#xa0;=&#xa0;7.4; 95% CI&#xa0;=&#xa0;2.2-25.1; P&#xa0;=&#xa0;.001) were associated with sepsis. Multivariable logistic regression identified dyspnea (OR&#xa0;=&#xa0;6.5; 95% CI&#xa0;=&#xa0;1.6-26.0; P&#xa0;=&#xa0;.01), respiratory rate (&#x2265;38 per minute; OR&#xa0;=&#xa0;3.9; 95% CI&#xa0;=&#xa0;1.1-13.1; P&#xa0;=&#xa0;.03), and alanine aminotransferase activity (&#x2265;109.5&#xa0;U/L; OR&#xa0;=&#xa0;3.8; 95% CI&#xa0;=&#xa0;1.1-12.8; P&#xa0;=&#xa0;.03) as risk factors for sepsis. When combined, these factors yielded a sensitivity of 35.0% and specificity of 92.8%. The CART analysis identified body weight, tachypnea, hypotension, hyperchloremia, hyperlactatemia, and hyponatremia as risk factors for sepsis (sensitivity, 58.6%; specificity, 97.0%). The APPLE FAST score (OR&#xa0;=&#xa0;2.9; 95% CI&#xa0;=&#xa0;1.2-7.1; P&#xa0;=&#xa0;.02) was associated with sepsis. The APPLE FAST score (OR&#xa0;=&#xa0;3.2; 95% CI&#xa0;=&#xa0;1.4-7.2; P&#xa0;=&#xa0;.01) was the strongest predictor of mortality. Pneumonia and AKI were associated with sepsis. Identified risk factors may guide veterinarians in the rapid recognition of sepsis. The APPLE FAST score was associated with sepsis and mortality and may support diagnostic and therapeutic decision-making for critically ill dogs with sepsis.",
-      "categories": [
-        "internalMedicine"
       ]
     },
     {
@@ -2478,19 +2516,6 @@
       ]
     },
     {
-      "pmid": "42527828",
-      "title": "Associations Between Otic Cytological Findings and Clinical Severity by Pathogen Group in Canine Otitis Externa: A Retrospective Study of 318 Cases.",
-      "journal": "Veterinary Dermatology",
-      "authors": "Shin ES, Kang SY, Kim MS, Hwang CY",
-      "date": "2026 07 29",
-      "dateObject": "2026 07 29",
-      "abstract": "Otic cytological assessment is routinely used in canine otitis externa (OE) to assess microbial burden and inflammation. Evidence that cytological findings are associated with clinical severity, particularly by pathogen group, remains limited. To evaluate associations between otic cytological findings and clinical severity in canine OE, overall and by pathogen group. Three hundred and eighteen client-owned dogs with OE presented to a referral dermatological service. Clinical severity was scored using the Otitis Index Score 3 (OTIS3; 0-12). Cytological findings were evaluated using a semiquantitative 0-3 scale for cocci, rods and Malassezia, based on predefined institutional criteria. A total cytological score (0-9) was calculated as the sum of the scores for the three groups. Neutrophil presence was also recorded. OTIS3 scores showed a moderate correlation with total cytological score (p&#x2009;<&#x2009;0.0001; Spearman's r&#x2009;=&#x2009;0.45). Scores increased significantly with higher cocci and rod cytological scores (Kruskal-Wallis, p&#x2009;<&#x2009;0.0001), while Malassezia scores were not. OTIS3 scores also were significantly higher when neutrophils were present. Associations between otic cytological findings and clinical severity of OE varied by pathogen group. Greater clinical severity was associated with neutrophil presence and bacterial burden. These findings support the interpretation of cytological findings combined with OTIS3 for assessment and monitoring of canine OE.",
-      "categories": [
-        "internalMedicine",
-        "dermatology"
-      ]
-    },
-    {
       "pmid": "42504294",
       "title": "Suspected chronic eosinophilic leukemia in a cat treated with toceranib.",
       "journal": "JFMS Open Reports",
@@ -2723,30 +2748,6 @@
       "categories": [
         "internalMedicine",
         "dermatology"
-      ]
-    },
-    {
-      "pmid": "42467289",
-      "title": "Cardiovascular biomarkers in feline hypertrophic cardiomyopathy phenotype: evidence from the last decade.",
-      "journal": "Veterinary Research Communications",
-      "authors": "de Sousa FG, Muzzi RAL, Magalh&#xe3;es FDC, de Ara&#xfa;jo RB, Faleiros RR, Beier SL",
-      "date": "2026 07 17",
-      "dateObject": "2026 07 17",
-      "abstract": "The hypertrophic cardiomyopathy (HCM) phenotype is the most common feline cardiovascular condition, characterized by myocardial hypertrophy and variable hemodynamic changes, with diagnosis primarily based on echocardiography. However, cardiovascular biomarkers have gained increasing importance in the diagnostic assessment of the HCM phenotype. This systematic review aimed to evaluate the utility of cardiovascular-related biomarkers in the diagnosis of HCM in cats, in order to determine their clinical potential and utility. A systematic search was conducted in PubMed, Scopus, and Web of Science over a last decade (January 2015 - June 2025). Study selection was performed by a single reviewer, and risk-of-bias assessment by two reviewers using the Joanna Briggs Institute (JBI) tools. Studies providing relevant data on the use of cardiovascular biomarkers in cats with the HCM phenotype were included. Data regarding study design, population characteristics, biomarker type, and clinical associations were extracted and analyzed. Out of 220 initially screened studies, 63 met the inclusion criteria and the majority were considered of high methodological quality with low risk of bias. The most frequently reported biomarkers were N-terminal pro-B-type natriuretic peptide (NT-proBNP) and cardiac troponin I (cTnI), both commonly associated with clinical status, echocardiographic findings, and prognostic risk. Other emerging biomarkers, including molecular and genetic markers related to myocardial remodeling and fibrosis, demonstrated potential clinical utility, although further investigation is still required. Overall, despite robust scientific evidence, biomarkers play an adjunctive role in the evaluation of the feline HCM phenotype. Echocardiography remains the gold standard for definitive diagnosis.",
-      "categories": [
-        "cardiology"
-      ]
-    },
-    {
-      "pmid": "42467273",
-      "title": "Fatal multidrug-resistant Bordetella bronchiseptica and CAdV-2 coinfection in an 8-month-old boxer puppy, Southern Italy.",
-      "journal": "Veterinary Research Communications",
-      "authors": "Ferrara G, Nocera FP, Forgione MA, Mira F, Fiorito F",
-      "date": "2026 07 17",
-      "dateObject": "2026 07 17",
-      "abstract": "Canine adenovirus type 2 (CAdV-2) is a widespread virus and one of the etiological agents of \"kennel cough\", a multifactorial disease involving both viral and bacterial pathogens, including Bordetella bronchiseptica (B. bronchiseptica). Clinical manifestation is characterized by tracheobronchitis, which is generally associated with mild, self-limiting respiratory signs. In this study, we describe a respiratory outbreak associated with CAdV-2 and B. bronchiseptica infection in a Boxer breeding kennel in Southern Italy during the winter of 2023/2024. Several dogs showed fever and respiratory signs, characterized by a typical hacking cough. One adult dog exhibited more severe clinical signs and was urgently referred to a private veterinary hospital. Bordetella bronchiseptica was isolated from a bronchoalveolar lavage (BAL) sample; subsequent antimicrobial susceptibility testing guided the antimicrobial treatment, leading to clinical improvement. A few weeks later, a six-month-old puppy from the same kennel showed similar respiratory signs. Thoracic radiological examination revealed signs of bronchopneumonia, and bacteriological examination of a BAL sample resulted in the isolation of B. bronchiseptica. This puppy had not completed the immunization plan due to recurrent respiratory disease and died in February 2024 when was eight-month-old. Necropsy evidenced acute bronchopneumonia with lung hepatization. CAdV-2 DNA was detected by PCR in multiple organs. Other respiratory viruses were excluded using real-time or end-point PCR protocols. Sequencing of E3, Hexon and Fiber was performed to compare them with related sequences in international databases. A high degree of nucleotide identity with CAdV-2 strains detected in dogs and wild animals in northern Italy, as well as in raccoon dogs in South Korea has been reported. This case report demonstrates that CAdV-2, although generally considered a secondary respiratory pathogen, can be a cause of severe and fatal disease, particularly under epidemic conditions and in association with multidrug-resistant bacterial co-infections with B. bronchiseptica.",
-      "categories": [
-        "internalMedicine"
       ]
     },
     {

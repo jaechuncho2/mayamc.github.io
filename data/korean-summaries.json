@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T23:21:32.893Z",
+  "updated_at": "2026-09-04T23:06:14.095Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -4767,6 +4767,70 @@
       "title": "Comparison of 30&#xb0; and 70&#xb0; arthroscopes in canine hip arthroscopy: a 3D-printed model study.",
       "journal": "Veterinary Research Communications",
       "generated_at": "2026-09-03T23:19:55.999Z",
+      "model": "gpt-5-mini"
+    },
+    "42691612": {
+      "brief_summary": "후향적 사례 분석으로 ACTH(부신자극호르몬) 자극 검사를 받은 982마리의 입원견(저부신기능증 55마리, 비저부신기능증 927마리)을 대상으로 기초(기저) 코르티솔 검사 성능과 이전 글루코코르티코이드 투여의 영향을 평가했다. 기초 코르티솔 ≤2.0 μg/dL는 민감도는 높았으나(98.2%, 95% CI 90.3–100%) 특이도는 낮았다(65.8%, 95% CI 62.7–68.9%), 이전 글루코코르티코이드 노출군에서 기초 ≤2.0 μg/dL 빈도가 유의하게 높았다(P < .0001). 컷오프를 2.4–3.1 μg/dL로 올리면 민감도는 더 좋아지나 특이도는 저하되며, ACTH 자극 검사는 대다수에서 저부신기능증 배제를 도와주고 검사 결과가 예후(퇴원 생존과의 연관성)에 관한 추가 정보를 제공할 수 있다.",
+      "detailed_summary": "연구는 ACTH 자극 검사를 받은 982마리의 입원견을 후향적으로 분석했으며, 저부신기능증(55마리) 유무에 따라 조사했다. 이전 글루코코르티코이드(스테로이드) 노출군(GS, n=198)과 비노출군(NGS, n=729)을 비교한 결과, 기초 코르티솔 ≤2.0 μg/dL는 GS에서 46.0% (91/198), NGS에서 31.0% (226/729)로 GS에서 유의하게 더 흔했다(P < .0001). 기초 코르티솔 ≤2.0 μg/dL의 진단 성능은 민감도 98.2% (95% CI 90.3–100%)와 특이도 65.8% (95% CI 62.7–68.9%)로 보고되었고, 컷오프를 2.4, 2.7, 3.1 μg/dL로 올리면 민감도는 향상되지만 특이도는 감소했다. '플랫 라인' 형태의 거짓 양성 ACTH 자극 검사 결과는 11마리(1.2%)에서 발생했다. 비노출군(NGS)에서는 기초 코르티솔 >7.0 μg/dL, ACTH 후 코르티솔 >15.6 μg/dL, 그리고 델타(증가폭) <5.3 μg/dL가 퇴원까지 생존하지 못할 위험과 연관되었다. 결론적으로 기초 코르티솔 컷오프를 2 μg/dL 이상으로 설정하면 민감도를 극대화할 수 있으나 특이도는 손해를 보고, ACTH 자극 검사는 대부분의 개에서 저부신기능증을 배제하는 데 유용하며 예후 정보를 제공할 수 있다. 초록에는 추가적인 한계점 설명이 포함되어 있지 않다.",
+      "title": "Evaluation of basal cortisol and the adrenocorticotropic hormone stimulation test in 982 dogs undergoing investigation for hypoadrenocorticism.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-09-04T23:05:55.947Z",
+      "model": "gpt-5-mini"
+    },
+    "42691613": {
+      "brief_summary": "본 연구는 FDA Animal Drug Adverse Events(ADAE) 데이터베이스를 이용해 고양이 당뇨 치료제인 bexagliflozin과 velagliflozin의 시판 후 이상사례(AE)를 분석했다. 총 34,187건의 고양이 AE 중 bexagliflozin 관련 2,876건, velagliflozin 관련 2,776건이 보고되었고, bexagliflozin은 체중변동, 요당(glucosuria), 당뇨성 케톤산증(DKA)에서 더 강한 신호를 보였으며 velagliflozin은 케톤뇨(ketonuria), 저염소혈증(hypochloremia), 산염기 장애에서 더 높은 신호를 보였다. velagliflozin 관련 AE는 발생 시점(중앙값 5일 vs 9일)과 지속기간(중앙값 8일 vs 14일)에서 더 빠르게 발생하고 회복되었다. 이러한 차이는 고양이 당뇨 환자에서 약물별 위험 감시와 개별화된 치료 결정을 지원할 수 있다.",
+      "detailed_summary": "본 연구는 FDA ADAE 데이터베이스(2025년 2분기까지)를 이용한 시판 후 약물감시(pharmacovigilance) 연구로, 보고빈도 불균형분석을 위해 Reporting Odds Ratio(ROR), Proportional Reporting Ratio(PRR), Bayesian Confidence Propagation Neural Network(BCPNN), Multi-item Gamma Poisson Shrinker(MGPS)를 적용했다. 전체 고양이 AE 보고는 34,187건이며 이 중 bexagliflozin 관련 보고가 2,876건, velagliflozin 관련 보고가 2,776건이었다. bexagliflozin 관련 AE는 22개의 system organ classes(SOCs)에 걸쳐 나타났고, 체중변동, 요당(glucosuria), 당뇨성 케톤산증(DKA)에서 상대적으로 강한 신호가 관찰되었다. velagliflozin 관련 AE는 19개 SOC에서 보고되었고, ROR이 높은 항목으로는 케톤뇨(ketonuria), 저염소혈증(hypochloremia), 산염기 장애가 포함되었다. 두 약물 간 비교에서 bexagliflozin은 DKA와 케톤증(ketosis)에서 더 강한 신호를 보였고, velagliflozin은 케톤뇨와 저염소혈증에서 더 강한 신호를 보였다. 또한 velagliflozin 관련 AE는 발생 중앙값이 더 빠르고(5일 vs 9일) 지속시간은 더 짧았다(8일 vs 14일). 결론적으로 본 연구는 bexagliflozin과 velagliflozin의 전반적인 안전성 프로필을 제시하여 약물별 리스크 모니터링 및 개별화된 치료 결정에 기여할 수 있음을 제시한다. 중요한 제한점은 초록 내에 별도로 명시되지 않았다.",
+      "title": "Post-marketing safety monitoring of sodium-glucose cotransporter 2 inhibitors for diabetes in cats: a pharmacovigilance study based on the FDA ADAE database.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-09-04T23:05:28.909Z",
+      "model": "gpt-5-mini"
+    },
+    "42692466": {
+      "brief_summary": "40마리의 내원 개를 건강 대조(10), 경증 아토피 피부염(AD, 10), 중등도-중증 AD(10), 활동성 pemphigus foliaceus(PF, 10)로 나누어 혈청의 TNF-α, TNF-β/lymphotoxin-α, IL-1β, IL-6, IL-12 및 IL-1 receptor antagonist(IL-1RA)를 표준화된 면역검사로 측정하여 AD의 전신 염증 여부를 평가했다. 그룹 간 모든 측정된 사이토카인에서 통계적으로 유의한 차이는 관찰되지 않았고, 개체 간 변이가 뚜렷했다. 이는 본 제한된 사이토카인 패널에서는 중등도-중증 AD를 포함한 개의 AD에서 전신 염증의 차이를 확인하지 못했다는 임상적 의미를 가진다.",
+      "detailed_summary": "연구에는 총 40마리의 내원 개가 포함되었고, 네 그룹(건강 대조 10, 경증 AD 10, 중등도-중증 AD 10, PF 10)으로 구성되었다. 평가 항목은 혈청 농도의 TNF-α, TNF-β/lymphotoxin-α, IL-1β, IL-6, IL-12 및 IL-1RA였으며, 모두 표준화된 면역검사로 측정되었다. 전체적으로 그룹 간에 측정된 여섯 가지 사이토카인 농도에서 통계적으로 유의한 차이는 관찰되지 않았다. 또한 모든 그룹에서 개인 간(개체 간) 변이가 크게 나타났다(추정치의 광범위한 변동성). 연구 결론은 '제한된 사이토카인 패널에서는 건강, 경증 AD, 중등도-중증 AD 및 PF 간에 전신 염증의 차이를 확인하지 못했다'는 것이다. 저자들은 이 결과가 개에서 전신 염증이 실제로 없음을 반영할 수도 있지만, 소표본 수, 높은 개체 간 변이성 및 평가한 사이토카인 패널의 제한성 때문에 결론 도출에 제한이 있음을 명시하고 있다.",
+      "title": "Systemic Inflammation in Dogs With Atopic Dermatitis Compared to Healthy Dogs and Dogs With Pemphigus Foliaceus: A Study Using a Limited Cytokine Panel.",
+      "journal": "Veterinary Dermatology",
+      "generated_at": "2026-09-04T23:06:14.085Z",
+      "model": "gpt-5-mini"
+    },
+    "42693626": {
+      "brief_summary": "본 지침서는 고령 고양이의 만성 신장질환(CKD)에 대한 2026 iCatCare 합의 지침으로, 병태생리, 진단·IRIS(International Renal Interest Society) 단계화, 의학적·영양적 치료 및 환경·간병인 관리를 포함한 실무적 권고를 제시한다. 핵심은 조기 진단과 IRIS 단계에 따른 관리가 질병 진행을 늦추고 생존 및 삶의 질을 개선할 수 있다는 점이며, 고칼슘혈증, 고혈압, 단백뇨, 빈혈 등 합병증의 평가와 치료를 강조한다. 임상적 의의는 수의사·간호팀·보호자 간 협업과 보호자 지원을 통해 개별 고양이의 모니터링과 치료를 최적화하라는 실무적 지침을 제공한다.",
+      "detailed_summary": "이 문서는 International Cat Care(Veterinary Society)가 소집한 전문가 패널이 작성한 합의 지침으로, 근본적 연구가 아닌 문헌 검토와 전문가 의견 및 패널 경험을 근거로 한다. 내용은 CKD의 병태생리 설명, 진단 및 IRIS를 이용한 단계화 가이드, 임상에서 적용 가능한 의학적·영양적 치료법에 대한 실무적 권고를 포함한다. 또한 가정 및 병원 환경을 최적화하여 정신적 안녕이 신체 건강에 미치는 긍정적 영향을 고려하는 점과 수의팀 및 보호자와의 협업을 통한 관리 전략을 다룬다. 초기사례에서는 임상증상이 최소하거나 없어 진단이 지연될 수 있음을 지적하며, CKD는 일반적으로 진행성이라고 설명한다. 고칼슘혈증, 고혈압, 단백뇨, 빈혈 등 합병증이 발생할 수 있어 이에 대한 평가와 치료가 필요함을 강조한다. 고령이 CKD의 위험인자여서 동반질환을 균형 있게 고려해야 하며, CKD 관리가 보호자 부담(caregiver burden)을 초래할 수 있으므로 보호자 지원과 개별화된 모니터링이 중요하다고 권고한다. 한계로는 권고가 사용 가능한 문헌과 전문가 의견 및 경험에 기반한 합의라는 점이 명시되어 있어 일괄적 증거 수준의 연구 결과와는 구분되어야 한다.",
+      "title": "2026 iCatCare consensus guidelines on the diagnosis and management of chronic kidney disease in cats.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "generated_at": "2026-09-04T23:05:05.306Z",
+      "model": "gpt-5-mini"
+    },
+    "42694190": {
+      "brief_summary": "본 연구는 3학년 수의대생(n=66)이 임상 검사 실습에서 개(n=13)를 진찰할 때 학생의 정신적 안녕감(WHO-5)과 정서 상태(PANAS-SF), 핸들링 기법 및 개의 공포 반응 간의 연관을 평가했다. 수동적 핸들링은 낮은 공포 점수 및 공포 관련 행동과 연관되었고, 서 있거나 복부 들어올리기, 입마개 잡기 등 제약적 기술은 회피·체위 저하·입술/주둥이 핥기 등 공포 행동 및 높은 공포 점수와 연관되었다. 학생 평가는 조사자보다 개의 공포를 낮게 평가했으며(p<0.001), 학생의 전반적 정신적 안녕감은 핸들링이나 개 공포와 유의한 연관이 없었지만 부정적 정서가 실습 후 감소했고(p<0.001) 부정적 정서는 학생이 평가한 높은 공포 점수와 연관되었다(p=0.017). 임상적 의미로는 핸들링 기법 교육과 행동 인식 향상이 필요함을 시사한다.",
+      "detailed_summary": "후향적 관찰 설계로 3학년 수의대생 66명이 13마리의 개에 대해 신체검사를 수행하고 모의 내담자에게 소견을 전달하는 실습에서 진행되었다. 학생 정신적 안녕감은 WHO-5로, 정서 상태는 PANAS-SF로 측정했으며 학생들은 실습 후 검증된 5문항 공포 척도(0=no fear, 4=severe fear)로 개의 공포를 평가했다. 개의 행동과 핸들링은 비디오를 이용해 one-zero 샘플링 및 에토그램을 통해 분석되었다. 분석 결과 수동적 핸들링은 낮은 공포 점수 및 공포 관련 행동과 연관되었고, 서서 제지(standing restraint), 복부 들어올리기(abdominal lift), 입마개 잡기(muzzle hold) 같은 제약적 기술은 회피, 자세 저하, 입술/주둥이 핥기 등 공포 행동 및 높은 공포 점수와 연관되었다. 학생들이 부여한 공포 점수는 조사자 평가보다 낮았고(p<0.001), 학생의 전반적 정신적 안녕감과 정서는 핸들링 기술이나 개 공포 결과와 유의한 연관을 보이지 않았다. 다만 부정적 정서는 실습 후 감소(p<0.001)했으며, 부정적 정서 수준은 학생이 평가한 높은 공포 점수와 연관되어 있었다(p=0.017). 본 연구는 실습 중 핸들링 기법이 개의 공포 반응에 영향을 미친다는 점과 행동 인식 교육의 필요성을 강조하며, 표본은 3학년 학생과 13마리의 개로 제한되어 있다는 점을 고려해야 한다.",
+      "title": "Veterinary student wellbeing and its relationship with dog handling and fear responses during a clinical examination laboratory.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-09-04T23:04:14.161Z",
+      "model": "gpt-5-mini"
+    },
+    "42694928": {
+      "brief_summary": "본 연구는 개(Canis familiaris)가 주인이 명시적 표정을 억제한 상태에서 생성한 미세한 다중감각 신호를 인지하는지 확인하기 위해 실시되었다. 주인을 스트레스 또는 이완 조건에 배정해 얼굴 영상·음성·후각 샘플을 표준화된 읽기 과제 동안 수집·동시 제시하고 개의 행동 및 심박변이도(HRV)를 기록했다. 결과는 개가 문맥에 따라 반응을 달리하며(스트레스 조건에서 통제 자극에 더 큰 주의), 개의 HRV에는 뚜렷한 변화가 없었으나 SDNN 기반의 주인-개 생리적 동기화는 스트레스 유래 자극에서 증가하는 경향을 보였다는 점에서 임상적으로 주인의 미세한 신호가 반려견 행동에 영향을 줄 수 있음을 시사한다.",
+      "detailed_summary": "연구는 주인을 스트레스 유도 또는 이완 조건에 무작위 배정한 후, 조작 뒤 표준화된 읽기 과제 동안 주인의 얼굴 비디오·음성·후각 샘플을 동시에 개에게 제시하는 실험적 설계였다. 평가 항목은 개의 행동 반응(자극지향적 주의 등)과 심박변이도(HRV)였고, 주인은 통제 및 스트레스 유도 기간 모두에서 생리적 각성 증거를 보인 반면 부정적 기분은 오직 스트레스 유도 시에만 증가했다. 개는 스트레스 조건에서 스트레스 유래 자극보다 통제 유래 자극에 대해 더 큰 자극지향적 주의를 보였다. 개의 HRV에는 특정한 조건별 변화가 명확히 관찰되지 않았으나 SDNN 기반의 주인-개 생리적 동기화는 스트레스 유래 자극에서 증가하는 경향을 보였다. 저자들은 개가 생리적 각성, 주관적 정서, 과제 관련 영향이 복합된 미세한 주인 유래 단서를 문맥 의존적으로 처리한다고 결론지었다. 단, HRV 변화는 명확하지 않고 동기화의 증가는 경향 수준으로 보고되어 한계가 있으므로 결과 해석에 주의가 필요하다.",
+      "title": "Dogs display context-dependent behavioral responses to subtle owner-derived multimodal stimuli.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-09-04T23:03:54.757Z",
+      "model": "gpt-5-mini"
+    },
+    "42696055": {
+      "brief_summary": "스위스에서 보고된 첫 Brucella suis biovar 1 감염 증례를 보고한 증례보고이다. 중성화되지 않은 수컷 개가 발열과 부고환염(에피디디미티스)으로 내원하였고, 요(urine)에서의 배양과 혈청학적 검사로 브루셀라증이 확인되었으며 배양균의 전장유전체 시퀀싱(WGS)으로 B. suis biovar 1, ST-14로 동정되었다. 사냥이나 여행력은 없었고, 가장 근연한 균주는 2021년 독일에서 개에서 분리된 균주로 확인되어 인수공통전염병으로서의 주의가 필요함을 시사한다.",
+      "detailed_summary": "본 논문은 단일 증례보고로, 연구 대상은 스위스에서 진료받은 중성화되지 않은 수컷 개 한 마리였다. 임상 양상은 발열과 부고환염이며, 진단은 요(urine)에서의 배양·분자기법과 혈청학적 검사로 이루어졌다. 배양된 균주에 대해 전장유전체 시퀀싱(WGS)을 수행한 결과 B. suis biovar 1, ST-14로 동정되었다. 해당 증례는 사냥력이나 여행력 등 알려진 노출력이 없는 상태에서 발생했으며, 유전적으로는 2021년 독일의 개에서 분리된 균주와 가장 근연한 것으로 보고되었다. 연구진은 스위스에서 B. suis 감염이 이전에 보고된 바 없음을 강조하며, 사람에 대한 병원성(zoonotic importance)이 비교적 큰 B. suis 감염에 대해 임상적 경계가 필요하다고 결론지었다. 단일 증례라는 점에서 일반화에는 제한이 있음이 명시되어 있다.",
+      "title": "First case of Brucella suis biovar 1 infection in a dog in Switzerland.",
+      "journal": "Veterinary Research Communications",
+      "generated_at": "2026-09-04T23:04:48.991Z",
+      "model": "gpt-5-mini"
+    },
+    "42696223": {
+      "brief_summary": "본 증례는 7세 중성화된 수컷 잡종 고양이에서 우측 서혜부 유선에 발생한 비침습성 악성 mammary adenomyoepithelioma의 조직병리 및 면역조직화학 소견을 보고한다. 종괴는 3×1.5 cm의 융기성·궤양성 결절로, 현미경적으로 상피세포와 근상피세포의 유두상 증식이 관찰되었다. 면역표지에서 CK-AE1/AE3, CK7(상피세포), P63(근상피세포), Cox-2(상피·근상피세포), PR(상피세포) 양성과 Ki-67의 증가는 악성 증식 양상을 지지하며, 이를 근거로 비침습성 악성 adenomyoepithelioma로 진단되었다. 단일 증례 보고라는 점에서 일반화에는 제한이 있다.",
+      "detailed_summary": "본 논문은 1마리의 7세 중성화 수컷 잡종 고양이를 대상으로 한 단일 증례보고이다. 해당 동물은 편평세포암에 의한 광범위한 하악 골절로 안락사되었고, 해부학적으로 우측 서혜부 유선에서 3×1.5 cm 크기의 융기성·궤양성·엽상인 단단한 결절이 관찰되었다. 조직학적으로는 주로 유두상(papillary) 배열을 보이는 상피세포 및 근상피세포의 팽창성 신생증식이 관찰되었다. 면역조직화학 검사에서 상피세포는 pan-시토케라틴(CK-AE1/AE3) 및 CK7 양성, 근상피세포는 P63 양성으로 확인되어 상피 및 근상피세포 기원을 확인하였다. Cox-2는 상피·근상피세포 모두에서 발현되었고, progesterone receptor(PR)는 상피세포에서 양성으로 나타났으며, Ki-67(키이-67)은 증가된 발현과 높아진 유사분열 지수로 악성 증식 표지를 시사하였다. 이러한 거시적·현미경적·면역표지 소견을 종합하여 비침습성 악성 유선 adenomyoepithelioma로 진단되었고, 보고자는 이를 근거로 진단을 확정하였다. 중요한 제한점은 단일 증례 보고로서 결과를 다른 개체군에 일반화하기 어렵다는 점이다.",
+      "title": "Noninvasive malignant mammary adenomyoepithelioma in a male cat.",
+      "journal": "Veterinary Research Communications",
+      "generated_at": "2026-09-04T23:04:37.135Z",
       "model": "gpt-5-mini"
     }
   }
