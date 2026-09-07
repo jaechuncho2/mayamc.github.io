@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T22:54:30.937Z",
+  "updated_at": "2026-09-07T23:31:27.263Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -4847,6 +4847,22 @@
       "title": "Efficacy and safety of a fixed-dose oral tramadol-dipyrone combination for postoperative analgesia in dogs undergoing ovariohysterectomy and unilateral mastectomy: a randomized clinical trial.",
       "journal": "Frontiers in Veterinary Science",
       "generated_at": "2026-09-06T22:54:20.823Z",
+      "model": "gpt-5-mini"
+    },
+    "42702519": {
+      "brief_summary": "영미권 공개 소셜미디어 게시글을 대상으로 한 회고적 소셜미디어 리스닝 연구로, Pulsar 플랫폼에서 수집·정제·중복제거 후 11,878개 게시글을 분석했다. 전체적으로 부정적 감정이 우세(부정 66%, 슬픔 64%)했으며, 소유자들의 의사결정은 치료의 '치유'보다 식욕·이동성·편안함·참여·'좋은 날' 등으로 구체화된 삶의 질(QoL)을 중심으로 이뤄졌다. 비용·전원·스테로이드 사용 등 구조적 제약이 치료 선택(화학요법, 수술, 스테로이드만의 완화치료, 안락사)에 큰 영향을 미쳐, 조기 비용 투명성·명확한 공동진료 소통·일선 수의사(GP)-종양과 협력 강화가 결정 고통을 완화할 수 있음을 시사한다.",
+      "detailed_summary": "연구는 Pulsar 플랫폼을 이용한 회고적 소셜미디어 리스닝 방식으로 영문 게시물을 수집·정제·중복제거한 뒤, 제로샷 대형언어모델 기반 관련도 필터링(정확도 88%–99%, F1 93%–98%, Reddit에서 정밀도 최대 99%)을 거쳐 총 11,878개 게시글을 분석했다. 지리적 위치가 확인된 게시글은 대부분 미국에서 기원했으며, 감성·감정 분류, 주제 추출, 비음수 행렬 분해(NMF) 기반 토픽 모델링을 적용했다. 사전지정 하위집단으로는 비용 관련(n=2,008), 전원(레퍼럴) 관련(n=341), 스테로이드 관련(n=438) 담론을 별도 분석했다. 주요 결과로 전체 게시글에서 부정적 감정이 66%로 우세했고 슬픔이 가장 빈번한 감정(64%)이었다. 소유자들은 삶의 질(QoL)을 주요 의사결정 프레임으로 삼았고, 이는 식욕·이동성·통증·반응성(engagement)·'좋은 날' 등으로 구체화되었다. 전원 관련 서사는 지연·진단 순서의 불확실성·여행 부담·문턱(게이트키핑) 인식 등을 강조했으며, 재정적 제약은 화학요법·수술·스테로이드만의 완화치료·안락사 등 치료 가능성에 영향을 미쳤다. 초록은 스테로이드를 고급 종양치료에 접근이 어려운 상황에서 완화적 연결 또는 비용 제한 대안으로 묘사했고, 일선 수의사(GP)는 신뢰받는 정보 기준점으로서 전원 수용과 치료 경로에 영향을 미친다고 결론지었다. 초록에는 연구의 구체적 제한점이 명시되어 있지 않다.",
+      "title": "Quality of Life Shapes Owner Decision-Making in Canine Cancer Care: Insights From Large-Scale Online Discourse.",
+      "journal": "Veterinary and Comparative Oncology",
+      "generated_at": "2026-09-07T23:31:27.252Z",
+      "model": "gpt-5-mini"
+    },
+    "42704875": {
+      "brief_summary": "이 연구는 Superb Microvascular Imaging(SMI)를 이용해 심질환이 있는 개에서 신장 미세혈류 관류를 평가한 전향적 횡단관찰 연구다. 총 43마리(건강 15, 심질환 비우심부전 21, 우심부전 증상 7)를 대상으로 신피질에서 측정한 평균 SMI 신호강도(SMI-SI)가 심질환군에서 유의하게 낮았다(대조군 중앙값 41.3, 비우심부전 21.6, 우심부전 18.6; P < .001). SMI-SI는 정맥울혈 지표인 CVC SD/LD와 음의 상관(ρ = -0.59, P < .001)을 보였고, 심박출 관련 지표인 LVOT-VTI와는 양의 상관(ρ = 0.43, P = .007)을 보였으나 다변량 분석에서는 CVC SD/LD만 독립적으로 연관됐다(P = .001). 임상적 의미는 신장 미세혈류 저하는 심박출보다 정맥울혈과 더 관련된 것으로 보인다는 점이다.",
+      "detailed_summary": "본 연구는 전향적 횡단관찰 연구로 43마리의 임상개를 등록하여 SMI로 신장 피질 영상을 얻고 평균 SMI 신호강도(SMI-SI)를 신장 미세혈류 관류의 지표로 사용했다. 대상은 건강 대조군 15마리, 심질환이 있으나 우심부전 증상 없는 군(non-RHF) 21마리, 우심부전 증상이 있는 군(RHF) 7마리로 구성되었다. 심박출의 지표로는 좌심실유출로 속도-시간적분(LVOT-VTI)을, 정맥울혈의 지표로는 최소 흡기 직경에서의 하대정맥 단축비(CVC SD/LD)를 사용하였다. 중앙값 SMI-SI는 대조군 41.3(95% CI 39.1–43.8), non-RHF 21.6(95% CI 19.4–23.9), RHF 18.6(95% CI 16.4–21.0)로 두 심질환군이 대조군보다 유의하게 낮았다(P < .001). 통계적으로 SMI-SI는 CVC SD/LD와는 음의 상관(ρ = -0.59, P < .001), LVOT-VTI와는 양의 상관(ρ = 0.43, P = 0.007)을 보였고, 다변량 분석에서는 CVC SD/LD만이 SMI-SI와 독립적으로 연관되어 있었다(P = 0.001). 초록에는 구체적인 제한점이 명시되어 있지 않으며, 결론은 SMI로 심질환 개에서 신장 미세혈류 저하를 감지할 수 있고 이 저하는 심박출보다 정맥울혈과 더 관련이 있다는 점이다.",
+      "title": "Evaluation of renal microvascular perfusion in dogs with cardiac disease using Superb Microvascular Imaging.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-09-07T23:31:07.343Z",
       "model": "gpt-5-mini"
     }
   }

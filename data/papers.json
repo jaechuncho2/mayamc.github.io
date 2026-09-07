@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-06T22:54:01.318Z",
+  "updated_at": "2026-09-07T23:30:47.683Z",
   "papers": [
+    {
+      "pmid": "42704875",
+      "title": "Evaluation of renal microvascular perfusion in dogs with cardiac disease using Superb Microvascular Imaging.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Yasuda R, Nakamura K, Sasaki N, Yokoyama N, Sasaoka K, Sugawara-Suda M, Kawamoto S, Shiohara N, Kawakami Y, Sato K, Takiguchi M",
+      "date": "2026 09 07",
+      "dateObject": "2026 09 07",
+      "abstract": "Renal dysfunction in cardiac disease is attributed to both reduced cardiac output and venous congestion; however, relative contributions of these mechanisms are difficult to evaluate clinically. Renal microvascular perfusion assessed by Superb Microvascular Imaging (SMI) would be associated with indices of cardiac output and venous congestion in dogs with cardiac disease. Forty-three client-owned dogs were enrolled: 15 healthy dogs (Control), 21 dogs with cardiac disease but without right-sided heart failure (non-RHF), and 7 dogs with signs of right-sided heart failure (RHF). Prospective cross-sectional observational study. SMI images were obtained from renal cortex, and mean SMI signal intensity (SMI-SI) was calculated as an index of renal perfusion. The left ventricular outflow tract velocity-time integral (LVOT-VTI) was used as an index of cardiac output, while caudal vena cava short-to-long axis ratio at minimal inspiratory diameter (CVC SD/LD) was used to indicate venous congestion. Median SMI-SI was 41.3 (95% CI, 39.1-43.8) in Control, 21.6 (95% CI: 19.4-23.9) in non-RHF, and 18.6 (95% CI, 16.4-21.0) in RHF. Both cardiac disease groups had lower values than Control (P&#xa0;<&#xa0;.001). SMI-SI was negatively correlated with CVC SD/LD (&#x3c1;&#xa0;=&#xa0;-0.59, P&#xa0;<&#xa0;.001) and positively correlated with LVOT-VTI (&#x3c1;&#xa0;=&#xa0;0.43, P&#xa0;=&#xa0;.007). In full multivariable analysis, only CVC SD/LD was independently associated with SMI-SI (P&#xa0;=&#xa0;.001). SMI detects reduced renal microvascular perfusion in dogs with cardiac disease, which is associated with venous congestion rather than cardiac output.",
+      "categories": [
+        "cardiology",
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42702519",
+      "title": "Quality of Life Shapes Owner Decision-Making in Canine Cancer Care: Insights From Large-Scale Online Discourse.",
+      "journal": "Veterinary and Comparative Oncology",
+      "authors": "Tarrant GA, Flory A, Rai TS, Wright A, Street TL, Wells K",
+      "date": "2026 09 06",
+      "dateObject": "2026 09 06",
+      "abstract": "Canine cancer imposes substantial emotional, financial and decisional burden on owners navigating complex referral pathways and treatment options. Understanding how owners experience and interpret these pathways is essential to improving care delivery. We conducted a retrospective social media listening study using Pulsar Platform to retrieve public Anglophone posts relating to canine cancer across multiple platforms. After cleaning, de-duplication and zero-shot large language model relevance filtering (accuracy 88%-99%, F1 93%-98%, with precision up to 99% on Reddit), 11&#x2009;878 posts were analyzed (of those that could be geolocated, most originated from the USA). Sentiment and emotion classification, thematic extraction and non-negative matrix factorization topic modelling were applied. Pre-specified subsets examined cost-focused (n&#x2009;=&#x2009;2008), referral-focused (n&#x2009;=&#x2009;341) and steroid-focused (n&#x2009;=&#x2009;438) discourse. Overall, negative sentiment predominated (66%), with sadness the most frequent emotion (64%). Across platforms, quality of life (QoL) functioned as the primary decision-making framework, operationalized through appetite, mobility, comfort, engagement and \"good days\". Referral narratives highlighted delays, diagnostic sequencing uncertainty, travel burden and perceived gatekeeping within referral pathways. Financial constraint frequently shaped treatment feasibility, influencing decisions regarding chemotherapy, surgery, steroid-only palliation and euthanasia. Steroids were often described as a palliative bridge or cost-constrained alternative when advanced oncology care was inaccessible. General practise (GP) veterinarians were consistently referenced as trusted information anchors, influencing referral uptake and treatment trajectories. Topic modelling suggests a cancer-care pathway experienced as structurally constrained despite strong owner willingness to pursue treatment. QoL consistently supersedes cure as the dominant evaluative metric. Earlier cost transparency, clearer shared-care communication and strengthened GP-oncologist coordination may reduce decisional distress and help mitigate avoidable barriers to specialist care.",
+      "categories": [
+        "oncology",
+        "surgery"
+      ]
+    },
     {
       "pmid": "42699351",
       "title": "Efficacy and safety of a fixed-dose oral tramadol-dipyrone combination for postoperative analgesia in dogs undergoing ovariohysterectomy and unilateral mastectomy: a randomized clinical trial.",
@@ -1460,18 +1486,6 @@
       ]
     },
     {
-      "pmid": "42636340",
-      "title": "Bartonella vinsonii subsp. berkhoffii genotype III in a dog with recurrent fever and panniculitis coinfected with Babesia odocoilei-like sp.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Daravigka A, Soubasis N, Ygeionomakis P, Mylonakis ME, Saridomichelakis MN, Farmaki R, Konstantinidis AO, Civello A, Bourdekas P, Pardali D, Kingston E, Maggi RG, Breitschwerdt EB",
-      "date": "2026 08 24",
-      "dateObject": "2026 08 24",
-      "abstract": "A 2-year-old, spayed female, mixed breed dog presented for evaluation of recurrent febrile episodes over 5 months, intermittently accompanied by the development of SC nodules. Histopathologic examination of the SC lesions was indicative of panniculitis. Bartonella vinsonii subsp. berkhoffii genotype III DNA was amplified and sequenced from an excised SC nodule. Indirect immunofluorescence antibody titer was 1:64, whereas Bartonella blood PCR was negative. Babesia odocoilei-like species DNA was amplified and sequenced from 2 blood samples obtained 77&#xa0;days apart at the time of febrile episodes. Treatment with doxycycline, enrofloxacin, and azithromycin for 6 months resulted in a favorable clinical outcome. Fifteen months later, the dog remained healthy. This case indicates that relapsing fever and panniculitis are possible manifestations of B vinsonii subsp. berkhoffii genotype III infection in dogs. To the best of the authors' knowledge, infection with a B odocoilei-like species has not been reported previously in dogs from Greece.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
       "pmid": "42633613",
       "title": "Dog Breeding in Italy: A Technical Overview of Husbandry and Reproductive Management.",
       "journal": "Veterinary Medicine and Science",
@@ -2271,16 +2285,6 @@
         "oncology",
         "surgery"
       ]
-    },
-    {
-      "pmid": "41943258",
-      "title": "Proteasome Inhibitor-Induced Cytotoxic Mechanisms in Canine Pulmonary Adenocarcinoma Cell Lines.",
-      "journal": "Veterinary and Comparative Oncology",
-      "authors": "Chijiwa A, Inanaga S, Osaki T, Igase M, Mizuno T",
-      "date": "2026 08 10",
-      "dateObject": "2026 08 10",
-      "abstract": "Canine pulmonary adenocarcinoma (cPAC) lacks well-validated systemic treatment options, motivating preclinical identification of potential therapeutic candidates. To explore potential therapeutic candidates, we first performed a screening of an FDA-approved drug library using a cPAC cell line, which identified bortezomib-a proteasome inhibitor-as a potential agent. Guided by this result, we focused subsequent investigations on proteasome blockade and evaluated the antitumor activity and mechanisms of bortezomib together with a second-generation proteasome inhibitor, carfilzomib-alone and in combination with standard cytotoxics-in three cPAC cell lines (CLAC, HDC, and LuBi). Both agents reduced cell proliferation and cell viability in a dose-dependent manner, with proteasome target engagement (ubiquitinated protein accumulation), G2/M arrest, sub-G1 increase, and caspase-3 cleavage. Pan- and selective caspase inhibition partially rescued viability, suggesting contributions from both intrinsic and extrinsic apoptosis, together with caspase-independent mechanisms. We also observed activation of the JNK-c-Jun pathway and increased Bim expression, indicating the induction of cellular stress responses and apoptosis. Drug-interaction analysis showed reproducible synergy between carfilzomib and carboplatin in HDC and LuBi, whereas combinations with vinorelbine were mainly additive or antagonistic effects. Overall, proteasome inhibitors exert multifaceted cytotoxic effects in cPAC through proteotoxic stress, cell-cycle arrest, and caspase-associated apoptosis. In particular, the combination of carfilzomib and carboplatin may represent a promising therapeutic strategy. Further in&#xa0;vivo and clinical investigations are warranted to evaluate therapeutic efficacy, safety, and pharmacokinetics of proteasome inhibitors in cPAC.",
-      "categories": []
     },
     {
       "pmid": "42563163",
