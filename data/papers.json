@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-09-07T23:30:47.683Z",
+  "updated_at": "2026-09-08T23:25:00.894Z",
   "papers": [
+    {
+      "pmid": "42707635",
+      "title": "An investigation of per- and polyfluoroalkyl concentrations in dogs and cats with endocrine disorders.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Bardhi A, Serrantoni E, Inauen D, Del Baldo F, Galac S, Gehring R, Fracassi F, Barbarossa A",
+      "date": "2026 09 08",
+      "dateObject": "2026 09 08",
+      "abstract": "Per- and polyfluoroalkyl substances (PFAS) are persistent environmental contaminants with endocrine-disrupting and potential carcinogenic effects in humans. Data on PFAS exposure in companion animals are limited. This study quantified PFAS concentrations in dog and cat serum and investigated associations with endocrine disorders. This retrospective study included 179 dogs from the Universities of Bologna and Utrecht, and 84 cats from the University of Bologna, sampled between 2021 and 2025. The population comprised 23 healthy dogs, 35 healthy cats, and animals with endocrine disorders, including 49 cats with hyperthyroidism, 64 dogs with pituitary-dependent hypercortisolism, 16 with primary hyperparathyroidism, and 85 with adrenal tumors. Eleven PFAS were measured by liquid chromatography-tandem mass spectrometry (LC-MS/MS). Between-group differences were evaluated using nonparametric tests, associations with disease status using age-adjusted generalized linear models, and correlations with age and body condition score using Spearman's rank correlation. Eight PFAS were detected in dogs and nine in cats. The most frequently detected compounds were perfluorooctanesulfonic acid (PFOS, 99.5%), perfluorohexanesulfonic acid (PFHxS, 69.0%), and perfluorooctanoic acid (PFOA, 68.5%) in dogs, and PFOS (99.0%) and PFOA (96.0%) in cats. Dogs from Utrecht had higher PFOS concentrations than dogs from Bologna. Unadjusted between-group differences varied by species, with higher PFAS concentrations in healthy cats but higher concentrations of some PFAS in certain canine diseased groups. After adjustment for age, no PFAS was independently associated with disease status in either species. A weak negative correlation between &#x2211;PFAS and age was observed in dogs ( r &#x202f;=&#x202f;-0.206, p &#x202f;=&#x202f;0.005) and cats ( r &#x202f;=&#x202f;-0.234, p &#x202f;=&#x202f;0.032), and diseased animals were older than healthy controls, suggesting that age contributed to the observed between-group differences. No significant associations were found with body condition score. PFAS exposure was widespread in both species, with higher PFOS concentrations in dogs from the Dutch cohort. The inverse association between PFAS concentrations and age, together with the older age of diseased animals, suggests that age substantially contributed to the observed between-group differences. Further longitudinal studies, including minimally exposed control populations, are warranted to clarify the health implications of PFAS exposure in companion animals.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42707619",
+      "title": "The microenvironment in canine mast cell tumors: association between tumor-associated tissue eosinophilia and histological grade.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Ezquerra-Dur&#xe1;n M, Cardenal-Morales P, Ezquerra-Calvo LJ, Tarazona-Lafarga R, Santella M, Dur&#xe1;n-Fl&#xf3;rez ME",
+      "date": "2026 09 08",
+      "dateObject": "2026 09 08",
+      "abstract": "Canine mast cell tumors (MCTs) are common neoplasms with heterogeneous biological behavior, and histological grading alone may not fully reflect their aggressiveness. The tumor microenvironment, particularly tumor-associated tissue eosinophilia (TATE), may provide complementary information on MCT biology. This study evaluated whether intratumoral eosinophil infiltration, expressed as the eosinophil-to-mast cell ratio (EMR), was associated with histological grade in canine MCTs. A secondary objective was to assess the relationship between peripheral blood inflammatory markers and tumor grade. A total of 117 surgically excised MCTs from 73 dogs were included. Tumors were classified according to the Patnaik and Kiupel grading systems. Eosinophils and mast cells were counted in 10 consecutive high-power fields of neoplastic tissue, and the EMR was calculated. Histopathological variables, peripheral blood eosinophil counts, and inflammatory ratios were also evaluated. Univariable and multivariable regression models were used to assess associations with tumor grade, and receiver operating characteristic curve analysis was performed to identify an exploratory, data-derived EMR cutoff, which was internally validated using bootstrap resampling. A higher EMR was associated with high-grade tumors in both grading systems and remained independently associated with tumor grade after adjustment for confounding variables. An exploratory EMR cutoff value of 0.38 showed good discriminatory ability for distinguishing low- from high-grade tumors according to Kiupel grading and showed stable overall discrimination on internal bootstrap validation, although the exact threshold remained imprecisely estimated. In contrast, peripheral blood eosinophil counts were not significantly related to tumor grade, and most systemic inflammatory markers showed no significant association with tumor grade. These findings suggest that the local eosinophilic component of the tumor microenvironment, assessed through the EMR, may provide complementary information for the histological characterization of canine MCTs. Larger multicenter studies are needed to validate the proposed EMR cutoff and clarify its prognostic and biological relevance.",
+      "categories": [
+        "oncology"
+      ]
+    },
+    {
+      "pmid": "42706634",
+      "title": "Feline Mammary Carcinomas: Clinical Perspectives on Diagnosis, Staging, Treatment and Prognosis.",
+      "journal": "Veterinary and Comparative Oncology",
+      "authors": "Petrucci GN, Lobo L, Queiroga FP",
+      "date": "2026 09 08",
+      "dateObject": "2026 09 08",
+      "abstract": "Feline mammary carcinomas remain a major therapeutic and prognostic challenge in veterinary oncology because they combine high malignant potential, early dissemination, and substantial heterogeneity in clinicopathologic behaviour. This review summarizes current clinical knowledge on epidemiology, risk factors, diagnostic work-up, staging, treatment, and prognostic assessment of feline mammary carcinomas, highlighting areas of consensus and persistent controversies. Progress in care will require prospective, multicentre studies built on harmonized staging and pathology reporting, enabling risk-adapted treatment pathways that are both evidence-based and clinically actionable.",
+      "categories": [
+        "oncology"
+      ]
+    },
     {
       "pmid": "42704875",
       "title": "Evaluation of renal microvascular perfusion in dogs with cardiac disease using Superb Microvascular Imaging.",
@@ -1052,31 +1088,6 @@
       "abstract": "Red foxes play an important role in the circulation of ticks and tick-borne pathogens, including Babesia spp. While for Babesia vulpes many studies are available on its epidemiology in fox populations as well as pathogenicity in dogs, no data are reported for the recently described Babesia banethi infecting red foxes. Here we describe the clinical and parasitological follow-up of a naturally occurring B. banethi infection in a red fox from southern Italy. An adult male fox presented with severe debilitation, weight loss, pale mucous membranes, brown discolouration of urine and sarcoptic mange. Haematological examination revealed regenerative anaemia associated with left-shift neutrophilia and lymphocytosis. Blood smear examination showed intraerythrocytic inclusions morphologically consistent with small piroplasmids, and PCR amplification and sequencing of the 18S rDNA gene confirmed infection with B. banethi. Screening for other vector-borne pathogens scored negative. Treatment with imidocarb dipropionate resulted in temporary clinical and haematological improvement but persistence of PCR positivity and later relapse of parasitaemia and clinical signs. Subsequently, treatment with atovaquone/proguanil combined with azithromycin led to marked clinical recovery and disappearance of parasites at blood smear examination, although PCR positivity persisted for several months. A second therapeutic course resulted in both cytological and molecular negativity. This longitudinal case report provides the first detailed account of the clinical course, therapeutic response and long-term parasitological follow-up of B. banethi infection in a red fox, suggesting that this piroplasm might cause clinically relevant and persistent infection, yet further validation of this hypothesis on a larger number of clinical cases is advocated. Not applicable.",
       "categories": [
         "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42656497",
-      "title": "Tyrosine kinase inhibitors and molecularly driven therapeutic approaches for canine lymphoma: a systematic review and meta-analysis.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Chen Y, Gao Y, Li S, Liu B, Nolte I, Murua Escobar H, Yu F",
-      "date": "2026 08 27",
-      "dateObject": "2026 08 27",
-      "abstract": "Canine lymphoma (cL), the second most common canine cancer after mammary carcinoma, presents therapeutic challenges due to limitations of conventional regimens, necessitating novel therapeutic approaches. Tyrosine kinase inhibitors (TKIs), which have demonstrated efficacy in human non-Hodgkin lymphoma (NHL), are increasingly being investigated as targeted therapies for cL, which also serves as a valuable translational model for NHL research. To systematically evaluate the efficacy of TKIs in the treatment of cL. A comprehensive search of PubMed, Web of Science, Cochrane, and Embase databases was conducted, encompassing studies published between January 1, 2004 and January 1, 2026, using controlled vocabulary terms including \"Canine,\" \"Dogs,\" \"Lymphoma,\" and \"Tyrosine Kinase Inhibitors\". A meta-analysis was subsequently performed to evaluate the efficacy of TKIs. Seventeen articles were included, comprising 11 clinical trials and 9 in vitro experiments, with some studies encompassing both methodologies. A meta-analysis encompassing 101 dogs from 11 clinical trials showed an objective response rate (ORR) of 42% (95% CI: 32-53%; common-effect model), indicating moderate antitumor activity. Notably, canine T-cell lymphoma (ORR = 0.63) may exhibit a higher response rate compared to canine B-cell lymphoma (ORR = 0.27). TKIs show moderate therapeutic activity in cL and support the role of dogs as a translational model for NHL research. However, further studies are needed to confirm their efficacy and safety and to explore optimal combination and personalized treatment strategies.",
-      "categories": [
-        "oncology"
-      ]
-    },
-    {
-      "pmid": "42656407",
-      "title": "Serum multi-element profiling and a Metallobalance index for noninvasive differentiation of canine prostatic adenocarcinoma: a pilot case-control study.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Yamada N, Ishigaki K, Hayakawa T, Iida K, Yamaoka S, Wang P, Asano K",
-      "date": "2026 08 27",
-      "dateObject": "2026 08 27",
-      "abstract": "Noninvasive biomarkers for canine prostatic adenocarcinoma (PAC) are lacking. Serum multi-element profiling by inductively coupled plasma-mass spectrometry (ICP-MS) may provide diagnostic information. To derive preliminary reference intervals (PRIs) for 18 serum elements in clinically healthy male dogs, assess a Metallobalance index (MBI) for distinguishing PAC from controls, and explore associations with lymph node metastasis, surgical margin status, and postoperative change. The study included 115 dogs: clinically healthy males ( n &#x202f;=&#x202f;65), dogs with benign prostatic hyperplasia (BPH; n &#x202f;=&#x202f;25), one dog with a prostatic cyst, and dogs with histopathologically confirmed PAC ( n &#x202f;=&#x202f;24). The diagnostic control group comprised 91 dogs. Serum concentrations of 18 elements were measured by ICP-MS, and central 95% PRIs were derived. An 18-element linear discriminant analysis (LDA) model generated the MBI. Cutoffs maximized Youden's index; apparent performance was summarized by sensitivity, specificity, accuracy, and area under the receiver operating characteristic curve (AUC). Post hoc analyses restricted controls to dogs aged &#x2265;7&#x202f;years and compared BPH with PAC using the Study 1 MBI equation without refitting. Element-specific and clinicopathological subgroup analyses were exploratory. PRIs were derived for all elements. The MBI showed high apparent discrimination between PAC and controls (AUC, 0.983). At a cutoff of 0.8030, sensitivity, specificity, and accuracy were 100.0, 92.3, and 93.9%, respectively. Apparent AUCs were 0.984 with age-restricted controls and 0.998 for BPH versus PAC. As these were unvalidated training-set estimates, they should not be interpreted as clinical performance. In dogs with PAC, preoperative MBI was higher with lymph node metastasis, but did not differ by surgical margin status or clearly change 2&#x202f;weeks postoperatively. ICP-MS-based multi-element profiling with LDA showed high apparent training-set discrimination of canine PAC from controls, including benign prostatic disease. The association with lymph node metastasis warrants further study, whereas findings did not support short-term postoperative monitoring or a validated prognostic role. Independent validation in a larger prospective cohort is required before clinical application.",
-      "categories": [
-        "oncology",
-        "surgery"
       ]
     },
     {
@@ -2268,19 +2279,6 @@
       "date": "2026 08 10",
       "dateObject": "2026 08 10",
       "abstract": "This study presents a comprehensive transcriptomic analysis of 128 canine mammary tumours (CMTs), aiming to characterize their molecular landscape. Differential gene expression analysis (DGE), gene set enrichment analysis (GSEA) and clustering based on the human PAM50 gene panel were applied to explore molecular differences between the different histological categories. The analysis revealed transcriptomic differences between benign and malignant tumours as well as between tumours with high and low mitotic count. Malignant tumours were significantly enriched for gene sets associated with cell cycle regulation, proliferation, inflammatory response, signalling pathways and metabolic processes. Of the malignant tumours, purely epithelial tumours were enriched in gene sets related to proliferation, signalling and metabolic processes when compared to mixed tumours harbouring myoepithelial or mesenchymal components. To assess the relevance of human classification systems, CMTs were clustered on the PAM50 genes. The analysis revealed two clusters resembling human basal-like and luminal A subtypes, while the remaining tumours did not display expression patterns similar to human breast cancer subtypes. This suggests that there are limitations to applying the human molecular classification systems to canine tumours without adaptation. Additionally, CMTs displayed intragroup heterogeneity, where not all tumours within a histopathological category clustered together, indicating that the molecular aspect of CMTs is not necessarily reflected in the pathology. Together, this study highlights the need to develop canine-specific molecular markers based on gene expression, which could enable diagnosis prior to surgical removal of tumours, and ultimately improve treatment strategies and outcomes for dogs with mammary tumours.",
-      "categories": [
-        "oncology",
-        "surgery"
-      ]
-    },
-    {
-      "pmid": "41991178",
-      "title": "Surgical Margins Required for the Complete Excision of Canine Oral Melanomas.",
-      "journal": "Veterinary and Comparative Oncology",
-      "authors": "Chinner JR, Lee JJW, Tuke J, Yap FW",
-      "date": "2026 08 10",
-      "dateObject": "2026 08 10",
-      "abstract": "Oral malignant melanoma (OMM) is the most common canine oral neoplasm. Complete excision is recognised as the mainstay of treatment in the absence of distant metastasis, but recommended surgical margins are unvalidated. This study investigates the surgical margins required for complete excision of canine OMMs. We hypothesised that surgical margins 10-15&#x2009;mm wide and a qualitative deep margin (bone, fascia or full-thickness tissue excision) would be adequate for complete local excision of OMMs. Margins required to excise canine oral melanocytomas are also unknown; a secondary objective was to investigate this. Cases were retrospectively collected from two referral centres and a veterinary pathology laboratory. Histologic diagnosis, en bloc excision of gross tumour, surgical margin and histologic margins were required for inclusion. Tumours were categorised based on surgical margin width (Group A&#x2009;<&#x2009;10&#x2009;mm, Group B 10-15&#x2009;mm and Group C&#x2009;>&#x2009;15&#x2009;mm). A qualitative deep margin was required for Groups B and C, but not Group A, to include marginal excision cases. Histologic margins were classified by the R tumour classification scheme. Twenty-eight tumours were included, comprising 25 OMMs and three melanocytomas. R0 rates for OMMs were 56% (10/17) in Group A, 100% (7/7) in Group B and 100% (2/2) in Group C. Surgical margins&#x2009;&#x2265;&#x2009;10&#x2009;mm were significantly (p&#x2009;=&#x2009;0.03) more likely to result in R0 classification. The three melanocytomas were all classified as R0, with <&#x2009;10&#x2009;mm surgical margins. Results suggest that surgical margins 10-15&#x2009;mm wide and a qualitative deep margin may be adequate for complete excision of OMMs.",
       "categories": [
         "oncology",
         "surgery"
