@@ -1,6 +1,131 @@
 {
-  "updated_at": "2026-09-08T23:25:00.894Z",
+  "updated_at": "2026-09-09T23:16:35.946Z",
   "papers": [
+    {
+      "pmid": "42713429",
+      "title": "Alopecia management from a comparative perspective: pharmacological and pharmaceutical insights in humans, dogs, and cats.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Seo J, Yun JH",
+      "date": "2026 09 09",
+      "dateObject": "2026 09 09",
+      "abstract": "Hair loss (alopecia) is a multifactorial condition affecting humans and companion animals, including dogs and cats, with etiologies involving hormonal, immune-mediated, genetic, infectious, allergic, parasitic, and behavioral mechanisms. Although androgenetic alopecia and alopecia areata are well characterized in humans, alopecia in veterinary patients more frequently reflects an underlying endocrine, hereditary, infectious, allergic, parasitic, or self-induced disorder. This review provides a comparative analysis of the pathophysiology, clinical presentation, pharmacological management, and pharmaceutical formulation of nonscarring alopecia across species. In humans, United States Food and Drug Administration-approved treatments, including topical minoxidil, oral finasteride, and selected Janus kinase inhibitors, are supplemented by emerging approaches such as platelet-rich plasma, low-level laser therapy, regenerative medicine, and nanotechnology-based delivery systems. In contrast, veterinary management primarily depends on identification and correction of the underlying disorder, with limited species-specific evidence and few dedicated formulations. Differences in follicular architecture, hair-cycle kinetics, skin permeability, drug metabolism, coat characteristics, and grooming behavior preclude direct extrapolation of human therapies to dogs and cats. Dermatophytosis further illustrates the One Health relevance of comparative alopecia management because successful control may require coordinated treatment of affected animals and humans together with environmental decontamination. This review highlights the need for species-specific clinical trials, safety assessment, and formulation strategies to support the development of effective and practical treatments for human and veterinary alopecia.",
+      "categories": [
+        "internalMedicine",
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42712380",
+      "title": "Case Report: Recurrent vestibular episodes in a dog resembling Meniere's disease.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Ladenburger ME, Kuzek K, Schmitz AK, Br&#xfc;hschwein A, Fischer A",
+      "date": "2026 09 09",
+      "dateObject": "2026 09 09",
+      "abstract": "M&#xe9;ni&#xe8;re's disease, characterized by episodic vertigo, sensorineural hearing loss, and tinnitus, is well-documented in humans but rarely reported in veterinary medicine. This case report describes a 15-year-old male mixed-breed dog with recurrent vestibular episodes lasting 30&#x202f;min to several hours. Clinical signs included ataxia, head tilt, and nystagmus. MRI and diagnostic workups ruled out common structural causes of vestibular signs and ear diseases. Audiometric testing revealed bilateral sensorineural hearing loss with preserved high-frequency hearing in the right ear, a pattern resembling that seen in human M&#xe9;ni&#xe8;re's disease. While the dog improved with supportive care, multiple relapses occurred until the age of 18. This case suggests a M&#xe9;ni&#xe8;re's-like syndrome in dogs and highlights the need for hearing function assessments in idiopathic vestibular disease.",
+      "categories": [
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "42711694",
+      "title": "Sero-epidemiological survey of Toxoplasma gondii in water buffalo (Bubalus bubalis) and domestic pig (Sus scrofa domesticus) across upper and lower Egypt.",
+      "journal": "BMC Veterinary Research",
+      "authors": "Elmahallawy EK, Abdo W, Cano-Terriza D, Gareh A, Elsheikh HEM, AlGabbani Q, Elaref MY, Fajardo-Alonso T, Soliman SS, Villena I, Salama MS, El-Khadragy MF, Sadek SAS, Shukry M, Almer&#xed;a S, Garc&#xed;a-Bocanegra I",
+      "date": "2026 09 09",
+      "dateObject": "2026 09 09",
+      "abstract": "Toxoplasma gondii (T. gondii) is a globally prevalent protozoan parasite affecting warm-blooded species, including humans. In Egypt, serological surveys have been conducted in several livestock; however, studies on species such as buffalo and pigs remain scarce. This study aimed to provide updated insights into the seroprevalence of T. gondii in a cohort of 548 domestic animals, comprising 288 water buffaloes (Bubalus bubalis), sampled from both Upper and Lower Egypt, and 260 domestic pigs (Sus scrofa domesticus) from Lower Egypt between January and December 2023. Serological screening for anti-T. gondii antibodies was performed using the Modified Agglutination Test (MAT). Furthermore, the investigation evaluated the influence of various individual factors, including sex, age, season, and geographic origin, on the likelihood of exposure to the parasite in these understudied host species. Likewise, this work comprehensively reviews all previous research on the serosurveys of T. gondii in water buffalo and domestic pigs across Upper and Lower Egypt, with findings systematically tabulated to provide an updated and consolidated overview of the available evidence about this topic. The overall seroprevalence of T. gondii in buffalo was 42.01% (121/288; 95% Confidence Interval (95%CI): 36.31- 47.71). The Generalized Estimating Equation model identified geographic location as a significant risk factor for T. gondii exposure in buffalo, where buffalo from Lower Egypt showing 3.69-fold higher odds of seropositivity compared to those from Upper Egypt, highlighting increased circulation of the parasite in northern areas. Seroprevalence was significantly higher in pigs (68.46%; 178/260; 95%CI: 62.81-74.11) than in buffalo. However, no significant associations were found between seropositivity and the evaluated epidemiological variables in this species. These findings demonstrate high T. gondii exposure in Egyptian buffalo and pigs, indicating continued transmission and zoonotic danger. Biosecurity measures must be strengthened, cat access reduced, sanitation enhanced, herd screening performed on a regular basis, and farmers educated. One Health surveillance and additional field research should lead effective control and lessen the public health effects. reveal substantial exposure to T. gondii in both buffalo and pigs in Egypt and highlight the need for targeted control strategies, including improved husbandry and biosecurity practices, routine animal screening, and farmer education, to reduce transmission risk in livestock and protect public health.",
+      "categories": []
+    },
+    {
+      "pmid": "42714672",
+      "title": "Modified scalp block and total intravenous anesthesia for frontal craniotomy in a dog with a meningioma: a technical case report.",
+      "journal": "Veterinary Research Communications",
+      "authors": "Freisleben P, Mangini LT, Gasparotto JC, da Silva Mielke JF, Chaves JNF, Pozzolo AAD, Takamori Sekita AM, Beckmann DV, Mazzanti A",
+      "date": "2026 09 09",
+      "dateObject": "2026 09 09",
+      "abstract": "Intracranial meningiomas are among the most common primary central nervous system tumors in dogs, and surgical resection is associated with prolonged survival for rostrotentorial lesions. This report describes the anesthetic and surgical management of a dog undergoing frontal craniotomy using a modified scalp block technique. A 9-year-old male Shih Tzu with seizures and forebrain signs was diagnosed with a rostrotentorial intracranial mass compatible with meningioma on computed tomography. Frontal craniotomy was performed under total intravenous anesthesia with propofol target-controlled infusion combined with bilateral frontal and modified zygomaticotemporal scalp block using bupivacaine. The modified technique involved caudal needle insertion along the zygomatic arch with dorsomedial redirection toward the orbital ligament and fractionated anesthetic deposition. Cardiovascular parameters remained stable during the four major nociceptive events analyzed-skin incision, muscle dissection, craniotomy, and durotomy-with no clinically relevant increases beyond approximately 20% of stabilized post-induction baseline values; no rescue analgesia or adjustments in target propofol plasma concentration were required intraoperatively. During cranioplasty, the patient developed hemodynamic instability associated with blood loss, which improved after transfusion therapy. Postoperative recovery was satisfactory, with neurological improvement and no immediate complications. The association of total intravenous anesthesia and modified scalp block may represent a feasible neuroanesthetic strategy for canine craniotomy, contributing to nociceptive control and cardiovascular stability. Further studies are needed to validate the technique and its analgesic efficacy.",
+      "categories": [
+        "cardiology",
+        "surgery",
+        "neurology",
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42713725",
+      "title": "Assessment of Clinical and Immunological Factors of Local Recurrence in Canine Soft Tissue Sarcoma.",
+      "journal": "Veterinary and Comparative Oncology",
+      "authors": "Mizuta K, Philibert H, Matsuyama A",
+      "date": "2026 09 09",
+      "dateObject": "2026 09 09",
+      "abstract": "Canine soft tissue sarcomas (STSs) are locally invasive tumours, making local recurrence a major clinical challenge. Time to recurrence (TTR) and associated immune factors remain poorly characterized. This study aimed to characterize the immune microenvironment of canine STS and identify factors associated with TTR. Medical records from 27 dogs with STS that recurred after surgery were reviewed. Histopathological, transcriptomic, and immunological analyses were performed in a tissue-available subcohort of 20 dogs. Immune-related gene expression was characterized using the NanoString canine IO panel. Tumour-infiltrating immune cells and tertiary lymphoid structures (TLSs) were assessed immunohistochemically using CD3, CD20, and FoxP3. Associations with TTR were evaluated using Cox proportional hazards models and log-rank tests. Median TTR was 358&#x2009;days. Age and tumour location were associated with TTR in univariable analyses of the full cohort, but neither age nor the overall location effect remained significant when analysed together. Higher NOD2 expression and Cluster 1 assignment were associated with shorter TTR across exploratory multivariable models. Cluster 1 tumours exhibited abundant lymphocyte infiltration and enrichment of immunosuppressive pathways, whereas Cluster 2 tumours demonstrated lower immune infiltration and proinflammatory signatures. TLS-positive tumours had greater lymphocyte infiltration, with FoxP3+ cells accumulated within TLSs. Paired recurrent tumours contained significantly more large TLSs than primary tumours. Higher NOD2 expression and an immunologically active but suppressed tumour phenotype were associated with shorter TTR, whereas the association with anatomical location was model-dependent. Regulatory T cells and TLSs may contribute to the immune landscape associated with local recurrence and warrant further investigation as potential therapeutic targets.",
+      "categories": [
+        "oncology",
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42710537",
+      "title": "Cryptococcus-targeted culture in dogs reveals nasal carriage of Naganishia albida and diverse opportunistic yeasts with potential clinical relevance.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "G&#xfc;nd&#xfc;z ES, G&#xfc;m&#xfc;&#x15f;soy KS, Ko&#xe7; AN",
+      "date": "2026 09 08",
+      "dateObject": "2026 09 08",
+      "abstract": "To investigate the nasal carriage of Cryptococcus-related and other opportunistic yeasts in dogs, molecularly characterize the recovered isolates, and evaluate the epidemiological characteristics of Naganishia albida carriage. Nasal swab samples were collected from July through December 2023 from 100 dogs receiving boarding or hospitalization services at private veterinary clinics and animal hospitals in 4 provinces of T&#xfc;rkiye. Yeast isolates were identified using phenotypic methods, internal transcribed spacer 2 sequencing, and matrix-assisted laser desorption ionization-time-of-flight mass spectrometry. The 1-year clinical history of dogs carrying N albida was retrospectively reviewed. A total of 79 isolates representing 31 yeast species were identified from 59 dogs. Cryptococcus neoformans/gattii species complex organisms were not isolated from any dog. Naganishia albida and Papiliotrema laurentii were isolated from 12% and 1% of dogs, respectively. Naganishia albida carriage was detected in both clinically healthy and clinically affected dogs, with higher frequencies observed among dogs presenting with respiratory, dermatological, or systemic clinical findings. However, no significant associations were identified between N albida carriage and the evaluated epidemiological variables. Dogs may harbor diverse opportunistic yeasts, including Cryptococcus-related yeasts, within the nasal cavity. Opportunistic yeasts can colonize the nasal cavities of both clinically healthy and clinically affected dogs. These findings provide baseline epidemiological data for interpreting fungal culture results and contribute to a better understanding of opportunistic fungal carriage in companion animals.",
+      "categories": [
+        "internalMedicine",
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42710535",
+      "title": "Bioassay and liquid chromatography-mass spectrometry are not equivalent in itraconazole therapeutic drug monitoring in dogs.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Hearn K, Gal A, Wiederhold NP, Park S, Hanzlicek A, Reinhart JM",
+      "date": "2026 09 08",
+      "dateObject": "2026 09 08",
+      "abstract": "To compare itraconazole therapeutic drug monitoring (TDM) results by culture-based bioassay versus liquid chromatography-mass spectrometry (LC-MS) in dogs with blastomycosis and determine how the choice of assay might influence dosage adjustments. This was a retrospective study. Ninety-seven samples from 14 client-owned dogs with blastomycosis were collected from October 2023 through May 2025 and analyzed by bioassay and 3 LC-MS-derived variables: itraconazole alone (ITZ), the hydroxyitraconazole metabolite, and the sum of itraconazole and hydroxyitraconazole. Linear mixed models were used to assess the relationship between dosage and itraconazole concentration by bioassay and LC-MS and between bioassay and the LC-MS variables. A clinical concordance grid was used to assess agreement between bioassay and ITZ by LC-MS regarding dosage-adjustment decisions. There was no significant association between itraconazole dosage and serum concentration. There was a significant relationship between concentration by bioassay versus LC-MS (P < .01). The association was weak for ITZ (r2 = 0.40) but was moderate for the hydroxyitraconazole metabolite (r2 = 0.48) and the sum of itraconazole and hydroxyitraconazole (r2 = 0.48). Of 97 samples, 62 (64%) demonstrated agreement in dosage adjustment, and 35 (36%) did not. Dosage of itraconazole does not reliably predict serum itraconazole concentration, requiring TDM for effective dosage-adjustment decisions. Bioassay and LC-MS are not interchangeable assays for itraconazole TDM in dogs. TDM should be considered during long-term itraconazole therapy to optimize dose. A single assay method (bioassay or LC-MS) should be used consistently throughout the entire course of antifungal therapy.",
+      "categories": []
+    },
+    {
+      "pmid": "42710534",
+      "title": "Computed tomography perfusion indicates reduced portal venous perfusion and relative arterial dominance in canine hepatocellular carcinoma.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Wang P, Ishigaki K, Ishikawa C, Shiozawa N, Kimpara M, Iida K, Yamaoka S, Yamada N, Kagawa Y, Asano K",
+      "date": "2026 09 08",
+      "dateObject": "2026 09 08",
+      "abstract": "To characterize CT perfusion (CTP) in canine massive hepatocellular carcinoma (HCC) and explore associations with descriptive histomorphologic differentiation categories. This retrospective study included 20 client-owned dogs with surgically excised, histopathologically confirmed HCC of the massive gross phenotype and interpretable preoperative CTP datasets. Hepatic arterial flow (HAF), portal venous flow (PVF), and hepatic perfusion index (HPI) were calculated with a dual-input maximum-slope method. Freehand tumor regions of interest were drawn as large as possible along tumor margins while excluding visible vessels and necrotic or cystic regions. The CTP metrics were compared between tumor and nontumorous liver and among differentiation groups. Tumors had lower PVF than nontumorous liver (23.40 vs 127.15 mL/min/100 mL; P < .001) and higher HPI (65.81% vs 29.66%; P < .001), whereas HAF did not differ (52.98 vs 50.29 mL/min/100 mL; P = .154). Among differentiation groups, HAF differed (global P = .011; well > moderate; adjusted P = .042), PVF differed (global P = .025; poor < well; adjusted P = .031), and HPI did not differ (global P = .664). Canine HCC showed relative arterial dominance on CTP driven mainly by reduced PVF. Although HAF and PVF differed among differentiation categories, these findings should be interpreted cautiously because only 3 tumors were poorly differentiated. CTP may provide quantitative arterial and portal perfusion information but should not replace morphologic imaging, surgical assessment, or other established diagnostic and prognostic approaches; it cannot define histologic type or differentiation or predict metastasis, resectability, or prognosis.",
+      "categories": [
+        "internalMedicine",
+        "oncology",
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42710546",
+      "title": "Gilvetmab advances immune checkpoint inhibitor immunotherapy for canine cancer.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Chon E, Greene LM, Stock ML",
+      "date": "2026 09 08",
+      "dateObject": "2026 09 08",
+      "abstract": "Immune checkpoint inhibitors (ICIs) have revolutionized human oncology and are emerging as a promising strategy in veterinary cancer care. These agents unleash antitumor immunity by targeting inhibitory pathways that suppress T-cell function, enabling durable responses in select patients. In dogs, the immune checkpoint programmed cell death protein 1 (PD-1) axis is a primary focus due to conserved structural and functional homology with the PD-1 axis in humans, documented PD-1/programmed death-ligand 1 (PD-L1) signaling in the canine tumor microenvironment, and its role in reversing tumor-induced immune exhaustion. Several caninized anti-PD-1 and anti-PD-L1 antibodies have demonstrated favorable safety profiles and notable antitumor activity in spontaneously occurring canine cancers, particularly melanoma and mast cell tumors. Gilvetmab, currently the only veterinary ICI available commercially, has conditional licensure in the United States for these indications. This caninized anti-PD-1 monoclonal antibody has demonstrated target engagement, acceptable tolerability, and clinical efficacy in a subset of treated dogs. Although reported adverse events are generally manageable, further work is needed to better characterize immune-mediated toxicities. Furthermore, response patterns may differ from those of cytotoxic therapies, including potential pseudoprogression, necessitating careful selection of response assessment methods. Key challenges remain in optimizing patient selection, refining biomarker development, establishing effective combination strategies, and defining the efficacy of immune checkpoint blockade across diverse tumor histologic subtypes (histotypes). Continued study of gilvetmab and related agents should advance the clinical application of immunotherapy in veterinary oncology and inform the next generation of comparative cancer care.",
+      "categories": [
+        "internalMedicine",
+        "oncology"
+      ]
+    },
+    {
+      "pmid": "42710541",
+      "title": "Electrochemotherapy with interleukin-12 gene electrotransfer can turn local tumor ablation into a systemic antitumor response in veterinary patients.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "&#x10c;ema&#x17e;ar M, Lampreht Tratar U, Milevoj N, Ser&#x161;a G, Tozon N",
+      "date": "2026 09 08",
+      "dateObject": "2026 09 08",
+      "abstract": "Veterinary medicine serves as an important translational bridge between preclinical studies and human medicine, offering a valuable model for investigating naturally occurring diseases and generating data unattainable from purely experimental animal models. This is particularly relevant for evaluating novel cancer treatment approaches. Electrochemotherapy (ECT) and gene electrotransfer represent 2 such approaches in both human and veterinary clinical oncology. Current evidence indicates that ECT achieves excellent local ablative control of treated tumors; however, its principal limitation is that ECT does not reliably control untreated or metastatic disease. One strategy to overcome this limitation is combining ECT with the systemic immunomodulatory action of IL-12 gene electrotransfer as both modalities rely on the same platform technology, electroporation. In veterinary medicine, this combined approach has been successfully applied across various tumor types in dogs, demonstrating excellent local antitumor control alongside indications of systemic effects. These have been clinically associated with prolonged survival, regression of distant untreated tumors and lymph node metastases, and reduced invasive tumor growth. Immunological studies are also consistent with systemic immune activation, with flow cytometry analysis of peripheral blood demonstrating transient increases in circulating CD8+ cells following each therapeutic session. Further studies are needed to find the suitable biomarkers for selecting the appropriate patients for the selected treatments.",
+      "categories": [
+        "oncology"
+      ]
+    },
     {
       "pmid": "42707635",
       "title": "An investigation of per- and polyfluoroalkyl concentrations in dogs and cats with endocrine disorders.",
@@ -574,16 +699,6 @@
       "categories": []
     },
     {
-      "pmid": "42674003",
-      "title": "Punica granatum peel ethanolic extract exhibits acaricidal activity against Rhipicephalus sanguineus: in vitro and in vivo study.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Abouelhassan EM, Farid DS, Ahmed EA, Mohamaden WI, Sallam NH, Abdel-Raheem SM, Mohammed ESI, Al-Jabr OA, Abdel-Ghani MA, Ameen FA, Hamada A, Abuzeid AMI",
-      "date": "2026 09 01",
-      "dateObject": "2026 09 01",
-      "abstract": "To evaluate natural, environmentally safe alternatives for controlling hard ticks in response to emerging resistance against commonly used acaricides. Punica granatum peel ethanolic extract (PPE) was prepared and then chemically characterized using liquid chromatography-electrospray ionization-tandem mass spectrometry. The adult immersion test was used to evaluate the in vitro anti-tick activity of PPE at the concentrations of 12.5, 25, 50, 100, and 200 mg/mL. The effect of PPE on tick counts and antioxidant activity in artificially infested dogs was assessed for 7 days after application. Chromatographic analysis detected 8 O-glycosylated flavonoids as well as catechin, apigenin, luteolin, and procyanidin. In vitro, immersing adult ticks in 35 mg/mL PPE for 5 min resulted in 50% mortality after 6 hours (LC50). In the in vivo trial, tick-infested dogs sprayed with PPE (35 mg/mL) had significantly lower tick counts than untreated infested controls on days 2, 4, and 7 after treatment, with the maximum count reduction on day 7 (4.67 &#xb1; 1.53 in treated dogs vs 81.7 &#xb1; 5.0 in controls). In vivo results showed that PPE treatment improved antioxidant activity in tick-infested dogs, increasing glutathione reductase, glutathione peroxidase, and catalase levels while decreasing malondialdehyde. In vivo results showed that PPE treatment improved antioxidant activity in tick-infested dogs, increasing glutathione reductase, glutathione peroxidase, and catalase levels while decreasing malondialdehyde. This study is the first to show the acaricidal activity of PPE against tick species. The results suggest the potential of this botanical byproduct as an alternative to chemical acaricides for tick control.",
-      "categories": []
-    },
-    {
       "pmid": "42677228",
       "title": "Factors affecting veterinary perception of the prevalence of back pain and dysfunction in dogs and horses.",
       "journal": "Frontiers in Veterinary Science",
@@ -927,31 +1042,6 @@
       "categories": []
     },
     {
-      "pmid": "42661763",
-      "title": "Case Report: Diet-associated iodine-deficiency goitrous hypothyroidism in a dog: a longitudinal clinical, endocrine, and ultrasonographic evaluation.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Lim S, Sohn SJ, Hong YJ",
-      "date": "2026 08 28",
-      "dateObject": "2026 08 28",
-      "abstract": "Iodine-deficiency hypothyroidism is well recognized in humans, but is considered rare in dogs, largely because commercial canine diets typically meet the established iodine requirements. Herein, we describe a dog that developed primary hypothyroidism with bilateral goiter attributable to dietary iodine deficiency. A 9-year-old spayed female Chihuahua fed a non-standardized home-prepared diet without vitamin and mineral supplementation presented with mild weight gain and bilaterally enlarged thyroid lobes, but without the classic clinical signs of hypothyroidism. Basal thyroid hormone testing revealed markedly decreased total and free thyroxine concentrations with pronounced elevation of thyroid-stimulating hormone levels, consistent with primary hypothyroidism. Ultrasonography revealed symmetric thyroid enlargement with preserved architecture and mild diffuse hypoechogenicity. Fine-needle aspiration excluded neoplasia, and the serum inorganic iodine concentration was severely decreased. The dog's diet was changed to a commercially prepared, iodine-supplemented formula without thyroid hormone replacement. Over the following 2&#x202f;months, serum thyroid hormone concentrations normalized, serum iodine concentrations returned to reference values, and ultrasonographic abnormalities improved markedly, with a substantial reduction in thyroid size and restoration of homogeneous echogenicity. This case highlights the potential for iodine-deficiency hypothyroidism to occur in dogs consuming unbalanced home-prepared diets and demonstrates the reversibility of functional abnormalities and marked ultrasonographic improvement following restoration of adequate dietary iodine intake.",
-      "categories": [
-        "internalMedicine",
-        "oncology"
-      ]
-    },
-    {
-      "pmid": "42661687",
-      "title": "SARS-CoV-2 infection in dogs, dog owners, dog breeders, and veterinarians in the Ashanti and Greater Accra regions of Ghana-zoonotic implications.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Amemor E, Folitse RD, Hoerauf A, Parcina M, Ritter M, Burimuah V, Yeboah BA, Emikpe BO",
-      "date": "2026 08 28",
-      "dateObject": "2026 08 28",
-      "abstract": "After the COVID-19 pandemic, there is an increasing concern over the causative agent, SARS-CoV-2 , mutating into a more virulent strain in animals and spilling over to humans, a potential threat of future pandemics. Anthropo-zoonotic transmissions of the virus can as well not be ruled out. The dynamics of spillover of SARS-CoV-2 , particularly from humans to animals and has not been fully studied. Livestock and pet owners, as well as animal health workers, have been documented to be at greater risk of COVID-19 infection. To effectively control and prevent the COVID-19 disease, the virus needs to be adequately studied in humans, animals and the environment. There is limited information on COVID-19 infections in animals in Ghana. A cross-sectional study was carried out to ascertain the COVID-19 infection status in dogs, their owners, dog breeders, and veterinarians in Ghana, specifically in the Ashanti and Greater Accra regions. Blood samples and nasopharyngeal swabs were taken from dogs for serological and molecular analysis. Questionnaires on COVID-19 risk factors were administered. SARS-CoV-2 antibodies in sera and viral RNA in swabs were detected using ELISA and RT- PCR, respectively. It was observed that 2.3% (CI = 1%-5.3%) of the dogs tested positive on RT-PCR for SARS-CoV-2 ; 5.1% (CI = 2.4%-10.7%) of humans tested positive on PCR for SARS-CoV-2 . A seroprevalence of 6.5% (CI = 3.9%-0.6%) of SARS-CoV-2 was detected in dogs, and 99.1% (CI = 95.3%-99.8%) seropositivity was detected in humans. Close proximity to livestock was statistically associated with active SARS-CoV-2 infection in dogs ( p = 0.004). In humans, a statistically significant association was found between infrequent mask use in public and a positive SARS-CoV-2 infection ( p = 0.009). This study provides evidence of natural SARS-CoV-2 infection in dogs in Ghana, among the first such indications in the sub-Saharan African region. Close proximity to livestock was associated with infection in dogs and inconsistent mask use with infection in humans, though the cross-sectional design precludes determination of transmission direction, and these associations should be regarded as hypothesis-generating. Longitudinal studies with larger samples and viral sequencing will clarify SARS-CoV-2 transmission dynamics among humans, animals, and environment.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
       "pmid": "42663853",
       "title": "Interventional tracheoscopy for management of intratracheal plasmacytoma in a dog.",
       "journal": "Veterinary Research Communications",
@@ -1055,30 +1145,6 @@
       ]
     },
     {
-      "pmid": "42660198",
-      "title": "Urinary angiotensinogen indexed to creatinine or protein is higher in cats with surgically induced chronic kidney disease compared to healthy cats.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Huang JHC, Louren&#xe7;o BN, Schmiedt CW",
-      "date": "2026 08 27",
-      "dateObject": "2026 08 27",
-      "abstract": "To compare urinary angiotensinogen, a proposed biomarker for intrarenal renin-angiotensinogen system (RAS) activity, between cats with surgically induced chronic kidney disease (CKD) and healthy cats and explore its correlation with select clinical and circulating renin-angiotensin-aldosterone system (RAAS) markers. Urine was banked from September 2022 through April 2023 during a study comparing circulating RAAS markers between cats with induced CKD and sex- and life stage-matched healthy cats. Urinary angiotensinogen concentration was measured from October 2025 through July 2026 using a validated in-house ELISA. Urinary concentration of angiotensinogen was indexed to that of creatinine or protein to account for urine concentration or indiscriminate urinary protein loss, respectively. 28 cats (n = 14/group) were included. The median (IQR) indexed urinary angiotensinogen was higher in cats with CKD than in healthy cats (urinary angiotensinogen-to-protein ratio, 9.80 [5.47, 17.22] vs 3.38 [1.09, 5.52]; urinary angiotensinogen-to-creatinine ratio, 0.99 [0.40, 2.34] vs 0.31 [0.21, 0.60]). In cats with CKD, indexed urinary angiotensinogen correlated positively with serum creatinine concentration (urinary angiotensinogen-to-protein ratio, &#x3c1; = 0.573; urine angiotensinogen-to-creatinine ratio, &#x3c1; = 0.642). In healthy cats, urinary angiotensinogen-to-creatinine ratio correlated negatively with several circulating RAAS markers, including serum angiotensin II (&#x3c1; = -0.547) and angiotensin 1-7 (&#x3c1; = -0.631) equilibrium concentrations. The intrarenal RAS, assessed by urinary angiotensinogen, is activated in cats with induced CKD, and its activity is inversely related to that of the circulating RAAS in healthy cats but not those with CKD. Concurrent evaluation of circulating RAAS and intrarenal RAS markers is required for complete assessment of this system.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42660193",
-      "title": "Clinical presentation, diagnosis, and treatment of caudal mediastinal paraesophageal abscesses in dogs: a multi-institutional retrospective study.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Biehl K, Williams RW, Orr E, Thieman Mankin K, Piegols H, Blew J, Holt DE, Solari FP, Vilaplana Grosso FR",
-      "date": "2026 08 27",
-      "dateObject": "2026 08 27",
-      "abstract": "To describe the clinical presentation, diagnostic findings, management, and short- and long-term outcomes of dogs with caudal mediastinal paraesophageal abscesses (CMPA) in a multi-institutional retrospective cohort. 12 client-owned dogs with CMPA confirmed on CT and/or surgery. The most common presenting complaints were inappetence and lethargy. Tachypnea and dyspnea were frequent physical examination findings at presentation. All 12 dogs underwent CT. The CMPA was located within the mediastinal serous cavity in 7 of 12 dogs. Communication between the CMPA and the lumen of the esophagus was noted in 3 dogs, all of which had associated esophageal foreign bodies. Ten dogs underwent surgical treatment, which involved drainage (n = 8) and debridement (7) of the abscess, combined with antimicrobial therapy. All dogs who survived surgery were discharged from the hospital. No recurrence was identified in dogs with available long-term follow-up. In dogs, CMPA is associated with nonspecific clinical signs, and CT is the imaging modality of choice for diagnosis. Treatment, including surgical drainage, debridement, and appropriate antimicrobial therapy, is associated with a favorable prognosis.",
-      "categories": [
-        "surgery"
-      ]
-    },
-    {
       "pmid": "42656136",
       "title": "Clinical Case and Follow-Up of Babesia banethi Infection in a Red Fox.",
       "journal": "Veterinary Medicine and Science",
@@ -1088,20 +1154,6 @@
       "abstract": "Red foxes play an important role in the circulation of ticks and tick-borne pathogens, including Babesia spp. While for Babesia vulpes many studies are available on its epidemiology in fox populations as well as pathogenicity in dogs, no data are reported for the recently described Babesia banethi infecting red foxes. Here we describe the clinical and parasitological follow-up of a naturally occurring B. banethi infection in a red fox from southern Italy. An adult male fox presented with severe debilitation, weight loss, pale mucous membranes, brown discolouration of urine and sarcoptic mange. Haematological examination revealed regenerative anaemia associated with left-shift neutrophilia and lymphocytosis. Blood smear examination showed intraerythrocytic inclusions morphologically consistent with small piroplasmids, and PCR amplification and sequencing of the 18S rDNA gene confirmed infection with B. banethi. Screening for other vector-borne pathogens scored negative. Treatment with imidocarb dipropionate resulted in temporary clinical and haematological improvement but persistence of PCR positivity and later relapse of parasitaemia and clinical signs. Subsequently, treatment with atovaquone/proguanil combined with azithromycin led to marked clinical recovery and disappearance of parasites at blood smear examination, although PCR positivity persisted for several months. A second therapeutic course resulted in both cytological and molecular negativity. This longitudinal case report provides the first detailed account of the clinical course, therapeutic response and long-term parasitological follow-up of B. banethi infection in a red fox, suggesting that this piroplasm might cause clinically relevant and persistent infection, yet further validation of this hypothesis on a larger number of clinical cases is advocated. Not applicable.",
       "categories": [
         "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42337734",
-      "title": "Assessment of pharmacokinetic parameters, oral bioavailability, and physiological effects of amantadine in horses.",
-      "journal": "BMC Veterinary Research",
-      "authors": "Riley HL, Mama KR, Jacobs ME, McKemie DS, Kass PH, Knych HK",
-      "date": "2026 08 27",
-      "dateObject": "2026 08 27",
-      "abstract": "Without adequate pain management, central nervous system plasticity can result in acute or adaptive pain developing into chronic or maladaptive pain. This is difficult to manage and often unresponsive to traditional analgesics. An important mechanism associated with maladaptive pain is central sensitization which results in part from increased NMDA (N-methyl-D-aspartate) receptor activation. Amantadine is an NMDA receptor antagonist that has been used in combination with opioids and NSAIDs in humans and dogs for the treatment of conditions associated with central sensitization. The goal of the current study was to describe the pharmacokinetics and physiological effects of amantadine in horses as a first step in assessing the utility of this drug in horses. Eight horses received a single intravenous administration of 5&#xa0;mg/kg and oral administrations of 3, 5, and 10&#xa0;mg/kg of amantadine in a randomized 4-way balanced crossover design. Blood samples were collected before drug administration and at predetermined time intervals for up to 96&#xa0;h post-drug administration. Concentrations of amantadine were determined using liquid chromatography-tandem mass spectrometry and pharmacokinetic analysis was performed. Behavioral assessments (e.g., sedation, ataxia), locomotor activity, gastrointestinal borborygmi, and effects on heart rate were assessed. The C max and T max of amantadine were 208.7&#x2009;&#xb1;&#x2009;70.4, 347.9&#x2009;&#xb1;&#x2009;79.5, and 478.9&#x2009;&#xb1;&#x2009;165.6 ng/mL and 0.63 (0.16-0.75&#xa0;h; median and range) 0.63 (0.16-1.0&#xa0;h), and 1.0 (0.5-1.0&#xa0;h) for 3, 5, and 10&#xa0;mg/kg, respectively. The terminal half-life was 3.90&#x2009;&#xb1;&#x2009;1.24 following IV administration of 5&#xa0;mg/kg, and 3.87&#x2009;&#xb1;&#x2009;2.17, 4.21&#x2009;&#xb1;&#x2009;1.41, and 4.87&#x2009;&#xb1;&#x2009;2.05&#xa0;h following oral administration of 3, 5, and 10&#xa0;mg/kg, respectively. A 2-compartment population PK model best described concentration data. The absorption rate constant was 3.16 1/h and the oral bioavailability was 23.2%. Transient signs, including ataxia and hypometria were observed in 5/8 horses following IV administration. Amantadine administration to horses was well tolerated, supporting additional study. This study provides pharmacokinetic and limited safety data that can be used to guide pharmacodynamic studies to assess the therapeutic efficacy of this compound in horses.",
-      "categories": [
-        "cardiology",
-        "internalMedicine",
-        "neurology"
       ]
     },
     {
@@ -1706,31 +1758,6 @@
       ]
     },
     {
-      "pmid": "41985525",
-      "title": "Comparison of owner-reported recurrent clinical signs of thoracolumbar disk herniation following multiple chondroitinase ABC intradiskal injections or routine surgical management.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Poacher J, Tammaro WJ, Jeffery ND, Freeman PM",
-      "date": "2026 08 21",
-      "dateObject": "2026 08 21",
-      "abstract": "To summarize owner-reported recurrence of clinical signs consistent with thoracolumbar intervertebral disk herniation in dogs treated by intradiskal injection of chondroitinase ABC (ChABC) and to compare recurrence rate versus routine surgical management. This pragmatic retrospective, time-matched cohort comparison study included 2 groups of dogs that recovered independent locomotion (> 50 unsupported steps) following treatment between October 2022 and March 2025 for acute nonambulatory paraparesis or paraplegia, assumed or proven to be caused by intervertebral disk herniation, with (1) 1.25-U ChABC injections into 4 consecutive intervertebral disks targeted on the basis of neurologic examination or (2) routine decompressive surgery following cross-sectional imaging. Recurrent clinical signs were reported retrospectively to investigators. The study population consisted of 47 ChABC-treated dogs and 79 surgical cases with similar demographics. Fenestration number in the surgery group was variable (7 dogs had 0 fenestrations, 32 dogs had 1, 17 dogs had 2, 20 dogs had 3, and 3 dogs had an unknown number). Recurrence occurred in 24 of 79 surgical dogs (30%) compared to 6 of 47 ChABC-treated dogs (13%). Univariable Poisson regression demonstrated a significantly lower recurrence rate in the ChABC group (incidence rate ratio [IRR], 0.38; 95% CI, 0.17 to 0.87) and in older dogs (IRR, 0.81; 95% CI, 0.70 to 0.93). The optimized multivariable model included both these variables and suggested that ChABC injections were associated with an adjusted recurrence incidence rate reduction of approximately 70%. Multidisk injection of ChABC was associated with a reduced rate of owner-reported recurrence of clinical signs suggestive of intervertebral disk herniation compared to surgery. Intradiskal injection of ChABC may be an effective prophylactic against intervertebral disk herniation.",
-      "categories": [
-        "surgery",
-        "neurology"
-      ]
-    },
-    {
-      "pmid": "41962567",
-      "title": "Surgical technique for the management of acquired phimosis in 3 kittens.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Rousseau M, Ferrand FX",
-      "date": "2026 08 21",
-      "dateObject": "2026 08 21",
-      "abstract": "To describe a surgical technique applicable to all types of acquired phimosis in kittens. 3 kittens with phimosis. Medical records from a single hospital were reviewed to identify cats younger than 6 months old that had undergone extensive surgical treatment for phimosis. For each kitten, data regarding signalment, clinical signs, blood tests, history, treatments, surgical procedure, postoperative complications, and outcome were collected. Three kittens met the inclusion criteria. They all had a history of dysuria (n = 3), stranguria (3), and hematuria (3). All of them also had a history of preputial licking by littermates. On clinical examination, abdominal palpation revealed a distended bladder and an inability to extrude the penis through the prepuce (n = 3). The prepuce was distended with urine (n = 3). One cat had presented with a previous episode of hematuria, which resolved with NSAIDs. Two cats exhibited moderate azotemia, while the urea and creatinine values of the third were within normal limits. The surgical technique involved a wedge incision of the prepuce, extended circumferentially around the preputial opening, combined with extensive dissection of the penile-preputial adhesions. The 3 kittens underwent the extensive surgical technique without perioperative complications, and no recurrence was observed 6 months after the surgery. This technique of extensive preputioplasty may represent an effective option for the management of kittens with phimosis and penile preputial adhesions.",
-      "categories": [
-        "surgery"
-      ]
-    },
-    {
       "pmid": "42618917",
       "title": "Morphometric assessment of the femoral trochlea, patella and patellar ligament in small breed dogs with and without grade II medial patellar luxation.",
       "journal": "BMC Veterinary Research",
@@ -2272,19 +2299,6 @@
       ]
     },
     {
-      "pmid": "41992075",
-      "title": "Transcriptomic Profiling of Canine Mammary Tumours Reveals Significant Heterogeneity Between and Within Histological Classes.",
-      "journal": "Veterinary and Comparative Oncology",
-      "authors": "Moberg IM, Hansen N, Bergholtz H, Borge KS, Gunnes G, Arnet EF, Guttersrud OA, Solbakken MH, Lingaas F",
-      "date": "2026 08 10",
-      "dateObject": "2026 08 10",
-      "abstract": "This study presents a comprehensive transcriptomic analysis of 128 canine mammary tumours (CMTs), aiming to characterize their molecular landscape. Differential gene expression analysis (DGE), gene set enrichment analysis (GSEA) and clustering based on the human PAM50 gene panel were applied to explore molecular differences between the different histological categories. The analysis revealed transcriptomic differences between benign and malignant tumours as well as between tumours with high and low mitotic count. Malignant tumours were significantly enriched for gene sets associated with cell cycle regulation, proliferation, inflammatory response, signalling pathways and metabolic processes. Of the malignant tumours, purely epithelial tumours were enriched in gene sets related to proliferation, signalling and metabolic processes when compared to mixed tumours harbouring myoepithelial or mesenchymal components. To assess the relevance of human classification systems, CMTs were clustered on the PAM50 genes. The analysis revealed two clusters resembling human basal-like and luminal A subtypes, while the remaining tumours did not display expression patterns similar to human breast cancer subtypes. This suggests that there are limitations to applying the human molecular classification systems to canine tumours without adaptation. Additionally, CMTs displayed intragroup heterogeneity, where not all tumours within a histopathological category clustered together, indicating that the molecular aspect of CMTs is not necessarily reflected in the pathology. Together, this study highlights the need to develop canine-specific molecular markers based on gene expression, which could enable diagnosis prior to surgical removal of tumours, and ultimately improve treatment strategies and outcomes for dogs with mammary tumours.",
-      "categories": [
-        "oncology",
-        "surgery"
-      ]
-    },
-    {
       "pmid": "42563163",
       "title": "Longitudinal echocardiographic systolic changes in dogs receiving doxorubicin-based chemotherapy.",
       "journal": "BMC Veterinary Research",
@@ -2682,18 +2696,6 @@
       "date": "2026 07 22",
       "dateObject": "2026 07 22",
       "abstract": "Hookworm infections remain an important public health and veterinary concern in tropical and subtropical regions, particularly in communities with close human-animal interactions and limited sanitation. Dogs are recognized as reservoirs of zoonotic hookworms, yet species-level infection data in endemic areas remain lacking because the widely utilized microscopic examination of stool samples cannot differentiate morphologically indistinguishable hookworm eggs. Environmentally deposited canine fecal samples (n&#x2009;=&#x2009;72) were collected from five barangays in Gonzaga, Cagayan, Northern Philippines. Samples were examined using formalin-ether concentration technique (FECT) and endpoint PCR targeting the ITS regions, followed by Sanger sequencing for species identification. Hookworm ova were detected by coproscopy in 20 samples (27.8%), while the PCR assay yielded 24 positive samples (33.3%). Three hookworm species were identified using nBLAST alignment, with Ancylostoma ceylanicum as the predominant species, alongside single detections of A. caninum and N. americanus, the latter likely reflecting environmental contamination or coprophagic passage rather than true canine infection. There were no mixed-species infections identified. The predominance of the zoonotic hookworm A. ceylanicum in environmentally collected canine feces highlights the role of free-roaming dogs in zoonotic hookworm transmission in shared environments. Molecular species identification provided greater resolution than microscopy alone, underscoring the value of integrating PCR-based approaches with conventional coproscopy to strengthen zoonotic hookworm surveillance and better inform One Health interventions.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42474547",
-      "title": "High prevalence of Giardia spp. in cats without diarrhea and agreement between diagnostic techniques in the municipality of Londrina, Paran&#xe1;, Brazil.",
-      "journal": "Veterinary Research Communications",
-      "authors": "Aoki LRS, de Souza Rodrigues F, Aoki GCJS, Nino LM, Pyles MS, Dos Santos Pinto M, Sabioni MS, Camargo Neto JAB, Nakamura AA, Bresciani KDS, Felippelli G, Pinto MF",
-      "date": "2026 07 20",
-      "dateObject": "2026 07 20",
-      "abstract": "In this study, we conducted an epidemiological investigation and analyzed the agreement between the Faust technique and the immunochromatographic assay in the diagnosis of Giardia spp. in 272 cats in the municipality of Londrina, Paran&#xe1; state, Brazil. We identified an overall prevalence of 74.63% (203/272 [95% CI: 69.14-79.44%]) of Giardia spp. in cats, being significantly higher in adult and non-domiciled animals, which presented, respectively, 5.3 and 8.6 times more chances of infection when compared to kittens and domiciled animals. However, all the animals investigated that tested positive did not present with diarrhea. Regarding diagnostic methods, using coproparasitological examination, Giardia spp. cysts were observed in the feces of 193 cats, and through the immunochromatographic assay, coproantigens of this protozoan were detected in 203 samples, demonstrating almost perfect agreement (Kappa Cohen: 0.907). Thus, according to the authors' knowledge, this is the highest prevalence of Giardia spp. ever identified in cats in Brazil, and with regard to diagnostic methods, we observed a high concordance between the coproparasitological examination and the immunochromatographic assay in the detection of the aforementioned protozoan.",
       "categories": [
         "internalMedicine"
       ]

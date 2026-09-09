@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T23:26:09.275Z",
+  "updated_at": "2026-09-09T23:19:08.826Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -4887,6 +4887,86 @@
       "title": "An investigation of per- and polyfluoroalkyl concentrations in dogs and cats with endocrine disorders.",
       "journal": "Frontiers in Veterinary Science",
       "generated_at": "2026-09-08T23:25:28.641Z",
+      "model": "gpt-5-mini"
+    },
+    "42710534": {
+      "brief_summary": "후향적 연구로 수술로 제거되고 조직학적으로 확진된 거대형 간세포암종(hepatocellular carcinoma, HCC)을 가진 반려견 20마리의 수술 전 컴퓨터단층관류(CT perfusion, CTP)를 분석하여 관류특성을 규명하고자 했다. 종양은 비종양 간에 비해 문맥정맥 관류(portal venous flow, PVF)가 현저히 낮았고(23.40 vs 127.15 mL/min/100 mL; P < .001) 간 관류지수(hepatic perfusion index, HPI)는 높았으며(65.81% vs 29.66%; P < .001) 간동맥 유량(hepatic arterial flow, HAF)은 유의한 차이가 없었다(52.98 vs 50.29 mL/min/100 mL; P = .154). CTP는 주로 감소된 문맥 관류에 의해 유발된 상대적 동맥 우세를 정량적으로 보여주지만, 형태학적 영상·수술 소견 등 기존 진단·예후 평가를 대체해서는 안 된다.",
+      "detailed_summary": "본 연구는 수술적으로 절제되고 조직학적으로 확인된 거대형 간세포암종(HCC)을 가진 클라이언트 소유 반려견 20마리를 대상으로 한 후향적 연구이다. 컴퓨터단층관류(CT perfusion, CTP)는 이중 공급(dual-input) 최대기울기(maximum-slope) 방법으로 간동맥 유량(HAF), 문맥정맥 유량(PVF), 간 관류지수(HPI)를 계산하였고, 종양 내서는 혈관과 괴사·낭종 부위를 제외한 가능한 큰 자유형 영역(region of interest)을 사용했다. 종양은 비종양 간에 비해 PVF가 유의하게 낮았고(23.40 vs 127.15 mL/min/100 mL; P < .001), HPI는 유의하게 높았으며(65.81% vs 29.66%; P < .001) HAF는 유의한 차이를 보이지 않았다(52.98 vs 50.29 mL/min/100 mL; P = .154). 조직학적 분화도 그룹 간 비교에서는 HAF가 전반적으로 차이를 보였고(global P = .011; well > moderate; adj. P = .042), PVF도 차이를 보였으나(global P = .025; poor < well; adj. P = .031) HPI는 차이를 보이지 않았다(global P = .664). 저자들은 CTP에서 관찰된 상대적 동맥 우세가 주로 감소된 PVF에 의해 주도된다고 결론지었다. 그러나 해석에는 주의가 필요하며, 특히 poorly differentiated군이 3건에 불과한 점 등 표본과 후향적 설계의 한계가 지적된다. 연구진은 CTP가 동맥 및 문맥 관류의 정량적 정보를 제공할 수는 있으나 형태학적 영상·수술 평가 또는 다른 확립된 진단·예후 방법을 대체할 수 없고 조직학적 유형·분화도나 전이·절제 가능성·예후를 예측할 수 없다고 명확히 밝혔다.",
+      "title": "Computed tomography perfusion indicates reduced portal venous perfusion and relative arterial dominance in canine hepatocellular carcinoma.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-09-09T23:18:43.914Z",
+      "model": "gpt-5-mini"
+    },
+    "42710535": {
+      "brief_summary": "후향적 연구로 2023년 10월부터 2025년 5월까지 14마리의 내원 개에서 채취한 97개의 혈청 샘플을 대상으로 배양기반 생물학적 검사(bioassay)와 액체크로마토그래피-질량분석(LC-MS)을 이용한 itraconazole 치료약물농도 모니터링(TDM)을 비교했다. Itraconazole 투약량은 혈중 농도와 유의한 연관성을 보이지 않았고, bioassay와 LC-MS는 일치하지 않아 교체 가능하지 않았다. 임상적으로는 장기 itraconazole 치료 중 TDM이 필요하며, 치료 전체 기간 동안 한 가지 검사법(bioassay 또는 LC-MS)을 일관되게 사용하는 것이 권고된다.",
+      "detailed_summary": "본 연구는 후향적 분석으로 blastomycosis를 가진 14마리의 내원 개에서 97개의 혈청 샘플을 수집(2023.10–2025.05)하여 배양 기반 bioassay와 LC-MS로 측정한 세 변수(itraconazole 단독[ITZ], hydroxyitraconazole 대사물, ITZ와 hydroxyitraconazole의 합)를 비교했다. 선형 혼합모형을 이용해 투약량과 혈중 농도 간의 관계 및 bioassay와 LC-MS 변수 간의 관계를 평가했다. 투약량과 혈중 itraconazole 농도 사이에는 유의한 연관성이 없었다. bioassay와 LC-MS 간에는 통계적으로 유의한 관계(P < .01)가 있었으나, 상관 정도는 ITZ에서 r2 = 0.40(약함), hydroxyitraconazole 및 합계에서는 r2 = 0.48(중간 정도)에 그쳤다. 임상적 용량 조정 판단에서는 97개 샘플 중 62개(64%)는 일치했으나 35개(36%)는 불일치했다. 결론적으로 itraconazole 용량만으로 혈중 농도를 예측할 수 없어 TDM이 필요하며, bioassay와 LC-MS는 상호 교체 불가하므로 치료 기간 전체에 걸쳐 한 가지 검사법을 일관되게 사용하는 것이 권장된다.",
+      "title": "Bioassay and liquid chromatography-mass spectrometry are not equivalent in itraconazole therapeutic drug monitoring in dogs.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-09-09T23:18:24.235Z",
+      "model": "gpt-5-mini"
+    },
+    "42710537": {
+      "brief_summary": "이 연구는 2023년 7–12월 터키 4개 주의 개인 동물병원·동물병원에서 보호 또는 입원 서비스를 받은 100마리의 개에서 비강 내 Cryptococcus 관련 및 기타 기회성 효모의 보균을 조사하고 분자적으로 동정하기 위해 수행되었다. 총 59마리에서 79균주(31종)가 분리되었고 Cryptococcus neoformans/gattii(C. neoformans/gattii) 복합체는 검출되지 않았으며 Naganishia albida(N. albida)는 대상의 12%에서, Papiliotrema laurentii(P. laurentii)는 1%에서 검출되었다. 결과는 개의 비강에 다양한 기회성 효모가 존재할 수 있음을 보여주며, 곰팡이 배양 결과 해석을 위한 기초 역학자료로 임상적 의미가 있다.",
+      "detailed_summary": "연구진은 2023년 7월–12월 터키 4개 주의 개인 동물병원·동물병원에서 보호 또는 입원 서비스를 받은 100마리의 개로부터 비강 면봉을 채취하여 Cryptococcus 관련 및 기타 기회성 효모의 보균을 조사했다. 분리균 동정에는 표현형 방법, internal transcribed spacer 2(ITS2) 염기서열 분석 및 matrix-assisted laser desorption ionization–time-of-flight mass spectrometry(MALDI-TOF MS)를 사용했다. 전체적으로 59마리에서 79균주에 해당하는 31종의 효모가 확인되었고 C. neoformans/gattii 종 복합체는 한 마리에서도 검출되지 않았다. N. albida는 대상 개의 12%에서 검출되었고 P. laurentii는 1%에서 검출되었으며, N. albida 보균은 임상적으로 건강한 개와 호흡기·피부·전신 소견을 보이는 개 모두에서 관찰되었다. 다만 N. albida 보균과 연구에서 평가한 역학 변수들 간에는 유의한 연관성이 확인되지 않았다. 초록에는 별도의 연구 제한점이 구체적으로 제시되어 있지 않으며, 저자들은 본 결과가 반려동물의 비강 내 기회성 효모 보균을 해석하는 기초 역학 자료로서 기여한다고 결론지었다.",
+      "title": "Cryptococcus-targeted culture in dogs reveals nasal carriage of Naganishia albida and diverse opportunistic yeasts with potential clinical relevance.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-09-09T23:18:10.718Z",
+      "model": "gpt-5-mini"
+    },
+    "42710541": {
+      "brief_summary": "본 논문은 전기천공 기반의 전기화학요법(Electrochemotherapy, ECT)과 인터루킨-12(IL-12) 유전자 전기전달(gene electrotransfer, GET)을 결합해 국소 종양 소작을 전신 항종양 반응으로 전환할 수 있는지 보고한 임상수의학적 고찰이다. 개의 다양한 종양에서 결합 요법은 우수한 국소 종양 제어와 함께 원격 미처치 종양 및 림프절 전이의 관해, 생존 연장 등 전신적 효과를 시사했다. 말초혈액 유세포분석에서 각 치료 후 CD8+ 세포의 일시적 증가가 관찰되어 전신 면역 활성화와 일치했다. 다만 적절한 환자 선별을 위한 바이오마커 탐색 등 추가 연구가 필요하다.",
+      "detailed_summary": "본 고찰은 전기천공(electroporation)을 기반으로 하는 ECT와 IL-12 유전자 전기전달(GET)을 병용 적용한 임상 사례들을 바탕으로 작성되었다. 대상은 다양한 종양 유형의 개 환자들이며, 목적은 ECT의 강한 국소 소작 효과를 전신 항종양 반응으로 확장할 수 있는지 평가하는 것이다. 보고된 바에 따르면 병용 요법은 치료 부위에서의 우수한 국소 종양 제어를 제공했고, 임상적으로는 전체 생존 연장의 경향, 원격 미처치 종양 및 림프절 전이의 관해, 침윤성 종양 성장의 감소 등이 관찰되어 전신적 효과를 시사했다. 면역학적 평가에서는 각 치료 세션 후 말초혈액에서 CD8+ 세포가 일시적으로 증가하는 양상이 유세포분석(flow cytometry)으로 확인되어 전신 면역 활성화와 일치했다. 이 결과들은 ECT 단독의 한계(미처치 또는 전이성 질환의 제어 불확실성)를 IL-12 GET 병용으로 보완할 수 있는 가능성을 제시한다. 그러나 현재 증거는 주로 임상 사례와 관찰 소견에 근거하므로, 적절한 환자 선별을 위한 바이오마커 규명과 효과의 재현성을 검증하기 위한 추가적 연구가 필요하다고 결론지었다.",
+      "title": "Electrochemotherapy with interleukin-12 gene electrotransfer can turn local tumor ablation into a systemic antitumor response in veterinary patients.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-09-09T23:19:08.816Z",
+      "model": "gpt-5-mini"
+    },
+    "42710546": {
+      "brief_summary": "본 초록은 개에서의 면역 관문 억제제(ICI) 적용 가능성을 다루며, 특히 PD-1(PD-1) 축을 표적으로 하는 길벳맙(gilvetmab, caninized anti–PD-1 단클론항체)이 멜라노마 및 비만세포종(mast cell tumor)에 대해 미국에서 조건부 허가를 받은 사실과, 표적 결합(target engagement), 허용 가능한 내약성, 일부 개에서의 항종양 효과를 보였음을 보고한다. 보고된 이상반응은 대체로 관리 가능하나 면역매개 독성의 특성화가 추가로 필요하다. 임상적으로는 의사결정에서 반응평가 방식(예: 유사진행[pseudoprogression] 가능성)을 신중히 선택해야 하며, 환자 선발, 바이오마커 개발, 병용 요법 전략 및 다양한 조직형에서의 효능 규명이 향후 과제임을 강조한다.",
+      "detailed_summary": "초록은 개에서의 PD-1/PD-L1(PD-L1) 신호전달이 보존되어 있고, 여러 caninized 항-PD-1 및 항-PD-L1 항체들이 자발 발생 종양(spontaneous canine cancers)에 대해 임상적 데이터와 안전성 데이터를 제공했음을 요약한다. 연구 대상은 주로 멜라노마와 비만세포종을 포함한 자연 발생 개 종양 환자들이며, 주요 평가 항목은 표적 결합 여부, 내약성(안전성), 항종양 활성성(임상효과)이다. 길벳맙은 미국에서 해당 적응증으로 조건부 허가를 받았고, 약물에서는 표적 결합과 허용 가능한 내약성이 확인되었으며 일부 치료 개에서 임상적 효과가 보고되었다. 보고된 이상반응은 전반적으로 관리 가능한 수준이나 면역매개 독성의 범위와 특성은 추가 연구로 더 잘 규명되어야 한다고 명시한다. 또한 항암 화학요법과는 다른 반응 양상(예: 유사진행 가능성)이 관찰될 수 있어 반응평가 방법 선택이 중요하다. 초록은 환자 선발 최적화, 바이오마커 개발, 병용요법 전략 수립, 다양한 종양 조직형(histotype)에서의 효능 규명 등 주요 과제가 남아 있음을 결론으로 제시한다. 제한점으로는 특정 수치나 표본수는 제시되지 않았고, 효과가 일부 환자에서 관찰되었다는 점에서 일반화에 주의가 필요하다고 덧붙인다.",
+      "title": "Gilvetmab advances immune checkpoint inhibitor immunotherapy for canine cancer.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-09-09T23:18:55.629Z",
+      "model": "gpt-5-mini"
+    },
+    "42711694": {
+      "brief_summary": "본 연구는 2023년 1–12월 상·하 이집트의 물소 288두와 하 이집트의 돼지 260두를 대상으로 Modified Agglutination Test(MAT)로 Toxoplasma gondii 항체의 혈청유병률을 조사한 혈청역학 연구이다. 물소의 전체 혈청유병률은 42.01%(121/288; 95%CI:36.31–47.71), 돼지는 68.46%(178/260; 95%CI:62.81–74.11)로 돼지에서 유병률이 더 높았고, 물소에서는 하 이집트 출신이 상 이집트 출신보다 유의하게 높은 오즈비(3.69배)를 보였다. 결과는 축사 위생·생물안전 강화, 고양이 접근 제한, 정기적 군집 스크리닝 및 농가 교육 등 임상 및 공중보건 차원의 관리 강화를 시사한다.",
+      "detailed_summary": "본 연구는 2023년 한 해(1–12월) 동안 총 548두(물소 288두, 돼지 260두)를 상·하 이집트에서 채혈하여 수행한 혈청역학 조사이다. 항체 검사는 Modified Agglutination Test(MAT)를 사용하였고, 성별·연령·계절·지리적 기원 등 개체 관련 요인이 노출과의 연관성에 미치는 영향을 평가하였다. 물소의 전체 혈청유병률은 42.01%(121/288; 95%CI:36.31–47.71)였으며, Generalized Estimating Equation(GEE) 모형 분석에서 지리적 위치가 유의한 위험요인으로 확인되어 하 이집트 출신 물소의 T. gondii 양성 오즈비가 상 이집트 출신보다 3.69배 높았다. 돼지의 전체 유병률은 68.46%(178/260; 95%CI:62.81–74.11)로 물소보다 유의하게 높았으나, 돼지에서는 평가한 역학 변수들과의 유의한 연관성은 관찰되지 않았다. 연구는 또한 상·하 이집트의 물소 및 돼지 대상 이전 혈청조사들을 체계적으로 검토·정리하여 결과를 표로 제시하였다. 저자들은 본 결과를 바탕으로 축사 생물안전·위생 강화, 고양이 접근 제한, 정기적 군집 스크리닝 및 농가 교육 등 통제 전략과 함께 One Health 차원의 추가 현장 연구 및 감시가 필요하다고 결론지었다.",
+      "title": "Sero-epidemiological survey of Toxoplasma gondii in water buffalo (Bubalus bubalis) and domestic pig (Sus scrofa domesticus) across upper and lower Egypt.",
+      "journal": "BMC Veterinary Research",
+      "generated_at": "2026-09-09T23:17:21.982Z",
+      "model": "gpt-5-mini"
+    },
+    "42712380": {
+      "brief_summary": "단일 증례보고로 15세 수컷 혼합견에서 30분~수시간 지속되는 반복적 전정 발작(보행실조, 머리기울임, 안진)이 관찰되었다. MRI 및 진단 검사를 통해 구조적 원인과 외이·중이 질환은 배제되었고, 청력 검사(audiometry)에서 양측 감각신경성 난청(sensorineural hearing loss, SNHL)이 확인되었으며 오른쪽에서는 고주파 청력이 보존되는 패턴을 보였다. 지지적 치료로 호전되었으나 18세까지 재발이 반복되어 개에서의 메니에르병(Meniere's disease) 유사 증후군 가능성과 원인미상 전정질환에서 청력 평가의 필요성을 시사한다.",
+      "detailed_summary": "이 논문은 증례보고로 15세 수컷 혼합견의 반복적 전정 발작을 기술한다. 발작은 30분에서 수시간 지속되었고 임상 소견으로 보행실조, 머리기울임, 안진이 관찰되었다. MRI 및 기타 진단 검사로 흔한 구조적 전정 원인과 귀 질환이 배제되었다. 청력 검사(audiometry)에서는 양측 감각신경성 난청(SNHL)이 확인되었고 특히 오른쪽에서는 고주파수 청력이 보존되어 인간 메니에르병에서 보고되는 패턴과 유사하였다. 환자는 지지적 치료로 임상적으로 호전되었으나 이후 18세까지 여러 차례 재발이 발생하였다. 저자들은 이 증례가 개에서의 메니에르병 유사 증후군 가능성을 제시하며, 원인미상의 전정질환에서는 청력 기능 평가를 고려해야 함을 강조하였으나 단일 증례라는 점에서 일반화에는 제한이 있다고 명시한다.",
+      "title": "Case Report: Recurrent vestibular episodes in a dog resembling Meniere's disease.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-09-09T23:17:04.593Z",
+      "model": "gpt-5-mini"
+    },
+    "42713429": {
+      "brief_summary": "본 논문은 인간과 반려견·반려묘의 비반흉성 탈모(alopecia)를 비교 검토한 서론적 리뷰로, 병태생리·임상 양상·약물치료 및 제형 차이를 분석했다. 인간에서는 국소 미녹시딜(minoxidil), 경구 피나스테리드(finasteride), 일부 JAK 억제제(Janus kinase inhibitors)가 승인되거나 사용되며 PRP, 저강도 레이저(LLLT), 재생의학 및 나노기술 기반 전달체 등 신기술이 보완적으로 논의된다. 반면 수의학적 관리는 주로 기저질환의 규명과 교정에 의존하고 종 특이적 근거와 전용 제형이 부족하므로 인간 치료를 직접 적용하기 어렵다는 임상적 시사점을 제시한다.",
+      "detailed_summary": "이 논문은 인간·개·고양이의 비반흉성 탈모에 대해 병태생리, 임상 소견, 약리학적 치료 및 제형 전략을 비교한 서평이다. 인간 치료로는 미국 FDA 승인 치료제인 국소 미녹시딜, 경구 피나스테리드와 일부 JAK 억제제가 중심이며, 혈소판풍부혈장(PRP), 저강도 레이저치료(LLLT), 재생의학, 나노기술 기반 약물 전달 등 신흥 접근법이 보완적으로 검토되었다. 반려동물의 경우 내분비·유전·감염·알레르기·기생충·행동성 원인 등 기저 질환 규명 및 교정이 치료의 핵심이며, 종별 근거와 전용 제형은 제한적이라고 보고했다. 모낭 구조, 모주기(모발 주기) 속도, 피부 투과성, 약물 대사, 피모 특성 및 그루밍 행동의 차이로 인해 인간 데이터를 개·고양이에 직접 전용할 수 없음을 강조한다. 피부사상균증(dermatophytosis, 백선)은 사람-동물-환경을 동시에 고려하는 One Health 관점의 치료·환경 소독 필요성을 잘 보여준다. 결론적으로 저자들은 효과적이고 실용적인 치료법 개발을 위해 종별 임상시험, 안전성 평가 및 제형 전략 연구가 필요하다고 제언하며, 현재 증거의 제한성이 직접적 적용을 제한하는 중요한 한계임을 명시한다.",
+      "title": "Alopecia management from a comparative perspective: pharmacological and pharmaceutical insights in humans, dogs, and cats.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-09-09T23:16:48.823Z",
+      "model": "gpt-5-mini"
+    },
+    "42713725": {
+      "brief_summary": "본 연구는 국소 재발이 흔한 개 연부조직육종(soft tissue sarcoma, STS)의 면역 미세환경을 규명하고 재발까지의 시간(time to recurrence, TTR)과 연관된 인자를 확인하기 위해 27마리의 수술 후 재발 증례를 후향적으로 검토하고, 조직 이용 가능 증례 20마리에서 조직병리·전사체·면역학적 분석을 수행했다. 중앙값 TTR은 358일이었으며, 높은 NOD2 발현과 ‘Cluster 1’에 속하는 종양 프로파일이 짧은 TTR과 연관되었다. Cluster 1은 림프구 침윤이 풍부하고 면역억제 경로가 풍부한 반면 Cluster 2는 면역침윤이 낮고 전염증성 신호가 우세했다. 조절 T세포(FoxP3+)와 3차 림프구조(tertiary lymphoid structures, TLS)가 재발 관련 면역 양상에 기여할 수 있어 치료 표적으로 추가 연구가 필요하다.",
+      "detailed_summary": "연구는 수술 후 재발한 개 STS 27건의 의무기록을 검토하고, 조직이 확보된 20건에서 NanoString canine IO 패널을 이용한 면역 관련 유전자 발현, CD3·CD20·FoxP3 면역조직화학을 통한 종양 침윤 면역세포 및 TLS 평가를 수행했다. 주요 평가 변수는 재발까지의 시간(TTR)이며 중앙값 TTR은 358일이었다. 전체 코호트의 단변량 분석에서는 연령과 종양 위치가 TTR과 연관되었으나 두 인자를 함께 분석하면 위치 효과는 유의하지 않았다(모델 의존적 결과). 탐색적 다변량 모델에서 높은 NOD2 발현과 Cluster 1 배정은 짧은 TTR과 유의하게 연관되었다. Cluster 1은 풍부한 림프구 침윤과 면역억제 경로의 풍부화를 보였고, Cluster 2는 낮은 면역 침윤과 전염증성 서명을 보였다. TLS 양성 종양은 더 많은 림프구 침윤을 보였고 TLS 내에 FoxP3+ 세포가 축적되어 있었으며, 재발 병변은 원발 병변보다 큰 TLS를 더 많이 포함하고 있었다. 결과는 연관성을 제시할 뿐 인과성을 증명하지 않으며, 조직 이용 가능 표본(20건) 중심의 탐색적 분석이라는 점을 감안해 추가 연구가 필요하다고 결론지었다.",
+      "title": "Assessment of Clinical and Immunological Factors of Local Recurrence in Canine Soft Tissue Sarcoma.",
+      "journal": "Veterinary and Comparative Oncology",
+      "generated_at": "2026-09-09T23:17:51.249Z",
+      "model": "gpt-5-mini"
+    },
+    "42714672": {
+      "brief_summary": "본 증례보고는 발작과 전뇌 증상을 보인 9세 수컷 시추에서 CT상 rostrotentorial meningioma로 진단되어 전두(cranial) 개두술(frontal craniotomy)을 시행한 마취·수술 관리에 관한 것이다. 총정맥마취(TIVA)로 propofol 목표조절주입(target-controlled infusion, TCI)을 사용하고 bupivacaine로 양측 전두 및 변형 악측두(zygomaticotemporal) 스칼프 블록을 병용했으며, 주요 통각 자극 시 심혈관계가 안정적으로 유지되어 추가 진통제나 마취농도 조정이 필요하지 않았다. 수술 중 두개성형(cranioplasty)에서 출혈로 인한 혈역학적 불안정이 발생했으나 수혈로 호전되었고, 회복은 양호하며 신경학적 호전이 관찰되었다. 단일 증례이므로 일반화할 수 없으며 기술과 진통 효과를 검증하기 위한 추가 연구가 필요하다.",
+      "detailed_summary": "연구는 단일 기술적 증례보고로, 발작과 전뇌 증상을 보인 9세 수컷 시추에서 CT로 rostrotentorial 부위의 intracranial mass가 meningioma와 일치하여 전두 개두술(frontal craniotomy)을 시행한 사례를 다룬다. 마취 방법은 총정맥마취(TIVA)로 propofol 목표조절주입(TCI)을 사용했으며, 국소 마취로는 bupivacaine를 이용한 양측 전두 및 변형된 악측두(zygomaticotemporal) 스칼프 블록을 병용했다. 변형된 술기는 협골궁(zygomatic arch)을 따라 미주(후방)로 침을 삽입한 뒤 안와인대(orbital ligament)를 향해 배측내측으로 방향을 전환하고 약물을 분할 주입하는 방식이었다. 연구자는 피부 절개, 근육 박리, 개두술(craniotomy), 경막 절개(durotomy)의 네 가지 주요 통각 유발 사건 동안 심혈관계 변수가 안정적으로 유지되었고, 안정화된 유도 후 기준값 대비 약 20%를 넘는 임상적 유의한 상승이 관찰되지 않아 수술 중 구급성 진통제나 목표 propofol 농도 조정이 필요하지 않았음을 보고했다. 수술 후반부인 두개성형술 동안에는 출혈에 따른 혈역학적 불안정이 발생하였고, 수혈 치료로 호전되었다. 회복은 만족스러웠고 즉각적인 합병증은 없었으며 신경학적 상태도 개선되었다. 저자들은 TIVA와 변형 스칼프 블록의 병용이 개의 전두 개두술에서 통각 통제와 심혈관 안정성에 기여할 수 있는 실현 가능한 신경마취 전략일 수 있다고 결론지었으나, 이는 단일 증례에 근거하므로 기술의 유효성과 분석을 위해 추가 연구가 필요하다고 명시했다.",
+      "title": "Modified scalp block and total intravenous anesthesia for frontal craniotomy in a dog with a meningioma: a technical case report.",
+      "journal": "Veterinary Research Communications",
+      "generated_at": "2026-09-09T23:17:38.695Z",
       "model": "gpt-5-mini"
     }
   }
