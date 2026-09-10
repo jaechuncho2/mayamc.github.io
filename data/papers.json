@@ -1,6 +1,105 @@
 {
-  "updated_at": "2026-09-09T23:16:35.946Z",
+  "updated_at": "2026-09-10T23:11:58.219Z",
   "papers": [
+    {
+      "pmid": "42718794",
+      "title": "Image based three-dimensional kinematic mapping to optimize femoral tunnel placement for intra-articular cranial cruciate ligament reconstruction in dogs.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Robine-Decourcelle C, Rohan PY, Muth-Seng C, Persohn S, Manassero M, Viateau V",
+      "date": "2026 09 10",
+      "dateObject": "2026 09 10",
+      "abstract": "The development of synthetic ligaments (SLs) has sparked renewed interest in intra-articular cranial cruciate ligament (CrCL) reconstruction. In this procedure, minimizing changes in graft length through optimal tunnel placement is essential for long-term function. However, three-dimensional (3D) assessment of isometry across the femoral attachment area in dogs remains limited, which prevents evidence-based optimization of tunnel positioning. Thus, the aim of this study was to perform strain-constrained, animal-specific mapping of the femoral region for intra-articular CrCL reconstruction in dogs and to identify drill-compatible sites for SL fixation that minimize strain during joint flexion-extension. Six pelvic limbs from large-breed dogs (mean body weight 27.7&#x202f;&#xb1;&#x202f;9.7&#x202f;kg) underwent three-dimensional (3D) segmentation of bones and CrCL footprints using computed tomography (CT). Femorotibial kinematics during passive flexion-extension were computed using biplanar radiography and optical tracking. The ligament trajectories were modeled as straight segments connecting candidate mesh femoral nodes on the medial aspect of the lateral condyle to tibial nodes included within a 5&#x202f;mm diameter circle centered on the centroid of the native CrCL footprint. Changes in trajectory length during a flexion-extension cycle, and the extent of contiguous femoral regions below selected strain thresholds were recorded. Flexion-extension produced coupled triplanar stifle motions within the reported ranges. The femoral nodes with the lowest maximum strain clustered cranial and proximal to the centroid of the native CrCL footprint. A continuous 5&#x202f;mm diameter region was consistently identified at a maximal strain threshold between 6.5-9%. Caudal and cranio-distal nodes relative to the native CrCL footprints exhibited the highest strain values (>30%). Subject-specific 3D kinematic modeling consistently identified drill-compatible femoral and tibial regions with a 9% maximal strain cut-off. Future refinement of the 3D kinematic model integrating active loading, soft-tissue mechanics, and SL architecture is required to support clinical translation. Positioning the femoral tunnel slightly cranially and proximally to the native CrCL footprint, and centering the tibial tunnel on its centroid, may improve SL longevity and long-term joint stability.",
+      "categories": [
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42718565",
+      "title": "Case Report: Distal tibial physeal fracture secondary to septic physitis and osteomyelitis in a Boxer puppy.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Sidhu N, Cao JW, Frederick SW, Chambers A",
+      "date": "2026 09 10",
+      "dateObject": "2026 09 10",
+      "abstract": "Salter-Harris fracture secondary to septic physitis has been reported in foals but not puppies. In this case, a 19-week-old, 13.4 kg male intact Boxer puppy was presented with a 2-day history of acute non-weight-bearing lameness of the left pelvic limb, accompanied by distal limb swelling and lethargy. Orthogonal tibial radiographs were performed, and irregular widening of the distal tibial physis with severe edema of the surrounding soft tissues consistent with septic physitis were identified. Fifteen hours later, distal tibial radiographs were repeated, and a Salter-Harris type I fracture of the distal tibial physis, presumed to be pathologic in origin, was diagnosed. Surgical exploration revealed a subperiosteal abscess, which was drained and cultured. The physeal fracture was stabilized with cross-pin fixation, which was reinforced with a splint and bandage for the duration of recovery. Pasteurella spp . was isolated, and amoxicillin-clavulanate was prescribed for 72 days. Resolution of swelling, radiographic fracture healing, and return to normal limb function were achieved after 14 weeks postoperative, at which time the pins were removed and submitted for aerobic and anaerobic culture and susceptibility. No bacterial isolates were identified. This is the first documented case of an appendicular physeal fracture secondary to suspected septic physitis in a dog, and septic physitis should be considered a differential for puppies with spontaneous Salter-Harris fracture.",
+      "categories": [
+        "internalMedicine",
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42717346",
+      "title": "Isolation of feline-derived scFvs against the VP1-CDE region of feline calicivirus from a phage display library and characterization of their antigen-binding and antiviral potential in vitro.",
+      "journal": "BMC Veterinary Research",
+      "authors": "Wei Y, Wang H, Han Z, Gou H, Sun D, Liu Y",
+      "date": "2026 09 10",
+      "dateObject": "2026 09 10",
+      "abstract": "Feline calicivirus (FCV) is a significant causative pathogen of upper respiratory tract disease and virulent systemic infection in feline populations, yet specific targeted antiviral agents for FCV infection remain unavailable. A feline-derived single-chain variable fragment (scFv) phage display library targeting the VP1-CDE neutralizing region of FCV was constructed using peripheral blood mononuclear cells isolated from cats immunized with recombinant VP1-CDE protein. Positive scFv clones were screened via three rounds of affinity panning and phage ELISA. The scFv-Fc fusion proteins were expressed in eukaryotic cells, and their antigen-binding properties and antiviral potential were characterized through Western blotting, bio-layer interferometry, immunofluorescence assay and viral neutralization assay. The constructed library reached a size of 2.1&#x2009;&#xd7;&#x2009;10 8 independent phages with favorable sequence diversity. Five unique scFv clones, designated 3A5, 3B8, 3H5, 2H5, and 2I5, were identified. All five clones could specifically bind to both recombinant VP1-CDE protein and FCV-infected F81 feline kidney cells. Viral neutralization assays demonstrated that scFv-Fc-3A5 exhibited the most potent neutralizing activity against the genogroup II FCV LZ2023 isolate (IC 50 = 1.862&#xa0;&#xb5;g/mL), scFv-Fc-2H5 showed weak neutralization (IC 50 = 6.168&#xa0;&#xb5;g/mL), and the remaining three clones had no appreciable neutralizing capacity. scFv-Fc-3A5 and scFv-Fc-2H5 are promising candidate molecules for the development of diagnostic reagents and antiviral therapeutics targeting genogroup II FCV.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42720853",
+      "title": "Genetic variants of Ehrlichia canis detected in two dogs in Japan.",
+      "journal": "Veterinary Research Communications",
+      "authors": "Taira M, Tamai K, Igarashi H, Okutani A, Ishijima K, Hisasue M, Maeda K",
+      "date": "2026 09 10",
+      "dateObject": "2026 09 10",
+      "abstract": "Ehrlichia canis, the causative agent of canine monocytic ehrlichiosis, infects monocytes and macrophages in dogs and is transmitted mainly by hard ticks Rhipicephalus sanguineus sensu lato. Although E. canis has been reported worldwide, autochthonous E. canis infection in Japan was not confirmed before 2020. In this study, molecular characterization of E. canis detected in two dogs in Tokyo in 2020 and 2023 was conducted. DNA extracted from spleen and blood samples was subjected to polymerase chain reaction (PCR) targeting the 16S ribosomal RNA (rRNA), groEL (heat shock protein), p28 (major outer membrane protein), and trp36 (tandem repeat protein 36) genes, followed by sequencing and phylogenetic analyses. Both cases shared identical 16S rRNA and groEL sequences with many E. canis strains, whereas sequence diversity was evident for p28 and trp36 genes. Interestingly, E. canis in one of the cases harbored a novel 26-amino-acid tandem repeat sequence in trp36, representing a previously unreported trp36 tandem-repeat variant Japan. Phylogenetic analyses placed the E. canis sequences from the two cases into different clusters, suggesting the presence of genetically distinct variants in Japan. This study provides evidence of genetic diversity among E. canis detected in dogs in Japan and suggests the possibility of local transmission or previously unrecognized introduction of this pathogen.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42717911",
+      "title": "Radiation-Induced Alopecia in Dogs With Nasal Tumours: Coat Type Influences Development and Onset.",
+      "journal": "Veterinary Dermatology",
+      "authors": "Nemoto Y, Aoki K, Yoshida A, Ueno H, Nakaichi M",
+      "date": "2026 09 10",
+      "dateObject": "2026 09 10",
+      "abstract": "Radiation-induced alopecia (RIA) is a common adverse effect of radiation therapy, yet factors influencing its development in dogs remain unclear. To characterise acute RIA in dogs with nasal tumours and to evaluate associations with coat type and radiation dose. Thirty-eight client-owned dogs were treated with radiation therapy for nasal tumours. Medical records were reviewed retrospectively. Dogs were classified by coat type (straight versus curly or wire-haired). Time to onset of alopecia was assessed as the interval from the first irradiation to the first detection of alopecia, and cumulative skin dose was calculated up to alopecia onset. Dogs developing acute RIA during radiation therapy were compared with those without RIA. Dogs developing alopecia only after completion of radiation therapy were excluded. Seventeen of 34 dogs developed acute RIA during radiation therapy. Coat type was significantly associated with RIA development (p&#x2009;=&#x2009;0.003), with all dogs with curly or wire-haired coats affected. These dogs developed RIA earlier than those with straight-haired coats (median 14 versus 20&#x2009;days; p&#x2009;=&#x2009;0.047). Within affected dogs, RIA developed first in regions receiving higher skin doses and subsequently progressed to regions receiving lower skin doses. Coat type influences the development of acute RIA in dogs, with curly or wire-haired breeds showing earlier onset and greater extent of alopecia. Alopecia progression reflects regional skin dose distribution. These findings may assist clinicians in predicting the risk of RIA and informing owners about the potential development and timing of radiation-induced alopecia.",
+      "categories": [
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42716105",
+      "title": "Sepsis and elevated creatinine predict poor outcomes in uncomplicated canine pyometra, and empirically prescribed antibiotics do not match bacterial susceptibility or improve survival.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Jones AE, Rishniw M, Raux IL, Rosselli D, Thomas D, Westmoreland C, Thieman K, Coleman KA, Gollnick H, Hildebrandt I, Gibson EA, Brison BA, Gao Q, Tillson M, Lux CN, Buote NJ",
+      "date": "2026 09 09",
+      "dateObject": "2026 09 09",
+      "abstract": "To identify variables associated with prolonged hospitalization or nonsurvival in the surgical management of pyometra in dogs and to report uterine bacterial susceptibility in comparison with empirically prescribed antibiotics. Retrospective study of dogs that underwent ovariohysterectomy for management of pyometra at 8 tertiary referral centers between December 1, 2008, and December 31, 2023. Data collected included signalment, preoperative/operative data, antibiotic utilization, and clinical follow-up. 625 dogs met inclusion criteria. Forty dogs (6.4%) experienced major short-term complications, and 604 dogs (96.6%) survived to discharge. Elevated preoperative creatinine concentration and sepsis increased the risk of nonsurvival. Survival to discharge did not differ between nonseptic dogs that received pre- or intraoperative antibiotics and those that did not. Sepsis, elevated creatinine, and interaction between elevated creatinine and altered mentation increased hospitalization duration. At least 1 inappropriate outpatient antibiotic was prescribed in 34.4% (116 of 337) of cases; most dogs that received inappropriate antibiotics were empirically prescribed amoxicillin-clavulanic acid (102 of 116 [87.9%]). Surgical management of pyometra in the tertiary referral setting had a good prognosis regardless of prescribed antibiotic bacterial susceptibility. Elevated creatinine and/or sepsis increased risk of mortality and prolonged hospitalization. The use of pre- and intraoperative antibiotics in nonseptic dogs was not associated with outcome. There was no clear clinical benefit of antibiotic use in the surgical management of pyometra in nonseptic dogs. If empiric antibiotics are indicated, the bacterial susceptibility profile of this patient population suggests a high likelihood of resistance to amoxicillin-clavulanic acid.",
+      "categories": [
+        "internalMedicine",
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42716104",
+      "title": "Cefovecin selects for higher-level and more persistent antimicrobial resistance among gastrointestinal Escherichia coli in some cats compared to amoxicillin-clavulanic acid in an observational longitudinal study.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Cazer CL, Siler J, Frye A, Reboul GC, Yu YT, Sams K, Berliner E, Henry E, Goodman LB, Cummings KJ",
+      "date": "2026 09 09",
+      "dateObject": "2026 09 09",
+      "abstract": "This observational study compared the development and persistence of antimicrobial resistance (AMR) in feline microbiota following treatment with cefovecin or amoxicillin-clavulanic acid. Cats treated with cefovecin or amoxicillin-clavulanic acid, at the attending veterinarian's discretion, were recruited from multiple sources between December 2022 and May 2024. Fecal samples were collected on the first day of treatment and 1, 2, 3, 4, 8, and 12 weeks afterward. Samples were cultured for Escherichia coli, Kirby-Bauer disk diffusion was performed, and isolates with decreased cefovecin susceptibility were enumerated. Samples were tested for AMR genes with a targeted deep amplicon sequencing panel. The proportions of nonsusceptible isolates were compared across time and treatments. 9 cats treated with cefovecin and 10 cats treated with amoxicillin-clavulanic acid were included. Both groups developed ampicillin-resistant E coli, which persisted longer in the cefovecin group. There were significantly greater odds of recovering E coli not susceptible to amoxicillin-clavulanic acid (OR, 72; 95% CI, 5.4 to 980), ceftriaxone (OR, 930; 95% CI, 81 to 11,000), and cefoxitin (OR, 46, 95% CI, 1.7 to 1,200) in the cefovecin group, driven by 1 cefovecin-treated cat shedding resistant E coli for weeks 1 through 4. A minority of cats may shed E coli resistant to &#x3b2;-lactams following cefovecin treatment, and the risk of AMR is likely lower after amoxicillin-clavulanic acid treatment. Since cats are commonly treated with cefovecin, some treated cats shedding high-level &#x3b2;-lactam-resistant E coli may pose a threat to feline and human health. Using amoxicillin-clavulanic acid instead may minimize resistance.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42716084",
+      "title": "BRAFV595E mutation detected across the disease spectrum from non-neoplastic urothelium to invasive urothelial carcinoma in dogs.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Dhawan D, Sola MF, Nelson JB, Lanman NA, Enstrom AW, Fourez LM, Tersey SA, Knapp DW",
+      "date": "2026 09 09",
+      "dateObject": "2026 09 09",
+      "abstract": "The goal was to determine the presence of a driver mutation in dogs with and without detectable cancer to set the stage for future cancer prevention research exploiting processes that inhibit cancer development in the presence of such mutations. The objective was to detect the v-raf murine sarcoma viral oncogene homolog B (BRAF) mutation BRAFV595E across the disease spectrum from non-neoplastic urothelium to invasive urothelial carcinoma (UC) in dogs. Scottish Terriers &#x2265; 6 years old with no outward evidence of urinary disease (n = 120) were screened for UC by urinalysis, urinary tract ultrasonography, follow-up cystoscopic biopsy, and necropsy when possible. Initial results were published in 2022. Extended follow-up is presented here. The BRAFV595E mutation was detected in urine sediment by droplet digital PCR and in bladder tissues by immunohistochemistry. For 120 dogs screened, biopsy-confirmed UC was found in 41 dogs including 31 high-grade UC, 6 low-grade UC, 1 carcinoma in situ, and 3 dysplasias that progressed to high-grade UC. The BRAFV595E mutation was found in the urine of 23 of 26 dogs with high-grade UC, 4 of 5 dogs with low-grade UC, 2 of 3 dogs with dysplasia, and 12 of 66 dogs with no UC detected over a median of 14 months of follow-up (range, 4 to 71 months). The BRAFV595E mutation was detected in UC and non-neoplastic urothelium by immunohistochemistry. The BRAFV595E mutation is present in various stages of canine UC and non-neoplastic urothelium. This knowledge will contribute to future cancer prevention research. Urothelial carcinoma screening should be implemented for Scottish Terriers and potentially dogs in other high-risk breeds. Biopsy and standardized imaging remain essential in UC management.",
+      "categories": [
+        "internalMedicine",
+        "oncology"
+      ]
+    },
     {
       "pmid": "42713429",
       "title": "Alopecia management from a comparative perspective: pharmacological and pharmaceutical insights in humans, dogs, and cats.",
@@ -853,28 +952,6 @@
       "categories": []
     },
     {
-      "pmid": "42666701",
-      "title": "Carbohydrate source modulates protein and amino acid digestibility patterns in domestic cats.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Lee WJ, Oh ER, Seo JH, Kim Y, Lee SH, Jang HJ",
-      "date": "2026 08 29",
-      "dateObject": "2026 08 29",
-      "abstract": "Domestic cats are obligate carnivores with high dietary protein requirements, yet carbohydrates remain functionally necessary in extruded dry foods. Because carbohydrate matrices may be associated with nutrient accessibility during digestion, this study evaluated whether defined protein- and carbohydrate-source formulations are associated with nutrient and amino acid apparent total tract digestibility (ATTD) in cats. A total of 117 Korean short-haired domestic cats were enrolled and underwent a two-week adaptation period before digestibility evaluation. Twelve diets were formulated to compare six protein sources (chicken, duck, salmon, pollock, beef, and cricket) using rice as a reference carbohydrate source and six carbohydrate sources (rice, corn, potato, tapioca, sweet potato, and wheat) using chicken as a reference protein source. ATTD of nutrients and amino acids was measured, and an efficiency ratio (ER) was calculated as an exploratory descriptive ratio reflecting the relationship between crude protein ATTD and the carbohydrate digestibility denominator. Among protein sources, duck, chicken, and salmon showed the highest protein digestibility (86.36, 85.72, and 83.05%, respectively), whereas beef and cricket showed lower values (74.77 and 74.97%). Among carbohydrate sources, rice and corn showed higher protein digestibility (85.72 and 76.82%, respectively) than wheat, tapioca, potato, and sweet potato (75.23, 74.49, 72.52, and 72.04%, respectively) within the tested chicken-based formulations. Although rice showed the lowest carbohydrate digestibility (7.71%), it yielded the highest ER (11.12), reflecting high crude protein ATTD relative to the carbohydrate digestibility denominator rather than direct evidence of protein utilization efficiency. Seven candidate indicator amino acids (Ala, Ser, Val, Thr, His, Phe, and Ile) were identified based on their strong linear agreement with crude protein ATTD across both source categories. Exploratory group-level regressions showed positive associations between ER and selected candidate amino acid ATTD values, with the strongest relationships observed for Phe ( R 2 &#x202f;=&#x202f;0.89), Ala ( R 2 &#x202f;=&#x202f;0.87), and Ile ( R 2 &#x202f;=&#x202f;0.85). These findings suggest that carbohydrate source may be associated with protein and amino acid ATTD within fixed-matrix feline diet formulations. However, ER should be interpreted as a preliminary, matrix-sensitive descriptive index requiring further validation rather than as a direct measure of protein bioavailability or post-absorptive amino acid utilization.",
-      "categories": []
-    },
-    {
-      "pmid": "42666301",
-      "title": "Seroprevalence of Toxoplasma gondii infection and risk factors in sheep from Afyonkarahisar province, T&#xfc;rkiye.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Tun&#xe7; AC, Erez MS, Kozan E, Birdane FM, Herv&#xe9;-Claude LP",
-      "date": "2026 08 29",
-      "dateObject": "2026 08 29",
-      "abstract": "Toxoplasma gondii is a major zoonotic pathogen causing reproductive losses in sheep and posing significant public health risks, particularly through meat consumption and congenital infection. Despite Afyonkarahisar Province being one of the most important sheep-producing regions in T&#xfc;rkiye, no farm-level seroepidemiological study with structured risk factor analysis had previously been conducted there. A cross-sectional study was conducted between September and December 2025 on 550 sheep blood samples collected from 55 commercial farms across Afyonkarahisar Province. Anti- T. gondii antibodies were detected using a commercial indirect ELISA (ID Screen &#xae; Toxoplasmosis Indirect Multi-Species, IDvet), with samples classified as positive (sample-to-positive percentage [S/P%] &#x2265; 50%), doubtful (40%-50%), or negative (&#x2264;40%). A structured questionnaire was administered to collect 19 farm- and animal-level variables. Associations with seropositivity were evaluated by univariable analysis and a mixed-effects logistic regression model with farm as a random effect, with Firth's penalized regression applied to obtain stable estimates where quasi-complete separation occurred. The overall animal-level seroprevalence was 42.2% (232/550; 95% CI: 38.0%-46.4%), and 44 of 55 farms (80.0%; 95% CI: 67.0%-89.6%) were classified as seropositive. In multivariable analysis using Firth's penalized logistic regression, five variables were independently associated with higher seropositivity: flock-level history of abortion (aOR = 3.77; 95% CI: 2.41-6.00), age over 12 months (aOR = 3.54; 95% CI: 2.15-5.97), communal pasture use (aOR = 74.12; 95% CI: 10.22-9431.54, wide owing to quasi-complete separation), leaving aborted materials on site (aOR = 2.30; 95% CI: 1.49-3.61), and irregular barn cleaning (aOR = 2.32; 95% CI: 1.46-3.72). Cat presence was universal across all 55 farms, precluding statistical evaluation; however, stray cats had unrestricted access to feed and water on every farm, likely representing the primary driver of environmental oocyst contamination. Breed, sex, water source, and antiparasitic drug type were not significantly associated with seropositivity. T. gondii infection is highly endemic in sheep in Afyonkarahisar, with seroprevalence exceeding the national average. Stray cat access control, safe disposal of aborted materials, and routine differential diagnosis for abortifacient pathogens are recommended as priority interventions for reducing infection pressure and mitigating both animal health and public health risks within a One Health framework.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
       "pmid": "42546968",
       "title": "Effect of 24-hour sedation during mechanical ventilation on hematological, biochemical, and coagulation parameters in bitches: A randomized clinical study.",
       "journal": "Topics in Companion Animal Medicine",
@@ -1721,43 +1798,6 @@
       ]
     },
     {
-      "pmid": "42019547",
-      "title": "Diagnostic limitations of oropharyngeal swab cultures and inconsistent presence of secondary bacterial infection in canine aspiration pneumonia.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Vient&#xf3;s-Plotts A, Reinero A, Gull T, Reinero C",
-      "date": "2026 08 21",
-      "dateObject": "2026 08 21",
-      "abstract": "In dogs with aspiration pneumonia (AP), our objectives were to determine whether oropharyngeal (OP) swab isolates would match bronchoalveolar lavage fluid (BALF) isolates and determine the frequency of secondary bacterial infection (SBI) in AP by use of 4 definitions. 30 client-owned dogs with clinical diagnosis of AP (cough or fever, and radiographic alveolar pattern with historical vomiting or regurgitation) with OP and BALF cultures were prospectively enrolled from 2019 to 2023. Exclusion criteria included antimicrobial administration within 14 days of presentation or inability to undergo BALF collection. Definitions of SBI included (1) positive BALF culture (noncontaminant), (2) veterinary criteria (septic inflammation in BALF or nonseptic inflammation with positive culture having &#x2265; 1.7 &#xd7; 103 CFU/mL), (3) human criteria (> 7% of cells with intracellular bacteria or positive culture with &#x2265; 104 CFU/mL), and (4) clinical recovery without antimicrobials. All OP and 16 of 30 BALF cultures were positive, yielding a median of 4 organisms (range, 1 to 6 organisms) and 1 organism (range, 0 to 3 organisms), respectively, with significantly more positive OP isolates. Most OP isolates (91%) were not recovered from BALF. Absence of SBI was documented in 30% to 77% of dogs with AP, depending on definition. OP swabs were polymicrobial, with most organisms (91%) not present in BALF. Many dogs with AP did not meet 1 or more definitions of SBI. Using OP cultures as surrogates for BALF cultures was inappropriate for dogs with AP. Not all dogs with AP had SBI, necessitating further study of when antimicrobial therapy could be avoided versus when it is warranted.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42019542",
-      "title": "Multiple factors, including client financial constraints, play a role in clinician decisions for canine atopic dermatitis: spectrum of care in a chronic and relapsing disease.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Gentry CM, Rey L, Rishniw M, Tater K, Teller L",
-      "date": "2026 08 21",
-      "dateObject": "2026 08 21",
-      "abstract": "To understand the current opinions, diagnostic process, and prescribing behavior of North American veterinarians for canine atopic dermatitis. A secondary objective was evaluating how treatment recommendations were guided by client financial limitations and veterinarian knowledge of canine atopic dermatitis. A Veterinary Information Network online survey was available from July 15 to August 15, 2025, to veterinarians who practiced in North America, saw canine patients, and consented to participation. Questions about frequency of owners with financial constraints, diagnostics and therapeutic recommendations, and referral to specialists were asked by either direct questioning or case scenarios. 718 respondents provided sufficient data for inclusion; 57% of respondents stated &#x2265; 25% of their clients had substantial financial constraints, while 28% of respondents stated &#x2265; 50% of clients had financial constraints. Most respondents always or often used financial status to guide recommendations. Respondents considered skin cytology followed by skin scraping the most important diagnostic tests regardless of financial constraint. Respondents preferred cephalexin for methicillin-sensitive pyoderma when there was financial constraint. Most respondents knew of the recommendation to use sole antiseptic topical therapy for methicillin-resistant superficial pyoderma, and most recommended aerobic bacterial culture before antibiotics with suspected methicillin-resistant pyoderma. Substantial financial constraints of clients do not always alter diagnostic and treatment recommendations for canine atopic dermatitis; however, clinicians' recommendations do not always align with consensus guidelines. A better understanding of veterinarians' diagnostic and prescribing behavior can improve veterinary education on spectrum-of-care decision-making for canine atopic dermatitis.",
-      "categories": [
-        "internalMedicine",
-        "dermatology"
-      ]
-    },
-    {
-      "pmid": "41985531",
-      "title": "Species-specific neurological examinations are necessary in guinea pigs (Cavia porcellus) and do not differ between client-owned and laboratory animals.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Murthy V, Durant A, Beaufr&#xe8;re H, Keller K, Guzman DS",
-      "date": "2026 08 21",
-      "dateObject": "2026 08 21",
-      "abstract": "To evaluate for differences in normal neurological examination findings between client-owned and laboratory guinea pigs and establish a species-specific neurological examination. Healthy adult client-owned and laboratory guinea pigs were prospectively enrolled in an observational study. Neurological examination tests commonly used in cats and dogs were performed and results documented. The study evaluated the ability to perform each test and whether it generated the result expected (extrapolated from cats and dogs). Differences between groups of > 20% were evaluated with Fisher exact tests. Tests with > 90% feasibility and expected response rate were used to generate a species-specific neurological examination. 34 guinea pigs were included, consisting of 17 in the client-owned group and 17 in the laboratory guinea pig group. Most tests (40 of 41 [98%]) could be successfully performed in over 90% of animals with minor modifications, while 27 of 40 tests (68%) resulted in expected results in over 90% of animals. Expected response rates for tactile placing of the pelvic limbs were different between groups but overall low. The rest of the neurological examination was not significantly different between the 2 groups. Neurological examinations in guinea pigs should be performed and interpreted with caution, as tests used in other species may not yield reliable results. A species-specific neurological examination should be considered. These findings allowed the creation of a guinea pig-specific neurological examination template that can be used in clinical patients and laboratory settings.",
-      "categories": [
-        "neurology"
-      ]
-    },
-    {
       "pmid": "42618917",
       "title": "Morphometric assessment of the femoral trochlea, patella and patellar ligament in small breed dogs with and without grade II medial patellar luxation.",
       "journal": "BMC Veterinary Research",
@@ -2334,18 +2374,6 @@
       "categories": []
     },
     {
-      "pmid": "42337613",
-      "title": "Exploratory analysis of risk factors associated with antimicrobial resistance in urinary Escherichia coli from dogs in the United States (2018-2024).",
-      "journal": "BMC Veterinary Research",
-      "authors": "Ojasanya RA, Weese JS, Sobkowich KE, Deckert A, Szlosek D, Plum A, Bernardo TM, Poljak Z",
-      "date": "2026 08 06",
-      "dateObject": "2026 08 06",
-      "abstract": "Bacterial cystitis, predominantly caused by Escherichia coli, is a leading cause for antimicrobial prescriptions in dogs. The use of antimicrobials contributes to selection pressure for antimicrobial resistance (AMR), a growing concern for veterinary and public health. This study examined risk factors for resistance in urinary E. coli isolates from dogs in the United States, focusing on prior positive cultures and other host, socioeconomic, and geographic factors using data from a national commercial diagnostic laboratory. Associations between selected exposures of interest and AMR were assessed using multilevel logistic regression models, accounting for clustering at the patient, county, and state levels. A total of 393,972 clinical urinary E. coli isolates from 339,977 dogs across the United States, submitted between 2018 and 2024, were tested for antimicrobial susceptibility. Resistance was highest to amoxicillin (27.39%; 95% CI: 27.25-27.53). When examined in multilevel logistic regression models, and across all antimicrobials, the greatest proportion of variance occurred at the patient level (range: 22.2-46.1%). The log odds of detecting resistance increased linearly with the number of prior positive cultures in the previous six months. After adjusting for all other covariates, every 1% increase in the annual county-level percentage of dogs with positive culture and antimicrobial susceptibility test was associated with a 1-2% decrease in the odds of resistance across all antimicrobials (OR range: 0.98-0.99; p&#x2009;<&#x2009;0.001). States with 1,500-1,999 housing units per veterinarian had higher odds of marbofloxacin resistance (OR: 1.85, 95% CI: 1.20-2.85, adjusted p&#x2009;=&#x2009;0.027) than states with 500-999 units, a pattern consistent across other antimicrobials. Patient-level factors, particularly recent repeated positive cultures examined in this study, are associated with AMR in canine urinary E. coli, likely reflecting cumulative antimicrobial exposure and/or chronic resistant infections. Additionally, lower odds of detecting AMR were observed in counties with higher microbiological testing frequency and in states with higher veterinarian density, which may reflect differences in access to veterinary care or diagnostic practices. However, because these variables are measured at the group level, they do not capture individual-level veterinary care. Further research incorporating patient-level measures of care access and prescribing practices will be crucial.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
       "pmid": "42557850",
       "title": "EXPRESS: The hormonal effects of owner-cat interactions on pet cats of different potential attachment styles.",
       "journal": "Journal of Feline Medicine and Surgery",
@@ -2461,18 +2489,6 @@
       "abstract": "Vector-borne diseases in dogs are an emerging problem worldwide due to their frequency, morbidity, and zoonotic relevance. Since there are no previous studies determining the frequency of Ehrlichia canis and Rickettsia rickettsii infection in three neighborhoods of the city of Chihuahua, Mexico, using molecular detection techniques, the objective of the present study was to detect, by nested polymerase chain reaction (PCR), a fragment of the gp36 gene of E. canis and the ompA gene of R. rickettsii in tick-infested dogs captured at the canine control center of the city of Chihuahua, and to phylogenetically analyze the genotypes present. Blood samples were collected from 123 tick-infested dogs. DNA was extracted from peripheral blood leukocytes and used in nested PCR protocols. The results showed a positivity frequency of 16.2% (20/123) for E. canis and 3.2% (4/123) for R. rickettsii. Six sequenced samples corresponded to E. canis and four to R. rickettsii. Phylogenetic analysis showed a close relationship with sequences previously described in the United States. This is the first molecular identification confirming E. canis and R. rickettsii infection in tick-infested dogs from some neighborhoods of the Chihuahua city, Mexico.",
       "categories": [
         "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42536135",
-      "title": "Retrospective Review of Rush Allergen-Specific Immunotherapy Safety in Cats With Atopic Skin Syndrome.",
-      "journal": "Veterinary Dermatology",
-      "authors": "Wirkkala A, Rosenkrantz W, Mendelsohn C, Griffin C, Schaufele S, Burrows M",
-      "date": "2026 07 31",
-      "dateObject": "2026 07 31",
-      "abstract": "Rush immunotherapy (RIT) accelerates the induction phase of allergen-specific immunotherapy treatment (ASIT) by administering incrementally increasing allergen doses over a single day. This approach reduces the time required to maintenance dosing. Safety information in cats with atopic skin syndrome (FASS) remains limited. The objective of the study was to evaluate the safety of RIT in cats with hypersensitivity disease compatible with FASS and to describe the frequency and nature of adverse events. Forty-seven client-owned cats that underwent RIT. A multicentre medical record review from 2019 to 2024 was performed to identify cats that met at least six of 10 criteria for non-flea-induced hypersensitivity dermatitis and were therefore considered consistent with a diagnosis of FASS. All included cats received documented flea prevention and underwent elimination diet trials. Data collected included signalment, medical history, concurrent medications, RIT protocol details, monitoring findings and follow-up communication. Adverse events (AEs) were recorded. In three of 47 cats (6.4%), AEs were observed including tachypnoea, behavioural distress and increased pruritus. In one cat, RIT was discontinued before protocol completion. All affected cats transitioned to maintenance ASIT without recurrence of AEs. Rush immunotherapy appears to be safe in cats with FASS when performed with clinical monitoring. Adverse events were infrequent, mild and self-limiting, supporting use of accelerated induction protocols in appropriately selected patients.",
-      "categories": [
-        "dermatology"
       ]
     },
     {
@@ -2686,18 +2702,6 @@
       "categories": [
         "cardiology",
         "neurology"
-      ]
-    },
-    {
-      "pmid": "42484883",
-      "title": "Molecular identification of zoonotic hookworms in environmentally collected canine fecal samples in Northern Philippines.",
-      "journal": "Veterinary Research Communications",
-      "authors": "Del Mundo AJA, Kunting AC, Climaco GI, Tantengco OAG, Tenorio JCB, Espino MJM, Panganiban EP, Manalo DL, Leonardo LR, Tabios IKB",
-      "date": "2026 07 22",
-      "dateObject": "2026 07 22",
-      "abstract": "Hookworm infections remain an important public health and veterinary concern in tropical and subtropical regions, particularly in communities with close human-animal interactions and limited sanitation. Dogs are recognized as reservoirs of zoonotic hookworms, yet species-level infection data in endemic areas remain lacking because the widely utilized microscopic examination of stool samples cannot differentiate morphologically indistinguishable hookworm eggs. Environmentally deposited canine fecal samples (n&#x2009;=&#x2009;72) were collected from five barangays in Gonzaga, Cagayan, Northern Philippines. Samples were examined using formalin-ether concentration technique (FECT) and endpoint PCR targeting the ITS regions, followed by Sanger sequencing for species identification. Hookworm ova were detected by coproscopy in 20 samples (27.8%), while the PCR assay yielded 24 positive samples (33.3%). Three hookworm species were identified using nBLAST alignment, with Ancylostoma ceylanicum as the predominant species, alongside single detections of A. caninum and N. americanus, the latter likely reflecting environmental contamination or coprophagic passage rather than true canine infection. There were no mixed-species infections identified. The predominance of the zoonotic hookworm A. ceylanicum in environmentally collected canine feces highlights the role of free-roaming dogs in zoonotic hookworm transmission in shared environments. Molecular species identification provided greater resolution than microscopy alone, underscoring the value of integrating PCR-based approaches with conventional coproscopy to strengthen zoonotic hookworm surveillance and better inform One Health interventions.",
-      "categories": [
-        "internalMedicine"
       ]
     },
     {

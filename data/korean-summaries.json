@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T23:19:08.826Z",
+  "updated_at": "2026-09-10T23:15:26.669Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -4967,6 +4967,70 @@
       "title": "Modified scalp block and total intravenous anesthesia for frontal craniotomy in a dog with a meningioma: a technical case report.",
       "journal": "Veterinary Research Communications",
       "generated_at": "2026-09-09T23:17:38.695Z",
+      "model": "gpt-5-mini"
+    },
+    "42716084": {
+      "brief_summary": "스코티시 테리어(≥6세) 120마리를 대상으로 방광 조직과 소변에서 v-raf 유전자(BRAF) 변이 중 BRAFV595E의 존재를 확인해 비종양성 요로상피부터 침습성 요로상피암(urothelial carcinoma; UC)까지 변이가 분포하는지를 조사한 연구다. 조직검사로 확인된 41마리의 UC(고등급 31, 저등급 6, CIS 1, 이형성 3)에서 BRAFV595E가 소변에서 주로 검출되었고(고등급 23/26, 저등급 4/5, 이형성 2/3), 암이 확인되지 않은 군에서도 소변에서 변이가 검출된 예(12/66)가 있었다. 결과는 BRAFV595E가 비종양성 요로상피와 여러 병기에서 존재함을 시사하며, 스코티시 테리어 및 고위험 품종에서 UC 선별검사 시행과 조직검사·표준화된 영상검사의 중요성을 뒷받침한다.",
+      "detailed_summary": "연구는 스코티시 테리어 ≥6세 120마리를 대상으로 요검사, 비뇨기 초음파, 경요관내시경(방광경) 생검 및 가능한 경우 부검까지 포함한 선별검사를 시행한 전향적 관찰 연구의 연장 결과를 보고한다. 핵심 평가지표는 소변 침전물의 드롭렛 디지털 PCR(ddPCR)을 통한 BRAFV595E 검출과 방광 조직의 면역조직화학(IHC) 소견이었다. 생검으로 확인된 UC는 총 41건(고등급 31, 저등급 6, carcinoma in situ 1, 이형성 3/→고등급 진행)였고, BRAFV595E는 소변에서 고등급 UC 23/26, 저등급 UC 4/5, 이형성 2/3에서 검출되었으며 암 미확인군에서도 12/66에서 검출되었다(중앙값 추적기간 14개월, 범위 4–71개월). IHC에서도 UC와 비종양성 요로상피 모두에서 변이가 검출되어 변이가 병기 전반에 걸쳐 존재함을 확인했다. 저자들은 이 결과가 BRAFV595E를 포함한 돌연변이가 존재하는 상태에서도 암 억제 과정 등을 이용한 예방 연구의 기초가 될 수 있다고 보며, 스코티시 테리어와 잠재적 고위험 품종에 대한 UC 선별검사 시행을 권고한다. 또한 조직검사와 표준화된 영상검사가 UC 관리에 필수적임을 강조한다. 한계로는 중앙값 추적기간이 14개월로 장기 경과 관찰이 제한적이며, 변이 검출이 암 발생의 인과성을 증명하지는 않는다는 점이 있다.",
+      "title": "BRAFV595E mutation detected across the disease spectrum from non-neoplastic urothelium to invasive urothelial carcinoma in dogs.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-09-10T23:15:26.654Z",
+      "model": "gpt-5-mini"
+    },
+    "42716104": {
+      "brief_summary": "이 관찰적 종적 연구는 cefovecin과 아목시실린-클라불란산(amoxicillin-clavulanic acid) 치료 후 고양이 장내 대장균(Escherichia coli, E. coli)의 항균제 내성(AMR) 발생과 지속성을 비교했다. 9마리(cefovecin)와 10마리(아목시실린-클라불란산)를 대상으로 치료일과 이후 1,2,3,4,8,12주에 분변을 채취해 배양, 디스크 확산법(Kirby-Bauer) 및 타깃 심층 증폭 시퀀싱(targeted deep amplicon sequencing)을 실시했다. 결과는 cefovecin군에서 amoxicillin-clavulanic acid 비감수성(OR 72; 95% CI 5.4–980), ceftriaxone 비감수성(OR 930; 95% CI 81–11,000), cefoxitin 비감수성(OR 46; 95% CI 1.7–1,200)의 회수 확률이 유의하게 높았고, 이는 일부 고양이에서 고수준 β-락탐(β-lactam) 내성 대장균이 장기간 배출될 수 있음을 시사한다.",
+      "detailed_summary": "연구는 2022년 12월부터 2024년 5월까지 여러 경로로 모집한 고양이들을 대상으로 한 관찰적 종적 연구이다. 치료는 담당 수의사의 판단에 따라 cefovecin 또는 아목시실린-클라불란산으로 이루어졌고, 총 9마리(cefovecin)와 10마리(아목시실린-클라불란산)가 포함되었다. 분변은 치료 시작일과 1, 2, 3, 4, 8, 12주에 채취되었고, E. coli 배양, 디스크 확산법(Kirby-Bauer), cefovecin에 대한 감수성 저하 분리주의 계수 및 항균제 내성 유전자 타깃 심층 증폭 시퀀싱을 수행했다. 양 군 모두에서 ampicillin 내성 E. coli가 관찰되었으나 cefovecin군에서 더 오래 지속되는 경향을 보였다. 통계적으로는 cefovecin군에서 amoxicillin-clavulanic acid 비감수성(OR 72; 95% CI 5.4–980), ceftriaxone 비감수성(OR 930; 95% CI 81–11,000), cefoxitin 비감수성(OR 46; 95% CI 1.7–1,200)의 회수 가능성이 유의하게 높았고, 이 차이는 주로 한 마리의 cefovecin 투여 고양이가 주 1~4주에 걸쳐 내성 대장균을 배출한 데 의해 주도되었다. 결론적으로 일부 고양이는 cefovecin 치료 후 β-락탐계 항생제에 대한 고수준 내성 대장균을 배출할 수 있으며, 아목시실린-클라불란산 사용 시 내성 위험이 상대적으로 낮을 것으로 보인다(관찰연구 결과). 이 결과는 cefovecin이 흔히 사용되는 점을 고려할 때 고양이 및 인체 건강에 대한 잠재적 위험을 시사하나, 특정 개체(한 마리)의 영향이 크다는 점을 해석 시 유의해야 한다.",
+      "title": "Cefovecin selects for higher-level and more persistent antimicrobial resistance among gastrointestinal Escherichia coli in some cats compared to amoxicillin-clavulanic acid in an observational longitudinal study.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-09-10T23:15:05.903Z",
+      "model": "gpt-5-mini"
+    },
+    "42716105": {
+      "brief_summary": "본 연구는 2008–2023년 8개 3차 진료기관에서 난소자궁적출술(OVH)로 자궁축농증(피오메트라)을 치료한 개 625마리를 후향적으로 검토해, 입원 기간 연장 또는 비생존과 연관된 변수를 파악하고 처방된 항생제의 균주 감수성을 비교했다. 수술 전 크레아티닌 상승과 패혈증(Sepsis)이 비생존 위험을 증가시켰고 이들 인자는 입원 기간도 연장시켰다. 비패혈성 개에서는 수술 전·중 항생제 사용이 퇴원 생존율에 영향을 주지 않았고, 외래에서 경험적으로 처방된 항생제의 34.4%가 부적절했으며 대부분이 아목시실린‑클라불라네이트(87.9%)였다.",
+      "detailed_summary": "후향적 다기관 연구로 2008-12-01부터 2023-12-31까지 8개 3차 진료센터에서 난소자궁적출술(OVH)을 받은 자궁축농증(피오메트라) 개 625마리를 대상(신호·수술 전·수술 중 데이터, 항생제 사용, 임상 추적 수집)으로 분석했다. 주요 평가 항목은 장기 입원(연장)과 단기 비생존(퇴원 전 사망) 및 자궁내 배양의 항생제 감수성이었다. 전체에서 40마리(6.4%)가 주요 단기 합병증을 경험했고 604마리(96.6%)가 퇴원하였다. 수술 전 크레아티닌 상승과 패혈증은 퇴원하지 못할 위험을 증가시켰고, 패혈증·크레아티닌 상승 및 크레아티닌 상승과 의식 변화의 상호작용은 입원 기간을 연장시켰다. 비패혈성 개에서는 수술 전 또는 수술 중 항생제 투여가 퇴원 생존율에 차이를 보이지 않았다. 외래에서 처방된 항생제 중 337건을 평가한 결과 116건(34.4%)이 부적절했고 그중 102건(87.9%)이 아목시실린‑클라불라네이트였다. 저자들은 3차 진료 환경에서 수술적 관리의 예후가 항생제 감수성과 관계없이 양호하며, 비패혈성 개의 수술 관리에서 항생제 사용의 명확한 임상적 이득을 확인하지 못했다고 결론내렸고, 초록에는 별도 제한점이 명시되어 있지 않다.",
+      "title": "Sepsis and elevated creatinine predict poor outcomes in uncomplicated canine pyometra, and empirically prescribed antibiotics do not match bacterial susceptibility or improve survival.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-09-10T23:14:29.707Z",
+      "model": "gpt-5-mini"
+    },
+    "42717346": {
+      "brief_summary": "이 연구는 고양이 칼리시바이러스(FCV)의 중화 영역 VP1-CDE를 표적으로 고양이 유래 scFv 파지 디스플레이 라이브러리를 구축·선별해 항원 결합성과 항바이러스 활성을 평가했다. 라이브러리(2.1×10^8 규모)에서 5개의 고유 scFv(3A5, 3B8, 3H5, 2H5, 2I5)를 확보했고, 이들 모두가 재조합 VP1-CDE 단백질 및 FCV 감염 F81 세포에 특이적으로 결합했다. scFv-Fc-3A5는 genogroup II FCV LZ2023에 대해 가장 강한 중화활성(IC50 = 1.862 μg/mL)을 보였고, scFv-Fc-2H5는 약한 중화활성(IC50 = 6.168 μg/mL)을 보였으며 나머지 세 클론은 실질적 중화능이 없었다; scFv-Fc-3A5와 2H5는 genogroup II FCV를 표적화한 진단 시약 및 항바이러스 후보로 제시되었다.",
+      "detailed_summary": "연구자는 재조합 VP1-CDE 단백질로 면역화된 고양이의 말초혈액 단핵세포(PBMC)에서 유래한 고양이산 scFv 파지 디스플레이 라이브러리를 구축했으며, 라이브러리 규모는 2.1×10^8 독립 파지로 보고되었다. 세 차례의 어피니티 패닝과 파지 ELISA로 양성 클론을 선별해 최종적으로 5개의 고유 scFv(3A5, 3B8, 3H5, 2H5, 2I5)를 확인했다. 선택된 scFv들은 진핵세포에서 scFv-Fc 융합단백질로 발현되었고, Western blot, bio-layer interferometry, 면역형광법(immunofluorescence assay) 및 바이러스 중화시험을 통해 특성화되었다. 모든 클론이 재조합 VP1-CDE 단백질과 FCV 감염된 F81 세포에 대해 특이적으로 결합함을 보였다. 바이러스 중화시험 결과 scFv-Fc-3A5가 genogroup II FCV LZ2023에 대해 가장 강한 중화활성(IC50 = 1.862 μg/mL)을 보였고, scFv-Fc-2H5는 약한 중화활성(IC50 = 6.168 μg/mL)을 보였으며 나머지 세 클론은 유의한 중화능을 보이지 않았다. 결론적으로 scFv-Fc-3A5와 scFv-Fc-2H5는 genogroup II FCV를 겨냥한 진단·치료 후보물질로 제시되며, 본 연구의 평가는 모두 in vitro에서 이루어졌음을 명시한다.",
+      "title": "Isolation of feline-derived scFvs against the VP1-CDE region of feline calicivirus from a phage display library and characterization of their antigen-binding and antiviral potential in vitro.",
+      "journal": "BMC Veterinary Research",
+      "generated_at": "2026-09-10T23:13:16.168Z",
+      "model": "gpt-5-mini"
+    },
+    "42717911": {
+      "brief_summary": "본 연구는 비강 종양으로 방사선치료를 받은 반려견을 대상으로 방사선 유발 탈모(RIA)의 발생 특성 및 털 종류(직모 vs 곱슬/와이어)가 RIA 발생과 발현 시점에 미치는 영향을 조사했다. 총 38마리를 대상으로 의무기록을 후향적으로 검토했으며(분석에는 34마리로 보고됨), 17/34견에서 방사선치료 중 급성 RIA가 발생했다. 곱슬 또는 와이어형 털을 가진 개는 모든 개체에서 RIA가 발생했고(유의성 p=0.003), 직모견에 비해 탈모가 더 빨리 나타났다(중앙값 14일 vs 20일, p=0.047). 결과는 털 종류와 국소 피부 선량 분포가 급성 RIA의 발생 및 진행에 연관됨을 시사하며, 임상에서 RIA 위험 예측 및 보호자 안내에 활용될 수 있다.",
+      "detailed_summary": "연구는 비강 종양으로 방사선치료를 받은 반려견 38마원의 의무기록을 후향적으로 검토한 관찰연구이다. 대상견들은 털 유형을 '직모(straight)'와 '곱슬/와이어(curly or wire-haired)'로 분류했고, 첫 조사점은 첫 방사선 조사부터 탈모 최초 관찰까지의 시간(발현 시점)이었다. 분석에서는 방사선치료 중 급성 RIA가 발생한 경우만 포함하고, 치료 완료 후에만 탈모가 발생한 개체는 제외하여 최종적으로 34마리에서 결과를 보고했다. 그중 17마리(17/34)가 방사선치료 중 급성 RIA를 보였고, 털 종류는 RIA 발생과 유의하게 연관되어 곱슬/와이어형은 모든 개체에서 영향을 받았다(p=0.003). RIA의 발현은 곱슬/와이어형에서 직모보다 더 빠르게 나타났으며 중앙값으로 각각 14일 대 20일로 보고되었다(p=0.047). 또한, 영향을 받은 개들에서 탈모는 먼저 피부 선량이 높은 부위에서 발생하고 이후 선량이 낮은 부위로 진행하는 양상을 보였다. 결론은 털 종류가 급성 RIA의 발생 빈도와 발현 시점에 연관이 있으며, 국소 피부 선량 분포가 탈모 진행을 반영한다는 점으로 임상에서 RIA 위험 예측과 보호자 설명에 도움이 된다는 것이다.",
+      "title": "Radiation-Induced Alopecia in Dogs With Nasal Tumours: Coat Type Influences Development and Onset.",
+      "journal": "Veterinary Dermatology",
+      "generated_at": "2026-09-10T23:14:01.955Z",
+      "model": "gpt-5-mini"
+    },
+    "42718565": {
+      "brief_summary": "19주령, 체중 13.4 kg의 수컷 복서 강아지 1례에서 좌측 골격지의 급성 비체중부하 절름발이와 원위 경골 골단판 부종·확장 소견을 보였고, 15시간 후 Salter-Harris type I 골단판 골절이 진단되었다. 외과적 탐색에서 피막하 농양이 확인되어 배액·배양을 시행하고 교차핀 고정과 부목·붕대로 안정화하였으며, Pasteurella spp. 분리가 확인되어 아목시실린-클라불란산(amoxicillin-clavulanate)을 72일간 투약하였다. 14주 후 부종 소실, 방사선적 골절 치유 및 정상 보행 회복이 관찰되었고, 이는 개에서 의심되는 감염성 골단판염(septic physitis)에 2차적으로 발생한 사지 골단판 골절의 첫 보고로, 강아지의 자연발생적 Salter-Harris 골절에서 감염성 골단판염을 감별진단에 포함해야 함을 제시한다.",
+      "detailed_summary": "증례보고로 연구 대상은 19주령, 13.4 kg의 중성화되지 않은 수컷 복서 강아지 1마리였다. 내원 당시 2일간의 좌측 골반지 비체중부하 절름발이, 원위 사지 부종 및 무기력증이 보고되었고 직교(orthogonal) 경골 방사선 검사에서 원위 경골 골단판의 불규칙한 확장과 주변 연부조직의 심한 부종이 관찰되어 감염성 골단판염(septic physitis) 소견으로 판단되었다. 15시간 후 재촬영에서 원위 경골 골단판의 Salter-Harris type I 골절이 병적(fracture presumed pathologic)으로 진단되었다. 수술적 탐색에서 피막하(subperiosteal) 농양이 확인되어 배농·배양을 시행하였고 골단판 골절은 교차핀(cross-pin) 고정으로 안정화하였으며 회복기간 동안 부목과 붕대로 보강하였다. 배양에서 Pasteurella spp.가 분리되어 아목시실린-클라불란산을 72일간 투약하였고, 14주째에 부종 소실과 방사선적 치유 및 정상 사지 기능 회복이 확인되어 핀을 제거하고 해당 핀들을 호기성·혐기성 배양검사에 회부했으나 추가 균주는 분리되지 않았다. 본 증례는 개에서 감염성 골단판염에 2차적으로 발생한 사지 골단판 골절의 최초 문서화된 보고이며 단일 증례라는 점에서 일반화에는 제한이 있음을 유의해야 한다.",
+      "title": "Case Report: Distal tibial physeal fracture secondary to septic physitis and osteomyelitis in a Boxer puppy.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-09-10T23:12:51.090Z",
+      "model": "gpt-5-mini"
+    },
+    "42718794": {
+      "brief_summary": "본 연구는 합성 인대(SL)를 이용한 개의 관절내(cranial cruciate ligament, CrCL) 재건에서 이식편 길이 변화를 최소화할 수 있는 대퇴 터널 위치를 3차원(3D) 동역학 모델링으로 탐색했다. 대형견 6개 골반지(평균 체중 27.7 ± 9.7 kg)를 CT로 분절하고 이중면 방사선촬영 및 광학추적으로 수동 굴신 시의 무릎(슬관절) 동역학을 계산해 펴는-굽힘 주기 동안의 이식편 길이 변화와 스트레인 분포를 평가했다. 대퇴 결절부에서 원위(centroid)보다 약간 앞쪽(cranial)·근위(proximal)에 터널을 위치시키고 경골 터널은 원점(centroid)에 중심을 두면 스트레인을 낮게 유지할 수 있어 SL의 장기 유지성과 관절 안정성에 도움이 될 수 있음을 제시했다(다만 임상적 적용을 위해 모델의 추가 정교화가 필요함).",
+      "detailed_summary": "연구는 스트레인 제한(strain-constrained), 개별 동물 맞춤형 3D 매핑을 통해 관절의 굴신 동안 스트레인을 최소화하는 대퇴·경골 터널 후보 부위를 규명하는 목적이었다. 대상은 대형견 6개 골반지(평균 체중 27.7 ± 9.7 kg)이며, CT로 뼈와 CrCL 부착부를 분절하고 이중면 방사선촬영과 광학추적으로 수동 굴신-신전 시의 대퇴-경골 운동학을 계산했다. 연구진은 인대 궤적을 외측과(condyle) 내측면의 후보 대퇴 노드에서 CrCL 원래 부착부의 중심을 중심으로 반경 5 mm 원 내부의 경골 노드까지 직선 세그먼트로 모델링했다. 굴신-신전 동안 최대 스트레인이 가장 낮은 대퇴 노드들은 원래 CrCL 부착부 중심보다 앞쪽(cranial) 및 근위(proximal)에 군집했고, 연속적인 5 mm 직경 영역이 최대 스트레인 6.5–9% 범위에서 일관되게 확인되었다. 반대로 원래 부착부의 뒤쪽(caudal) 및 전-원위(cranio-distal) 노드들은 30% 이상의 높은 스트레인을 보였다. 연구는 주관절별 3D 동역학 모델링으로 9% 최대 스트레인 컷오프에서 드릴 적용 가능한 대퇴·경골 영역을 일관되게 식별했으나, 임상 이식 적용을 위해서는 능동 하중, 연부조직 역학 및 SL 구조를 통합한 모델의 추가 개선이 필요하다고 결론지었다.",
+      "title": "Image based three-dimensional kinematic mapping to optimize femoral tunnel placement for intra-articular cranial cruciate ligament reconstruction in dogs.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-09-10T23:12:20.207Z",
+      "model": "gpt-5-mini"
+    },
+    "42720853": {
+      "brief_summary": "본 연구는 일본 도쿄에서 2020년과 2023년에 확인된 두 마리의 개에서 Ehrlichia canis (E. canis)를 분자적으로 특성화한 연구로, 목적은 검출된 균주의 유전적 다양성 평가였다. 검체에서 16S rRNA와 groEL 유전자는 두 증례에서 동일한 반면 p28 및 trp36 유전자에서는 다양성이 관찰되었고, 한 증례에서는 trp36에 이전보고 없는 26아미노산 반복서열 변이가 확인되었다. 계통분석 결과 두 증례의 E. canis 서열이 서로 다른 군집에 속해 일본 내 유전형 다양성과 지역 내 전파 또는 이전에 인지되지 않은 도입 가능성을 시사했다.",
+      "detailed_summary": "연구는 2020년과 2023년에 도쿄에서 검출된 두 마리의 개를 대상으로 하였고, 비장 및 혈액에서 추출한 DNA에 대해 polymerase chain reaction (PCR)을 시행하여 16S rRNA, groEL, p28, trp36 유전자를 표적으 로 증폭한 뒤 염기서열 분석 및 계통분석을 수행하였다. 결과적으로 두 증례는 16S rRNA와 groEL 서열은 여러 E. canis 균주와 동일했으나 p28 및 trp36에서는 서열 다양성이 관찰되었다. 특히 한 증례에서는 trp36에 이전에 보고된 적이 없는 26아미노산 길이의 반복서열 변이가 확인되어 새로운 trp36 반복변이(일본형)로 보고되었다. 염기서열 기반 계통수 분석에서는 두 증례의 서열이 서로 다른 군집에 배치되어 유전적으로 구별되는 변이가 존재함을 시사하였다. 저자들은 이러한 결과가 일본에서 검출된 E. canis의 유전적 다양성에 대한 증거를 제공하며 지역 전파 또는 이전에 인지되지 않은 도입의 가능성을 제시한다고 결론지었다.",
+      "title": "Genetic variants of Ehrlichia canis detected in two dogs in Japan.",
+      "journal": "Veterinary Research Communications",
+      "generated_at": "2026-09-10T23:13:33.534Z",
       "model": "gpt-5-mini"
     }
   }
