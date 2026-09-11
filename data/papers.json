@@ -1,6 +1,108 @@
 {
-  "updated_at": "2026-09-10T23:11:58.219Z",
+  "updated_at": "2026-09-11T23:16:56.862Z",
   "papers": [
+    {
+      "pmid": "42725899",
+      "title": "Citation clarification regarding feline eltrombopag in the \"ACVIM consensus statement on the treatment of immune thrombocytopenia in dogs and cats\".",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Kim J, Kwak D",
+      "date": "2026 09 11",
+      "dateObject": "2026 09 11",
+      "abstract": "",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42725102",
+      "title": "Case Report: Spinal proliferative meningitis with arachnoid diverticulum formation in a dog.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Hajek I, Matiasek K, Caine A, Palus V",
+      "date": "2026 09 11",
+      "dateObject": "2026 09 11",
+      "abstract": "This case report describes a 4-year-old Golden Retriever with chronic progressive motor impairment of pelvic limbs. A neurological examination revealed non-painful ambulatory paraparesis, and magnetic resonance imaging detected an eccentric cystic lesion that compressed the thoracic part of the spinal cord. The surgical approach consisted of spinal cord decompression and lesion excision, along with vertebral column stabilization. A neuropathological examination revealed dural and arachnoid hypertrophic calcifying changes with lymphoplasmacytic and neutrophilic infiltration. This is the first documented case of inflammatory meningoproliferative spinal cord disorder associated with arachnoid diverticulum formation in dogs.",
+      "categories": [
+        "surgery",
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "42723064",
+      "title": "Baicalin alleviates Trueperella pyogenes-induced endometritis with associated changes in gut microbiota composition.",
+      "journal": "BMC Veterinary Research",
+      "authors": "Peng Z, Gou C, Guan Y, Wang Y, Liu Y, Wang F, Wang R, Qi M",
+      "date": "2026 09 11",
+      "dateObject": "2026 09 11",
+      "abstract": "Endometritis is a prevalent reproductive disorder in livestock characterized by inflammation, oxidative stress, and microbial imbalance; however, the mechanistic links among these processes remain incompletely understood. This study investigated the protective effects of baicalin in a Trueperella pyogenes (T. pyogenes)-induced mouse model of endometritis by integrating network pharmacology, in vivo validation, and gut microbiota profiling. Network pharmacology analysis identified prostaglandin-endoperoxide synthase 2 (PTGS2, also known as cyclooxygenase-2, COX-2) and epidermal growth factor receptor (EGFR) as key targets of baicalin, with enrichment in arachidonic acid metabolism pathways. Baicalin treatment alleviated uterine pathology and suppressed inflammatory responses, as indicated by reduced tumor necrosis factor-alpha (TNF-&#x3b1;), interleukin-1 beta (IL-1&#x3b2;), interleukin-6 (IL-6), and myeloperoxidase (MPO) activity. Baicalin also restored redox homeostasis by activating the Nrf2/Keap1/HO-1 pathway, increasing catalase (CAT) and superoxide dismutase (SOD) activities while decreasing malondialdehyde (MDA) levels, and concurrently reduced apoptosis, as evidenced by a lower ratio of Bcl-2-associated X protein (Bax) to B-cell lymphoma 2 (Bcl-2) (the Bax/Bcl-2 ratio). Concurrently, 16&#xa0;S rRNA gene sequencing revealed that baicalin treatment was associated with alterations in gut microbiota composition, including changes in the relative abundance of several bacterial taxa linked to inflammation and metabolic functions. However, whether these microbial changes play a causal role in the observed protection remains to be determined. These findings indicate that baicalin protects against endometritis through coordinated regulation of inflammation, oxidative stress, and apoptosis, and this protection was associated with shifts in gut microbiota composition. The results provide insight into the host-microbiota interactions accompanying endometritis and support baicalin as a potential therapeutic candidate, while highlighting the need for further causal investigations.",
+      "categories": [
+        "internalMedicine",
+        "oncology"
+      ]
+    },
+    {
+      "pmid": "42723045",
+      "title": "Correction: Clinico-pathological and renal morphological findings in dogs naturally infected with Dirofilaria repens.",
+      "journal": "BMC Veterinary Research",
+      "authors": "Szab&#xf3; K&#xc9;, Aresu L, M&#xfc;ller L, Szil&#xe1;gyi E, Falus FA, Balogh N, Boros M, Papp T, Manczur F",
+      "date": "2026 09 11",
+      "dateObject": "2026 09 11",
+      "abstract": "",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42723058",
+      "title": "Integrated endocrine-oxidative-metabolic and trace element responses to heat and cold stress in dromedary camels (Camelus dromedarius).",
+      "journal": "BMC Veterinary Research",
+      "authors": "Zaki MG, Ramadan ES, Oraby MI, Ryad NM",
+      "date": "2026 09 11",
+      "dateObject": "2026 09 11",
+      "abstract": "The dromedary camel (Camelus dromedarius) possesses remarkable physiological adaptations to withstand harsh desert conditions, including heat stress and drought. This study aimed to evaluate the effects of heat and cold stress on oxidative stress biomarkers, hormones, lipid, and mineral concentrations in dromedary camels. A total of 45 apparently healthy adult male dromedary camels were included in the study. Blood samples were collected, plasma and serum were separated for the determination of oxidative stress biomarkers, hormones, metabolic, and trace mineral parameters. During heat stress, cortisol, zinc, and copper concentrations increased significantly (p&#x2009;<&#x2009;0.05), whereas total antioxidant capacity (TAC), triiodothyronine (T3), glucose, and triglyceride concentrations decreased significantly (p&#x2009;<&#x2009;0.05). In contrast, cold stress was associated with significant (p&#x2009;<&#x2009;0.05) increases in catalase (CAT), malondialdehyde (MDA), T3, glucose, and cortisol concentrations, while TAC, triglycerides, and copper concentrations decreased significantly (p&#x2009;<&#x2009;0.05). Strong positive (p&#x2009;<&#x2009;0.01) correlation between T3 and thyroxine (T4), whereas a strong negative (p&#x2009;<&#x2009;0.01) correlation was observed between zinc and cholesterol. Positive (p&#x2009;<&#x2009;0.05) correlations were also detected between glucose and MDA, cortisol and CAT, and copper and TAC. Conversely, negative (p&#x2009;<&#x2009;0.05) correlations were found between triglycerides and CAT, triglycerides and T4, triglycerides and cortisol, zinc and triglycerides, cholesterol and glucose, and copper and MDA. During summer, positive correlations were observed between glucose and MDA, T3 and T4, as well as between cholesterol and both T3 and T4. In contrast, glucose showed negative correlations with both T3 and T4, while zinc was negatively correlated with copper. During autumn, positive correlations were detected between CAT and TAC, T3 and T4, and glucose and zinc. Conversely, negative correlations were observed between triglycerides and TAC, cortisol and T4, glucose and cholesterol, and zinc and cholesterol. During winter, T3 was positively correlated with zinc but negatively correlated with TAC. Cold stress exerted a more pronounced effect on oxidative balance and metabolic activity in dromedary camels than heat stress. Regular monitoring of these parameters is recommended for the early detection of physiological disturbances during the cold season.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42726409",
+      "title": "Acute hemodynamic and echocardiographic responses to pimobendan versus levosimendan in a dog with decompensated dilated cardiomyopathy.",
+      "journal": "Veterinary Research Communications",
+      "authors": "Varlik T, Algan D, Polat EN, Sa&#x11f; S, Tanaka R, Yilmaz Z",
+      "date": "2026 09 11",
+      "dateObject": "2026 09 11",
+      "abstract": "Dilated cardiomyopathy (DCM) is a major cause of systolic heart failure in dogs, characterized by ventricular dilation and reduced contractility. During acute decompensation, rapid inodilator therapy is essential to stabilize hemodynamics. This case describes serial changes in non-invasive blood pressure and left ventricular systolic function observed during sequential administration of two inodilator agents via different routes on consecutive days. An Anatolian shepherd dog was presented with acute respiratory distress. Echocardiography revealed severe left ventricular dilation and systolic dysfunction, and DCM was diagnosed using established criteria. Because oral therapy was initially not tolerated, intravenous pimobendan was administered, producing a rapid but transient improvement in systolic indices and global longitudinal strain (GLS). After transition to oral pimobendan the following day, systolic function improved mildly, while GLS remained markedly reduced. Levosimendan was subsequently administered as an intravenous bolus, resulting in only minimal improvement in systolic parameters and GLS. A continuous infusion was then initiated; however, systolic measurements remained largely unchanged during infusion. Serial echocardiographic assessment, particularly GLS, documented temporal changes in myocardial function during sequential inodilator therapy. These findings represent descriptive clinical observations from the management of a single patient and should not be interpreted as evidence of comparative efficacy or superiority of one inodilator over another. Because atrial fibrillation and temporal variation in heart rate may have influenced echocardiographic measurements throughout the monitoring period, the findings should be interpreted within the methodological limitations of this sequential single-case report.",
+      "categories": [
+        "cardiology",
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42724435",
+      "title": "Suspected recurrent sarcoma resembling feline injection-site sarcoma with spinal cord invasion in a cat.",
+      "journal": "JFMS Open Reports",
+      "authors": "Pope EA, Cox A, Premanandan C, Selting KA, Selmic LE",
+      "date": "2026 09 11",
+      "dateObject": "2026 09 11",
+      "abstract": "A 6-year-old, neutered male domestic shorthair cat was referred for evaluation of a recurrent subcutaneous mass on the right caudodorsolateral hip, 4 months after excision of a presumed feline injection site sarcoma (FISS). Advanced imaging revealed a bilobed soft tissue mass closely associated with the sciatic nerve and rectum. Surgical excision was limited by adjacent structures, and histopathology confirmed a sarcoma with incomplete margins. Definitive-intent radiation therapy was administered postoperatively. Follow-up imaging initially demonstrated no evidence of local recurrence. Approximately 9 months after completion of radiation therapy, the cat developed progressive pelvic limb paraparesis, fecal incontinence and urinary retention. MRI identified a large contrast-enhancing extradural spinal lesion extending from L5 to the sacrum, with suspected intramedullary invasion and marked thickening of the lumbosacral nerve roots. Surgical exploration with hemilaminectomy and spinal cord biopsy revealed a poorly differentiated sarcoma histologically similar to the original tumor. Progressive disease was confirmed on follow-up imaging, and palliative radiation therapy was administered. Despite treatment, the cat developed severe neurologic deterioration and was humanely euthanized. This report describes the first documented case of spinal cord invasion secondary to a FISS-like fibrosarcoma without local recurrence at the primary site. Perineural invasion along the sciatic nerve is proposed as a biologically plausible mechanism of tumor extension. This case highlights an uncommon but severe pattern of disease progression and underscores the importance of considering perineural spread in incompletely excised FISS-like tumors associated with major peripheral nerves. Recurrent tumor affecting the spinal cord in a cat Injection site sarcomas are aggressive cancers in cats that can develop at sites of previous injections or inflammation. These tumors often grow quickly and can be difficult to fully remove with surgery, especially when they are located near important structures such as nerves or organs. In this case, a 6-year-old cat developed a cancerous mass on his right hip that recurred shortly after initial surgery. Because the tumor was close to the sciatic nerve and rectum, complete removal with wide margins was not possible. Radiation therapy was used to help control the disease, and imaging initially suggested the cancer was stable. Several months later, the cat began showing signs of nerve damage, including weakness in the back legs, difficulty jumping, and loss of bowel and bladder control. Advanced imaging of the spine revealed a new mass compressing and invading the spinal cord. Surgery and biopsy confirmed that this lesion was also cancerous and likely related to the original tumor. Despite additional radiation treatment, the cancer progressed, leading to severe neurologic decline. The cat was ultimately euthanized for quality-of-life reasons. This case is important because it documents a previously unreported complication of injection site sarcoma: spread of the tumor into the spinal cord. The findings suggest that cancer cells may travel along nerves, even when no mass is visible at the original surgery site. Greater awareness of this potential behavior may help veterinarians better monitor and manage cats with aggressive sarcomas, particularly when tumors are located near major nerves.",
+      "categories": [
+        "internalMedicine",
+        "oncology",
+        "surgery",
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "42722447",
+      "title": "Forensic LC-MS/MS Monitoring of Anticoagulant Rodenticide Poisoning in Cats Over a Half-Decade.",
+      "journal": "Veterinary Medicine and Science",
+      "authors": "Chae H, Byun JW, Yim SJ, Ku BK, Kim TW, Kang J",
+      "date": "2026 09 10",
+      "dateObject": "2026 09 10",
+      "abstract": "Anticoagulant rodenticides (ARs) are important toxicants in veterinary forensic investigations involving suspected poisoning in cats. This study aimed to develop and validate a standardized LC-MS/MS-QTRAP method for the simultaneous identification and quantification of eight ARs in gastric matrices from cats and to assess its applicability to veterinary forensic toxicology. Automated sample preparation was implemented to reduce inter-analyst variability. Dual confirmation using multiple reaction monitoring (MRM) and enhanced product ion (EPI) spectra was applied to improve identification reliability and minimize false-positive results caused by structurally related compounds. The method was applied to 747 cat forensic toxicology cases submitted between January 2020 and August 2025, in which gastric tissue or gastric contents were available for analysis. ARs were detected in 2.5% of cases (19/747). Coumatetralyl was the most frequently detected AR, followed by flocoumafen and bromadiolone. Flocoumafen was detected despite not being an officially registered active ingredient in Korea, highlighting the need for broad multi-analyte screening. The standardized LC-MS/MS-QTRAP method enabled reliable detection and quantification of ARs in gastric matrices from cats. This approach provides useful forensic evidence of recent AR exposure in suspected poisoning cases and may support improved toxicovigilance for registered and unregistered rodenticides.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
     {
       "pmid": "42718794",
       "title": "Image based three-dimensional kinematic mapping to optimize femoral tunnel placement for intra-articular cranial cruciate ligament reconstruction in dogs.",
@@ -835,18 +937,6 @@
       ]
     },
     {
-      "pmid": "42676405",
-      "title": "Genomic diversity and novel sequence types of Pasteurella multocida from diverse animal hosts in Connecticut, United States, 2022-2023.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Barron J, Soriano NF, Helal ZH, Hyeon JY, Risatti GR",
-      "date": "2026 09 01",
-      "dateObject": "2026 09 01",
-      "abstract": "Pasteurella multocida is a zoonotic pathogen infecting a wide range of domestic and wild animals. Although genomic data are available for several domestic hosts, isolates from wildlife remain underrepresented. Here, we performed whole-genome sequencing of nine P. multocida isolates recovered in Connecticut between 2022 and 2023 from cows, a deer, a rabbit, a cat, and a pheasant to characterize their genetic features and enhance our understanding of the host-associated diversity. All isolates except one feline strain shared a common genotype across multiple host species, being classified as capsular type A and LPS type L3. In contrast, the feline isolate lacked a detected capsule locus and was classified as LPS type L1. Bovine isolates exhibited higher antimicrobial resistance, including the only multidrug-resistant isolate, and exclusively harbored antimicrobial resistance (AMR) genes [ aph (3')-Ia, aph (6)-Id, sul2 , and tet (H)], whereas non-bovine isolates showed low resistance and no evidence of AMR determinants. Multilocus sequence typing revealed that all bovine isolates belonged to ST1 (Multi-Host scheme) and ST79 (RIRDC scheme), while non-bovine isolates displayed greater genetic diversity, including five novel sequence types. Virulence-associated genes were largely conserved across hosts. Core-genome SNP-based phylogenetic analysis revealed largely host-associated clustering, with bovine isolates grouping with bovine lineages from other countries and non-bovine isolates clustering with genetically diverse international lineages, including avian and human-associated strains. Collectively, these findings highlight host-linked patterns in AMR and genomic diversity of P. multocida and underscore the importance of integrated phenotypic and genomic surveillance across animal hosts.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
       "pmid": "42529917",
       "title": "Consuming treats with amino acids, osmolytes and sodium increased total water intake and decreased urine specific gravity of healthy cats.",
       "journal": "Journal of Feline Medicine and Surgery",
@@ -1614,18 +1704,6 @@
       ]
     },
     {
-      "pmid": "42636342",
-      "title": "Prolonged survival of 3 dogs with Prototheca bovis infection treated with posaconazole.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Langner KFA, Higgins A, Roser M, Bunn TA, Lam A, Proskurnicka A, Jagielski T, Malik R",
-      "date": "2026 08 24",
-      "dateObject": "2026 08 24",
-      "abstract": "Primary enteric or disseminated infections with Prototheca bovis in dogs typically are associated with short survival times despite treatment. We describe the extended clinical course of 3 dogs diagnosed with enteric P. bovis infection treated with antifungal therapy incorporating posaconazole. One dog was alive 45&#xa0;months after starting treatment, exhibiting only mild, intermittent diarrhea and no detectable algae on rectal cytology. This dog also received SC amphotericin B (AMB) infusions during the first month after diagnosis. The second dog, managed exclusively with posaconazole, was alive after 39&#xa0;months with moderate mixed-bowel diarrhea and ongoing P. bovis shedding but without clinical signs of dissemination. The third dog survived 21&#xa0;months before death because of central nervous system dissemination; additional treatments included itraconazole, AMB, terbinafine, and immunotherapy using an autologous vaccine. Posaconazole was well tolerated in all dogs and can be considered a therapeutic option for dogs with enteric protothecosis.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
       "pmid": "42633613",
       "title": "Dog Breeding in Italy: A Technical Overview of Husbandry and Reproductive Management.",
       "journal": "Veterinary Medicine and Science",
@@ -2009,16 +2087,6 @@
       "categories": []
     },
     {
-      "pmid": "42365334",
-      "title": "Correction: Feasibility and usefulness of inhospital and at-home salivary sampling in healthy dogs and trilostane-treated dogs with Cushing's syndrome: a prospective observational study.",
-      "journal": "BMC Veterinary Research",
-      "authors": "Meunier SM, Voegel CD, Neubert E, Harburger LA, Riond B, Hofmann-Lehmann R, Boretti FS, Sieber-Ruckstuhl NS",
-      "date": "2026 08 13",
-      "dateObject": "2026 08 13",
-      "abstract": "",
-      "categories": []
-    },
-    {
       "pmid": "42593707",
       "title": "Combined effects of dietary ellagic acid and Bacillus coagulans on growth performance, antioxidant and immune responses, intestinal health, and resistance to Streptococcus agalactiae in striped catfish.",
       "journal": "Veterinary Research Communications",
@@ -2085,18 +2153,6 @@
       "dateObject": "2026 08 12",
       "abstract": "ObjectivesTo investigate the prevalence of hypo- and hypercobalaminemia in a cohort of cats with diverse disease pathologies and to assess associations with signalment and disease characteristics.MethodsResidual blood from cats presented to a large veterinary referral hospital during a 24-month period was used for serum B12 quantification. All cats requiring blood collection as part of diagnostic investigations were eligible for inclusion regardless of clinical presentation. Serum B12 concentration was assessed according to signalment, body weight, body condition score, primary affected body system and type of disease pathology as derived from the clinical notes.ResultsA total of 229 cats were enrolled: 128 male (119 neutered, 9 entire) and 101 female (88 neutered, 13 entire). Of these, 176 were domestic shorthair or longhair, and 53 were purebred. The median age was 9.9 years and median body weight 4.1 kg. Of the 229 cats, 80 (34.9%) had high, 86 (37.6%) normal, 18 (7.9%) borderline, and 45 (19.7%) low serum B12. Median serum B12 concentration was higher in cats aged <8.0 years than &#x2265;8.0 years, and there was a weak but significant negative correlation between age and serum B12. Median serum B12 concentration was lower in cats weighing <3.0 kg than in those &#x2265;3.0 kg, and a weak but significant positive correlation was found between body weight and serum B12 concentration. No associations were found between serum B12 and sex, breed, body condition score, affected body system, or pathology type.Conclusions and relevanceVitamin B12 aberrations were common in this cohort of cats, approximately a third and a fifth having abnormally high and low serum concentrations respectively. Serum vitamin B12 concentration declined with advancing age, and hypocobalaminemia was more prevalent in cats with body weights <3.0kg. Hypo- and hypercobalaminemia were documented in cats with a wide variety of clinical presentations, and no specific disease associations were elucidated.",
       "categories": []
-    },
-    {
-      "pmid": "42579370",
-      "title": "Antibacterial Effect of the In Vitro Interaction Between Clotrimazole and Chlorhexidine Against Staphylococcus pseudintermedius With Known Resistance Patterns Isolated From Canine Pyoderma.",
-      "journal": "Veterinary Medicine and Science",
-      "authors": "Gallegos-Torres B, Alfonseca-Silva E, Ledesma-Carrasco C, Aquino-D&#xed;az I",
-      "date": "2026 08 11",
-      "dateObject": "2026 08 11",
-      "abstract": "Staphylococcus pseudintermedius is the main etiological agent of canine pyoderma and exhibits increasing multidrug resistance. Due to the reduced efficacy of antimicrobials, topical combinations of antimicrobial agents-such as chlorhexidine (CHX) and clotrimazole (CLT)-have gained attention as an alternative. To evaluate the in vitro antibacterial activity and pharmacological interaction of a 2:1 CHX-CLT combination against S. pseudintermedius isolates from canine pyoderma. Sixteen isolates of S. pseudintermedius were obtained from canine pyoderma and identified by PCR detection of the nuc gene. Methicillin resistance was assessed both phenotypically, by oxacillin disk diffusion, and genotypically, through mecA detection. Minimum inhibitory concentrations for CHX, CLT and their 2:1 combination were determined by broth microdilution using resazurin. The fractional inhibitory concentration index was calculated to assess drug interaction. All isolates carried both nuc and mecA genes, while only 25% were phenotypically resistant to oxacillin. CHX exhibited MIC 50 and MIC 90 values of 0.781 and 1.562&#xa0;&#xb5;g/mL, respectively; CLT showed 6.25 and 12.5&#xa0;&#xb5;g/mL. In the 2:1 CHX-CLT combination, MICs were reduced up to 6-fold, with MIC 50 and MIC 90 values of 0.39-0.781&#xa0;&#xb5;g/mL (CHX) and 0.195-0.39&#xa0;&#xb5;g/mL (CLT). The interaction was additive in 81.25% of isolates and indifferent in the remainder. The CHX-CLT combination demonstrated enhanced in vitro antibacterial activity with predominantly additive interactions against S. pseudintermedius. The results support the rational use of CHX-CLT topical formulations as an effective therapeutic alternative for canine pyoderma in the context of growing antimicrobial resistance.",
-      "categories": [
-        "dermatology"
-      ]
     },
     {
       "pmid": "42579237",
@@ -2667,18 +2723,6 @@
       ]
     },
     {
-      "pmid": "42489955",
-      "title": "Antimicrobial resistance profiles of bacterial pathogens from feline urinary tract infections in Rio de Janeiro, Brazil.",
-      "journal": "Veterinary Research Communications",
-      "authors": "Oliveira BB, da Silva CAM, de Souza IB, Cabral MG, Silva BC, Soares BRP, do Nascimento JS, Rodrigues TA, Aquino FMA, de Aguiar WS, Ramundo MS",
-      "date": "2026 07 23",
-      "dateObject": "2026 07 23",
-      "abstract": "This study characterized the bacterial epidemiology and antimicrobial resistance profiles of 448 isolates recovered from feline urine cultures in Rio de Janeiro, Brazil, between 2020 and 2024. Antimicrobial susceptibility was assessed by disk diffusion and interpreted according to CLSI VET01S and Brazilian Committee on Antimicrobial Susceptibility Testing (BrCAST) breakpoints. Escherichia coli was the predominant pathogen (45.1%), followed by Proteus spp. (16.3%) and Klebsiella spp. (12.5%). Resistance to antimicrobials recommended as first-line options by the ISCAID guidelines was frequent among E. coli isolates, including trimethoprim-sulfamethoxazole (57.2%), cephalexin (52.5%), and amoxicillin-clavulanate (43.9%). Veterinary fluoroquinolones showed moderate resistance (enrofloxacin 28.5%, marbofloxacin 20.9%), while nitrofurantoin resistance reached 37.7%. Third-generation cephalosporins and carbapenems retained the highest activity (ceftazidime 13.2%; meropenem 0%). Multidrug resistance (MDR) was observed in 55.8% of all isolates, with the highest prevalence in Proteus spp. (79.5%) and E. coli (57.9%). Resistance to third-generation cephalosporins was detected in 22.8% of E. coli isolates, and carbapenem resistance was detected in 5 isolates from different species. These findings indicate that resistance to first-line agents is common in feline uropathogens in this setting and support the routine use of urine culture and antibiotic susceptibility testing to guide antimicrobial therapy.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
       "pmid": "42437608",
       "title": "Influence of prior administration of gabapentin and integrative practices on sedation scores, physiological parameters, and propofol requirement in cats sedated with dexmedetomidine.",
       "journal": "Topics in Companion Animal Medicine",
@@ -3054,30 +3098,6 @@
       ]
     },
     {
-      "pmid": "42387531",
-      "title": "Veterinarians' attitudes towards the treatment and surgical management of brachycephalic dogs - a survey among small animal veterinarians in Austria.",
-      "journal": "BMC Veterinary Research",
-      "authors": "Hebenstreit M, Springer S",
-      "date": "2026 07 02",
-      "dateObject": "2026 07 02",
-      "abstract": "The rising popularity of flat-faced dog breeds has intensified discussions around brachycephaly and its associated health risks. The structural shortening of the skull coupled with a lack of a concurrent reduction in the volume of the soft tissues in these breeds often results in chronic health issues, notably Brachycephalic Obstructive Airway Syndrome (BOAS), which remains incurable but may be alleviated through corrective surgical interventions. In light of these challenges, veterinarians are increasingly called upon to provide informed guidance and support to pet owners navigating the complexities of brachycephalic breed care. Using an online questionnaire distributed to practising veterinarians in Austria (N&#x2009;=&#x2009;395), we explored small animal veterinarians' attitudes regarding the treatment and surgical management of brachycephalic dogs. Veterinarians estimated that signs of BOAS are the primary presenting issue in 41-50% of the brachycephalic dogs they treat. According to the majority of surveyed veterinarians, snoring (96%) and difficulty breathing (92%) are frequently observed by owners. 40% of respondents disagreed that the treatment of brachycephalic dogs is interesting from a medical point of view. A further 30% stated that treating brachycephalic dogs is no different for them than treating other dogs. Surgical interventions for BOAS are recommended more frequently than they are performed, and veterinarians who perform surgery or work in surgical practices are significantly more likely to recommend these procedures (p&#x2009;<&#x2009;0.001). Moreover, 70% of the veterinarians identified financial constraints as a common reason why owners decline surgical options. The severity of clinical signs of BOAS did not result in significant differences in the likelihood of recommending surgery (p&#x2009;=&#x2009;0.363). Our study highlights the complexity surrounding attitudes to brachycephaly in dogs within the veterinary profession. While a significant proportion of veterinarians recognise the prevalence of BOAS signs, there is notable uncertainty regarding the treatment of these dogs. To address this, it is essential to enhance educational efforts aimed at both veterinarians and owners, ensuring a better understanding of the condition and its management.",
-      "categories": [
-        "surgery"
-      ]
-    },
-    {
-      "pmid": "42381034",
-      "title": "Molecular characterization and risk factors analyses of zoonotic gastrointestinal nematodes in pet and semi-pet dogs in Haryana, India.",
-      "journal": "BMC Veterinary Research",
-      "authors": "Rani S, Moudgil P, Gupta R, Agnihotri D, Kumar M, Moudgil AD",
-      "date": "2026 07 01",
-      "dateObject": "2026 07 01",
-      "abstract": "Dogs play an important role in the transmission of zoonotic parasites to humans. Among these, gastrointestinal (GI) helminths are widely prevalent and pose a significant public health risk. This study investigated the prevalence, molecular characterization and risk factors analyses of gastrointestinal nematodes in pet and semi-pet dogs in Haryana, India, to assess their potential zoonotic relevance. A total of 310 faecal samples were collected from pet and semi-pet dogs from five randomly selected blocks of Hisar district of Haryana, India and examined for the presence of zoonotic GI nematodes. Of these, 77 samples (24.85%) were found positive for zoonotic GI nematodes. Among the positive samples, 73 (94.80%) exhibited single parasitic infection with Ancylostoma spp. and three (3.90%) with Toxocara spp., whereas mixed infection with both parasites was observed in only one (1.30%) sample. A Toxocara spp. worm was also observed in one of the Toxocara spp. positive faecal samples. Molecular characterization based on the cox1 gene identified Ancylostoma spp. as Ancylostoma caninum and Toxocara spp. as Toxocara canis. Phylogenetic analysis revealed that the A. caninum sequences of the present study formed a distinct clade compared to sequences reported from other countries. In case of T. canis, no geographical segregation of clades was observed and the sequences generated herein assorted with the sequences of China, Poland, Russia and Brazil origin. Univariate logistic regression analysis identified breed, deworming status, living conditions of the dog, type of housing, contact with stray dogs, history of allotriophagia, vaccination status and faecal score to be significantly associated (p&#x2009;<&#x2009;0.05) with GI nematodosis in dogs. Multivariate analysis identified history of allotriophagia (p&#x2009;=&#x2009;0.0158) as the major significant risk factor. The high prevalence of zoonotic GI nematodes underscores the potential role of pet and semi-pet dogs as sources for these parasites. This highlights the probable risk of transmission of these zoonotic parasites to humans, particularly in settings with close human-dog interactions. Raising awareness among dog owners and caretakers regarding zoonotic GI nematodes and their routes of transmission could act as a key for controlling and preventing zoonotic GI nematodosis in dogs under the One-Health framework.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
       "pmid": "42369665",
       "title": "Successful management of anuric acute kidney injury associated with aortic thromboembolism with peritoneal dialysis in a cat.",
       "journal": "JFMS Open Reports",
@@ -3180,19 +3200,6 @@
       "categories": [
         "surgery",
         "dermatology"
-      ]
-    },
-    {
-      "pmid": "42222746",
-      "title": "Malignant synovial and perisynovial tumor in the stifle joint of a juvenile cat: histopathological and immunohistochemical findings.",
-      "journal": "JFMS Open Reports",
-      "authors": "Mach&#xed;n V, Godi&#xf1;o G, Hern&#xe1;ndez Pereira CD, Cazzuli G, Garc&#xed;a &#xc1;lvarez F, Yamasaki K, Verdes JM",
-      "date": "2026 06 01",
-      "dateObject": "2026 06 01",
-      "abstract": "A 1-year-old domestic cat was presented with lameness and progressive swelling of the right stifle joint. The condition had been present for 1 month; during the consultation, it was evident that the cat was not bearing weight on the limb, which also exhibited muscle atrophy and tremors, as well as signs of pain upon manipulation. After sedation, crepitus was noted at the femorotibial-patellar joint. Radiographic examination showed osteolysis, and during clinical exploration, tumor cells destroying the joint were confirmed by cytology. Surgical excision was performed via limb amputation, and the mass was found to measure 3&#x2009;&#xd7;&#x2009;5&#x2009;&#xd7;&#x2009;3&#x2009;cm. Histopathological analysis showed a biphasic neoplasm composed of spindle-shaped mesenchymal-like cells and large epithelial-like cells. Normal joint structures, including the capsule and articular cartilage, were completely effaced by neoplastic infiltration, including similar neoplastic changes in distal femur and proximal tibia epiphyses, metaphyses and diaphyses. Tumor cells were immunopositive for either vimentin or cytokeratin. Based on the 2020 World Health Organization (WHO) classification, the tumor was diagnosed as a malignant synovial and perisynovial neoplasm. The cat died 3 months after surgery; at the owner's request, no post-mortem examination was conducted. &#x2003;To the authors' knowledge, this is the first reported case of malignant synovial and perisynovial neoplasia diagnosed in a juvenile cat in accordance with the 2020 WHO classification. This case provides new insights into the histopathological findings of this rare tumor type in feline patients. Rare joint cancer in a young cat A 1-year-old domestic cat was examined because of lameness and progressive swelling of the right stifle joint that had been present for about 1 month. The cat was unable to bear weight on the limb and showed muscle loss, tremors and pain when the joint was moved. Imaging showed bone destruction around the joint. Examination of cells collected from the joint indicated the presence of a tumor. The affected limb was surgically removed, and the mass measured 3&#x2009;&#xd7;&#x2009;5&#x2009;&#xd7;&#x2009;3&#x2009;cm. Microscopic examination showed an invasive cancer made up of two different types of tumor cells that had destroyed the normal structures of the joint and extended into the surrounding bones. Additional tests confirmed that the tumor was a malignant synovial and perisynovial neoplasm, according to the 2020 World Health Organization classification. The cat died 3 months after surgery. To the authors&#x2019; knowledge, this is the first reported case of this type of joint cancer in a young cat diagnosed using the current classification system.",
-      "categories": [
-        "oncology",
-        "surgery"
       ]
     },
     {
