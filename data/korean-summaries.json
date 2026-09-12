@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T23:19:44.016Z",
+  "updated_at": "2026-09-12T23:05:56.962Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -129,12 +129,28 @@
       "generated_at": "2026-07-24T13:55:23.520Z",
       "model": "gpt-5-mini"
     },
+    "41937610": {
+      "brief_summary": "본 연구는 2020년 1월~2022년 1월 포르투갈 민간 병리검사실에서 조직병리학적으로 확진된 359건의 개 피부 히스티오사이토마(Canine cutaneous histiocytoma, CCH)를 대상으로 발생률과 연령·품종·해부학적 분포를 군집분석으로 규명한 역학 연구이다. 사례는 주로 젊은 개(≤2년, 48.8%)와 수컷(58.5%)에 집중되었고 연령은 약 ≤1.5년, 1.5–3.5년, >3.5년의 세 구간으로 군집화되었다. 연간 발생률은 Lisbon-Setúbal 지역에서 10,000마리당 4.0건이었고 프렌치불도그(RR 11.5, IR 34.1)와 복서(RR 8.3, IR 24.5)가 혼합품종에 비해 유의하게 높은 위험을 보였다(p<0.001).",
+      "detailed_summary": "연구 설계는 2020–2022년 기간에 민간 병리검사실에서 조직병리학적으로 확진된 CCH 359건을 대상으로 하였고, 분모는 국가 등록(SIAC)을 사용하여 Lisbon-Setúbal 지역의 발생률(IR)을 산출했다. 연령 분석에는 BIC로 선택된 가우시안 혼합모형(Gaussian mixtures)을 사용하여 세 개의 연령 군집(대략 ≤1.5년, 1.5–3.5년, >3.5년)을 도출했고, 품종-해부학적 분포는 부위 빈도를 이용한 계층적 군집분석과 히트맵으로 요약하였다. 주요 결과로는 사례의 48.8%가 ≤2세에 발생했고 남성이 58.5%를 차지했으며, 지역 연간 IR은 10,000마리당 4.0(암컷 3.5, 수컷 4.4)이었다. 품종별로는 프렌치불도그(RR 11.5, IR 34.1)와 복서(RR 8.3, IR 24.5)가 혼합품종보다 유의하게 높은 위험을 보였고(p<0.001) 품종 및 성별에 따른 반복되는 해부학적 호발부위가 관찰되었다. 결론은 CCH가 명확한 연령대별 군집과 품종-연관 해부학적 소인을 보이며, 이러한 패턴이 염증에 의한 자연퇴행(regression) 연구에서 우선순위가 될 연령·부위·품종을 제시한다. 초록에는 별도의 연구 제한점이 명시되어 있지 않다.",
+      "title": "Epidemiology of Canine Cutaneous Histiocytoma: Insights From Age and Topographic Clustering.",
+      "journal": "Veterinary Dermatology",
+      "generated_at": "2026-09-12T23:05:56.946Z",
+      "model": "gpt-5-mini"
+    },
     "41943258": {
       "brief_summary": "본 연구는 canine pulmonary adenocarcinoma(cPAC) 세포주를 대상으로 FDA 승인 약물 스크리닝 결과에 따라 프로테아좀 억제제의 항종양 효과와 기전을 평가했다. Bortezomib과 carfilzomib은 용량 의존적으로 증식과 생존을 저해하고 ubiquitinated protein 축적, G2/M 정지, sub-G1 증가 및 caspase-3 절개 등을 유발했으며, carfilzomib과 carboplatin 병용은 일부 세포주(HDC, LuBi)에서 시너지를 보였다. 임상적으로는 carfilzomib과 carboplatin 병용이 유망하지만 효능·안전성·약동학 평가를 위한 추가적인 in vivo 및 임상 연구가 필요하다.",
       "detailed_summary": "연구는 cPAC 세포주(CLAC, HDC, LuBi)를 사용하여 FDA 승인 약물 라이브러리 스크리닝 후 프로테아좀 억제제에 연구 초점을 맞추었다. 단독 항암제로 bortezomib과 2세대 프로테아좀 억제제 carfilzomib을 평가했으며, 또한 표준 세포독성제(예: carboplatin, vinorelbine)와의 병용 효과를 조사했다. 주요 평가 항목은 세포 증식·생존률, 프로테아좀 표적 관여(유비퀴틴화 단백질 축적), 세포주기 변화(G2/M 정지, sub-G1 증가), 및 apoptosis 표지자(caspase-3 절개)였다. 두 약제는 농도 의존적으로 세포 증식과 생존을 감소시켰고, pan 및 선택적 caspase 억제가 부분적으로 세포 생존을 회복시켜 내·외인성 apoptosis와 카스파제 비의존성 기전이 모두 관여함을 시사했다. 또한 JNK–c‑Jun 경로 활성화와 Bim 발현 증가가 관찰되어 세포 스트레스와 apoptosis 유발이 확인되었다. 약물 상호작용 분석에서는 carfilzomib과 carboplatin의 병용이 HDC와 LuBi에서 일관된 시너지를 보였으나 vinorelbine과의 병용은 주로 가법 또는 길항 효과였고, 결론적으로 프로테아좀 억제제는 proteotoxic stress, 세포주기 정지 및 caspase 관련 apoptosis를 통해 세포독성을 나타내며 carfilzomib+carboplatin 조합이 유망하나 본 연구가 모두 in vitro 결과라는 중요한 제한점이 있어 in vivo 및 임상 연구를 통한 유효성·안전성·약동학 검증이 필요하다.",
       "title": "Proteasome Inhibitor-Induced Cytotoxic Mechanisms in Canine Pulmonary Adenocarcinoma Cell Lines.",
       "journal": "Veterinary and Comparative Oncology",
       "generated_at": "2026-08-10T23:13:28.015Z",
+      "model": "gpt-5-mini"
+    },
+    "41948785": {
+      "brief_summary": "본 연구는 알레르겐 특이 면역요법(ASIT)이 처방된 반려동물(개 아토피 피부염, cAD; 고양이 아토피 피부 증후군, FASS)의 보호자들을 대상으로 건강신념모형(Health Belief Model, HBM)을 적용해 ASIT 지속(구매·재처방)과 관련된 요인을 규명하고자 했다. 2020-01-01부터 2024-05-31 사이 네 곳의 수의피부과에서 ASIT 처방된 보호자를 설문조사하여, 보호자 보고의 리필 행동을 지속성의 대리변수로 사용했고 카이제곱검정 및 로지스틱 회귀로 연관성을 분석했다. 결과적으로 질환의 심각성 인식, 치료의 유익성 인식, 자기효능감이 높을수록 지속성과 양의 연관을 보였고 비용 우려와 투여의 어려움이 주요 장벽으로 확인되었다. 연구는 질환 영향·치료 가치·보호자 자신감에 중점을 둔 HBM 기반 교육 전략이 ASIT 지속성 및 장기 질환 관리에 도움이 될 수 있음을 시사한다.",
+      "detailed_summary": "연구 설계는 보호자 대상 설문 연구로, 2020-01-01부터 2024-05-31 사이에 ASIT가 처방된 반려동물의 보호자를 네 곳의 지리적으로 분포된 수의피부과에서 선별하였다. 동물은 직접 사용되지 않았으며 설문은 HBM 구성요소(지각된 감수성, 지각된 중증도, 지각된 이득, 지각된 장애물, 자기효능감, 사회적 지지)와 지식 영역을 평가했다. 보호자 보고의 ASIT 리필 행동을 지속성의 대리 지표로 삼았고, 연관성 평가는 카이제곱 검정과 로지스틱 회귀분석으로 수행되었다. 주요 결과는 보호자가 반려동물의 상태를 더 심각하다고 인식하거나 ASIT의 효과를 더 높게 평가하거나 투여에 대한 자신감(자기효능감)이 높을수록 지속적으로 치료를 이어갈 가능성이 높았다는 점이다. 반면 비용 우려와 투여의 어려움이 주요한 지각된 장애물로 파악되었다. 결론은 HBM에 근거한 교육적·지지적 개입으로 질환 영향의 이해, 치료의 가치 강조 및 보호자 자신감 향상을 도모하면 ASIT 지속성을 개선할 잠재력이 있다는 것이다.",
+      "title": "Applying the Health Belief Model to Identify Factors Associated With Owner Persistence to Allergen-Specific Immunotherapy.",
+      "journal": "Veterinary Dermatology",
+      "generated_at": "2026-09-12T23:05:30.768Z",
       "model": "gpt-5-mini"
     },
     "41950947": {
@@ -817,6 +833,22 @@
       "generated_at": "2026-08-01T06:48:16.304Z",
       "model": "gpt-5-mini"
     },
+    "42203245": {
+      "brief_summary": "미국의 수의 피부과 레퍼럴 진료기관 22곳에서 2023년 8월에 시행된 전향적 단면점유율 조사로, 첫 내원한 연속 25마리씩 총 550마리(개 479, 고양이 71)를 대상으로 항균제 사용 빈도와 유형을 조사했다. 항균제가 전체 사례의 54.9%에서 처방되었고, 개에 대한 전신 항생제 중 3세대 세파로스포린이 43.9%(54/123)를 차지했으며, 외이도염(otitis externa)에 대한 국소 항균제 중 36.4%(20/55)가 항생제와 항진균제 병용 제형이었다. 소독제(antiseptics)는 62.7%에서 사용되었고, 세포검사(cytology)는 항균제 치료 대상의 86.3%에서 시행된 반면 세균배양은 15.3%에 그쳐 권고된 가이드라인에 맞춰 광범위 전신 항생제 의존을 줄이고 국소 치료를 선호할 여지를 시사한다.",
+      "detailed_summary": "연구는 2023년 8월에 미국의 22개 수의 피부과 레퍼럴 클리닉에서 시행된 전향적 단면(point-prevalence) 조사로, 각 클리닉이 첫 25건의 연속 내원 사례를 등록하여 총 550마리(개 479, 고양이 71)를 포함했다. 수집된 변수는 임상 진단, 항균제 및 소독제 처방, 그리고 진단 검사(예: 세포검사, 세균배양)였다. 주요 결과로 전체 사례의 54.9%(302/550)에서 항균제가 처방되었고, 개에 대한 전신 항생제 중 3세대 세파로스포린(3rd-generation cephalosporins)이 43.9%(54/123)를 차지했다. 외이도염이 박테리아 단독 또는 효모 단독과 관련된 경우 국소 항균제 55건 중 36.4%(20건)가 항생제와 항진균제의 병용 제형이었다. 소독제는 62.7%의 사례에서 처방되었고, 항균제 치료 대상의 86.3%에서는 세포검사가 시행된 반면 세균배양은 15.3%에서만 사용되었다. 저자들은 이 결과가 수의 피부과 레퍼럴 진료에서 항균제 사용의 기준점(benchmark)을 제공하며, 광범위 전신 항생제에 대한 의존을 줄이고 국소 치료를 선호하도록 가이드라인과의 정렬 기회가 있음을 강조한다고 결론지었다. 초록에는 별도의 연구 한계가 구체적으로 기술되어 있지 않다.",
+      "title": "Prevalence of Antimicrobial Use in Small Animal Dermatology Referral Practices in the United States.",
+      "journal": "Veterinary Dermatology",
+      "generated_at": "2026-09-12T23:05:16.049Z",
+      "model": "gpt-5-mini"
+    },
+    "42203258": {
+      "brief_summary": "무작위 배정, 위약 대조 90일 임상시험에서 56마리의 고객 소유 개를 대상으로 경구 바이칼린(baicalin)의 효과와 안전성을 평가했다. 바이칼린 투여군은 CADESI-04, 소양증(VAS), TEWL, 총 IgE, 삶의 질(QoL) 점수가 D90에서 유의하게 감소했으며(CADESI-04·PVAS p < 0.001 등), 위약군에 비해 CADESI-04와 PVAS가 유의하게 낮았다(p < 0.001). 연구자는 바이칼린이 경증~중등도 개 아토피 피부염(cAD)의 임상 징후와 소양증을 경감시키고 내약성이 좋았다고 결론지었다.",
+      "detailed_summary": "연구는 56마리의 고객 소유 개를 무작위로 배정하여 90일간 경구 바이칼린 또는 위약을 투여한 이중군 임상시험이다. 평가 항목으로는 수의사 평가인 CADESI-04, 보호자 평가 소양증 지수(pruritus VAS, PVAS), 삶의 질(QoL) 설문, 피부의 경계 수분 소실(transepidermal water loss, TEWL), 총 혈청 IgE, CBC 및 혈액생화학 검사가 D0과 D90에 시행되었다. 바이칼린군은 D90에서 CADESI-04(p < 0.001), PVAS(p < 0.001), TEWL(p = 0.014), IgE(p < 0.001), QoL(p < 0.001)이 유의하게 감소하였다. 위약과 비교 시 CADESI-04와 PVAS에서 유의한 유리성이 관찰되었고(p < 0.001), 좋은-우수 치료반응을 보인 비율이 바이칼린군은 82.1%로 위약군 35.7%보다 높았다. 부작용은 보고되지 않았으며 연구진은 치료가 전반적으로 잘 견뎌졌다고 기술했다. 초록에는 표본 크기나 기간 등의 한계점에 대한 구체적 서술은 없으므로 한정된 표본과 단기간 결과를 고려한 추가 연구가 필요함을 염두에 둬야 한다.",
+      "title": "Efficacy of Oral Baicalin in Canine Atopic Dermatitis: A Randomised Placebo Controlled Trial.",
+      "journal": "Veterinary Dermatology",
+      "generated_at": "2026-09-12T23:05:01.215Z",
+      "model": "gpt-5-mini"
+    },
     "42206498": {
       "brief_summary": "본 연구는 개의 림프절 세포검사(reactive n=10, lymphoma n=34)에서 엑스트랙션한 mRNA가 NanoString nCounter 기반 유전자 발현 프로파일링(GEP)에 이용 가능한지 평가했다. RNeasy Mini Kit로 추출한 RNA는 농도(27.5–543.9 ng/μL, 중앙값 168.5 ng/μL)와 DV200(50.5%–93.2%, 중앙값 81.65%) 면에서 분석에 충분했으며, RIN은 1.0–7.2(중앙값 2.9)로 시간 경과에 따라 저하되었다. GEP에서는 MYC, TERT, BRCA2 등을 포함한 17개의 유전자가 림프종에서 과발현되어, 세포검사 표본으로도 NanoString Canine IO Panel을 이용한 유전자 발현 평가가 실용적임을 시사한다.",
       "detailed_summary": "연구는 염색된/염색되지 않은 개 림프절 세포검사 슬라이드에서 RNA를 추출해 양과 품질을 측정하고 NanoString nCounter의 Canine IO Panel로 GEP 수행 여부를 평가하는 후향적 분석이다. 대상은 반응성 림프절 10건과 림프종 34건이며, 대상은 유세포분석(flow cytometry) 또는 항원 수용체 재배열 PCR(PARR)로 특성화되었다. RNA는 RNeasy Mini Kit로 추출되었고 농도 범위는 27.5–543.9 ng/μL(중앙값 168.5 ng/μL, IQR 108.15–275.95)였다. 품질 지표로 RIN은 1.0–7.2(중앙값 2.9, IQR 2.10–4.45), DV200은 50.5%–93.2%(중앙값 81.65%, IQR 71.95%–87.85%)로 보고되었고, RIN 및 DV200 값은 채취 후 7일 이내 추출에서 더 높게 관찰되었다. nCounter 기반 GEP 결과 림프종 샘플에서 MYC, TERT, BRCA2 등을 포함한 17개의 유전자가 과발현되었다. 결론적으로 개의 림프절 세포검사 표본은 NanoString 플랫폼을 이용한 유전자 발현 분석에 충분한 RNA 품질을 제공하지만, RIN 값이 전반적으로 낮고 결과는 림프절 세포검사 표본과 해당 플랫폼에 한정된다는 점이 중요한 제한점이다.",
@@ -895,6 +927,14 @@
       "title": "A new era in the early treatment of dioctophymosis - The first laparoscopic nephrotomy without ischemia in a dog.",
       "journal": "Topics in Companion Animal Medicine",
       "generated_at": "2026-07-30T06:47:51.727Z",
+      "model": "gpt-5-mini"
+    },
+    "42219233": {
+      "brief_summary": "총 16두의 말에 대해 오클라시티닙(oclacitinib)을 경구로 하루 1회 0.25 mg/kg씩 21일간 투여하여 가려움과 피부 병변 개선 효과를 평가한 연구다. 소유자 평가인 가려움 VAS(PVAS) 중앙값은 5에서 2.5로 감소했고, 수의사 평가인 병변 점수(VLS)와 탈모 점수(VAS)도 각각 중앙값이 개선되었다. 혈액검사에서는 AST, GGT, 크레아티닌이 상승하고 백혈구·림프구 및 BUN이 감소하는 변화가 관찰되어 신장·간·근육 질환이 있는 말에서는 주의가 필요함을 시사한다.",
+      "detailed_summary": "연구는 16두의 말(연령 ≥18개월)에 오클라시티닙을 경구 0.25 mg/kg을 하루 1회 21일간 투여하고 D0과 D21의 혈액 검사를 포함하여 가려움 및 피부 병변 변화를 추적한 단일군 치료 사례군이다. 소유자는 D0, D4, D7, D10, D14, D17, D21에 Pruritus Visual Analog Scale(PVAS)을 기록했고, 수의사는 D0, D7, D14, D21에 veterinarian lesion score(VLS)와 veterinarian alopecia score(VAS)를 평가했다. 중앙값 기준으로 PVAS는 5(범위 4–8)에서 2.5(2–4.5)로 감소했고, VLS는 19(2–42)에서 10(1–38)로, VAS는 2(2,3)에서 2(1,2)로 변화하였다. 전체에서 PVAS 개선은 15두, VLS 개선은 12두, VAS 개선은 8두에서 관찰되었다. 혈액학·생화학적으로는 AST, GGT, 크레아티닌이 유의하게 증가했고 백혈구 수치·림프구 수·BUN은 유의하게 감소했으며 크레아틴키나제(CK)는 개체별로 차이를 보였다. 저자들은 오클라시티닙이 말의 알레르기성 피부염에서 가려움과 일부 피부 병변을 감소시키는 것으로 보고하였으나, 표본 수가 16두인 단일군 사례군이므로 일반화에 한계가 있고, 간·신장·근육 관련 이상 소견이 관찰되어 해당 질환이 있는 말에서는 투여 시 주의가 필요하다고 결론지었다.",
+      "title": "Oclacitinib for Controlling Pruritus and Associated Skin Lesions in 16 Horses With Allergic Dermatitis.",
+      "journal": "Veterinary Dermatology",
+      "generated_at": "2026-09-12T23:04:49.850Z",
       "model": "gpt-5-mini"
     },
     "42221963": {
@@ -1057,6 +1097,14 @@
       "generated_at": "2026-07-28T00:21:52.969Z",
       "model": "gpt-5-mini"
     },
+    "42272113": {
+      "brief_summary": "이 연구는 급성 개 외이도염(acute canine otitis externa, COE)을 진료한 스웨덴·핀란드·노르웨이의 수의사를 대상으로 치료 양상을 비교해 항생제 사용 실태를 조사했다. 총 1,060마리의 급성 COE 사례에서 전반적 항생제 사용은 18%(190/1060)였고, 전신 투여는 6례에 불과했으며 국가별로는 노르웨이 28%, 핀란드 29%, 스웨덴 2%(p<0.001)로 차이를 보였다. 대부분은 글루코코르티코이드(94%)와 귀세정제(89%)로 치료되었고, 항생제 처방은 세포학적 소견(중성구·간균 존재)과 더 강하게 관련됐다. 결론적으로 대다수 급성 COE는 항생제 없이 스테로이드와 세정제로 관리되었고, 항생제 관리(antibiotic stewardship)에 대한 참고자료를 제공한다.",
+      "detailed_summary": "다국적 다기관 횡단면(point prevalence) 조사로, 2024년 봄 기업 그룹 소속의 스웨덴·핀란드·노르웨이 수의사들이 각 진료실에서 첫 20증례의 연속적 급성 COE(증상 지속 ≤4주) 환자 정보를 등록했다. 총 1,060마리의 사례에서 진단 및 치료 관리가 기록되었고, 주요 평가 항목은 항생제 사용 여부와 형태(국소·전신), 진단검사(세포학 등) 및 기타 치료(글루코코르티코이드, 귀세정제)였다. 결과는 전체의 18%(190/1060)가 항생제를 사용했으며 전신 사용은 6례에 그쳤고, 가장 많이 사용된 항생제는 polymyxin B였다. 국가별 항생제 사용률은 노르웨이 28%, 핀란드 29%, 스웨덴 2%로 통계적으로 유의한 차이를 보였다(p<0.001). 항생제 처방은 임상 소견보다는 특히 중성구와 간균의 존재 같은 세포학적 소견과 더 강한 연관을 보였다. 글루코코르티코이드는 94%, 귀세정제는 89%에서 사용되어 대부분 항생제 없이 스테로이드와 세정제로 관리된 점이 두드러졌다. 초록에는 연구의 한계에 대한 구체적 기술이 없어 제한점은 명시되어 있지 않다.",
+      "title": "Treatment Choices for Acute Canine Otitis Externa in Sweden, Finland and Norway: A Comparative Study With a Focus on Antibiotic Use.",
+      "journal": "Veterinary Dermatology",
+      "generated_at": "2026-09-12T23:04:39.310Z",
+      "model": "gpt-5-mini"
+    },
     "42276122": {
       "brief_summary": "본 연구는 2015–2024년 사이 CT 검사 후 메가볼트 방사선치료를 받은 279마리의 개 비강종양 환자를 후향적으로 검토하여 보조적 토세라닙 포스페이트(toceranib phosphate)가 생존기간에 미치는 영향을 평가했다. 전체 코호트에서 토세라닙 투여군의 중앙생존기간은 389일로 미투여군(250일)보다 길었으나, 병기별로는 크리브리폼 플레이트(cribriform plate) 파괴가 없는 1기에서는 이득이 관찰되지 않았고 파괴가 있는 2기에서는 생존기간이 유의하게 연장되었다. 다변량 분석에서도 전체 및 2기 집단에서 토세라닙 투여가 생존 개선과 연관되었으나 1기에서는 연관성이 없었다. 연구진은 1기에는 방사선 단독치료, 2기에는 방사선과 토세라닙 병용을 고려하는 병기 기반 접근을 제안했다.",
       "detailed_summary": "후향적 의무기록 검토 연구로 2015–2024년 사이 CT(컴퓨터단층촬영)와 메가볼트 방사선치료를 받은 279마리의 고객 소유 개 비강종양 사례를 분석했다. 연구진은 크리브리폼 플레이트 파괴 여부로 간단한 2단계(1기: 파괴 없음, 2기: 파괴 있음)로 병기를 분류했다. 생존분석은 Kaplan–Meier 방법 및 Cox 비례위험 모형으로 수행되었고, 토세라닙 포스페이트는 총 44마리에게 투여되었다. 주요 결과로 전체 코호트의 중앙생존기간은 토세라닙 투여군 389일 vs 미투여군 250일이었고, 병기별로는 1기가 468일, 2기가 191일로 보고되었다. 병기별 분석에서는 1기에서 토세라닙의 생존 이득이 없었고 2기에서만 유의한 생존 연장이 관찰되었으며, 다변량 분석도 전체 및 2기에서의 연관성을 지지했다. 초록에서는 구체적 제한점이 명시되지 않았으나 연구 설계는 후향적 검토임을 보고하고, 저자들은 병기 기반의 치료 접근(1기: 방사선 단독, 2기: 방사선+토세라닙)을 제시하고 있다.",
@@ -1119,6 +1167,14 @@
       "title": "Electrochemotherapy with carboplatin and bleomycin associated with mastectomy in cats with mammary carcinoma: A pilot study.",
       "journal": "Topics in Companion Animal Medicine",
       "generated_at": "2026-07-30T06:46:22.024Z",
+      "model": "gpt-5-mini"
+    },
+    "42289187": {
+      "brief_summary": "본 전향적 연구는 2022–2024년 말레이시아·싱가포르·인도네시아에서 비계절성 소양증을 보인 49마리의 개를 대상으로 음식 유발 피부 반응(CAFR)의 임상 징후와 유발 음식 알레르겐을 조사했다. 제거식이 및 재도전에서 증상 재발로 진단된 결과, 닭고기 단백질이 말레이시아 65%, 싱가포르 31%, 인도네시아 63%로 가장 흔한 원인이었다. 발(족부) 소양과/또는 외이염이 68%에서 관찰되었고, 발병 연령은 1–3세(45%)가 가장 많았다. 기타 소양성 피부질환이 배제된 상태에서 발부 소양이나 외이염이 있으면 CAFR 조사를 고려할 것을 제시한다.",
+      "detailed_summary": "전향적 관찰연구로 2022–2024년 기간 말레이시아·싱가포르(피부과 전문병원)와 인도네시아(일반임상)에서 비계절성 소양증을 보인 49마리의 반려견을 대상으로 수행되었다. 연구에서는 다른 소양 원인을 배제한 뒤 제거식이(elimination diet) 시행 및 음식 재도전에서 증상 재발이 확인된 개를 CAFR로 확정하고, 유발 단백질, 품종, 발병 연령, 임상 징후를 기록했다. 주요 결과로 닭고기 단백질이 말레이시아 65%, 싱가포르 31%, 인도네시아 63%로 가장 흔한 유발 항원이었고, 품종별로는 말레이시아에서 잡종 27%, 싱가포르에서 푸들 22%, 인도네시아에서 푸들 38%가 가장 흔했다. 발병 연령은 1–3세가 45%로 가장 많았고, 1세 미만이 37%로 그 다음을 차지했다. 임상징후로는 발부 소양 및/또는 외이염이 전체의 68%에서 관찰되어 주요 표현형으로 보고되었다. 결론은 해당 지역에서 닭고기 단백질이 CAFR의 흔한 원인이며, 발부 소양 또는 외이염이 있을 경우 다른 소양성 피부질환을 배제한 뒤 CAFR 검사를 고려해야 한다는 점이다. 초록에는 추가적인 제한점 언급이 없어 연구의 표본 크기나 지역적 대표성 등에 대한 제한은 명시되어 있지 않다.",
+      "title": "Clinical Signs and Offending Food Allergens in Canine Cutaneous Adverse Food Reactions in Malaysia, Singapore and Indonesia: A Prospective Study.",
+      "journal": "Veterinary Dermatology",
+      "generated_at": "2026-09-12T23:04:23.878Z",
       "model": "gpt-5-mini"
     },
     "42297016": {
@@ -5079,6 +5135,14 @@
       "title": "Acute hemodynamic and echocardiographic responses to pimobendan versus levosimendan in a dog with decompensated dilated cardiomyopathy.",
       "journal": "Veterinary Research Communications",
       "generated_at": "2026-09-11T23:18:48.785Z",
+      "model": "gpt-5-mini"
+    },
+    "42727605": {
+      "brief_summary": "2018–2024년 한 기관의 후향적 관찰연구로 개 47마리와 고양이 16마리(총 63마리)의 허혈성 뇌혈관사고(ICVA)를 MRI와 동맥 스핀 표지(ASL) 관류영상을 포함해 분석했다. 전체 중대뇌동맥 영역 또는 전체 소뇌 반구를 침범하는 새로운 '완전 영토성(complete territorial)' ICVA 아형이 8/63(12.7%)에서 확인되었고, 이들은 중등도~중증의 종괴효과와 흔히 동반되었다. 비라쿠나성 경색은 모두 국소 ASL 저관류를 보였으나 라쿠나성(소경색)은 관류 이상을 보이지 않았고, ASL은 구제 가능한 허혈성 페놈브라를 일관되게 식별하지 못해 초기 예후 판단에 한계가 있었으며, 완전 영토성에 중등도~중증 종괴효과가 있으면 조기 사망과 강한 연관(OR 400; 95% CI 14.5–11,039)을 보여 'malignant' ICVA로 분류되었다.",
+      "detailed_summary": "본 연구는 2018–2024년 단일기관의 후향적 관찰연구로, 급성 비진행성 뇌기능장애를 보이며 MRI 소견이 ICVA와 일치하고 ASL 관류영상이 확보된 개 47마리와 고양이 16마리(총 63마리)를 포함했다. 연구 목적은 MRI 소견 및 ASL 관류 특징을 규명하고 예후 인자를 확인하는 것이었다. 전체 중대뇌동맥 영역 또는 전체 소뇌 반구를 침범하는 새로운 완전 영토성(complete territorial) ICVA 아형이 8/63(12.7%)에서 확인되었고, 이 양상은 중등도에서 중증의 종괴효과와 흔히 연관되었다. 모든 비라쿠나성(nonlacunar) 경색은 국소 ASL 저관류를 보였으나 라쿠나성(소경색) 병변에서는 관류 이상이 검출되지 않았다. 발병 후 24시간 이내에 비라쿠나성 경색으로 촬영된 19예 중 허혈성 페놈브라는 2예(10.5%)에서만 확인되었고, 전반적으로 ASL은 비라쿠나성에서 저관류를 보여주나 구제 가능한 허혈 조직(페놈브라)을 일관되게 식별하는 데는 제한이 있었다. 종괴효과가 중등도~중증인 완전 영토성 병변은 조기 사망과 강하게 연관되어('malignant' ICVA로 분류; OR 400; 95% CI 14.5–11,039) 경과 예측에 중요하다는 결론을 내렸다. 연구는 후향적 단일기관 자료에 기반한다는 점과 ASL의 페놈브라 식별 한계가 연구 해석에 중요한 고려사항임을 시사한다.",
+      "title": "Magnetic resonance imaging identifies prognostic features in dogs and cats with ischemic cerebrovascular accidents.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-09-12T23:04:03.695Z",
       "model": "gpt-5-mini"
     }
   }

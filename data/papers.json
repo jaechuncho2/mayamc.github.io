@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T23:16:56.862Z",
+  "updated_at": "2026-09-12T23:03:37.473Z",
   "papers": [
     {
       "pmid": "42725899",
@@ -11,6 +11,18 @@
       "abstract": "",
       "categories": [
         "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42727605",
+      "title": "Magnetic resonance imaging identifies prognostic features in dogs and cats with ischemic cerebrovascular accidents.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Desbordes J, Sifouane A, Ruel Y, Agoulon A, Papageorgiou S, Gnirs K, Grevent D, Boddaert N, Gaillot H",
+      "date": "2026 09 11",
+      "dateObject": "2026 09 11",
+      "abstract": "To characterize MRI findings, including arterial spin labeling (ASL) perfusion features, in dogs and cats with ischemic cerebrovascular accidents (ICVAs) and to identify prognostic factors. Retrospective, single-center observational study of dogs and cats presenting with acute, nonprogressive brain dysfunction from 2018 through 2024, with MRI findings consistent with ICVA and available ASL perfusion imaging. Ischemic cerebrovascular accidents subtypes; MRI findings, including ASL perfusion characteristics; and outcomes were analyzed. 63 animals (47 dogs and 16 cats) were included. A novel complete territorial ICVA subtype, involving either an entire middle cerebral artery territory or an entire cerebellar hemisphere, was identified in 8 of 63 animals (12.7%) and commonly associated with moderate-to-severe mass effect. All nonlacunar infarcts exhibited focal ASL hypoperfusion, whereas lacunar infarcts showed no detectable perfusion abnormalities. Ischemic penumbra was identified in only 2 of 19 animals (10.5%) with nonlacunar infarcts imaged within 24 hours of onset. Complete territorial ICVAs with moderate-to-severe mass effect were classified as malignant ICVAs because this pattern was strongly associated with early mortality (OR, 400; 95% CI, 14.5 to 11,039). These findings expand the recognized spectrum of ICVA in dogs and cats and indicate that infarct extent and mass effect are important markers of disease severity and early outcome. ASL perfusion can demonstrate hypoperfusion in nonlacunar ICVAs but has limited ability to identify potentially salvageable ischemic tissue. Recognition of complete territorial and malignant ICVAs may improve early prognostic assessment and inform clinical decision-making in dogs and cats with ICVA.",
+      "categories": [
+        "neurology"
       ]
     },
     {
@@ -92,6 +104,254 @@
       ]
     },
     {
+      "pmid": "42536135",
+      "title": "Retrospective Review of Rush Allergen-Specific Immunotherapy Safety in Cats With Atopic Skin Syndrome.",
+      "journal": "Veterinary Dermatology",
+      "authors": "Wirkkala A, Rosenkrantz W, Mendelsohn C, Griffin C, Schaufele S, Burrows M",
+      "date": "2026 09 11",
+      "dateObject": "2026 09 11",
+      "abstract": "Rush immunotherapy (RIT) accelerates the induction phase of allergen-specific immunotherapy treatment (ASIT) by administering incrementally increasing allergen doses over a single day. This approach reduces the time required to maintenance dosing. Safety information in cats with atopic skin syndrome (FASS) remains limited. The objective of the study was to evaluate the safety of RIT in cats with hypersensitivity disease compatible with FASS and to describe the frequency and nature of adverse events. Forty-seven client-owned cats that underwent RIT. A multicentre medical record review from 2019 to 2024 was performed to identify cats that met at least six of 10 criteria for non-flea-induced hypersensitivity dermatitis and were therefore considered consistent with a diagnosis of FASS. All included cats received documented flea prevention and underwent elimination diet trials. Data collected included signalment, medical history, concurrent medications, RIT protocol details, monitoring findings and follow-up communication. Adverse events (AEs) were recorded. In three of 47 cats (6.4%), AEs were observed including tachypnoea, behavioural distress and increased pruritus. In one cat, RIT was discontinued before protocol completion. All affected cats transitioned to maintenance ASIT without recurrence of AEs. Rush immunotherapy appears to be safe in cats with FASS when performed with clinical monitoring. Adverse events were infrequent, mild and self-limiting, supporting use of accelerated induction protocols in appropriately selected patients.",
+      "categories": [
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42527828",
+      "title": "Associations Between Otic Cytological Findings and Clinical Severity by Pathogen Group in Canine Otitis Externa: A Retrospective Study of 318 Cases.",
+      "journal": "Veterinary Dermatology",
+      "authors": "Shin ES, Kang SY, Kim MS, Hwang CY",
+      "date": "2026 09 11",
+      "dateObject": "2026 09 11",
+      "abstract": "Otic cytological assessment is routinely used in canine otitis externa (OE) to assess microbial burden and inflammation. Evidence that cytological findings are associated with clinical severity, particularly by pathogen group, remains limited. To evaluate associations between otic cytological findings and clinical severity in canine OE, overall and by pathogen group. Three hundred and eighteen client-owned dogs with OE presented to a referral dermatological service. Clinical severity was scored using the Otitis Index Score 3 (OTIS3; 0-12). Cytological findings were evaluated using a semiquantitative 0-3 scale for cocci, rods and Malassezia, based on predefined institutional criteria. A total cytological score (0-9) was calculated as the sum of the scores for the three groups. Neutrophil presence was also recorded. OTIS3 scores showed a moderate correlation with total cytological score (p&#x2009;<&#x2009;0.0001; Spearman's r&#x2009;=&#x2009;0.45). Scores increased significantly with higher cocci and rod cytological scores (Kruskal-Wallis, p&#x2009;<&#x2009;0.0001), while Malassezia scores were not. OTIS3 scores also were significantly higher when neutrophils were present. Associations between otic cytological findings and clinical severity of OE varied by pathogen group. Greater clinical severity was associated with neutrophil presence and bacterial burden. These findings support the interpretation of cytological findings combined with OTIS3 for assessment and monitoring of canine OE.",
+      "categories": [
+        "internalMedicine",
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42504124",
+      "title": "Exploring Normal to Abnormal Variations of Grooming Behaviours in Cats.",
+      "journal": "Veterinary Dermatology",
+      "authors": "Guillon M, Naudin L, Cochet-Faivre N, Titeux E, Gilbert C",
+      "date": "2026 09 11",
+      "dateObject": "2026 09 11",
+      "abstract": "Grooming is a maintenance behaviour accounting for 4% of a cat's activity budget. It consists of several short bouts, and is modified by pruritus and some psychogenic diseases in cats. This study aimed to describe cats' grooming behaviour, investigating normal variations in relation to hair length and grooming modifications in cats with psychogenic alopecia (fPA). We analysed 118 videos of 29 healthy cats and seven fPA shorthair cats. We studied five activities for nine body parts performed by cats during grooming, the duration and number of grooming bouts, according to hair length and health status. Major individual variations occurred between cats, with no differences regarding mean grooming bout duration according to hair length or health status. Most (95%) grooming bouts consisted in grooming two to seven body parts. Number of parts groomed by fPA cats was significantly lower than healthy shorthair cats; no differences were noted between healthy cats with different hair length. Hairless cats chewed their skin longer than other cats. fPA cats chewed their skin 10 times longer than healthy shorthair cats (p&#x2009;<&#x2009;0.001). Licking and rubbing were shorter bouts (p&#x2009;=&#x2009;0.021). Time spent grooming each zone did not differ with hair length. fPA cats groomed their internal hind limbs significantly longer (p&#x2009;=&#x2009;0.016) and their neck shorter (p&#x2009;=&#x2009;0.003) than healthy shorthair cats. This study allows a better understanding of cats' grooming behaviour, helping to identify abnormal grooming behaviours, and supports classification of psychogenic alopecia as an abnormal repetitive behaviour.",
+      "categories": [
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42457205",
+      "title": "External Validation of a Custom-Trained Artificial Intelligence Model for Canine Ear Canal Disease and Comparison With Veterinary Professionals.",
+      "journal": "Veterinary Dermatology",
+      "authors": "McInnis M, Liu CC, Arbona V, Apostolopoulos N",
+      "date": "2026 09 11",
+      "dateObject": "2026 09 11",
+      "abstract": "Otitis externa (OE) is common in dogs, yet accurate otoscopic diagnosis remains challenging. Artificial intelligence (AI) may augment clinical decision-making in otoscopy. Previous work suggested that dataset size and duplicate images affect model performance. External validation of four YOLOv8n models using new images and comparison with six veterinary professionals of varying experience. We expected that models trained on larger, deduplicated datasets would demonstrate superior performance, and that the best-performing model would outperform non-specialist veterinary professionals while remaining comparable to board-certified referral clinicians. Four YOLOv8n models (A-D) were trained using different dataset compositions and externally validated on 300 previously unseen otoscopic images (100 healthy, 100 OE, 100 ear canal masses). Predictions were compared with reference labels assigned by a board-certified referral clinician. Six veterinary professionals independently classified the same images, blinded to ground truth and AI outputs. Performance was assessed across multiple confidence thresholds (0.25-0.75) using overall agreement, Cohen's &#x3ba;, sensitivity and specificity. Model D (largest deduplicated dataset) demonstrated the highest external performance, achieving 66.3% agreement and &#x3ba;&#x2009;=&#x2009;0.508 at a 0.25 confidence threshold. Classwise sensitivity/specificity for Model D (0.25) were: healthy (90.0%/69.0%), OE (59.0%/75.5%) and mass (50.0%/93.5%). Veterinary professionals outperformed all AI models (median agreement 77.2%, &#x3ba;&#x2009;=&#x2009;0.658), with the referral clinician achieving the highest concordance. Model D generalised best during external validation yet remained inferior to veterinary professionals. These results support the model's role as a decision-support tool rather than a replacement for clinical expertise.",
+      "categories": [
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42429301",
+      "title": "Standardising Assessment of Superficial Pyoderma in Dogs: Proposal of a Severity Score.",
+      "journal": "Veterinary Dermatology",
+      "authors": "Pinto M, Grass D, Herrmann I",
+      "date": "2026 09 11",
+      "dateObject": "2026 09 11",
+      "abstract": "Superficial pyoderma is common in dogs with atopic dermatitis, yet no validated and widely accepted severity scoring system exists. To develop a predictor for superficial pyoderma severity based on reliable objective lesion quantification combined with a clinician-assigned numerical severity rating. Sixty client-owned dogs presenting with follicular papules, pustules, epidermal collarettes, and/or yellow crusts were prospectively enrolled. Six clinicians assessed lesion types, numerical and categorical disease severity, and treatment efficacy at baseline and at up to two follow-up visits. Lesions were quantified by counting individual papules and pustules, and by standardised area measurements for confluent papules/pustules, epidermal collarettes and crusts. Inter- and intra-clinician reliability were evaluated. A predictive model for pyoderma severity was subsequently developed using lesion quantification and clinician-assigned numerical severity scores. Recognition of specific lesion types and categorical severity assessments showed poor agreement between clinicians, indicating limited reliability for severity assessment. By contrast, combined lesion quantification demonstrated good inter- and intra-clinician reliability, and clinician-assigned numerical severity scores showed good inter-clinician reliability. The resulting predictive model demonstrated good agreement with clinician-assigned severity scores, estimating pyoderma severity on a continuous scale from 0 (no pyoderma) to 100 (worst conceivable pyoderma), with a mean absolute error of approximately nine severity points per case. The proposed scoring system relies on combined lesion quantification without the need for subjective categorical grading. Although further validation is required, it provides a foundation for objective assessment of superficial pyoderma severity and introduces a mathematical model that translates combined lesion burden into clinician-perceived disease severity.",
+      "categories": [
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42413856",
+      "title": "Fibroepithelial Polyps of the Ear Canal in Dogs: A Retrospective Analysis of 17 Cases.",
+      "journal": "Veterinary Dermatology",
+      "authors": "Mendes C, Berto L, Costa A, Nordio L, Bertolini G, De Lucia M",
+      "date": "2026 09 11",
+      "dateObject": "2026 09 11",
+      "abstract": "Fibroepithelial polyps (FEPs) are well-characterised benign hyperplastic lesions of the skin and mucous membranes. Little is known about their localisation in the ear canal of dogs. To provide clinical, endoscopic, computed tomography (CT) and histological descriptions of aural (a)FEPs in 14 dogs. Fourteen client-owned dogs diagnosed with aFEPs between 2018 and 2025. Retrospective analysis of the electronic medical records of dogs diagnosed with aFEPs based on compatible histopathological findings. Seventeen aFEPs were described in 14 dogs. All dogs were of brachycephalic breeds, and French bulldogs were the most common breed. Most dogs had a history of chronic-recurrent otitis externa (n&#x2009;=&#x2009;12) and a diagnosis of atopic dermatitis (n&#x2009;=&#x2009;10). Ear cytological results showed neutrophilic inflammation with bacteria in 14 of 17 cases. CT scan detected 15 of 17 aFEPs. In all cases, video-otoscopy revealed the presence of a pedunculated neoformation of variable size. All lesions were removed during the endoscopic procedure with a polypectomy snare or grasping forceps. Histologically, all masses were characterised by a broad fibrous core with a narrow stalk covered by either keratinised or keratinised and ciliated epithelium. Thirteen polyps contained broad trabeculae of bone. In two dogs, a second endoscopic procedure was needed to completely remove residual polyp fragments. During the follow-up period (1-80&#x2009;months), 13 of the 14 dogs experienced no relapses. In dogs, aFEPs present distinctive histopathological characteristics and should be differentiated from other aural masses. Identification and removal of aFEPs might be critical for the resolution of chronic-recurrent otitis in dogs.",
+      "categories": [
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42405442",
+      "title": "Cutaneous Reactive Histiocytosis in Golden Retrievers: An&#xa0;Immunohistochemical Approach.",
+      "journal": "Veterinary Dermatology",
+      "authors": "Albanese F, Lazzarini G, Orlandi M, Pirone A, Miragliotta V, Mazzoni E, Pazzini L, Massaro M, Aresu L, Abramo F",
+      "date": "2026 09 11",
+      "dateObject": "2026 09 11",
+      "abstract": "Canine cutaneous reactive histiocytosis (CRH) is a proliferative histiocytic disease characterised by the accumulation of dendritic cells (DCs). Differentiating CRH from other infectious or non-infectious granulomatous or histiocyte-rich diseases is challenging on histological evidence alone. This study aims to characterise the predominant histiocytic population in 11 golden retrievers with histological features compatible with CRH, using ionised calcium-binding adapter molecule 1 (Iba1) and a validated macrophage antibodies cocktail for canine skin diseases. Eleven golden retriever dogs were enrolled with a clinical and histological diagnosis of CRH. Paraffin-embedded skin biopsy samples from cases with a confirmed diagnosis of CRH were evaluated to identify the histiocytic cell type. Two antibody reagents were used: (1) anti-Iba1 (goat polyclonal), a broad histiocytic marker and (2) a cocktail of rabbit recombinant monoclonal antibodies against CD11b, CD68, CD163, CD14 and CD16 to phenotype cutaneous macrophages. All cases showed positive immunostaining with both antibodies. Although Iba1 immunostaining was diffuse in most of the histiocytoid cell population, only a few scattered histiocytoid cells stained with the anti-macrophage antibody cocktail. Strong Iba1 positivity in the histiocytoid cells, together with their lack of staining for macrophage markers, supports a dendritic cell phenotype and is consistent with a diagnosis of CRH. In conclusion, using a macrophage marker in combination with a broad histiocytic marker may help to distinguish CRH from granulomatous, macrophage-rich diseases in paraffin-embedded skin tissue.",
+      "categories": [
+        "internalMedicine",
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42389943",
+      "title": "Osseous Changes in Young Cats With Inflammatory Aural Polyps: A Cone Beam Computed Tomography Analysis.",
+      "journal": "Veterinary Dermatology",
+      "authors": "Col&#xf3;n Rodr&#xed;guez A, Campanale DN, Sarment D, Canfield MS",
+      "date": "2026 09 11",
+      "dateObject": "2026 09 11",
+      "abstract": "Computed tomography is an imaging tool that has been used in veterinary medicine with excellent results to evaluate changes associated with inflammatory aural polyps (IPs) in feline patients. There is no known veterinary literature investigating the use of cone beam computed tomography (CBCT) to identify osseous changes in the middle and inner ear associated with IPs in cats. This study evaluates the utility of CBCT to identify osseous changes in the middle and inner ear associated with IPs in young cats, and to determine the frequency of osseous changes in young cats. Review of 38 medical records of cats diagnosed with IPs presented to a private practice dermatological service. CBCT bone window studies at a 0.3-mm isotropic slice thickness were performed without contrast and later evaluated by a board-certified veterinary radiologist. CBCT images were adequate to identify normal and affected structures in the middle and inner ear of cats. The most common osseous changes in descending order of occurrence were mild-to-severe bulla thickening (65.7%), auditory tube widening (52.6%), and cochlear and ossicular chain lysis (7.8%). This study demonstrates that CBCT is useful as an initial imaging diagnostic when an IP is suspected in cats. Osseous changes such as tympanic bulla thickening, cochlear and ossicular chain lysis, and auditory tube and internal acoustic meatus widening on CBCT imaging could be indicatory of an inflammatory aural polyp.",
+      "categories": [
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42363651",
+      "title": "Fluorescent Light Energy (FLE) as an Adjunctive Therapy in Canine Cutaneous Epitheliotropic Lymphoma (CTCL).",
+      "journal": "Veterinary Dermatology",
+      "authors": "Nowell S, Fantini O, Roman A, Milley C, Watson J, Bauer C",
+      "date": "2026 09 11",
+      "dateObject": "2026 09 11",
+      "abstract": "Fluorescent light energy (FLE; Phovia, Vetoquinol) is a photobiomodulation therapy that promotes healing and reduces inflammation. Cutaneous epitheliotropic lymphoma (CTCL) is a neoplastic skin disease with limited treatment options. Although FLE is not considered genotoxic, its use in neoplastic conditions is off-label. To assess the safety and clinical effect of FLE as an adjunctive treatment for canine CTCL. Eight client-owned dogs were diagnosed with CTCL via biopsy analysis and immunohistochemical analysis. Each dog had one CTCL lesion treated with FLE with a lesion serving as a vehicle-control. Treatments were administered weekly for 6&#x2009;weeks, followed by 3&#x2009;months follow-up. Focal nodular lesions were assessed weekly using Response Evaluation Criteria of Solid Tumours (RECIST), while diffuse lesions were evaluated using the Canine Epitheliotropic Lymphoma Extent and Severity Index (CELESI). Owner-perceived efficacy and quality of life were assessed using the Owner Global Assessment of Treatment Efficacy (OGATE) and a quality-of-life (QoL) survey. No statistically significant differences in estimated marginal means were observed between sites at any time point (p&#x2009;>&#x2009;0.05). Within-subject analyses suggested more favourable lesion progression at FLE-treated sites, and 75% of RECIST-evaluated FLE lesions maintained stable disease. Diffuse FLE-treated lesions demonstrated clinical severity reductions of &#x2264;&#x2009;35.3%. Over 66% of owners rated treatment response as 'fair' to 'excellent' on the OGATE. One dog was withdrawn at Week 3 as a consequence of unrelated worsening. FLE appears to be a safe adjunctive therapy for canine CTCL, although statistically significant treatment effects were not demonstrated.",
+      "categories": [
+        "oncology",
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42358183",
+      "title": "Comparative Efficacy and Safety of Adjunctive 0.015% Triamcinolone Acetonide Topical Spray With Lokivetmab Versus Lokivetmab Monotherapy as 'Reactive Therapy' for Canine Atopic Dermatitis: A Randomised, Single-Blinded, Controlled Preliminary Trial.",
+      "journal": "Veterinary Dermatology",
+      "authors": "Banovic F, Austel M, Johnson L, von Simson C",
+      "date": "2026 09 11",
+      "dateObject": "2026 09 11",
+      "abstract": "Lokivetmab is considered an effective systemic therapy for dogs with atopic dermatitis (AD); however, utilisation of lokivetmab with adjunctive topical anti-inflammatory glucocorticoids has not been investigated in canine AD. To evaluate the efficacy and safety of the combination therapy of lokivetmab and 0.015% triamcinolone acetonide (TCA) spray in dogs with AD. Twenty dogs with nonseasonal AD. This study was a randomised, single-blinded (investigators only) 4-week controlled trial. Dogs were randomised to receive lokivetmab monotherapy or lokivetmab-TCA spray per manufacturer instructions. Clinical assessments included the Canine Atopic Dermatitis Extent and Severity Index, 4th iteration (CADESI-04), CADESI-04E (i.e., extracted erythema grade alone) and the 10-grade pruritus Visual Analog Scale (PVAS10) at Day (D)0, D14 and D28. Complete blood count and serum biochemical analysis were performed on D0 and D28. The median CADESI-04 and CADESI-04E scores in the lokivetmab-TCA group were significantly reduced on D14 (p&#x2009;<&#x2009;0.05 for both) and D28 (p&#x2009;<&#x2009;0.01 for both) compared to baseline; there were no significant differences in lesional scores at any time point for the lokivetmab monotherapy group. Lokivetmab-TCA significantly reduced CADESI-04E values compared to the lokivetmab monotherapy group on D28 (p&#x2009;=&#x2009;0.04). Both interventions significantly reduced PVAS10 scores on D14 and D28 compared to D0 (p&#x2009;<&#x2009;0.05 for both groups). Topical application of TCA spray may be a useful and safe adjunctive therapy for systemic lokivetmab to alleviate pruritus and clinical lesions in the initial management of canine AD patients.",
+      "categories": [
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42321140",
+      "title": "Clinical Efficacy of Probiotic-Based Ear Drops Containing Lactobacilli in Canine Erythroceruminous Otitis Externa: An Open Label, Multicentre Study.",
+      "journal": "Veterinary Dermatology",
+      "authors": "Carrasco I, Homedes J, Arcas A, Beasley S, Salichs M",
+      "date": "2026 09 11",
+      "dateObject": "2026 09 11",
+      "abstract": "Otitis externa (OE) represents a common clinical problem in dogs. Allergic dogs exhibit reduced diversity of the otic microbiota, and inflammation-induced changes in the ear canal microenvironment result in a further decline in microbial biodiversity. Probiotics have demonstrated efficacy in certain dermatological conditions, including atopic dermatitis, which is, in turn, the leading primary cause of OE in dogs. To evaluate the efficacy of probiotic-based ear drops in controlling clinical signs related to erythroceruminous non-infected OE in dogs. Thirty-seven privately owned dogs with non-infected OE. Dogs received probiotic-based ear drops topically every 48 h for 28&#x2009;days, in accordance with the manufacturer's instructions. Assessments were performed at enrolment (Day [D]0), D14 and D28, including cytological evaluation of ear discharge, pruritus intensity (PVAS, pruritis Visual Analogue Scale), severity of otic lesions (OTIS3, 0-3 Otitis Index Score) and a quality-of-life survey (QoL). At enrolment (D0), mean OTIS3 and PVAS scores for all included animals were 5.11 &#xb1;&#x2009;1.20 and 4.93 &#xb1;&#x2009;1.51, respectively. Both scores decreased significantly by D28, to 1.66 &#xb1;&#x2009;1.75 and 2.09 &#xb1;&#x2009;2.03, respectively. Clinical improvement was evident regardless of concomitant medication use or the type of micro-organism's overgrowth observed during the initial cytological assessment. Owner-reported QoL improved in 80% of the dogs. These probiotic-based ear drops may be a useful adjunctive therapy in cases of canine non-infectious erythroceruminous OE.",
+      "categories": [
+        "internalMedicine",
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42311196",
+      "title": "Therapeutic Outcomes and Owner Assessment in Canine Sebaceous Adenitis Across Breeds: A Multicentre Retrospective Analysis and Owner Survey.",
+      "journal": "Veterinary Dermatology",
+      "authors": "Batt H, Griffin J, Daniels MW, Miller J",
+      "date": "2026 09 11",
+      "dateObject": "2026 09 11",
+      "abstract": "Sebaceous adenitis (SA) is an idiopathic dermatological condition with numerous treatment modalities and variable clinical outcomes. No studies have compared breed response to therapies or evaluated owner perception of the disease. Goals of this retrospective analysis were to evaluate response to therapy in dogs with SA, identify if breed or treatment modality impacted therapeutic outcome and assess owner perception of response to implemented therapies. Medical records over a 10-year period from a multicentre veterinary dermatology group were evaluated and an owner survey was conducted. Response to therapy was based on percentage reduction in medication scores at the start of treatment compared to maintenance and the number of flares after attaining maintenance. Time to maintenance was calculated for each treatment modality category. Owner survey responses were compared to objective clinical response categories. One hundred and twenty-two dogs with SA were included; 35 respondents completed the survey. The number of cases in objective clinical response categories were as follows: excellent in 23 cases (18.9%), good in 36 (29.5%), fair in 26 (21.3%), no improvement in 13 (10.7%) and progressive in 23 (18.9%). Medication score differences by breed were not statistically significant (p-value 0.114). Dogs treated with multimodal therapy achieved maintenance the fastest. Thirty-nine percent of dogs experienced a flare after reaching maintenance. Owner perceptions did not align significantly with objective response categories. In SA, therapeutic outcomes cannot be predicted based on breed or treatment modality, confirming the need for tailored case management and medication adjustments based on individual treatment response.",
+      "categories": [
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42289187",
+      "title": "Clinical Signs and Offending Food Allergens in Canine Cutaneous Adverse Food Reactions in Malaysia, Singapore and Indonesia: A Prospective Study.",
+      "journal": "Veterinary Dermatology",
+      "authors": "Hernadi H, Siew HH",
+      "date": "2026 09 11",
+      "dateObject": "2026 09 11",
+      "abstract": "Skin responses to dietary components in dogs are referred to as cutaneous adverse food reactions (CAFRs). The most frequently reported offending food allergens in dogs from Australia, Europe and North America are beef, dairy products, chicken, wheat and lamb. To determine the clinical signs and common offending food allergens associated with CAFRs of dogs from Malaysia, Singapore and Indonesia. Forty-nine client-owned dogs with nonseasonal pruritus were referred to dermatology speciality practices in Malaysia and Singapore, and general practices in Indonesia between 2022 and 2024. After the exclusion of the other pruritic diseases, the dogs completed an elimination diet trial and relapsed on challenge. The offending protein source was recorded in addition to the breed, age of onset of disease and presenting clinical signs. Chicken protein was the most common allergen reported in Malaysia (65%), Singapore (31%) and Indonesia (63%). The most commonly affected breeds with CAFR were cross-breed in Malaysia (27%) and poodles in Singapore (22%) and Indonesia (38%). The mean age of onset of the dogs with CAFRs from the three countries was between 1 and 3&#x2009;years of age (45%), with <&#x2009;1&#x2009;year of age reported less frequently (37%). Pedal pruritus and/or otitis were the most clinical signs affecting 68% of dogs. Chicken protein is the common offending food allergen associated with CAFRs in Malaysia, Singapore and Indonesia, and clinical signs of pedal pruritus and, or otitis should warrant investigation of CAFRs once the pruritic dermatoses have been eliminated.",
+      "categories": [
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42286999",
+      "title": "Faecal Microbiota Transplantation Reduces Lesion Severity and Medication Use in Canine Atopic Dermatitis: A Randomised, Placebo-Controlled, Double-Blinded Clinical Trial.",
+      "journal": "Veterinary Dermatology",
+      "authors": "Felten V, West EA, Martini F, Favrot C, Unterer S, Suchodolski J, Scharl M, Renz H, Fischer NM, Rostaher A",
+      "date": "2026 09 11",
+      "dateObject": "2026 09 11",
+      "abstract": "Faecal microbiota transplantation (FMT) is an established therapy for gastrointestinal disease, yet its role in canine atopic dermatitis (cAD) remains unclear. We hypothesised that adjunctive FMT improves clinical severity and reduces symptomatic medication use in dogs with cAD. The objective was to evaluate efficacy and safety versus placebo. Forty-six client-owned dogs with naturally occurring cAD were enrolled from a referral hospital population; 40 completed the study (FMT n&#x2009;=&#x2009;20, placebo n&#x2009;=&#x2009;20). Prospective, randomised, placebo-controlled, double-blinded clinical trial. Dogs received daily oral lyophilised FMT capsules for 90&#x2009;days plus three monthly rectal FMT administrations (Day [D]0, D30, D60) or placebo capsules with sham handling. Concomitant symptomatic therapies were permitted. Outcomes included Canine Atopic Dermatitis Extent and Severity Index, fourth iteration (CADESI-04), pruritus Visual Analog Scale (PVAS), Medication Score (D0-90) and Owner Global Assessment of Treatment Efficacy (OGATE, D90). CADESI-04 scores were lower with FMT at month (M) 2 (7&#x2009;&#xb1;&#x2009;6 vs. 16&#x2009;&#xb1;&#x2009;12; p&#x2009;=&#x2009;0.006) and month 3 (8&#x2009;&#xb1;&#x2009;6 vs. 15&#x2009;&#xb1;&#x2009;12; p&#x2009;=&#x2009;0.020). Sustained responders (&#x2265;&#x2009;50% CADESI-04 improvement at M2 and M3) were more frequent with FMT (35% vs. 5%; p&#x2009;=&#x2009;0.044). In the FMT group, the medication scores were lower at M2 (16&#x2009;&#xb1;&#x2009;10 vs. 23&#x2009;&#xb1;&#x2009;11; p&#x2009;=&#x2009;0.033) and M3 (13&#x2009;&#xb1;&#x2009;10 vs. 24&#x2009;&#xb1;&#x2009;15; p&#x2009;=&#x2009;0.007) compared to placebo. PVAS decreased in both groups without between-group differences. OGATE favoured FMT (p&#x2009;=&#x2009;0.028). FMT was well tolerated. Adjunctive FMT reduced lesion severity and medication requirements, supporting its use as a safe microbiome-based add-on therapy in cAD.",
+      "categories": [
+        "internalMedicine",
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42272113",
+      "title": "Treatment Choices for Acute Canine Otitis Externa in Sweden, Finland and Norway: A Comparative Study With a Focus on Antibiotic Use.",
+      "journal": "Veterinary Dermatology",
+      "authors": "Saarinen K, Ljungquist D, Sepp&#xe4;nen R, Kaimio M, Andersson AM",
+      "date": "2026 09 11",
+      "dateObject": "2026 09 11",
+      "abstract": "Canine otitis externa (COE) is one of the most frequently recorded disorders in veterinary practices, making it an important focus for antibiotic stewardship. To investigate and compare treatment regimens for acute COE in Finland, Norway and Sweden, with a focus on antibiotic use. 1060 dogs with acute COE lasting for &#x2264;&#x2009;4&#x2009;weeks. This was a multicentre cross-sectional study based on a point prevalence survey conducted among Swedish, Finnish and Norwegian veterinary surgeons within a corporate group during spring 2024. In the survey, each practice had been asked to include the first 20 consecutive cases of acute COE and register information about their diagnostic and therapeutic management. Overall, antibiotic treatment was used in 18% of cases (190 of 1060 dogs), predominantly topical, with systemic use only reported in six cases. Antibiotic use was significantly higher in Norway (28%) and Finland (29%) than in Sweden (2%; p&#x2009;<&#x2009;0.001). The most frequently used antibiotic was polymyxin B. Antibiotic treatment was more strongly associated with cytological findings, especially the presence of neutrophils and rods, than with clinical presentation. Overall, glucocorticoid treatment was used in 94% and ear cleaner in 89% of cases, with some differences between countries. In this study, most acute COE cases were managed with glucocorticoids and ear cleaners without antibiotics. Swedish practices stood out with a notably low antibiotic use of 2%. Our results provide valuable information on antibiotic use for acute COE in three Nordic countries, inspiring future antibiotic stewardship efforts.",
+      "categories": [
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42219233",
+      "title": "Oclacitinib for Controlling Pruritus and Associated Skin Lesions in 16 Horses With Allergic Dermatitis.",
+      "journal": "Veterinary Dermatology",
+      "authors": "Tunhikorn M, Maneephan P, Tovanakasame N, Kampang C, Jandee P, Sangsuriya P, Nuchprayoon N",
+      "date": "2026 09 11",
+      "dateObject": "2026 09 11",
+      "abstract": "Oclacitinib is a Janus kinase inhibitor approved for the treatment of pruritus associated with allergic dermatitis in dogs and may be effective in horses. To evaluate the efficacy of oclacitinib in reducing pruritus and skin lesions in horses with allergic dermatitis. Sixteen horses aged &#x2265;&#x2009;18&#x2009;months. Horses received oclacitinib at 0.25&#x2009;mg/kg orally once daily for 21&#x2009;days. Changes in haematological and biochemical parameters were measured on Day (D)0 and D21. The owners were instructed to evaluate the horses using the pruritus Visual Analog Scale (PVAS) on D0, D4, D7, D10, D14, D17 and D21. A veterinary surgeon evaluated skin lesions using a veterinarian lesion score (VLS) and veterinarian alopecia score (VAS) on D0, D7, D14 and D21. From baseline to D21, the median (range) PVAS changed from 5 (4-8) to 2.5 (2-4.5), VLS from 19 (2-42) to 10 (1-38) and VAS from 2 (2, 3) to 2 (1, 2). Of all 16 horses, improvements in PVAS, VLS and VAS were observed in 15, 12 and 8 horses, respectively. Blood profiles revealed significantly increased aspartate aminotransferase, gamma-glutamyl transferase and creatinine levels. White blood cell count, lymphocyte count and blood urea nitrogen significantly decreased. Creatine kinase levels showed individual variability. Oclacitinib effectively reduced pruritus and improved skin lesions in horses with allergic dermatitis. However, caution is advised when administering the drug to horses with renal, hepatic or muscular disorders.",
+      "categories": [
+        "internalMedicine",
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42203258",
+      "title": "Efficacy of Oral Baicalin in Canine Atopic Dermatitis: A Randomised Placebo Controlled Trial.",
+      "journal": "Veterinary Dermatology",
+      "authors": "Qian XL, Lu J, Lu W, Xu WX, Jiang ZH",
+      "date": "2026 09 11",
+      "dateObject": "2026 09 11",
+      "abstract": "Baicalin has shown efficacy in various dermatitis models in animals. However, its therapeutic effects on naturally occurring canine atopic dermatitis (cAD) have not been evaluated. To evaluate the efficacy and safety of baicalin in dogs with cAD. 56 client-owned dogs were enrolled. All dogs were randomly divided to receive oral baicalin or placebo over a 90day period. All subjects had veterinary evaluations using the Canine Atopic Dermatitis Extent and Severity Index, 4th iteration (CADESI-04) during the trial and owners were requested to evaluate itching using the pruritus Visual Analog Scale (PVAS) and to complete a quality-of-life (QoL) questionnaire at Day (D)0 and D90. Additionally, the transepidermal water loss (TEWL), total serum IgE levels (IgE), complete blood count and serum biochemical results were measured at D0 and D90. The significant decreases in CADESI-04 (p&#x2009;<&#x2009;0.001), PVAS (p&#x2009;<&#x2009;0.001), TEWL (p&#x2009;=&#x2009;0.014), IgE (p&#x2009;<&#x2009;0.001) and QoL scores (p&#x2009;<&#x2009;0.001) were observed in the baicalin group D90 compared to baseline. When compared to placebo, the baicalin group had significantly lower scores in CADESI-4 and PVAS (p&#x2009;<&#x2009;0.001). A significantly higher proportion of subjects in the baicalin group showed a good-to-excellent treatment response (82.1%) compared to those in the placebo group (35.7%). The treatment was well tolerated. Baicalin had a significant benefit in alleviating pruritus and reducing clinical signs in dogs with mild-to-moderate cAD and was well tolerated.",
+      "categories": [
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42203245",
+      "title": "Prevalence of Antimicrobial Use in Small Animal Dermatology Referral Practices in the United States.",
+      "journal": "Veterinary Dermatology",
+      "authors": "Santoro D, Bollig ER, Granick JL",
+      "date": "2026 09 11",
+      "dateObject": "2026 09 11",
+      "abstract": "Antimicrobial resistance is a critical global health concern driven by antimicrobial use. Dermatological conditions are common reasons for antimicrobial prescriptions in small animal practice, yet data on prescribing patterns in veterinary dermatology referral settings are lacking. To characterise the frequency, types and indications for antimicrobial use in dogs and cats seen by board-certified or residency-trained first-opinion veterinary surgeons in the United States. Medical record data about 550 client-owned animals (479 dogs, 71 cats) presenting to 22 US veterinary dermatology referral practices were included. A prospective, cross-sectional point-prevalence study was conducted in August 2023. Each clinic enrolled the first 25 consecutive dogs or cats evaluated by a referral clinician. Data collected included clinical diagnoses, antimicrobial and antiseptic prescriptions and diagnostic testing. Antimicrobials were prescribed in 54.9% (302 of 550) of cases. Third-generation cephalosporins accounted for 43.9% (54 of 123) of systemic antibiotics to dogs. Of topical antimicrobials prescribed for otitis externa associated with bacteria only or yeast only, 36.4% (20 of 55) were a combination formulation containing both an antibiotic and an antifungal. Antiseptics were prescribed in 62.7% of cases. Cytological investigation was performed in 86.3% of conditions treated with antimicrobials, whereas bacterial culture was used in only 15.3%. This study provides a benchmark for antimicrobial use in veterinary dermatology referral practices. Findings highlight opportunities to align prescribing with updated guidelines to reduce reliance on broad-spectrum systemic antibiotics, favouring topical therapies and underscore the need for narrow-spectrum topical options.",
+      "categories": [
+        "internalMedicine",
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "41948785",
+      "title": "Applying the Health Belief Model to Identify Factors Associated With Owner Persistence to Allergen-Specific Immunotherapy.",
+      "journal": "Veterinary Dermatology",
+      "authors": "Williams C, Milum AW, Andritsch S, von Fricken ME, Painter M",
+      "date": "2026 09 11",
+      "dateObject": "2026 09 11",
+      "abstract": "Allergen-specific immunotherapy (ASIT) is the only treatment targeting the pathophysiology of canine atopic dermatitis (cAD) and feline atopic skin syndrome (FASS). Despite its disease-modifying potential, owner persistence remains a clinical challenge. This study applied the Health Belief Model (HBM) to evaluate factors influencing owner persistence with ASIT. We hypothesised that owner perceptions of ASIT effectiveness, perceived barriers (e.g., cost) and ease of treatment integration would be associated with persistence. The objective was to identify modifiable psychological and logistical factors to support sustained ASIT use in cAD and FASS management. No animals were used. Pets prescribed ASIT between 1 January 2020 and 31 May 2024, were identified from four geographically diverse veterinary dermatology practices. Owners completed a survey assessing HBM constructs-perceived susceptibility, perceived severity, perceived benefits, perceived barriers, self-efficacy, social support-and a knowledge domain. Owner-reported ASIT refill behaviour served as a proxy for persistence. Associations between HBM constructs and refill behaviour were evaluated using chi-square tests and logistic regression. Higher perceived disease severity, greater perceived benefits and increased self-efficacy were positively associated with persistence. Owners who viewed their pet's condition as severe, believed ASIT effective, or felt confident administering treatment were more likely to continue therapy. Cost concerns and administration challenges were key perceived barriers. This study highlights the psychological factors in owner persistence with ASIT. HBM-informed educational strategies that emphasise disease impact, treatment value and owner confidence may improve persistence with ASIT and long-term disease management.",
+      "categories": [
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "41937610",
+      "title": "Epidemiology of Canine Cutaneous Histiocytoma: Insights From Age and Topographic Clustering.",
+      "journal": "Veterinary Dermatology",
+      "authors": "De Moura C, Pinello K, Catarino J, Niza-Ribeiro J, Santos J, Fa&#xed;sca P",
+      "date": "2026 09 11",
+      "dateObject": "2026 09 11",
+      "abstract": "Canine cutaneous histiocytoma (CCH) is a benign Langerhans-cell tumour that often regresses spontaneously via inflammation. To estimate incidence and characterise age and breed-anatomical-site patterns using two complementary clustering analyses. A total of 359 histopathologically-confirmed CCHs from a private veterinary laboratory in Portugal (January 2020-January 2022) were analysed with dog-population denominators from the national registry (SIAC). Incidence rates (IR) were calculated for Lisbon-Set&#xfa;bal; breed- and sex-specific relative risks (RR) were estimated. Age was modelled with BIC-selected Gaussian mixtures; breed-site patterns were summarised by hierarchical clustering of site frequencies (heatmaps). Cases concentrated in young dogs (&#x2264;&#x2009;2&#x2009;years, 48.8%) and males (58.5%). Age clustering defined three bands (&#x2248;&#x2009;&#x2264;&#x2009;1.5, 1.5-3.5, >&#x2009;3.5&#x2009;years) with differing breed and site distributions. Breed-site clustering revealed recurring anatomical predilections by breed and sex. The annual IR in Lisbon-Set&#xfa;bal was 4.0 per 10,000 dogs (3.5 in females; 4.4 in males). Risk was highest in French bulldogs (RR 11.5; IR 34.1) and Boxers (RR 8.3; IR 24.5) versus mixed-breed dogs (p&#x2009;<&#x2009;0.001). Canine cutaneous histiocytoma (CCH) shows clear age bands and breed-linked anatomical predilections; these patterns help prioritise ages, sites and breeds for studies of inflammation-mediated regression.",
+      "categories": [
+        "oncology",
+        "dermatology"
+      ]
+    },
+    {
       "pmid": "42722447",
       "title": "Forensic LC-MS/MS Monitoring of Anticoagulant Rodenticide Poisoning in Cats Over a Half-Decade.",
       "journal": "Veterinary Medicine and Science",
@@ -150,18 +410,6 @@
       "abstract": "Ehrlichia canis, the causative agent of canine monocytic ehrlichiosis, infects monocytes and macrophages in dogs and is transmitted mainly by hard ticks Rhipicephalus sanguineus sensu lato. Although E. canis has been reported worldwide, autochthonous E. canis infection in Japan was not confirmed before 2020. In this study, molecular characterization of E. canis detected in two dogs in Tokyo in 2020 and 2023 was conducted. DNA extracted from spleen and blood samples was subjected to polymerase chain reaction (PCR) targeting the 16S ribosomal RNA (rRNA), groEL (heat shock protein), p28 (major outer membrane protein), and trp36 (tandem repeat protein 36) genes, followed by sequencing and phylogenetic analyses. Both cases shared identical 16S rRNA and groEL sequences with many E. canis strains, whereas sequence diversity was evident for p28 and trp36 genes. Interestingly, E. canis in one of the cases harbored a novel 26-amino-acid tandem repeat sequence in trp36, representing a previously unreported trp36 tandem-repeat variant Japan. Phylogenetic analyses placed the E. canis sequences from the two cases into different clusters, suggesting the presence of genetically distinct variants in Japan. This study provides evidence of genetic diversity among E. canis detected in dogs in Japan and suggests the possibility of local transmission or previously unrecognized introduction of this pathogen.",
       "categories": [
         "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42717911",
-      "title": "Radiation-Induced Alopecia in Dogs With Nasal Tumours: Coat Type Influences Development and Onset.",
-      "journal": "Veterinary Dermatology",
-      "authors": "Nemoto Y, Aoki K, Yoshida A, Ueno H, Nakaichi M",
-      "date": "2026 09 10",
-      "dateObject": "2026 09 10",
-      "abstract": "Radiation-induced alopecia (RIA) is a common adverse effect of radiation therapy, yet factors influencing its development in dogs remain unclear. To characterise acute RIA in dogs with nasal tumours and to evaluate associations with coat type and radiation dose. Thirty-eight client-owned dogs were treated with radiation therapy for nasal tumours. Medical records were reviewed retrospectively. Dogs were classified by coat type (straight versus curly or wire-haired). Time to onset of alopecia was assessed as the interval from the first irradiation to the first detection of alopecia, and cumulative skin dose was calculated up to alopecia onset. Dogs developing acute RIA during radiation therapy were compared with those without RIA. Dogs developing alopecia only after completion of radiation therapy were excluded. Seventeen of 34 dogs developed acute RIA during radiation therapy. Coat type was significantly associated with RIA development (p&#x2009;=&#x2009;0.003), with all dogs with curly or wire-haired coats affected. These dogs developed RIA earlier than those with straight-haired coats (median 14 versus 20&#x2009;days; p&#x2009;=&#x2009;0.047). Within affected dogs, RIA developed first in regions receiving higher skin doses and subsequently progressed to regions receiving lower skin doses. Coat type influences the development of acute RIA in dogs, with curly or wire-haired breeds showing earlier onset and greater extent of alopecia. Alopecia progression reflects regional skin dose distribution. These findings may assist clinicians in predicting the risk of RIA and informing owners about the potential development and timing of radiation-induced alopecia.",
-      "categories": [
-        "dermatology"
       ]
     },
     {
@@ -573,19 +821,6 @@
       ]
     },
     {
-      "pmid": "42692466",
-      "title": "Systemic Inflammation in Dogs With Atopic Dermatitis Compared to Healthy Dogs and Dogs With Pemphigus Foliaceus: A Study Using a Limited Cytokine Panel.",
-      "journal": "Veterinary Dermatology",
-      "authors": "Herrmann I, Mamo LB, Bizikova P",
-      "date": "2026 09 03",
-      "dateObject": "2026 09 03",
-      "abstract": "Atopic dermatitis (AD) is a common chronic, pruritic and inflammatory skin disease in both humans and dogs. In people, AD is increasingly recognised as a systemic inflammatory disease in which immune dysregulation drives chronic inflammation extending beyond the skin, particularly in moderate-to-severe disease. Whether a comparable systemic inflammation exists in canine AD, however, remains poorly characterised. We hypothesised that serum cytokine concentrations would differ between dogs with varying AD severity and healthy controls. This study aimed to identify systemic inflammatory markers correlating with AD severity, by comparing cytokine profiles in dogs with mild AD and moderate-to-severe AD against healthy dogs (negative control) and dogs with active pemphigus foliaceus (PF) lesions (positive control). Forty client-owned dogs were enrolled, with 10 dogs in each of four groups: healthy controls, mild AD, moderate-to-severe AD and PF. Serum concentrations of tumour necrosis factor (TNF)-&#x3b1;, TNF-&#x3b2;/lymphotoxin-&#x3b1;, interleukin (IL)-1&#x3b2;, IL-6, IL-12 and IL-1 receptor antagonist (IL-1RA) were measured using standardised immunoassays to evaluate systemic inflammation across groups. Marked interindividual variability was observed across all groups. No statistically significant differences in serum concentrations of any of the six cytokines were detected between the healthy, mild AD, moderate-to-severe AD and PF groups. In a limited cytokine panel, no evidence of differential systemic inflammation was detected across groups, including dogs with moderate-to-severe AD compared to healthy controls. These findings may reflect true lack of systemic inflammation in dogs or may be attributable to the small sample size, high interindividual variability or the limited scope of the cytokine panel evaluated.",
-      "categories": [
-        "oncology",
-        "dermatology"
-      ]
-    },
-    {
       "pmid": "42685339",
       "title": "A SINE-like insertion in intron 13 of the ATP7A gene is associated with a mild form of Menkes-like disease in a Cavalier King Charles Spaniel.",
       "journal": "Journal of Veterinary Internal Medicine",
@@ -890,16 +1125,6 @@
       ]
     },
     {
-      "pmid": "42190710",
-      "title": "Pelvic limb joint motion increases with treadmill walking speed in healthy Beagles.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Yoshikawa K, Kitazawa T, Sano T, Yamazaki A, Edamura K",
-      "date": "2026 09 01",
-      "dateObject": "2026 09 01",
-      "abstract": "To determine the effects of 4 fixed treadmill walking speeds on sagittal-plane pelvic limb joint motion in healthy Beagles and to provide speed-stratified descriptive kinematic values for interpreting treadmill-based canine gait assessments. 8 healthy Beagles underwent 3-D motion analysis during treadmill walking at 1.1 km/h (0.31 m/s), 1.8 km/h (0.50 m/s), 2.5 km/h (0.69 m/s), and 3.2 km/h (0.89 m/s). For each dog at each speed, 10 gait cycles were time normalized and averaged to generate representative waveforms. Peak extension angle, peak flexion angle, and range of motion (ROM) were calculated for the hip, stifle, and tarsus. Linear mixed-effects models were used to assess speed-related changes. Only walk trials were analyzed; for 1 dog, the 3.2 km/h (0.89 m/s) trial was excluded after gait classification identified trot. ROM increased with speed in all 3 joints. For every 1-km/h (0.28 m/s) increase in speed, ROM increased by 6.11&#xb0; (95% CI, 5.37 to 6.86) at the hip, 5.37&#xb0; (95% CI, 4.17 to 6.56) at the stifle, and 3.66&#xb0; (95% CI, 2.41 to 4.90) at the tarsus. At the hip and stifle, the increase in ROM reflected increased peak extension and decreased peak flexion, whereas at the tarsus, it was associated mainly with a decrease in peak flexion angle. Faster treadmill walking was associated with greater pelvic limb ROM in healthy Beagles, with joint-specific patterns of change. Walking speed should be standardized or accounted for when interpreting treadmill-derived ROM in canine gait analysis or rehabilitation follow-up.",
-      "categories": []
-    },
-    {
       "pmid": "42677228",
       "title": "Factors affecting veterinary perception of the prevalence of back pain and dysfunction in dogs and horses.",
       "journal": "Frontiers in Veterinary Science",
@@ -959,16 +1184,6 @@
         "oncology",
         "dermatology"
       ]
-    },
-    {
-      "pmid": "42677807",
-      "title": "Comparison Between Colorimetric and Subjective Evaluation of Intradermally Injected Histamine-Induced Erythema in Healthy Dogs.",
-      "journal": "Veterinary Dermatology",
-      "authors": "Petak A, Samuel E, Aleksandrova S, Sofou EI, Chatzis MK, Saridomichelakis MN",
-      "date": "2026 09 01",
-      "dateObject": "2026 09 01",
-      "abstract": "Currently used methods for the interpretation of intradermal allergen test results either ignore the erythema of the wheals (objective method) or evaluate it subjectively (subjective method, and global wheal score [GWS]). To compare the efficacy of GWSs in differentiating between wheals induced by intradermal injection of a negative control and histamine at three different concentrations, using either the objective colorimetric measurement of erythema or the subjective evaluation of erythema as absent, weak, or strong. Seven clinically healthy dogs. Duplicate intradermal injections of a negative control, histamine 0.0001%, histamine 0.001%, and histamine 0.01% were administered on the lateral thorax of the dogs. A colorimeter was used to measure erythema before and 15&#x2009;min after the injection and, at the same time, three blinded investigators scored erythema subjectively. The subtraction of the first colorimetric measurement of erythema obtained before intradermal injection from the first postinjection objective measurement (&#x394;Efirst) outperformed three other objective measurement methods and yielded GWSs capable of differentiation among the four solutions with efficiencies comparable to those of GWSs based on subjective erythema assessment. However, the stronger correlation between the later and wheal diameters may indicate bias in the subjective evaluation of erythema. A single colorimetric measurement of erythema before and after intradermal injection of a negative control and histamine at three different concentrations, followed by calculation of their difference, can replace the subjective evaluation of erythema for the calculation of GWSs and avoid possible bias.",
-      "categories": []
     },
     {
       "pmid": "42675021",
@@ -1246,18 +1461,6 @@
       "categories": [
         "internalMedicine",
         "surgery"
-      ]
-    },
-    {
-      "pmid": "42665336",
-      "title": "Diagnostic Performance of Immunoglobulin E Serology, Prick Test and Patch Test With Food Allergens in Dogs With Atopic Dermatitis and Adverse Food Reactions Using the Double-Blind Placebo-Controlled Food Challenge as Gold Standard.",
-      "journal": "Veterinary Dermatology",
-      "authors": "Sofou EI, Aleksandrova S, Samuel E, Chatzis M, Saridomichelakis MN",
-      "date": "2026 08 28",
-      "dateObject": "2026 08 28",
-      "abstract": "In dogs with adverse food reactions (AFRs), immunoglobulin (Ig)E serology, prick test and patch test with food allergens have shown variable diagnostic performance for the identification of the offending foods, when the latter were identified using open food challenges. To evaluate the diagnostic performance of these tests in dogs with atopic dermatitis (AD) and AFRs, using the double-blind placebo-controlled food challenge (DBPCFC) as the gold standard. Twelve dogs with AD and AFRs underwent DBPCFCs with eight food items. IgE serology, prick test and patch test with the same eight food allergens were performed after the diagnosis of AD and before the diagnostic investigation for AFRs and the DBPCFCs. The sensitivity (3%-60.6%), specificity (54.8%-98.4%), positive predictive value (25%-66.7%) and negative predictive value (64.1%-72.3%) of the three tests and of their combination were unsatisfactory. Furthermore, their positive and negative likelihood ratio values were not in the clinically informative range, apart from the prick test having a weakly informative positive likelihood ratio value of 3.81. Under the conditions of this study, the diagnostic performance of IgE serology, prick test and/or patch test with food allergens was poor using the DBPCFC as gold standard.",
-      "categories": [
-        "dermatology"
       ]
     },
     {
@@ -1582,18 +1785,6 @@
       ]
     },
     {
-      "pmid": "42656084",
-      "title": "Time Required for Topical Difluprednate to Suppress the Intradermal Histamine-Induced Vascular Reaction in Dogs.",
-      "journal": "Veterinary Dermatology",
-      "authors": "Takeo F, Murayama N, Orito K",
-      "date": "2026 08 27",
-      "dateObject": "2026 08 27",
-      "abstract": "Topical glucocorticoid (GC) is used to manage inflammatory skin diseases in dogs. However, contact times associated with detectable topical GC effects have not been clarified in dogs. Uncertainty regarding contact time may lead to premature removal or overuse, compromising efficacy and safety. To determine contact times at which detectable GC effects are observed after topical difluprednate lotion application in dogs. Six male Beagle dogs. Suppression of the histamine-induced vascular reaction (HVR), based on the principles of the vasoconstrictor assay, was used as an indicator of detectable GC effects. Difluprednate lotion was applied to a circular area (2&#x2009;cm in diameter) on the lateral trunk 5, 10 and 30&#x2009;min before intradermal histamine injection. Fluorescein was administered intravenously 5&#x2009;min before histamine injection to visualise HVR. HVR images were obtained 15&#x2009;min after histamine injection under UV illumination, and the fluorescent area was measured using ImageJ. Statistical analysis was performed using Dunnett's multiple comparison test. When difluprednate application was performed 5, 10 and 30&#x2009;min before histamine injection, HVR areas were smaller than untreated control sites (p&#x2009;<&#x2009;0.01). No significant differences were detected among sites treated 5, 10 and 30&#x2009;min before histamine injection. Difluprednate lotion suppressed the HVR when applied 5, 10 and 30&#x2009;min before histamine injection, indicating detectable dermal GC activity at the evaluated time points. Information regarding contact times at which topical GC effects can be detected may help clinicians to provide contact-time instructions and improve treatment management.",
-      "categories": [
-        "dermatology"
-      ]
-    },
-    {
       "pmid": "42647817",
       "title": "Effect of simethicone on visualization quality and capsule transit time during video capsule endoscopy in healthy dogs.",
       "journal": "Journal of Veterinary Internal Medicine",
@@ -1602,18 +1793,6 @@
       "dateObject": "2026 08 26",
       "abstract": "Simethicone enhances visualization quality (VQ) during video capsule endoscopy (VCE) in humans, but its effects on VQ and capsule transit time (CTT) in dogs remain unclear. Evaluate the effects of simethicone on VQ and CTT in dogs undergoing VCE. Fifteen client-owned healthy dogs weighing 3-10&#xa0;kg. Prospective, blinded, randomized crossover study. Each dog underwent VCE twice: once with 20&#xa0;mg (1&#xa0;mL) simethicone administered 30&#xa0;minutes before capsule ingestion, and once with 1&#xa0;mL normal saline as a control. Visualization quality was assessed based on the proportion of mucosa visualized (variable 1), the degree of obscuration by bubbles, debris, blood, or bile (variable 2), and their average (variable 3). Capsule transit time, including gastric transit time (GTT) and small bowel transit time (SBTT), and incomplete study rates also were evaluated. Simethicone significantly improved VQ in the entire small bowel, especially in the proximal segment (P&#xa0;<&#xa0;.05 for all variables). However, no significant differences were observed between protocols in the distal small bowel and stomach. Gastric transit time and SBTT also were not significantly different between protocols. The risk of incomplete studies was not significantly affected by protocol, sex, body weight, or age. Simethicone had region-specific effects on VQ in dogs undergoing VCE, specifically enhancing VQ in the small intestine. These findings provide preliminary evidence of a potential role for simethicone in improving small bowel VQ.",
       "categories": []
-    },
-    {
-      "pmid": "42644499",
-      "title": "Comments on Statistical Analysis of \"Comparative Efficacy and Safety of Ilunocitinib and Oclacitinib for the Control of Pruritus and Associated Skin Lesions in Dogs With Atopic Dermatitis\".",
-      "journal": "Veterinary Dermatology",
-      "authors": "Hakala M, Zschiesche E, Hala P, Kuhlmann I",
-      "date": "2026 08 26",
-      "dateObject": "2026 08 26",
-      "abstract": "",
-      "categories": [
-        "dermatology"
-      ]
     },
     {
       "pmid": "42641071",
@@ -1639,19 +1818,6 @@
       "categories": [
         "internalMedicine",
         "oncology"
-      ]
-    },
-    {
-      "pmid": "42638346",
-      "title": "A Randomised Placebo-Controlled Study to Evaluate the Efficacy and Safety of a Two-Dose Topical Terbinafine and Betamethasone Gel for the Treatment of Yeast (Malassezia pachydermatis) Otitis Externa in Dogs.",
-      "journal": "Veterinary Dermatology",
-      "authors": "Baks ZZ, Heinz HB, Grundke S, Thompson C, Garcia R",
-      "date": "2026 08 25",
-      "dateObject": "2026 08 25",
-      "abstract": "Otitis externa (OE) with Malassezia pachydermatis overgrowth with limited bacterial involvement is common in dogs. Treatment with products containing antibiotics is unnecessary and not consistent with judicious use of antimicrobials. To evaluate the efficacy and safety of an otic gel containing 1% terbinafine and 0.1% betamethasone acetate for the treatment of yeast-predominant canine OE. 239 privately owned dogs were enrolled. Inclusion criteria were an otitis index score (OTIS3) of &#x2265;&#x2009;6 and yeast-predominance on ear swab cytological evaluation. Dogs received either the study product containing terbinafine and betamethasone (TBG) or placebo (saline) on Day (D) 0 and D7. Follow-up visits were on D7, D14, D28 and D45. Clinical success was defined as an OTIS3 score &#x2264;&#x2009;3 on D45. Overall clinical response (by the veterinary surgeon and owner) and yeast cytological count reduction also were assessed. Safety was evaluated based on clinical assessments, haematological and clinical chemical analysis, urinalysis and adverse events. The treatment success was significantly higher in the treated group compared to the placebo group (62.9% versus 20.0%, p&#x2009;<&#x2009;0.0001). Dogs receiving TBG had a treatment response described as 'excellent' or 'good' by 61.9% and 71.1% of veterinary surgeons and owners, respectively. The safety evaluation demonstrated that the otic gel was safe. Efficacy and safety of an otic gel for the treatment of canine OE associated with Malassezia pachydermatis were demonstrated.",
-      "categories": [
-        "internalMedicine",
-        "dermatology"
       ]
     },
     {
@@ -2440,16 +2606,6 @@
       "categories": []
     },
     {
-      "pmid": "42559714",
-      "title": "Symmetrical Lupoid Onychodystrophy in Review: Lessons Learned From 31 Cases.",
-      "journal": "Veterinary Dermatology",
-      "authors": "Calesso JR, Souza CP, Bruner SR, Bicalho APCV",
-      "date": "2026 08 06",
-      "dateObject": "2026 08 06",
-      "abstract": "Symmetrical lupoid onychodystrophy (SLO) is a complex disease that exclusively affects the claws of dogs and represents a therapeutic challenge. Biopsy sampling of the third phalanx for histopathological evaluation has historically been the recommended diagnostic test, yet clinical diagnosis is currently encouraged. Numerous treatment protocols of varying success have been proposed for dogs with this condition. The goals of this study are to report clinical findings, treatment protocols and outcomes of dogs with SLO, to propose a rationale for the clinical diagnosis and to discuss therapies for SLO. Thirty-one dogs examined at a veterinary hospital from May 2004 to April 2024. Retrospective analysis of medical records from dogs diagnosed with SLO. The average age of dogs at disease onset and diagnosis was 7&#x2009;years old. Nineteen breeds were represented. Thirty dogs were clinically diagnosed with SLO, mostly presenting with onychodystrophy and onychomadesis, and in one a biopsy sample was collected. Different therapeutic combinations including tetracyclines alone or with niacinamide, pentoxifylline, essential fatty acids (EFAs), vitamin E, biotin and ciclosporin were used for the initial and/or maintenance treatment of SLO. The distinctive presentation of SLO supports its clinical diagnosis. Medical treatment seems to support a favourable long-term outcome, despite the wide variation in protocols and doses. EFAs were commonly used as initial and maintenance therapy, and tetracyclines could often be excluded from the treatment protocol, thus complying with good antimicrobial stewardship practice.",
-      "categories": []
-    },
-    {
       "pmid": "42554915",
       "title": "Tracing feline herpesvirus-1 exposure in domestic cats from Namibia: associations with neutralising antibodies, vaccination, clinical signs, and retroviral status.",
       "journal": "Veterinary Research Communications",
@@ -2459,18 +2615,6 @@
       "abstract": "Feline herpesvirus type 1 (FHV-1) is a major cause of upper respiratory and ocular disease in domestic cats and remains widely distributed worldwide. However, information on FHV-1 exposure and neutralising antibody responses in cats from Namibia is limited. This study assessed FHV-1 neutralising antibody prevalence in a convenience sample of 236 domestic cats sampled across 15 towns in eight regions of Namibia. Neutralising antibodies were detected in 18/236 (8%) cats (95% CI: 4.88-11.73%). Seropositive animals were identified only in Erongo, Khomas, and Hardap regions, with the highest regional seroprevalence observed in Erongo. Seropositivity was uncommon in both vaccinated and unvaccinated cats and was not significantly associated with vaccination status, feline immunodeficiency virus antibody status, or feline leukaemia virus antigen status. A significant association was identified between seropositivity and oculonasal discharge (p&#x2009;<&#x2009;0.001). Overall, the findings indicate low FHV-1 neutralising antibody prevalence within the sampled population rather than the wider domestic cat population of Namibia, and suggest that detectable neutralising antibodies were observed predominantly in unvaccinated cats, although interpretation is limited by the small number of vaccinated animals and the absence of detailed vaccination histories.",
       "categories": [
         "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42554028",
-      "title": "A Retrospective Comparison of Survival, Tumour Reduction and Relapse Outcomes Following Oclacitinib and CCNU Treatment in Dogs With Canine Epitheliotropic T-Cell Lymphoma.",
-      "journal": "Veterinary Dermatology",
-      "authors": "Shen GB, Dehcheshmeh MM, Ebrahimie E, Knight E, Trott DJ, Shipstone M",
-      "date": "2026 08 05",
-      "dateObject": "2026 08 05",
-      "abstract": "Canine epitheliotropic T-cell lymphoma (CETL) is an aggressive and generally incurable disease in dogs. CCNU (lomustine) is commonly used for management, even though it carries a significant risk of adverse effects. Several reports describe oclacitinib producing clinical improvement in affected dogs, yet comparative data between the two treatments are lacking. To compare the clinical outcomes in dogs with CETL treated with oclacitinib or CCNU, focussing on tumour reduction (response), survival time and time-to-relapse. This retrospective review (2008-2024) included 23 client-owned dogs with confirmed CETL treated with either CCNU (n&#x2009;=&#x2009;11) or oclacitinib (n&#x2009;=&#x2009;12). Outcomes included response (reduction in measurable tumour burden), survival (time from histopathological diagnosis to death) and time-to-relapse (for dogs with complete or good responses). Clinical presentation and adverse effects also were recorded. Additionally, sex, age and weight were compared between treatment groups to investigate potential confounding factors. No statistically significant differences were identified between oclacitinib and CCNU for response, survival or time-to-relapse (p&#x2009;>&#x2009;0.05 for all). Kaplan-Meier survival analysis showed no significant difference in overall survival (log-rank test, p&#x2009;=&#x2009;0.20). Oclacitinib was associated with fewer adverse effects and reduced monitoring intensity. These findings suggest oclacitinib may offer outcomes comparable to CCNU for CETL, with fewer adverse effects and less intensive monitoring. The small, retrospective sample limits firm conclusions, yet these results indicate that oclacitinib could be a reasonable, possibly safer palliative option warranting further prospective study.",
-      "categories": [
-        "oncology"
       ]
     },
     {
@@ -2508,30 +2652,6 @@
       "categories": [
         "oncology",
         "surgery",
-        "dermatology"
-      ]
-    },
-    {
-      "pmid": "42543181",
-      "title": "Clinical and Immunological Responses to Dermatophagoides farinae Allergen Immunotherapy in Dogs With Atopic Dermatitis.",
-      "journal": "Veterinary Dermatology",
-      "authors": "Wannawong J, Tunhikorn M, Prangtaworn P, Saelim N, Srisai T, Indrawattana N, Sungpradit S, Tungtrongchitr A, Wiriyarat W",
-      "date": "2026 08 02",
-      "dateObject": "2026 08 02",
-      "abstract": "Atopic dermatitis (AD) in dogs is a prevalent allergic disorder associated with environmental allergens, including the house dust mite Dermatophagoides farinae (Df). To describe clinical and immunological changes over time in dogs with canine (c)AD sensitised to Df undergoing Df allergen-specific immunotherapy (ASIT) and to test the hypothesis that ASIT is associated with changes in Canine Atopic Dermatitis Extent and Severity Index, 4th iteration (CADESI-04), pruritus and medication scores and selected immunological markers. Fifteen dogs with cAD sensitised to Df received ASIT for 12&#x2009;months. Clinical evaluations included CADESI-04 and pruritus Visual Analog Scale (PVAS). Gene expression of interleukin (IL)-31, interferon-gamma (IFN-&#x3b3;) and glyceraldehyde-3-phosphate dehydrogenase (GAPDH) in peripheral blood mononuclear cells (PBMCs) was analysed using real-time PCR. Serum levels of Df-specific immunoglobulin (Ig)E, total IgG and IgG subclass 1 were measured using immunoassays. Evaluations were performed at 0, 6 and 12&#x2009;months. Significant reductions in pruritus scores and IL-31 expression were observed, while IFN-&#x3b3; expression increased. CADESI-04 scores decreased, although the change was not statistically significant. A reduction in medication scores was observed over time. Serum analysis showed increased concentrations of IgG and IgG1, while Df-specific IgE remained elevated. Dermatophagoides farinae ASIT resulted in a reduction in pruritus and medication use over a 12&#x2009;month period. Associated with this, PBMCs IL-31 was reduced and IFN-&#x3b3; elevated. An increased serum IgG and IgG1 were measured, and Df-specific IgE remained elevated. These findings support an immunological effect of ASIT, yet further studies with a larger cohort are required to validate the findings.",
-      "categories": [
-        "dermatology"
-      ]
-    },
-    {
-      "pmid": "42543154",
-      "title": "A Novel Veterinary Molecular Multiplex Microarray Serological Allergen Test (Pet Allergy Xplorer; Nextmune) Versus Conventional Extract-Based Serological (Idexx; Stallergenes Greer Laboratories) Versus Intradermal Allergen Testing in 59 Dogs With Atopic Dermatitis: Evaluation of Agreement Between Allergy Testing Platforms.",
-      "journal": "Veterinary Dermatology",
-      "authors": "Birchler D, Austel M, Banovic F",
-      "date": "2026 08 02",
-      "dateObject": "2026 08 02",
-      "abstract": "The first veterinary multiplex molecular microarray serum allergy test (SAT), Pet Allergy Xplorer, is commercially available. However, no comparative evaluations of this test versus whole extract-based SAT (eSAT) platforms and intradermal allergen testing (IDAT) currently exist. Evaluate agreement between IDAT, conventional eSAT (Stallergenes Greer Laboratories) and extract and recombinant-containing SAT (erSAT) for shared environmental allergens in atopic dogs. Fifty-four dogs with non-seasonal (with or without seasonal exacerbation) and five dogs with seasonal atopic dermatitis were enrolled. IDAT, eSAT and erSAT were performed on the same day. Two independent investigators (Inv A and Inv B) recorded IDAT results. Per manufacturer guidance, 80 and 300 enzyme-linked immunosorbent assay (ELISA) absorbance units (eSAT80 and eSAT300) and 28&#x2009;ng/mL (erSAT) were used as SAT cut-off values. Cohen's kappa (&#x3ba;) and prevalence-adjusted bias-adjusted kappa (PABAK) were used to test agreement. Between IDAT investigators, there was almost perfect agreement across all allergens (&#x3ba;&#x2009;=&#x2009;0.81; PABAK&#x2009;=&#x2009;0.87). Moderate agreement (&#x3ba;&#x2009;=&#x2009;0.58) between erSAT and eSAT300 across all allergens improved to almost perfect with PABAK (0.84). IDAT Inv A had the strongest agreement with eSAT300 (&#x3ba;&#x2009;=&#x2009;0.44, PABAK&#x2009;=&#x2009;0.75) compared to erSAT (&#x3ba;&#x2009;=&#x2009;0.29, PABAK&#x2009;=&#x2009;0.64) and eSAT80 (&#x3ba;&#x2009;=&#x2009;0.13, PABAK&#x2009;=&#x2009;0.11); results were similar with Inv B. Agreement between testing platforms varied depending on the kappa statistic used, with low &#x3ba; agreement for most comparisons, highlighting disagreements on what was considered positive. PABAK was generally higher, showcasing high overall concordance. Agreement to the new erSAT was strongest with eSAT300; agreement was moderate (&#x3ba;) to almost perfect (PABAK).",
-      "categories": [
         "dermatology"
       ]
     },
@@ -2882,122 +3002,6 @@
       "categories": [
         "internalMedicine",
         "surgery",
-        "dermatology"
-      ]
-    },
-    {
-      "pmid": "42136007",
-      "title": "Longitudinal Analysis of Seasonal Variations in Intradermal Test Reactivity and Serum Allergen-Specific Immunoglobulin E in Dogs With Atopic Dermatitis.",
-      "journal": "Veterinary Dermatology",
-      "authors": "Faucher J, Love KR, Quinn AR, Bizikova P",
-      "date": "2026 07 12",
-      "dateObject": "2026 07 12",
-      "abstract": "In dogs with atopic dermatitis (AD), allergen testing is often timed to pollen exposure. However, data on seasonal effects on intradermal testing (IDT) and allergen-specific immunoglobulin (Ig)E serology (SAT) are limited. To evaluate the seasonal effects on IDT and SAT results in dogs with AD by comparing aeroallergen test positivity across four seasons within the same cohort. Twenty-six client-owned dogs with nonseasonal AD (six) and AD with seasonal pattern (20). In this prospective longitudinal study, dogs underwent repeated IDT and SAT using two commercial assays during spring, summer, autumn and winter. Seasonal differences in overall and allergen group-specific positivity were analysed using nonparametric statistics and mixed-effects and generalised estimating equation models. There was modest seasonal variation in overall (p&#x2009;=&#x2009;0.004) and pollen-specific reactions (p&#x2009;=&#x2009;0.005) on IDT, with autumn having the highest positivity rates. This pattern was seen only in dogs with a seasonal component to their AD (p&#x2009;=&#x2009;0.007). Grass and weed allergens had higher odds of testing positive in autumn (odds ratio [OR]&#x2009;=&#x2009;2.696, p&#x2009;=&#x2009;0.032 and OR&#x2009;=&#x2009;2.026, p&#x2009;=&#x2009;0.034, respectively), while other allergens showed no consistent seasonal differences. No significant seasonal differences were detected in SAT, although subtle effects could have been missed owing to the sample size and conservative statistical adjustments. Disease duration did not influence seasonal testing patterns. These findings suggest that, until further data are available, allergen testing in dogs, especially those with seasonal AD, may be optimally timed later in the season (autumn) to increase the likelihood of positive results.",
-      "categories": [
-        "dermatology"
-      ]
-    },
-    {
-      "pmid": "42114565",
-      "title": "Microarray Gene Expression Analysis of Lesional Skin in Canine Vesicular Cutaneous Lupus Erythematosus (VCLE).",
-      "journal": "Veterinary Dermatology",
-      "authors": "Clifford T, W Stranahan L, J Wiener D, Keating MK, Leon R, Banovic F",
-      "date": "2026 07 12",
-      "dateObject": "2026 07 12",
-      "abstract": "Vesicular cutaneous lupus erythematosus (VCLE) is a rare autoimmune disease in dogs and is considered the canine counterpart of human subacute cutaneous lupus erythematosus (SCLE). However, the molecular mechanisms underlying VCLE remain incompletely defined. To characterise gene expression changes in lesional skin from dogs with VCLE and identify immune pathways involved in disease pathogenesis. Six client-owned dogs with clinically and histopathologically confirmed VCLE, and five healthy control dogs. Formalin-fixed, paraffin-embedded lesional and control skin samples were analysed using the NanoString nCounter Canine Immuno-Oncology Panel, targeting 780 immune-related genes. Data were normalised using geNorm-selected housekeeping genes. Differential expression, cell type profiling and pathway enrichment analyses were also performed. Principal component analysis showed clear separation between VCLE and healthy control samples. A total of 491 differentially expressed genes were identified, including 439 upregulated and 52 downregulated genes (p-adj <&#x2009;0.05). Lesional skin showed marked upregulation of interferon-stimulated genes (CXCL10, IDO1, ISG15, IFIT1), cytotoxic molecules (GZMB, PRF1, FASLG), pro-inflammatory chemokines (CXCL8, CCL3, CCL4) and S100 family markers (S100A12, S100A9, S100A8). Downregulated genes included DLA-DQB1, ERBB4, CCL27, GATA3 and RORC. Cell type profiling demonstrated enrichment of CD8 + T cells, cytotoxic T cells, natural killer cells, dendritic cells, macrophages and neutrophils. Pathway enrichment analysis identified activation of interferon signalling, Janus kinase signal transducer and activator of transcription (JAK-STAT) signalling, chemotaxis and cytotoxic immune pathways. VCLE lesions feature a dominant interferon-stimulated gene signature, with downstream activation of JAK-STAT signalling and cytotoxic lymphocyte-mediated immune responses, suggesting that interferon and JAK-STAT signalling are potential therapeutic targets.",
-      "categories": [
-        "internalMedicine",
-        "oncology",
-        "dermatology"
-      ]
-    },
-    {
-      "pmid": "42104600",
-      "title": "Probiotic Engraftment and Suppression of Canine Otitis Externa Pathogens by Probiotic Ear Drops.",
-      "journal": "Veterinary Dermatology",
-      "authors": "Salichs M, Beasley S, Gagroo H, Simons A, Henkens T, Homedes J, Claes I",
-      "date": "2026 07 12",
-      "dateObject": "2026 07 12",
-      "abstract": "Lactobacillaceae have shown promise with their potential to outcompete pathogens and restore a healthy microbial balance in otitis externa (OE). This study aimed to evaluate the presence of viable Lactobacillaceae over time and in&#xa0;vitro ability to inhibit growth of common OE pathogens. Fifteen healthy dogs were enrolled and randomised into five groups (n&#x2009;=&#x2009;3 per group) to receive six probiotic ear drops containing live Lactiplantibacillus plantarum YUN-V2.0 and Lacticaseibacillus rhamnosus YUN-S1.0. Ear swabs were taken 24, 48, 72, 96&#x2009;h and 7&#x2009;days post single application for culturing. For pathogen inhibition, clinical isolates of Pseudomonas aeruginosa, Staphylococcus pseudintermedius and Malassezia pachydermatis were tested against the probiotic ear drop and antimicrobial disks of florfenicol 30&#x2009;&#x3bc;g, gentamicin 30&#x2009;&#x3bc;g, marbofloxacin 5&#x2009;&#x3bc;g, miconazole 10&#x2009;&#x3bc;g, neomycin 120&#x2009;&#x3bc;g and terbinafine 1.5&#x2009;&#x3bc;g. A relatively basal low abundance of commensal and Lactobacillaceae micro-organisms was detected (1.34&#x2009;&#xd7;&#x2009;10 3 colony-forming units [cfu]/mL). At 24&#x2009;h post-application, Lactobacillaceae increased significantly (2.3&#x2009;&#xd7;&#x2009;10 6 &#x2009;cfu/mL; p&#x2009;<&#x2009;0.001), and remained above 10 5 cfu/mL at 1&#x2009;week post-application (1.6&#x2009;&#xd7;&#x2009;10 5 cfu/mL). Lactobacilli demonstrated better growth inhibition of P. aeruginosa than gentamicin and marbofloxacin, and of S. pseudintermedius than gentamicin, neomycin and marbofloxacin. For M. pachydermatis similar growth inhibition versus miconazole and terbinafine was observed. These results suggest that probiotic strains exhibit excellent retention and can inhibit the growth of S. pseudintermedius, P. aeruginosa, and M. pachydermatis.",
-      "categories": [
-        "dermatology"
-      ]
-    },
-    {
-      "pmid": "42086328",
-      "title": "A Case of Slow Progressive Cutaneous Angiomatosis on a Cat Metatarsal Pad Treated by a Topical Beta-Blocker.",
-      "journal": "Veterinary Dermatology",
-      "authors": "Accard A, Bitar R, Sanchez MD, Blumstein P, Albaric O, Bouhsina N, Bensignor E",
-      "date": "2026 07 12",
-      "dateObject": "2026 07 12",
-      "abstract": "A 5-year-old female cat presented with a purple depressed lesion on a metatarsal pad inducing ulceration and pain. Histopathological results revealed a non-neoplastic vascular proliferation, a rare condition in cats. Topical beta-blocker successfully prevented recurrence of ulceration. This case highlights the emerging use of topical beta-blockers in both veterinary and human dermatology.",
-      "categories": [
-        "oncology",
-        "dermatology"
-      ]
-    },
-    {
-      "pmid": "42082164",
-      "title": "Effect of Fluorescence Photobiomodulation on Canine Progenitor Epidermal Keratinocytes With and Without Staphylococcus pseudintermedius Colonisation.",
-      "journal": "Veterinary Dermatology",
-      "authors": "Lundberg AT, White A, Archer L, Santoro D",
-      "date": "2026 07 12",
-      "dateObject": "2026 07 12",
-      "abstract": "Fluorescence photobiomodulation (FPB) is a treatment for canine dermatitis, yet no studies exist assessing its effect on canine keratinocytes in&#xa0;vitro. To determine: (i) the anti-inflammatory and antimicrobial effect of FPB on canine progenitor epidermal keratinocytes (CPEK) with and without colonisation by Staphylococcus pseudintermedius (SP); (ii) changes in CPEK viability following FPB exposure; and (iii) SP colony count following FPB exposure. Keratinocytes were grown in chamber slides, with and without SP, and treated with two, 2&#x2009;min exposures to FPB. Supernatant was collected at 0, 1, 6, and 24&#x2009;h post-FPB to evaluate cytokines (interleukin [IL]-2, IL-6, IL-7, IL-8, IL-10, IL-15, IL-18, interferon-&#x3b3; induced protein 10 [IP-10], tumour necrosis factor-&#x3b1;, interferon-&#x3b3;, keratinocyte chemotactic-like, granulocyte-macrophage colony-stimulating factor, and monocyte chemoattractant protein-1), and host defence peptides (&#x3b2;-defensin 3-like and cathelicidin) secretion. Cell cytotoxicity was assessed via lactate dehydrogenase and adenosine triphosphate assays. The supernatant pellet was collected at 0 and 24&#x2009;h, resuspended, and plated. Bacterial colonies were counted after 24&#x2009;h of incubation. Experiments were performed in duplicate and repeated five times. At 6&#x2009;h post-FPB, IP-10 fluorescence intensity was mildly yet significantly decreased in CPEK+SP (p&#x2009;=&#x2009;0.04). No other statistically significant differences were found for cytokine, &#x3b2;-defensin, cathelicidin, or SP colony counts. A lack of cytotoxicity was observed post-FPB over a 24&#x2009;h period. Fluorescence photobiomodulation may have a mild anti-inflammatory effect on CPEKs colonised by SP in&#xa0;vitro based on the significant decrease in IP-10 production 6&#x2009;h post-FBP exposure, yet does not affect CPEK cell viability.",
-      "categories": [
-        "internalMedicine",
-        "oncology",
-        "dermatology"
-      ]
-    },
-    {
-      "pmid": "42067986",
-      "title": "Artificial Intelligence-Based Identification of Common Canine Skin Lesions From Clinical Images.",
-      "journal": "Veterinary Dermatology",
-      "authors": "Kang SY, Kang YH, Kim HJ, Huh EA, Jeon JS, Kim HS, Kim MS, Tiwari A, Hwang CY",
-      "date": "2026 07 12",
-      "dateObject": "2026 07 12",
-      "abstract": "Accurate evaluation of skin lesions is an essential component of dermatological examination, yet it can be time-consuming and subject to interobserver variability. While artificial intelligence (AI) models have shown reliability in diagnosing specific skin diseases, lesion-level identification remains underexplored in veterinary dermatology. To develop and evaluate a convolutional neural network (CNN)-based AI model for the automated identification of four skin lesion types in dogs: erythema, lichenification, alopecia and erosion/ulcer. Clinical skin images were collected from dogs presented to a veterinary medical teaching hospital. Four EfficientNet models were independently trained, one for each lesion type. Model performance was evaluated by comparing the prediction results with veterinary surgeon-labelled data, using six metrics: accuracy, sensitivity, specificity, positive predictive value (PPV), negative predictive value (NPV) and F1 score. All four CNN models achieved an accuracy of >&#x2009;90%, indicating a reliable performance across all lesion types. The alopecia model yielded the highest accuracy (98.12%) and F1 score (98.18%). The erythema and erosion/ulcer models exhibited balanced performance across all metrics. For the lichenification model, the sensitivity (87.02%) and F1 score (89.88%) were the lowest among the four lesion types. The CNN-based AI models developed in this study demonstrated validity in identifying common canine skin lesions from clinical images. These models may facilitate rapid and objective dermatological evaluation, supporting clinical diagnosis and lesion monitoring throughout treatment.",
-      "categories": [
-        "dermatology"
-      ]
-    },
-    {
-      "pmid": "42046400",
-      "title": "Cutaneous Invasive Opportunistic Fungal Infections in Dogs Receiving Ciclosporin for Immune-Mediated Diseases: A Case-Control Study.",
-      "journal": "Veterinary Dermatology",
-      "authors": "Orlandini P, Carli E, Ventura L, Danesi P, Berto L, Mendes C, Lucia M",
-      "date": "2026 07 12",
-      "dateObject": "2026 07 12",
-      "abstract": "Cutaneous opportunistic invasive fungal infections (OIFIs) are mainly reported in immunosuppressed dogs, especially those receiving ciclosporin (CsA). Studies investigating factors other than CsA that favour cutaneous OIFIs in dogs are lacking. To identify host factors, clinicopathological data, and therapeutic regimens associated with the development of cutaneous OIFIs in dogs receiving CsA for immune-mediated diseases. Client-owned dogs treated with CsA, with or without systemic glucocorticoids (GCs) for various immune-mediated diseases. Dogs were classified as cases if they had developed cutaneous OIFIs during CsA treatment, or as controls if they had not. Cases and controls were matched based on the immune-mediated disease and the duration of CsA treatment. Signalment, anamnestic and pertinent clinical data as well as selected laboratory parameters, including blood cell count, neutrophil-to-lymphocyte ratio (NLR), neutrophil-to-monocyte ratio (NMR), C-reactive protein, haptoglobin, total globulins and immunoglobulin (Ig)G and IgM serum levels, were retrospectively collected and analysed. Eight OIFI-affected dogs were matched with 20 control dogs. Among the examined variables, only higher neutrophil count and neutrophil ratios (NLR, NMR) were significantly associated with cutaneous OIFIs. No significant associations were observed between host factors, treatment regimens, and OIFI development in dogs receiving CsA. Further research is needed to clarify the role of GCs and to evaluate NLR and NMR as monitoring tools in immunosuppressed dogs.",
-      "categories": [
-        "internalMedicine",
-        "dermatology"
-      ]
-    },
-    {
-      "pmid": "42036967",
-      "title": "A Retrospective Case Series Reporting the Clinical Efficacy and Adverse Events of Oclacitinib Administration for Skin Disease in 238 Cats.",
-      "journal": "Veterinary Dermatology",
-      "authors": "Wehber MR, Eisenschenk MC, Young AJ, Koch SN",
-      "date": "2026 07 12",
-      "dateObject": "2026 07 12",
-      "abstract": "Off-label oclacitinib use for feline dermatoses management is increasing despite the paucity of data regarding optimal dose and adverse events (AEs). Review AEs, clinical efficacy, and dose regimens in cats prescribed oclacitinib. Retrospective case series of 238 privately owned cats prescribed oclacitinib for dermatological disease. Signalment, history, laboratory abnormalities, oclacitinib dosage (mg/kg/day), treatment duration and AEs using a modified Naranjo Adverse Drug Reaction Probability Scale were retrieved from medical records spanning August 2014 to May 2024. Clinical efficacy was estimated using a pruritus Visual Analogue Scale and medical record lesional descriptions; categorised as complete, partial or no response. The mean (x&#x304;) initial dosage prescribed was 1.89&#x2009;mg/kg/day. Monotherapy controlled clinical signs in 140 of 238 cats (59%), including 83 of 140 cats (59%) on twice daily (x&#x304;&#x2009;=&#x2009;1.85&#x2009;mg/kg/day) and 57 of 140 cats (41%) on once daily administration (x&#x304;&#x2009;=&#x2009;1.05&#x2009;mg/kg/day). The median treatment duration was 271.5&#x2009;days (range 1&#x2009;day-7.5&#x2009;years). Main diagnoses successfully managed included feline atopic skin syndrome (61%) and pemphigus foliaceus (29%). Thirty-three 'definite' or 'probable' AEs were observed in 32 of 238 cats including: neutropaenia 6.3% (n&#x2009;=&#x2009;15), gastrointestinal 4% (n&#x2009;=&#x2009;9), lethargy 1.7% (n&#x2009;=&#x2009;4), infection 0.8% (n&#x2009;=&#x2009;2), hyperactivity 0.4% (n&#x2009;=&#x2009;1), elevated alanine transaminase 0.4% (n&#x2009;=&#x2009;1) and elevated creatinine 0.4% (n&#x2009;=&#x2009;1). Off-label oclacitinib administration in cats appeared to be well-tolerated and effective with AEs typically mild, responsive to dose reduction, and similar to those reported in dogs.",
-      "categories": [
-        "internalMedicine",
-        "dermatology"
-      ]
-    },
-    {
-      "pmid": "42036807",
-      "title": "Treatment of Canine Pemphigus Foliaceus, Pemphigus Vulgaris and Mucous Membrane Pemphigoid With Oclacitinib: A Retrospective Analysis of 21 Cases.",
-      "journal": "Veterinary Dermatology",
-      "authors": "Scranton BL, Tomich LM, Lam ATH, Affolter VK, Outerbridge CA",
-      "date": "2026 07 12",
-      "dateObject": "2026 07 12",
-      "abstract": "This study was performed to retrospectively evaluate the efficacy of oclacitinib (OC) (Apoquel; Zoetis) as a treatment option for pemphigus foliaceus (PF), pemphigus vulgaris (PV) and mucous membrane pemphigoid (MMP). To determine if OC can reduce or replace the corticosteroid use in dogs with PF, PV and MMP. There were no animal subjects. Multicentre retrospective study reviewing medical records from two institutions for dogs diagnosed with PF, PV or MMP and prescribed OC between 2014 and 2025. Twenty-one dogs diagnosed with PF, PV or MMP via histopathological results were included. OC alone was effective in eight of 18 PF dogs at a median dose of 0.65&#x2009;mg/kg/day per os (range 0.5-1.9&#x2009;mg/kg/day p.o.). Five dogs reached clinical remission, and three reached partial remission. One PV dog and the MMP dog each reached clinical remission with OC alone at 0.7&#x2009;mg/kg/day and 0.24&#x2009;mg/kg every other day, respectively. OC was a corticosteroid-sparing agent or adjunctive therapy in seven of 18 PF dogs at a median dose of 0.6&#x2009;mg/kg/day (range 0.4-2.4&#x2009;mg/kg/day). One PV dog reached partial remission at OC 1.9&#x2009;mg/kg/day and prednisone 1.8&#x2009;mg/kg/day yet died from pancreatitis. OC was ineffective in three of 18 PF dogs at a median dose of 1.0&#x2009;mg/kg/day p.o. (range 0.9-1.2&#x2009;mg/kg/day p.o.). Statistical significance was not analysed. OC is an effective sole therapeutic agent or adjunctive therapy in a subset of dogs with PF, PV or MMP. The long-term safety of higher doses of OC is unknown.",
-      "categories": [
-        "internalMedicine",
         "dermatology"
       ]
     },
