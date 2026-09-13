@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-09-12T23:03:37.473Z",
+  "updated_at": "2026-09-13T23:11:12.471Z",
   "papers": [
+    {
+      "pmid": "42730333",
+      "title": "Behavioral and autonomic manifestations of suspected focal impaired awareness seizures supported by interictal electroencephalographic findings in three dogs: a case series.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Czerwik A, Olszewska A, Farke D, Schmidt MJ",
+      "date": "2026 09 12",
+      "dateObject": "2026 09 12",
+      "abstract": "Focal epileptic seizures with sensory impairment can be difficult to recognize and are often mistaken for behavioral disorders. Electroencephalography (EEG) can provide important supportive evidence for their epileptic origin when interpreted in conjunction with clinical presentation. This article describes three cases of canine patients: a 2-year-old Border Terrier, a 1-year-old Poodle mix, and a 4-year-old mixed-breed dog. All three were presented with a history of recurrent episodes characterized by fear, restlessness, hyperactivity, hiding, staring into space or at the sky, lip licking, and hypersalivation. In two dogs, there were also signs of impaired consciousness. The frequency of the episodes varied, ranging from multiple episodes per day to one episode every 1-2&#x202f;weeks. No pre-ictal or post-ictal signs were reported. Clinical and neurological examinations were unremarkable in all three cases. The diagnostic workup included EEG using a Natus Xltek system and magnetic resonance imaging (MRI) of the brain with a Siemens 1.5&#x202f;T scanner. EEG monitoring lasting 1.5-4&#x202f;h revealed epileptiform discharges predominantly in the parietal and temporal regions. This case series highlights the occurrence of behavioral and autonomic symptoms without typical motor manifestations as a presentation of presumed idiopathic epilepsy in dogs, supported by EEG findings in conjunction with the clinical presentation. All three dogs were treated with antiseizure medication, which resulted in a decrease in both the frequency and intensity of episodes, with complete seizure freedom achieved in two dogs.",
+      "categories": [
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "42728486",
+      "title": "Differential diagnosis of microcytic hypochromic anemia in dogs: the role of hepcidin and reticulocyte hemoglobin indices.",
+      "journal": "Veterinary Research Communications",
+      "authors": "Palluy C, Velasco-Mart&#xed;nez MG, Colomer-Selva R, Descalzo-Navarro M, Mena-Moros B, Martins E, Dami&#xe1; E, Satu&#xe9; K",
+      "date": "2026 09 12",
+      "dateObject": "2026 09 12",
+      "abstract": "Microcytic hypochromic anemia in dogs represents a persistent diagnostic challenge, particularly when differentiating between absolute iron deficiency and inflammation-driven functional iron restriction. Conventional biomarkers, including serum iron and ferritin, present important limitations in terms of sensitivity, specificity, and temporal resolution, restricting their ability to accurately reflect dynamic changes in iron metabolism. This review critically evaluates the diagnostic performance and clinical relevance of hepcidin and reticulocyte hemoglobin indices (CHr/RET-He) as advanced biomarkers of iron-restricted erythropoiesis in dogs. Reticulocyte indices provide a dynamic and near real-time assessment of iron availability at the level of erythropoiesis, enabling early detection of iron-restricted states and monitoring of therapeutic response. However, their diagnostic utility is limited by an inability to discriminate between underlying etiological mechanisms. In contrast, hepcidin, the central regulator of systemic iron homeostasis, provides mechanistic insight into iron metabolism. Its circulating concentrations decrease in absolute iron deficiency and increase in inflammation-mediated iron sequestration, thereby potentially facilitating etiological differentiation. Despite its diagnostic potential, clinical application remains limited by methodological variability, lack of assay standardization, and incomplete reference intervals in canine populations. The integration of functional biomarkers (CHr/RET-He) with a regulatory biomarker (hepcidin) is proposed as a complementary and physiologically grounded approach. This combined strategy may enhance diagnostic accuracy, support etiological classification, and facilitate clinical decision-making; however, its diagnostic performance has not yet been sufficiently validated in canine patients, and further prospective studies are required before routine clinical implementation can be recommended.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42728580",
+      "title": "EXPRESS: What Goes in the Bowl? Evidence-Based Nutrition for Ageing Domestic Cats.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "authors": "Bermingham E, Hoummady S, Schoeman T, Chandler M, Dowgray NJ",
+      "date": "2026 09 12",
+      "dateObject": "2026 09 12",
+      "abstract": "With the increasing life expectancy of domestic cats, there is a growing imperative to understand and address the unique nutritional needs of senior felines. This review critically examines current knowledge regarding the physiological changes associated with feline ageing, the nutritional requirements of older cats, and the gaps in research and regulatory nutritional standards that persist in this field. Despite the importance of nutrition, there are no official guidelines for senior or geriatric cats. Veterinary recommendations focus on energy, protein, fat (including essential fatty acids), and water, but these are largely extrapolated from adult cat requirements. The literature reveals a focus on canine ageing, with feline-specific studies remaining scarce. Where research exists, it highlights the benefits of enriched diets (e.g., fish oil, vitamins, B vitamins, arginine) and targeted supplementation (e.g., vitamin E, &#xdf;-carotene, linoleic acid, chicory root) in improving cognitive function, longevity, and intestinal health. However, robust, contemporary evidence for nutritional interventions in ageing cats is limited. Energy requirements, which underpin diet formulation, are inconsistent between studies and largely rely on non-peer reviewed data (i.e., conference proceedings) or meta-analyses. Protein is central to feline health, yet optimal levels for seniors are not empirically established, and age-related amino acid requirements are largely unexplored. Fat digestibility may decline with age, but the impact on fat-soluble nutrient status (e.g., vitamins A, D, E, K) is not well understood. Micronutrient deficiencies, particularly in B vitamins (B6, thiamine, B12), are more prevalent in older cats, often due to reduced intake and assimilation. Regulatory frameworks lack senior-specific nutritional standards, and commercial diets marketed for older cats often do not differ substantially from adult formulations. This review calls for evidence-led approaches, advocating for reputable brands that conduct dietary trials and publish peer-reviewed data on their senior formulations.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
     {
       "pmid": "42725899",
       "title": "Citation clarification regarding feline eltrombopag in the \"ACVIM consensus statement on the treatment of immune thrombocytopenia in dogs and cats\".",
@@ -1150,18 +1186,6 @@
       ]
     },
     {
-      "pmid": "42676414",
-      "title": "Correlation between clinical variables and overall survival time in dogs with multicentric B-cell lymphoma: a retrospective study in Taiwan.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Ke CH, Wang SL, Huang WH, Sio KM, Lee JJ, Xia YY, Lin CS",
-      "date": "2026 09 01",
-      "dateObject": "2026 09 01",
-      "abstract": "Multicentric B-cell lymphoma (MBCL) is one of the most commonly diagnosed spontaneous hematopoietic malignancies in dogs. However, few studies have characterized dogs with MBCL in Taiwan, and the prognostic value of clinical variables, including clinical substage and treatment response, remains under investigation. This study aimed to characterize canine MBCL in Taiwan and evaluate associations between selected clinical variables and overall survival time (OST). Medical records of 441 dogs diagnosed with lymphoma were retrospectively reviewed. Cases with peripheral lymph node enlargement and uniformly large neoplastic cells on cytology and/or histopathology were included. Immunophenotypes were primarily determined by flow cytometry, with PCR for antigen receptor rearrangement used in a small subset for clonality assessment. Dogs that completed at least one full cycle of CHOP chemotherapy were included in the OST analysis and stratified by clinical variables. Dogs with clinical signs (substage b) had shorter OST (median, 140 days; 95% CI, 126-199) than asymptomatic dogs (substage a: median, 186 days; 95% CI, 164-248). Dogs achieving complete or partial response to CHOP had longer OST (median, 196 days; 95% CI, 151-239) than dogs with stable or progressive disease (median, 182 days; 95% CI, 140-196). No significant differences in OST were observed according to serum calcium concentration (>10.5&#x202f;mg/dL) or advanced clinical stage (IV-V). Cox proportional hazards analyses indicated that clinical signs (HR, 2.27; 95% CI, 1.04-4.96; p &#x202f;=&#x202f;0.040) and failure to achieve an objective response (HR, 2.09; 95% CI, 1.06-4.16; p &#x202f;=&#x202f;0.035) were associated with increased mortality. This study provides the first epidemiological and immunophenotypic characterization of canine MBCL in Taiwan. Clinical substage and initial response to CHOP were associated with OST, although further prospective studies are needed to validate these findings and more comprehensively characterize canine lymphoma in Taiwan.",
-      "categories": [
-        "oncology"
-      ]
-    },
-    {
       "pmid": "42529917",
       "title": "Consuming treats with amino acids, osmolytes and sodium increased total water intake and decreased urine specific gravity of healthy cats.",
       "journal": "Journal of Feline Medicine and Surgery",
@@ -1448,19 +1472,6 @@
       "categories": [
         "internalMedicine",
         "oncology"
-      ]
-    },
-    {
-      "pmid": "42332403",
-      "title": "Ala vestibuloplasty for treatment of feline brachycephalic syndrome: a description of the procedure and long-term outcomes in 27 cats.",
-      "journal": "Journal of Feline Medicine and Surgery",
-      "authors": "Shinsako D, McCoy AM, Samuelson JP, Billhymer AC, Phillips H",
-      "date": "2026 08 28",
-      "dateObject": "2026 08 28",
-      "abstract": "ObjectivesThe aims of the study were to describe a technique for feline ala vestibuloplasty and report long-term postoperative outcomes in 27 brachycephalic (BC) cats.MethodsThe study was a retrospective, questionnaire-based study of owned, clinically affected BC cats (n&#x2009;=&#x2009;27). Owners completed a single, two-part questionnaire regarding presence or absence, frequency or severity of clinical signs before and more than 6 months after ala vestibuloplasty. The questionnaire consisted of questions regarding respiratory and gastrointestinal signs, sleep and activity-related behaviors, and ocular, aural and dental health before and after surgery. Response options were scored and individual scores summed to give a total clinical severity score for each cat (range 0-129). Relationships between clinical variables and outcome were evaluated by regression analysis. A total of 13 cats in the cohort were also enrolled in a previous questionnaire-based study reporting real-time preoperative clinical signs. Owner responses regarding preoperative clinical signs gathered at that time and in the present study were compared to assess for recall bias.ResultsOf the 27 cats, 25 (92.5%) sustained long-term clinical improvement for a mean of 1190 days (range 354-1802 days) after ala vestibuloplasty. Median clinical severity score improved from 48 preoperatively to 17 postoperatively ( P <0.0001). Owners reported reduced frequencies of sneezing ( P <0.0001), coughing ( P &#x2009;=&#x2009;0.001), nasal discharge ( P &#x2009;=&#x2009;0.0002), snoring ( P <0.0001), open-mouth breathing ( P &#x2009;=&#x2009;0.001), dyspnea ( P &#x2009;=&#x2009;0.0001), difficulty eating ( P &#x2009;=&#x2009;0.04), messy eating ( P &#x2009;=&#x2009;0.01), dyspnea while eating ( P &#x2009;=&#x2009;0.003), regurgitation ( P &#x2009;=&#x2009;0.03), vomiting ( P &#x2009;=&#x2009;0.03) and dyspnea during activity ( P &#x2009;=&#x2009;0.007). Owners also reported increased frequency ( P &#x2009;=&#x2009;0.0002) and duration ( P &#x2009;=&#x2009;0.0004) of activity. Owners of cats enrolled in both studies recalled their cats' preoperative clinical signs as slightly more severe than originally reported.Conclusions and relevanceAla vestibuloplasty yields long-term clinical improvements in cats' respiratory, gastrointestinal, sleep, activity, aural and ocular signs. Ala vestibuloplasty should be considered for effective treatment of the described clinical signs of feline BC syndrome.",
-      "categories": [
-        "internalMedicine",
-        "surgery"
       ]
     },
     {
@@ -2826,19 +2837,6 @@
       "abstract": "Trauma is an important cause of death in domestic cats, particularly in animals with unrestricted outdoor access. However, necropsy-based studies focusing specifically on immediately fatal trauma in free-roaming cats remain limited. This study aimed to characterize fatal traumatic injuries in free-roaming cats through a retrospective anatomopathological review of feline necropsies performed over a 10-year period at the Veterinary Pathology Laboratory of the Universidade Federal da Para&#xed;ba, Brazil, based on gross findings, histopathology, and complementary imaging when available. Among 289 feline necropsies examined between September 2014 and September 2024, 40 cases (13.84%) were classified as immediately fatal traumatic injuries in free-roaming cats. Blunt force trauma predominated (32/40), followed by sharp-force trauma (7/40) and projectile trauma (1/40). Road traffic accident was the most frequent recorded or presumed traumatic mechanism. Lesions most frequently involved the thorax (31/40), and multiple body regions were affected in 25/40 cases. The most common gross findings were extrapulmonary hemorrhage, pulmonary hemorrhage, atelectasis or pulmonary collapse, fracture, hemothorax, hemoperitoneum, visceral herniation into the thoracic cavity, and diaphragmatic rupture. Compared with sharp-force trauma, blunt force trauma was associated with significantly higher EGTN values and with a greater frequency of extrapulmonary hemorrhage, fracture, pulmonary hemorrhage, and abdominal/visceral involvement. Among vehicle-identified road traffic trauma cases, car-related trauma was associated with higher EGTN values and greater multiregional involvement than motorcycle-related trauma. Concurrent non-traumatic lesions were recorded in five cases, and potentially predisposing conditions, most commonly chronic debilitating or neoplastic diseases, were identified in nine. Immediately fatal trauma in free-roaming cats was dominated by blunt force trauma, most often associated with road traffic accidents, and characterized by extensive thoracic involvement, frequent multiregional distribution, and severe internal damage. Systematic necropsy, supported by histopathology and complementary imaging when available, provided valuable information on lethal lesion patterns, probable traumatic mechanisms, and concurrent non-traumatic conditions. These findings highlight the value of veterinary pathology in the characterization of fatal feline trauma and in the broader contexts of forensic interpretation, animal welfare assessment, and prevention-oriented understanding of trauma in free-roaming cat populations.",
       "categories": [
         "oncology",
-        "surgery"
-      ]
-    },
-    {
-      "pmid": "42489958",
-      "title": "First report of gasless laparoscopy for the treatment of severe ectopic dioctophymosis in a puppy.",
-      "journal": "Veterinary Research Communications",
-      "authors": "Caye P, Pozzobon FM, Bertoletti B, da Silveira AD, Silva LF, da Silva Rappeti JC, de Oliveira Cavalcanti GA, Cavalcanti EANLD, Brun MV",
-      "date": "2026 07 23",
-      "dateObject": "2026 07 23",
-      "abstract": "Dioctophymosis is uncommon in juvenile dogs, both in renal and ectopic presentations. Caused by the nematode Dioctophyme renale, which shows low sensitivity to anthelmintic drugs, surgery is considered the treatment of choice. An alternative approach is gasless laparoscopic surgery, in which pneumoperitoneum is not established and the surgical working space is created by mechanical elevation of the abdominal wall. This technique maintains normobaric intra-abdominal conditions and avoids the cardiorespiratory alterations, ischemia-reperfusion injury, and inflammatory response associated with pneumoperitoneum. This study reports the case of a dog approximately four months of age with severe ectopic parasitic infestation, treated by gasless laparoscopy. The animal originated from a dog shelter during the May 2024 floods in southern Brazil, and was referred for ultrasonographic evaluation, which revealed numerous tubular structures surrounding the right kidney. Neither kidney showed intrarenal involvement. Surgical removal of the parasites was performed via gasless laparoscopy using a multidirectional traction platform (VET90000; Bhio Supply&#xae;, RS, Brazil). The system consisted of a base fixed to the surgical table, to which hemostatic forceps were attached to secure the sutures used for elevation of the abdominal wall musculature. Two laparoscopic ports were used without gas control valves. Nematodes were found encircling the entire right kidney and were grasped and directly removed, totaling nine worms measuring 10 to 41&#xa0;cm in length. The patient showed good postoperative recovery. The VET90000 platform enabled laparoscopy without the need for hyperbaric pneumoperitoneum and facilitated parasite removal due to the absence of valves in the working ports. Gasless laparoscopy proved to be a feasible and curative approach for treating severe ectopic dioctophymosis in a juvenile dog.",
-      "categories": [
-        "internalMedicine",
         "surgery"
       ]
     },
