@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-09-13T23:11:12.471Z",
+  "updated_at": "2026-09-14T23:52:54.187Z",
   "papers": [
+    {
+      "pmid": "42725899",
+      "title": "Citation clarification regarding feline eltrombopag in the \"ACVIM consensus statement on the treatment of immune thrombocytopenia in dogs and cats\".",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Kim J, Kwak D",
+      "date": "2026 09 14",
+      "dateObject": "2026 09 14",
+      "abstract": "",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42723045",
+      "title": "Correction: Clinico-pathological and renal morphological findings in dogs naturally infected with Dirofilaria repens.",
+      "journal": "BMC Veterinary Research",
+      "authors": "Szab&#xf3; K&#xc9;, Aresu L, M&#xfc;ller L, Szil&#xe1;gyi E, Falus FA, Balogh N, Boros M, Papp T, Manczur F",
+      "date": "2026 09 14",
+      "dateObject": "2026 09 14",
+      "abstract": "",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42732994",
+      "title": "Comparative Phenotypic and Molecular Characterisation of Feline Oral Squamous Cell Carcinoma Cell Lines Reveals Marked Biological Heterogeneity.",
+      "journal": "Veterinary and Comparative Oncology",
+      "authors": "Tanveer Q, Pang LY, Farquharson C, Bergkvist GT",
+      "date": "2026 09 13",
+      "dateObject": "2026 09 13",
+      "abstract": "Feline oral squamous cell carcinoma (FOSCC) is the most common oral malignancy, characterised by aggressive local invasion, frequent bone involvement, and poor prognosis. The limited availability of well-characterised in&#xa0;vitro models has hindered the understanding of tumour heterogeneity and invasive behaviour. This study aimed to establish and comparatively characterise a panel of FOSCC cell lines derived from tumours with and without documented bone invasion to identify intrinsic biological differences. Four FOSCC cell lines were evaluated for epithelial identity, growth kinetics, clonogenicity, migratory capacity and chemosensitivity. All cell lines retained epithelial characteristics, with consistent expression of epithelial markers; however, variation in cytokeratin-19 and vimentin suggested phenotypic heterogeneity and partial epithelial-mesenchymal plasticity. The cell lines demonstrated distinct proliferation rates, doubling times, and clonogenic capacities. Morphologically, these cells displayed varying degrees of peripheral filopodial activity. Functional assays further revealed substantial migratory capacity under both serum-supplemented and serum-free conditions, with differences across cell lines. Chemosensitivity profiling showed heterogeneous responses to targeted and cytotoxic agents, highlighting cell line-specific differences in drug susceptibility and potential intrinsic drug responsiveness. These findings demonstrate that FOSCC cell lines possess distinct biological properties consistent with phenotypic differences. The observed heterogeneity underscores the potential relevance of tumour origin in shaping functional behaviour and highlights the value of using multiple, well-characterised cell line models to better represent disease diversity. This study provides a comprehensive comparative characterisation of four FOSCC cell lines, including a newly established model, and establishes a baseline resource for future mechanistic and translational investigations in feline and comparative oncology.",
+      "categories": [
+        "oncology"
+      ]
+    },
     {
       "pmid": "42730333",
       "title": "Behavioral and autonomic manifestations of suspected focal impaired awareness seizures supported by interictal electroencephalographic findings in three dogs: a case series.",
@@ -33,18 +69,6 @@
       "date": "2026 09 12",
       "dateObject": "2026 09 12",
       "abstract": "With the increasing life expectancy of domestic cats, there is a growing imperative to understand and address the unique nutritional needs of senior felines. This review critically examines current knowledge regarding the physiological changes associated with feline ageing, the nutritional requirements of older cats, and the gaps in research and regulatory nutritional standards that persist in this field. Despite the importance of nutrition, there are no official guidelines for senior or geriatric cats. Veterinary recommendations focus on energy, protein, fat (including essential fatty acids), and water, but these are largely extrapolated from adult cat requirements. The literature reveals a focus on canine ageing, with feline-specific studies remaining scarce. Where research exists, it highlights the benefits of enriched diets (e.g., fish oil, vitamins, B vitamins, arginine) and targeted supplementation (e.g., vitamin E, &#xdf;-carotene, linoleic acid, chicory root) in improving cognitive function, longevity, and intestinal health. However, robust, contemporary evidence for nutritional interventions in ageing cats is limited. Energy requirements, which underpin diet formulation, are inconsistent between studies and largely rely on non-peer reviewed data (i.e., conference proceedings) or meta-analyses. Protein is central to feline health, yet optimal levels for seniors are not empirically established, and age-related amino acid requirements are largely unexplored. Fat digestibility may decline with age, but the impact on fat-soluble nutrient status (e.g., vitamins A, D, E, K) is not well understood. Micronutrient deficiencies, particularly in B vitamins (B6, thiamine, B12), are more prevalent in older cats, often due to reduced intake and assimilation. Regulatory frameworks lack senior-specific nutritional standards, and commercial diets marketed for older cats often do not differ substantially from adult formulations. This review calls for evidence-led approaches, advocating for reputable brands that conduct dietary trials and publish peer-reviewed data on their senior formulations.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42725899",
-      "title": "Citation clarification regarding feline eltrombopag in the \"ACVIM consensus statement on the treatment of immune thrombocytopenia in dogs and cats\".",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Kim J, Kwak D",
-      "date": "2026 09 11",
-      "dateObject": "2026 09 11",
-      "abstract": "",
       "categories": [
         "internalMedicine"
       ]
@@ -85,18 +109,6 @@
       "categories": [
         "internalMedicine",
         "oncology"
-      ]
-    },
-    {
-      "pmid": "42723045",
-      "title": "Correction: Clinico-pathological and renal morphological findings in dogs naturally infected with Dirofilaria repens.",
-      "journal": "BMC Veterinary Research",
-      "authors": "Szab&#xf3; K&#xc9;, Aresu L, M&#xfc;ller L, Szil&#xe1;gyi E, Falus FA, Balogh N, Boros M, Papp T, Manczur F",
-      "date": "2026 09 11",
-      "dateObject": "2026 09 11",
-      "abstract": "",
-      "categories": [
-        "internalMedicine"
       ]
     },
     {
@@ -2557,18 +2569,6 @@
         "internalMedicine",
         "oncology",
         "neurology"
-      ]
-    },
-    {
-      "pmid": "41995460",
-      "title": "Critical Questions in Genomic Diagnostics for Veterinary Oncology: What We Need to Know.",
-      "journal": "Veterinary and Comparative Oncology",
-      "authors": "Sakthikumar S, Siravegna G, White ME, Thamm DH, Chon E",
-      "date": "2026 08 10",
-      "dateObject": "2026 08 10",
-      "abstract": "Genomic diagnostics are increasingly integrated into veterinary oncology practice, offering the possibility of refined approaches to tumour classification, risk stratification and therapeutic guidance through high-throughput sequencing technologies. In human medicine, the clinical utility of genomic testing is underpinned by rigorous analytical and clinical validation, robust regulatory oversight and an expanding evidence base linking specific genomic alterations to disease phenotypes and therapeutic responses. In contrast, genomic testing in veterinary oncology remains underdeveloped, with limited standardisation, sparse species-specific validation and frequent reliance on extrapolation from human data. This review delineates the current landscape of genomic testing in veterinary oncology, emphasising methodological considerations in assay design, validation requirements, and clinical interpretation. We highlight the need for analytical rigour, including the use of in silico and orthogonal validation strategies, and advocate for the establishment of performance benchmarks that account for assay sensitivity, specificity and reproducibility in relevant canine populations. In addition, we address the interpretive challenges posed by variants of uncertain significance and the limitations of inferring clinical actionability from human oncology frameworks. A critical, question-driven approach is proposed to guide clinicians in evaluating the validity and applicability of genomic tests, focusing on test validation, intended clinical use and the functional relevance of identified alterations. Advancing genomic diagnostics in veterinary oncology will require coordinated efforts to improve transparency, expand validation cohorts and align clinical expectations with the current evidentiary base. These steps are essential to realising the full potential of precision medicine in veterinary oncology while maintaining scientific and clinical integrity.",
-      "categories": [
-        "oncology"
       ]
     },
     {

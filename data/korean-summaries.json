@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T23:12:52.638Z",
+  "updated_at": "2026-09-14T23:53:33.269Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -5167,6 +5167,14 @@
       "title": "Behavioral and autonomic manifestations of suspected focal impaired awareness seizures supported by interictal electroencephalographic findings in three dogs: a case series.",
       "journal": "Frontiers in Veterinary Science",
       "generated_at": "2026-09-13T23:11:25.918Z",
+      "model": "gpt-5-mini"
+    },
+    "42732994": {
+      "brief_summary": "이 연구는 구강 편평상피세포암(feline oral squamous cell carcinoma, FOSCC)에서 유래한 네 개의 세포주를 확립·비교하여 종양의 내재적 생물학적 차이를 규명하고자 했다. 모든 세포주가 상피성 마커는 유지했으나 CK19와 vimentin 발현의 차이로 표현형 이질성과 부분적 상피-중간엽 가소성(EMT)을 보였고, 증식률·배증시간·클론형성능·이동성·약물감수성에서 뚜렷한 차이를 나타냈다. 이러한 이질성은 종양 기원이 기능적 행동에 영향을 줄 수 있음을 시사하며, 임상·기전 연구를 위해 여러 잘 특성화된 세포주 모델의 사용 필요성을 강조한다.",
+      "detailed_summary": "연구는 골 침윤이 보고된 종양과 보고되지 않은 종양에서 유래한 FOSCC 세포주 4주(그중 하나는 새로 확립된 모델)를 대상으로 비교 특성화를 수행했다. 평가항목으로는 상피 정체성(상피 마커, cytokeratin-19 및 vimentin), 증식 동역학(증식률·배증시간), 클론형성능, 형태학적 특징(말단 filopodial 활동), 이동성(혈청 존재 및 무혈청 조건) 및 표적·세포독성 약제에 대한 약물감수성이 포함되었다. 모든 세포주는 전반적으로 상피 특성을 유지했으나 CK19와 vimentin 발현의 차이로 표현형 이질성과 부분적 상피-중간엽 가소성이 관찰되었다. 세포주 간에 증식률, 배증시간 및 클론형성능이 뚜렷하게 달랐고 형태학적으로도 filopodial 활동 정도에 차이가 있었다. 기능적 검사에서는 혈청 존재 및 무혈청 조건 모두에서 상당한 이동성이 관찰되었으나 세포주별로 수준 차이가 있었고, 표적 및 세포독성 약제에 대한 약물감수성도 세포주마다 이질적으로 나타났다. 저자들은 이러한 생물학적 이질성이 FOSCC 연구에서 여러 잘 특성화된 세포주를 사용하는 중요성을 뒷받침한다고 결론지었으며, 초록에는 임상적 결과와의 직접적 연관성이나 in vivo 검증에 대한 기술이 없어 임상 적용 해석에는 주의가 필요함을 시사한다.",
+      "title": "Comparative Phenotypic and Molecular Characterisation of Feline Oral Squamous Cell Carcinoma Cell Lines Reveals Marked Biological Heterogeneity.",
+      "journal": "Veterinary and Comparative Oncology",
+      "generated_at": "2026-09-14T23:53:33.257Z",
       "model": "gpt-5-mini"
     }
   }
