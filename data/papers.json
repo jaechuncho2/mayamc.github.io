@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-14T23:52:54.187Z",
+  "updated_at": "2026-09-15T23:32:13.628Z",
   "papers": [
+    {
+      "pmid": "42736627",
+      "title": "EXPRESS: Beyond the bowl: behavioural, sensory and environmental strategies to support healthy ageing in cats.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "authors": "Hoummady S, Schoeman T, Bermingham E, Goyon A, Dowgray NJ",
+      "date": "2026 09 15",
+      "dateObject": "2026 09 15",
+      "abstract": "Ageing in cats brings a shift in clinical priorities: While extending lifespan remains a primary concern for many owners, the clinical goal moves toward safeguarding healthspan, ensuring that added years are accompanied by maintained function and quality of life. With increasing numbers of aged cats, veterinarians face a growing incidence of dysrexia situations that markedly worsen prognosis, especially in the presence of comorbidities such as chronic kidney disease. Feeding difficulties in older cats rarely originate from the composition of the diet alone. Instead, they arise from a multifactorial interplay of sensory decline, chronic pain, cognitive decline, mobility impairment, and environmental or social stressors that disrupt the expression of normal feeding behaviour.Cats are carnivores with distinct feeding behaviour characteristics that must be understood in order to provide appropriate nutritional recommendations, extending beyond the simple selection of a diet that meets nutrient requirements. Feeding strategies must take into account food distribution (spatial and temporal organisation of food presentation), the surrounding environment, and the species' natural activity patterns. Ageing further increases the need to adapt the behavioural component of nutritional management. Ageing affects olfaction, gustation, vision, hearing, circadian feeding rhythms, motor abilities, and socio-cognitive function, all of which influence a cat's capacity to locate, access, evaluate, and consume food. Chronic pain may also reduce meal frequency and size. Cognitive dysfunction may impair spatial navigation, disrupt foraging sequences, or alter appetite, while systemic inflammation may exacerbate muscle loss and reduce behavioural engagement.Beyond diet formulation, clinicians must consider the ways ageing cats interact with their environment and caregivers. Integrating ethology, sensory biology, pain assessment, and environmental management with nutritional strategies is critical to quality of life in older feline patients. This review calls for greater recognition of these intertwined mechanisms and urges clinicians to move \"beyond the bowl\" when supporting ageing cats.",
+      "categories": [
+        "internalMedicine",
+        "neurology"
+      ]
+    },
     {
       "pmid": "42725899",
       "title": "Citation clarification regarding feline eltrombopag in the \"ACVIM consensus statement on the treatment of immune thrombocytopenia in dogs and cats\".",
@@ -12,6 +25,41 @@
       "categories": [
         "internalMedicine"
       ]
+    },
+    {
+      "pmid": "42735725",
+      "title": "Modified tibial plateau-leveling osteotomy using a precontoured plate achieves single-stage correction with favorable clinical outcomes in small-breed dogs.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Lee HK, Kwon TW, Kang BJ",
+      "date": "2026 09 14",
+      "dateObject": "2026 09 14",
+      "abstract": "To evaluate outcomes of modified tibial plateau-leveling osteotomy (TPLO) using a precontoured plate in small-breed dogs with concurrent cranial cruciate ligament (CrCL) rupture and medial patellar luxation (MPL) compared with conventional TPLO. Medical records from March 2023 to March 2026 were retrospectively reviewed for dogs treated with TPLO using a 1.5/2.0 locking plate. Stifles were assigned to the modified TPLO group when concurrent MPL was corrected using a precontoured plate or to the conventional TPLO group without MPL correction. Radiographic measurements including bone healing time and clinical outcomes based on the orthopedic assessment score and kinetic variables were evaluated. Seventeen and 15 stifles were included in the conventional and modified TPLO groups, respectively. Tibial plateau angle decreased significantly in both groups. Medial patellar luxation was corrected in all modified TPLO cases; asymptomatic reluxation occurred in 2 dogs, but no complications required surgical intervention. Median bone healing time was 84 days (57 to 233) and 71 days (44 to 194) in conventional and modified TPLO groups, respectively, with no significant intergroup difference. Orthopedic assessment score and kinetic variables improved from baseline with no significant difference between groups. Modified TPLO using a precontoured plate achieved single-stage correction of concurrent CrCL rupture and MPL in small-breed dogs. Despite proximal tibial medial translation, no significant intergroup differences were detected in evaluation of postoperative radiographic, veterinarian-assessed, or objective gait analysis during follow-up. Modified TPLO using a precontoured plate may provide a feasible surgical option for concurrent CrCL rupture and MPL in small-breed dogs.",
+      "categories": [
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42735724",
+      "title": "Evidence of neuronal loss and granule cell axon reorganization in the dentate gyrus of cats with temporal lobe epilepsy-like seizures.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Baert K, Majinski C, Osting S, DiPaola E, Buckmaster P, Cameron S",
+      "date": "2026 09 14",
+      "dateObject": "2026 09 14",
+      "abstract": "To determine whether some cats with epilepsy and temporal lobe epilepsy (TLE)-like seizures have dentate gyrus neuropathologic changes consistent with TLE, including hilar neuron loss and mossy fiber sprouting. Postmortem hippocampal tissue from 5 cats with a history of seizures and 6 control cats was evaluated. Nissl-stained sections were used to estimate hilar neuron populations within the dentate gyrus by optical fractionator stereology. Timm-stained sections were scored by masked investigators to assess mossy fiber sprouting. Hippocampi from epileptic cats were evaluated bilaterally, and findings were compared with control cats. Mean hilar neuron counts were lower in epileptic cats than controls, although this difference was not statistically significant. Two epileptic cats had hippocampal hilar neuron counts more than 2 SDs below the control mean. Mean Timm scores were higher in epileptic cats than controls, and 2 epileptic cats had mossy fiber sprouting scores more than 2 SDs above the control mean. One epileptic cat had both marked left-sided hilar neuron loss and severe mossy fiber sprouting, greatest in the left hippocampus. The study found that 1 epileptic cat with TLE-like seizures had dentate gyrus neuropathologic changes resembling those described in TLE in humans and other animal models. These findings support naturally occurring feline TLE as a potential clinical entity, and antemortem diagnostics should be investigated to identify these cats for advanced treatment options, such as surgical or laser ablation of the affected hippocampus.",
+      "categories": [
+        "surgery",
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "42735705",
+      "title": "The updated 2022 F&#xe9;d&#xe9;ration Cynologique Internationale method may lead to changes in hip dysplasia grading in some dogs.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Gras J, Goyenvalle &#xc9;, Jourdain M, Rousseau T, Mahieu B, Aguado &#xc9;, Gauthier O, Maitre P",
+      "date": "2026 09 14",
+      "dateObject": "2026 09 14",
+      "abstract": "To compare Norberg angle (NA) measurements and hip dysplasia (HD) grades obtained from the same radiographs using the F&#xe9;d&#xe9;ration Cynologique Internationale (FCI) 2022 (FCI22) and FCI 2006 methods (FCI06). This retrospective observational study included radiographs submitted for canine HD screening from March 17, 2023, through September 27, 2024. Radiographs meeting FCI quality standards were evaluated under both methods, with NA measurements and HD grades recorded accordingly. Grade changes were classified as upgraded, downgraded, or unchanged. Radiographs from 1,020 Australian Shepherds and 298 Boxers were reviewed. The mean Norberg angle measured according to the 2022 method (NA22) was 0.7&#xb0; lower than that measured according to the 2006 method (NA06). Overall, 1,801 of 2,636 hips (68.3%) retained the same HD grade with the FCI22. In Australian Shepherds, 350 of 2,040 hips (17.2%) were upgraded, and 257 of 2,040 hips (12.6%) were downgraded. In Boxers, 53 of 596 hips (8.9%) were upgraded, and 175 of 596 hips (29.4%) were downgraded. Reclassification occurred primarily among hips initially graded D in 2006 (D06), with 286 of 347 hips (82.4%) reclassified. Differences between NA22 and NA06 had limited impact on HD grading except for hips with near-threshold NA values. The FCI22 kept most HD grades unchanged. Across both breeds, upgrades occurred primarily among grade D hips. Breed differences in grade changes may reflect interbreed anatomical differences. The FCI22 method is unlikely to substantially alter HD grades in these 2 breeds. Borderline hips and breed-specific grading patterns may affect individual screening outcomes.",
+      "categories": []
     },
     {
       "pmid": "42723045",
@@ -1136,43 +1184,6 @@
       ]
     },
     {
-      "pmid": "42217461",
-      "title": "Superficial corneal epithelial inclusion cysts treated by simple lancing in 4 dogs.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Park J, Jeong D, Seo K, Kang S",
-      "date": "2026 09 01",
-      "dateObject": "2026 09 01",
-      "abstract": "To describe a nonsurgical treatment for superficial corneal epithelial inclusion cysts (CEICs) in dogs and to characterize their clinical and diagnostic features using ultrasound biomicroscopy (UBM) and optical coherence tomography (OCT). 4 client-owned dogs with superficial CEICs. Complete ophthalmic examinations and diagnostic imaging using UBM and/or OCT were performed on smooth, fluctuant, painless masses protruding from vascularized corneas. For superficial CEICs, needle lancing was performed under topical anesthesia. All dogs had been previously managed for keratoconjunctivitis sicca. Ultrasound biomicroscopy or OCT revealed superficial intrastromal cystic lesions surrounded by hyperechoic or hyper-reflective stroma, consistent with CEICs. All cysts were located within vascularized corneal stroma, with sufficient posterior stromal thickness and intact Descemet membrane beneath the cysts. Among 6 initially identified cysts, 1 ruptured spontaneously following trauma and was no longer detectable at reexamination. One cyst was excised by superficial keratectomy, and histopathologic examination confirmed CEIC; this cyst subsequently recurred. The remaining 4 cysts were intentionally treated by needle lancing using a 26-gauge needle under topical anesthesia. Cytologic examination of the drained material revealed predominantly extracellular matrix and epithelial cells without evidence of infection, supporting the diagnosis of CEIC. Topical anti-inflammatory agents and antibiotics were prescribed after lancing. None of the lanced cysts recurred during a follow-up period of 17 to 62 months. Needle lancing may represent a safe, simple, and effective treatment option for superficial vascularized CEICs in dogs. Advanced diagnostic imaging, such as UBM/OCT, may aid in determining cyst depth and guiding treatment selection.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42208589",
-      "title": "Short-term effect of sedation on kidney function markers in cats with chronic kidney disease.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Chew ZH, White JD",
-      "date": "2026 09 01",
-      "dateObject": "2026 09 01",
-      "abstract": "To determine the short-term effect of sedation on GFR markers in cats with chronic kidney disease (CKD). This was a prospective observational study involving client-owned cats with CKD undergoing abdominal sonography. Each cat received 50 mg oral gabapentin, 0.3 mg/kg butorphanol, and 0.3 mg/kg midazolam IM followed by 1 mg/kg alfaxalone IV to effect. Presedation blood tests included hematology and biochemistry. A second blood test for GFR markers (symmetric dimethylarginine [SDMA] and creatinine) was collected at the point of maximum sedation (20 cats) or 2 hours after sedation (12 cats). 20 cats had presedation SDMA and creatinine concentrations of 19 &#xb5;g/dL median (IQR, 15 to 24.5) and 200 &#xb5;mol/L median (IQR, 147.5 to 260), respectively. These were not significantly different from samples from the point of maximal sedation (SDMA: median, 19 &#xb5;g/dL; quantile [Q]-1 to Q3, 15 to 24.5; P = .31; creatinine: median, 200 &#xb5;mol/L; IQR, 147.5 to 255; P = .71). Twelve cats had presedation SDMA and creatinine concentrations of 22 &#xb5;g/dL median (IQR, 19.5 to 24.5) and 210 &#xb5;mol/L median (IQR, 165 to 260), respectively. These were not significantly different from samples obtained 2 hours after sedation (SDMA: median, 25 &#xb5;g/dL; IQR, 20 to 26; P = .51; creatinine: median, 200 &#xb5;mol/L; Q1 to Q3, 175 to 280; P = .06). The only adverse effect was prolonged sedation in some cats. Sedation with gabapentin, butorphanol, midazolam, and alfaxalone was an effective protocol for cats with CKD undergoing noninvasive diagnostic procedures and was not associated with short-term changes in GFR markers. The sedation protocol described is safe and effective in cats with CKD undergoing routine procedures.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42190712",
-      "title": "The pelvic floor of standing, healthy dogs is consistently nearly horizontal, but the orientation of the lumbar spine varies more widely.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Lu M, Picavet PP, Chou PY, Marcellin-Little DJ",
-      "date": "2026 09 01",
-      "dateObject": "2026 09 01",
-      "abstract": "To characterize lumbar, sacral, and pelvic orientation in dogs in a standardized standing position, quantify interindividual variability, and assess relationships between pelvic geometry and acetabular orientation. The study was conducted from April 12, 2024, through November 20, 2025. Full-length lateral radiographs of the pelvic limbs were obtained in 17 standing, healthy, client-owned dogs using a standardized positioning technique. Composite images were generated from stitched radiographs. Spinal, pelvic, and hind limb axes were defined using anatomical landmarks, and their orientation relative to the horizontal plane was measured. Descriptive statistics were used to assess variability. Associations between standing acetabular orientation and pelvic parameters were evaluated using univariate linear regression. Standing acetabular orientation was markedly variable across dogs and did not correlate with other postural parameters. In contrast, the ischiopubic symphysis orientation exhibited the lowest interindividual variability and remained consistently nearly horizontal during standing. Lumbar spinal orientation showed substantially greater variability and did not consistently approximate a horizontal reference. The strongest association with standing acetabular orientation was observed for the acetabular-pubic angle (R2=0.70). Dogs maintain a nearly horizontal pelvic floor when standing but do not consistently maintain a horizontal lumbar spine. Standing acetabular orientation varies widely among dogs and cannot be reliably inferred from other postural parameters. The ischiopubic symphysis may represent a more reliable reference for estimating functional acetabular orientation than the lumbar spine and may improve preoperative planning of acetabular cup positioning in canine total hip replacement.",
-      "categories": [
-        "surgery",
-        "neurology"
-      ]
-    },
-    {
       "pmid": "42677228",
       "title": "Factors affecting veterinary perception of the prevalence of back pain and dysfunction in dogs and horses.",
       "journal": "Frontiers in Veterinary Science",
@@ -2098,19 +2109,6 @@
       "abstract": "ObjectivesThis study aimed to evaluate the intraoperative opioid-sparing effect of quadratus lumborum block (QLB) using low-concentration bupivacaine combined with dexmedetomidine in cats undergoing ovariohysterectomy.MethodsA total of 28 cats scheduled for ovariohysterectomy and classified as American Society of Anaesthesiologists status I were enrolled and randomly allocated to either a bupivacaine (0.125%) and saline (BS) or bupivacaine (0.125%) and dexmedetomidine (1&#x2009;&#xb5;g/kg) (BD) group. The cats underwent ultrasound-guided QLB in sternal recumbency using the allocated solution. If heart rate or mean arterial pressure increased by 20% or more from baseline during surgery, fentanyl (2&#x2009;&#xb5;g/kg IV) was administered as rescue analgesia. Postoperative pain was assessed 1, 2, 3, 6 and 12&#x2009;h after extubation using the Short-Form UNESP-Botucatu Multidimensional Composite Pain Scale. Buprenorphine (0.02&#x2009;mg/kg IM) was administered if the pain score was 4/12 or higher.ResultsThe cumulative intraoperative dose of fentanyl was significantly lower in the BD group (1&#x2009;&#xb5;g/kg [range 0-6]) than in the BS group (2&#x2009;&#xb5;g/kg [range 0-8]; P &#x2009;=&#x2009;0.030). No significant difference was observed between the groups in terms of the proportion of cats requiring intraoperative or postoperative rescue analgesia, postoperative pain scores at any time point, intraoperative physiological parameters or time-related variables.Conclusions and relevanceQLB performed in sternal recumbency using low-concentration bupivacaine with dexmedetomidine was associated with a modest reduction in intraoperative opioid requirements during ovariohysterectomy in cats. However, as this study design could not differentiate between the local and systemic effects of dexmedetomidine, further research is needed to clarify their relative contributions and determine the optimal adjunctive dose. A nerve block with a drug that has sedative and analgesic effects reduces pain relief needs during spay surgery in cats This study looked at whether adding a sedative and analgesic drug called dexmedetomidine to a nerve block could reduce the need for pain relief drugs during spay surgery in cats.",
       "categories": [
         "cardiology",
-        "surgery"
-      ]
-    },
-    {
-      "pmid": "42359891",
-      "title": "Surgical repair of steroidal and non-steroidal anti-inflammatory drug-associated full-thickness gastrointestinal ulcers in 10 cats.",
-      "journal": "Journal of Feline Medicine and Surgery",
-      "authors": "Jimeno Sandoval JC, Ribeiro da Cunha C, Rossanese M, Pilot MA, Menghini T, Villedieu EJA, Quinn RJ",
-      "date": "2026 08 20",
-      "dateObject": "2026 08 20",
-      "abstract": "ObjectivesThis study aimed to describe the clinical presentation, surgical management, complications and outcomes of cats with gastrointestinal (GI) ulcer perforation associated with recent administration of non-steroidal anti-inflammatory drugs (NSAIDs), corticosteroids or both.MethodsA retrospective review of medical records from five UK referral hospitals was conducted between 2009 and 2024. Cats were included if they underwent surgical correction of GI ulceration within 14 days of NSAID and/or corticosteroid administration.ResultsA total of 10 cats met the inclusion criteria. The proximal duodenum was the most common site of perforation (n&#x2009;=&#x2009;6/10), followed by the gastric body (n&#x2009;=&#x2009;2/10). Surgical techniques varied and included primary repair (n&#x2009;=&#x2009;5/10), Y-U pyloroplasty (n&#x2009;=&#x2009;2/10), enterectomy (n&#x2009;=&#x2009;2/10) and partial gastrectomy (n&#x2009;=&#x2009;1/10). All cats survived the immediate postoperative period; however, one cat did not survive to discharge (median hospitalisation time 6 days [range 3-15]). Short-term complications were noted in three cats: one death (sepsis 9 days postoperatively) and three mild complications, with two of these complications occurring in the same cat. Long-term complications were noted in one cat (severe ulcerative duodenopathy and euthanased 16 days postoperatively). Long-term follow-up (median 928 days [range 9-1215]) revealed that 5/10 cats remained alive at study completion. Two deaths (n&#x2009;=&#x2009;2/10) were attributed to GI ulcer-related complications.Conclusions and relevanceGI perforation secondary to recent NSAID or corticosteroid administration in cats carries a favourable prognosis after surgical correction. Despite the high-risk nature of GI perforation, the majority of cats survived to discharge. Surgery to repair severe stomach and intestinal ulcers linked to anti-inflammatory pain medicines in 10 cats Cats are often prescribed anti-inflammatory medications like non-steroidal anti-inflammatory drugs (NSAIDs) or steroids to treat pain and other health problems. In rare cases, these drugs can cause serious stomach or intestinal ulcers that may lead to life-threatening septic peritonitis. This study looked at cats that developed ulcers that caused a hole (perforation) in their stomach or intestines, requiring emergency surgery. We reviewed the medical records of 10 cats treated at UK specialist hospitals between 2009 and 2024. Each cat had received NSAIDs, steroids or both within 2 weeks before surgery. We looked at their clinical signs, treatments, types of surgery performed and how they recovered after surgery. All 10 cats had surgery to repair the ulcer. The most common signs before surgery included not eating, vomiting and low energy. The most common ulcer site was the first part of the small intestine (duodenum). All cats survived the surgery and most went home (usually after 6 days in the hospital). Some had mild complications like vomiting or appetite loss. Two cats died from problems related to ulcers, one shortly after surgery and one 2 weeks later. At the end of the study, five of the 10 cats were still alive and three had died of unrelated causes. Although ulcers caused by NSAIDs or steroids are rare, they can be very serious. If treated quickly with surgery, many cats can recover and live well afterwards. It is important for pet owners to use these medications exactly as prescribed and to monitor for warning signs like vomiting, not eating or low energy if their cat is on anti-inflammatory medication.",
-      "categories": [
-        "internalMedicine",
         "surgery"
       ]
     },
