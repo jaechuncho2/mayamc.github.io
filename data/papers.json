@@ -1,17 +1,51 @@
 {
-  "updated_at": "2026-09-15T23:32:13.628Z",
+  "updated_at": "2026-09-16T23:39:35.049Z",
   "papers": [
+    {
+      "pmid": "42746025",
+      "title": "Radiomics and comparative neuroimaging of canine gliomas and human glioblastomas: a step toward precision medicine.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Faustino R, Henriques J",
+      "date": "2026 09 16",
+      "dateObject": "2026 09 16",
+      "abstract": "Gliomas are primary Central Nervous System glial tumors common in dogs and humans. Human glioblastomas are the most aggressive subtype, with an average survival of 15 months after diagnosis. Brachycephalic dogs are predisposed to gliomas and share biological and clinical features with human glioblastomas. This study explored radiomics applied to T2 weigthed Fluid Attenuated Inversion Recovery (T2-FLAIR) magnetic resonance imaging (MRI) sequences to characterize canine glioma lesions and non-lesioned tissues, aiming to identify imaging biomarkers for diagnosis and prognosis. MRI scans from canine gliomas and human glioblastomas were analyzed. Regions of Interest (ROIs) were segmented for extraction of radiomic features including texture, shape, and intensity. Descriptive and non-parametric statistical analyses, ANOVA, and Receiver Operating Characteristic (ROC) curves were used to evaluate feature discrimination capacity, particularly features with area under the curve (AUC) values above 80%, such as \"jointaverage\" and \"autocorrelation\". Volumetric analysis revealed significant differences between groups ( p < 0.001). Selected radiomic features discriminated tumoral from non-lesioned tissues, with ROC AUC values exceeding 80% ( p < 0.001). The Support Vector Machine (SVM) model achieved 80.33% accuracy in distinguishing gliomas and glioblastomas from non-lesioned brain tissue across canine and human datasets. Radiomic features revealed comparable texture patterns between canine gliomas and human glioblastomas, enabling cross-species discrimination between tumoral and non-lesioned tissue with AUC values above 80% and SVM accuracy of 80.33%. These findings support canine gliomas as a valuable translational model for human glioblastoma research and precision medicine. However, the limited sample size and population diversity require validation in larger cohorts. Consistent imaging biomarkers across canine gliomas and human glioblastomas support advances in comparative and translational medicine. Radiomic features extracted from T2-FLAIR MRI enabled non-invasive discrimination between tumoral and non-lesioned brain tissue across species, reinforcing the relevance of canine gliomas as a natural model for human glioblastoma and the potential of comparative neuroimaging for precision medicine.",
+      "categories": [
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "42745785",
+      "title": "Automated analysis of feline posture using deep learning and geometric modeling.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Bezerra CE, Bittencourt C, Alves R, Ribeiro T, Azor&#xed;n-Ortu&#xf1;o M, Nejar G, Barreras A, Zemirline C, Lewiner T, Le Bourdiec A, Pagny G, Barbosa A, Yang X, Oliveira K, Vieira T",
+      "date": "2026 09 16",
+      "dateObject": "2026 09 16",
+      "abstract": "Body posture provides clinically relevant information in cats, but behavioral interpretation can be challenging because postural signs are often subtle, context-dependent, and subject to inter-observer variability. We developed and evaluated a non-invasive computer vision framework for extracting clinically interpretable feline posture descriptors from side-view RGB images acquired using low-cost cameras, with the aim of supporting behavioral assessment, welfare monitoring, and future clinical decision support. The proposed framework combines object detection, anatomical segmentation, lightweight convolutional neural networks for posture and side-view classification, pose estimation, and rule-based geometric analysis within a structured processing pipeline. From standing side-view frames, the system generates descriptors including overall posture, head pitch, back inclination, back curvature, and tail configuration. In image-based evaluation, the lightweight neural networks achieved 92.6% accuracy for side-view classification and 93.1% accuracy for overall posture classification while using approximately 38 times fewer trainable parameters than VGG19-based baselines. After image quality and viewpoint filtering, descriptor accuracy reached 88% for head pitch, 95% for back inclination, 90% for back curvature, and 95.47% for tail configuration. In end-to-end video experiments, frame retention after filtering depended strongly on recording conditions, particularly side-view visibility and occlusion. Nevertheless, retained frames still enabled high-accuracy estimation of head pitch, back inclination, and tail configuration. These findings demonstrate that automated posture analysis from standard RGB video can generate structured and clinically interpretable feline body-language descriptors relevant to behavioral medicine and animal welfare assessment. Further prospective validation against established pain, stress, and welfare assessment instruments is required before clinical or diagnostic application.",
+      "categories": []
+    },
     {
       "pmid": "42736627",
       "title": "EXPRESS: Beyond the bowl: behavioural, sensory and environmental strategies to support healthy ageing in cats.",
       "journal": "Journal of Feline Medicine and Surgery",
       "authors": "Hoummady S, Schoeman T, Bermingham E, Goyon A, Dowgray NJ",
-      "date": "2026 09 15",
-      "dateObject": "2026 09 15",
+      "date": "2026 09 16",
+      "dateObject": "2026 09 16",
       "abstract": "Ageing in cats brings a shift in clinical priorities: While extending lifespan remains a primary concern for many owners, the clinical goal moves toward safeguarding healthspan, ensuring that added years are accompanied by maintained function and quality of life. With increasing numbers of aged cats, veterinarians face a growing incidence of dysrexia situations that markedly worsen prognosis, especially in the presence of comorbidities such as chronic kidney disease. Feeding difficulties in older cats rarely originate from the composition of the diet alone. Instead, they arise from a multifactorial interplay of sensory decline, chronic pain, cognitive decline, mobility impairment, and environmental or social stressors that disrupt the expression of normal feeding behaviour.Cats are carnivores with distinct feeding behaviour characteristics that must be understood in order to provide appropriate nutritional recommendations, extending beyond the simple selection of a diet that meets nutrient requirements. Feeding strategies must take into account food distribution (spatial and temporal organisation of food presentation), the surrounding environment, and the species' natural activity patterns. Ageing further increases the need to adapt the behavioural component of nutritional management. Ageing affects olfaction, gustation, vision, hearing, circadian feeding rhythms, motor abilities, and socio-cognitive function, all of which influence a cat's capacity to locate, access, evaluate, and consume food. Chronic pain may also reduce meal frequency and size. Cognitive dysfunction may impair spatial navigation, disrupt foraging sequences, or alter appetite, while systemic inflammation may exacerbate muscle loss and reduce behavioural engagement.Beyond diet formulation, clinicians must consider the ways ageing cats interact with their environment and caregivers. Integrating ethology, sensory biology, pain assessment, and environmental management with nutritional strategies is critical to quality of life in older feline patients. This review calls for greater recognition of these intertwined mechanisms and urges clinicians to move \"beyond the bowl\" when supporting ageing cats.",
       "categories": [
         "internalMedicine",
         "neurology"
+      ]
+    },
+    {
+      "pmid": "42743987",
+      "title": "Cardiac pacemakers in dogs: programming parameters.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Oyafuso MK, Triches Dornbusch P, Moreno JCD, Hamamura C, Sousa MG",
+      "date": "2026 09 15",
+      "dateObject": "2026 09 15",
+      "abstract": "To report the behavior of the main parameters used in the evaluation of cardiac pacemakers (PMs) in dogs, associated complications, and survival times. This retrospective cohort study evaluated dogs that received PMs (from 2016 through 2023) at a veterinary teaching hospital. Dogs of various breeds, ages, and sexes with at least 1 baseline assessment were included. The PM parameters pacing threshold amplitude, impedance (or conductance), and estimated battery life were assessed immediately after PM insertion and at reevaluation times (&#x2264; 7, &#x2264; 90, &#x2264; 547, &#x2264; 912, and &#x2265; 912 days). Complications and survival rates were also evaluated. The median survival time of 11 dogs was 30 months. Two complications were recorded: seroma and suture dehiscence. A reduction in impedance over time was further validated by a significant Skillings-Mack test (&#x3c7;2 = 12.692; P = .0054). Pacing threshold amplitude and estimated battery life did not significantly change. PM implantation in dogs is safe and eliminates clinical signs. A reduction in myocardial impedance (or increased conductance) is expected, but impedance assessment should consider individual baselines, observing the behavior rather than just the normal range or isolated values. Baseline pacing threshold amplitude also varies between individuals and tends to decrease over time. No significant reduction in estimated battery life was observed during the study period, probably due to high device longevity. This study provides the first data for PM parameters in dogs. The results suggest that clinical interpretation should focus on longitudinal parameter behavior relative to baseline values rather than solely on the reference range.",
+      "categories": [
+        "cardiology"
       ]
     },
     {
@@ -1169,43 +1203,6 @@
       "abstract": "To determine whether a presurgical aquapuncture intervention can reduce intraoperative bleeding during female dog ovariohysterectomy (OVH) procedures. Female dogs admitted for OVH procedure were enrolled and randomly assigned to group T (receiving vitamin B12 injections at the acupoint point GV-5), group SC (receiving vitamin B12 injections at GV-14, an acupoint without hemostatic indications), or group NC (receiving no B12 injections). Vitamin B12 injections (dose determined by weight) were given 15-30 minutes before the procedure, which was performed by a surgeon who was kept unaware of group assignments. At the conclusion of the surgery, the gauze used during the procedure was weighed immediately by an individual blinded to subject's treatment group to collect the bleeding data. A total of 51 subjects were enrolled-15 in group T, 18 in group SC, and 18 in group NC. The mean (&#xb1; SD) weight-normalized blood loss in group T was 0.13 &#xb1; 0.06 mL/kg, in group SC was 0.28 &#xb1; 0.16 mL/kg, and in group NC was 0.34 &#xb1; 0.22 mL/kg, which suggested that group T had significantly less weight-normalized blood loss than the 2 control groups (P = .003 and P = .003 vs NC and SC groups, respectively). The NC and SC groups were not significantly different (P = .999). The study concluded that aquapuncture with B12 at GV-5 can reduce intraoperative bleeding during the female dog OVH procedure. The proposed aquapuncture intervention has the potential to prevent bleeding complications during surgery. It could also result in faster procedures and reduced swelling, inflammation, and pain at the surgical site as well as smaller incisions.",
       "categories": [
         "surgery"
-      ]
-    },
-    {
-      "pmid": "42248174",
-      "title": "Targeted radiographic projections provide reliable quantification of proximal and distal canine femoral morphology in the absence of computed tomography.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Kahn SE, Marturello DM, West-Sommer AB, Rutherford S, Perry KL",
-      "date": "2026 09 01",
-      "dateObject": "2026 09 01",
-      "abstract": "To evaluate the accuracy of 3 femoral craniocaudal radiographic techniques in assessment of femoral morphology using CT scans as the imaging modality of choice. Candidates were assessed from September 2024 through October 2025, and those with a normal orthopedic examination were enrolled. Extended limb, sitting position, and horizontal beam radiographs and CT scans were evaluated for frontal plane alignment, with the following measurements completed by 2 investigators independently: anatomic lateral distal femoral angle (aLDFA), mechanical lateral distal femoral angle, anatomic lateral proximal femoral angle, and mechanical lateral proximal femoral angle. Angles were statistically compared (P < .05) between groups, and interobserver variability was evaluated. Femoral morphology of 25 dogs (50 femora) with body weights ranging from 14 to 45 kg was assessed. Horizontal beam was most accurate for anatomic lateral proximal femoral angle, mechanical lateral proximal femoral angle, and aLDFA, whereas extended limb was most accurate for mechanical lateral distal femoral angle, with each showing no significant difference from CT. Sitting position was not the most accurate for any measurement. All measurements demonstrated high interobserver agreement (intraclass correlation coefficient > 0.8 for all parameters). Proximal and distal canine femoral morphology can be reliably measured by specific radiographic views in the absence of CT. In the absence of a CT scan, horizontal beam is recommended for accurate assessment of proximal femoral morphology in planning of total hip replacement and also demonstrated superiority when considering aLDFA measurements used for patellar luxation surgery planning.",
-      "categories": [
-        "surgery"
-      ]
-    },
-    {
-      "pmid": "42677228",
-      "title": "Factors affecting veterinary perception of the prevalence of back pain and dysfunction in dogs and horses.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Lane D, Haussler KK",
-      "date": "2026 09 01",
-      "dateObject": "2026 09 01",
-      "abstract": "The prevalence of back pain in humans has been extensively reported, but in dogs it is unknown. In horses, research on the prevalence of back pain exists, but with reports ranging from 1% to 94%, indicating a data deficiency. Veterinarians were surveyed about their perception of the prevalence of back pain and dysfunction in dogs and horses for 6 different clinical scenarios. The respondents' education background and physical examination techniques were recorded. Perceptions of the prevalence of back pain and dysfunction varied widely both within and between education groups. Sports medicine and rehabilitation specialists, and veterinarians certified in either spinal manipulation therapy or acupuncture, were more likely to report the presence of back pain and dysfunction compared to other practitioners. Clinicians that examined individual vertebral motion segments, or palpated for myofascial trigger points, appreciated a greater prevalence of back pain and dysfunction than those who did not. Respondents' perception is that primary axial issues are a common cause of musculoskeletal pain, and can clinically present as unilateral limb lameness. Compared to appendicular lesions, primary axial lesions are more likely to be found in patients presented with a non-specific reduced athletic performance. Respondents report frequently detecting axial lesions in patients presented with no clinical history of pain, and as an additional finding in patients with a known primary limb lameness.The above findings are derived from the subjective opinion of self reporting respondents and do not necessarily represent true prevalence of back pain and dysfunction; further quantitative research using objective methods is required to make that determination. These results do underscore the need for improved veterinary education on how to assess back pain, myofascial tone, and spinal range of motion. Greater agreement between clinicians might also be achieved by developing a standardized reporting method that semi-quantifies the severity of pain and dysfunction individually. Additionally, standardizing and reporting spinal physical examination methodology may also facilitate consistent communication of clinical findings and greater agreement between clinicians.",
-      "categories": [
-        "neurology"
-      ]
-    },
-    {
-      "pmid": "42676415",
-      "title": "Computed tomographic features of pulmonary lesions in periarticular versus systemic histiocytic sarcomas in dogs.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Folie M, Abdellatif A, Gedon J, Wennemuth J",
-      "date": "2026 09 01",
-      "dateObject": "2026 09 01",
-      "abstract": "The aim of this retrospective study was to characterize and compare the computed tomographic (CT) appearance of lung lesions in periarticular histiocytic sarcomas (PAHS) and systemic histiocytic sarcomas (HS), identifying potential radiological differences. The medical records of 45 dogs diagnosed with PAHS or systemic HS, undergoing thoracic CT imaging were reviewed. CT images were evaluated for various parameters. Results revealed that pulmonary lesions associated with systemic HS had larger lesion volumes, were mainly located ventrally 20/26 (77%) and were bronchocentric 23/26 (88%), often with irregular shapes 20/26 (77%) and air bronchograms 26/26 (100%). In contrast, PAHS pulmonary lesions were located predominantly interstitial 12/19 (63%), appearing round to ovoid 15/19 (79%) with less commonly observed air bronchograms 7/19 (37%). In systemic HS, lesion distribution showed no correlation with lung lobe volume (Spearman's &#x3c1; &#x202f;=&#x202f;0.14; p &#x202f;=&#x202f;0.78717), with lesions most frequently observed in the right middle lung lobe 16/26 (62%). Conversely, in patients with PAHS, the distribution of lesions within the lung parenchyma showed a strong correlation with the lung lobe volumes (Spearman's &#x3c1; &#x202f;=&#x202f;0.94; p &#x202f;=&#x202f;0.0048). Intrathoracic lymph node involvement was more frequent in systemic HS 21/26 (81%) than PAHS 12/19 (63%), typically with larger volumes in systemic HS. The nodular lung pattern in PAHS resembles the metastatic distribution seen in other high-grade sarcomas. Significant morphologic and distributional differences indicate distinct patterns of pulmonary involvement in PAHS and systemic HS, which may reflect differences in biological behavior or routes of metastatic spread and raise the possibility of distinct biological subtypes.",
-      "categories": [
-        "internalMedicine",
-        "oncology"
       ]
     },
     {

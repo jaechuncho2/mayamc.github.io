@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T23:34:09.506Z",
+  "updated_at": "2026-09-16T23:40:37.897Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -5207,6 +5207,30 @@
       "title": "EXPRESS: Beyond the bowl: behavioural, sensory and environmental strategies to support healthy ageing in cats.",
       "journal": "Journal of Feline Medicine and Surgery",
       "generated_at": "2026-09-15T23:32:51.071Z",
+      "model": "gpt-5-mini"
+    },
+    "42743987": {
+      "brief_summary": "2016–2023년에 수의대 부속병원에서 시행된 후향적 코호트 연구로, 개에서 심박조율기(PM)의 주요 프로그래밍 파라미터 동향, 합병증 및 생존기간을 보고했다. 보고된 중앙 생존기간(11마리)은 30개월이었고 합병증은 혈청종(seroma)과 봉합열개 2건이었다. 심근 임피던스는 시간 경과에 따라 유의하게 감소했으나(Skillings-Mack χ2 = 12.692; P = .0054), 페이싱 임계 진폭(pacing threshold amplitude)과 추정 배터리 수명은 유의한 변화가 없었다. 임상적으로는 PM 삽입이 안전하며 증상을 제거했고, 파라미터 해석은 단일 기준치보다 개별 기준선 대비 경과 관찰에 초점을 맞춰야 한다.",
+      "detailed_summary": "본 연구는 2016–2023년 사이 수의과대학 부속병원에서 PM을 삽입한 개들을 대상으로 한 후향적 코호트 연구이며, 여러 품종·연령·성별의 최소 1회 기초 평가가 있는 개들을 포함했다. 평가한 주요 항목은 페이싱 임계 진폭, 임피던스(또는 전도도), 추정 배터리 수명으로서 삽입 직후와 재평가 시점(≤7, ≤90, ≤547, ≤912, ≥912일)에 측정되었다. 연구에서 보고된 중앙 생존기간은 11마리에서 30개월이었다. 합병증은 혈청종과 봉합열개 각 1건으로 총 2건이 기록되었다. 통계적으로는 심근 임피던스가 시간에 따라 유의하게 감소(Skillings-Mack χ2 = 12.692; P = .0054)했으나, 페이싱 임계 진폭과 추정 배터리 수명은 유의한 변화가 관찰되지 않았다. 또한 기초 페이싱 임계 진폭은 개체 간 차이가 있고 시간이 지남에 따라 감소하는 경향을 보였으며, 배터리 수명의 유의한 감소가 관찰되지 않은 것은 장치의 긴 수명 때문으로 보인다고 저자들은 기술했다. 결론적으로 PM 삽입은 안전하고 임상 증상을 제거했으며, 임상적 판정은 개별 기준선 대비 장기적 파라미터 변화에 기반해야 한다.",
+      "title": "Cardiac pacemakers in dogs: programming parameters.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-09-16T23:40:37.885Z",
+      "model": "gpt-5-mini"
+    },
+    "42745785": {
+      "brief_summary": "본 연구는 저가형 카메라로 획득한 측면 RGB 영상에서 비침습적 컴퓨터 비전 기법과 심층학습(딥러닝), 기하학적 모델링을 결합해 고양이의 임상적으로 해석 가능한 자세(descriptors)를 자동 추출하는 프레임워크를 개발하고 평가했다. 경량 합성곱신경망은 측면 판별 92.6%, 전체 자세 분류 93.1%의 정확도를 보였고, VGG19 기반 기준 모델보다 약 38배 적은 학습 파라미터를 사용했다. 영상 필터링 후 각 기술적 자세 지표의 정확도는 머리 각도(head pitch) 88%, 등 기울기(back inclination) 95%, 등 곡률(back curvature) 90%, 꼬리 구성(tail configuration) 95.47%로 보고되었으며, 이는 행동 의학과 동물복지 평가에 유용한 구조화된 자세 정보를 제공할 수 있음을 시사한다. 다만 임상·진단 적용을 위해서는 통증·스트레스·복지 평가 도구와의 전향적 검증이 필요하다고 결론지었다.",
+      "detailed_summary": "연구는 측면 영상(frames) 기반으로 동작하는 파이프라인을 제안했으며, 이 파이프라인은 객체 검출, 해부학적 분할, 경량 합성곱신경망을 이용한 자세 및 측면 분류, 포즈 추정, 규칙기반 기하학적 분석을 포함한다. 정지된 측면 프레임에서 전체 자세, 머리 피치(head pitch), 등 기울기(back inclination), 등 곡률(back curvature), 꼬리 구성(tail configuration) 등의 기술자를 생성하도록 설계했다. 이미지 기반 평가에서 측면 분류 정확도 92.6%·전체 자세 분류 93.1%를 달성했으며, 모델은 VGG19 기반 기준보다 약 38배 적은 학습 가능한 파라미터를 사용했다. 이미지 품질 및 시점 필터링 후 개별 기술자 정확도는 머리 피치 88%, 등 기울기 95%, 등 곡률 90%, 꼬리 구성 95.47%로 보고되었다. 종단간 비디오 실험에서는 프레임 유지율이 측면 가시성 및 가려짐 등 녹화 조건에 크게 의존했으나, 유지된 프레임에서는 머리 피치·등 기울기·꼬리 구성의 고정밀 추정이 가능했다. 연구는 표준 RGB 비디오로부터 임상적으로 해석 가능한 고양이 자세 지표를 자동 생성할 수 있음을 보여주었으나, 초록에 명시된 바와 같이 기존의 통증·스트레스·복지 평가 도구와의 전향적 검증이 선행되어야 임상적·진단적 적용이 가능하다고 제한점을 명확히 밝혔다.",
+      "title": "Automated analysis of feline posture using deep learning and geometric modeling.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-09-16T23:40:07.471Z",
+      "model": "gpt-5-mini"
+    },
+    "42746025": {
+      "brief_summary": "이 연구는 T2-FLAIR (T2-weighted Fluid Attenuated Inversion Recovery) MRI에서 radiomics를 적용해 개의 교모세포종(중추신경계 교모세포종, glioma) 병변과 비병변 조직을 특징화하고 사람의 교모세포종(glioblastoma)과 비교한 연구다. 텍스처·형태·강도 기반의 방사선유전체 특징 중 여러 항목(jointaverage, autocorrelation 등)이 종양과 비병변을 ROC AUC >80%로 구분했으며(SVM 분류 정확도 80.33%), 체적 분석에서는 그룹 간 유의한 차이(p < 0.001)를 보였다. 결과는 개의 glioma가 인간 glioblastoma의 전임상 모델로서 유용할 수 있음을 시사하나 표본 수와 인구 다양성 제한으로 추가 검증이 필요하다.",
+      "detailed_summary": "연구는 개의 glioma와 사람의 glioblastoma의 T2-FLAIR MRI 영상을 대상으로 ROI를 분할하여 texture·shape·intensity 등의 radiomic 특징을 추출하고 비교한 횡단적 영상분석 연구다. 연구자는 기술통계, 비모수 통계, ANOVA 및 ROC 곡선을 사용해 특징의 판별력을 평가했고, 특히 jointaverage와 autocorrelation 등 일부 특징이 ROC AUC 80% 이상으로 종양과 비병변을 구분했다. 체적 분석에서도 그룹 간에 통계적으로 유의한 차이(p < 0.001)를 보고하였다. 선택된 방사선유전체 특징은 종양 조직과 비병변 조직을 cross-species(개·인간)에서 구분했으며, Support Vector Machine(SVM) 모델은 전체 데이터셋에서 종양 대 비병변 구분에 80.33%의 정확도를 기록했다. 연구는 개 특히 단두종(brachycephalic) 개가 인간 glioblastoma와 생물학적·임상적 특성을 공유한다는 점에서 비교·전이 연구에 가치가 있음을 지적한다. 다만 초록에서 제시된 바와 같이 표본 수와 모집단 다양성의 제한으로 대규모 코호트에서의 검증이 필요하다고 결론지었다.",
+      "title": "Radiomics and comparative neuroimaging of canine gliomas and human glioblastomas: a step toward precision medicine.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-09-16T23:39:53.839Z",
       "model": "gpt-5-mini"
     }
   }
