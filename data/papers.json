@@ -1,6 +1,91 @@
 {
-  "updated_at": "2026-09-16T23:39:35.049Z",
+  "updated_at": "2026-09-17T23:33:59.432Z",
   "papers": [
+    {
+      "pmid": "42751143",
+      "title": "Mitochondria-associated endoplasmic reticulum membranes in canine and feline diabetic kidney disease: mechanistic links and nutritional implications.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Yang Q, Sun Y, Zuo L, Xu M, Tan S, Wang Z, Han M",
+      "date": "2026 09 17",
+      "dateObject": "2026 09 17",
+      "abstract": "Diabetic kidney disease in dogs and cats is clinically relevant but mechanistically underdefined, and the dietary management of diabetic pets is still dominated by empirical control of glycemia, body weight, and renal nutrient load. Mitochondria-associated endoplasmic reticulum membranes (MAMs) are dynamic contact domains that coordinate calcium transfer, lipid exchange, ER stress, mitochondrial quality control, inflammatory signaling, and cell death. This review first summarizes the veterinary clinical context of canine and feline diabetic kidney disease, including proteinuria, microalbuminuria, hypertension, chronic kidney disease, and species-specific differences in diabetes pathophysiology. It then integrates MAM biology into core renal injury modules involving structural tethering proteins, the IP3R-GRP75-VDAC-MCU/MICU1 calcium axis, lipid metabolic enzymes, PERK/GRP78-mediated ER stress, mPTP opening, mitophagy, and inflammatory amplification. Because direct MAM evidence in diabetic dogs and cats remains limited, the MAM-related pathways discussed here are presented as hypotheses inferred from rodent DKD models, human cell lines, and broader metabolic-disease studies rather than as confirmed mechanisms in companion animals. Finally, we discuss how MAM-centered mechanisms may guide the development of functional prescription diets incorporating EPA/DHA, medium-chain triglycerides, L-carnitine, taurine, magnesium, N-acetylcysteine, antioxidants, resveratrol, and selected plant extracts, provided that efficacy and safety are validated using species-specific renal endpoints. This perspective may support a transition from empirical formulation to mechanism-informed precision nutrition for diabetic dogs and cats.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42750033",
+      "title": "Microbiological investigation of conjunctivitis in cats and dogs from Kars, T&#xfc;rkiye (2024-2025): culture- and MALDI-TOF MS-based identification and antimicrobial susceptibility testing of bacterial isolates.",
+      "journal": "BMC Veterinary Research",
+      "authors": "Tarhane S, B&#xfc;y&#xfc;k F",
+      "date": "2026 09 17",
+      "dateObject": "2026 09 17",
+      "abstract": "Conjunctivitis is a common clinical disorder in cats and dogs, frequently associated with bacterial and fungal infections. Accurate identification of pathogens and evaluation of their antimicrobial resistance profiles are essential for effective treatment. Bacterial and fungal agents were analyzed using cultural and MALDI-TOF MS methods in conjunctival swab samples taken from 59 domestic animals (53 cats and 6 dogs) diagnosed with conjunctivitis and presented to veterinary clinics in &#xc7;ank&#x131;r&#x131;, T&#xfc;rkiye, during the period from 2024 to 2025. Among the 59 conjunctival swab samples collected from cats and dogs with conjunctivitis, 20 (33.9%) were positive for bacterial culture. Of these, 17 positive cultures were detected in 53 cat samples (32.08%), whereas 3 were detected in 6 dog samples (50.0%). No growth was observed in cultures for anaerobic and Mycoplasma agents, and no evidence of fungal agents was found. Multiple bacterial isolates were isolated in six (10.17%) animals [5 cats (9.43%), 1 dog (16.67%)]. Species identification by MALDI-TOF MS revealed a total of 16 different bacterial species with high confidence scores (&#x2265;2.0) across both animal species. The most frequently isolated strains were Staphylococcus epidermidis (n= 7), Corynebacterium mucifaciens (n= 5), Psychrobacter spp. (n= 5), and Streptococcus lutetiensis (n= 4). Rare strains such as Brachybacterium muris (n= 1), Micrococcus luteus (n= 1), and Pseudomonas aeruginosa (n= 1) were also detected. In cats, S. epidermidis, Corynebacterium spp., Psychrobacter spp., and Streptococcus hyovaginalis were the most frequently isolated strains. In dogs, Streptococcus canis, Enterococcus durans, Corynebacterium mucifaciens, Micrococcus luteus, and Staphylococcus hominis ssp. hominis were detected. Antibiotic susceptibility of the isolates was evaluated according to EUCAST and CLSI criteria and interpreted based on the inhibition zone diameter. Of the 37 bacterial isolates recovered, 32 (86.49%) exhibited multidrug-resistant (MDR) profiles. Particularly noteworthy were the extensive MDR patterns observed in Enterococcus durans, Enterococcus faecium, Psychrobacter sanguinis, Streptococcus hyovaginalis, Escherichia coli, and Pseudomonas aeruginosa isolates, which showed resistance to 10-12 antimicrobial agents from multiple classes, including penicillins, tetracyclines, and cephalosporins. Although no fungal agents were recovered, the study demonstrates that the bacterial species isolated from cats and dogs with conjunctivitis are highly diverse and that multidrug-resistant (MDR) isolates are common. The antimicrobial susceptibility results provide valuable information on the resistance profiles of microorganisms associated with conjunctivitis cases in the study population. In addition, the detection of certain microorganisms with zoonotic potential underscores the importance of ongoing surveillance from a veterinary public health perspective.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42752773",
+      "title": "Corn husk meal as a sustainable dietary additive in biofloc-cultured koi carp (Cyprinus carpio var. koi): Integrative effects on growth performance, immune response, histology, gene expression, and ammonia-stress resilience.",
+      "journal": "Veterinary Research Communications",
+      "authors": "Khang LTP, Wisetkaew S, Islam SI, Jitjumnong J, Sangsawad P, Dinh-Hung N, Permpoonpattana P, Van Doan H, Linh NV",
+      "date": "2026 09 17",
+      "dateObject": "2026 09 17",
+      "abstract": "This study evaluated the effects of dietary corn husk meal (CHM) on growth, digestive enzyme activity, intestinal morphology, immune- and antioxidant-related gene expression, and ammonia-stress tolerance in biofloc-cultured koi carp. A total of 300 fish (initial weight, 32.20&#x2009;&#xb1;&#x2009;0.03&#xa0;g) were fed diets containing 0, 5, 10, 20, or 30&#xa0;g/kg CHM for eight weeks. Survival remained high across treatments (>&#x2009;95%), while fish fed CHM-10 showed significantly improved growth and a lower feed conversion ratio than the control (p&#x2009;<&#x2009;0.05). Polynomial regression estimated a modeled optimum CHM inclusion level of approximately 14.4-14.9&#xa0;g/kg, which was not directly tested in the feeding trial. Serum total protein was unaffected, whereas digestive enzyme activities increased at moderate CHM levels, peaked at 10&#xa0;g/kg and declined at higher inclusion levels. Fish fed 10&#xa0;g/kg CHM also exhibited improved intestinal morphometry, whereas higher inclusion levels produced less favorable villus characteristics. CHM supplementation at 10&#xa0;g/kg significantly upregulated tlr4, tnf-&#x3b1;, il-8, tgf-&#x3b2;, il-10, gpx, sod, gst, and lyz, while nf-&#x3ba;B and cat were not significantly affected. During ammonia exposure, the CHM-10 and CHM-20 groups showed significantly higher survival than the control. Overall, CHM-10 was the best-performing experimentally tested inclusion level, improving growth, digestive function, intestinal morphology, selected immune- and antioxidant-related gene expression, and ammonia-stress resilience in koi carp, while the regression analysis suggested a higher modeled optimum of approximately 14.4-14.9&#xa0;g/kg. These findings support the sustainable use of agricultural by-products as dietary ingredients for aquaculture.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42751918",
+      "title": "EXPRESS: Radiographic findings of the femora and tibiae in cats affected by patella fracture and dental anomaly syndrome.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "authors": "Boulton SJ, Hernon T, Dancer S, Dirrig H, Major AC, Bourbos A, Piola V, Salg&#xfc;ero R, Guerin S, Langley-Hobbs SJ",
+      "date": "2026 09 17",
+      "dateObject": "2026 09 17",
+      "abstract": "The objective of the study was to describe radiographic skeletal changes in cats affected by patella fracture and dental anomaly syndrome (PADS), with particular focus on the femora and tibiae including bone density alterations, evidence of stress fractures and femoral morphology. Cats were retrospectively selected from a database of PADS affected cats. Radiographs were independently evaluated by five veterinary radiologists and three orthopaedic surgeons for cortical thickening, medullary opacity changes, the presence of osteopetrosis, degenerative joint disease and additional fractures and subjective assessment of the femoral shape. One hundred and twenty&#x2011;six cats met the inclusion criteria. All had patellar fractures and 22.2% (n=28) had additional fractures, most commonly involving the proximal tibia in 13.5% of cases (n=17), proximal fibula in 11.9% of cases (n=15) and pelvis. Four cats showed an incomplete radiolucent line in the cranioproximal tibia with surrounding sclerosis, consistent with developing stress fractures. Medullary opacity changes in the femora and/or tibiae were present in 8.7% (11/126) of cats, more often patchy than diffuse in appearance. In 4.0% of cases (n=5), a generalised increase in bone opacity compatible with osteopetrosis was identified. Femoral shape was assessed in 74 cats, with 35% (n=26) having a normal morphology, and 9.5% (n=7) and 2.7% (n=2) having a stovepipe or champagne-fluted morphology respectively. Consensus was not reached in 52.7% (n=39) cases. Most PADS&#x2011;affected femora and tibiae appeared radiographically normal, however, a subset of cats demonstrated radiographic features of osteopetrosis, altered femoral morphology and proximal tibial fissure lines suggestive of early stress fractures. These findings suggest that specific structural and morphological changes in the long bones may be present, or predispose, cats to the insufficiency fractures characteristic of PADS and emphasise the importance of clinicians recognising these subtle radiographic features to aid earlier diagnosis and appropriate case management.",
+      "categories": [
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42751890",
+      "title": "EXPRESS: Detection of Mycoplasma species and respiratory pathogens in cats with rhinitis and healthy cats.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "authors": "Deveci J, Kerner K, M&#xfc;ller E, Zablotski Y, Schulz BS",
+      "date": "2026 09 17",
+      "dateObject": "2026 09 17",
+      "abstract": "To investigate the prevalence of Mycoplasma spp. in cats with rhinitis compared to healthy cats and to evaluate factors associated with detection. A total of 46 cats with rhinitis and 37 asymptomatic controls were prospectively enrolled. Nasal swabs were collected, and polymerase chain reaction (PCR) assays for Mycoplasma spp., Mycoplasma felis, feline herpesvirus (FHV), feline calicivirus (FCV), Bordetella bronchiseptica (B. bronchiseptica) and Chlamydia spp. were performed. All Mycoplasma spp.-positive samples underwent sequencing for species identification. PCR analysis revealed a significantly higher prevalence of Mycoplasma spp. in cats with rhinitis compared to healthy controls (28.3% vs 5.4%; p = 0.037). Mycoplasma felis was detected in 21.7% of rhinitis cases but in none of the controls (p = 0.017).FHV was significantly more prevalent in cats with rhinitis (39.1% vs 8.1%; p = 0.027). In addition, detection of FHV was significantly associated with detection of Mycoplasma spp. and M. felis within the rhinitis group. FCV (17.4% vs 5.4%; p = 0.352) and Chlamydia spp. (4.3% vs 0%; p = 0.481) did not differ between groups. B. bronchiseptica was not detected in either group. The findings support an association between Mycoplasma detection, particularly M. felis, and feline rhinitis, suggesting clinical relevance of these organisms in feline upper respiratory tract disease. The observed association between Mycoplasma detection and FHV suggests potential viral-bacterial interactions in the pathogenesis of feline upper respiratory tract disease.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42444066",
+      "title": "Comparing the efficacy of transmucosal and subcutaneous glucagon administration in response to insulin-induced hypoglycemia in healthy cats.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "authors": "Lam JPM, Justus-Heale O, Snead E",
+      "date": "2026 09 17",
+      "dateObject": "2026 09 17",
+      "abstract": "ObjectivesThe aim of the present study was to evaluate the efficacy of two different formulations of glucagon given by three different routes (subcutaneous [SC], rectal [RCT] and intranasal [IN]) for correcting insulin-induced hypoglycemia in cats and to describe any adverse effects and compare the time required for administration by each route.MethodsA randomized, non-blinded, sham-controlled crossover study was conducted in six healthy cats, with a 7-day washout period between treatments. Hypoglycemia was induced using a constant rate infusion (CRI) of rapid-acting insulin lispro. Glucagon nasal powder (single-dose, ready-to-use) was given intranasally and rectally and compared with SC glucagon injection and IN sham control. Blood glucose (BG) concentration was measured from samples collected at baseline (T-15), after induction of hypoglycemia (T0) and at 5-min intervals for 30&#x2009;mins, and then at 15-min intervals for 1&#x2009;h after glucagon administration. Plasma glucagon and potassium (K + ) concentrations were measured at T-15, T0, T15 and T30 after glucagon administration. The time taken to prepare and administer each treatment was recorded.ResultsMedian BG was 2.6&#x2009;mmol/l at T0 and increased significantly after glucagon administration by all routes, reaching peak median concentrations of 11.2&#x2009;mmol/l (IN), 9.7&#x2009;mmol/l (RCT) and 10.15&#x2009;mmol/l (SC). Plasma glucagon concentrations increased markedly by T15, with the highest concentrations observed after IN administration (1562&#x2009;pmol/l), followed by SC (191.7&#x2009;pmol/l) and RCT (158.5&#x2009;pmol/l) routes of administration. Plasma K + decreased after insulin administration and increased modestly by T30 after glucagon administration by all routes. No serious adverse effects occurred after glucagon administration.Conclusions and relevanceTransmucosal glucagon effectively restores BG towards baseline after insulin-induced hypoglycemia with minimal side effects. The IN route resulted in the highest plasma glucagon and BG concentrations compared with the RCT and SC routes of administration. Further studies are needed to quantify the efficacy and safety of transmucosal glucagon in diabetic cats in response to spontaneous insulin-induced hypoglycemia. Comparing two ways of delivering glucagon to rescue cats with low blood sugar The aim of the study was to compare different formulations of glucagon (a hormone drug) administered in three different ways: under the skin, rectally or intranasally. Six healthy cats received an intravenous insulin infusion to gradually and safely induce hypoglycemia. Once the target blood glucose level was reached, glucagon was administered by one of the three routes, or air was administered as a placebo using the nasal device. Blood samples were collected to monitor blood glucose, electrolyte levels and drug concentrations. Side effects and the time required to administer the drug were also recorded. Regardless of whether the drug was administered under the skin, rectally or intranasally, the average blood glucose level increased after administration, rescuing the cats from hypoglycemia within 10&#x2009;mins. Drug absorption was highest with intranasal administration, followed by subcutaneous and rectal administration. One electrolyte level decreased when the cats became hypoglycemic, but administration of the drug did not worsen this change. No major side effects were observed after drug administration. The new methods of delivering glucagon intranasally or rectally successfully rescued cats from hypoglycemia. However, further studies are needed in diabetic cats experiencing hypoglycemia due to insulin overdose.",
+      "categories": [
+        "internalMedicine",
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42749338",
+      "title": "Multiple Modelling Methods Suggest That Grain-Free Diets Are Not Predictive of New Owner-Reported Cardiac Diagnoses Over Two Years in the Dog Aging Project, Despite Owner Misclassification of Diet.",
+      "journal": "Veterinary Medicine and Science",
+      "authors": "O'Brien J, Bishop M, Dog Aging Project Consortium, Tolbert MK, Ruple A",
+      "date": "2026 09 16",
+      "dateObject": "2026 09 16",
+      "abstract": "Grain-free diets have been potentially linked to dilated cardiomyopathy (DCM) in several studies in dogs, although the underlying mechanisms for this potential link, if present, are unclear. Additionally, some studies have found no association between grain-free diets and DCM in dogs. Unfortunately, many of these studies were limited by the validity of owner-reported diet information. Furthermore, the effect of grain-free diets on other cardiac conditions in dogs is even less studied. To assess the validity of owner-reported grain-free diet status information, and to model the potential effect of grain-free diet exposures over the first several years of Dog Aging Project data collection. The validity of owner-reported grain-free status of the diet was evaluated by comparing owner-reported grain-free diet status to the ingredients. Several regression analyses were performed, accounting for likely confounding factors identified with a directed acyclic graph (DAG), to measure the effect of owner-reported grain-free diet status on all cardiac diagnoses. General linear mixed-effects models and general linear regression models were used with similar results. There was a large misclassification error in the diets reported to be grain-free. In spite of this, modelling methods anticipate that any bias introduced into an effect estimate would be very small. Several modelling methods failed to find a statistically significant association between grain-free status of the diet and any cardiac diagnosis. When including incident-only cases in a linear model with confounders, the odds ratio for the effect of grain-free diet status on any new cardiac diagnosis was 1.05 (0.91-1.21, p value 0.52), suggesting no effect. The findings suggested that the potential effect of grain-free feeding on all owner-reported new diagnoses of any cardiac disease within this dataset is likely minimal or absent.",
+      "categories": [
+        "cardiology"
+      ]
+    },
     {
       "pmid": "42746025",
       "title": "Radiomics and comparative neuroimaging of canine gliomas and human glioblastomas: a step toward precision medicine.",
@@ -1038,18 +1123,6 @@
       ]
     },
     {
-      "pmid": "42682494",
-      "title": "\"It's just one piece of the puzzle&#x2026;\": practitioners' perspectives on the use of sterilisation in the management of free-roaming dog populations.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Collinson A, Brennan ML, Dean RS, Stavisky J",
-      "date": "2026 09 02",
-      "dateObject": "2026 09 02",
-      "abstract": "Surgical sterilisation is a common approach to managing free-roaming dog (FRD) populations, used predominantly with the aim of reducing or stabilising the population. However, monitoring and evaluation of the impacts of such programmes is limited and there can be a tendency to equate numbers of dogs sterilised with success. The aim of this study was to examine practitioners perspectives on the role of sterilisation in managing FRD populations, including insights into its perceived benefits and limitations, and the wider facilitators and challenges that shape these efforts. Purposive convenience sampling was used to recruit 15 programme staff from 12 organisations working in dog population management (DPM) globally, although Africa and the Middle East were not represented. Semi-structured interviews were undertaken and explored experiences of managing FRD populations through sterilisation. Reflexive thematic analysis generated four themes: (1) 'Seeing only part of the problem' describes complexities in relation to FRD populations that are frequently overlooked when planning and designing programmes; (2) 'Not a silver bullet' illustrates participant experiences of outcomes not materialising as expected after the introduction of a sterilisation programme; (3) 'Looking beyond the dogs' illustrates an increasing awareness of the importance of human factors in dog population management, rather than interventions that are solely focused on dogs; and (4) 'Sterilisation within a wider strategy' describes key implementation facilitators perceived as important for programme success. Reframing DPM as a 'wicked problem' that does not have a simple solution could help in the development and management of sustainable interventions. This would avoid oversimplification of the problem, and therefore the solution, and instead address these complexities to enable more impactful outcomes.",
-      "categories": [
-        "surgery"
-      ]
-    },
-    {
       "pmid": "42679218",
       "title": "Presentations of idiopathic hemorrhagic diarrhea syndrome in dogs in relation to meteorological factors.",
       "journal": "Journal of Veterinary Internal Medicine",
@@ -1479,19 +1552,6 @@
         "internalMedicine",
         "oncology",
         "surgery"
-      ]
-    },
-    {
-      "pmid": "42482571",
-      "title": "Serial measurement of serum pancreatic lipase immunoreactivity and trypsin-like immunoreactivity concentrations in cats with chronic enteropathy.",
-      "journal": "Journal of Feline Medicine and Surgery",
-      "authors": "Karra DA, Moraiti KT, Lidbury JA, Steiner JM, Newman SJ, Giaretta PR, Cavasin JP, Xenoulis PG",
-      "date": "2026 08 28",
-      "dateObject": "2026 08 28",
-      "abstract": "ObjectivesSerial measurement of serum feline pancreatic lipase immunoreactivity (fPLI) and trypsin-like immunoreactivity (fTLI) concentrations in cats with chronic enteropathy (CE) has not been previously reported. The aim of the current observational study was to serially evaluate serum fPLI and fTLI concentrations in cats with different forms of CE.MethodsA total of 60 cats with CE were included, diagnosed either with immunosuppressive-responsive enteropathy (IRE; n&#x2009;=&#x2009;22), food-responsive enteropathy (FRE; n&#x2009;=&#x2009;7) or low-grade intestinal T-cell lymphoma (LGITL; n&#x2009;=&#x2009;32, one diagnosed previously as FRE progressed to lymphoma). Serum fPLI and fTLI concentrations were measured in 252 and 245 serum samples, respectively, from 60 cats with CE at initial presentation and during re-examination.ResultsSerum fPLI concentrations indicative of pancreatitis were found in 3/60 cats (one with IRE and two with LGITL) at initial presentation and in an additional 8/60 cats (four with IRE and four with LGITL) during treatment (24/252 serum samples). Serum fTLI concentrations indicative of exocrine pancreatic insufficiency were found in 2/60 cats (both with IRE) at initial presentation and during re-examination (n&#x2009;=&#x2009;3/245). None of the cats with FRE had fPLI concentrations above or fTLI concentrations below the respective reference intervals (RIs).Conclusions and relevanceSerum fPLI concentrations may fluctuate during treatment in a subset of cats with IRE or LGITL and, in some cats, are indicative of pancreatitis. Serum fTLI concentrations may vary within and outside the RI in a relatively small proportion of cats with IRE. The long-term clinical importance of these findings requires further study.",
-      "categories": [
-        "internalMedicine",
-        "oncology"
       ]
     },
     {
@@ -2097,19 +2157,6 @@
       ]
     },
     {
-      "pmid": "42487432",
-      "title": "Intraoperative opioid-sparing effect of a quadratus lumborum block using low-concentration bupivacaine and dexmedetomidine in cats undergoing ovariohysterectomy.",
-      "journal": "Journal of Feline Medicine and Surgery",
-      "authors": "Takusagawa F, Takusagawa Y, Kimura T",
-      "date": "2026 08 20",
-      "dateObject": "2026 08 20",
-      "abstract": "ObjectivesThis study aimed to evaluate the intraoperative opioid-sparing effect of quadratus lumborum block (QLB) using low-concentration bupivacaine combined with dexmedetomidine in cats undergoing ovariohysterectomy.MethodsA total of 28 cats scheduled for ovariohysterectomy and classified as American Society of Anaesthesiologists status I were enrolled and randomly allocated to either a bupivacaine (0.125%) and saline (BS) or bupivacaine (0.125%) and dexmedetomidine (1&#x2009;&#xb5;g/kg) (BD) group. The cats underwent ultrasound-guided QLB in sternal recumbency using the allocated solution. If heart rate or mean arterial pressure increased by 20% or more from baseline during surgery, fentanyl (2&#x2009;&#xb5;g/kg IV) was administered as rescue analgesia. Postoperative pain was assessed 1, 2, 3, 6 and 12&#x2009;h after extubation using the Short-Form UNESP-Botucatu Multidimensional Composite Pain Scale. Buprenorphine (0.02&#x2009;mg/kg IM) was administered if the pain score was 4/12 or higher.ResultsThe cumulative intraoperative dose of fentanyl was significantly lower in the BD group (1&#x2009;&#xb5;g/kg [range 0-6]) than in the BS group (2&#x2009;&#xb5;g/kg [range 0-8]; P &#x2009;=&#x2009;0.030). No significant difference was observed between the groups in terms of the proportion of cats requiring intraoperative or postoperative rescue analgesia, postoperative pain scores at any time point, intraoperative physiological parameters or time-related variables.Conclusions and relevanceQLB performed in sternal recumbency using low-concentration bupivacaine with dexmedetomidine was associated with a modest reduction in intraoperative opioid requirements during ovariohysterectomy in cats. However, as this study design could not differentiate between the local and systemic effects of dexmedetomidine, further research is needed to clarify their relative contributions and determine the optimal adjunctive dose. A nerve block with a drug that has sedative and analgesic effects reduces pain relief needs during spay surgery in cats This study looked at whether adding a sedative and analgesic drug called dexmedetomidine to a nerve block could reduce the need for pain relief drugs during spay surgery in cats.",
-      "categories": [
-        "cardiology",
-        "surgery"
-      ]
-    },
-    {
       "pmid": "42616487",
       "title": "Prevalence, Species Composition and Associated Factors of Ectoparasite Infestations in Dogs in Isfahan, Central Iran.",
       "journal": "Veterinary Medicine and Science",
@@ -2154,18 +2201,6 @@
       "date": "2026 08 17",
       "dateObject": "2026 08 17",
       "abstract": "Chagas disease (CD) is caused by Trypanosoma cruzi Chagas (genus Trypanosoma, family Trypanosomatidae, order Kinetoplastida), that is widespread in Latin America. The main hosts are humans and other domestic mammals, including dogs and cats. Studies have identified the domestic dog as a sentinel animal in the epidemiology of the disease in endemic regions to predict the risk of infection in humans. The indirect immunofluorescence (IIF) test, which is very sensitive but has low specificity, has been mainly used. The aim of this study was to evaluate the performance of the IIF test compared to a reference array of chimeric antigens as a gold standard for the diagnosis of chronic canine CD. The study included 330 serum samples from dogs living in a non-endemic Amazonian area in the Brazilian state of Maranh&#xe3;o. These were subjected to anti-T. cruzi antibody detection, using IIF and the latent class analysis (LCA) as reference tests, since there was no gold standard. LCA classified 284 samples as T. cruzi-negative, while 46 samples were predicted to be positive for T. cruzi antibodies. Compared with LCA, IIF showed a sensitivity and specificity of 43.5% and 70.1%, respectively, and an overall accuracy of 66.4%, and a positive and negative likelihood ratio of 1.45 and 0.81, respectively. The analysis also showed an estimated diagnostic odds ratio value of 1.79 and a Cohen's &#x3ba; coefficient of 0.08 between the results of IIF and LCA. The poor performance of IIF, particularly in terms of sensitivity, makes it unsuitable for use in both serologic screening and laboratory diagnosis of CD in dogs.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42359893",
-      "title": "Longitudinal evaluation of discordant symmetric dimethylarginine and creatinine as markers of glomerular filtration rate in radioiodine-treated hyperthyroid cats.",
-      "journal": "Journal of Feline Medicine and Surgery",
-      "authors": "Hardy L, Hibbert A, Tasker S, Finch NC",
-      "date": "2026 08 17",
-      "dateObject": "2026 08 17",
-      "abstract": "ObjectivesThe aim of the present study was to determine the frequency and clinical significance of discordant serum symmetric dimethylarginine (SDMA) and creatinine concentrations relative to glomerular filtration rate (GFR) in mature and senior hyperthyroid cats treated with radioactive iodine (RAI). Secondary aims of the study were to compare the sensitivity and specificity of two SDMA upper reference intervals (RIs; >14 and &#x2a7e;18&#x2009;&#xb5;g/dl) and creatinine (&#x2a7e;175&#x2009;&#xb5;mol/l) for detecting decreased GFR and to evaluate the intra-individual variability of both biomarkers.MethodsA prospective longitudinal study of 27 client-owned hyperthyroid cats receiving low-dose RAI therapy was conducted. At baseline, 1, 6 and 12 months after RAI, cats were evaluated for thyroid status, GFR, SDMA and creatinine concentrations. Discordance was defined as one renal biomarker exceeding its RI with the other within/below the RI, using laboratory and age-specific SDMA RIs. In euthyroid cats, sensitivity, specificity and predictive values of SDMA/creatinine for decreased GFR and intra-individual variability were determined.ResultsDiscordance between SDMA and creatinine was in the range of 10-75% and was highest with the SDMA limit >14&#x2009;&#xb5;g/dl. SDMA-GFR discordance exceeded creatinine-GFR discordance at all time points and was highest at baseline, when all cats were hyperthyroid. In cats w&#xfeff;ith euthyroid status at 12 months, SDMA >14&#x2009;&#xb5;g/dl was more sensitive (83%) but less specific (50%) for decreased GFR than SDMA &#x2265;18&#x2009;&#xb5;g/dl (sensitivity 50%, specificity 71%) and creatinine (sensitivity 50%, specificity 85%). Intra-individual variability was similar for both biomarkers (~15%).Conclusions and relevanceDiscordant SDMA and creatinine concentrations are frequent in older hyperthyroid cats and are influenced by thyroid status and SDMA RIs, complicating interpretation. The SDMA limit &#x2265;18&#x2009;&#xb5;g/dl improves specificity for decreased GFR and is more appropriate for senior cats. SDMA concentrations in the range of 15-18&#x2009;&#xb5;g/dl are less likely to reflect true GFR reduction when creatinine is normal; therefore, non-renal influences such as hyperthyroidism should be considered and ongoing monitoring of renal parameters is recommended. A long-term assessment of two different indirect blood indicators of kidney function in cats undergoing radioiodine treatment for hyperthyroidism, to determine any discrepancies between the two and how these relate to direct measurements of kidney function This study looked at how two common blood tests for kidney function, symmetric dimethylarginine (SDMA) and creatinine, behave in older cats treated with radioiodine for hyperthyroidism. Vets often use these tests to check how well the kidneys are functioning, but the two markers do not always agree. The researchers wanted to understand how often this happens and which test is more reliable when compared with a more direct measurement of kidney function. A total of 27 hyperthyroid cats were followed for 1 year. Before treatment with radioiodine and again at 1, 6 and 12 months afterwards, the cats had their thyroid levels, kidney glomerular filtration rate (GFR), SDMA and creatinine measured. The team looked for cases where one kidney marker (either SDMA or creatinine) was high but the other was normal or low, and they assessed how well each marker detected a true decrease in kidney filtration function by comparing them to GFR. The researchers found that SDMA and creatinine results did not agree in 10&#x2013;75% of cats, especially when using a lower SDMA cut-off (>14&#x2009;&#xb5;g/dl). SDMA did not agree with the direct measure of kidney function, GFR, more frequently than creatinine, particularly when the cats were still hyperthyroid. At 12 months after treatment, in the cats with normal thyroid levels, the higher SDMA cut-off (&#x2a7e;18&#x2009;&#xb5;g/dl) was more accurate and produced fewer false-positive results. Overall, the study shows that discrepancies in SDMA and creatinine results are common in older hyperthyroid cats, and thyroid disease itself can affect SDMA. SDMA values of 15&#x2013;18&#x2009;&#xb5;g/dl may not truly indicate kidney disease if creatinine is normal. For senior cats, using the higher SDMA cut-off improves accuracy. When results do not match, vets should consider non-kidney factors, like thyroid status, and continue monitoring over time.",
       "categories": [
         "internalMedicine"
       ]
@@ -2302,18 +2337,6 @@
       "abstract": "ObjectivesGS-441524 is effective against feline infectious peritonitis (FIP), but potential renal toxicity remains debated. Renal health was assessed in cats with FIP undergoing antiviral treatment.MethodsCats with confirmed FIP (n = 80) receiving oral GS-441524 for 42 days were assessed before (day 1; D1), during (D7, D42), and after treatment (D84, D183). Assessments included urine specific gravity (USG), urine protein:creatinine ratio (UPC), urinary cystatin B (uCysB), urine protein electrophoresis, serum creatinine, urea and symmetric dimethylarginine (SDMA).The term potential renal dysfunction was used for cats fulfilling the following criteria: creatinine >140 &#xb5;mol/l or SDMA &#x2265; 18 &#xb5;g/dl and USG <1.035. Serum amyloid A (SAA) and alpha-1-acid glycoprotein (AGP) were assessed in serum, feline coronavirus (FCoV) RNA in blood and urine (D1-D42).ResultsAt baseline, 97.5% of cats had creatinine concentrations <140 &#xb5;mol/l; by D183, 23.8% exceeded this threshold (D1-D183: PD <0.0001). Potential renal dysfunction criteria were met in 2.5% of cats at baseline and 8.8% at D183. In contrast, uCysB was increased in 83.8% of cats at D1 and declined during treatment (D1-D183: PD <0.0001). Cats with uCysB >100 ng/ml had higher UPC values (PMWU <0.0001). Most cats had elevated AGP and SAA at baseline, which normalised during treatment (D1-D42: PD <0.0001). Proteinuria (UPC >0.2) was present in 91.3% on D1 and 3.8% on D183; urine protein electrophoresis at D1 revealed predominantly tubular and mixed patterns. Urine was more frequently FCoV RNA-positive than blood on D1 (68.8%/61.3%), but not on D7 (16.3%/45.0%).Conclusions and relevanceTreatment reversed FIP-associated renal abnormalities and inflammation observed at baseline. A small subset of cats met criteria compatible with potential renal dysfunction during the study. Whether these findings reflect delayed FIP-related renal insults or adverse antiviral effects remains unknown but indicate that treatment should not be extended unnecessarily.",
       "categories": [
         "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42585227",
-      "title": "Effects of Exercise on Ocular Parameters and Oxidative Stress Biomarkers in Saliva and Tear Fluid of Horses.",
-      "journal": "Veterinary Medicine and Science",
-      "authors": "Turgut F, Yanmaz LE, Orhun OT, Apaydin Yildirim B, Kocaman Y, Senocak MG, Arslan T, Aslan Canatan V",
-      "date": "2026 08 12",
-      "dateObject": "2026 08 12",
-      "abstract": "Physical exercise is a physiological stressor in horses and may induce oxidative stress through increased production of reactive oxygen species. Saliva and tear fluid are accessible non-invasive matrices that may reflect oxidative balance, while ocular parameters including intraocular pressure (IOP), tear secretion (TS) and central corneal thickness (CCT) are key components of ocular homeostasis. To evaluate the effects of a standardised submaximal exercise session on IOP, TS and CCT, and on oxidative stress biomarkers (CAT, SOD, GSH, MDA, IMA) measured in saliva and tear fluid. Thirty-six clinically healthy Arabian horses underwent a 30-min submaximal field exercise (walk-trot-canter). Heart rate, ocular parameters (Schirmer tear test-1, rebound tonometry, ultrasonic pachymetry) and saliva and tear fluid samples were collected immediately before and after exercise. Data normality was assessed using the Shapiro-Wilk test, and paired-samples t-tests or Wilcoxon signed-rank tests were applied as appropriate. Heart rate increased significantly after exercise (p < 0.001). IOP and CCT did not change significantly, whereas TS decreased modestly (p = 0.033). In saliva, CAT and SOD increased and MDA decreased (all p < 0.001), with no changes in GSH or IMA. In tear fluid, CAT, GSH and SOD increased, while IMA and MDA decreased significantly. Submaximal exercise elicited antioxidant-dominant shifts in both saliva and tear fluid, while ocular parameters remained largely stable except for a mild reduction in TS. Tear fluid, alongside saliva, may provide complementary information on exercise-associated physiological and oxidative responses in horses under routine training conditions.",
-      "categories": [
-        "cardiology"
       ]
     },
     {
@@ -2809,20 +2832,6 @@
       ]
     },
     {
-      "pmid": "42496742",
-      "title": "First report of Angiostrongylus vasorum parasitizing lesser grison (Galictis cuja) (Mustelidae) in Brazil.",
-      "journal": "Veterinary Research Communications",
-      "authors": "Lignon JS, Souza MP, B&#xfc;ttenbender N, Rezende PA, Fran&#xe7;a RT, Martins KR, Cunha RC, Pappen FG, Pinto DM",
-      "date": "2026 07 24",
-      "dateObject": "2026 07 24",
-      "abstract": "Angiostrongylus vasorum is a metastrongylid nematode that parasitizes the pulmonary arteries and right heart of canids, being the etiological agent of canine angiostrongylosis, a disease of growing veterinary concern due to its expanding geographic distribution and the involvement of domestic and wild hosts. In Brazil, the parasite has been reported mainly in domestic dogs and some wild canids, and its occurrence in mustelids has been documented only once previously. This study reports the first occurrence of A. vasorum infecting a lesser grison (Galictis cuja) in Brazil. The mustelid was found after being accidentally run over by a vehicle on a highway in the south of the country. Clinical, physical, and complementary examinations were performed for clinical screening. In the parasitological examination of feces, nematode larvae were recovered and identified morphometrically and molecularly through conventional PCR targeting to the COX1 gene, followed by sequencing and phylogenetic analysis. The results confirmed the presence of A. vasorum, showing 99-100% identity with sequences of the same species deposited in GenBank. Therefore, we document here the first report of A. vasorum parasitizing G. cuja. Thus, the number of known host species parasitized by this helminth is expanded. Furthermore, we provide a new molecular sequence, contributing to the knowledge of this nematode in South America.",
-      "categories": [
-        "cardiology",
-        "internalMedicine",
-        "oncology"
-      ]
-    },
-    {
       "pmid": "42477745",
       "title": "Fatal traumatic injury patterns in free-roaming cats: an anatomopathological study of 40 cases.",
       "journal": "BMC Veterinary Research",
@@ -3080,18 +3089,6 @@
       "categories": [
         "internalMedicine",
         "surgery"
-      ]
-    },
-    {
-      "pmid": "42393672",
-      "title": "Molecular prevalence and clinical profiles of canine babesiosis in northern India.",
-      "journal": "BMC Veterinary Research",
-      "authors": "Kumari A, Agnihotri D, Nehra AK, Moudgil AD",
-      "date": "2026 07 03",
-      "dateObject": "2026 07 03",
-      "abstract": "Canine babesiosis is a significant and emerging tick-borne disease caused by Babesia spp. This study investigated the molecular prevalence, hematobiochemical profiles, and risk factors for B. vogeli and B. gibsoni infections in dogs in northern India, addressing the molecular research on babesiosis prevalence in this region. An overall prevalence of canine babesiosis by microscopy and PCR was 12.5% (27/216) and 27.78% (60/216), respectively. The prevalence rates for B. vogeli by microscopy and conventional PCR were 10.64% and 22.22%, respectively, whereas the corresponding rates for B. gibsoni were 1.85% and 5.55%, respectively. Results revealed that B. vogeli was the predominant species. Non-descript dogs were significantly more susceptible to B. vogeli infection (OR: 27.491; 95% CI: 1.092-692.018; P&#x2009;<&#x2009;0.05). Additionally, dogs with enlarged lymph nodes were three times more likely to be B. vogeli-positive (OR&#x2009;=&#x2009;3.338; 95% CI: 1.345-8.287; P&#x2009;<&#x2009;0.05). Dogs under one year had higher odds of B. vogeli infection, but this was not statistically significant (OR&#x2009;=&#x2009;1.765; 95% CI: 0.663-4.703). Similarly, B. gibsoni infection was associated with dogs over four years old (P&#x2009;<&#x2009;0.001) and males (P&#x2009;<&#x2009;0.05). Vital parameters (temperature, pulse rate, and respiration rate) showed no significant association with B. vogeli and B. gibsoni infections. Hematological parameters, viz., hemoglobin (Hb), total erythrocyte count (TEC), packed cell volume (PCV), and platelet count, were significantly decreased in both B. vogeli and B. gibsoni affected dogs (P&#x2009;<&#x2009;0.05). Babesia gibsoni-infected dogs had significantly lower TEC, PCV, and platelet count than B. vogeli-infected dogs. Biochemical parameters, viz., alanine aminotransferase (ALT), total bilirubin (TB), direct bilirubin (DB), indirect bilirubin (IDB), and blood urea nitrogen (BUN), were significantly increased, with decreased albumin levels (P&#x2009;<&#x2009;0.05). Babesia gibsoni-infected dogs had significantly higher BUN, TB, and IDB levels than B. vogeli-infected dogs. Treatment was based on the Babesia species, with imidocarb dipropionate for B. vogeli and a combination therapy (diminazene aceturate, imidocarb dipropionate, and clindamycin) for B. gibsoni, which showed promising efficacy. The study highlighted the importance of accurate diagnosis and species-specific treatment for canine babesiosis, with B. vogeli being more prevalent (22.22%) than B. gibsoni (5.55%), and distinct risk factors and clinical implications for each Babesia species in northern India. These findings contribute to the understanding of Babesia epidemiology in the region and highlight the need for further studies to inform the development of targeted control strategies.",
-      "categories": [
-        "internalMedicine"
       ]
     },
     {

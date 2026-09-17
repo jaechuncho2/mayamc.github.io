@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T23:40:37.897Z",
+  "updated_at": "2026-09-17T23:35:41.022Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -5231,6 +5231,54 @@
       "title": "Radiomics and comparative neuroimaging of canine gliomas and human glioblastomas: a step toward precision medicine.",
       "journal": "Frontiers in Veterinary Science",
       "generated_at": "2026-09-16T23:39:53.839Z",
+      "model": "gpt-5-mini"
+    },
+    "42749338": {
+      "brief_summary": "Dog Aging Project의 초기 수년치 데이터를 이용해 견주가 보고한 곡물 무첨가(그레인프리) 사료 섭취와 모든 심장질환(확장성 심근병증(DCM) 포함)의 신규 진단 발생 간 연관성을 평가했다. 견주 보고된 식이 정보를 사료 성분과 대조해 유효성을 확인한 결과 큰 오분류가 있었으나, 일반선형 혼합효과모형 및 일반선형회귀 등 여러 회귀분석에서 유의한 연관성을 찾지 못했다. 조정모형(발병 사례만 포함)에서 그레인프리 식이의 효과는 오즈비 1.05(0.91–1.21, p=0.52)로 임상적으로나 통계적으로 명확한 영향은 없으며, 이 데이터셋에서는 영향이 미미하거나 없을 가능성이 높다.",
+      "detailed_summary": "연구는 Dog Aging Project의 초기 수년간 데이터를 사용했으며, 견주가 보고한 그레인프리 여부를 사료 성분 정보와 비교해 보고된 식이 정보의 유효성을 평가했다. 인과관계 분석을 위해 유향비순환그래프(DAG)로 교란요인을 확인하고 이를 반영한 여러 회귀모형(일반선형 혼합효과모형 및 일반선형회귀 등)을 적용했다. 검사 결과 견주 보고된 그레인프리 상태에 대해 큰 오분류가 존재했지만, 모형별로 오분류가 효과추정치에 미치는 편향은 매우 작을 것으로 예상되었다. 여러 분석에서 그레인프리 식이와 모든 심장질환의 신규 진단 간에 통계적 유의성이 관찰되지 않았다. 발병 사례만을 포함하고 교란요인을 조정한 선형모형의 결과는 오즈비 1.05(0.91–1.21, p=0.52)로 나타나 영향이 없음을 시사했다. 결론적으로 이 데이터셋에서는 그레인프리 사료가 주인 보고에 근거한 모든 신규 심장질환 진단에 미치는 영향이 거의 없거나 없는 것으로 보이며, 주요 제한점으로는 견주 보고에 따른 식이의 큰 오분류가 있다.",
+      "title": "Multiple Modelling Methods Suggest That Grain-Free Diets Are Not Predictive of New Owner-Reported Cardiac Diagnoses Over Two Years in the Dog Aging Project, Despite Owner Misclassification of Diet.",
+      "journal": "Veterinary Medicine and Science",
+      "generated_at": "2026-09-17T23:35:41.007Z",
+      "model": "gpt-5-mini"
+    },
+    "42750033": {
+      "brief_summary": "본 연구는 2024–2025년 터키의 임상에서 결막염을 보인 반려동물의 결막 도말검체(총 59건: 고양이 53, 개 6)를 대상으로 배양 및 MALDI-TOF MS로 병원체를 동정하고 항균감수성을 평가했다. 배양 양성은 20/59건(33.9%)이며, 총 16종의 세균이 MALDI-TOF MS(점수 ≥2.0)로 동정되었고 Staphylococcus epidermidis(7), Corynebacterium mucifaciens(5), Psychrobacter spp.(5) 등이 빈발했다. 회수된 37개 분리주 중 32개(86.49%)가 다제내성(MDR)을 보였고 일부 분리주(예: Enterococcus, Psychrobacter, Streptococcus, E. coli, P. aeruginosa)는 10–12종의 항생제에 내성을 보여 임상적 치료 및 공중보건 감시의 중요성을 시사한다.",
+      "detailed_summary": "연구 설계는 결막염 진단을 받은 반려동물의 결막 스왑을 채취하여 배양 및 MALDI-TOF MS로 동정하고 EUCAST와 CLSI 기준에 따라 항생제 감수성을 평가하는 관찰적 미생물학 조사이다. 대상은 총 59건(고양이 53, 개 6)이며 연구기간은 2024–2025년이다. 배양에서 20건(33.9%)이 양성으로 확인되었고, 고양이에서 17/53건(32.08%), 개에서는 3/6건(50.0%)이 양성이었다; 혐기성균·Mycoplasma 및 진균은 배양에서 검출되지 않았다. MALDI-TOF MS로 점수 ≥2.0인 16종의 세균이 동정되었고 총 37개 분리주가 확보되었으며 다중분리(복수 균주)는 6/59건(10.17%)에서 관찰되었다. 가장 흔한 균주는 S. epidermidis(7), C. mucifaciens(5), Psychrobacter spp.(5), Streptococcus lutetiensis(4)였고 드물게 Pseudomonas aeruginosa 등도 검출되었다. 회수된 37개 분리주 중 32개(86.49%)가 다제내성(MDR)을 보였고 Enterococcus durans, Enterococcus faecium, Psychrobacter sanguinis, Streptococcus hyovaginalis, Escherichia coli, Pseudomonas aeruginosa 등은 페니실린·테트라사이클린·세파계열 등을 포함해 10–12종의 항균제에 대한 광범위한 내성을 보였다. 결론적으로 해당 집단의 결막염 관련 세균은 다양하며 MDR 분리주가 흔해 임상적 항생제 선택과 수의학적/공중보건적 감시가 필요하나, 초록에서는 연구의 구체적 제한점이 별도로 언급되지 않았다.",
+      "title": "Microbiological investigation of conjunctivitis in cats and dogs from Kars, T&#xfc;rkiye (2024-2025): culture- and MALDI-TOF MS-based identification and antimicrobial susceptibility testing of bacterial isolates.",
+      "journal": "BMC Veterinary Research",
+      "generated_at": "2026-09-17T23:34:38.933Z",
+      "model": "gpt-5-mini"
+    },
+    "42751143": {
+      "brief_summary": "이 논문은 개와 고양이의 당뇨성 신장질환(DKD)을 대상으로 MAMs(mitochondria-associated endoplasmic reticulum membranes) 관련 기전을 검토하여 질환 기전 규명과 영양적 접근의 근거를 모색한 총설이다. 임상적 맥락으로 단백뇨, 미세알부민뇨, 고혈압, 만성신장질환(CKD) 및 종간 당뇨병 병태생리 차이를 정리하고, IP3R–GRP75–VDAC–MCU/MICU1 칼슘 축, 지질대사 효소, PERK/GRP78 관련 ER 스트레스, mPTP 개방, 미토파지, 염증 증폭 등 MAM 연관 경로를 DKD 손상 모듈에 통합해 제시한다. 직접적인 개·고양이 데이터는 제한적이며, MAM 관련 내용은 설치류 DKD 모델·인간 세포주·대사질환 연구에서 추론된 가설로 제시되어 향후 종 특이적 검증이 필요하다고 결론짓는다.",
+      "detailed_summary": "이 논문은 개와 고양이의 당뇨성 신장질환을 임상적 관점에서 정리한 뒤 MAMs의 생물학을 DKD의 핵심 손상 경로와 연결해 설명한 서술적 검토이다. 임상적 고려사항으로 단백뇨, 미세알부민뇨, 고혈압, 만성신장질환(CKD) 및 개·고양이 간 당뇨병 병태생리 차이를 요약했다. MAM 관련 기전으로는 구조적 테더 단백질, IP3R–GRP75–VDAC–MCU/MICU1 칼슘 축, 지질대사 효소, PERK/GRP78 매개 ER 스트레스, mPTP 개방, 미토파지와 염증 증폭 등이 상세히 논의되었다. 저자는 개·고양이에서의 직접적 MAM 증거가 부족함을 명확히 밝히며 관련 경로들을 설치류 DKD 모델, 인간 세포주 및 광범위한 대사질환 연구로부터 추론된 가설로 제시한다. 임상적 함의로는 EPA/DHA, 중쇄중성지방(MCT), L-카르니틴, 타우린, 마그네슘, N-아세틸시스테인, 항산화제, 레스베라트롤 및 일부 식물 추출물 등을 포함한 기전 기반 기능성 처방사료 개발 가능성을 논의하되, 그 효능과 안전성은 종 특이적 신장 지표로 검증해야 한다고 강조한다. 결론적으로 이 관점은 당뇨 반려동물 영양관리를 경험적 접근에서 기전 기반 정밀영양으로 전환할 잠재력을 제시하나, 현재 증거의 부족을 중요한 제한점으로 명시한다.",
+      "title": "Mitochondria-associated endoplasmic reticulum membranes in canine and feline diabetic kidney disease: mechanistic links and nutritional implications.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-09-17T23:34:17.143Z",
+      "model": "gpt-5-mini"
+    },
+    "42751890": {
+      "brief_summary": "전향적 연구에서 비염이 있는 고양이(46마리)와 무증상 대조(37마리)의 비강 도말검체를 대상으로 PCR로 Mycoplasma spp. 및 주요 호흡기 병원체를 검사하여 유병률과 연관성을 평가했다. Mycoplasma spp.는 비염군에서 28.3% 대 대조 5.4%로 유의하게 높았고(p=0.037), 특히 Mycoplasma felis는 비염군에서 21.7%로 대조군에서는 검출되지 않았다(p=0.017). 또한 고양이 허피스바이러스(FHV, 39.1% vs 8.1%; p=0.027) 검출이 Mycoplasma spp. 및 M. felis 검출과 비염군에서 유의하게 연관되어 바이러스-세균 상호작용 가능성을 시사한다. 결과는 M. felis 등 마이코플라즈마의 임상적 관련성을 지지하지만 인과관계를 입증하지는 않는다.",
+      "detailed_summary": "연구는 전향적으로 비염 진단을 받은 고양이 46마리와 무증상 대조 37마리를 등록해 비강 도말검체로 PCR 검사를 시행했다. 검사 대상은 Mycoplasma spp., Mycoplasma felis, 고양이 허피스바이러스(FHV), 고양이 칼리시바이러스(FCV), Bordetella bronchiseptica, Chlamydia spp.였고, Mycoplasma spp. 양성 샘플은 염기서열 분석으로 종 동정을 수행했다. 주요 결과로 Mycoplasma spp. 검출은 비염군 28.3% 대 대조 5.4%로 유의하게 높았으며(p=0.037), M. felis는 비염군에서 21.7%로 대조군에서는 검출되지 않아(p=0.017) 특정 종의 연관성이 관찰되었다. FHV는 비염군에서 39.1%로 대조군 8.1%보다 유의하게 높았고(p=0.027), 비염군 내에서 FHV 검출은 Mycoplasma spp. 및 M. felis 검출과 유의한 연관을 보였다. FCV(17.4% vs 5.4%; p=0.352)와 Chlamydia spp.(4.3% vs 0%; p=0.481)는 그룹 간 유의한 차이를 보이지 않았고, B. bronchiseptica는 어느 군에서도 검출되지 않았다. 결론적으로 본 연구는 M. felis를 포함한 Mycoplasma 검출이 고양이 비염과 연관됨을 시사하며 FHV와의 동시 검출은 바이러스-세균 상호작용 가능성을 제시하지만, 관찰된 연관성은 인과관계를 입증하지 못한다.",
+      "title": "EXPRESS: Detection of Mycoplasma species and respiratory pathogens in cats with rhinitis and healthy cats.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "generated_at": "2026-09-17T23:35:25.592Z",
+      "model": "gpt-5-mini"
+    },
+    "42751918": {
+      "brief_summary": "후향적 연구로 슬개골 골절 및 치아 기형 증후군(PADS) 영향을 받은 고양이의 대퇴골 및 경골 방사선 소견을 기술했다. 총 126마리를 분석했으며 대부분의 장골은 방사선상 정상으로 보였으나 22.2%에서 추가 골절이 있었고 일부에서 골수강 불투명도 변화(8.7%)와 전신적 골밀도 증가로 해석되는 소견(osteopetrosis, 4.0%)을 보였다. 몇몇 고양이에서는 경골 근위부에 피로골절(발생 초기로 보이는 방사선 투과선과 주변 경화)이 관찰되었다. 임상적 의미는 장골의 구조적·형태학적 변화가 PADS 관련 불충분 골절에 관여할 수 있으므로 이러한 미세 방사선 소견을 인지해 조기 진단과 적절한 관리에 도움될 수 있다는 것이다.",
+      "detailed_summary": "본 연구는 데이터베이스에서 PADS(슬개골 골절 및 치아 기형 증후군) 영향을 받은 고양이를 후향적으로 선별하여 방사선 사진을 평가한 증례 기반 연구이다. 총 126마리가 포함되었고 방사선은 5명의 수의 방사선과와 3명의 정형외과 수의사가 독립적으로 평가했으며 피질 비후, 골수강 불투명도 변화, osteopetrosis 소견, 퇴행성 관절질환 및 추가 골절과 대퇴골 형태를 주로 관찰했다. 추가 골절은 전체의 22.2%에서 확인되었고, 가장 흔한 부위는 근위 경골(13.5%)·근위 비골(11.9%) 및 골반이었다. 경골 근위부에 주위 경화가 동반된 불완전 방사선 투과선이 4건에서 관찰되어 발생 초기의 스트레스 골절과 일치했다. 대퇴골 및 경골의 골수강 불투명도 변화는 8.7%(11/126)였고, 4.0%(5/126)에서는 전반적인 골밀도 증가(osteopetrosis와 양립) 소견이 있었다. 대퇴골 형태는 74마리에서 평가되었고 정상형 35%(26마리), stovepipe형 9.5%(7마리), champagne-fluted형 2.7%(2마리)였으며 평가자 합의가 이루어지지 않은 사례가 52.7%(39마리)로 많았다. 결론적으로 대부분의 장골이 방사선상 정상으로 보였지만 일부에서는 osteopetrosis 유사 소견, 대퇴골 형태 변화 및 근위 경골 균열선 등 PADS 관련 불충분 골절과 연관될 수 있는 구조적·형태학적 변화가 관찰되어 임상가가 이러한 미세 소견을 인지하는 것이 조기 진단과 관리에 중요하다고 제시했다.",
+      "title": "EXPRESS: Radiographic findings of the femora and tibiae in cats affected by patella fracture and dental anomaly syndrome.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "generated_at": "2026-09-17T23:35:10.933Z",
+      "model": "gpt-5-mini"
+    },
+    "42752773": {
+      "brief_summary": "본 연구는 바이오플록(biofloc) 환경에서 사육한 코이 잉어(Cyprinus carpio var. koi) 300마리를 대상으로 8주간 사료에 옥수수 속껍질 분말(corn husk meal, CHM)을 0, 5, 10, 20, 30 g/kg 첨가하여 성장, 소화효소, 장 조직, 면역·항산화 유전자 발현 및 암모니아 스트레스 내성을 평가했다. CHM 10 g/kg(CHM-10) 처리군에서 생존율은 전체적으로 >95%를 유지하면서 성장과 사료전환율(FCR)이 유의하게 개선되었고(p<0.05), 소화효소 활성과 장 형태계측도 CHM-10에서 최적을 보였다. CHM-10은 tlr4, tnf-α, il-8, tgf-β, il-10, gpx, sod, gst, lyz 등의 발현을 유의하게 증가시켰고(nf-κB와 cat는 유의한 변화 없음), 암모니아 노출 시 CHM-10·CHM-20군의 생존율이 대조군보다 높아 농업 부산물을 사료원료로 활용하는 지속가능성에 기여할 수 있음을 시사한다.",
+      "detailed_summary": "총 300마리(초기 체중 32.20 ± 0.03 g)의 코이 잉어를 대상으로 8주간 0, 5, 10, 20, 30 g/kg의 CHM을 포함한 사료를 투여하는 완전 임상 시험을 수행했다. 생존율은 모든 처리군에서 >95%로 높게 유지되었고, CHM-10 처리군에서 성장 및 FCR이 대조군보다 유의하게 개선되었다(p<0.05). 소화효소 활성은 중간 수준의 CHM에서 증가하여 10 g/kg에서 최고치를 보였으며, 더 높은 첨가량에서는 감소하는 경향을 보였다. 혈청 총단백은 영향을 받지 않았고 장 조직학적 평가는 CHM-10에서 장형태(융모 등)가 개선되었으나 고농도 첨가에서는 융모 특성이 상대적으로 불리하게 나타났다. 면역·항산화 관련 유전자에서는 tlr4, tnf-α, il-8, tgf-β, il-10, gpx, sod, gst, lyz가 CHM-10에서 유의하게 상향되었고 nf-κB와 cat는 유의한 변화가 없었다. 암모니아 스트레스 시험에서는 CHM-10 및 CHM-20 군의 생존율이 대조군보다 유의하게 높았다. 회귀분석으로는 실험적으로 직접 검증되지 않은 약 14.4–14.9 g/kg의 모델 최적치가 제시되었으며, 이는 본 연구에서 직접 테스트된 농도 범위와 차이가 있어 추가 검증이 필요하다는 제한점이 있다.",
+      "title": "Corn husk meal as a sustainable dietary additive in biofloc-cultured koi carp (Cyprinus carpio var. koi): Integrative effects on growth performance, immune response, histology, gene expression, and ammonia-stress resilience.",
+      "journal": "Veterinary Research Communications",
+      "generated_at": "2026-09-17T23:34:57.418Z",
       "model": "gpt-5-mini"
     }
   }
