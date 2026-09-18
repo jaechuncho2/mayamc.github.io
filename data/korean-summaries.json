@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T23:35:41.022Z",
+  "updated_at": "2026-09-18T23:21:54.512Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -5279,6 +5279,70 @@
       "title": "Corn husk meal as a sustainable dietary additive in biofloc-cultured koi carp (Cyprinus carpio var. koi): Integrative effects on growth performance, immune response, histology, gene expression, and ammonia-stress resilience.",
       "journal": "Veterinary Research Communications",
       "generated_at": "2026-09-17T23:34:57.418Z",
+      "model": "gpt-5-mini"
+    },
+    "42753789": {
+      "brief_summary": "이 연구는 고양이 L4–L5에서 전통적 hemilaminectomy(HL)와 mini-hemilaminectomy(mHL)의 생체역학적 안정성 차이를 비교하기 위해 20개의 고양이 시체 척추를 수집해 무손상 상태와 수술 후 상태를 비교한 cadaveric 연구이다. 최종 분석은 14개 표본(각 군 7개)으로 시행되었고, HL과 mHL 간에 안정성의 유의한 차이는 관찰되지 않았다. 그러나 두 감압술 모두 native(수술 전) 상태에 비해 척추의 운동성이 유의하게 증가(안정성 저하)했으며, HL에서 더 많은 변수에서 변화가 나타나고 더 일관된 운동성 증가 양상을 보였다. 따라서 mHL의 임상적 이점은 이 연구에서 입증되지 않았다.",
+      "detailed_summary": "연구 설계는 cadaveric 생체역학 실험으로, 2021–2022년에 수집한 20개의 고양이 요추(Vertebral columns)를 사용해 무손상 상태를 기준으로 무작위로 HL 또는 mHL을 L4–L5에 시행한 후 비교했다. 최종 분석에서는 2개 표본은 프로토콜 확립에 사용되었고 4개는 제외되어 총 14개(HL 7, mHL 7)가 포함되었다. 평가는 전기동적 시험기(electrodynamic testing machine)를 이용한 비파괴적 순환 굽힘(nondestructive cyclic bending)을 측굴(lateral bending) 및 굴곡/신전(flexion/extension) 방향으로 수행했고, 척추 운동성은 3차원 광전자식 동작 캡처(3-D optoelectronic motion capture)로 정량화했다. 통계적 비교에는 혼합효과모형(mixed-effects models)을 사용했으며, 군 간(unaltered HL vs unaltered mHL 및 HL vs mHL)에는 유의한 안정성 차이가 검출되지 않았다. 군 내 비교에서는(무손상 vs 수술 후) 두 술식 모두에서 여러 안정성 변수에서 유의한 운동성 증가가 관찰되었고, HL에서 영향받는 변수가 더 많고 증가 양상이 더 일관적이었다. 결론적으로 두 감압술 모두 native 상태에 비해 요추 안정성을 감소시켰으나, HL과 mHL 간의 직접적인 통계적 차이는 없었고 mHL의 임상적 이점은 본 연구에서 입증되지 않았다.",
+      "title": "Cadaveric feline study revealed no significant difference in biomechanical stability following L4-L5 hemilaminectomy versus mini-hemilaminectomy.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-09-18T23:21:29.442Z",
+      "model": "gpt-5-mini"
+    },
+    "42753794": {
+      "brief_summary": "2017–2024년 한 수의종양학 전원 센터의 후향적 관찰연구로, 수술적 감축술과 다중 전극 방식의 전기화학요법(ECT)을 포함해 tetrapolar single-needle 전극을 사용한 술후 bleomycin 기반 ECT의 실현 가능성과 예비 임상 결과를 평가했다. 12마리의 비강 내 종양 견에서 전체에서 임상 반응이 관찰되었고, 완전 임상 반응이 75%, 부분 임상 반응이 25%였으며 중앙 무진행기간(PFI)은 492일, 중앙 생존기간은 694일이었다. 치료 관련 이상반응은 흔했으나 대부분 경증~중등도로(창상 열개 50%, 딱지 형성 42%, 감염 25%, 구비공 누공 25%), 사망은 없었고 방사선치료가 불가능한 경우의 치료 옵션으로 추가 연구가 권장된다.",
+      "detailed_summary": "본 연구는 2017–2024년에 동일 센터에서 치료받은 클라이언트 소유의 비강 내 종양 견을 후향적으로 분석한 관찰연구로, 최소 1회 수술적 감축술과 수술 중 bleomycin 기반 전기화학요법(ECT, electrochemotherapy)을 다중 전극 방식으로 시행하고 최소 2개월 추적관찰이 가능한 증례 12마리를 포함했다. 대상의 83%가 국소 진행성 질환(병기 T3–T4)이었고, 종양은 91%가 상피계 기원으로 주로 선암(adenocarcinoma, 42%)이었다. 주요 평가항목은 임상적 반응으로, 모든 개에서 임상적 반응을 보였고 완전 임상 반응이 75%, 부분 임상 반응이 25%였다. 영상(CT)을 통한 국소 진행은 5마리(42%)에서 확인되었고, 지속적 임상 증상 또는 종양 진행으로 67%에서 반복 시술을 시행했다. 중앙 무진행기간은 492일, 중앙 생존기간은 694일이었으며 수술 및 ECT 관련 이상반응은 빈번했으나 대체로 경증~중등도였고 시술 관련 사망은 없었다. 저자들은 다중 전극 방식과 tetrapolar single-needle 전극을 포함한 술식이 실현 가능하고 임상적 이득과 연관돼 있음을 보고하며, 방사선치료가 불가한 경우 고려할 수 있는 치료 옵션으로서 추후 전향적 연구가 필요하다고 결론지었다.",
+      "title": "Surgical debulking and electrochemotherapy, including a tetrapolar single-needle electrode, are associated with clinical benefit in dogs with intranasal tumors.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-09-18T23:21:54.493Z",
+      "model": "gpt-5-mini"
+    },
+    "42755814": {
+      "brief_summary": "무작위 대조시험으로 미국 텍사스 시립 보호소의 과도한 각성 보이는 개 50마리를 대상으로 환경풍부화와 약물 중재(gabapentin 20 mg/kg, trazodone 6 mg/kg)의 효과를 평가했다. 약물과 차분한 풍부화(산책·사람-동물 상호작용)를 병행한 군에서 핥기, 헐떡임, 짖음, 점프 등 여러 행동과 각성 점수가 가장 크게 감소했고(예: 베이스라인 대비 약물 p=0.001, 약물+차분 p<0.001), 능동적 풍부화와 약물 단독도 일부 개선을 보였다. 결과는 보호소에서의 복지 향상 및 입양 가능성 증진을 위한 개입으로 환경풍부화와 약물치료 병행을 고려할 수 있음을 시사한다.",
+      "detailed_summary": "연구는 무작위 배정된 대조시험으로, 텍사스의 한 시립 보호소에서 과도한 각성을 보이는 개 50마리를 대상으로 1주간의 베이스라인(일 1~7)과 1주간의 치료(일 8~14)를 비교 관찰하였다. 대상은 5개 군으로 무작위 배정되었고, 치료는 (1) 베이스라인(5분 산책 2회/일), (2) 차분 풍부화(15분 산책 2회/일 + 15분 사람-동물 상호작용), (3) 능동 풍부화(15분 놀이 2회/일 + 15분 상호작용), (4) 약물(가바펜틴 20 mg/kg, 트라조돈 6 mg/kg + 5분 산책 2회/일), (5) 약물+차분 풍부화(동일 약물 용량 + 15분 산책 2회/일 + 15분 상호작용)로 구성되었다. 주요 평가는 각성 점수(0=no, 4=극심)와 켄넬에서의 이행 용이도 점수(0=무난, 4=극심)였고, 행동은 풍부화 전·중·후에 관찰하여 기록하였다. 주요 결과로는 포스트-풍부화 시 베이스라인 군이 능동 풍부화(p=0.041), 약물(p=0.001), 약물+차분(p<0.001) 군에 비해 더 높은 각성 점수를 보였고, 전체적으로 10일차(p<0.001)와 14일차(p=0.003 vs day1)에 각성 점수가 유의하게 낮아졌다. 약물+차분 군은 모든 처리군에 비해 핥기(p=0.004), 헐떡임(p=0.032), 짖음(p=0.003), 점프(p<0.001)가 더 적었고, 약물 군은 베이스라인에 비해 점프 감소(p<0.001)와 체흔(몸 흔들기) 증가(p=0.003)를 보였다. 추가 관찰로는 포스트-풍부화 시 앞발 들기(p<0.001), 하품(p=0.011), 짖음(p<0.001)이 감소하고 핥기(p<0.001), 환경 스캔(p=0.002), 헐떡임(p=0.002)이 증가했으며, 켄넬 위치와 체류 기간도 일부 행동과 연관성을 보였다(예: 출입구 근처 켄넬에서 앞발 들기 감소 p=0.013; 장기 체류는 경계 행동 증가 p=0.001 등). 결론적으로 이 중재들은 보호소 개의 과도한 각성을 줄일 가능성을 제시하나, 단일 시립 보호소 대상 및 1주간의 치료 관찰이라는 점에서 일반화와 장기 효과에 대한 제한이 있다.",
+      "title": "Combined enrichment and pharmaceutical intervention reduces excessive arousal in shelter dogs in a randomized controlled trial.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-09-18T23:21:12.492Z",
+      "model": "gpt-5-mini"
+    },
+    "42756077": {
+      "brief_summary": "본 연구는 적외선 열화상으로 측정한 안구 온도(ET)가 직장 온도(RT)와 어떻게 연관되는지, 생리적·환경적 요인의 영향을 규명하기 위해 실시된 현장 연구이다. 78마리의 개에서 총 129회 관찰한 결과 ET는 RT와 유의한 양(β=0.77°C; 95% CI 0.512–1.019°C)으로 연관되었고, 상대습도도 소폭 긍정적 영향(β=0.01°C; 95% CI 0.002–0.013°C)을 보였다. 장비 안정성 검정에서는 시간에 따른 측정 드리프트가 없었으며, 결론적으로 ET는 RT와 연관되나 상호 교환 가능하지 않아 비접촉 체온 모니터링으로 추가 연구가 필요함을 시사한다.",
+      "detailed_summary": "연구는 현장 조사로서 방문당 최대 3회(약 10분 간격)까지 적외선 열화상으로 안구 온도(양안 중 최고값)를 측정한 뒤 직장 온도(RT)를 측정하는 방법으로 진행되었다. 분석에는 78마리의 개에서 얻은 총 129개 관찰치가 포함되었고, 선형 혼합효과 모델로 ET를 포착시간(1–3회), RT, 연령, 성별, 체구, 모색 길이, 주위 온도 및 상대습도의 영향을 평가했다. 최종 모델에서 RT는 ET와 유의한 양의 연관을 보였으며(β=0.77°C; 95% CI 0.512–1.019°C), 상대습도도 소폭 유의하게 양의 연관을 보였다(β=0.01°C; 95% CI 0.002–0.013°C). 이전 연구에서 관찰된 카메라 드리프트를 고려해 내부 표적을 단열 상자에 넣고 5분 간격으로 1시간 동안 기록하여 반복측정 혼합모형으로 안정성을 확인한 결과 시간에 따른 유의한 측정 드리프트는 나타나지 않았다. 연구진은 ET가 RT와 연관되지만 교환 가능하지 않다고 결론지었고, ET는 환경적 습도의 영향도 일부 받는 것으로 보고했다. 임상적 의미로는 적외선 안구 온도가 신속한 비접촉 체온 모니터링의 잠재적 도구임을 시사하나, 본 연구 설계와 결과는 교환성 부족과 환경 영향 등을 한계로 추가 연구가 필요함을 강조한다.",
+      "title": "Ocular temperature measured by infrared thermography in dogs varies with biological and environmental factors.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-09-18T23:20:50.613Z",
+      "model": "gpt-5-mini"
+    },
+    "42756254": {
+      "brief_summary": "이 연구는 2025년 3–8월 페이스북을 통해 배포한 Qualtrics 설문에서 주인 보고로 수집한 간질(epilepsy) 개들의 자율신경계(autonomic) 징후 유병률과 경과를 파악하려는 연구다. 총 1,154응답 중 704마리가 통계분석에 포함되었고 자율신경 징후는 99.0%(697/704)로 거의 모든 환견에서 관찰되었으며 위장계 96.9%(682/704), 비뇨생식계 91.1%(641/704)가 흔했다. 항경련제(antiseizure drugs) 사용은 몇몇 자율신경 징후의 유병률 증가와 유의하게 연관되었고, 진행(3.6%)이 호전(2.9%)보다 더 자주 관찰되어 삶의 질(QoL)에 미치는 영향을 고려해 자율신경 증상 모니터링이 필요하다고 결론지었다.",
+      "detailed_summary": "설계는 소유주 대상의 온라인 설문조사로, 2025년 3월–8월 페이스북에 배포된 Qualtrics 설문에서 응답을 수집하였다. 전체 응답은 1,154건이었고 이 중 704마리가 통계분석에 포함되었다. 주요 평가항목은 소유주가 보고한 자율신경계 징후의 유병률과 증상의 경과였다. 전체 자율신경 징후 유병률은 697/704(99.0%)였고, 체계별로는 위장계 96.9%(682/704), 비뇨생식계 91.1%(641/704)가 가장 흔했다. 개별 증상으로는 타액과다(ptyalism) 87.6%(617/704), 소변 배출(urination) 79.1%(556/703), 다갈증(polydipsia) 78.4%(551/703), 산동(mydriasis) 71.8%(505/703), 식욕 변화 73.9%(520/704)가 흔했으나 식욕 변화는 발작 관련 자율신경 기능 장애로 확실히 귀속시키기 어려웠다. 드문 증상으로는 지속발기(priapism) 14.6%(66/452), 무호흡(apnoea) 16.7%(117/701), 동공부동(anosocoria) 18.8%(132/702), 청색증 20.5%(144/702), 복통 21.3%(150/703)가 보고되었다. 항경련제 사용은 여러 자율신경 징후의 유병률 증가와 유의하게 연관되었고, 평균 진행률(악화)은 3.6%로 평균 호전률(2.9%)보다 유의하게 높았다(p < 0.001). 체계별 경과에서는 위장계와 비뇨생식계에서 호전이 상대적으로 많았고(위장계 11.2%, 비뇨생식계 8.8%), 위장계(15.9%)와 심호흡기계(15.8%)에서 진행이 가장 흔했다. 초록에서는 자율신경 징후가 거의 보편적이며 전반적 유병률이 이전 보고보다 높고 증상 변화를 모니터링할 필요가 있음을 결론으로 제시하고 있으나, 초록에 명시된 추가적 제한점은 제시되어 있지 않다.",
+      "title": "Owner reported prevalence of autonomic signs in epileptic dogs.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-09-18T23:20:39.225Z",
+      "model": "gpt-5-mini"
+    },
+    "42756892": {
+      "brief_summary": "본 연구는 뇌척수액(CSF)에서 아포지단백질 E(ApoE) 농도를 측정해 급성 및 만성 중추신경계(CNS) 병변에서의 차이를 평가했다. 총 141마리의 CNS 질환견과 10마리의 건강 대조견(총 151예)을 대상으로 ELISA로 CSF ApoE를, CSF 및 혈청에서 C-반응단백질(CRP)을 측정했다. ApoE는 151예 중 66예에서 검출되었고 그중 20예는 정량 가능했으며, 검출은 모두 질환견에서만 관찰되었다. 결과는 ApoE가 특히 초급성(peracute)·급성 단계에서 관여할 가능성을 시사하고, CSF 내 ApoE와 CRP가 양의 상관을 보여 신경염증 조절과 관련될 수 있음을 제시한다.",
+      "detailed_summary": "연구 대상은 특발성 간질(40예), 추간판 탈출증(IVDH, 40예), 원인 미상 수막뇌염(MUO, 30예), 퇴행성 척수병증(31예)과 건강 대조 10예를 포함한 총 151예였다. CSF ApoE 농도는 ELISA로 측정했고, CSF 및 짝지은 혈청의 CRP는 면역측정법으로 평가했다. 연구진은 급성 질환에서 CSF ApoE 증가와 만성 질환에서 낮거나 검출되지 않는 양상을 가설로 세웠고, ApoE와 CRP는 음의 상관을 보일 것으로 예측했다. 실제 결과는 ApoE가 총 151건 중 66건에서 검출되었고 그중 20건은 정량 가능했으며, ApoE 검출은 모두 질환견에서만 나타났다. 페라큇(초급성) IVDH나 높은 발작 빈도와 ApoE 검출이 유의하게 연관되었고, MUO의 다발 병변군에서는 정량 가능 경향만 관찰되었다. 가설과 달리 CSF 내 ApoE와 CRP는 유의한 양의 상관을 보여 ApoE가 신경염증의 조절에 잠재적 역할을 할 수 있음을 시사했다. 결론적으로 ApoE는 특히 초급성·급성 병기에서의 역할을 시사하며, 낮은 CSF ApoE는 영향을 받은 신경조직의 재생과 관련될 수 있다.",
+      "title": "Increased detectability of Apolipoprotein E (ApoE) in cerebrospinal fluid samples of dogs with peracute and acute central nervous system lesions.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-09-18T23:20:18.516Z",
+      "model": "gpt-5-mini"
+    },
+    "42757221": {
+      "brief_summary": "3.5세, 5.2kg 잡종견 1마리에서 난산(dystocia)으로 중성화 수술 후 6개월째 지속적 배뇨곤란(stranguria)으로 내원하였고, 영상검사(방사선, 초음파, CT)와 질내시경 검사로 골반 내 관상형 저음영 종괴가 확인되어 질내 수액저류(hydrocolpos)로 진단되었다. 초기에는 폴립성 경주를 의심하고 최소침습적 폴립 절제와 요도 확장술로 2개월간 정상 배뇨가 관찰되었으나 9주차에 배변곤란(tenesmus)으로 재발하였다. 이후 회음부 절개(episiotomy), 수음증 배출 및 수포(=hydrocolpos) 점막과 질 점막 사이에 장루(stoma)를 형성하는 수술로 임상 증상이 영구적으로 해결되었다. 저자들은 병력상 외상성 기원이 가능하다고 보고하며 2차적 외상 유발 질 폐쇄로 인한 hydrocolpos의 첫 증례로 제시한다.",
+      "detailed_summary": "증례보고로서 연구 대상은 3.5세, 5.2kg의 잡종견 1마리였다. 방사선 검사에서는 방광을 전방으로 밀고 하행결장을 협착시키는 골반 내 연조직 밀도 종괴가 보였고, 복부 초음파(ultrasonography, US)는 비결정적이었다. 전산화단층촬영(CT)은 요도와 하행결장을 압박하는 관상형 저음영 구조물을 보여 hydrocolpos로 해석되었고, 감별로는 폐쇄처녀막(imperforate hymen), 분절성 질 무형성(segmental vaginal aplasia) 또는 질전정(vestibulovaginal) 이상이 고려되었다. 질내시경(vaginoscopy)에서 질 폐쇄와 외요도구(ostium urethrae externum)를 가린 줄기형 폴립이 관찰되었고, 역행 방광조영술(retrograde cystography)은 폐쇄된 부위 뒤의 요도가 현저히 확장된 것을 보였다. 초기 치료로 폴립의 최소침습 절제 및 요도 확장술을 시행하여 정상 배뇨가 2개월간 유지되었으나, 9주차에 다시 증상이 나타나 회음부 절개, hydrocolpos 배출 및 점막간 장루 형성술을 시행하여 임상 증상이 영구적으로 소실되었다. 저자들은 병력상 외상성 기원을 의심하며 본 증례를 2차적 외상성 질 폐쇄에 따른 hydrocolpos의 첫 보고로 주장하였으나, 단일 증례이므로 일반화는 불가능하다.",
+      "title": "Hydrocolpos in a mixed-breed dog: a case report.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-09-18T23:19:56.562Z",
+      "model": "gpt-5-mini"
+    },
+    "42757232": {
+      "brief_summary": "임상적으로 정상인 성견을 대상으로 압력측정판을 이용한 정적 자세계측(static posturography)을 시행하여 전체 몸체, 앞팔다리(forelimb), 뒷팔다리(hindlimb) 기반의 압력중심(center of pressure, COP) 측정치 간의 연관성과 지지기반(base of support, BOS) 정규화가 일치도에 미치는 영향을 평가했다. 측정법 간에는 전반적으로 양의 상관관계가 있으나, 상관 강도와 유의성은 파라미터별로 달랐고 측면(mediolateral) 변위가 앞뒤(craniocaudal) 변위보다 더 강한 연관을 보였다. BOS 정규화는 몇몇 COP 값의 크기를 변화시켰지만 일관되게 일치도를 개선하지는 못해, 전체-팔다리 기반 측정은 서로 교환해서 쓸 수 없음을 시사한다.",
+      "detailed_summary": "연구는 임상적으로 건강한 성견을 대상으로 압력측정판을 이용한 정적 자세계측을 시행하고 전체 몸체, 앞팔다리, 뒷팔다리 기반의 COP를 계산했다. 분석된 지표는 전후(craniocaudal) 변위, 측면(mediolateral) 변위, 지지 면적(support surface), 스태토키네시오그램 길이(statokinesiogram length), 평균 속도(average speed) 등이다. 측정법 간 연관성은 스피어맨 순위상관계수(Spearman's rho)로 평가했고, 실제 일치도는 블랜드-앨트먼(Bland–Altman) 분석으로 검토했다. 전반적으로 양의 상관이 관찰되었고, 측면 변위는 측정법 간 연관이 더 강했으며 스태토키네시오그램 길이·평균 속도·지지 면적은 대부분 비교에서 중등도~강한 상관을 보였다. 그러나 블랜드-앨트먼 분석에서는 체계적 차이와 크기 의존적 패턴이 드러나 상관이 유의하더라도 실제 교환 가능성은 제한적이었다. BOS로 정규화하면 몇몇 COP 값의 크기가 달라지지만 일관되게 측정법 간 일치도를 향상시키지는 못해, 연구자와 임상가는 안정성 평가 시 어떤 측정 접근을 사용했는지 고려해야 한다.",
+      "title": "Axis-dependent relationships and agreement between whole-body and limb-specific center of pressure measurements in dogs.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-09-18T23:19:33.860Z",
       "model": "gpt-5-mini"
     }
   }

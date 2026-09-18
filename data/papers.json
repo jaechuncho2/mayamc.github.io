@@ -1,6 +1,103 @@
 {
-  "updated_at": "2026-09-17T23:33:59.432Z",
+  "updated_at": "2026-09-18T23:19:13.186Z",
   "papers": [
+    {
+      "pmid": "42757232",
+      "title": "Axis-dependent relationships and agreement between whole-body and limb-specific center of pressure measurements in dogs.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Lutonsky C, Affenzeller N, Wegscheider J, Aghapour M, Peham C, Bockstahler B",
+      "date": "2026 09 18",
+      "dateObject": "2026 09 18",
+      "abstract": "Static posturography is widely used to assess postural stability in dogs. Considerable methodological variation exists regarding whether center of pressure (COP) parameters are derived from whole-body, forelimb-, or hindlimb-based measurements and whether values are expressed as absolute or base of support (BOS)-normalised parameters. The aims were to examine the associations between whole-body, forelimb-, and hindlimb-based COP measurements in standing dogs and to evaluate the effect of BOS normalisation on agreement between these measurement approaches. Static posturography was performed in clinically healthy adult dogs using a pressure measurement plate. Craniocaudal displacement, mediolateral displacement, support surface, statokinesiogram length, and average speed were analysed using whole-body, forelimb-, and hindlimb-based COP calculations and BOS-normalised parameters. Associations between measurement approaches were assessed using Spearman's rank correlation coefficients, while agreement was evaluated using Bland-Altman analyses. Positive correlations were observed between measurement approaches, although their strength and significance varied among COP parameters. Mediolateral displacement demonstrated stronger associations between measurement approaches than craniocaudal displacement, while statokinesiogram length, average speed, and support surface showed moderate to strong correlations across most comparisons. However, Bland-Altman analyses revealed systematic differences and, for several parameters, magnitude-dependent patterns, indicating limited agreement despite significant correlations. BOS normalisation altered the magnitude of several COP parameters but did not consistently improve agreement or eliminate systematic differences between measurement approaches. These findings demonstrate that whole-body, forelimb-, and hindlimb-based COP measurements quantify related but not interchangeable aspects of postural stability. Consequently, measurement approach should be considered when interpreting stabilographic outcomes and comparing results across studies.",
+      "categories": []
+    },
+    {
+      "pmid": "42757221",
+      "title": "Hydrocolpos in a mixed-breed dog: a case report.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Leber C, Rohwedder T, Rehbein-Manchi S",
+      "date": "2026 09 18",
+      "dateObject": "2026 09 18",
+      "abstract": "A 3.5-year-old, 5.2-kg mixed-breed dog was presented with persistent stranguria after being neutered due to dystocia 6 months ago. Plain abdominal radiographs revealed an intrapelvic soft-tissue attenuating mass that displaced the urinary bladder cranially and constricted the descending colon. Abdominal ultrasonography yielded inconclusive results. Computed tomography revealed the mass as a tubular, hypodense structure compressing the urethra and the descending colon. This finding was defined as hydrocolpos induced by an imperforate hymen, segmental vaginal aplasia, or a vestibulovaginal disorder. Vaginoscopy revealed vaginal atresia and a stem-shaped mass obscuring the ostium urethrae externum. Retrograde cystography showed a significantly dilated urethra behind the obscured ostium urethrae externum. A pedunculated mass (polyp) was suspected to hinder the urinary outflow. A minimal invasive resection of the polyp and widening of the urethra were performed. Normal micturition was observed for 2 months. In the 9th week, the patient returned with tenesmus. An invasive procedure involving episiotomy, evacuation of the hydrocolpos, and creation of a stoma between the mucous membrane of the hydrocolpos and the vaginal mucosa led to permanent resolution of the clinical signs. Only a few case reports exist regarding congenital hydrocolpos. As the history indicates, a traumatic origin is considered likely; therefore, we assume that this is the first case report of secondary, trauma-induced vaginal atresia, and the resulting hydrocolpos.",
+      "categories": [
+        "internalMedicine",
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42756892",
+      "title": "Increased detectability of Apolipoprotein E (ApoE) in cerebrospinal fluid samples of dogs with peracute and acute central nervous system lesions.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Prielipp M, Packeiser EM, Bathen-N&#xf6;then A, Mischke R, Tipold A",
+      "date": "2026 09 18",
+      "dateObject": "2026 09 18",
+      "abstract": "Apolipoprotein E (ApoE), secreted by astrocytes and microglia after neuronal injury, is involved in neuronal regeneration and modulation of inflammatory processes. Inverse associations between ApoE and the proinflammatory mediator C-reactive protein (CRP) are described in mice, but knowledge in dogs is limited. This study investigated ApoE levels in cerebrospinal fluid (CSF) from 141 dogs with central nervous system (CNS) diseases, including idiopathic epilepsy ( n = 40), intervertebral disc herniation (IVDH, n = 40), meningoencephalitis of unknown origin (MUO, n = 30), degenerative myelopathy ( n = 31), and 10 healthy controls. ApoE concentrations were measured by ELISA. CRP levels in CSF and paired serum samples were determined by immunoassay. Correlations between ApoE, clinical parameters and CRP were evaluated. We hypothesized elevated CSF ApoE in acute CNS diseases and low or undetectable levels in chronic conditions and a negative correlation between ApoE and CRP. ApoE was detected in 66/151 cases, of which 20 showed quantifiable levels, exclusively in diseased dogs. While dogs with peracute IVDH or high seizure frequency were significantly associated with detected ApoE, MUO cases with multiple lesions only had a trend for measurable ApoE levels. Contrary to our hypothesis, a significant positive correlation between ApoE and CRP in CSF was found, suggesting a potential modulatory role of ApoE in neuroinflammation. In conclusion, ApoE may play a role particularly during peracute and acute disease stages, while low CSF ApoE may reflect regenerative processes in affected neuronal tissue.",
+      "categories": [
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "42756254",
+      "title": "Owner reported prevalence of autonomic signs in epileptic dogs.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Skinner C, Czopowicz M, Gutierrez-Quintana R, Stalin C",
+      "date": "2026 09 18",
+      "dateObject": "2026 09 18",
+      "abstract": "Epilepsy is a common neurological disorder in dogs. Autonomic manifestations are commonly recognised but poorly reported in veterinary literature. This study aimed to determine owner reported prevalence and course of autonomic signs in epileptic dogs. A survey for owners of dogs with epilepsy created with Qualtrics was circulated on Facebook between March 2025 and August 2025. There were 1,154 responses, with 704 included in statistical analysis. The overall frequency of autonomic signs was 697/704 dogs (99.0%). When analysed by body system, gastrointestinal signs [96.9% (682/704)], and urogenital signs [91.1% (641/704)] were most common. Individually, commonly reported signs included ptyalism [87.6% (617/704)], urination [79.1% (556/703)], polydipsia [78.4% (551/703)], mydriasis [71.8% (505/703)], and owner-reported appetite changes [73.9% (520/704)]; the latter could not be confidently attributed to seizure-associated autonomic dysfunction. The least prevalent were priapism [14.6% (66/452)], apnoea [16.7% (117/701)], anisocoria [18.8% (132/702)], cyanosis [20.5% (144/702)], and abdominal pain [21.3% (150/703)]. Antiseizure drugs, defined as any medications used for epileptic seizure control for both acute and maintenance management, were significantly associated with increased prevalence of several autonomic signs. Additionally, mean course of progression (deterioration) rate (3.6%) was significantly higher than mean course of regression (improvement) rate (2.9%; p &#x202f;<&#x202f;0.001). When analysed by body system, overall regression was most common for gastrointestinal [11.2% (79/704)] and urogenital [8.8% (62/704)] autonomic signs, and overall progression was most common for gastrointestinal [15.9% (112/704)] and cardiorespiratory [15.8% (111/704)] autonomic signs. This study demonstrated that autonomic signs are ubiquitous in epileptic dogs, progression of autonomic signs is uncommon, and progression occurs more often than regression. The prevalence of autonomic signs in epileptic dogs appears to be significantly higher than previously reported. Additionally, changes in the course of autonomic signs indicate the need to monitor autonomic activity in individuals managed for epilepsy, due to the potential impact on quality of life (QoL).",
+      "categories": [
+        "internalMedicine",
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "42756077",
+      "title": "Ocular temperature measured by infrared thermography in dogs varies with biological and environmental factors.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Rostami S, Woodruff KA, McBride A, Shi J, Smith DR",
+      "date": "2026 09 18",
+      "dateObject": "2026 09 18",
+      "abstract": "Non-contact temperature assessment is highly valuable for screening animal populations, but its performance can be influenced by various external and biological variables. This study aimed to quantify the association between eye temperature (ET) and rectal temperature (RT) in dogs, and to identify physiological and environmental factors associated with these readings. Field study: ET was obtained with a thermal camera up to 3 times per visit (~10-min intervals), followed by RT measurement. Eye temperature was defined as the highest temperature recorded from either eye. A linear mixed-effects model evaluated ET in relation to capture time (1-3), RT, age, sex, body size, coat length, ambient temperature, and relative humidity. Device temporal stability assessment: To account for potential camera drift observed in our previous research, temperature at a fixed target inside an insulated box was recorded every 5&#x202f;min for 1&#x202f;h and analyzed with repeated-measures mixed model regression. Results. We analyzed 129 observations from 78 dogs. In the final ET model, both RT ( &#x3b2; &#x202f;=&#x202f;0.77&#x202f;&#xb0;C; 95% C.I. 0.512-1.019&#x202f;&#xb0;C) and humidity ( &#x3b2; &#x202f;=&#x202f;0.01&#x202f;&#xb0;C; 95% C.I. 0.002-0.013&#x202f;&#xb0;C) were positively and significantly associated with ET. The device stability assessment demonstrated no significant time-related measurement drift. Overall, ET was associated with RT but was not interchangeable and ET was slightly affected by environmental humidity. These results support further investigation of using ET as a rapid, noncontact temperature monitoring procedure.",
+      "categories": [
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42755814",
+      "title": "Combined enrichment and pharmaceutical intervention reduces excessive arousal in shelter dogs in a randomized controlled trial.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Cisneros A, O'Hanley K, Moody CM, Stellato AC",
+      "date": "2026 09 18",
+      "dateObject": "2026 09 18",
+      "abstract": "Environmental stressors in animal shelters may lead to development of excessive arousal, posing risks to adoptability and behavioral euthanasia. Recommendations regarding excessive arousal in shelter dogs include providing pharmaceuticals and enrichment. A randomized controlled trial was conducted to assess the influence of enrichment and pharmaceutical interventions on shelter dogs ( N &#x202f;=&#x202f;50) displaying excessive arousal from a municipal animal shelter in Texas, United States. Data were collected during 1&#x202f;week of baseline conditions (days 1-7) and 1&#x202f;week of treatment (days 8-14). Dogs were randomly assigned to a treatment group: (1) baseline (5-min walk, 2x/day), (2) calm enrichment (15-min walks 2x/day,15-min human-animal interaction), (3) active enrichment (15-min play 2x/day, 15-min human-animal interaction), (4) pharmaceutical (20&#x202f;mg/kg gabapentin, 6&#x202f;mg/kg trazodone, 5-min walk 2x/day), and (5) pharmaceutical and calm enrichment (20&#x202f;mg/kg gabapentin, 6&#x202f;mg/kg trazodone, 15-min walk 2x/day, 15-min human-animal interaction). Arousal scores (0&#x202f;=&#x202f;no arousal, 4&#x202f;=&#x202f;extreme arousal) and ease of transition out of kennel scores (0&#x202f;=&#x202f;no difficulty, 4&#x202f;=&#x202f;extreme difficulty) were assigned. Behaviors were assessed before, during, and after enrichment provision. All assessments occurred on days 1, 3, 7, 10, and 14. During post-enrichment, the baseline group had higher arousal scores compared to active enrichment ( p &#x202f;=&#x202f;0.041), pharmaceutical ( p &#x202f;=&#x202f;0.001), and pharmaceutical and calm enrichment ( p &#x202f;<&#x202f;0.001) groups. Arousal scores were lower day 10 ( p &#x202f;<&#x202f;0.001) and day 14 ( p &#x202f;=&#x202f;0.003; vs. day 1). The pharmaceutical and calm enrichment group exhibited had less lip licking ( p &#x202f;=&#x202f;0.004), panting ( p &#x202f;=&#x202f;0.032), vocalizations ( p &#x202f;=&#x202f;0.003), and jumping ( p &#x202f;<&#x202f;0.001) compared to all treatments. The pharmaceutical group (vs. baseline) had less jumping ( p &#x202f;<&#x202f;0.001) and more body shaking ( p &#x202f;=&#x202f;0.003). Post-enrichment (vs. pre-enrichment) observations had less paw lifting ( p &#x202f;<&#x202f;0.001), yawning ( p &#x202f;=&#x202f;0.011), vocalizations ( p &#x202f;<&#x202f;0.001), and more lip licking ( p &#x202f;<&#x202f;0.001), environmental scanning ( p &#x202f;=&#x202f;0.002) and panting ( p &#x202f;=&#x202f;0.002). Dogs in kennels near exits had less paw lifting ( p &#x202f;=&#x202f;0.013) compared to dogs housed in between high arousal dogs. Longer stays were associated with more alert behavior ( p &#x202f;=&#x202f;0.001) and less environmental scanning ( p &#x202f;=&#x202f;0.04), lip licking ( p &#x202f;=&#x202f;0.013), and vocalizing ( p &#x202f;=&#x202f;0.029). Results suggest enrichment and pharmaceutical interventions may reduce excessive arousal in shelter dogs and can be used to inform shelter intervention protocols aimed at promoting welfare and adoptability.",
+      "categories": []
+    },
+    {
+      "pmid": "42753789",
+      "title": "Cadaveric feline study revealed no significant difference in biomechanical stability following L4-L5 hemilaminectomy versus mini-hemilaminectomy.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Ebeling R, Thorw&#xe4;chter C, Zablotski Y, Meyer-Lindenberg A, Volz F, Kornmayer M",
+      "date": "2026 09 17",
+      "dateObject": "2026 09 17",
+      "abstract": "To compare the biomechanical effects of hemilaminectomy (HL) and mini-hemilaminectomy (mHL) on the stability of the feline lumbar spine at L4-L5. 20 cadaveric feline vertebral columns were collected from June 26, 2021, through September 15, 2022; the biomechanical testing was conducted from November 23, 2023, through March 6, 2024. Lumbar spines were screened radiographically and by CT, tested in the native state, and then randomly assigned to HL or mHL at L4-L5. Nondestructive cyclic bending in lateral bending and flexion/extension was performed with an electrodynamic testing machine. Vertebral motion was quantified with 3-D optoelectronic motion capture. Mixed-effects models compared native and postoperative states and surgical groups. 20 vertebral columns were eligible; 2 were used to establish the testing protocol, 4 were excluded, and 14 completed testing and were analyzed (7/group; HL and mHL). No significant differences in stability were detected between unaltered HL and unaltered mHL groups or between groups after HL versus mHL. Intragroup comparisons (unaltered HL vs HL; unaltered mHL vs mHL) showed significantly greater motion for multiple stability variables after both procedures, with more variables affected after HL than mHL. Both decompressive procedures decreased biomechanical stability of the feline lumbar spine relative to the native condition. Although direct differences were not detected, HL produced a more consistent pattern of increased motion than mHL. Although HL showed a more consistent pattern of increased motion, no significant differences between techniques were detected; therefore, any clinical advantage of mHL remains unproven.",
+      "categories": [
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42753794",
+      "title": "Surgical debulking and electrochemotherapy, including a tetrapolar single-needle electrode, are associated with clinical benefit in dogs with intranasal tumors.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Rangel MMM, Holanda AGA, Linhares LCM, Suzuki DOH, Bispo GA, de Nardi AB",
+      "date": "2026 09 17",
+      "dateObject": "2026 09 17",
+      "abstract": "To evaluate the feasibility and preliminary clinical outcomes of surgical debulking combined with electrochemotherapy (ECT) using a multielectrode approach, including a tetrapolar single-needle electrode, in dogs with intranasal tumors. This retrospective observational study included client-owned dogs with intranasal tumors treated from 2017 through 2024 at a veterinary oncology referral center. Dogs were included if they underwent at least 1 surgical procedure combined with intraoperative bleomycin-based ECT using a multielectrode approach and had a minimum follow-up period of 2 months. 12 dogs were included, and most had advanced local disease (83% stages T3 to T4). Epithelial tumors predominated (91%), mainly adenocarcinoma (42%). Clinical response was observed in all dogs, including complete clinical response in 75% and partial clinical response in 25%. Local progression was documented by CT in 5 dogs (42%). Repeat procedures were performed in 67% of dogs because of persistent clinical signs or tumor progression. The median progression-free interval was 492 days, and the median survival time was 694 days. Treatment-related adverse events were frequent but predominantly mild to moderate, including partial wound dehiscence (50%), crust formation (42%), infection (25%), and oronasal fistula (25%). No procedure-related deaths occurred. Surgical debulking combined with ECT using a multielectrode approach, including a tetrapolar single-needle electrode, was feasible and associated with clinical benefit in dogs with intranasal tumors. These findings support further prospective investigation of this approach for intranasal tumors in dogs. This approach may represent a treatment option for dogs with locally advanced intranasal tumors, particularly when radiotherapy is unavailable.",
+      "categories": [
+        "internalMedicine",
+        "oncology",
+        "surgery",
+        "dermatology"
+      ]
+    },
     {
       "pmid": "42751143",
       "title": "Mitochondria-associated endoplasmic reticulum membranes in canine and feline diabetic kidney disease: mechanistic links and nutritional implications.",
@@ -891,16 +988,6 @@
       ]
     },
     {
-      "pmid": "42694190",
-      "title": "Veterinary student wellbeing and its relationship with dog handling and fear responses during a clinical examination laboratory.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Nakonechny L, Pulver V, Artemiou E, Stellato AC",
-      "date": "2026 09 04",
-      "dateObject": "2026 09 04",
-      "abstract": "Veterinary care can be a significant source of fear and stress for dogs, and handling techniques play a key role in shaping these responses. Emerging evidence suggests that clinician mental wellbeing and stress can influence patient interactions. These challenges extend to veterinary students, who experience high stress during training and represent a critical population for understanding how these influences may emerge in clinical development. During a clinical examination laboratory, we aimed to assess (1) associations among veterinary students' mental well-being and affective state, dog handling techniques, and dog fear responses, (2) whether dog fear responses were associated with students' affective state, and (3) how students' assessments of dog fear compared with investigator-rated fear scores. Third-year veterinary students ( n &#x202f;=&#x202f;66) performed physical examinations on dogs ( n &#x202f;=&#x202f;13) and communicated findings to a simulated client. Student mental well-being and affective state were measured using the WHO-5 and PANAS-SF, respectively. Following the laboratory, students rated the dog's level of fear during the examination using a validated 5-item scale (0&#x202f;=&#x202f;no fear, 4&#x202f;=&#x202f;severe fear). Dog behavior and handling techniques were assessed from videos using one-zero sampling, with fear-related behaviors measured using an ethogram and the 5-item fear scale. Mixed regression models examined associations between student and examination factors, and dog fear outcomes. Passive handling was associated with lower dog fear scores and fear-related behaviors; whereas more restrictive techniques, including standing restraint, abdominal lift, and muzzle hold, were associated with higher fear scores and behaviors (e.g., avoidance, reduced posture, lip/snout licking). Students assigned lower dog fear scores compared to the investigator ( p &#x202f;<&#x202f;0.001). Student mental well-being and affective state was not associated with handling techniques or dog fear outcomes; however, negative affect decreased post-laboratory ( p &#x202f;<&#x202f;0.001) and was associated with higher student-rated dog fear scores ( p &#x202f;=&#x202f;0.017). These findings highlight the influence of handling techniques on dog fear responses during clinical training and suggest the need for enhanced education in behavior recognition. Although student well-being was not associated with dog handling, supporting resilience during training may foster positive clinical interactions throughout veterinary careers.",
-      "categories": []
-    },
-    {
       "pmid": "42696223",
       "title": "Noninvasive malignant mammary adenomyoepithelioma in a male cat.",
       "journal": "Veterinary Research Communications",
@@ -971,56 +1058,6 @@
         "internalMedicine",
         "oncology",
         "neurology"
-      ]
-    },
-    {
-      "pmid": "42689095",
-      "title": "Mode-dependent differences in kinetic and selected temporospatial gait parameters in healthy cats walking on a pressure-sensitive treadmill: a pilot study.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Mille MA, Weissig D, Dobenecker B, Mille EB, Zablotski Y, Lauer SK",
-      "date": "2026 09 03",
-      "dateObject": "2026 09 03",
-      "abstract": "Standardized and repeatable assessment of feline gait remains challenging, highlighting the need for controlled measurement systems such as pressure-sensitive treadmills. This study aimed to compare kinetic and temporospatial gait parameters in healthy cats walking on a treadmill operated in standing vs. running mode. We hypothesized that no significant differences would be observed between modes. Ten healthy adult cats were enrolled in a prospective, controlled crossover study. Inclusion criteria included body weight >4.0 kg, body condition score (BCS) 4-6/9, and age >24 months. Cats walked on a pressure-sensitive treadmill (FDM-T-CanidGait &#xae; , zebris Medical GmbH, Isny, Germany) under two conditions: standing mode (stationary belt) and running mode (moving belt). Five 2-min trials per mode were recorded. Kinetic and temporospatial gait parameters were assessed, including peak vertical force, vertical impulse, stride length, stance and swing phase duration, and step width. Right and left limb data were pooled and analyzed collectively as forelimbs (FL) and hindlimbs (HL). Data were analyzed using robust linear mixed-effects models (R 4.4.3), with significance set at p < 0.05. Significant differences between treadmill modes were detected for peak vertical force and vertical impulse in both forelimbs and hindlimbs ( p < 0.01). Forelimb swing and stance phase durations also differed significantly ( p < 0.05). In contrast, stride length, step width, and hindlimb temporal parameters did not differ significantly between modes. Estimated differences were generally small in magnitude across variables. In healthy cats, stride length, step width, and hindlimb temporal parameters were comparable between standing and running treadmill modes. In contrast, kinetic variables (peak vertical force and vertical impulse) and forelimb stance and swing phase durations differed significantly between modes and should therefore be interpreted only within the same treadmill mode. These findings indicate that treadmill modes may be used interchangeably for selected temporospatial parameters but not for kinetic variables or forelimb temporal parameters.",
-      "categories": []
-    },
-    {
-      "pmid": "42688045",
-      "title": "Common recorded diagnoses in purebred vs. mixed-breed dogs: a multivariable analysis of primary-care electronic medical records in South Korea.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Yang I, Kim AY, Baek JS, Ku B, Jeong HJ, Lee K",
-      "date": "2026 09 03",
-      "dateObject": "2026 09 03",
-      "abstract": "In South Korea, the companion-dog population is strongly skewed toward a small number of small-breed purebred dogs, and distinguishing breed-type differences in recorded diagnoses from confounding by age, neuter status, and healthcare utilization is challenging in primary-care data. This retrospective study used electronic medical records (EMRs) from primary-care veterinary clinics in South Korea, covering January 2016-December 2024, to compare the adjusted odds of the 20 most frequently recorded diagnoses between purebred and mixed-breed dogs. Records were standardized using Veterinary Nomenclature (VENOM) coding. For each condition, a separate multivariable logistic regression model estimated the adjusted odds ratio (aOR) and 95% confidence interval (CI) for purebred status, adjusting for age, sex, neuter status, and visit frequency. Age was assigned as age at first recorded diagnosis for cases and last observed age for non-cases. After adjustment, purebred dogs showed higher odds of recorded diagnosis for nine conditions, including meningoencephalitis (aOR 2.77; 95% CI 1.17-6.57), intervertebral disc disorder (aOR 1.85; 95% CI 1.49-2.29), myxomatous mitral valve degeneration (aOR 1.57; 95% CI 1.46-1.68), and patellar luxation (aOR 1.54; 95% CI 1.38-1.71). Mammary neoplasm showed higher crude prevalence in mixed-breed dogs, and this association remained statistically significant after adjustment for binary neuter status (aOR 0.80; 95% CI 0.68-0.95; Adj p = 0.0202), likely reflecting unmeasured confounding by the timing of neutering. Ten conditions, including chronic kidney disease and unspecified dermatitis, showed no statistically significant difference between groups. These findings indicate breed-type differences in the odds of recorded diagnoses in a Korean primary-care EMR dataset rather than true disease risk or causal effects. Because the cohort was dominated by small-breed dogs and the analyses could not fully account for body size, follow-up duration, detection bias, or diagnostic-coding heterogeneity, the observed associations may reflect breed composition, morphology, owner behavior, healthcare access, and recording practices in addition to underlying biological differences.",
-      "categories": [
-        "cardiology",
-        "internalMedicine",
-        "oncology",
-        "neurology",
-        "dermatology"
-      ]
-    },
-    {
-      "pmid": "42688043",
-      "title": "A multicenter, retrospective, cross-sectional analysis of fresh and processed Vitis vinifera (grape) ingestion in dogs and cats.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Altman KD, Kamat TA, Leicester L, Fraser T, Singleton DA, Elias Santo-Domingo N",
-      "date": "2026 09 03",
-      "dateObject": "2026 09 03",
-      "abstract": "Vitis vinifera fruits are common household toxicants and domestic pets are often presented to veterinarians following exposure due to risk of acute kidney injury. To develop a regular expression-based method for identifying cases of Vitis vinifera fruit ingestion in electronic health records and to use this dataset to compare outcomes between fresh and processed exposures in canines and felines. Secondary aims were to characterize differences in outcome by species, demographics, seasonality, chocolate co-ingestion, and treatment patterns to inform risk stratification and management. A retrospective cross-sectional analysis was performed using emergency-care electronic health records from 64 United Kingdom-based private veterinary emergency centers between 2018 and 2024. Iteratively refined Python-based regular expressions were developed and validated to identify suspected or confirmed ingestion from free-text clinical narratives. Cases with confounding toxicities or incomplete records were excluded. Demographic, treatment, and outcome data were extracted. Mortality analyses were conducted by species with correction for multiple comparisons. Decision tree models were developed for canines and felines using stratified training and testing datasets with Bayesian hyperparameter optimization. Model performance was assessed using average precision on held-out data. 31,425 probable canine cases and 1,030 probable feline cases were identified. Processed fruit ingestion was more common than fresh fruit ingestion in both species (canines: 61.6% versus 31.2%; felines: 65.0% versus 31.1%), with seasonal clustering in December (canines: 22.0%; felines: 15.5%). Mortality was 1.3%, significantly higher in felines (11.8%) than in canines (0.9%). Fresh fruit ingestion was associated with higher mortality in both species (canine relative risk 3.47; feline relative risk 3.13). Age was associated with mortality in both species, and increased weight was associated with mortality in canines only. Chocolate co-ingestion was not associated with increased mortality. Treatment differed by species, with emesis more common in canines and intravenous fluids more frequent in felines. Decision tree analysis identified decontamination as the strongest predictor of survival. Vitis vinifera ingestion is common in canine emergency presentations and less frequent but more fatal in felines. Fresh fruit ingestion carries higher mortality risk in both species. Gastrointestinal decontamination was the variable most strongly associated with favorable outcomes and supports prompt, species-specific management strategies.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42687958",
-      "title": "Physical simulation models for veterinary surgical training: a systematic review.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Salas-Guerra J, S&#xe1;nchez-Margallo JA, Dur&#xe1;n-Rey D, S&#xe1;nchez-Margallo FM",
-      "date": "2026 09 03",
-      "dateObject": "2026 09 03",
-      "abstract": "Simulation has become an increasingly important educational strategy in veterinary surgical training. This is driven by ethical considerations, the need to standardize skill acquisition, and limitations associated with training based on live animals and cadavers. However, the characteristics, scope, and validation of simulators used in veterinary surgery remain heterogeneous and insufficiently systematized. This study aimed to systematically review and characterize the simulators used in veterinary surgical education, focusing on their characteristics, applications, and validations. This should also identify current limitations and potential future research directions. A systematic review was conducted following the PRISMA 2020 guidelines. The PubMed and Web of Science databases were searched to identify studies on the use of physical simulators in veterinary surgical training published between July 2016 and July 2026. Studies based solely on cadavers, ex vivo models, virtual reality simulators, and those not focused on veterinary practice, were excluded. The results were synthesized descriptively using predefined categorical frameworks. A total of 1,409 articles were identified, of which 78 studies were ultimately included. Most simulators were low fidelity (55%) and developed in academic settings. High-fidelity simulators were predominantly commercial (79%). The majority of the simulators identified were canine models (42%) or box trainers (21%), with a focus on sterilization procedures. Comparatively limited representation was found for other species and surgical specialties. Validation approaches were heterogeneous, with face, content and construct validity being the most frequently reported. Physical simulators are widely used in veterinary surgical education, but their development remains uneven across species, specialties, and validation standards. There is a clear need for higher-fidelity, species-diverse simulators, as well as more rigorous and standardized validation frameworks to strengthen the educational and clinical impact of simulation-based training.",
-      "categories": [
-        "surgery"
       ]
     },
     {
@@ -1108,18 +1145,6 @@
       "abstract": "To test the hypothesis that, when used with doxycycline, moxidectin, and prednisone, 2-dose melarsomine would be as safe and effective as 3-dose melarsomine. A randomized clinical trial was conducted from April 2024 to December 2025, comparing compressed 2-dose and 3-dose melarsomine protocols. Dogs with Class 1 or 2 heartworm disease received sustained-release moxidectin, doxycycline, prednisone, and 2 or 3 injections of melarsomine. Melarsomine was administered on days 14 and 15 (2-dose group) or days 14, 44, and 45 (3-dose group). Dogs were exercise restricted for 4 weeks following melarsomine. Daily clinical observations were made until the last day of exercise restriction. Antigen tests were performed 6 or 9 months after melarsomine. 168 dogs completed treatment (2-dose group, n = 85; 3-dose group, 83), and 165 were retested (2-dose group, 85; 3-dose group, 80). There was no significant difference in efficacy between the 2-dose group (95.3%; 95% CI, 88.4% to 98.7%) and the 3-dose group (98.8%; exact 95% CI, 93.2% to 100.0%). The sample size was insufficient for conclusive noninferiority analysis at the predefined noninferiority margin of 4%. Survival was 100%. Complications were rare, with 7 dogs requiring thoracic radiographs with or without additional treatment, but none requiring intensive management. Incidence of post-melarsomine cough, increased respiratory effort, and weakness was not significantly different between groups. A compressed 2-dose melarsomine protocol, with doxycycline, moxidectin, and prednisone, was safe and effective. Compared with 3-dose protocols, the 2-dose melarsomine protocol reduces the cost, resources, and time required to treat heartworm disease.",
       "categories": [
         "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42682558",
-      "title": "Short-term effects of pimobendan in dogs with preclinical myxomatous mitral valve disease.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Apolloni I, Oricco S, Crosara S, Cavalleri G, Poggi M, Quintavalla C",
-      "date": "2026 09 02",
-      "dateObject": "2026 09 02",
-      "abstract": "Pimobendan has been shown to delay the onset of congestive heart failure and prolong survival in dogs affected by myxomatous mitral valve disease (MMVD). However, little information is available regarding its short-term echocardiographic effects in dogs with preclinical disease. The aim of this prospective multicenter observational study was to evaluate the effect of pimobendan on selected echocardiographic indices after 7 days of therapy in dogs with American College of Veterinary Internal Medicine stage B2 MMVD. Forty-two client-owned dogs received pimobendan orally at 0.25-0.3&#x202f;mg/kg every 12&#x202f;h and underwent echocardiographic examination before treatment initiation and after 7&#x202f;days. Significant reduction was observed in several indices of left atrial and left ventricular remodeling, including normalized left atrial diameter ( p &#x202f;<&#x202f;0.001), left atrial-to-aortic ratio ( p &#x202f;<&#x202f;0.001), maximal and minimal left atrial volumes ( p &#x202f;<&#x202f;0.001 and p &#x202f;=&#x202f;0.008, respectively), left atrial stroke volume ( p &#x202f;=&#x202f;0.011), and normalized left ventricular internal diameters in diastole and systole (both p &#x202f;<&#x202f;0.001). Significant decrease was also observed in fractional shortening ( p &#x202f;=&#x202f;0.007), peak velocity of early diastolic transmitral flow (E) ( p &#x202f;=&#x202f;0.001), E velocity-to-early diastolic myocardial peak velocity ratio ( p &#x202f;=&#x202f;0.031), mitral-to-aortic velocity time integral ratio ( p &#x202f;=&#x202f;0.045), and left ventricular early inflow-outflow index ( p &#x202f;<&#x202f;0.001), whereas pulmonic velocity-time integral ( p &#x202f;<&#x202f;0.001) and systolic myocardial peak velocity ( p &#x202f;<&#x202f;0.001) significantly increased. No significant differences were detected for regurgitant volume, regurgitant fraction, ejection fraction, myocardial performance index, isovolumic relaxation time, E-to-isovolumic relaxation time ratio, E deceleration, or aortic velocity-time integral. At the 1-week re-evaluation, 22/42 dogs (52.4%) showed reverse remodeling, with echocardiographic indices returning to values within the range consistent with ACVIM stage B1. These findings suggest that pimobendan administration is associated with early improvement in echocardiographic indices of left heart remodeling in dogs with ACVIM stage B2 MMVD and may reduce regurgitant volume shortly after treatment initiation.",
-      "categories": [
-        "cardiology"
       ]
     },
     {
@@ -1265,18 +1290,6 @@
       "dateObject": "2026 09 01",
       "abstract": "To determine whether serum biomarkers, BUN-to-albumin ratio (BAR) and creatinine-to-albumin ratio (CAR), have prognostic utility in dogs. A retrospective, single-center study utilizing signalment, clinicopathological, and mortality data collected from medical records of dogs presented to a referral hospital from September 2022 through June 2025. Dogs were stratified based on mortality. 327 cases were included. Nonsurvivors (n = 92) had significantly elevated BAR (median, 6.62; 95% CI, 5.69 to 7.61) and CAR (0.36; 95% CI, 0.32 to 0.42) compared with survivors at 5.01 (95% CI, 4.52 to 5.50) and 0.29 (95% CI, 0.27 to 0.31), respectively. Nonsurvivors had lower albumin (2.9 g/dL; 95% CI, 2.7 to 3.0) than survivors (3.2 g/dL; 95% CI, 3.1 to 3.2). Blood urea nitrogen was higher in nonsurvivors (18.8 mg/dL; 95% CI, 17.1 to 23.2) than survivors (16.0 mg/dL; 95% CI, 14.8 to 17.4). Survival analysis identified low albumin as the strongest predictor of mortality, with increased risk of death (hazard ratio, 2.01; CI, 1.32 to 3.07). High BAR, BUN, and CAR were associated with poor survival, whereas creatinine was not related to outcome. A random forest-classified model showed strong discrimination between survivors and nonsurvivors, with an area under the curve of 0.998 (Specificity, 100%; Sensitivity, 71.7%). Nonsurvivors had significantly higher BAR, CAR, BUN, and creatinine and lower albumin; BAR, CAR, BUN, and albumin outperformed creatinine in predicting mortality. Biochemical ratios are easily calculated, have the potential to predict mortality in dogs, and thus warrant further investigation.",
       "categories": []
-    },
-    {
-      "pmid": "42248196",
-      "title": "Evaluation of aquapuncture in the reduction of intraoperative hemorrhage in canine ovariohysterectomy.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Perry T, Shiau DS",
-      "date": "2026 09 01",
-      "dateObject": "2026 09 01",
-      "abstract": "To determine whether a presurgical aquapuncture intervention can reduce intraoperative bleeding during female dog ovariohysterectomy (OVH) procedures. Female dogs admitted for OVH procedure were enrolled and randomly assigned to group T (receiving vitamin B12 injections at the acupoint point GV-5), group SC (receiving vitamin B12 injections at GV-14, an acupoint without hemostatic indications), or group NC (receiving no B12 injections). Vitamin B12 injections (dose determined by weight) were given 15-30 minutes before the procedure, which was performed by a surgeon who was kept unaware of group assignments. At the conclusion of the surgery, the gauze used during the procedure was weighed immediately by an individual blinded to subject's treatment group to collect the bleeding data. A total of 51 subjects were enrolled-15 in group T, 18 in group SC, and 18 in group NC. The mean (&#xb1; SD) weight-normalized blood loss in group T was 0.13 &#xb1; 0.06 mL/kg, in group SC was 0.28 &#xb1; 0.16 mL/kg, and in group NC was 0.34 &#xb1; 0.22 mL/kg, which suggested that group T had significantly less weight-normalized blood loss than the 2 control groups (P = .003 and P = .003 vs NC and SC groups, respectively). The NC and SC groups were not significantly different (P = .999). The study concluded that aquapuncture with B12 at GV-5 can reduce intraoperative bleeding during the female dog OVH procedure. The proposed aquapuncture intervention has the potential to prevent bleeding complications during surgery. It could also result in faster procedures and reduced swelling, inflammation, and pain at the surgical site as well as smaller incisions.",
-      "categories": [
-        "surgery"
-      ]
     },
     {
       "pmid": "42529917",
@@ -2118,18 +2131,6 @@
       "abstract": "To describe preoperative parameters and outcomes in small animals undergoing ovariohysterectomy (OVH) for pyometra relative to duration of stabilization and surgical timing. This retrospective observational study included canine patients undergoing emergency OVH for pyometra. We searched electronic medical records to identify patients undergoing OVH for pyometra between November 2018 and July 2024 at 3 referral hospitals. Presentation, anesthetic induction, and discharge or mortality were recorded for 137 patients. Regression analyses were used to determine predictive impact of cervix patency, stabilization time, and after-hours procedures on surgery and anesthetic time, postoperative hospitalization, and cost. We found no difference in surgical time, anesthetic time, or postoperative hospitalization across surgical timing groups. There was also no observed difference between open and closed pyometra for any of the evaluated variables. Total cost was modeled to be lower by 19% (&#x3b2; = -$1,058.9; adjusted R2 = 0.043; 95% CI, -$1,831.03 to -$286.77) when patients presented after hours and to increase with additional stabilization (&#x3b2; = $43.20/h; adjusted R2 = 0.042; 95% CI, $11.58 to $74.88). This study indicated that operating time does not meaningfully affect clinical outcomes for open and closed pyometra other than a predicted increase in total cost. Immediate surgical intervention for patients with pyometra may not be superior to delayed surgical intervention.",
       "categories": [
         "surgery"
-      ]
-    },
-    {
-      "pmid": "42055026",
-      "title": "Cytology and histopathology have poor to fair agreement for determination of neoplastic or nonneoplastic lesions in dogs with splenic masses or nodules.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Aluisio MF, Garner BC, Howerth EW, Laver T, Grimes JA",
-      "date": "2026 08 21",
-      "dateObject": "2026 08 21",
-      "abstract": "To evaluate the correlation between cytology and histopathology of splenic masses or nodular lesions in dogs. Retrospective medical record review from January 2014 to July 2022 of dogs that had a splenic mass or nodular lesion and cytologic and histopathologic evaluation within 90 days of each other. Slide review was conducted by a single pathologist from each subspecialty and recorded as neoplastic, possibly neoplastic, or nonneoplastic. 33 dogs were included and had a median of 4 days (range, 0 to 90 days) between cytologic and histopathologic evaluation. Cytologic and histopathologic results agreed in 18 of 33 dogs (55%; 12 nonneoplastic and 6 neoplastic), although the type of neoplasm differed in one of these (sarcoma vs lymphoma). There was disagreement in 8 of 33 dogs (24%; 7 neoplastic on histopathology and nonneoplastic on cytology, 1 nonneoplastic on histopathology and neoplastic on cytology). When including a possibly neoplastic cytologic diagnosis as neoplastic, there was agreement in 22 of 33 dogs (67%) and disagreement in 11 of 33 dogs (33%). In dogs with a neoplastic or possibly neoplastic cytologic diagnosis, 10 of 14 (71%) were neoplastic on histopathology. In dogs with a nonneoplastic cytologic diagnosis, 12 of 19 (63%) were nonneoplastic on histopathology. Cytologic diagnosis correlated with histopathologic diagnosis of splenic masses or nodular lesions in 55% to 67% of dogs. Cytology was accurate in 71% of neoplastic and 63% of nonneoplastic splenic masses or nodular lesions. There is poor to fair agreement between cytology and histopathology in dogs with splenic masses or nodular lesions. A neoplastic cytologic diagnosis more commonly agrees with histopathology than a nonneoplastic diagnosis.",
-      "categories": [
-        "oncology"
       ]
     },
     {
