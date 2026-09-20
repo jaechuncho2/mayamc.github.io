@@ -1,6 +1,57 @@
 {
-  "updated_at": "2026-09-19T23:08:12.930Z",
+  "updated_at": "2026-09-20T23:16:25.725Z",
   "papers": [
+    {
+      "pmid": "42762832",
+      "title": "Escherichia coli isolated from canine pyometra show decreased susceptibility to amoxicillin-clavulanic acid in dogs.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Fautz Z, Amato N, Windsor R",
+      "date": "2026 09 19",
+      "dateObject": "2026 09 19",
+      "abstract": "To describe bacterial culture results and antimicrobial susceptibility patterns for dogs undergoing surgical treatment for pyometra. This retrospective study included dogs that underwent ovariohysterectomy at referral hospitals and had a positive bacterial culture of uterine fluid or histopathologic changes consistent with pyometra between January 2020 and December 2024. Data collected from medical records included clinical signs on presentation, hematological and biochemical abnormalities, aerobic and anaerobic bacterial isolates, antimicrobial susceptibility results, and peri- and postoperative antimicrobial administration. Prevalence of antimicrobial susceptibility was compared across select geographic regions and between Clinical and Laboratory Standards Institute (CLSI) susceptibility interpretation guideline editions. 278 dogs were included. Neutrophilia was identified in 74.2% of dogs. Only 1 bacterium was isolated in 88.8% of dogs, while 10.4% of cases were polymicrobial. Escherichia coli was the most common isolate (73.1%). Amoxicillin-clavulanic acid and enrofloxacin were prescribed postoperatively to 77.6% and 51.1% of dogs, respectively. Using CLSI VET01S edition 4, E coli susceptibility to amoxicillin-clavulanic acid and enrofloxacin was present in 30.3% and 96.9% of isolates, respectively. Reclassification using CLSI VET01S edition 7 resulted in lower susceptibility classifications in 9 of 10 antimicrobials evaluated, including reductions of 46.9% for amoxicillin-clavulanic acid and 3.1% for enrofloxacin. Amoxicillin-clavulanic acid was frequently prescribed despite limited susceptibility among E coli isolates. Updated CLSI breakpoints reclassified susceptibility for most antimicrobials despite unchanged MICs. Regional antibiograms may show decreased susceptibility compared to historical recommendations. Judicious empiric antimicrobial selection should be guided by antimicrobial stewardship principles rather than routine reliance on any single antimicrobial.",
+      "categories": [
+        "internalMedicine",
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42761244",
+      "title": "Pilot study demonstrating safety and efficacy of intravenous allogeneic uterine-derived mesenchymal stromal cell therapy in cats with naturally occurring osteoarthritis.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Williams V, Mick L, Windsor R, Parrish RS, Thompson CM, Sundman E, Wrightson C, Taechangam N, Sharif O, Black L",
+      "date": "2026 09 19",
+      "dateObject": "2026 09 19",
+      "abstract": "The objective of this study was to evaluate the tolerability and efficacy at 3 months of intravenous (IV) allogeneic uterine-derived mesenchymal stromal cells (UMSCs) for osteoarthritis (OA) in client-owned cats. This was a randomized, masked, placebo-controlled pilot study conducted across six veterinary clinics. Thirty-five client-owned cats with naturally occurring OA were randomly assigned to receive two intravenous injections, given 14 days apart, of one of three treatments: 5 million (5M) UMSCs, 20 million (20M) UMSCs, or saline placebo. Client-Specific Outcome Measures (CSOM), Owner Overall Assessment (OOA), Veterinarian Overall Assessment (VOA) and Veterinarian Pain Assessment (VPA) were recorded at day 0, 14, 30, 60 and 90. At day 90, predefined treatment success was achieved in: CSOM and OOA for 7/9(78%) 5M UMSC and 10/12(83%) 20M UMSC treated cats compared to 4/11(36.4%) placebo-treated cats for both outcomes; VOA for 4/8(50%) 5M UMSC and 8/12(67%) 20M UMSC treated cats compared to 2/10(20%) placebo-treated cats; and VPA for 6/8(75%) 5M UMSC and 10/12(83%) 20M UMSC treated cats compared to 5/11(45%) placebo-treated cats. Treatment-related adverse events were observed in 1/10 (10%) 5M UMSC treated cats, 5/13 (38%) 20M UMSC treated cats, and 2/12 (16.7%) saline treated cats. The most common treatment related events reported in the first 24 hours were transient vomiting or nausea, weakness, lethargy, hypersalivation, tachypnea and malodorous breath. This study demonstrated that IV administration of allogeneic UMSCs was well tolerated and showed improvement in owner and veterinarian outcomes at both 5M UMSC and 20M UMSC dosing to at least 3 months in cats with naturally occurring OA. Intravenous MSC therapy shows promise for cats with OA and warrants further exploration.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42761127",
+      "title": "Cirevetmab, a novel canine anti-TGF&#x3b2; monoclonal antibody, exerts antifibrotic effects on renal cells in vitro .",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Kappenman DL, Koehler CL, Prentice RN, Koziar N, Beardow A, Merlo A, Knauer CS, Mwangi D, Stirling C",
+      "date": "2026 09 19",
+      "dateObject": "2026 09 19",
+      "abstract": "Transforming Growth Factor-&#x3b2; (TGF-&#x3b2;) has been implicated for its role in fibrosis and progression of chronic kidney disease (CKD) in both humans and rodents. Additionally, CKD is a common and progressive condition in canines, with striking pathological similarities to human disease. However, targeted therapies addressing fibrogenic mediators in dogs remain underexplored. We investigated the role of all three TGF-&#x3b2; isoforms (TGF-&#x3b2;1, TGF-&#x3b2;2, and TGF-&#x3b2;3) in CKD and renal fibrosis with in vitro model systems using human and canine primary renal proximal tubular epithelial cells. The studies assessed the induction of the canonical TGF-&#x3b2; pathway and the ability of a novel canine anti-TGF-&#x3b2; monoclonal antibody, cirevetmab, to neutralize these effects. All three TGF-&#x3b2; isoforms induced phosphorylation of SMAD3 (homologs of Drosophila mothers against decapentaplegic and C. elegans SMA proteins), nuclear translocation, and alpha-smooth muscle actin (&#x3b1;SMA). Treatment with cirevetmab led to robust neutralization of TGF-&#x3b2;1-induced SMAD phosphorylation and fibrotic marker changes. Notably, although cirevetmab exerted modest neutralization of TGF-&#x3b2;3-induced SMAD phosphorylation, this was not associated with a significant change in TGF-&#x3b2;3-induced fibrotic markers. Conversely, no neutralization of TGF-&#x3b2;2-induced activity was observed with cirevetmab. Our results demonstrate that cirevetmab selectively neutralizes TGF-&#x3b2;1 and, to a lesser extent, TGF-&#x3b2;3-induced SMAD phosphorylation in vitro , while only significantly neutralizing TGF-&#x3b2;1-induced fibrotic markers in renal proximal tubule cells.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42761122",
+      "title": "Molecular detection of Leishmania spp. in feline squamous cell carcinoma in Portugal.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Oliveira C, Santos J, Valen&#xe7;a A, Catarino J, Ramilo D, Matias M, Alves M, Maia C, Fa&#xed;sca P, Henriques J, Pereira A",
+      "date": "2026 09 19",
+      "dateObject": "2026 09 19",
+      "abstract": "Cutaneous manifestations of feline leishmaniosis may occur at anatomical sites commonly affected by squamous cell carcinoma (SCC), creating potential diagnostic overlap. Although concurrent Leishmania infection and SCC have been described in individual cats, the presence of parasite DNA in feline SCC tissue has not been systematically investigated. This retrospective cross-sectional study evaluated 219 formalin-fixed, paraffin-embedded feline SCC samples submitted to a veterinary diagnostic laboratory in Portugal between 2020 and 2023. Samples were screened using a Leishmania -genus-specific nested PCR targeting SSU rDNA. PCR-positive cases were subsequently analyzed at four additional loci ( cytB , g6pdh , hsp70 , and ITS rDNA) and reassessed histopathologically. Leishmania spp. SSU rDNA was detected in 3/219 samples (1.4%; 95% CI: 0.5-3.9%), corresponding to SCC lesions on the pinna, nasal planum, and eyelid. Molecular characterization was possible in one case, involving an SCC of the nasal planum. Phylogenetic analysis showed that the hsp70 sequence clustered with reference sequences of L. infantum , whereas the cytB sequence grouped within the L. donovani complex without species-level resolution. In the same lesion, structures morphologically compatible with amastigotes were observed within macrophages in the tumor-associated inflammatory infiltrate. Overall, Leishmania DNA was detected in only a small proportion of feline SCCs, and the findings support coexistence rather than an association between infection and tumor development. These findings have direct diagnostic relevance in endemic areas, where histopathologic confirmation of SCC should not preclude investigation for concurrent Leishmania infection when clinical or epidemiologic suspicion persists.",
+      "categories": [
+        "internalMedicine",
+        "oncology",
+        "dermatology"
+      ]
+    },
     {
       "pmid": "42761083",
       "title": "Effects of recumbency and tube current on image quality of canine elbow computed tomography.",
@@ -22,6 +73,18 @@
       "dateObject": "2026 09 19",
       "abstract": "Swimmer puppy syndrome (SPS) is a rare developmental condition of unknown etiology. The syndrome is characterized by a puppy's inability to adduct the limbs, resulting in lateral limb abduction and an inability to stand or walk. In this case, an almost 4-week-old female Golden Retriever presented for early physiotherapeutic evaluation. Adduction tapes were applied to the forelimbs and hindlimbs. Additionally, the treatment area was covered with a non-slip rubber mat. Further physiotherapeutic interventions were implemented. Intensive care was discontinued after 10&#x202f;days. At the 16-month follow-up, the dog showed no clinically apparent gait abnormalities and had made a good functional recovery. Early recognition and conservative management, including physiotherapeutic intervention with simple mechanical support through loose-loop taping and environmental modifications, can result in rapid functional recovery in puppies with swimmer puppy syndrome.",
       "categories": []
+    },
+    {
+      "pmid": "42761832",
+      "title": "Phenotypic characterisation, quality of life and prevalence of idiopathic epilepsy and epilepsy of unknown cause in the nine Dutch dog breeds.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Rolink T, van Rooijen A, Diaz Espineira M, Broeckx B, Bhatti SFM, Mandigers PJJ",
+      "date": "2026 09 19",
+      "dateObject": "2026 09 19",
+      "abstract": "Canine epilepsy is a common and complex neurological disease that occurs in almost all dogs. In the Netherlands, there are nine pedigree dog breeds, and all of them have numerous small populations, with moderate to high inbreeding coefficients. The goal of this study is to characterise epilepsy within these breeds and to estimate the prevalence for each of these nine breeds: Dutch Partridge dog, three variants of the Dutch Shepherd, Dutch Smoushound, Kooiker dog, Markiesje dog, Saarloos Wolfdog, Schapendoes dog, Stabyhoun, and Wetterhoun. An online questionnaire was distributed to establish the phenotypic characterisation of idiopathic epilepsy (IE) and epilepsy of unknown cause (EUC). The prevalence was estimated using data from breeders' associations, as well as cases seen by the investigators but unknown to the breed clubs. The estimated prevalence of IE and EUC was for the Dutch Partridge dog 2.63%, short haired Dutch Shepherd 0.72%, rough haired Dutch Shepherd 1.21%, long haired Dutch Shepherd 0.42%, the Dutch Smoushound 2.22%, Kooiker dog 0.4%, Markiesje dog 0.84%, Saarloos Wolfdog 1.9%, Schapendoes dog 0.23%, Stabyhoun 1.5%, and Wetterhoun 2.8%. All breed clubs use breeding advice to reduce the frequency of IE/EUC, and within the Dutch Shepherd shorthaired, Kooiker dog, Smoushound, and Saarloos Wolfdog, the frequency has dropped over the years. Within all breeds, generalised tonic-clonic seizures (GTCS) were the most frequently observed type of seizures next to cluster seizures (CS) and status epilepticus (SE). Roughly, pre-ictal and post-ictal signs could be observed in half of all epileptic dogs. Anti-seizure medication (ASM) was administered to 78% of the dogs, and 70% of those experienced side effects. Only in the Wetterhoun was the need for an anti-seizure medication (ASM) less. Less than 50% of the Wetterhouns needed an ASM. The most common ASM across all breeds was phenobarbital (PB). Prevalence varied across the nine breeds, regardless of their population size. The phenotypic characteristics of IE/EUC are comparable with those of other dog breeds. Breeding strategy appeared to be the most effective in the Dutch Smoushound and Kooiker dog.",
+      "categories": [
+        "neurology"
+      ]
     },
     {
       "pmid": "42753789",
@@ -271,21 +334,6 @@
         "internalMedicine",
         "oncology",
         "surgery"
-      ]
-    },
-    {
-      "pmid": "42753794",
-      "title": "Surgical debulking and electrochemotherapy, including a tetrapolar single-needle electrode, are associated with clinical benefit in dogs with intranasal tumors.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Rangel MMM, Holanda AGA, Linhares LCM, Suzuki DOH, Bispo GA, de Nardi AB",
-      "date": "2026 09 18",
-      "dateObject": "2026 09 18",
-      "abstract": "To evaluate the feasibility and preliminary clinical outcomes of surgical debulking combined with electrochemotherapy (ECT) using a multielectrode approach, including a tetrapolar single-needle electrode, in dogs with intranasal tumors. This retrospective observational study included client-owned dogs with intranasal tumors treated from 2017 through 2024 at a veterinary oncology referral center. Dogs were included if they underwent at least 1 surgical procedure combined with intraoperative bleomycin-based ECT using a multielectrode approach and had a minimum follow-up period of 2 months. 12 dogs were included, and most had advanced local disease (83% stages T3 to T4). Epithelial tumors predominated (91%), mainly adenocarcinoma (42%). Clinical response was observed in all dogs, including complete clinical response in 75% and partial clinical response in 25%. Local progression was documented by CT in 5 dogs (42%). Repeat procedures were performed in 67% of dogs because of persistent clinical signs or tumor progression. The median progression-free interval was 492 days, and the median survival time was 694 days. Treatment-related adverse events were frequent but predominantly mild to moderate, including partial wound dehiscence (50%), crust formation (42%), infection (25%), and oronasal fistula (25%). No procedure-related deaths occurred. Surgical debulking combined with ECT using a multielectrode approach, including a tetrapolar single-needle electrode, was feasible and associated with clinical benefit in dogs with intranasal tumors. These findings support further prospective investigation of this approach for intranasal tumors in dogs. This approach may represent a treatment option for dogs with locally advanced intranasal tumors, particularly when radiotherapy is unavailable.",
-      "categories": [
-        "internalMedicine",
-        "oncology",
-        "surgery",
-        "dermatology"
       ]
     },
     {
@@ -998,18 +1046,6 @@
       ]
     },
     {
-      "pmid": "42712380",
-      "title": "Case Report: Recurrent vestibular episodes in a dog resembling Meniere's disease.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Ladenburger ME, Kuzek K, Schmitz AK, Br&#xfc;hschwein A, Fischer A",
-      "date": "2026 09 09",
-      "dateObject": "2026 09 09",
-      "abstract": "M&#xe9;ni&#xe8;re's disease, characterized by episodic vertigo, sensorineural hearing loss, and tinnitus, is well-documented in humans but rarely reported in veterinary medicine. This case report describes a 15-year-old male mixed-breed dog with recurrent vestibular episodes lasting 30&#x202f;min to several hours. Clinical signs included ataxia, head tilt, and nystagmus. MRI and diagnostic workups ruled out common structural causes of vestibular signs and ear diseases. Audiometric testing revealed bilateral sensorineural hearing loss with preserved high-frequency hearing in the right ear, a pattern resembling that seen in human M&#xe9;ni&#xe8;re's disease. While the dog improved with supportive care, multiple relapses occurred until the age of 18. This case suggests a M&#xe9;ni&#xe8;re's-like syndrome in dogs and highlights the need for hearing function assessments in idiopathic vestibular disease.",
-      "categories": [
-        "neurology"
-      ]
-    },
-    {
       "pmid": "42711694",
       "title": "Sero-epidemiological survey of Toxoplasma gondii in water buffalo (Bubalus bubalis) and domestic pig (Sus scrofa domesticus) across upper and lower Egypt.",
       "journal": "BMC Veterinary Research",
@@ -1085,30 +1121,6 @@
       ]
     },
     {
-      "pmid": "42707635",
-      "title": "An investigation of per- and polyfluoroalkyl concentrations in dogs and cats with endocrine disorders.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Bardhi A, Serrantoni E, Inauen D, Del Baldo F, Galac S, Gehring R, Fracassi F, Barbarossa A",
-      "date": "2026 09 08",
-      "dateObject": "2026 09 08",
-      "abstract": "Per- and polyfluoroalkyl substances (PFAS) are persistent environmental contaminants with endocrine-disrupting and potential carcinogenic effects in humans. Data on PFAS exposure in companion animals are limited. This study quantified PFAS concentrations in dog and cat serum and investigated associations with endocrine disorders. This retrospective study included 179 dogs from the Universities of Bologna and Utrecht, and 84 cats from the University of Bologna, sampled between 2021 and 2025. The population comprised 23 healthy dogs, 35 healthy cats, and animals with endocrine disorders, including 49 cats with hyperthyroidism, 64 dogs with pituitary-dependent hypercortisolism, 16 with primary hyperparathyroidism, and 85 with adrenal tumors. Eleven PFAS were measured by liquid chromatography-tandem mass spectrometry (LC-MS/MS). Between-group differences were evaluated using nonparametric tests, associations with disease status using age-adjusted generalized linear models, and correlations with age and body condition score using Spearman's rank correlation. Eight PFAS were detected in dogs and nine in cats. The most frequently detected compounds were perfluorooctanesulfonic acid (PFOS, 99.5%), perfluorohexanesulfonic acid (PFHxS, 69.0%), and perfluorooctanoic acid (PFOA, 68.5%) in dogs, and PFOS (99.0%) and PFOA (96.0%) in cats. Dogs from Utrecht had higher PFOS concentrations than dogs from Bologna. Unadjusted between-group differences varied by species, with higher PFAS concentrations in healthy cats but higher concentrations of some PFAS in certain canine diseased groups. After adjustment for age, no PFAS was independently associated with disease status in either species. A weak negative correlation between &#x2211;PFAS and age was observed in dogs ( r &#x202f;=&#x202f;-0.206, p &#x202f;=&#x202f;0.005) and cats ( r &#x202f;=&#x202f;-0.234, p &#x202f;=&#x202f;0.032), and diseased animals were older than healthy controls, suggesting that age contributed to the observed between-group differences. No significant associations were found with body condition score. PFAS exposure was widespread in both species, with higher PFOS concentrations in dogs from the Dutch cohort. The inverse association between PFAS concentrations and age, together with the older age of diseased animals, suggests that age substantially contributed to the observed between-group differences. Further longitudinal studies, including minimally exposed control populations, are warranted to clarify the health implications of PFAS exposure in companion animals.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42707619",
-      "title": "The microenvironment in canine mast cell tumors: association between tumor-associated tissue eosinophilia and histological grade.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Ezquerra-Dur&#xe1;n M, Cardenal-Morales P, Ezquerra-Calvo LJ, Tarazona-Lafarga R, Santella M, Dur&#xe1;n-Fl&#xf3;rez ME",
-      "date": "2026 09 08",
-      "dateObject": "2026 09 08",
-      "abstract": "Canine mast cell tumors (MCTs) are common neoplasms with heterogeneous biological behavior, and histological grading alone may not fully reflect their aggressiveness. The tumor microenvironment, particularly tumor-associated tissue eosinophilia (TATE), may provide complementary information on MCT biology. This study evaluated whether intratumoral eosinophil infiltration, expressed as the eosinophil-to-mast cell ratio (EMR), was associated with histological grade in canine MCTs. A secondary objective was to assess the relationship between peripheral blood inflammatory markers and tumor grade. A total of 117 surgically excised MCTs from 73 dogs were included. Tumors were classified according to the Patnaik and Kiupel grading systems. Eosinophils and mast cells were counted in 10 consecutive high-power fields of neoplastic tissue, and the EMR was calculated. Histopathological variables, peripheral blood eosinophil counts, and inflammatory ratios were also evaluated. Univariable and multivariable regression models were used to assess associations with tumor grade, and receiver operating characteristic curve analysis was performed to identify an exploratory, data-derived EMR cutoff, which was internally validated using bootstrap resampling. A higher EMR was associated with high-grade tumors in both grading systems and remained independently associated with tumor grade after adjustment for confounding variables. An exploratory EMR cutoff value of 0.38 showed good discriminatory ability for distinguishing low- from high-grade tumors according to Kiupel grading and showed stable overall discrimination on internal bootstrap validation, although the exact threshold remained imprecisely estimated. In contrast, peripheral blood eosinophil counts were not significantly related to tumor grade, and most systemic inflammatory markers showed no significant association with tumor grade. These findings suggest that the local eosinophilic component of the tumor microenvironment, assessed through the EMR, may provide complementary information for the histological characterization of canine MCTs. Larger multicenter studies are needed to validate the proposed EMR cutoff and clarify its prognostic and biological relevance.",
-      "categories": [
-        "oncology"
-      ]
-    },
-    {
       "pmid": "42706634",
       "title": "Feline Mammary Carcinomas: Clinical Perspectives on Diagnosis, Staging, Treatment and Prognosis.",
       "journal": "Veterinary and Comparative Oncology",
@@ -1143,18 +1155,6 @@
       "abstract": "Canine cancer imposes substantial emotional, financial and decisional burden on owners navigating complex referral pathways and treatment options. Understanding how owners experience and interpret these pathways is essential to improving care delivery. We conducted a retrospective social media listening study using Pulsar Platform to retrieve public Anglophone posts relating to canine cancer across multiple platforms. After cleaning, de-duplication and zero-shot large language model relevance filtering (accuracy 88%-99%, F1 93%-98%, with precision up to 99% on Reddit), 11&#x2009;878 posts were analyzed (of those that could be geolocated, most originated from the USA). Sentiment and emotion classification, thematic extraction and non-negative matrix factorization topic modelling were applied. Pre-specified subsets examined cost-focused (n&#x2009;=&#x2009;2008), referral-focused (n&#x2009;=&#x2009;341) and steroid-focused (n&#x2009;=&#x2009;438) discourse. Overall, negative sentiment predominated (66%), with sadness the most frequent emotion (64%). Across platforms, quality of life (QoL) functioned as the primary decision-making framework, operationalized through appetite, mobility, comfort, engagement and \"good days\". Referral narratives highlighted delays, diagnostic sequencing uncertainty, travel burden and perceived gatekeeping within referral pathways. Financial constraint frequently shaped treatment feasibility, influencing decisions regarding chemotherapy, surgery, steroid-only palliation and euthanasia. Steroids were often described as a palliative bridge or cost-constrained alternative when advanced oncology care was inaccessible. General practise (GP) veterinarians were consistently referenced as trusted information anchors, influencing referral uptake and treatment trajectories. Topic modelling suggests a cancer-care pathway experienced as structurally constrained despite strong owner willingness to pursue treatment. QoL consistently supersedes cure as the dominant evaluative metric. Earlier cost transparency, clearer shared-care communication and strengthened GP-oncologist coordination may reduce decisional distress and help mitigate avoidable barriers to specialist care.",
       "categories": [
         "oncology",
-        "surgery"
-      ]
-    },
-    {
-      "pmid": "42699351",
-      "title": "Efficacy and safety of a fixed-dose oral tramadol-dipyrone combination for postoperative analgesia in dogs undergoing ovariohysterectomy and unilateral mastectomy: a randomized clinical trial.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Mastrocinque S, Yazbek KVB, Rossetti RB, Gomes LD, Dos Santos Macedo J, Brito AC, Barreto &#xc9;V, Fantoni DT",
-      "date": "2026 09 05",
-      "dateObject": "2026 09 05",
-      "abstract": "To evaluate the analgesic efficacy and safety of an oral tramadol-dipyrone combination (Sindolor &#xae; ) compared with tramadol or dipyrone alone in dogs undergoing ovariohysterectomy and unilateral mastectomy. Thirty client-owned female dogs undergoing elective ovariohysterectomy and unilateral mastectomy were randomly assigned to three treatment groups (n&#x202f;=&#x202f;10/group): tramadol-dipyrone combination (GTD), tramadol alone (GT), or dipyrone alone (GD). At the end of surgery, all dogs received meloxicam and the first intravenous dose of the assigned treatment. Oral treatment began approximately 8&#x202f;h later and continued every 8&#x202f;h for 5&#x202f;days. Postoperative pain was assessed using the Glasgow Composite Measure Pain Scale-Short Form (GCMPS-SF), a dynamic interactive visual analog scale (DIVAS), and serum cortisol concentrations. Rescue analgesia with intravenous morphine was administered when predefined thresholds were reached. Pain scores decreased significantly over time in all groups ( p &#x202f;<&#x202f;0.01). Despite concurrent meloxicam administration, dogs receiving dipyrone alone showed higher GCMPS-SF scores than those treated with the tramadol-dipyrone combination at D&#x202f;+&#x202f;1 afternoon ( p &#x202f;<&#x202f;0.01). Pain incidence analysis demonstrated a higher proportion of pain-free dogs in the combination group during the early postoperative period. Overall rescue analgesia frequency did not differ significantly among groups; however, after initiation of oral treatment, rescue analgesia was required in two dogs from both GT and GD, whereas no dog in GTD required additional analgesia. Cortisol concentrations remained within the reference range in GTD, whereas transient increases above the reference interval were observed in GT and GD. No clinically relevant adverse effects were observed. The tramadol-dipyrone combination improved early postoperative pain control in dogs undergoing ovariohysterectomy and unilateral mastectomy while maintaining favorable tolerability. These findings support its clinical use as part of a multimodal postoperative analgesic protocol, particularly during the early postoperative period.",
-      "categories": [
         "surgery"
       ]
     },

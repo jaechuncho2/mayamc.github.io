@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T23:13:11.540Z",
+  "updated_at": "2026-09-20T23:18:05.200Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -5487,6 +5487,46 @@
       "title": "Effects of recumbency and tube current on image quality of canine elbow computed tomography.",
       "journal": "Frontiers in Veterinary Science",
       "generated_at": "2026-09-19T23:08:24.859Z",
+      "model": "gpt-5-mini"
+    },
+    "42761122": {
+      "brief_summary": "포르투갈의 진단검사실에 2020–2023년 제출된 219개의 포르말린 고정 파라핀포매(fixed paraffin-embedded) 고양이 편평세포암(SCC)을 대상으로 Leishmania spp. 존재를 분자적으로 조사한 연구로, SSU rDNA 기반의 속 특이 nested PCR에서 3/219(1.4%, 95% CI: 0.5–3.9%)가 양성으로 확인되었다. 추가 유전자(cytB, g6pdh, hsp70, ITS rDNA) 분석에서 한 증례의 hsp70는 L. infantum과 군집했고 cytB는 L. donovani 복합군에 속했으며, 동일 병변의 염증 세포 내에서 아마스티고트 유사 구조도 관찰되었다. 임상적으로는 풍토지역에서 SCC로 조직학적 확진을 받더라도 임상·역학적 의심이 남아있다면 동시 Leishmania 감염 검사를 고려해야 함을 시사한다.",
+      "detailed_summary": "본 연구는 후향적 횡단 연구로 포르투갈의 수의진단검사실에 제출된 219개의 고양이 SCC FFPE(포르말린 고정 파라핀포매) 시료(2020–2023)를 대상으로 수행되었다. 시료들은 Leishmania 속 특이 nested PCR(표적: SSU rDNA)로 선별검사되었고, PCR 양성 사례는 추가로 cytB, g6pdh, hsp70, ITS rDNA 등 네 개의 유전자좌에서 분자형 판별을 시도하며 조직병리 재검토가 이루어졌다. 결과 SSU rDNA가 3/219(1.4%, 95% CI: 0.5–3.9%)에서 검출되었고 양성 병변은 귓바퀴(pinna), 코 평면(nasal planum), 눈꺼풀(eyelid)의 SCC에 해당했다. 분자적 특성화는 한 건(비강 평면 SCC)에서만 가능했으며, 해당 병변의 hsp70 서열은 L. infantum 참조서열과 군집했고 cytB는 L. donovani 복합군에 포함되었으나 종 수준 판별은 불확실했다. 동일 병변에서는 종양 관련 염증성 침윤 내 대식세포 안에서 아마스티고트 유사 구조가 관찰되었다. 저자들은 Leishmania DNA가 소수의 SCC에서만 검출되어 감염과 종양 발생 사이의 인과관계를 지지하지 않으며, 특히 분자형 판별이 한 건에서만 가능했다는 점 등으로 인해 연관성 입증에 제한이 있음을 강조하고, 풍토지역에서는 조직병리학적 SCC 확진에도 불구하고 임상·역학적 의심이 남아있다면 동시 감염 검사를 계속 고려할 것을 권고한다.",
+      "title": "Molecular detection of Leishmania spp. in feline squamous cell carcinoma in Portugal.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-09-20T23:17:44.908Z",
+      "model": "gpt-5-mini"
+    },
+    "42761127": {
+      "brief_summary": "이 연구는 사람 및 개의 신세뇨관 상피(근위세뇨관) 1차 세포를 이용한 in vitro 모델에서 Transforming Growth Factor-β (TGF-β)의 세 가지 아이소폼(TGF-β1, -β2, -β3)이 유발하는 SMAD3 신호 및 섬유화 표지자 유도를 조사하고, 개 전용 항-TGF-β 단클론항체인 cirevetmab의 중화 효과를 평가했다. 결과는 cirevetmab가 TGF-β1 유도 SMAD3 인산화와 섬유화 표지자의 변화를 강하게 중화했으며, TGF-β3에 대해서는 SMAD3 인산화만 부분적으로 억제했지만 섬유화 표지자에는 유의한 영향이 없었고, TGF-β2 활동에는 중화 효과가 없었다. 임상적 의미는 cirevetmab가 개의 만성 신장병(CKD) 관련 섬유화 표적치료제로서 전임상 in vitro 수준에서 TGF-β1 중심의 항섬유화 효과를 보였으나, 이는 임상 효과를 직접 증명하지는 못한다는 점이다.",
+      "detailed_summary": "연구 설계는 사람 및 개의 신세뇨관 근위세포(primary renal proximal tubular epithelial cells)를 이용한 in vitro 실험으로, 세 가지 TGF-β 아이소폼이 canonical TGF-β 경로(주로 SMAD3 인산화 및 핵 이동)와 α-smooth muscle actin(α-SMA) 등 섬유화 표지자를 유도하는지를 확인했다. 모든 TGF-β 아이소폼이 SMAD3 인산화와 핵 이동, α-SMA 유도를 일으켰다. cirevetmab 처리 결과 TGF-β1에 대해서는 SMAD3 인산화와 섬유화 표지자의 변화를 강하게 중화했다. TGF-β3에 대해서는 SMAD3 인산화가 일부 억제되었으나 섬유화 표지자에는 유의한 변화가 관찰되지 않았다. TGF-β2 유도 활성에 대해서는 cirevetmab의 중화 효과가 관찰되지 않았다. 결론적으로 cirevetmab는 in vitro의 신세뇨관 세포에서 주로 TGF-β1을 선택적으로 중화하여 항섬유화 효과를 보였으나, 이 결과는 in vitro 전임상 결과로서 실제 개의 CKD에 대한 임상적 효능·안전성을 직접적으로 증명하지 못한다는 중요한 제한점이 있다.",
+      "title": "Cirevetmab, a novel canine anti-TGF&#x3b2; monoclonal antibody, exerts antifibrotic effects on renal cells in vitro .",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-09-20T23:17:24.122Z",
+      "model": "gpt-5-mini"
+    },
+    "42761244": {
+      "brief_summary": "이 파일럿 연구는 반려묘 35마리를 대상으로 정맥내(IV) 자궁유래 중간엽 줄기세포(UMSCs)의 안전성과 3개월 효능을 무작위·맹검·위약대조로 평가했다. 5M 및 20M UMSC 투여군은 소유자 평가(CSOM, OOA)에서 위약보다 높은 치료 성공률(예: CSOM·OOA: 5M 78%·20M 83% vs 위약 36.4%)을 보였고 수의사 평가에서도 개선 경향을 보였다. 대부분 내약성은 양호했으나 20M 군에서 더 많은 일시적 이상반응(구토·무기력 등)이 보고되어 추가 연구가 필요하다.",
+      "detailed_summary": "연구는 6개 클리닉에서 진행된 무작위·맹검·위약대조 파일럿으로, 반려묘 35마리를 14일 간격으로 두 차례 정맥주입(IV)한 후 5백만(5M) UMSCs, 2천만(20M) UMSCs 또는 식염수 위약군에 무작위 배정했다. 평가 변수는 클라이언트 특정 결과척도(CSOM), 소유자 전반 평가(OOA), 수의사 전반 평가(VOA), 수의사 통증 평가(VPA)로서 0, 14, 30, 60, 90일에 기록되었다. 90일 시점의 미리 정한 치료 성공률은 CSOM·OOA에서 5M군 7/9(78%), 20M군 10/12(83%), 위약군 4/11(36.4%)였고, VOA는 5M 4/8(50%), 20M 8/12(67%), 위약 2/10(20%), VPA는 5M 6/8(75%), 20M 10/12(83%), 위약 5/11(45%)이었다. 치료 관련 이상반응은 5M군 1/10(10%), 20M군 5/13(38%), 식염수군 2/12(16.7%)에서 관찰되었으며, 첫 24시간 내 주로 일시적 구토·메스꺼움, 쇠약·무기력, 타액 과다, 빈호흡, 입냄새 등이 보고되었다. 저자들은 IV UMSCs 투여가 전반적으로 내약성이 양호했고 두 용량 모두 소유자 및 수의사 평가에서 3개월까지 개선을 보였다고 결론지었으며, IV MSC 치료가 고양이 골관절염(OA)에 대해 추가 탐색 가치가 있다고 제시했다.",
+      "title": "Pilot study demonstrating safety and efficacy of intravenous allogeneic uterine-derived mesenchymal stromal cell therapy in cats with naturally occurring osteoarthritis.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-09-20T23:17:13.057Z",
+      "model": "gpt-5-mini"
+    },
+    "42761832": {
+      "brief_summary": "본 연구는 네덜란드의 9개 혈통견에서 원인미상의 간질(idiopathic epilepsy, IE 및 epilepsy of unknown cause, EUC)의 표현형, 삶의 질 및 유병률을 온라인 설문과 번식단체 자료·연구진 사례를 통해 조사했다. 품종별 추정 유병률은 Wetterhoun 2.8%, Dutch Partridge dog 2.63%, Dutch Smoushound 2.22% 등으로 품종 간 차이를 보였고 전반적으로 일반화 강직간대 발작(GTCS)이 가장 흔했으며 군발발작(cluster seizures, CS)과 지속발작(status epilepticus, SE)도 빈번했다. 전체 발작견의 약 78%가 항발작제(anti-seizure medication, ASM)를 투여받았고 이들 중 70%에서 부작용이 보고되었으며, 약물로는 phenobarbital(PB)이 가장 많이 사용되었다. 번식 조언을 통한 관리가 일부 품종에서 발병 빈도 감소에 기여한 것으로 나타났다.",
+      "detailed_summary": "연구 설계는 온라인 설문조사를 통한 표현형 자료 수집과 번식단체 자료 및 연구진이 관찰한 추가 사례를 결합한 방식이었다. 조사 대상은 Dutch Partridge dog(IE/EUC 유병률 2.63%), Dutch Shepherd 단모 0.72%/장모 0.42%/거친모 1.21%(세 변이 포함), Dutch Smoushound 2.22%, Kooiker dog 0.4%, Markiesje 0.84%, Saarloos Wolfdog 1.9%, Schapendoes 0.23%, Stabyhoun 1.5%, Wetterhoun 2.8%로 품종별 유병률을 제시했다. 표현형 면에서는 GTCS가 가장 흔했고 CS와 SE도 많이 관찰되었으며 발작 전·후 증상은 전체 발작견의 약 절반에서 관찰되었다. 약 78%의 환견이 ASM을 투여받았고, 투여받은 개의 약 70%에서 부작용이 보고되었으며 Wetterhoun은 다른 품종보다 ASM 필요도가 낮아 50% 미만만이 ASM을 필요로 했다. 전체적으로 PB가 가장 흔히 사용된 항발작제였다. 번식단체들은 모두 번식 조언을 활용하고 있었고, Dutch Shepherd(단모), Kooiker dog, Smoushound, Saarloos Wolfdog 등에서는 시간이 지남에 따라 빈도가 감소한 경향을 보였다. 초록에서는 방법론적 한계나 표본 수 등의 구체적 제한점은 명시되어 있지 않다.",
+      "title": "Phenotypic characterisation, quality of life and prevalence of idiopathic epilepsy and epilepsy of unknown cause in the nine Dutch dog breeds.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-09-20T23:18:05.188Z",
+      "model": "gpt-5-mini"
+    },
+    "42762832": {
+      "brief_summary": "2020년 1월부터 2024년 12월까지 전원 병원에서 난소자궁적출술을 받은 자궁농양(pyometra) 개 278마리를 후향적으로 분석해 배양 결과와 항균제 감수성을 조사한 연구이다. Escherichia coli가 전체 분리균의 73.1%로 가장 흔했고, CLSI VET01S 판정 기준을 적용했을 때 E. coli의 아목시실린-클라불란산(amoxicillin-clavulanic acid) 감수성은 30.3%에 불과했으며 엔로플록사신(enrofloxacin)은 96.9%였다. CLSI 기준판이 VET01S 판 4에서 판 7로 바뀌며 대부분의 항균제가 감수성 재분류되어 아목시실린-클라불란산은 46.9%p, 엔로플록사신은 3.1%p 감소하는 등 감수성 분류가 전반적으로 낮아졌다. 임상적으로는 아목시실린-클라불란산이 자주 처방됐으나 제한된 실험실 감수성을 고려해 항균제 선택 시 항생제 관리 원칙에 따라 신중히 결정해야 함을 시사한다.",
+      "detailed_summary": "후향적 관찰 연구로, 2020년 1월~2024년 12월 사이 전원 병원에서 난소자궁적출술을 받고 자궁액 배양 양성 또는 조직병리에서 pyometra 소견이 확인된 개 278마리를 포함했다. 수집한 변수는 내원 시 증상, 혈액학·생화학 이상, 호기성·혐기성 배양 결과, 항균제 감수성 결과 및 수술 전후 투약 내역 등이다. 호중구증가증(neutrophilia)은 74.2%에서 관찰되었고, 단일 균 분리례가 88.8%, 다균종(다중감염)은 10.4%였다. Escherichia coli가 전체 분리균의 73.1%로 가장 흔했으며, 수술 후 처방은 아목시실린-클라불란산이 77.6%, 엔로플록사신이 51.1%였다. CLSI VET01S 판 4 기준으로는 E. coli의 아목시실린-클라불란산 감수성이 30.3%, 엔로플록사신이 96.9%였으나, 동일한 최소억제농도(MIC) 데이터에 대해 CLSI VET01S 판 7로 재분류하자 10개 평가 항목 중 9개에서 낮은 감수성으로 재분류되어 아목시실린-클라불란산은 46.9%p, 엔로플록사신은 3.1%p 감소했다. 결론적으로 아목시실린-클라불란산이 자주 처방되었음에도 E. coli에 대한 감수성은 제한적이었고, 최신 CLSI 기준 적용으로 감수성 분류가 크게 바뀌므로 지역별 항생제 감수성표(antibiogram)를 참고하고 항생제 관리 원칙에 따라 경험적 항생제 선택을 신중히 해야 한다. 참고로 초록에는 연구의 추가적인 제한점이 구체적으로 명시되어 있지 않다.",
+      "title": "Escherichia coli isolated from canine pyometra show decreased susceptibility to amoxicillin-clavulanic acid in dogs.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-09-20T23:16:48.154Z",
       "model": "gpt-5-mini"
     }
   }
