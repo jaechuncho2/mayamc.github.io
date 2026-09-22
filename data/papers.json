@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-09-22T00:08:22.884Z",
+  "updated_at": "2026-09-22T23:36:31.846Z",
   "papers": [
+    {
+      "pmid": "42770278",
+      "title": "Evaluation of a canine hemoglobin A1c point-of-care assay: analytical validation, clinical utility, and establishing a population-based reference interval.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Adam D, Noto N, Rosser MF, Connolly S, Gal A",
+      "date": "2026 09 22",
+      "dateObject": "2026 09 22",
+      "abstract": "Hemoglobin A1c (HbA1c) assay validation is essential for establishing analytical reliability, evaluating discrimination between diabetic and non-diabetic (NDM) dogs, and establishing reference intervals. Validate a canine HbA1c point-of-care analyzer (Vet Chroma&#x2122;), evaluate its diagnostic performance, and establish a reference interval in healthy dogs. Fifty-one diabetic, 44 NDM controls, and 42 healthy client-owned dogs. Prospective validation of precision, linearity, interference, and storage stability. Method comparison used an immunoturbidimetric comparator assay (Olympus DxC 700&#xa0;AU). Diagnostic performance was evaluated via receiver operating characteristic (ROC) analysis, likelihood ratios, and odds ratios. Average intra- and inter-assay coefficients of variation were 3.92% and 8.47%. Linearity over the clinical range (0.86%-6.27% HbA1c%) was strong (R2&#xa0;=&#xa0;0.973) with minor constant bias. HbA1c remained stable for 5&#xa0;days at 4&#xa0;&#xb0;C and up to 3&#xa0;months at both -20 and -80&#xa0;&#xb0;C, but not reliably at 6&#xa0;months. Lipemia and icterus exhibited variable interfering effects. Method comparison indicated non-interchangeability with the comparator assay. Diabetic dogs had significantly higher HbA1c than NDM (mean 5.10% vs 1.58%). ROC analysis yielded an AUC of 0.969, with a cutoff >&#x2009;3.22% achieving 90.20% sensitivity and 100% specificity. The positive likelihood ratio was not estimable, and the odds ratio was 22.90 (95% CI, 3.60-146.90). Healthy young dogs' reference interval was 1.25% (90% CI, 1.19-1.59) to 2.75% (90% CI, 2.56-2.90). The Vet Chroma&#x2122; provides reliable HbA1c measurements in canine whole blood and effectively discriminates diabetic from non-diabetic dogs. Results should be interpreted alongside clinical and clinicopathologic findings. Hemoglobin A1c (HbA1c) reflects average blood glucose over several weeks and might help veterinarians diagnose and monitor diabetes in dogs. This study evaluated the Vet Chroma&#x2122;, a point-of-care analyzer designed to measure HbA1c in canine whole blood. Samples were obtained from 51 dogs with diabetes, 44 dogs without diabetes, and 42 healthy, young, client-owned dogs. We assessed the analyzer&#x2019;s precision, measurement range, susceptibility to interference, sample-storage requirements, and ability to distinguish dogs with diabetes from dogs without diabetes. Results were also compared with those from a laboratory analyzer. The Vet Chroma&#x2122; produced acceptably precise results and performed consistently across the clinically relevant measurement range. Refrigerated samples remained stable for up to 5&#xa0;days, and frozen samples remained stable for up to 3&#xa0;months, but storage for 6&#xa0;months was unreliable. High concentrations of fat or bilirubin in blood variably affected results. Measurements from the Vet Chroma&#x2122; and laboratory analyzer were not interchangeable. Dogs with diabetes had substantially higher HbA1c values than dogs without diabetes. A Vet Chroma&#x2122; HbA1c value above 3.22% distinguished the selected diabetic and non-diabetic groups with high accuracy. In healthy young dogs, the reference interval was 1.25%&#x2013;2.75%. The Vet Chroma&#x2122; might provide veterinarians with a rapid, in-clinic measure of HbA1c in dogs. Results should be interpreted together with clinical signs and other laboratory findings.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42765737",
+      "title": "Response to: citation clarification regarding feline eltrombopag in the ACVIM consensus statement on the treatment of immune thrombocytopenia in dogs and cats.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "LeVine DN, Goggs R, Kohn B, Mackin AJ, Kidd L, Garden OA, Brooks MB, Eldermire ERB, Abrams-Ogg A, Appleman EH, Archer TM, Bianco D, Blois SL, Brainard BM, Callan MB, Fellman CL, Haines JM, Hale AS, Huang AA, Lucy JM, O'Marra SK, Rozanski EA, Thomason JM, Walton JE, Wilson HE",
+      "date": "2026 09 22",
+      "dateObject": "2026 09 22",
+      "abstract": "",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42768427",
+      "title": "EXPRESS: EFFECTS OF INTRAMUSCULAR AND INTRANASAL ADMINISTRATION OF MEDETOMIDINE ON SEDATION AND SOME CARDIOPULMONARY VARIABLES IN HEALTHY CATS.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "authors": "Sarra Ferrer M, Faucher S, Didier C, Giry M, Schauvliege S, Verwaerde P, Jourdan G",
+      "date": "2026 09 22",
+      "dateObject": "2026 09 22",
+      "abstract": "ObjectivesTo compare the sedative and cardiopulmonary effects following either intranasal (IN) or intramuscular (IM) administration of medetomidine in healthy male cats undergoing neuter procedure.MethodsA total of 26 client-owned healthy cats, aged 7 - 60 months, weighing 4 [3-6] kg (median [min-max]) presented for neutering were included in this blinded, randomized, prospective clinical study. The cats were randomly assigned in two groups to receive medetomidine (40 &#xb5;g/kg) by IN (16 cats) or IM (10 cats) routes. Sedation was scored during premedication (just before and 10, 15, 20 minutes after medetomidine administration) and during recovery (at the moment of orotracheal extubation, 1 and 2 hours after) with a simple descriptive scale (SDSS) ranging from 0 (no sedation) to 3 (maximum sedation) and a composite scale (CSS) ranging from 0 (no sedation) to 19 (maximum sedation). Heart rate (HR), respiratory frequency (RR), non-invasive arterial blood pressure (NIBP) and haemoglobin oxygen saturation (SpO2) were recorded at the same time points as sedation was assessed.ResultsSedation scores significantly increased for both groups at all time points after medetomidine administration. However, cats in the IM group achieved a higher maximal sedation score and earlier than cats in the IN group (CSSmax 16 [13-17] at TCSSmax 18 [10-20] min versus 14 [9-17] at 20 [15-20] min respectively). HR significantly decreased in both groups after medetomidine administration, but decrease was less pronounced and shorter in IN group. Regarding adverse effects, sneezing, swallowing and vomiting were significantly increased immediately after IN administration.Conclusions and relevanceIN medetomidine (40 &#xb5;g/kg) can be an alternative, non-invasive route to IM administration for premedicating healthy cats before general anaesthesia for neutering. IN medetomidine premedication produced sufficient sedation with a slower onset and shorter duration but less cardiovascular effects compared to IM in cats.",
+      "categories": [
+        "cardiology",
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42766861",
+      "title": "Plasma proteomic profiling in dogs with pheochromocytoma.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "van den Berg MF, Rodr&#xed;guez-Rojas A, Doulidis PG, Pisoni L, Burgener IA, Galac S",
+      "date": "2026 09 21",
+      "dateObject": "2026 09 21",
+      "abstract": "Pheochromocytomas (PCCs) in dogs are challenging to diagnose. Plasma proteomics offers a minimally invasive approach to identify circulating biomarkers and disease-relevant pathways. To compare the plasma proteome of dogs with PCC and controls to (1) identify differentially abundant proteins, (2) characterize altered pathways, and (3) nominate candidate circulating biomarkers and therapeutic targets. Plasma from 10 client-owned PCC dogs and 10 healthy controls. Multicenter, retrospective, observational, exploratory study using label-free liquid chromatography-mass spectrometry. Primary outcomes were the identification of differentially abundant proteins and characterization of altered pathways and protein functions. Principal component analysis demonstrated clear separation between PCC and control dogs. Of 261 reliably quantified proteins, 51 were differentially abundant (false discovery rate-adjusted P&#xa0;<&#xa0;.05). Of these, 33 had a log2 fold change of >1 or&#xa0;<&#xa0;-1, with 15 showing higher and 18 lower plasma abundance in PCC. Compared with controls, PCC dogs showed increased abundance of proteins linked to cell adhesion/migration and metastatic potential, hemostasis, and regulation of apoptotic signaling, alongside alterations in oxidative stress and metabolic processes. Several proteins with higher abundance, including CD44, peroxiredoxin-2, and peptidyl-prolyl cis-trans isomerase, emerged as promising candidates for therapeutic exploration. Dogs with PCC exhibit a distinct circulating protein signature vs healthy controls, providing clues to PCC pathogenesis and nominating proteins as diagnostic biomarker candidates and potential therapeutic targets. This study investigated proteins circulating in the blood of dogs with pheochromocytoma, a tumor arising from the inner part of the adrenal gland, and compared them with those of healthy dogs. Dogs with pheochromocytoma showed a distinct pattern of circulating proteins, including changes in proteins involved in cell movement and tumor spread, blood clotting, cell death, oxidative stress, and metabolism. Several of these proteins could be of interest as future markers for diagnosis or as targets for treatment.",
+      "categories": [
+        "internalMedicine",
+        "oncology"
+      ]
+    },
     {
       "pmid": "42765741",
       "title": "Electroencephalography-functional magnetic resonance imaging using a familial temporal lobe epilepsy model in cats: an exploratory methodological pilot study.",
@@ -27,15 +77,28 @@
       ]
     },
     {
-      "pmid": "42765737",
-      "title": "Response to: citation clarification regarding feline eltrombopag in the ACVIM consensus statement on the treatment of immune thrombocytopenia in dogs and cats.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "LeVine DN, Goggs R, Kohn B, Mackin AJ, Kidd L, Garden OA, Brooks MB, Eldermire ERB, Abrams-Ogg A, Appleman EH, Archer TM, Bianco D, Blois SL, Brainard BM, Callan MB, Fellman CL, Haines JM, Hale AS, Huang AA, Lucy JM, O'Marra SK, Rozanski EA, Thomason JM, Walton JE, Wilson HE",
+      "pmid": "42767337",
+      "title": "De Ritis Ratio and L-FABP as Supportive Biomarkers of Hepatic Involvement in Cats with Effusive FIP.",
+      "journal": "Topics in Companion Animal Medicine",
+      "authors": "Gulersoy E, Erturk A, K&#x131;smet E",
       "date": "2026 09 21",
       "dateObject": "2026 09 21",
-      "abstract": "",
+      "abstract": "Feline infectious peritonitis (FIP), caused by feline infectious peritonitis virus (FIPV), is a systemic disease affecting multiple organs. Although routine biochemical parameters are not diagnostic, they may aid in clinical suspicion. The aim of this study was to investigate the clinical utility of the De Ritis ratio (AST/ALT) and liver-type fatty acid-binding protein (L-FABP) as candidate biomarkers of liver-associated biochemical alterations in cats with effusive FIP. A total of 47 client-owned cats naturally infected with feline coronavirus (FCoV) were included: 37 cats with suspected effusive FIP (thoracic effusion, n&#x202f;=&#x202f;14; abdominal effusion, n&#x202f;=&#x202f;23) and 10 FCoV-positive asymptomatic cats as controls. FIPV infection was confirmed by RT-PCR of thoracic or abdominal effusion samples in all cats with suspected effusive FIP. Control cats were clinically healthy, FCoV-positive by fecal RT-PCR, and had no evidence of FIPV infection. The De Ritis ratio was significantly higher in cats with abdominal effusive FIP than in asymptomatic FCoV-positive controls and demonstrated excellent discriminatory performance for identifying abdominal effusive FIP (AUC&#x202f;=&#x202f;0.843) and effusive FIP overall (AUC&#x202f;=&#x202f;0.808). Although serum L-FABP concentrations did not differ significantly between groups, ROC analysis demonstrated acceptable-to-excellent discriminatory performance for cats with effusive FIP (AUC&#x202f;=&#x202f;0.730-0.854), suggesting complementary rather than standalone clinical utility. These findings suggest that the De Ritis ratio may represent a supportive indicator of liver-associated biochemical alterations in cats with effusive FIP, whereas the clinical utility of L-FABP remains preliminary and warrants further clinical validation.",
       "categories": [
         "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42767796",
+      "title": "Retrospective Comparison of Gastrointestinal Toxicity in Dogs With Lymphoma Receiving Doxorubicin With or Without Prophylactic Trimethoprim-Sulfadiazine.",
+      "journal": "Veterinary and Comparative Oncology",
+      "authors": "Madden EJ, Chan C",
+      "date": "2026 09 21",
+      "dateObject": "2026 09 21",
+      "abstract": "Doxorubicin is commonly used in the treatment of canine lymphoma and other malignancies but is associated with adverse effects, including gastrointestinal toxicity and myelotoxicosis. Previous veterinary studies have suggested that prophylactic antimicrobial administration may reduce chemotherapy-associated toxicity and hospitalisation. However, the potential benefits of prophylactic antimicrobials must be balanced against risks, including antimicrobial resistance and dysbiosis. This retrospective study evaluated the effect of prophylactic trimethoprim-sulfadiazine administration on gastrointestinal and haematologic adverse events in dogs with high-grade multicentric lymphoma receiving doxorubicin for the first time. Medical records from three referral hospitals in Queensland, Australia were reviewed for dogs treated between January 2008 and November 2025. Adverse events occurring within 14&#x2009;days of doxorubicin administration were retrospectively graded using the Veterinary Cooperative Oncology Group Common Terminology Criteria for Adverse Events. Sixty dogs met the inclusion criteria, including 21 dogs receiving prophylactic TMS and 39 receiving no prophylactic antibiotics. Gastrointestinal toxicity occurred in 14/21 (66.7%) dogs receiving TMS compared with 13/39 (33.3%) dogs receiving no antibiotics (p&#x2009;=&#x2009;0.013). After controlling for lymphoma stage, prophylactic TMS administration was associated with a 3.69-fold increase in the odds of GI toxicity (95% CI 1.13-12.11, p&#x2009;=&#x2009;0.031). No significant differences were identified between groups in severity of GI toxicity, haematologic toxicity, neutropenia or hospitalisation rates. Prophylactic TMS administration during doxorubicin chemotherapy was associated with increased GI toxicity in this cohort, contrasting with previous reports and supporting the need for prospective evaluation of prophylactic antimicrobial use in contemporary geographically distinct canine chemotherapy populations.",
+      "categories": [
+        "internalMedicine",
+        "oncology"
       ]
     },
     {
@@ -2096,32 +2159,6 @@
       ]
     },
     {
-      "pmid": "42641070",
-      "title": "Serum peptidomic profiling identifies systemic JAK-STAT and PI3K-Akt pathway dysregulation in cats with chronic gingivostomatitis.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Ploypetch S, Pornthummawat A, Aruvornlop P, Roytrakul S, Jaresitthikunchai J, Phaonakrop N, Buamas S, Sukho P",
-      "date": "2026 08 25",
-      "dateObject": "2026 08 25",
-      "abstract": "Chronic gingivostomatitis in cats is a debilitating inflammatory disease marked by severe oral pain and systemic immune dysregulation. Although localized oral pathology is well-documented, the systemic peptidomic profile remains largely unclear. Characterize the serum peptidomic profiles of cats with feline chronic gingivostomatitis (FCGS) and identify systemic biomarkers and signaling hubs that drive disease pathogenesis and therapeutic interactions. Client-owned cats with clinically and histopathologically confirmed FCGS (n&#xa0;=&#xa0;34) and healthy controls (n&#xa0;=&#xa0;18). A case-control, cross-sectional study was conducted. All cats were screened for feline leukemia virus, feline immunodeficiency virus, and feline heartworm infections. Serum samples were analyzed using matrix-assisted laser desorption/ionization-time-of-flight mass spectrometry (MALDI-TOF MS) to produce peptide mass fingerprints. Detailed peptide identification was conducted using nanoscale liquid chromatography-tandem mass spectrometry (nano LC-MS/MS). Functional enrichment and protein-protein/chemical interaction networks were developed using ShinyGO and the Kyoto Encyclopedia of Genes and Genomes database. Both MALDI-TOF MS and nano LC-MS/MS identified distinct systemic protein signatures that distinguished FCGS from controls. Fifteen proteins showed significant changes, with 13 increased (including inflammatory markers such as interleukin (IL)-6 and interferon-&#x3b3;) and 2 decreased (gastrin, IL-18). Network analysis identified 8 key proteins (eg, p21(CDKN1A), CASP1, IL-6) that interact with FCGS drug treatments. These systemic changes focus on the Janus kinase-signal transducers and activators of transcription (JAK-STAT) and phosphatidylinositol 3-kinase (PI3K)/protein kinase B (AKT; PI3K-Akt) pathways, which are important therapeutic targets. Our study provides a molecular framework for FCGS. Whereas MALDI-TOF MS enables rapid systemic profiling, nano LC-MS/MS identifies key dysregulated pathways, specifically IL-6/JAK-STAT and PI3K-Akt. These findings offer potential therapeutic targets and a basis for monitoring molecular pathology in affected cats.",
-      "categories": [
-        "internalMedicine",
-        "oncology"
-      ]
-    },
-    {
-      "pmid": "42636475",
-      "title": "Prognosis and associated risk factors after conservative management of dogs with liver tumors.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Coffey SR, Weisse CWC, Ferrari JT, DeJesus AA, King AP, Chua JA",
-      "date": "2026 08 24",
-      "dateObject": "2026 08 24",
-      "abstract": "Information is limited regarding prognosis for conservatively managed hepatic tumors in dogs. Report prognosis and identify prognostic factors in dogs with conservatively managed hepatic tumors. Client-owned dogs (n&#xa0;=&#xa0;49) with hepatic tumors characterized by computed tomography (CT) without directed treatment that had died or were euthanized by the time of analysis. Retrospective, single institutional study utilizing the Schwarzman Animal Medical Center medical record system to identify all dogs from 2013 to 2023 that met the inclusion criteria. Data collected included signalment, presenting complaints, blood test results, diagnosis, tumor imaging characteristics, and date of death. Median survival time from date of diagnosis was 313&#xa0;days (range, 2-1308). Dogs with a presenting complaint of weight loss (P&#xa0;=&#xa0;.03) had a significantly shorter median survival time (128&#xa0;days) than those without weight loss (341&#xa0;days). Dogs presented with abdominal effusion (P&#xa0;=&#xa0;.03) had a significantly shorter median survival time (227&#xa0;days) than dogs without effusion (331.5&#xa0;days). Dogs with multiple hepatic masses (P&#xa0;=&#xa0;.004) had a significantly shorter median survival time (209.5&#xa0;days) than dogs with a solitary mass (346&#xa0;days). Higher aspartate aminotransferase (AST) activity and lower hematocrit (Hct) within 30&#xa0;days of CT were associated with shorter median survival times (P&#xa0;=&#xa0;.02 and P&#xa0;=&#xa0;.01, respectively). Tumor volume/body weight ratio was not significantly related to survival time (P&#xa0;=&#xa0;.8). Poor prognostic factors for dogs with hepatic tumors include weight loss, abdominal effusion, multiple hepatic masses, increased AST activity, and low Hct.",
-      "categories": [
-        "internalMedicine",
-        "oncology"
-      ]
-    },
-    {
       "pmid": "42633613",
       "title": "Dog Breeding in Italy: A Technical Overview of Husbandry and Reproductive Management.",
       "journal": "Veterinary Medicine and Science",
@@ -2575,20 +2612,6 @@
       ]
     },
     {
-      "pmid": "42002308",
-      "title": "Retrospective Analysis of Survival and Adverse Effects Associated With Stereotactic Body Radiation Therapy in 12 Dogs With Hepatocellular Carcinoma.",
-      "journal": "Veterinary and Comparative Oncology",
-      "authors": "Newberry VL, Boss MK, Leary D, Martin TW",
-      "date": "2026 08 10",
-      "dateObject": "2026 08 10",
-      "abstract": "This retrospective analysis evaluated 12 dogs with hepatocellular carcinoma (HCC) who received stereotactic body radiation therapy (SBRT). Dogs received between 6 and 25 Grey (Gy) per fraction for 1-5 fractions for a total dose of 13-30&#x2009;Gy. Eleven patients (92%) experienced acute adverse effects (AE), with the majority being VRTOG grade 2-3 stomach/small intestinal AE. Additionally, 70% of patients experienced late AE, with the majority being VRTOG grade 2 stomach/small intestinal AE. Liver-specific side effects were also observed following SBRT, including VCOG-CTCAE grade 4 hepatic encephalopathy and grade 5 liver failure. There was a statistically significant correlation between the gross tumour volume (GTV) and the overall survival time (OST; p&#x2009;=&#x2009;0.02) as well as a significant correlation between the percentage of normal liver affected by the mass and the severity of acute stomach/small intestinal AE (p&#x2009;=&#x2009;0.01). Statistically significant correlations were observed between the dose of radiation to the normal liver, starting with a threshold dose of 7&#x2009;Gy, and an increase of the liver enzyme ALT. Median survival time (MST) of the cohort was 301&#x2009;days. Dogs with >&#x2009;28.7% of the liver affected by the mass had a MST of 182&#x2009;days vs. 419&#x2009;days for dogs with <&#x2009;28.7% affected (p&#x2009;=&#x2009;0.009). This study suggests parameters for GTV, percentage of liver affected, and dose to normal liver could affect survival and the likelihood for adverse effects and liver enzyme elevation when treating with SBRT.",
-      "categories": [
-        "internalMedicine",
-        "oncology",
-        "neurology"
-      ]
-    },
-    {
       "pmid": "42563163",
       "title": "Longitudinal echocardiographic systolic changes in dogs receiving doxorubicin-based chemotherapy.",
       "journal": "BMC Veterinary Research",
@@ -2653,18 +2676,6 @@
       "date": "2026 08 04",
       "dateObject": "2026 08 04",
       "abstract": "A domestic longhair cat in Australia was referred to an ophthalmology service with the complaint of lens opacity. An incipient cataract was diagnosed in the right eye and an intumescent cataract with an equatorial lens capsule rupture in the left eye. The patient was being treated for diabetes mellitus, and previous concerns for the eyes had included conjunctivitis and left-sided periocular swelling and epiphora. Systemic work-up performed over the 7 months before ophthalmic referral included complete blood counts, biochemistry, serology (feline immunodeficiency virus, feline leukaemia virus, toxoplasmosis, cryptococcosis), thoracic radiographs, and ocular ultrasound and electroretinography performed before phacoemulsification. The patient did not have evidence of active uveitis at the initial ophthalmological examination, and historical serology excluded some common infectious causes of uveitis. The cataracts were treated successfully by phacoemulsification in both eyes, restoring vision. However, an intraocular lens was implanted only in the right eye, as the pre-existing lens capsule tear in the left eye precluded intraocular lens placement. Based on the medical history and clinical presentation, diabetes mellitus was suspected to be the cause of the cataracts. Intumescent cataracts are reported in humans and dogs but have rarely been reported in domestic cats. Nonetheless, the intumescent cataract in this patient had similar characteristics to those in diabetic canine cataracts.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42544949",
-      "title": "EXPRESS: Evaluation of the clinical course of immune-mediated polyneuropathy in cats following treatment with human intravenous immunoglobulins.",
-      "journal": "Journal of Feline Medicine and Surgery",
-      "authors": "Schmitz AK, Sablotni Aguilera AP, Buhmann G, van Renen J, Parzefall B, Matiasek K, Matiasek LA, Fischer A",
-      "date": "2026 08 03",
-      "dateObject": "2026 08 03",
-      "abstract": "Immune-mediated polyneuropathy (IMPN) manifests with generalized lower motor neuron (LMN) weakness and a remittent or relapsing clinical course. Evidence-based treatment recommendations for severely or chronically affected cats are limited. The objective of this study was to evaluate the clinical course and outcome of cats with IMPN following treatment with human intravenous immunoglobulins (hIVIg). Medical records from two veterinary referral hospitals were reviewed (2018-2025) for cats with IMPN treated with hIVIg. Cats were treated with 1-2 g/kg hIVIg divided over 2-4 days (0.5 g/kg/day).Clinical information, diagnostic findings, treatment details and short- and long-term follow-up were evaluated retrospectively. Follow-up information was obtained from medical records and owner communication. Minimum follow-up duration was 8 months (8-51 months; median 17 months).Clinical course (partial and complete recovery, relapses) was compared between cats with acute/recent onset (4 cats) or chronic presentation (5 cats). Eight of nine cats exhibited clinical improvement following hIVIg administration, achieving ambulatory status (walking >5 steps) within a median of 4 days (2-8 days). One cat failed to respond to hIVIg but improved after subsequent prednisolone therapy. For the overall cohort, the median time to complete recovery was 20 days, while the median time to partial recovery was 14 days. Relapses occurred in four cats, but weakness was less severe, and all cats recovered again. The remaining five cats remained relapse-free. Human IVIg was well tolerated in this small cohort, and rapid clinical improvement was observed in most treated cats. These findings suggest that hIVIg may be considered as a treatment option in selected cats with IMPN, including those with acute and chronic presentations. Larger prospective studies, including comparison with no treatment or corticosteroids, are warranted to further assess its efficacy.",
       "categories": [
         "internalMedicine"
       ]
@@ -2968,18 +2979,6 @@
       "abstract": "Canine parvovirus (CPV) remains one of the most severe and life-threatening infectious diseases affecting dogs globally, with disproportionately high mortality in puppies. Although CPV has been extensively studied in terms of prevalence and clinical presentation, evidence on survival patterns and prognostic factors in low-and middle-income country veterinary settings remains limited. This cohort study was undertaken at a Veterinary Teaching Hospital, Kumasi, Ghana. Diagnosis of CPV infection was based on clinical signs and confirmed by antigen detection using the CPV rapid immunoassay test kit. Only dogs that received treatment until recovery or death were included (n&#x2009;=&#x2009;205). Data on factors influencing prognosis, including demographic, vaccination, clinical, and management variables, were collected. Time-to-recovery was analysed using cumulative incidence functions with Gray's test and Fine-Gray competing-risk regression. Mortality was evaluated using Cox proportional hazards regression. Hazard ratios (HRs) and subdistribution hazard ratios (SHRs) were reported with 95% confidence intervals (CIs), with statistical significance set at p&#x2009;<&#x2009;0.05. Mortality was highest in treated puppies aged 13-24 weeks and &#x2264;&#x2009;12 weeks at 31.5% and 26.9% respectively, with dogs aged&#x2009;>&#x2009;24 weeks recording the least with 5.9%. Mortality rate decreased progressively with an increasing vaccination frequency, being lowest in dogs vaccinated thrice. Among CPV-positive dogs, local breeds demonstrated a higher recovery rate than foreign breeds (SHR 1.64, 95% CI: 1.07-2.51; p&#x2009;=&#x2009;0.022). Higher body weight was associated with a lower hazard of death (HR 0.86, 95% CI: 0.77-0.97; p&#x2009;=&#x2009;0.012), while CPV-positive dogs showed a longer time to recovery, with a more gradual recovery trajectory observed beyond Day 5. This study highlights the significant impact of CPV on survival outcomes among dogs in Ghana, particularly among younger and incompletely vaccinated populations. The findings demonstrate that certain demographic and clinical factors play critical roles in recovery and mortality outcomes. Notably, local breeds exhibited a higher rate of recovery compared to foreign breeds diagnosed with CPV. These findings emphasise the need for strengthened vaccination coverage, early case detection, and context-appropriate clinical management strategies to improve recovery and reduce CPV-related mortality.",
       "categories": [
         "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42061811",
-      "title": "Ultrasound-based aortic elasticity predicts systemic hypertension in dogs with mitral valve disease: A randomized clinical trial.",
-      "journal": "Topics in Companion Animal Medicine",
-      "authors": "Buritic&#xe1;-Gaviria E, Echeverry-Bonilla D, Naranjo-Medell&#xed;n M, Ruviano-Tuleski G, Serighelli-J&#xfa;nior G, Gon&#xe7;alves-Sousa M",
-      "date": "2026 07 15",
-      "dateObject": "2026 07 15",
-      "abstract": "This study aimed to evaluate whether abdominal aortic elasticity (AAE), a noninvasive ultrasonographic measurement, could assist in the clinical staging and blood pressure (BP) monitoring of dogs with myxomatous mitral valve disease (MMVD). A second aim was to determine an AAE cut-off predictive of systemic hypertension. Thirty-seven client-owned dogs (6.8 &#xb1; 3.9 kg; 10.7 &#xb1; 4.4 years) were enrolled in a prospective, randomized, blinded study and stratified into three groups based on the 2019 ACVIM consensus: healthy controls (G1, n = 8), asymptomatic MMVD stage B2 dogs (G2, n = 19), and symptomatic MMVD stage C dogs (G3, n = 10). Abdominal ultrasonography was used to calculate AAE, while systolic arterial pressure was measured using a validated oscillometric device. Comparative analysis of AAE values among groups revealed a progressive decline associated with disease severity, with mean AAE of 11.4 &#xb1; 5.3% in healthy controls, 8.4 &#xb1; 3.8% in stage B2 dogs, and 5.9 &#xb1; 3.1% in stage C dogs. The reduction in AAE was statistically significant between stage C and control groups (P < 0.05). A strong inverse correlation was observed between AAE and systolic pressure (r = -0.7352; p < 0.001), suggesting that reduced aortic compliance may reflect increased vascular resistance in the context of cardiac remodeling and hypertension. An AAE value &#x2264;6.1% predicted systemic hypertension with 80.0% sensitivity and 75.6% specificity. These findings indicate AAE is inversely correlated with systolic BP and may support hypertension screening in dogs with MMVD. Further studies are needed to confirm its diagnostic performance.",
-      "categories": [
-        "cardiology"
       ]
     },
     {

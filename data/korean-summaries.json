@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T00:08:50.105Z",
+  "updated_at": "2026-09-22T23:38:23.136Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -5543,6 +5543,46 @@
       "title": "Electroencephalography-functional magnetic resonance imaging using a familial temporal lobe epilepsy model in cats: an exploratory methodological pilot study.",
       "journal": "Journal of Veterinary Internal Medicine",
       "generated_at": "2026-09-22T00:08:37.699Z",
+      "model": "gpt-5-mini"
+    },
+    "42766861": {
+      "brief_summary": "다기관 후향성 탐색 연구로, 페오크로모사이토마(pheochromocytoma, PCC) 진단을 받은 개 10마리와 건강 대조군 10마리의 혈장 단백질체를 무표지(label-free) 액체크로마토그래피-질량분석(LC-MS)으로 비교했다. 총 261개 신뢰도로 정량된 단백질 중 51개가 유의하게 농도 차이를 보였고(P값 FDR 보정 < .05), 33개는 로그2 변화율이 >1 또는 <−1이었다(15개 증가, 18개 감소). 세포 부착/이동 및 전이 관련, 지혈(hemostasis), 세포사멸 조절, 산화스트레스 및 대사 과정과 관련된 단백질 변화가 관찰되었고 CD44, peroxiredoxin-2, peptidyl-prolyl cis-trans isomerase 등이 진단 표지자 또는 치료 표적으로 제시되었다, 이는 PCC의 병인 단서를 제공한다는 임상적 의미가 있다.",
+      "detailed_summary": "연구는 다기관 후향적 관찰 탐색 연구로, 클라이언트 소유의 페오크로모사이토마(PCC) 개 10마리와 건강 대조군 10마리의 혈장을 대상(총 표본수 20)으로 하였다. 분석은 무표지(label-free) 액체크로마토그래피-질량분석(LC-MS)을 사용했고, 주된 평가지표는 차등 풍부 단백질의 동정과 관련 경로의 특성화였다. 주성분분석(PCA)에서 PCC 군과 대조군은 명확히 분리되었고, 261개 단백질이 신뢰도로 정량되었다. 그중 51개 단백질이 FDR 보정된 P < .05로 유의하게 달랐으며, 33개는 로그2 변동폭이 >1 또는 <−1(증가 15개, 감소 18개)이었다. PCC 개에서는 세포 부착·이동 및 전이 가능성, 지혈, 세포사멸 신호 조절과 관련된 단백질의 증가 및 산화스트레스·대사과정의 변화가 관찰되었다. CD44, peroxiredoxin-2, peptidyl-prolyl cis-trans isomerase 등이 높은 농도로 확인되어 향후 진단 바이오마커나 치료 표적으로 후보로 제시되었다. 결론적으로 PCC 개는 건강 대조군과 구별되는 순환 단백질 서명을 보였으며, 본 연구는 병인 규명 단서 제공과 후보 표지자 지명에 기여하나 탐색적·후향적 설계임을 감안하여 추가 검증 연구가 필요하다.",
+      "title": "Plasma proteomic profiling in dogs with pheochromocytoma.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-09-22T23:37:36.131Z",
+      "model": "gpt-5-mini"
+    },
+    "42767337": {
+      "brief_summary": "본 연구는 자연 감염된 47마리의 고양이(의심 유출성 FIP 37마리: 흉강삼출 14, 복강삼출 23; 무증상 FCoV 양성 대조 10)를 대상으로 De Ritis 비율(AST/ALT)과 간형 지방산 결합단백(L-FABP)의 임상적 유용성을 평가했다. 결과는 복강 유출성 FIP 고양이에서 De Ritis 비율이 대조군보다 유의하게 높았고 복강 유출성 FIP 판별에 AUC=0.843, 전체 유출성 FIP에 AUC=0.808로 우수한 판별력을 보였다. 반면 혈청 L-FABP 농도는 집단 간 유의한 차이는 없었지만 ROC 분석에서 AUC 0.730–0.854로 보완적 지표로서 가능성을 보였으며, L-FABP의 임상적 유용성은 추가 검증이 필요하다.",
+      "detailed_summary": "연구는 자연 감염된 반려 고양이 47마리를 대상으로 한 관찰 연구로, 의심 유출성 FIP 37마리는 흉강 또는 복강 삼출물에서 FIPV를 RT-PCR로 확인했고 대조군 10마리는 대변 RT-PCR에서 FCoV 양성이었으나 임상적 FIP 증거는 없었다. 주요 평가 항목은 De Ritis 비율(AST/ALT)과 혈청 L-FABP 농도였으며, De Ritis 비율은 특히 복강 유출성 FIP에서 유의하게 상승했다. De Ritis 비율의 판별력은 복강 유출성 FIP에 대해 AUC=0.843, 전체 유출성 FIP에 대해 AUC=0.808로 보고되었다. L-FABP는 집단별 평균 차이는 통계적으로 유의하지 않았지만 ROC 분석에서 AUC 범위가 0.730–0.854로 나타나 단독 지표보다는 보완적 역할을 시사했다. 연구진은 De Ritis 비율이 유출성 FIP에서 간 관련 생화학적 이상을 지지하는 보조적 지표가 될 수 있다고 결론지었고, L-FABP의 임상적 활용 가능성은 예비적이며 추가적인 임상 검증이 필요하다고 언급했다. 초록에 제시된 바와 같이 결과는 관찰적 데이터에 기반하므로 인과관계나 일반화는 제한적이다.",
+      "title": "De Ritis Ratio and L-FABP as Supportive Biomarkers of Hepatic Involvement in Cats with Effusive FIP.",
+      "journal": "Topics in Companion Animal Medicine",
+      "generated_at": "2026-09-22T23:38:02.938Z",
+      "model": "gpt-5-mini"
+    },
+    "42767796": {
+      "brief_summary": "이 연구는 고등급 다중 중심 림프종을 처음으로 도옥소루비신(doxorubicin)으로 치료받는 개에서 예방적 트리메토프림-설파디아진(trimethoprim-sulfadiazine, TMS) 투여가 위장관(GI) 및 혈액 관련 이상반응에 미치는 영향을 후향적으로 비교했다. 총 60마리(예방 TMS 21마리, 무항생제 39마리)를 분석한 결과, TMS군에서 GI 독성이 66.7%(14/21)로 무항생제군의 33.3%(13/39)에 비해 유의하게 높았다(p = 0.013)며, 림프종 병기를 조정한 다변량 분석에서 예방적 TMS 투여는 GI 독성의 발생 오즈가 3.69배 증가(95% CI 1.13–12.11, p = 0.031)했다. 혈액독성, 중성구감소증, 입원율 또는 독성의 중증도에는 그룹 간 유의한 차이가 없었다는 점에서, 본 코호트에서는 예방적 TMS 사용이 GI 독성을 증가시켜 향후 전향적 평가가 필요함을 시사한다.",
+      "detailed_summary": "후향적 연구로 퀸즐랜드의 3개 상급병원 의무기록을 2008년 1월부터 2025년 11월까지 검토하여, 도옥소루비신을 처음 투여받는 고등급 다중 중심 림프종 개 60마리(예방적 TMS 21마리, 무항생제 39마리)를 대상에 포함했다. 도옥소루비신 투여 후 14일 이내 발생한 이상반응은 Veterinary Cooperative Oncology Group의 CTCAE 기준으로 후향적 등급화했다. 주요 평가 항목은 위장관(GI) 독성 및 혈액학적 독성이었고, GI 독성은 TMS군 14/21(66.7%) vs 무항생제군 13/39(33.3%)로 차이가 있었으며(p = 0.013), 림프종 병기를 보정한 분석에서 예방적 TMS 투여는 GI 독성 발생의 오즈가 3.69배 증가(95% CI 1.13–12.11, p = 0.031)했다. 반면 독성의 중증도, 전반적인 혈액독성, 중성구감소증 또는 입원률에서는 유의한 차이가 관찰되지 않았다. 연구진은 이번 관찰이 이전 보고와는 대조적이며, 항생제의 내성 및 장내 미생물 불균형과 같은 위험과의 균형을 고려할 필요가 있음을 언급하고 있다. 결론적으로 본 코호트에서는 예방적 TMS 투여가 GI 독성 증가와 연관되어 향후 전향적 연구로 검증할 필요가 있다는 점을 강조한다. 또한 본 연구는 후향적 설계와 퀸즐랜드의 특정 상급병원 코호트에 기반한다는 제한점이 있음을 명시한다.",
+      "title": "Retrospective Comparison of Gastrointestinal Toxicity in Dogs With Lymphoma Receiving Doxorubicin With or Without Prophylactic Trimethoprim-Sulfadiazine.",
+      "journal": "Veterinary and Comparative Oncology",
+      "generated_at": "2026-09-22T23:38:23.121Z",
+      "model": "gpt-5-mini"
+    },
+    "42768427": {
+      "brief_summary": "건강한 수컷 고양이 26마리(비강 IN 16, 근육 IM 10)를 대상으로 medetomidine 40 µg/kg의 비강(IN) 및 근육(IM) 투여가 진정과 심폐변수에 미치는 영향을 비교한 무작위·맹검·전향적 임상연구이다. 두 군 모두에서 진정 점수는 증가했으나 IM군이 더 빠르고 강한 최대 진정(CSSmax IM 16 [13-17], 발생 시각 18 [10-20]분)을 보였고 IN군은 최대 진정이 더 낮고 늦게(14 [9-17], 20 [15-20]분) 나타났다. 심박수(HR)는 두 군에서 감소했으나 IN군에서 감소 폭과 지속시간이 더 적었고, IN 투여 직후 재채기·삼킴·구토가 더 자주 관찰되었다. 결론적으로 IN medetomidine(40 µg/kg)은 중성화 시술 전 마취 전처치로 비침습적 대안이 될 수 있으나 발현이 느리고 지속시간은 짧다.",
+      "detailed_summary": "연구는 무작위·맹검·전향적 임상연구로, 중성화 수술을 받는 건강한 수컷 고양이 26마리(체중 중앙값 4 kg, 범위 3–6 kg)를 대상으로 medetomidine 40 µg/kg을 비강(IN, n=16) 또는 근육(IM, n=10)으로 투여하여 평가했다. 진정은 간단기술평가척도(SDSS)와 합성척도(CSS, 0–19)를 이용해 투여 전과 투여 후 10, 15, 20분 및 회복 시(발관 시, 1시간, 2시간)에 점검했다. 두 군 모두 진정 점수가 모든 시간점에서 유의하게 증가했으나 IM군이 더 빠르고 강한 최대 진정에 도달했고(IMSScssmax 16 [13-17], 발생 시각 18 [10-20]분 vs IN 14 [9-17], 20 [15-20]분) IN군은 발현이 느리고 지속시간이 짧았다. 심박수(HR)는 두 군에서 투여 후 유의하게 감소했으나 IN군에서는 감소 폭과 지속시간이 덜했다; 호흡수(RR), 비침습적 혈압(NIBP), 산소포화도(SpO2)에 대한 구체적 수치 변화는 초록에 명시된 바와 같이 기록되었다. 부작용으로는 IN 투여 직후 재채기·삼킴·구토가 유의하게 증가했다. 결론은 IN medetomidine이 건강한 고양이의 중성화 전 처치로 충분한 진정을 제공할 수 있는 비침습적 대안이라는 점이며, 발현이 느리고 지속시간이 짧으며 심혈관 영향은 IM보다 적다는 점이 주요 결과이다.",
+      "title": "EXPRESS: EFFECTS OF INTRAMUSCULAR AND INTRANASAL ADMINISTRATION OF MEDETOMIDINE ON SEDATION AND SOME CARDIOPULMONARY VARIABLES IN HEALTHY CATS.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "generated_at": "2026-09-22T23:37:18.150Z",
+      "model": "gpt-5-mini"
+    },
+    "42770278": {
+      "brief_summary": "본 연구는 개의 당화혈색소(HbA1c)를 점검할 수 있는 현장형 분석기 Vet Chroma™의 분석적 타당성, 임상적 판별력, 및 건강한 개의 기준구간을 평가하기 위해 51마리의 당뇨개, 44마리의 비당뇨 대조군, 42마리의 건강한 소유자견을 대상으로 수행되었다. 장비는 반복성(intra CV 3.92%, inter CV 8.47%), 직선성(R2=0.973, 범위 0.86%–6.27%) 등에서 양호하였고, HbA1c는 4°C에서 5일, -20°C 및 -80°C에서 최대 3개월까지 안정했으나 6개월 보관은 신뢰할 수 없었다. 진단 성능은 ROC AUC 0.969였고, 컷오프 >3.22%에서 민감도 90.20% 및 특이도 100%를 보였으며(양성 우도비는 추정 불가, 교차비 22.90, 95% CI 3.60–146.90), 건강한 젊은 개의 기준구간은 1.25%–2.75%(90% CI 각각 기재)로 제시되었다. 연구진은 Vet Chroma™가 임상에서 빠른 HbA1c 측정을 제공할 수 있으나 검사 결과는 임상 소견 및 기타 검사와 함께 해석해야 한다고 결론지었다.",
+      "detailed_summary": "본 연구는 Vet Chroma™라는 개 전용 HbA1c 현장형 분석기의 분석적 검증(정밀도, 직선성, 간섭, 시료 보관 안정성)과 임상적 유용성(당뇨 vs 비당뇨 판별), 및 건강한 개의 기준구간 설정을 전향적으로 수행했다. 대상은 당뇨 개 51마리, 비당뇨 대조 44마리, 건강한 소유자견 42마리였고, 비교법으로는 면역탁도법(Olympus DxC 700 AU)을 사용하였다. 분석 결과 평균 intra-와 inter-assay CV는 각각 3.92%와 8.47%였고, 임상 범위(0.86%–6.27%)에서 직선성은 R2=0.973으로 우수했으며 소수의 일정한 바이어스가 관찰되었다. 시료 안정성은 4°C에서 5일, -20°C 및 -80°C에서 최대 3개월 유지되었으나 6개월 보관은 일관되지 않았고, 지질혈증(지혈증)과 황달(빌리루빈증)은 결과에 가변적 간섭을 보였다. Vet Chroma™와 비교장비간에는 상호교환성이 없었고, 당뇨군은 비당뇨군보다 평균 HbA1c가 높았다(각 그룹의 평균값은 초록 참조). ROC 분석에서 AUC는 0.969였고, 컷오프 >3.22%는 민감도 90.20%/특이도 100%를 나타냈으며 교차비(odds ratio)는 22.90(95% CI 3.60–146.90)이었다. 연구 결론은 Vet Chroma™가 개 전혈에서 신뢰할 만한 HbA1c 측정을 제공하고 당뇨와 비당뇨를 효과적으로 구별했으나 검사 간 비호환성, 지질·황달성 간섭, 보관 기간 제한 등은 임상 적용 시 고려해야 한다는 것이다.",
+      "title": "Evaluation of a canine hemoglobin A1c point-of-care assay: analytical validation, clinical utility, and establishing a population-based reference interval.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-09-22T23:36:56.719Z",
       "model": "gpt-5-mini"
     }
   }
