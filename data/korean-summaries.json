@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T23:18:05.200Z",
+  "updated_at": "2026-09-22T00:08:50.105Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -5527,6 +5527,22 @@
       "title": "Escherichia coli isolated from canine pyometra show decreased susceptibility to amoxicillin-clavulanic acid in dogs.",
       "journal": "Journal of the American Veterinary Medical Association",
       "generated_at": "2026-09-20T23:16:48.154Z",
+      "model": "gpt-5-mini"
+    },
+    "42765739": {
+      "brief_summary": "이 논문은 개와 고양이의 만성 신장 질환(CKD)에서 변환성 성장인자 베타(TGF-β) 경로가 신장 섬유화에 관여하는지를 문헌으로 검토한 리뷰 논문이다. 혈청·요중 바이오마커, 신장 조직 및 1차 세포배양에서의 유전자·단백질 발현, 전사체 분석 등 여러 방법에서 TGF-β의 역할을 지지하는 증거가 제시되었다. 임상적으로는 TGF-β가 소동물의 신장 간질 흉터화에 중대한 기여를 할 가능성이 있으나, 단백질 수준 증명과 활성형 검출의 한계로 추가 연구가 필요하다는 점이 강조된다.",
+      "detailed_summary": "이 논문은 개와 고양이의 CKD에서 TGF-β 경로의 역할을 종합적으로 검토한 문헌 고찰이다. 증거로는 혈청 및 요중 바이오마커, 신장 조직과 1차 신장세포 배양에서의 유전자 및 단백질 발현 연구, 그리고 전사체(pathway) 분석 등이 포함된다. 특히 고양이의 자발적 CKD와 개의 X-연관( X-linked) Alport 모델에서의 전사체 분석이 TGF-β 경로의 관여를 지지하는 자료로 제시되었다. 그러나 활성형 및 아이소폼별 TGF-β 단백질을 민감하고 특이적으로 검출할 수 있는 상용 면역조직화학(IHC) 항체가 부족하고, 잠재적(비활성) 형태와의 교차반응이 IHC 해석을 복잡하게 한다는 중요한 제한점이 보고되었다. 또한 TGF-β가 소동물에서 섬유아세포를 활성화하고 사구체를 손상시키는 구체적 기전은 아직 규명되지 않았으며, 사구체경화(glomerulosclerosis)와의 관련성은 주로 인간·설치류 자료로부터의 이론적 추론에 근거한다. 결론적으로 연구들은 소동물 신장의 간질성 흉터화에 TGF-β가 역할을 할 가능성을 강하게 시사하지만, 단백질 수준의 직접 증거 확보와 기전 연구가 필요하다고 한정적으로 제언하고 있다.",
+      "title": "Transforming growth factor-&#x3b2; in kidney disease in dogs and cats: a review of the evidence of its role in renal fibrosis.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-09-22T00:08:50.093Z",
+      "model": "gpt-5-mini"
+    },
+    "42765741": {
+      "brief_summary": "가족성 자연발생 간질 고양이(FSECs) 10마리를 대상으로 두피 뇌파(EEG)와 기능적 자기공명영상(fMRI)을 동시 적용해 발작원점(EZ)을 비침습적으로 탐지하는 방법을 탐색한 파일럿 연구다. 모든 검사 세션에서 탐색적 역치에서는 BOLD(혈중 산소 결정 의존) 반응이 관찰되었으나 다중비교 보정 후에는 유의한 활성은 남지 않았다. 소영역 보정(SVC)에서는 30개 세션 중 16세션에서 편도-해마 영역 활성화가 확인되어 방법론적 구현은 가능하지만 개별 환자 수준의 임상적 EZ 국지는 아직 불충분하다고 결론지었다.",
+      "detailed_summary": "연구는 가족성 측두엽 간질 연관이 제시된 FSEC 콜로니에서 간명한 간헐성 병적방전이 관찰된 고양이 10마리를 선택해 각 개체당 3회의 두피 EEG 및 동시 EEG-fMRI 세션을 시행한 탐색적 파일럿 연구다. 전처리 후 BOLD 활성 지도 생성과 함께 주분석으로 편도-해마 영역 활성화를 소영역 보정(SVC) 및 군집 수준 분석으로 평가했다. 탐색적 역치에서는 모든 세션(총 30세션)에서 BOLD 반응이 검출되었으나, 다중비교에 대한 보정 후에는 어떤 세션도 유의성을 유지하지 못했다. SVC 분석에서는 30세션 중 16세션에서 편도-해마 영역의 활성화를 확인했고, 군집 수준 분석에서는 좌측 주변해마(parahippocampal gyrus)에서 해마 체부(hippocampal body)로 이어지는 가장 큰 클러스터가 관찰되었다. 저자들은 기술적으로 EEG-fMRI의 시행이 가능함을 보였으나, 현재로서는 개별 환자의 EZ를 임상적으로 확정하기에는 불충분하다고 판단했다. 연구는 개별 수준의 민감도·특이도 부족과 다중비교 문제 등 중요한 한계를 지적하며, 수술 대상 환자 자료와 다중모달 비교 및 방법 최적화가 필요하다고 강조했다.",
+      "title": "Electroencephalography-functional magnetic resonance imaging using a familial temporal lobe epilepsy model in cats: an exploratory methodological pilot study.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-09-22T00:08:37.699Z",
       "model": "gpt-5-mini"
     }
   }

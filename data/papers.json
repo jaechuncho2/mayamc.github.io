@@ -1,6 +1,43 @@
 {
-  "updated_at": "2026-09-20T23:16:25.725Z",
+  "updated_at": "2026-09-22T00:08:22.884Z",
   "papers": [
+    {
+      "pmid": "42765741",
+      "title": "Electroencephalography-functional magnetic resonance imaging using a familial temporal lobe epilepsy model in cats: an exploratory methodological pilot study.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Miura T, Asada R, Hasegawa D",
+      "date": "2026 09 21",
+      "dateObject": "2026 09 21",
+      "abstract": "Reliable methods for identifying the epileptogenic zone (EZ) in veterinary medicine remain limited. Although intracranial electroencephalography (EEG) is considered the most dependable approach for EZ localization, noninvasive simultaneous EEG and functional magnetic resonance imaging (EEG-fMRI) has been applied in human medicine as an alternative. Develop and evaluate EEG-fMRI methodology for clinical application in veterinary medicine and evaluate the methodological feasibility of EEG-fMRI using cats with familial spontaneous epilepsy (FSECs). Ten cats with clear interictal epileptiform discharges on scalp EEG were selected from an FSEC colony with previously suggested amygdalo-hippocampal involvement. Each cat underwent 3 scalp EEG and EEG-fMRI sessions. After preprocessing, blood oxygen level-dependent (BOLD) activation maps were generated. Primary analyses evaluated amygdalo-hippocampal activation using small-volume correction (SVC) and group-level analysis. The BOLD activation was detected in all sessions at an exploratory threshold, but no activation survived correction for multiple comparisons. The SVC analysis identified amygdalo-hippocampal activation in 16/30 sessions. Group-level analysis identified the largest cluster extending from the left parahippocampal gyrus to the hippocampal body. This exploratory pilot study showed that EEG-fMRI could be technically implemented in FSECs, but individual-level EZ localization remains insufficient for clinical use. Further optimization, data from surgical candidates, and multimodal comparisons are needed.",
+      "categories": [
+        "surgery",
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "42765739",
+      "title": "Transforming growth factor-&#x3b2; in kidney disease in dogs and cats: a review of the evidence of its role in renal fibrosis.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Cianciolo RE, Elliott J, Nabity MB, Foster JD, Ammons DT, Bartas K, Williams T, VanBeelen EA, Weaver L",
+      "date": "2026 09 21",
+      "dateObject": "2026 09 21",
+      "abstract": "A growing body of literature implicates the transforming growth factor (TGF)-&#x3b2; pathway in the progression of chronic kidney disease (CKD) in dogs and cats by promoting renal fibrosis. In rodents and humans, TGF-&#x3b2; is a key player in development of glomerulosclerosis and renal interstitial fibrosis. The pathway is also immunomodulatory, underscoring the complexity of its downstream effects. Recently, evidence for the role of TGF-&#x3b2; in small animal CKD has been presented using multiple methodologies, including serum and urinary biomarkers, as well as gene and protein expression in renal tissue and primary renal cell cultures. The aim of this review is to integrate these data and highlight consistencies and discrepancies in the literature. Some of the most convincing data supporting the role of the TGF-&#x3b2; pathway includes biomarker levels and pathway analysis of transcriptional profiles in spontaneous CKD in cats and in the X-linked Alport model in dogs. Demonstration of the presence of TGF-&#x3b2; protein is challenging due to lack of commercially available immunohistochemistry (IHC) antibodies that are sensitive and specific for active variants and isoforms TGF-&#x3b2; in dogs and cats. Cross-reactivity of IHC antibodies with latent TGF-&#x3b2; isoforms (complexed with extracellular matrix proteins) complicates the interpretation of IHC labeling. The mechanisms by which TGF-&#x3b2; activates fibroblasts and injures glomeruli in small animals is an area for future research. Although the relationship between TGF-&#x3b2; and glomerulosclerosis is mostly theoretical based on extrapolation from humans and rodents, substantial evidence strongly supports a role for TGF-&#x3b2; in renal interstitial scarring of small animals.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42765737",
+      "title": "Response to: citation clarification regarding feline eltrombopag in the ACVIM consensus statement on the treatment of immune thrombocytopenia in dogs and cats.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "LeVine DN, Goggs R, Kohn B, Mackin AJ, Kidd L, Garden OA, Brooks MB, Eldermire ERB, Abrams-Ogg A, Appleman EH, Archer TM, Bianco D, Blois SL, Brainard BM, Callan MB, Fellman CL, Haines JM, Hale AS, Huang AA, Lucy JM, O'Marra SK, Rozanski EA, Thomason JM, Walton JE, Wilson HE",
+      "date": "2026 09 21",
+      "dateObject": "2026 09 21",
+      "abstract": "",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
     {
       "pmid": "42762832",
       "title": "Escherichia coli isolated from canine pyometra show decreased susceptibility to amoxicillin-clavulanic acid in dogs.",
@@ -2082,42 +2119,6 @@
       "categories": [
         "internalMedicine",
         "oncology"
-      ]
-    },
-    {
-      "pmid": "42636345",
-      "title": "Fluoroscopic characterization of pectus excavatum in dogs: a cross-sectional study.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Kwon M, Park N, Choi Y, Choi J, Yoon J",
-      "date": "2026 08 24",
-      "dateObject": "2026 08 24",
-      "abstract": "The dynamic respiratory abnormalities in dogs with pectus excavatum are incompletely characterized. To characterize fluoroscopic findings in dogs with pectus excavatum and evaluate their associations with clinical severity. Fifty-three client-owned dogs with pectus excavatum. Cross-sectional study. Dogs were classified into low-severity or high-severity groups based on respiratory signs and treatment. Fluoroscopic examinations were evaluated for pectus excavatum-intrinsic findings and concurrent respiratory abnormalities. Associations with clinical severity were assessed using univariable and multivariable analyses. Multiple fluoroscopic findings of pectus excavatum were characterized. Paradoxical sternal movement was independently associated with clinical severity (odds ratio [OR] 3.71, 95% CI, 1.03-13.4; P&#xa0;=&#xa0;.045). Thoracic height reduction ratio was significantly higher in the high-severity group (0.140 [IQR, 0.100-0.228]) compared with the low-severity group (0.097 [IQR, 0.064-0.133]; P&#xa0;=&#xa0;.04). Mainstem bronchial collapse was present in all dogs (53/53, 100%) and cervical lung lobe herniation in 50/53 (94%; 95% CI, 84%-99%). Most other fluoroscopic variables showed no significant associations with clinical severity. Paradoxical sternal movement, particularly with greater thoracic height reduction, may serve as a supportive indicator of clinical severity. The high prevalence of bronchial collapse and cervical lung lobe herniation suggests an association between pectus excavatum and these airway abnormalities in dogs.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42636344",
-      "title": "Assessment of CD3+ T cell density in the intestinal mucosa of dogs with inflammatory bowel disease.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Bouillet G, M&#xe9;ric T, Gonel G, Darnis E, Mendoza B, Leal RO, Galmes MR, Bertolani C, Ruiz MD, Toulza O, Hugonnard M, Duperrier-Simond C, S&#xe9;n&#xe9;cat O, Drut A, Rhimi M, Barrot AC, Larcher T, Hernandez J",
-      "date": "2026 08 24",
-      "dateObject": "2026 08 24",
-      "abstract": "T lymphocytes play a central role in the intestinal immune response in dogs with immunomodulator-responsive enteropathy (IRE), but the clinical relevance of mucosal T-cell infiltration remains unclear. Compare mucosal CD3+ T-cell density between dogs with IRE and healthy comparison dogs across intestinal segments, and assess associations with clinical, biochemical, and histologic severity markers. Forty-two client-owned dogs with IRE and 12 healthy research dogs. Retrospective multicenter study. Archived endoscopic biopsy samples from the duodenum, ileum, and colon were evaluated using the Simplified Histopathological Scoring System. Immunohistochemistry for CD3 was quantified by digital image analysis (QuPath) and expressed as relative CD3+ density (RCD3). Group comparisons, receiver operating characteristic curve analyses, mixed linear models, and correlation analyses were performed. Relative CD3+ density was significantly higher in dogs with IRE than in comparison dogs in the duodenum (median, 6.34% vs 1.42%; P&#xa0;=&#xa0;.03), ileum (9.79% vs 0.85%; P&#xa0;<&#xa0;.001), and colon (3.88% vs 1.32%; P&#xa0;=&#xa0;.002). The area under the curve values were 0.833, 0.896, and 0.811, respectively. The RCD3 was not correlated with clinical indices, serum albumin concentration, or histologic scores, but ileal histologic score was negatively correlated with RCD3 (&#x3c1;&#xa0;=&#xa0;-0.37; P&#xa0;=&#xa0;.04). Mucosal CD3+ T-cell density is increased in dogs with IRE but is not associated with clinical or overall histologic disease severity. Quantification of CD3+ should not be used as a solitary monitoring tool but may contribute to immunophenotyping. Chronic inflammatory bowel disease is a common cause of long-lasting digestive problems in dogs. The immune system is thought to play an important role in this disease, but it is still unclear whether the number of immune cells present in the intestine reflects how severe the disease is. This study measured a specific type of immune cell, called T lymphocytes, in intestinal biopsy samples from dogs with inflammatory bowel disease and compared the results with those from healthy dogs. Computer-assisted image analysis was used to obtain objective and reproducible measurements. Dogs with inflammatory bowel disease had a greater number of these immune cells in the lining of the small and large intestine than healthy dogs. However, the number of immune cells was not related to the severity of clinical signs, blood protein concentrations, or the overall severity of tissue damage seen under the microscope. These findings suggest that counting T lymphocytes alone is unlikely to be useful for monitoring disease severity or treatment response. Instead, this measurement may help improve the biological classification of chronic inflammatory bowel disease and contribute to a better understanding of the different forms of this condition. Les lymphocytes T jouent un r&#xf4;le central dans la r&#xe9;ponse immunitaire intestinale chez les chiens atteints d&#x2019;ent&#xe9;ropathie r&#xe9;pondant aux immunomodulateurs (IRE), mais la pertinence clinique de l&#x2019;infiltration lymphocytaire T de la muqueuse reste mal d&#xe9;finie. Comparer la densit&#xe9; des lymphocytes T CD3 + de la muqueuse intestinale entre des chiens atteints d&#x2019;IRE et des chiens sains t&#xe9;moins au niveau des diff&#xe9;rents segments intestinaux, et &#xe9;valuer les associations avec les marqueurs de s&#xe9;v&#xe9;rit&#xe9; clinique, biochimique et histologique. Quarante-deux chiens de client&#xe8;le atteints d&#x2019;IRE et 12 chiens de recherche sains. &#xc9;tude r&#xe9;trospective multicentrique. Des biopsies endoscopiques archiv&#xe9;es du duod&#xe9;num, de l&#x2019;il&#xe9;on et du c&#xf4;lon ont &#xe9;t&#xe9; &#xe9;valu&#xe9;es &#xe0; l&#x2019;aide du Simplified Histopathological Scoring System . L&#x2019;immunohistochimie anti-CD3 a &#xe9;t&#xe9; quantifi&#xe9;e par analyze num&#xe9;rique d&#x2019;images (QuPath) et exprim&#xe9;e sous forme de densit&#xe9; relative en cellules CD3 + (RCD3). Des comparaisons entre groupes, des analyses par courbes ROC, des mod&#xe8;les lin&#xe9;aires mixtes et des analyses de corr&#xe9;lation ont &#xe9;t&#xe9; r&#xe9;alis&#xe9;s. La densit&#xe9; relative en cellules CD3 + &#xe9;tait significativement plus &#xe9;lev&#xe9;e chez les chiens atteints d&#x2019;IRE que chez les chiens t&#xe9;moins dans le duod&#xe9;num (m&#xe9;diane: 6,34 % vs 1,42 %; P &#xa0;=&#xa0;0,03), l&#x2019;il&#xe9;on (9,79 % vs 0,85 %; P &#xa0;<&#xa0;0,001) et le c&#xf4;lon (3,88 % vs 1,32 %, P &#xa0;=&#xa0;0,002). Les aires sous la courbe (AUC) &#xe9;taient respectivement de 0,833, 0,896 et 0,811. La RCD3 n&#x2019;&#xe9;tait pas corr&#xe9;l&#xe9;e aux indices cliniques, &#xe0; la concentration s&#xe9;rique en albumine ni aux scores histologiques. En revanche, une corr&#xe9;lation n&#xe9;gative a &#xe9;t&#xe9; observ&#xe9;e entre la RCD3 et le score histologique il&#xe9;al (&#x3c1;&#xa0;=&#xa0;&#x2212;0,37; P &#xa0;=&#xa0;0,036). La densit&#xe9; des lymphocytes T CD3 + de la muqueuse intestinale est augment&#xe9;e chez les chiens atteints d&#x2019;IRE, mais n&#x2019;est pas associ&#xe9;e &#xe0; la s&#xe9;v&#xe9;rit&#xe9; clinique ni &#xe0; la s&#xe9;v&#xe9;rit&#xe9; histologique globale de la maladie. La quantification des cellules CD3 + ne devrait pas &#xea;tre utilis&#xe9;e comme unique outil de suivi, mais pourrait contribuer &#xe0; l&#x2019;immunoph&#xe9;notypage des ent&#xe9;ropathies chroniques.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42636343",
-      "title": "Successful immunosuppressive treatment of hypersensitivity pneumonitis secondary to lycoperdonosis in a dog.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Navarro I, Vient&#xf3;s-Plotts A, Masseau I, Farrell E, Royal A, Reinero CR",
-      "date": "2026 08 24",
-      "dateObject": "2026 08 24",
-      "abstract": "A 7-year-old neutered male Cocker Spaniel with unrestricted access to rural land presented for progressive lethargy, tachypnea, and cough. Thoracic radiographs showed an unstructured interstitial pattern. Fine-needle aspirate (FNA) lung cytology identified pyogranulomatous inflammation with intralesional mushroom spores. Acute hypersensitivity pneumonitis (HP) was suspected, and treatment was initiated with oxygen supplementation and an immunosuppressive dosage of corticosteroid. Thoracic computed tomography (CT) and bronchoalveolar lavage (BAL) were performed on day 6, month 2, and year 1 to track therapeutic response and assess architectural changes. Clinical signs guided prednisone tapering and discontinuation. One year later, thoracic CT and BAL confirmed re-exposure to mushroom spores with mild persistent inflammation and CT changes suggestive of mixed parenchymal and small airway disease despite absent clinical signs. This case report emphasizes the importance of rapid identification of pulmonary mushroom spores for prompt immunosuppressive treatment. Unlike prior reports of lycoperdonosis with acute, fulminating, and generally fatal outcomes, this dog developed chronic HP.",
-      "categories": [
-        "internalMedicine"
       ]
     },
     {
