@@ -1,6 +1,75 @@
 {
-  "updated_at": "2026-09-22T23:36:31.846Z",
+  "updated_at": "2026-09-23T23:43:18.440Z",
   "papers": [
+    {
+      "pmid": "42765737",
+      "title": "Response to: citation clarification regarding feline eltrombopag in the ACVIM consensus statement on the treatment of immune thrombocytopenia in dogs and cats.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "LeVine DN, Goggs R, Kohn B, Mackin AJ, Kidd L, Garden OA, Brooks MB, Eldermire ERB, Abrams-Ogg A, Appleman EH, Archer TM, Bianco D, Blois SL, Brainard BM, Callan MB, Fellman CL, Haines JM, Hale AS, Huang AA, Lucy JM, O'Marra SK, Rozanski EA, Thomason JM, Walton JE, Wilson HE",
+      "date": "2026 09 23",
+      "dateObject": "2026 09 23",
+      "abstract": "",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42774971",
+      "title": "The epidemiological landscape of canine tumors in central Italy: animal cancer registry insights, distribution patterns, and incidence estimates.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Carnio A, Cocumelli C, Galietta V, Fonti N, Simeoni S, Barberini M, Panetta V, Scaramozzino P, Millanta F, Eleni C, Carvelli A",
+      "date": "2026 09 23",
+      "dateObject": "2026 09 23",
+      "abstract": "Animal cancer registries (ACRs) monitor companion animal tumors, providing essential data for comparative oncology. Sharing domestic environments and possessing compressed lifespans, dogs serve as \"One Health\" environmental sentinels. This study aimed to provide a descriptive analysis of canine neoplasms recorded in the ACR of the Lazio Region (central Italy) over 15-year period (2009-2023) and generate a survey-adjusted crude incidence estimate. Primary tumors were standardized using Vet-ICD-O-canine-1. Proportional Morbidity Ratios (PMRs) were used to evaluate associations between demographic and environmental characteristics and the relative distribution of malignant tumor topographies. Incidence estimates were calculated using an adjusted canine population and corrected tumor counts to account for under-ascertainment. The population denominator was adjusted using a validated 75.3% registry completeness factor to calculate the annual crude incidence estimate. A total of 9,823 primary tumors from 9,122 dogs were included. Malignant tumors accounted for 59.3% of cases. Skin (38.4%), mammary gland (23.2%), and soft tissues (13.3%) were the most frequent topographies. The highest proportion of cases was observed in dogs aged 8-11 years. Among cases, 60.2% were purebred, 58.3% were fed industrial diets, and 49.1% lived primarily indoors. Females accounted for 57.7% of cases, although sex-stratified age-adjusted PMR analysis showed higher proportions of most tumors in males, except for mammary tumors (adj PMR = 46.22; 95% CI: 29.75-71.81). Intact females showed higher PMRs for mammary and female genital organs tumors, whereas spayed females had higher PMRs for hematopoietic, skin, digestive, and nervous system tumors. Higher PMRs for skin tumors were observed in dogs fed industrial diets, while environmental factors showed associations with specific tumor sites, including a higher frequency of skin tumors in outdoor dogs and a higher proportional frequency of mammary tumors in indoor dogs. The estimated crude incidence was 662.1 cases per 100,000 dogs, including 249.4 malignant and 412.7 benign tumors per 100,000 dogs. The ACR represents a valuable tool for monitoring canine cancer and exploring potential determinants of tumor occurrence. The integration of registry and survey data provided adjusted incidence estimates and improved the assessment of tumor burden. The findings support the use of ACRs in epidemiological surveillance and One Health research.",
+      "categories": [
+        "oncology",
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42773435",
+      "title": "Evaluation of urinary biomarkers for detection of renal tubular injury in Vipera berus-envenomated and critically ill dogs with and without clinically apparent acute kidney injury.",
+      "journal": "BMC Veterinary Research",
+      "authors": "Selin AK, Lillieh&#xf6;&#xf6;k I, Strage EM, Larsson A, Pelander L",
+      "date": "2026 09 23",
+      "dateObject": "2026 09 23",
+      "abstract": "Acute kidney injury (AKI) in dogs has high mortality and early diagnosis is essential, but traditional markers are not sensitive enough to detect renal injury in the absence of decreased glomerular filtration rate. The objective of this study was to compare urinary cystatin C (uCysC), N-acetyl-&#x3b2;-D-glucosaminidase (uNAG), and glucose (uGlu) among dogs hospitalised because of envenomation by Vipera berus (EVB) or admitted for intensive care without (IC) or with (AKI APP ) clinically apparent AKI, and 30 healthy dogs. Urine and serum samples were collected on days 1 and 2, and urine samples on days 7 and 14. Urinary CysC, NAG, and glucose concentrations were measured with an automated chemistry analyser, normalised to urinary creatinine concentration (uCr) and compared among groups. Ninety-seven dogs were included (30 HC, 28 EVB, 14 AKI APP and 25 IC dogs). Age, bodyweight, and sex did not differ among groups. On day 1, median [IQR] uCysC/uCr (10 -3 ) and uGlu/uCr were higher (p&#x2009;<&#x2009;0.008) in EVB (0.05 [0.03-0.11], 0.04 [0.03-0.06)]), IC (0.06 [0.03-0.4], 0.05 [0.03-0.09]), and AKI APP (4.4 [0.13-30.0], 0.12 [0.05-0.45]) groups, compared to healthy dogs (0.02 [0.01-0.03], 0.03 [0.02-0.04]). Urinary markers decreased over two weeks post hospitalisation in all groups except AKI APP . Initial levels of uCysC/uCr were higher (p&#x2009;<&#x2009;0.002) and remained elevated in non-survivors compared to survivors of AKI APP , suggesting potential prognostic value. Urinary CysC/uCr and Glu/uCr are potential markers of tubular injury in early stages of AKI in dogs.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42410421",
+      "title": "Direct quantitative PCR detects genetic biomarkers of antileishmanial drug resistance in clinical samples from dogs with leishmaniosis.",
+      "journal": "BMC Veterinary Research",
+      "authors": "Carrasco-Martin M, Vi&#xf1;eta C, Mart&#xed;-Carreras J, Roura X, Ferrer L, Busquets P, Vila A, Francino O",
+      "date": "2026 09 23",
+      "dateObject": "2026 09 23",
+      "abstract": "Treatment response in canine leishmaniosis is driven by the dog host, the Leishmania parasite, and pharmacological factors, with drug resistance increasingly undermining the effectiveness of therapy. Current methods for assessing antileishmanial drug resistance rely on culture-based approaches, which are slow and technically demanding. A direct quantitative PCR test (LeishGenR&#x2122;) was applied to 104 clinical samples from 95 dogs in the Mediterranean area diagnosed with leishmaniosis in veterinary clinical settings and testing positive for Leishmania infantum by PCR. The assay enabled rapid detection of genetic drug-resistance biomarkers for allopurinol (metk), meglumine antimoniate (mrpa), and miltefosine (LdMT), providing a clinically relevant, timely alternative to culture-based approaches by directly analyzing circulating&#xa0;Leishmania infantum&#xa0;amastigotes. The assay (LeishGenR&#x2122;) showed high specificity (100%) and sensitivity (>&#x2009;87.5%) for genetic drug-resistance profile assignment and a strong correlation with whole-genome sequencing for gene copy number assessment (metk: r&#x2009;=&#x2009;0.878;&#xa0;mrpa: r&#x2009;=&#x2009;0.943 and LdMT&#x2009;=&#x2009;0.691). Genetic drug-resistance biomarkers were detected in 24.3% of L. infantum DNA from clinical samples analyzed (20/82; 95% CI 16.3-34.6), most commonly for allopurinol (13.4%; 95% CI 7.6-22.4), then meglumine antimoniate (9.4%; 95% CI 4.6-18.2), and for miltefosine (5.4%; 95% CI 1.8-14.8). Prevalence was higher in dogs previously treated for leishmaniosis. This study demonstrates the ability to detect genetic biomarkers of drug resistance in L. infantum directly from clinical samples of dogs with leishmaniosis. This method enables rapid, precise detection of genomic biomarkers, circumventing delays associated with culture-based methods and supporting more effective clinical management and surveillance. Among dogs with high parasitemia referred to clinics in Mediterranean regions sampled in this study, the findings reveal a significant prevalence of circulating L. infantum strains carrying genomic drug resistance biomarkers to standard treatments for canine leishmaniosis.",
+      "categories": []
+    },
+    {
+      "pmid": "42572207",
+      "title": "Development of an ultrasound-guided pericapsular knee desensitization technique in cats: An anatomical cadaveric study.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "authors": "Lemaitre D, Mej&#xed;as P, V&#xe1;squez MB, Arredondo D, Garbin M, Portela DA, Otero PE",
+      "date": "2026 09 23",
+      "dateObject": "2026 09 23",
+      "abstract": "The aim of the present study was to develop an ultrasound-guided pericapsular knee desensitization (PKD) technique targeting the medial (MAN), lateral (LAN), and posterior (PAN) articular branches of the saphenous, common fibular, and tibial nerves, respectively, and to evaluate its accuracy in domestic feline cadavers. In phase I, six pelvic limbs from three cadavers underwent ultrasonographic evaluation and gross dissection to describe the course of the MAN, LAN, and PAN, and identify anatomical and sonographic landmarks for PKD. In phase II, bilateral PKD was performed in eight cadavers (16 limbs) using 0.1&#x2009;ml (low volume (LV)) or 0.2&#x2009;ml (high volume (HV)) of dye per nerve, randomly assigned between limbs. MAN and PAN injections were performed under ultrasound guidance through a single medial percutaneous approach, whereas LAN injections were landmark-guided. Dissection was used to assess dye distribution around target nerves, the joint capsule, and parent nerves. The MAN was consistently located within the distal subsartorial canal alongside the descending genicular vessels, the PAN coursed adjacent to the popliteal vessels, and the LAN ran superficially near the fibular head and lateral head of the gastrocnemius muscle. Overall success was 23/24 (95.8%) injections (95% confidence interval (CI) 78.9-99.9) in the LV group and 21/24 (87.5%) injections (95% CI 67.6-97.3) in the HV group. Both volumes stained the MAN, LAN, and PAN trajectories and the medial, caudal, and lateral surfaces of the knee joint capsule without intracapsular injection. Ultrasound-guided PKD is feasible in domestic feline cadavers, and small injection volumes (0.1-0.2&#x2009;ml per nerve) reliably reach pericapsular compartments containing the principal articular branches, while largely sparing major motor nerves. These findings provide an anatomical and technical basis for future clinical evaluation of PKD for perioperative and chronic knee pain management in cats.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42281370",
+      "title": "Owner personality traits associated with non-conventional feeding practices in domestic cats.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "authors": "Hoummady S, Rebout N, Prorel G, Robles M",
+      "date": "2026 09 23",
+      "dateObject": "2026 09 23",
+      "abstract": "ObjectivesThe objectives of the present study were to assess the association between owner personality traits and the owner-reported use of non-conventional diets in domestic cats (starch-free, meat-only, grain-free, raw or vegetarian), and to compare personality traits between owners reporting the incorporation of fresh meat-based foods and those relying exclusively on commercial diets.MethodAn anonymous nationwide online survey of French cat owners was conducted (n&#x2009;=&#x2009;1566). The owner's personality was assessed using the French version of the Big Five Inventory. Two outcomes were defined: (1) use of a non-conventional diet (yes: n&#x2009;=&#x2009;439) and (2) inclusion of fresh meat-based foods in the diet (ie, not exclusively commercial with fresh meat; yes: n&#x2009;=&#x2009;61). Two multivariable logistic regression models were built, with owner personality traits as explanatory variables. Model 1 evaluated the likelihood of using a non-conventional diet, while model 2 assessed the likelihood of incorporating fresh meat in the diet.ResultsHigher Conscientiousness was associated with lower odds of feeding a non-conventional diet (OR 0.80, 95% CI 0.67-0.95), whereas higher Openness was associated with higher odds (OR 1.19, 95% CI 1.01-1.41). Daily cooking (OR 1.49, 95% CI 1.17-1.91) and access to autonomous enrichment devices (OR 1.74, 95% CI 1.11-2.84) were also positively associated with non-conventional feeding. Lower Agreeableness was associated with higher odds of including fresh meat in the diet (OR 0.55, 95% CI 0.35-0.87). Training activities with the cat (OR 2.40, 95% CI 1.32-4.18) and owning a purebred cat (OR 2.10, 95% CI 1.10-3.82) were also positively associated with fresh meat feeding.Conclusions and relevanceThese results suggest that owners who choose non-conventional diets may present different personality traits. Recognising these differences may help veterinarians adapt their communication and facilitate dialogue regarding feeding decisions in the interest of feline health. Owner personality traits associated with non-conventional feeding practices in domestic cats in France Non-conventional diets, such as homemade, raw or grain-free diets, are increasingly fed to domestic cats. These feeding practices are challenges for veterinarians, particularly regarding the motivations behind owner&#x2019;s choices. Personality traits may play a role in these decisions, but this subject remains poorly explored. An online survey was distributed to cat owners and included questions on feeding practices, lifestyle and the owner&#x2019;s personality using the validated French version of the Big Five Inventory questionnaire. A total of 1566 responses were recorded. Diets were classified as conventional or non-conventional (including homemade, raw, grain-free or other alternative diets). In a second step, owners providing fresh meat in the diet were compared with those feeding exclusively commercial diets. Most cats were fed conventional diets, although a substantial proportion received non-conventional diets. Higher owner Conscientiousness was associated with a lower likelihood of feeding a non-conventional diet, while higher Openness was associated with a greater likelihood. Regarding fresh meat in the diet, lower Agreeableness was associated with a higher likelihood of providing such diets. These results suggest that owner personality traits are associated with dietary choices in French domestic cats. Better understanding these factors may help veterinarians improve communication.",
+      "categories": []
+    },
     {
       "pmid": "42770278",
       "title": "Evaluation of a canine hemoglobin A1c point-of-care assay: analytical validation, clinical utility, and establishing a population-based reference interval.",
@@ -14,14 +83,15 @@
       ]
     },
     {
-      "pmid": "42765737",
-      "title": "Response to: citation clarification regarding feline eltrombopag in the ACVIM consensus statement on the treatment of immune thrombocytopenia in dogs and cats.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "LeVine DN, Goggs R, Kohn B, Mackin AJ, Kidd L, Garden OA, Brooks MB, Eldermire ERB, Abrams-Ogg A, Appleman EH, Archer TM, Bianco D, Blois SL, Brainard BM, Callan MB, Fellman CL, Haines JM, Hale AS, Huang AA, Lucy JM, O'Marra SK, Rozanski EA, Thomason JM, Walton JE, Wilson HE",
+      "pmid": "42772772",
+      "title": "Safety Assessment of Mefepronic Acid in Sheep.",
+      "journal": "Veterinary Medicine and Science",
+      "authors": "Canbar R, Parlak TM, Uslu M, Yazar E",
       "date": "2026 09 22",
       "dateObject": "2026 09 22",
-      "abstract": "",
+      "abstract": "Mefepronic acid is used as a choleretic agent in different animal species. Although mefepronic acid is used extra-label in sheep, information on its safety in this species is limited. The aim of this study was to determine the effects of mefepronic acid on serum oxidative stress, lipid metabolism and organ function parameters in sheep. Mefepronic acid was administered to 10 sheep at a dose of 10&#xa0;mg/kg (intramuscular, once daily, 3 days). Blood samples were taken at 0 and at 24, 48 and 72 h. 8-OHdG, MDA, SOD, GPX, CAT, CK-MB isoenzyme, troponin I, serum ALP, AST, ALT, total bilirubin, BUN, creatinine, cholesterol, triglycerides, LDL and HDL levels were measured. Mefepronic acid administration resulted in a transient increase in 8-OHdG levels (p < 0.05) and a decrease in CAT levels (p < 0.05), a transient increase in CK-MB isoenzyme levels (p < 0.05), and a decrease in BUN, HDL and LDL levels (p < 0.05), but no effect on other parameters (p > 0.05). Administration of mefepronic acid to sheep may cause transient changes in oxidative stress parameters and CK-MB isoenzyme levels. However, these changes were not associated with an increase in troponin I levels or clinically significant myocardial damage. Mefepronic acid did not cause clinically significant adverse effects on liver or kidney function parameters.",
       "categories": [
+        "cardiology",
         "internalMedicine"
       ]
     },
@@ -1130,19 +1200,6 @@
       "abstract": "Ehrlichia canis, the causative agent of canine monocytic ehrlichiosis, infects monocytes and macrophages in dogs and is transmitted mainly by hard ticks Rhipicephalus sanguineus sensu lato. Although E. canis has been reported worldwide, autochthonous E. canis infection in Japan was not confirmed before 2020. In this study, molecular characterization of E. canis detected in two dogs in Tokyo in 2020 and 2023 was conducted. DNA extracted from spleen and blood samples was subjected to polymerase chain reaction (PCR) targeting the 16S ribosomal RNA (rRNA), groEL (heat shock protein), p28 (major outer membrane protein), and trp36 (tandem repeat protein 36) genes, followed by sequencing and phylogenetic analyses. Both cases shared identical 16S rRNA and groEL sequences with many E. canis strains, whereas sequence diversity was evident for p28 and trp36 genes. Interestingly, E. canis in one of the cases harbored a novel 26-amino-acid tandem repeat sequence in trp36, representing a previously unreported trp36 tandem-repeat variant Japan. Phylogenetic analyses placed the E. canis sequences from the two cases into different clusters, suggesting the presence of genetically distinct variants in Japan. This study provides evidence of genetic diversity among E. canis detected in dogs in Japan and suggests the possibility of local transmission or previously unrecognized introduction of this pathogen.",
       "categories": [
         "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42713429",
-      "title": "Alopecia management from a comparative perspective: pharmacological and pharmaceutical insights in humans, dogs, and cats.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Seo J, Yun JH",
-      "date": "2026 09 09",
-      "dateObject": "2026 09 09",
-      "abstract": "Hair loss (alopecia) is a multifactorial condition affecting humans and companion animals, including dogs and cats, with etiologies involving hormonal, immune-mediated, genetic, infectious, allergic, parasitic, and behavioral mechanisms. Although androgenetic alopecia and alopecia areata are well characterized in humans, alopecia in veterinary patients more frequently reflects an underlying endocrine, hereditary, infectious, allergic, parasitic, or self-induced disorder. This review provides a comparative analysis of the pathophysiology, clinical presentation, pharmacological management, and pharmaceutical formulation of nonscarring alopecia across species. In humans, United States Food and Drug Administration-approved treatments, including topical minoxidil, oral finasteride, and selected Janus kinase inhibitors, are supplemented by emerging approaches such as platelet-rich plasma, low-level laser therapy, regenerative medicine, and nanotechnology-based delivery systems. In contrast, veterinary management primarily depends on identification and correction of the underlying disorder, with limited species-specific evidence and few dedicated formulations. Differences in follicular architecture, hair-cycle kinetics, skin permeability, drug metabolism, coat characteristics, and grooming behavior preclude direct extrapolation of human therapies to dogs and cats. Dermatophytosis further illustrates the One Health relevance of comparative alopecia management because successful control may require coordinated treatment of affected animals and humans together with environmental decontamination. This review highlights the need for species-specific clinical trials, safety assessment, and formulation strategies to support the development of effective and practical treatments for human and veterinary alopecia.",
-      "categories": [
-        "internalMedicine",
-        "dermatology"
       ]
     },
     {
@@ -2320,28 +2377,6 @@
       ]
     },
     {
-      "pmid": "42593822",
-      "title": "Bibliometric Analysis of Artificial Intelligence Use in Small Animal Thoracic Radiography.",
-      "journal": "Veterinary Medicine and Science",
-      "authors": "Aslan Canatan V, Uzabaci E",
-      "date": "2026 08 13",
-      "dateObject": "2026 08 13",
-      "abstract": "Artificial intelligence (AI) is increasingly used in veterinary diagnostic imaging, particularly in thoracic radiology, to support image interpretation. The aim of this study was to evaluate research trends in AI applications for small animal thoracic radiography through bibliometric analysis, identifying key contributors, leading journals, thematic focuses and collaboration patterns. Studies published between 2018 and 2025 were retrieved from the Web of Science (WoS) and PubMed databases using predefined Boolean search terms. After duplicate removal and screening based on inclusion and exclusion criteria, 27 articles were included. Data were analysed using RStudio (Biblioshiny) to evaluate publication trends, citation impact, scientific productivity, collaboration networks and thematic structures. Publications showed an increasing trend, with an annual growth rate of 10.41% and a peak in 2023 (n = 8). Studies published in 2020 showed the highest citation impact, averaging 46.33 citations. T. Banzato emerged as the most prolific author, while S. Burti authored the most cited study. The United States (n = 32) and Italy (n = 23) were the leading contributing countries. Thematic analyses demonstrated a primary focus on convolutional neural network (CNN)- and deep learning-based automated detection of cardiomegaly, pleural effusion and pulmonary diseases in dogs, reflecting the clinically driven nature of early studies. A significant positive correlation (p&#xa0;<&#xa0;0.001) was found between WoS citation counts and those from other databases, whereas other bibliometric indicators showed no significant associations. AI shows considerable potential to support diagnostic processes in veterinary thoracic radiology; however, dataset heterogeneity and species diversity remain major limitations, highlighting the need for methodological standardization and stronger international collaboration.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42410596",
-      "title": "Correction: Descriptive comparative morphology of the eye and ocular adnexa in Felidae: observations from a clouded leopard (Neofelis nebulosa), African lion (Panthera leo), and Pallas's cat (Otocolobus manul).",
-      "journal": "BMC Veterinary Research",
-      "authors": "Kle&#x107;kowska-Nawrot J, Badenhorst S, Borawski W, Go&#x17a;dziewska-Har&#x142;ajczuk K, Akta&#x15f; A, Chr&#xf3;szcz A",
-      "date": "2026 08 13",
-      "dateObject": "2026 08 13",
-      "abstract": "",
-      "categories": []
-    },
-    {
       "pmid": "42593707",
       "title": "Combined effects of dietary ellagic acid and Bacillus coagulans on growth performance, antioxidant and immune responses, intestinal health, and resistance to Streptococcus agalactiae in striped catfish.",
       "journal": "Veterinary Research Communications",
@@ -2417,18 +2452,6 @@
       "date": "2026 08 10",
       "dateObject": "2026 08 10",
       "abstract": "This study aimed to develop and evaluate an in-house flow cytometry-based direct antiglobulin test (DAT) for detecting IgG-bound platelet in cats, and to investigate the prevalence of DAT positivity and associated risk factors among thrombocytopenic cats. Platelets were identified by CD41/61 expression, and platelet-bound IgG was assessed by flow cytometry. A diagnostic cutoff for the percentage of IgG-positive platelets was established using 100 healthy cats and preliminarily evaluated in 50 cats with severe thrombocytopenia (platelet count <20,000/&#xb5;L) before being applied to the remaining 411 thrombocytopenic cats (platelet count <200,000/&#xb5;L) to determine the prevalence of DAT positivity and its associations with platelet count, breed, age, and sex. Healthy cats showed 0-10% IgG-positive platelets, and a cutoff of >10% was established. Using this threshold, 105/461 (22.8%) thrombocytopenic cats were classified as DAT positive. DAT positive cats had significantly lower platelet counts than DAT negative cats (median 4,000/&#xb5;L; mean 12,562/&#xb5;L vs 34,000/&#xb5;L; mean 47,956/&#xb5;L; P <0.05), and the percentage of IgG-bound platelets was inversely correlated with platelet count (r = -0.38; P = 0.048). No breed association was identified. Cats aged 5 years were more likely to be DAT positive, whereas neutered male cats were less likely to be DAT positive. Flow cytometry-based DAT is a useful adjunctive diagnostic tool for assessing suspected immune-mediated platelet destruction in thrombocytopenic cats. Younger cats may be at increased risk, whereas neutered male cats may be at lower risk. However, the interpretation of a DAT positive test result should be made alongside assessment of clinical findings and investigations for underlying causes of thrombocytopenia.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42572207",
-      "title": "EXPRESS: Development of an ultrasound-guided pericapsular knee desensitization technique in cats: an anatomical cadaveric study.",
-      "journal": "Journal of Feline Medicine and Surgery",
-      "authors": "Lemaitre D, Mej&#xed;as P, V&#xe1;squez MB, Arredondo D, Garbin M, Portela DA, Otero PE",
-      "date": "2026 08 10",
-      "dateObject": "2026 08 10",
-      "abstract": "ObjectivesTo develop an ultrasound-guided pericapsular knee desensitization (PKD) technique targeting the medial (MAN), lateral (LAN) and posterior (PAN) articular branches of the saphenous, common fibular and tibial nerves, and to evaluate its accuracy in domestic feline cadavers.MethodsIn Phase I, six pelvic limbs from three cadavers underwent ultrasonographic evaluation and gross dissection to describe the course of the MAN, LAN and PAN and identify anatomical and sonographic landmarks for PKD. In Phase II, bilateral PKD was performed in eight cadavers (16 limbs) using 0.1 ml (low-volume, LV) or 0.2 ml (high-volume, HV) of dye per nerve, with volumes randomly assigned between limbs. MAN and PAN injections were performed under ultrasound guidance through a single medial percutaneous approach, whereas LAN injections were landmark-guided. Dissection was used to assess dye distribution around target nerves, the joint capsule and parent nerves.ResultsThe MAN was consistently located within the distal subsartorial canal alongside the descending genicular vessels, the PAN coursed adjacent to the popliteal vessels, and the LAN ran superficially near the fibular head and lateral head of the gastrocnemius muscle. Overall success was 23/24 injections (95.8%; 95% CI 78.9-99.9%) in the LV group and 21/24 (87.5%; 95% CI 67.6-97.3%) in the HV group. Both volumes stained the MAN, LAN and PAN trajectories and the medial, caudal and lateral surfaces of the knee joint capsule without intracapsular injection.Conclusions and relevanceUltrasound-guided PKD is feasible in domestic feline cadavers, and small injection volumes (0.1-0.2 ml per nerve) reliably reach pericapsular compartments containing the principal articular branches while largely sparing major motor nerves. These findings provide an anatomical and technical basis for future clinical evaluation of PKD for perioperative and chronic knee pain management in cats.",
       "categories": [
         "internalMedicine"
       ]
@@ -2644,16 +2667,6 @@
       "date": "2026 08 07",
       "dateObject": "2026 08 07",
       "abstract": "Donkey sperm cryopreservation is a critical tool for preserving male fertility. But freezing and thawing could adversely affect sperm quality. There is limited information available regarding curcumin supplementation with different doses in sperm cryopreservation in donkeys. This study aimed to determine the alterations in post-thaw motility, viability, DNA integrity, acrosome integrity, and sperm kinematic parameters in relation to enzymatic leakage and nitric oxide levels in response to the addition of different doses of curcumin to the extender in male donkeys. Ejaculates were collected after semen collection from six male donkeys and then pooled. Samples were diluted with Tris-egg yolk glycerol extender. After centrifugation, pellet was diluted with an extender and divided into the five main groups containing curcumin at different concentrations, as C0 (control; 0 mM), C1 (0.125 mM), C2 (0.25 mM), C3 (0.5 mM), and C4 (0.75 mM). Semen quality was measured after thawing via CASA kinematic assessment and enzymatic leakage, such as alanine and aspartate aminotransferase levels (ALT and AST). Malondialdehyde (MDA), nitric oxide (NO), and catalase (CAT) levels were measured. Results revealed a significant elevation in motility, viability, DNA integrity, acrosome integrity, and CASA parameters with a linearity and straightness of sperm when curcumin was added at a concentration of 0.5 mM compared to others. AST, ALT, MDA, and NO levels were significantly declined at 0.5 mM of curcumin, with an elevation of CAT levels. The addition of curcumin improved sperm motility, kinematic parameters, viability, acrosome integrity, DNA integrity, antioxidant activity (CAT), and reduced both oxidative stress-related markers (MDA and NO), and cellular leakage markers (ALT and AST). Greatest improvements were observed at a curcumin concentration of 0.5 mM with a Tris-egg yolk glycerol extender of frozen-thawed donkey spermatozoa.",
-      "categories": []
-    },
-    {
-      "pmid": "42557850",
-      "title": "EXPRESS: The hormonal effects of owner-cat interactions on pet cats of different potential attachment styles.",
-      "journal": "Journal of Feline Medicine and Surgery",
-      "authors": "He X, Huang H, Chang H, Xu W, Gui C, Pan J, Yan H, Guo Y, Avilas-Rosa E, Yang B, Deng B, Zhang L",
-      "date": "2026 08 06",
-      "dateObject": "2026 08 06",
-      "abstract": "ObjectivesTo investigate how different owner-cat interaction types influence stress and owner-bonding in pet cats with different attachment styles, using salivary cortisol and oxytocin as physiological indicators.MethodsTwenty pet cats were classified into secure, insecure-anxious, or insecure-avoidant attachment styles using the Secure Base Test. Owners engaged in four types of interactions with their cats at home on separate days. Saliva samples were collected before and after each interaction and analyzed for cortisol and oxytocin concentrations. The effects of attachment style, interaction type, and time on hormonal changes were examined.ResultsSignificant interactive effects of attachment style and time, as well as interaction type and time, were observed for both cortisol and oxytocin. Passive interactions were associated with increased oxytocin and decreased cortisol, whereas forced interactions showed an opposite pattern. Secure cats exhibited more positive hormonal responses to human interactions compared with insecure cats, which showed increased cortisol or limited hormonal changes. Insecure cats also showed higher basal oxytocin levels than secure cats.Conclusions and relevanceHuman-cat interactions trigger changes in cortisol and oxytocin levels, depending on the interaction type and cat's attachment style. These findings highlight the importance of considering individual cat attachment differences when promoting appropriate interaction strategies to improve cat welfare and human-cat relationships.",
       "categories": []
     },
     {
@@ -3038,16 +3051,6 @@
       "categories": [
         "internalMedicine"
       ]
-    },
-    {
-      "pmid": "42410421",
-      "title": "Direct quantitative PCR detects genetic biomarkers of antileishmanial drug resistance in clinical samples from dogs with leishmaniosis.",
-      "journal": "BMC Veterinary Research",
-      "authors": "Carrasco-Martin M, Vi&#xf1;eta C, Mart&#xed;-Carreras J, Roura X, Ferrer L, Busquets P, Vila A, Francino O",
-      "date": "2026 07 06",
-      "dateObject": "2026 07 06",
-      "abstract": "Treatment response in canine leishmaniosis is driven by the dog host, the Leishmania parasite, and pharmacological factors, with drug resistance increasingly undermining the effectiveness of therapy. Current methods for assessing antileishmanial drug resistance rely on culture-based approaches, which are slow and technically demanding. A direct quantitative PCR test (LeishGenR&#x2122;) was applied to 104 clinical samples from 95 dogs in the Mediterranean area diagnosed with leishmaniosis in veterinary clinical settings and testing positive for Leishmania infantum by PCR. The assay enabled rapid detection of genetic drug-resistance biomarkers for allopurinol (metk), meglumine antimoniate (mrpa), and miltefosine (LdMT), providing a clinically relevant, timely alternative to culture-based approaches by directly analyzing circulating&#xa0;Leishmania infantum&#xa0;amastigotes. The assay (LeishGenR&#x2122;) showed high specificity (100%) and sensitivity (>&#x2009;87.5%) for genetic drug-resistance profile assignment and a strong correlation with whole-genome sequencing for gene copy number assessment (metk: r&#x2009;=&#x2009;0.878;&#xa0;mrpa: r&#x2009;=&#x2009;0.943 and LdMT&#x2009;=&#x2009;0.691). Genetic drug-resistance biomarkers were detected in 24.3% of L. infantum DNA from clinical samples analyzed (20/82; 95% CI 16.3-34.6), most commonly for allopurinol (13.4%; 95% CI 7.6-22.4), then meglumine antimoniate (9.4%; 95% CI 4.6-18.2), and for miltefosine (5.4%; 95% CI 1.8-14.8). Prevalence was higher in dogs previously treated for leishmaniosis. This study demonstrates the ability to detect genetic biomarkers of drug resistance in L. infantum directly from clinical samples of dogs with leishmaniosis. This method enables rapid, precise detection of genomic biomarkers, circumventing delays associated with culture-based methods and supporting more effective clinical management and surveillance. Among dogs with high parasitemia referred to clinics in Mediterranean regions sampled in this study, the findings reveal a significant prevalence of circulating L. infantum strains carrying genomic drug resistance biomarkers to standard treatments for canine leishmaniosis.",
-      "categories": []
     },
     {
       "pmid": "42405028",

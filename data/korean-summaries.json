@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T23:38:23.136Z",
+  "updated_at": "2026-09-23T23:44:41.315Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -1183,6 +1183,14 @@
       "title": "Clonidine-induced delayed gastric emptying persists despite prokinetic therapy in dogs fed a liquid meal as assessed by acetaminophen absorption.",
       "journal": "American Journal of Veterinary Research",
       "generated_at": "2026-09-02T23:22:12.598Z",
+      "model": "gpt-5-mini"
+    },
+    "42281370": {
+      "brief_summary": "프랑스 고양이 소유자 대상 익명 온라인 조사(n=1566)에서 소유자의 성격 특성과 비전통적(non-conventional) 식단(수제·생식·곡물무첨가 등) 및 사료에 신선육 포함 여부의 연관성을 분석했다. 다변량 로지스틱 회귀 결과, 높은 성실성(Conscientiousness)은 비전통적 식단 선택과 낮은 연관성(OR 0.80, 95% CI 0.67–0.95), 높은 개방성(Openness)은 높은 연관성(OR 1.19, 95% CI 1.01–1.41)과 관련됐다. 신선육 포함의 경우 낮은 우호성(Agreeableness)과 연관(OR 0.55, 95% CI 0.35–0.87)되었고, 교육·훈련 활동 및 순종(품종) 소유가 긍정적 관련을 보였다. 저자들은 이러한 성격 차이를 수의사와의 대화·상담 방식 조정에 활용할 수 있다고 제시한다.",
+      "detailed_summary": "연구는 프랑스 전체 대상 익명 온라인 설문으로 고양이 소유자 1566명의 응답을 수집했고 소유자 성격은 프랑스어 판 Big Five Inventory(BFI)로 평가했다. 연구는 두 가지 결과를 정의했으며, (1) 비전통적 식단 사용 여부(예, n=439)와 (2) 식단에 신선육 포함 여부(배타적 상업사료가 아닌 경우, 예 n=61)를 비교했다. 설명변수로 소유자 성격 특성을 넣어 각 결과에 대해 다변량 로지스틱 회귀모형을 구축했다. 주요 결과로는 높은 Conscientiousness가 비전통적 식단 선택과 유의하게 낮은 연관성(OR 0.80, 95% CI 0.67–0.95), 높은 Openness가 높은 연관성(OR 1.19, 95% CI 1.01–1.41)을 보였다. 또한 일상적 요리(OR 1.49, 95% CI 1.17–1.91)와 자율적 자극기구 접근(OR 1.74, 95% CI 1.11–2.84)이 비전통적 식단과 양의 연관을 보였다. 신선육 포함과는 낮은 Agreeableness(OR 0.55, 95% CI 0.35–0.87), 고양이와의 훈련 활동(OR 2.40, 95% CI 1.32–4.18), 순종(OR 2.10, 95% CI 1.10–3.82)이 관련됐다. 초록에서는 구체적 제한점은 명시되지 않았으며, 저자들은 이러한 성격 관련 차이를 수의사의 의사소통 전략에 반영해 반려묘의 영양 상담을 도울 수 있다고 결론지었다.",
+      "title": "Owner personality traits associated with non-conventional feeding practices in domestic cats.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "generated_at": "2026-09-23T23:44:22.483Z",
       "model": "gpt-5-mini"
     },
     "42283139": {
@@ -5583,6 +5591,30 @@
       "title": "Evaluation of a canine hemoglobin A1c point-of-care assay: analytical validation, clinical utility, and establishing a population-based reference interval.",
       "journal": "Journal of Veterinary Internal Medicine",
       "generated_at": "2026-09-22T23:36:56.719Z",
+      "model": "gpt-5-mini"
+    },
+    "42772772": {
+      "brief_summary": "본 연구는 양 10마리에 메페프로닉산(mefepronic acid)을 근육주사(IM)로 10 mg/kg, 1일 1회 3일간 투여하여 혈청 산화적 스트레스, 지질대사 및 장기 기능 지표에 미치는 영향을 평가했다. 투여 후 8-OHdG 증가와 CAT 감소, CK-MB 동정지의 일시적 증가 및 BUN, HDL·LDL 농도 감소가 유의하게(p < 0.05) 관찰되었으나 트로포닌 I 상승이나 임상적으로 의미 있는 심근 손상 및 간·신장 기능 악화는 확인되지 않았다. 임상적으로는 일부 일시적 생화학적 변화가 있었으나 심각한 부작용은 없었던 것으로 보고되었다.",
+      "detailed_summary": "무작위 배정에 대한 언급은 없으며, 연구는 건강한 양 10마리를 대상으로 단일 군 관찰 연구로 진행되었다. 메페프로닉산을 10 mg/kg을 근육주사(IM)로 하루 한 번 3일간 투여하였고, 혈액은 투여 전(0 h)과 투여 후 24, 48, 72 h에 채혈했다. 측정 항목으로는 8-OHdG, MDA, SOD, GPX, CAT 등 산화적 스트레스 지표와 CK-MB 동종효소, 트로포닌 I, ALP, AST, ALT, 총 빌리루빈, BUN, 크레아티닌, 콜레스테롤, 중성지방, LDL, HDL 등을 포함하였다. 결과적으로 8-OHdG의 일시적 증가와 CAT의 감소, CK-MB 동종효소의 일시적 증가 및 BUN·HDL·LDL의 감소가 통계적으로 유의(p < 0.05)하게 관찰되었고, 나머지 지표들은 유의한 변화가 없었다(p > 0.05). 이러한 생화학적 변화는 일시적이었고 트로포닌 I 상승이나 임상적으로 의미 있는 심근 손상, 간·신장 기능 장애와 연관되지는 않았다. 결론적으로 메페프로닉산은 본 연구 조건에서는 일부 일시적 산화적 스트레스 및 CK-MB 변화 등을 유발했으나 임상적으로 중요한 간·신장 또는 심근 손상은 관찰되지 않았다.",
+      "title": "Safety Assessment of Mefepronic Acid in Sheep.",
+      "journal": "Veterinary Medicine and Science",
+      "generated_at": "2026-09-23T23:44:41.298Z",
+      "model": "gpt-5-mini"
+    },
+    "42773435": {
+      "brief_summary": "Vipera berus에 물린 개(EVB), 중환자실 입원 개(IC), 임상적으로 명백한 급성신손상(AKI APP)을 보이는 개와 정상 개를 대상으로 요 Cystatin C(uCysC), 요 N‑acetyl‑β‑D‑glucosaminidase(uNAG), 요 포도당(uGlu)을 요 크레아티닌(uCr)으로 정규화해 비교했다. 총 97마리(30 정상, 28 EVB, 14 AKI APP, 25 IC)를 포함했고, 입원 초기(1일차)에 EVB, IC, AKI APP군에서 uCysC/uCr와 uGlu/uCr가 정상군보다 유의하게 높았다(p<0.008). 요 CysC/uCr는 AKI APP군의 비생존자에서 초기부터 높게 유지되어 예후적 의미가 있을 수 있으며, uCysC/uCr와 uGlu/uCr는 개에서 초기 신세뇨관 손상의 잠재적 표지자임을 시사한다.",
+      "detailed_summary": "연구는 총 97마리의 개(정상 30, Vipera berus에 물린 EVB 28, 임상적 AKI를 보이는 AKI APP 14, 중환자실 입원이나 중증이지만 명백한 AKI는 아닌 IC 25)를 대상으로 시행되었다. 혈청과 소변은 입원 1일차와 2일차에 채취했고, 소변은 추가로 7일과 14일차에도 채취했다. 주요 평가항목은 요 Cystatin C(uCysC), 요 N‑acetyl‑β‑D‑glucosaminidase(uNAG), 요 포도당(uGlu) 농도이며 모든 값은 요 크레아티닌(uCr)으로 정규화해 비교했다. 1일차 중앙값(중앙값[IQR])은 uCysC/uCr가 정상 0.02 [0.01–0.03], EVB 0.05 [0.03–0.11], IC 0.06 [0.03–0.4], AKI APP 4.4 [0.13–30.0] (단위: 10^-3)였고, uGlu/uCr는 정상 0.03 [0.02–0.04], EVB 0.04 [0.03–0.06], IC 0.05 [0.03–0.09], AKI APP 0.12 [0.05–0.45]로 EVB·IC·AKI APP군이 정상군보다 유의하게 높았다(p<0.008). 대부분의 소변 지표는 입원 후 2주 동안 감소했으나 AKI APP군에서는 감소가 관찰되지 않았고, AKI APP의 비생존자는 초기부터 uCysC/uCr가 더 높았고 이후에도 높은 상태가 지속되어 예후표지자로의 가능성이 제시되었다(p<0.002). 초록에서는 uNAG도 측정했다고만 표기되어 있으나 주요 결과로서의 유의성은 강조되지 않았다. 초록에는 제한점이 명시되어 있지 않으며, 연구결과는 uCysC/uCr와 uGlu/uCr가 개의 초기 신세뇨관 손상 탐지에 잠재적 표지자임을 시사한다고 보고한다.",
+      "title": "Evaluation of urinary biomarkers for detection of renal tubular injury in Vipera berus-envenomated and critically ill dogs with and without clinically apparent acute kidney injury.",
+      "journal": "BMC Veterinary Research",
+      "generated_at": "2026-09-23T23:44:01.956Z",
+      "model": "gpt-5-mini"
+    },
+    "42774971": {
+      "brief_summary": "중앙 이탈리아 라치오주 동물 암 등록부(ACR)에 등록된 2009–2023년 개의 원발성 종양을 대상으로 한 기술역학 분석으로, 총 9,823건의 종양(9,122마리)이 포함되었다. 피부(38.4%), 유선(23.2%), 연조직(13.3%)이 가장 흔했고 전체의 59.3%가 악성종양이었다. 조사 보정과 등록 완전도(75.3%) 보정을 통해 산출한 연간 조정 조면발생률은 개 100,000마리당 전체 662.1건(악성 249.4, 양성 412.7)으로 보고되었으며, 연구는 ACR의 역학감시 및 One Health 연구 활용 가치를 제시한다.",
+      "detailed_summary": "연구는 라치오주 ACR 데이터를 이용한 15년(2009–2023) 기술연구로, 종양은 Vet-ICD-O-canine-1(개용 종양 분류)로 표준화되어 분석되었다. 주요 평가항목으로는 종양의 해부학적 분포, 악성 여부, 연령·성별·품종·사료·생활환경 등 인구사회학적·환경적 인자와의 비례유병비(PMR)를 이용한 연관성 평가가 포함되었다. 표본은 9,823건의 원발성 종양(9,122마리)이며 59.3%가 악성이었고, 연령별로는 8–11세에서 발생 비율이 가장 높았다. 사례 중 60.2%가 순종, 58.3%가 산업용(상업적) 사료 급여, 49.1%가 주로 실내 생활이었고 여성 환자가 57.7%를 차지했으나 성별 연령 보정 PMR 분석에서는 대부분의 종양이 수컷에서 비례가 더 높았고 유선종양은 adj PMR=46.22(95% CI 29.75–71.81)로 예외였다. 미수술(번식된) 암컷은 유선 및 여성 생식기 종양의 PMR가 높았고, 중성화된 암컷은 혈액·림프계, 피부, 소화기 및 신경계 종양의 PMR가 더 높았다. 산업용 사료와 실외·실내 생활과 특정 종양부위(예: 산업용 사료·실외에서 피부종양 비율 증가, 실내에서 유선종양 비율 증가) 간의 연관성도 관찰되었으며, 초록에는 별도의 제한점 기술은 포함되어 있지 않다.",
+      "title": "The epidemiological landscape of canine tumors in central Italy: animal cancer registry insights, distribution patterns, and incidence estimates.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-09-23T23:43:41.612Z",
       "model": "gpt-5-mini"
     }
   }
