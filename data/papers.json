@@ -1,6 +1,85 @@
 {
-  "updated_at": "2026-09-23T23:43:18.440Z",
+  "updated_at": "2026-09-24T23:53:14.247Z",
   "papers": [
+    {
+      "pmid": "42781415",
+      "title": "Body condition, age, and sex as modulators of peripheral blood immune-cell populations and lymphocyte proliferation in cats.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Kr&#xfc;ger H, Moritz A, Roshani B, Neumann S",
+      "date": "2026 09 24",
+      "dateObject": "2026 09 24",
+      "abstract": "Feline obesity is common, and in other species it has been linked to immune dysregulation; yet its immunological consequences in cats, and their modulation by age and sex, remain poorly defined. Whole blood from 78 neutered client-owned cats (37 males, 41 females; 1-16 years) was analyzed by flow cytometry using a panel characterizing T cells (including CD5 + CD4 + and CD5 + CD8 + subsets), B cells (CD21 + ) and natural killer (CD56 + ) cells with their activation (CD80) and proliferation (Ki67) status. Cats were grouped by body condition score into normal-weight (4-5) and overweight (6-9); lymphocyte proliferation was assessed in a subset by a carboxyfluorescein succinimidyl ester assay after concanavalin A stimulation, and serum amyloid A, triglycerides and adiponectin were measured in overweight cats. Across the cohort, overweight cats displayed higher frequencies of proliferating CD21 + Ki67 + B cells than normal-weight cats, while the proliferation assay was descriptively consistent with enhanced T-cell proliferation in both sexes. Increasing age was associated with a decline in CD5 + CD4 + T cells in both sexes and, in females, additionally in CD5 + CD21 + cells alongside rising CD80 expression. Sex differences shifted across life, from B-cell activation in young adults to T-cell subsets in adults (higher CD5 + CD8 + in males, higher Ki67 + fractions in females) and CD56 + NK cells in the oldest cats. Body-condition effects were largely age- and sex-specific and emerged only after stratification: adult overweight males showed higher proliferating CD4 + Ki67 + and CD8 + Ki67 + T cells, young-adult overweight females higher CD5 + and activated CD5 + CD21 + CD80 + cells, and aged overweight females fewer proliferating CD5 + CD21 + Ki67 + B cells. Among overweight cats, higher adiponectin was associated with fewer CD5 + lymphocytes, with no associations for serum amyloid A or triglycerides. Overall, feline obesity was associated with subtle changes in immune-cell composition but more pronounced effects on lymphocyte proliferative responsiveness, both strongly modulated by age and sex.",
+      "categories": []
+    },
+    {
+      "pmid": "42781373",
+      "title": "Case Report: Repeated imaging and surgical treatment of a vascular hamartoma arising from the cervical vertebral column of a cat.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Schmitz AK, Buhmann G, Trapp A, Matiasek K, Jurina K",
+      "date": "2026 09 24",
+      "dateObject": "2026 09 24",
+      "abstract": "A 3-year-old male neutered Domestic Shorthair cat was presented with a 1-year history of progressive right-lateralized proprioceptive ataxia, ambulatory tetraparesis and cervical spinal pain, with sudden deterioration shortly before presentation. Neurological examination was consistent with a right-sided C6-T2 myelopathy. Magnetic resonance imaging (MRI) revealed a right-sided extradural myelocompressive lesion at the level of the C5 vertebra, associated with osseous proliferation arising from the right lamina and vertebral body, causing severe spinal cord compression and leftward deviation of the spinal cord. The mass was surgically resected, and histopathology confirmed a vertebral vascular hamartoma. Clinical signs improved after a brief period of postoperative worsening. One year later, neurological deficits recurred. MRI and computed tomography (CT) confirmed regrowth of the vertebral lesion. A second surgical excision was performed, and histopathology again confirmed a vertebral vascular hamartoma. To the authors' knowledge, this is the first report describing follow-up imaging and repeated surgical intervention, with histopathological confirmation at both procedures, in a cat with recurrent cervical vertebral vascular hamartoma. It highlights vertebral vascular hamartoma as an important differential diagnosis for young cats with progressive myelopathy, extradural spinal cord compression and vertebral osseous proliferation, and suggests that surgical intervention can result in meaningful clinical improvement despite possible regrowth after incomplete resection.",
+      "categories": [
+        "surgery",
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "42781032",
+      "title": "Interpreting cranial abdominal coverage after caudal epidural local anesthetic administration in dogs and cats.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Nagahama S",
+      "date": "2026 09 24",
+      "dateObject": "2026 09 24",
+      "abstract": "Caudal epidural local anesthetic administration is used in dogs and cats and may be interpreted as contributing to cranial abdominal coverage, but favorable perioperative outcomes do not identify the cranial extent or completeness of the local-anesthetic block. This conceptual analysis distinguishes anatomical distribution, functional attenuation of predefined stimuli, physiological tolerance, and composite perioperative clinical performance. In feline ovarian surgery, 0.3 ml/kg regimens have produced heterogeneous clinical outcomes, whereas target-oriented CT mapping did not show uniform bilateral T10-T11 foraminal reach even with cumulative iohexol volumes of 0.75-1.0 ml/kg. Differences in injectate, dosing sequence, and endpoint preclude a direct dose-response comparison, but the magnitude of this discrepancy makes consistent complete bilateral coverage after 0.3 ml/kg a less plausible explanation for favorable outcomes. Canine data support prospective testing of a 0.6 ml/kg dose-volume regimen; feline data support comparison of 1.0 ml/kg as an adequacy-oriented candidate with 0.75 ml/kg as a lower comparator. Future studies should aim to connect target-oriented anatomical mapping, procedure-relevant functional testing, physiological assessment, and clinical evaluation using closely matched regimens, with any necessary differences made explicit.",
+      "categories": [
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42780817",
+      "title": "Contents under pressure: vascular proliferation and gliosis in the brains of Cavalier King Charles Spaniels with syringomyelia.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Atkins C, Rusbridge C, Guil-Luna S, D&#xed;az-Santana P, Constantino-Casas F, Salguero FJ",
+      "date": "2026 09 24",
+      "dateObject": "2026 09 24",
+      "abstract": "Vascular and astroglial changes in the central nervous system of Cavalier King Charles Spaniels (CKCS) affected by Chiari-like malformation (CM) and secondary syringomyelia (SM) and ventriculomegaly (VM) are poorly characterised. CM is a developmental malformation of brachycephalic breeds and is a significant welfare concern, especially for CKCS in which this disorder is considered ubiquitous with varying degrees of severity. A frequent sequela of CM is SM and VM, causing a range of neurological clinical signs. Nineteen deceased CKCS diagnosed with CM were donated for the purposes of research, from which two groups were selected for examination: those with SM and VM ( n &#x202f;=&#x202f;13) and those without SM and VM ( n &#x202f;=&#x202f;6). Periventricular tissue samples were collected, processed routinely for histology, and stained with H&E, Martius Scarlet Blue (MSB), and glial fibrillary acidic protein (GFAP). Dogs with SM and VM demonstrated increased angiogenesis (23.62&#x202f;&#xb1;&#x202f;6.79 vs. 11.67&#x202f;&#xb1;&#x202f;4.93 mean blood vessels per 100x magnification field), and increased vessel wall thickness (71.61%&#x202f;&#xb1;&#x202f;5.14 vs. 58.73%&#x202f;&#xb1;&#x202f;6.47 of total vessel diameter) and greater astrocyte activation, indicated by increased GFAP immunoreactivity, what could be associated with chronic pressure trauma and hypoxic insult resulting from altered vascular compliance. These findings provide insight into the pathological mechanisms associated with CM and its sequelae and may inform future investigations into diagnostic biomarkers and therapeutic targets.",
+      "categories": [
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "42780347",
+      "title": "In vitro effects of apigenin, curcumin, and fumaric acid on intracellular ROS and TNF-&#x3b1; responses in Escherichia coli -stimulated canine PBMCs.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "M&#xf3;ritz AV, Pusk&#xe1;s B, Nagy N, Jerzsele &#xc1;, Farkas O",
+      "date": "2026 09 24",
+      "dateObject": "2026 09 24",
+      "abstract": "Chronic inflammatory enteropathy (CIE) is a common gastrointestinal disorder in dogs and is associated with dysregulated inflammatory and oxidative responses, potentially contributing to the development of endotoxemia. The present study investigated the effects of apigenin, curcumin, and fumaric acid on inflammatory and oxidative responses in canine peripheral blood mononuclear cells (PBMCs) under endotoxin- and bacteria-associated stimulation. PBMCs obtained from three healthy donor dogs were exposed to Escherichia coli O111:B4 or O127:B8 lipopolysaccharide (LPS), or to enrofloxacin-treated E. coli , and subsequently treated with the tested compounds. Cellular metabolic activity, LDH release, intracellular reactive oxygen species (ROS), H 2 O 2 production, and TNF-&#x3b1; secretion were assessed. Minimum inhibitory concentration (MIC), mutant prevention concentration (MPC), and fractional inhibitory concentration (FIC) indices were determined to evaluate antimicrobial activity and interactions with enrofloxacin, amoxicillin-clavulanic acid, and gentamicin. None of the tested compounds significantly altered metabolic activity or LDH release under the applied conditions. Curcumin consistently reduced intracellular ROS and H 2 O 2 production under selected stimulated conditions and decreased TNF-&#x3b1; secretion. Apigenin increased DCF-derived intracellular ROS under basal conditions and following lower-intensity O111 LPS stimulation, while reducing H 2 O 2 and TNF-&#x3b1; production under several conditions, indicating a stimulus- and assay-dependent effect on cellular redox responses. Fumaric acid showed more limited, stimulus-dependent effects on oxidative and inflammatory parameters. Antimicrobial activity was also evaluated against four canine septicemic E. coli isolates. Due to limited solubility, the MIC and MPC values of the tested compounds were &#x2265;1,024&#x202f;&#x3bc;g/mL and could not be reliably determined above this concentration. Curcumin showed synergistic interaction with amoxicillin-clavulanic acid only against isolate No. 863, whereas fumaric acid exhibited concentration-dependent antagonism with enrofloxacin. Overall, the findings demonstrate compound- and stimulus-dependent modulation of oxidative and inflammatory responses in canine PBMCs and support further investigation of these compounds in disease-relevant models of endotoxemia and canine CIE.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42779179",
+      "title": "EXPRESS: Undenatured type II collagen enhances mobility in cats: a randomized placebo controlled cross over field study.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "authors": "Piemontese C, Stabile M, Vicenti C, Fracassi L, Lacitignola L, Garcia-Pedraza E, Tesse G, Crovace A, Staffieri F",
+      "date": "2026 09 24",
+      "dateObject": "2026 09 24",
+      "abstract": "Objectives This study aimed to evaluate the effects of a complementary feed containing undenatured type II collagen on mobility and degenerative joint disease (DJD)-associated pain in client-owned cats with mild to moderate DJD. Methods This prospective, double-blind, randomized, placebo-controlled, cross-over clinical study (coded 3361) included twenty cats (13 females, 7 males; mean age 8.7&#xb1; 3.5 years; mean weight 4.8 &#xb1; 0.8 Kg). After Ethical Committee approval (n. 01/2021/DETO) and written informed consent, cats underwent physical and radiographic examination. Cats with confirmed DJD and no significant comorbidities were randomized to receive either undenatured type II collagen or placebo chews once daily for 12 weeks, followed by a six-week washout period and crossover to the alternate treatment. Client-specific outcome measurements (CSOM), the short form of the Feline Musculoskeletal Pain Index (FMPI-sf) and quality of life (QoL) assessments were completed at baseline, 6 weeks and 12 weeks. Results Fourteen cats completed all study visits. Cats receiving undenatured type II collagen showed significant reductions in absolute CSOM and FMPI-sf scores at 6 and 12 weeks compared to baseline (P=0.006 and P=0.009, respectively), reflecting improved mobility and reduced musculoskeletal discomfort. QoL scores improved significantly (P=0.002). After 12 weeks, percentage variation in CSOM and FMPI-sf scores had a higher reduction in the collagen group than placebo (-27% and -30% vs +0.4% and +40%). Furthermore, 57% of cats in the supplemented group achieved a clinically meaningful reduction in CSOM (&#x2265; 2 points) after 12 weeks, compared with 28% in the placebo group. Conclusions and relevance Daily supplementation with undenatured type II collagen improved caregiver-reported mobility and reduced DJD-associated pain in cats with mild to moderate DJD, supporting its potential role as a complementary feed for feline musculoskeletal health.",
+      "categories": []
+    },
+    {
+      "pmid": "42779156",
+      "title": "EXPRESS: Pull-out strength of cannulated compression headless screws and cortical screws in the feline sacrum.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "authors": "Kornmayer M, Klement J, Zablotski Y, Thorwaechter C, Wieser J",
+      "date": "2026 09 24",
+      "dateObject": "2026 09 24",
+      "abstract": "The aim of this study was to compare the pull-out strength of cannulated compression headless screws (CCHSs) of two different lengths with that of cortical screws in the feline sacrum. In this experimental study, 30 cadavers of adult Domestic Shorthair cats were randomly assigned to three groups: single 2.4 mm cortical screws engaging 60 % of the sacral width (CS 60, n = 10), 2.5 mm CCHSs engaging 60 % of the sacral width (CCHSs 60, n = 10), and 2.5 mm CCHSs engaging 40 % of the sacral width (CCHS 40, n = 10). Screws were inserted into feline sacra and tested for pull-out strength using a universal testing machine at a constant displacement rate of 0.2 mm / sec up to 20 mm. Peak pull-out force (PPF), displacement at PPF and stiffness were calculated from the load-displacement curves and compared among groups using Fisher's ANOVA and the Welch test. Post-hoc pairwise comparisons were performed using Student's t-tests and the Games-Howell test. Statistical significance was set at p &#x2264; 0.05. Pairwise comparison of PPF showed significant differences between the CS 60 and CCHS 60 groups (p = 0.05) and between the CS 60 and CCHS 40 groups (p = 0.05). No significant difference was detected between the CCHS 60 and CCHS 40 groups (p = 0.98). For displacement at PPF and stiffness, no significant differences were identified in the pairwise comparison. Fully threaded cortical screws provide greater holding strength than partially threaded CCHSs in cadaveric feline sacra. In addition, a single short CCHS offers holding strength comparable to that of a CCHS of the conventionally recommended length.",
+      "categories": []
+    },
     {
       "pmid": "42765737",
       "title": "Response to: citation clarification regarding feline eltrombopag in the ACVIM consensus statement on the treatment of immune thrombocytopenia in dogs and cats.",
@@ -11,6 +90,47 @@
       "abstract": "",
       "categories": [
         "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42777771",
+      "title": "Gene electrotransfer for DNA immunotherapy in veterinary oncology: Technical Tutorial Video.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Impellizeri JA, Vigodny A, Sanchez E, Aurisicchio L, Conforti A",
+      "date": "2026 09 23",
+      "dateObject": "2026 09 23",
+      "abstract": "To demonstrate the technique of gene electrotransfer (GET) for administration of plasmid DNA immunotherapy in veterinary oncology. The method demonstrated in the video is relevant to both canine and feline cancer patients undergoing administration of DNA immunotherapies. This Technical Tutorial Video demonstrates patient preparation, IM plasmid administration, electrode positioning, electroporation pulse delivery, and postprocedural assessment for a GET procedure. Required equipment, procedure workflow, and practical technical considerations are reviewed. The video illustrates the general workflow for delivery of plasmid DNA immunotherapy using IM GET under general anesthesia, including patient preparation, plasmid administration, pulse delivery, and patient monitoring. GET is increasingly used in veterinary oncology to facilitate delivery of DNA immunotherapies targeting tumor-associated antigens and immunomodulatory molecules. This tutorial provides a practical overview of the technique.",
+      "categories": [
+        "oncology"
+      ]
+    },
+    {
+      "pmid": "42778219",
+      "title": "Nasal Colonization of Antimicrobial-Resistant and Biofilm-Producing Staphylococcus spp. in Surgical Canine Patients From Italy.",
+      "journal": "Veterinary Medicine and Science",
+      "authors": "Nocera FP, Schena R, Romano A, Cavalli S, Cortese L, Fatone G, Martino L",
+      "date": "2026 09 23",
+      "dateObject": "2026 09 23",
+      "abstract": "Staphylococcus spp. commonly colonise the skin and mucosal surfaces of dogs and may act as opportunistic pathogens under favourable conditions. Antimicrobial resistance and biofilm formation are key traits that may contribute to bacterial persistence and reduced susceptibility to antimicrobial agents. This study aimed to characterise the antimicrobial resistance profiles and biofilm-forming ability of Staphylococcus spp. isolated from the nasal cavities of dogs admitted to the Surgical Unit of the Veterinary Teaching Hospital in Naples, Italy. Nasal swabs were collected from 100 dogs prior to surgery. Strains were identified by MALDI-TOF mass spectrometry. Antimicrobial susceptibility testing was performed using the disk diffusion method according to international guidelines. Biofilm formation was assessed using a quantitative crystal violet assay. A total of 65 Staphylococcus strains were recovered. Staphylococcus pseudintermedius was the most prevalent species (40%; &#x3c7; 2 &#xa0;=&#xa0;134.6, df&#xa0;=&#xa0;14, p&#xa0;<&#xa0;0.001), followed by Staphylococcus aureus (15.4%) and Staphylococcus epidermidis (7.7%). High levels of resistance were observed to several antimicrobials, with 61.5% and 4.6% of strains being classified as multidrug-resistant (MDR) and extensively drug-resistant (XDR), respectively. Notably, all tested isolates exhibited biofilm formation, with the majority (56.9%) classified as moderate producers. These findings highlight the presence of antimicrobial-resistant and biofilm-forming Staphylococcus spp. in the nasal cavities of dogs undergoing surgery. The coexistence of these traits may contribute to bacterial persistence, representing a concern for clinical management. Therefore, preoperative nasal screening in high-risk patients should be considered to optimize prophylactic antimicrobial protocols and reinforce infection control in veterinary surgical settings.",
+      "categories": [
+        "internalMedicine",
+        "surgery",
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42777784",
+      "title": "Palliative Debulking of an Aortic Body Tumour With Right Atrial Invasion in a Dog Under Partial Cardiopulmonary Bypass.",
+      "journal": "Veterinary Medicine and Science",
+      "authors": "Suzuki S, Tanaka S, Kanno N, Yogo T, Harada Y, Michishita M, Hara Y",
+      "date": "2026 09 23",
+      "dateObject": "2026 09 23",
+      "abstract": "Aortic body tumours are uncommon heart-base neoplasms in dogs, and intracardiac extension causing clinically significant right atrial obstruction is rarely described. A 7-year-1-month-old, 15.2-kg, castrated male French Bulldog was evaluated for 2 weeks of lethargy, hyporexia, exercise intolerance, abdominal distension, and polydipsia. Transthoracic echocardiography revealed severe right-sided cardiac enlargement and a heterogeneous right atrial intracavitary mass (3.2 &#xd7; 3.1 cm) suspected to arise from the heart base, with tricuspid regurgitation (maximal velocity 4.03 m/s). Abdominal ultrasonography showed hepatic venous congestion and marked ascites; fluid was a modified transudate. Medical therapy failed to resolve ascites, and surgical debulking was performed on Day 7 under partial cardiopulmonary bypass. The mass was firmly adherent to the atrial septal aspect and could not be completely excised. Postoperatively, ascites and clinical signs resolved, right-sided cardiac enlargement decreased, and tricuspid regurgitation was no longer detectable; the dog was discharged on Day 14. A recurrent right atrial mass was documented on Day 360 without recurrence of right-sided heart failure. The dog died on Day 390 from pancreatitis-associated biliary obstruction and multiple organ failure. Necropsy confirmed an aortic body tumour with intracardiac extension into the right atrium and pulmonary metastasis with tumour emboli. Partial cardiopulmonary bypass-assisted palliative debulking may temporarily relieve life-limiting intracardiac obstruction in carefully selected dogs; however, this approach is high-risk and non-curative, and its contribution to long-term survival remains uncertain because postoperative toceranib therapy and the natural behaviour of the tumour may also have influenced the clinical course.",
+      "categories": [
+        "cardiology",
+        "internalMedicine",
+        "oncology",
+        "surgery"
       ]
     },
     {
@@ -172,19 +292,6 @@
       ]
     },
     {
-      "pmid": "42762832",
-      "title": "Escherichia coli isolated from canine pyometra show decreased susceptibility to amoxicillin-clavulanic acid in dogs.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Fautz Z, Amato N, Windsor R",
-      "date": "2026 09 19",
-      "dateObject": "2026 09 19",
-      "abstract": "To describe bacterial culture results and antimicrobial susceptibility patterns for dogs undergoing surgical treatment for pyometra. This retrospective study included dogs that underwent ovariohysterectomy at referral hospitals and had a positive bacterial culture of uterine fluid or histopathologic changes consistent with pyometra between January 2020 and December 2024. Data collected from medical records included clinical signs on presentation, hematological and biochemical abnormalities, aerobic and anaerobic bacterial isolates, antimicrobial susceptibility results, and peri- and postoperative antimicrobial administration. Prevalence of antimicrobial susceptibility was compared across select geographic regions and between Clinical and Laboratory Standards Institute (CLSI) susceptibility interpretation guideline editions. 278 dogs were included. Neutrophilia was identified in 74.2% of dogs. Only 1 bacterium was isolated in 88.8% of dogs, while 10.4% of cases were polymicrobial. Escherichia coli was the most common isolate (73.1%). Amoxicillin-clavulanic acid and enrofloxacin were prescribed postoperatively to 77.6% and 51.1% of dogs, respectively. Using CLSI VET01S edition 4, E coli susceptibility to amoxicillin-clavulanic acid and enrofloxacin was present in 30.3% and 96.9% of isolates, respectively. Reclassification using CLSI VET01S edition 7 resulted in lower susceptibility classifications in 9 of 10 antimicrobials evaluated, including reductions of 46.9% for amoxicillin-clavulanic acid and 3.1% for enrofloxacin. Amoxicillin-clavulanic acid was frequently prescribed despite limited susceptibility among E coli isolates. Updated CLSI breakpoints reclassified susceptibility for most antimicrobials despite unchanged MICs. Regional antibiograms may show decreased susceptibility compared to historical recommendations. Judicious empiric antimicrobial selection should be guided by antimicrobial stewardship principles rather than routine reliance on any single antimicrobial.",
-      "categories": [
-        "internalMedicine",
-        "surgery"
-      ]
-    },
-    {
       "pmid": "42761244",
       "title": "Pilot study demonstrating safety and efficacy of intravenous allogeneic uterine-derived mesenchymal stromal cell therapy in cats with naturally occurring osteoarthritis.",
       "journal": "Frontiers in Veterinary Science",
@@ -243,18 +350,6 @@
       "dateObject": "2026 09 19",
       "abstract": "Swimmer puppy syndrome (SPS) is a rare developmental condition of unknown etiology. The syndrome is characterized by a puppy's inability to adduct the limbs, resulting in lateral limb abduction and an inability to stand or walk. In this case, an almost 4-week-old female Golden Retriever presented for early physiotherapeutic evaluation. Adduction tapes were applied to the forelimbs and hindlimbs. Additionally, the treatment area was covered with a non-slip rubber mat. Further physiotherapeutic interventions were implemented. Intensive care was discontinued after 10&#x202f;days. At the 16-month follow-up, the dog showed no clinically apparent gait abnormalities and had made a good functional recovery. Early recognition and conservative management, including physiotherapeutic intervention with simple mechanical support through loose-loop taping and environmental modifications, can result in rapid functional recovery in puppies with swimmer puppy syndrome.",
       "categories": []
-    },
-    {
-      "pmid": "42761832",
-      "title": "Phenotypic characterisation, quality of life and prevalence of idiopathic epilepsy and epilepsy of unknown cause in the nine Dutch dog breeds.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Rolink T, van Rooijen A, Diaz Espineira M, Broeckx B, Bhatti SFM, Mandigers PJJ",
-      "date": "2026 09 19",
-      "dateObject": "2026 09 19",
-      "abstract": "Canine epilepsy is a common and complex neurological disease that occurs in almost all dogs. In the Netherlands, there are nine pedigree dog breeds, and all of them have numerous small populations, with moderate to high inbreeding coefficients. The goal of this study is to characterise epilepsy within these breeds and to estimate the prevalence for each of these nine breeds: Dutch Partridge dog, three variants of the Dutch Shepherd, Dutch Smoushound, Kooiker dog, Markiesje dog, Saarloos Wolfdog, Schapendoes dog, Stabyhoun, and Wetterhoun. An online questionnaire was distributed to establish the phenotypic characterisation of idiopathic epilepsy (IE) and epilepsy of unknown cause (EUC). The prevalence was estimated using data from breeders' associations, as well as cases seen by the investigators but unknown to the breed clubs. The estimated prevalence of IE and EUC was for the Dutch Partridge dog 2.63%, short haired Dutch Shepherd 0.72%, rough haired Dutch Shepherd 1.21%, long haired Dutch Shepherd 0.42%, the Dutch Smoushound 2.22%, Kooiker dog 0.4%, Markiesje dog 0.84%, Saarloos Wolfdog 1.9%, Schapendoes dog 0.23%, Stabyhoun 1.5%, and Wetterhoun 2.8%. All breed clubs use breeding advice to reduce the frequency of IE/EUC, and within the Dutch Shepherd shorthaired, Kooiker dog, Smoushound, and Saarloos Wolfdog, the frequency has dropped over the years. Within all breeds, generalised tonic-clonic seizures (GTCS) were the most frequently observed type of seizures next to cluster seizures (CS) and status epilepticus (SE). Roughly, pre-ictal and post-ictal signs could be observed in half of all epileptic dogs. Anti-seizure medication (ASM) was administered to 78% of the dogs, and 70% of those experienced side effects. Only in the Wetterhoun was the need for an anti-seizure medication (ASM) less. Less than 50% of the Wetterhouns needed an ASM. The most common ASM across all breeds was phenobarbital (PB). Prevalence varied across the nine breeds, regardless of their population size. The phenotypic characteristics of IE/EUC are comparable with those of other dog breeds. Breeding strategy appeared to be the most effective in the Dutch Smoushound and Kooiker dog.",
-      "categories": [
-        "neurology"
-      ]
     },
     {
       "pmid": "42753789",
@@ -780,18 +875,6 @@
       ]
     },
     {
-      "pmid": "42730333",
-      "title": "Behavioral and autonomic manifestations of suspected focal impaired awareness seizures supported by interictal electroencephalographic findings in three dogs: a case series.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Czerwik A, Olszewska A, Farke D, Schmidt MJ",
-      "date": "2026 09 12",
-      "dateObject": "2026 09 12",
-      "abstract": "Focal epileptic seizures with sensory impairment can be difficult to recognize and are often mistaken for behavioral disorders. Electroencephalography (EEG) can provide important supportive evidence for their epileptic origin when interpreted in conjunction with clinical presentation. This article describes three cases of canine patients: a 2-year-old Border Terrier, a 1-year-old Poodle mix, and a 4-year-old mixed-breed dog. All three were presented with a history of recurrent episodes characterized by fear, restlessness, hyperactivity, hiding, staring into space or at the sky, lip licking, and hypersalivation. In two dogs, there were also signs of impaired consciousness. The frequency of the episodes varied, ranging from multiple episodes per day to one episode every 1-2&#x202f;weeks. No pre-ictal or post-ictal signs were reported. Clinical and neurological examinations were unremarkable in all three cases. The diagnostic workup included EEG using a Natus Xltek system and magnetic resonance imaging (MRI) of the brain with a Siemens 1.5&#x202f;T scanner. EEG monitoring lasting 1.5-4&#x202f;h revealed epileptiform discharges predominantly in the parietal and temporal regions. This case series highlights the occurrence of behavioral and autonomic symptoms without typical motor manifestations as a presentation of presumed idiopathic epilepsy in dogs, supported by EEG findings in conjunction with the clinical presentation. All three dogs were treated with antiseizure medication, which resulted in a decrease in both the frequency and intensity of episodes, with complete seizure freedom achieved in two dogs.",
-      "categories": [
-        "neurology"
-      ]
-    },
-    {
       "pmid": "42728486",
       "title": "Differential diagnosis of microcytic hypochromic anemia in dogs: the role of hepcidin and reticulocyte hemoglobin indices.",
       "journal": "Veterinary Research Communications",
@@ -824,19 +907,6 @@
       "dateObject": "2026 09 11",
       "abstract": "To characterize MRI findings, including arterial spin labeling (ASL) perfusion features, in dogs and cats with ischemic cerebrovascular accidents (ICVAs) and to identify prognostic factors. Retrospective, single-center observational study of dogs and cats presenting with acute, nonprogressive brain dysfunction from 2018 through 2024, with MRI findings consistent with ICVA and available ASL perfusion imaging. Ischemic cerebrovascular accidents subtypes; MRI findings, including ASL perfusion characteristics; and outcomes were analyzed. 63 animals (47 dogs and 16 cats) were included. A novel complete territorial ICVA subtype, involving either an entire middle cerebral artery territory or an entire cerebellar hemisphere, was identified in 8 of 63 animals (12.7%) and commonly associated with moderate-to-severe mass effect. All nonlacunar infarcts exhibited focal ASL hypoperfusion, whereas lacunar infarcts showed no detectable perfusion abnormalities. Ischemic penumbra was identified in only 2 of 19 animals (10.5%) with nonlacunar infarcts imaged within 24 hours of onset. Complete territorial ICVAs with moderate-to-severe mass effect were classified as malignant ICVAs because this pattern was strongly associated with early mortality (OR, 400; 95% CI, 14.5 to 11,039). These findings expand the recognized spectrum of ICVA in dogs and cats and indicate that infarct extent and mass effect are important markers of disease severity and early outcome. ASL perfusion can demonstrate hypoperfusion in nonlacunar ICVAs but has limited ability to identify potentially salvageable ischemic tissue. Recognition of complete territorial and malignant ICVAs may improve early prognostic assessment and inform clinical decision-making in dogs and cats with ICVA.",
       "categories": [
-        "neurology"
-      ]
-    },
-    {
-      "pmid": "42725102",
-      "title": "Case Report: Spinal proliferative meningitis with arachnoid diverticulum formation in a dog.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Hajek I, Matiasek K, Caine A, Palus V",
-      "date": "2026 09 11",
-      "dateObject": "2026 09 11",
-      "abstract": "This case report describes a 4-year-old Golden Retriever with chronic progressive motor impairment of pelvic limbs. A neurological examination revealed non-painful ambulatory paraparesis, and magnetic resonance imaging detected an eccentric cystic lesion that compressed the thoracic part of the spinal cord. The surgical approach consisted of spinal cord decompression and lesion excision, along with vertebral column stabilization. A neuropathological examination revealed dural and arachnoid hypertrophic calcifying changes with lymphoplasmacytic and neutrophilic infiltration. This is the first documented case of inflammatory meningoproliferative spinal cord disorder associated with arachnoid diverticulum formation in dogs.",
-      "categories": [
-        "surgery",
         "neurology"
       ]
     },
@@ -1151,31 +1221,6 @@
       "abstract": "Anticoagulant rodenticides (ARs) are important toxicants in veterinary forensic investigations involving suspected poisoning in cats. This study aimed to develop and validate a standardized LC-MS/MS-QTRAP method for the simultaneous identification and quantification of eight ARs in gastric matrices from cats and to assess its applicability to veterinary forensic toxicology. Automated sample preparation was implemented to reduce inter-analyst variability. Dual confirmation using multiple reaction monitoring (MRM) and enhanced product ion (EPI) spectra was applied to improve identification reliability and minimize false-positive results caused by structurally related compounds. The method was applied to 747 cat forensic toxicology cases submitted between January 2020 and August 2025, in which gastric tissue or gastric contents were available for analysis. ARs were detected in 2.5% of cases (19/747). Coumatetralyl was the most frequently detected AR, followed by flocoumafen and bromadiolone. Flocoumafen was detected despite not being an officially registered active ingredient in Korea, highlighting the need for broad multi-analyte screening. The standardized LC-MS/MS-QTRAP method enabled reliable detection and quantification of ARs in gastric matrices from cats. This approach provides useful forensic evidence of recent AR exposure in suspected poisoning cases and may support improved toxicovigilance for registered and unregistered rodenticides.",
       "categories": [
         "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42718794",
-      "title": "Image based three-dimensional kinematic mapping to optimize femoral tunnel placement for intra-articular cranial cruciate ligament reconstruction in dogs.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Robine-Decourcelle C, Rohan PY, Muth-Seng C, Persohn S, Manassero M, Viateau V",
-      "date": "2026 09 10",
-      "dateObject": "2026 09 10",
-      "abstract": "The development of synthetic ligaments (SLs) has sparked renewed interest in intra-articular cranial cruciate ligament (CrCL) reconstruction. In this procedure, minimizing changes in graft length through optimal tunnel placement is essential for long-term function. However, three-dimensional (3D) assessment of isometry across the femoral attachment area in dogs remains limited, which prevents evidence-based optimization of tunnel positioning. Thus, the aim of this study was to perform strain-constrained, animal-specific mapping of the femoral region for intra-articular CrCL reconstruction in dogs and to identify drill-compatible sites for SL fixation that minimize strain during joint flexion-extension. Six pelvic limbs from large-breed dogs (mean body weight 27.7&#x202f;&#xb1;&#x202f;9.7&#x202f;kg) underwent three-dimensional (3D) segmentation of bones and CrCL footprints using computed tomography (CT). Femorotibial kinematics during passive flexion-extension were computed using biplanar radiography and optical tracking. The ligament trajectories were modeled as straight segments connecting candidate mesh femoral nodes on the medial aspect of the lateral condyle to tibial nodes included within a 5&#x202f;mm diameter circle centered on the centroid of the native CrCL footprint. Changes in trajectory length during a flexion-extension cycle, and the extent of contiguous femoral regions below selected strain thresholds were recorded. Flexion-extension produced coupled triplanar stifle motions within the reported ranges. The femoral nodes with the lowest maximum strain clustered cranial and proximal to the centroid of the native CrCL footprint. A continuous 5&#x202f;mm diameter region was consistently identified at a maximal strain threshold between 6.5-9%. Caudal and cranio-distal nodes relative to the native CrCL footprints exhibited the highest strain values (>30%). Subject-specific 3D kinematic modeling consistently identified drill-compatible femoral and tibial regions with a 9% maximal strain cut-off. Future refinement of the 3D kinematic model integrating active loading, soft-tissue mechanics, and SL architecture is required to support clinical translation. Positioning the femoral tunnel slightly cranially and proximally to the native CrCL footprint, and centering the tibial tunnel on its centroid, may improve SL longevity and long-term joint stability.",
-      "categories": [
-        "surgery"
-      ]
-    },
-    {
-      "pmid": "42718565",
-      "title": "Case Report: Distal tibial physeal fracture secondary to septic physitis and osteomyelitis in a Boxer puppy.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Sidhu N, Cao JW, Frederick SW, Chambers A",
-      "date": "2026 09 10",
-      "dateObject": "2026 09 10",
-      "abstract": "Salter-Harris fracture secondary to septic physitis has been reported in foals but not puppies. In this case, a 19-week-old, 13.4 kg male intact Boxer puppy was presented with a 2-day history of acute non-weight-bearing lameness of the left pelvic limb, accompanied by distal limb swelling and lethargy. Orthogonal tibial radiographs were performed, and irregular widening of the distal tibial physis with severe edema of the surrounding soft tissues consistent with septic physitis were identified. Fifteen hours later, distal tibial radiographs were repeated, and a Salter-Harris type I fracture of the distal tibial physis, presumed to be pathologic in origin, was diagnosed. Surgical exploration revealed a subperiosteal abscess, which was drained and cultured. The physeal fracture was stabilized with cross-pin fixation, which was reinforced with a splint and bandage for the duration of recovery. Pasteurella spp . was isolated, and amoxicillin-clavulanate was prescribed for 72 days. Resolution of swelling, radiographic fracture healing, and return to normal limb function were achieved after 14 weeks postoperative, at which time the pins were removed and submitted for aerobic and anaerobic culture and susceptibility. No bacterial isolates were identified. This is the first documented case of an appendicular physeal fracture secondary to suspected septic physitis in a dog, and septic physitis should be considered a differential for puppies with spontaneous Salter-Harris fracture.",
-      "categories": [
-        "internalMedicine",
-        "surgery"
       ]
     },
     {
@@ -2325,18 +2370,6 @@
       ]
     },
     {
-      "pmid": "42599757",
-      "title": "Receptor-Targeted Antiemetic Strategies in Cats: A Systematic Review and Intervention-Specific Meta-Analysis.",
-      "journal": "Veterinary Medicine and Science",
-      "authors": "Ers&#xf6;z U, &#xd6;zkalipci &#xc7;",
-      "date": "2026 08 14",
-      "dateObject": "2026 08 14",
-      "abstract": "Emesis is a common adverse effect in cats receiving alpha-2 adrenergic agonists and opioids and may compromise perioperative welfare and safety. Comparative evidence for feline antiemetic protocols remains limited by heterogeneity in triggers, timing and outcomes. To evaluate receptor-targeted antiemetic strategies in cats and quantitatively synthesise controlled event-level evidence for emesis incidence where appropriate. This systematic review followed PRISMA 2020 principles. Controlled feline studies assessing maropitant, ondansetron or metoclopramide for prevention or treatment of emesis were eligible. The primary meta-analysis was restricted to maropitant versus control. Risk ratios (RRs) were pooled on the log scale using a random-effects model with Paule-Mandel estimation and Hartung-Knapp adjustment. Five controlled studies contributed to the primary maropitant analysis. Emesis occurred in 11/141 cats given maropitant and 70/152 controls. Maropitant reduced emesis risk (RR = 0.20, 95% confidence interval [CI]: 0.08-0.55), with low-to-moderate heterogeneity (I 2 = 23.2%; Q = 5.21, p = 0.27; tau = 0.37). Leave-one-out analyses consistently favoured maropitant. The approximate prediction interval was 0.04-1.05, indicating uncertainty about the magnitude of effect in future settings. Ondansetron evidence was limited to two evidence sources and suggested possible timing-dependent benefit, whereas metoclopramide evidence was limited to one directly comparable binary study and was insufficient for pooled inference. Maropitant currently has the most consistent controlled evidence for reducing emesis incidence in cats under perioperative or induced-emesis conditions. Further adequately powered, blinded and randomised trials using standardised vomiting, retching and nausea outcomes are needed.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
       "pmid": "42599030",
       "title": "EXPRESS: MYOCARDIAL INJURY IN CATS WITH ACUTE BLUNT TRAUMA: PREVALENCE AND PROGNOSTIC IMPLICATIONS.",
       "journal": "Journal of Feline Medicine and Surgery",
@@ -2360,19 +2393,6 @@
       "categories": [
         "internalMedicine",
         "oncology",
-        "surgery"
-      ]
-    },
-    {
-      "pmid": "42593834",
-      "title": "Macroanatomical, Histological, Histochemical and Ultrastructural Characterisation of the Kidney in the Aksaray Malakli Dog: First Comprehensive Renal Morphological Study of the Breed.",
-      "journal": "Veterinary Medicine and Science",
-      "authors": "Kulo&#x11f;lu HY, Tuncer I, &#x130;lg&#xfc;n R, Erdo&#x11f;an K",
-      "date": "2026 08 13",
-      "dateObject": "2026 08 13",
-      "abstract": "The Aksaray Malakl&#x131; dog is a native Turkish breed indigenous to the Central Anatolian region, yet its renal morphology has not been comprehensively characterised. This study aimed to investigate the macroanatomical, histological, histochemical and scanning electron microscopic (SEM) structure of the kidney in the Aksaray Malakl&#x131; dog for the first time. This study aimed to investigate the macroanatomical, histological, histochemical and SEM structure of the kidney in the Aksaray Malakl&#x131; dog for the first time. Eight adult Aksaray Malakl&#x131; dogs (four male, four female) were used as material. Kidneys were examined macroanatomically following euthanasia and fixation. Tissue samples were processed for histological (HE), histochemical (Alcian Blue at pH 1.0 and 2.5, PAS, and Gordon Sweet staining) and SEM analyses. Macroanatomically, the kidneys were bilaterally positioned in the regio lumbalis, with the right kidney located more cranially. Histologically, the kidney was enclosed by a fibrous capsule; the cortex contained renal corpuscles, proximal and distal convoluted tubules, and medullary rays, while the medullary contained straight tubules, collecting ducts and capillaries. Podocytes, macula densa cells, juxtaglomerular cells and mesangial cells were clearly identified. Histochemically, no reaction was detected with Alcian Blue at pH 1.0 or pH 2.5; PAS staining yielded positive reactions in Bowman's capsule, proximal tubule basal portions, and vascular endothelium. Gordon Sweet staining revealed reticular fibres around the capsule, blood vessels, renal corpuscles and tubules; notably, an exceptionally dense reticular network was identified in the cortical zone where renal corpuscles were abundant but tubules were sparse a finding not previously reported in the literature. SEM examination demonstrated the three-dimensional architecture of renal corpuscles and tubular structures. This study provides the first comprehensive morphological dataset for the Aksaray Malakl&#x131; dog kidney. The breed-specific dense reticular fibre network represents a novel finding. SEM proved to be a valuable tool for three-dimensional visualisation of renal architecture. These findings are expected to contribute to the differential diagnosis of urinary tract pathologies in dogs and to comparative studies on renal morphology in Carnivora.",
-      "categories": [
-        "internalMedicine",
         "surgery"
       ]
     },
@@ -2423,16 +2443,6 @@
       ]
     },
     {
-      "pmid": "42581418",
-      "title": "EXPRESS: Prevalence and clinical relevance of hypocobalaminaemia and hypercobalaminaemia in cats.",
-      "journal": "Journal of Feline Medicine and Surgery",
-      "authors": "Casas C, Dye C",
-      "date": "2026 08 12",
-      "dateObject": "2026 08 12",
-      "abstract": "ObjectivesTo investigate the prevalence of hypo- and hypercobalaminemia in a cohort of cats with diverse disease pathologies and to assess associations with signalment and disease characteristics.MethodsResidual blood from cats presented to a large veterinary referral hospital during a 24-month period was used for serum B12 quantification. All cats requiring blood collection as part of diagnostic investigations were eligible for inclusion regardless of clinical presentation. Serum B12 concentration was assessed according to signalment, body weight, body condition score, primary affected body system and type of disease pathology as derived from the clinical notes.ResultsA total of 229 cats were enrolled: 128 male (119 neutered, 9 entire) and 101 female (88 neutered, 13 entire). Of these, 176 were domestic shorthair or longhair, and 53 were purebred. The median age was 9.9 years and median body weight 4.1 kg. Of the 229 cats, 80 (34.9%) had high, 86 (37.6%) normal, 18 (7.9%) borderline, and 45 (19.7%) low serum B12. Median serum B12 concentration was higher in cats aged <8.0 years than &#x2265;8.0 years, and there was a weak but significant negative correlation between age and serum B12. Median serum B12 concentration was lower in cats weighing <3.0 kg than in those &#x2265;3.0 kg, and a weak but significant positive correlation was found between body weight and serum B12 concentration. No associations were found between serum B12 and sex, breed, body condition score, affected body system, or pathology type.Conclusions and relevanceVitamin B12 aberrations were common in this cohort of cats, approximately a third and a fifth having abnormally high and low serum concentrations respectively. Serum vitamin B12 concentration declined with advancing age, and hypocobalaminemia was more prevalent in cats with body weights <3.0kg. Hypo- and hypercobalaminemia were documented in cats with a wide variety of clinical presentations, and no specific disease associations were elucidated.",
-      "categories": []
-    },
-    {
       "pmid": "42579237",
       "title": "Five cases of tremorgenic mycotoxicosis in dogs - clinical aspects and analytical methods.",
       "journal": "Veterinary Research Communications",
@@ -2440,18 +2450,6 @@
       "date": "2026 08 11",
       "dateObject": "2026 08 11",
       "abstract": "Tremorgenic mycotoxicosis is a well-recognized cause of acute neurotoxicosis in dogs, most commonly associated with penitrem A (PTA), which is mainly produced by Penicillium crustosum. However, analytical confirmation of such cases is rare. This study describes five clinical cases of canine tremorgenic mycotoxicosis in Germany, together with comprehensive analytical confirmation. All dogs had been presented at the veterinary clinic of Justus-Liebig-University because of acute-onset generalized tremors. Clinical findings, therapeutic measures and final outcome were documented. Samples of gastric content (induced emesis or gastric lavage) and blood serum (if available) were analyzed for several neurotoxic mycotoxins, penitrems A-F, paxilline (PAX), &#x3b1;-cyclopiazonic acid (CPA), and ergoline alkaloids. Analysis was done by enzyme immunoassay (EIA), and by HPLC-MS/MS. EIA of gastric content was positive for PTA in all samples, and for PAX, CPA, and ergoline alkaloids in some. HPLC-MS/MS analysis confirmed the presence of penitrems A-F, PAX, and CPA. Trace levels of PTA, PAX and CPA were also detected in serum samples. Penitrem producing P. crustosum was isolated from gastric content of all animals. This is the first full analytical study on acute canine tremorgenic mycotoxicoses in Germany, and presents comprehensive results along the causal chain of tremorgenic mycotoxicosis. In addition to the penitrems, several other neurotoxic mycotoxins (PAX, CPA, ergoline alkaloids) may play a role in canine mycotoxicosis. While immediate stabilisation and symptomatic treatment are paramount, prompt mycotoxin testing can help identify the source of poisoning during differential diagnosis.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42572226",
-      "title": "EXPRESS: Flow cytometry-based direct antiglobulin test for suspected feline immune-mediated thrombocytopenia: Assay development and demographic factors associated with DAT positivity.",
-      "journal": "Journal of Feline Medicine and Surgery",
-      "authors": "Nedumpun T, Kamenkit O, Thongwandi S, Tripipat T, Wadeerat S, Boonyapisitsopa S, Bunpapong N",
-      "date": "2026 08 10",
-      "dateObject": "2026 08 10",
-      "abstract": "This study aimed to develop and evaluate an in-house flow cytometry-based direct antiglobulin test (DAT) for detecting IgG-bound platelet in cats, and to investigate the prevalence of DAT positivity and associated risk factors among thrombocytopenic cats. Platelets were identified by CD41/61 expression, and platelet-bound IgG was assessed by flow cytometry. A diagnostic cutoff for the percentage of IgG-positive platelets was established using 100 healthy cats and preliminarily evaluated in 50 cats with severe thrombocytopenia (platelet count <20,000/&#xb5;L) before being applied to the remaining 411 thrombocytopenic cats (platelet count <200,000/&#xb5;L) to determine the prevalence of DAT positivity and its associations with platelet count, breed, age, and sex. Healthy cats showed 0-10% IgG-positive platelets, and a cutoff of >10% was established. Using this threshold, 105/461 (22.8%) thrombocytopenic cats were classified as DAT positive. DAT positive cats had significantly lower platelet counts than DAT negative cats (median 4,000/&#xb5;L; mean 12,562/&#xb5;L vs 34,000/&#xb5;L; mean 47,956/&#xb5;L; P <0.05), and the percentage of IgG-bound platelets was inversely correlated with platelet count (r = -0.38; P = 0.048). No breed association was identified. Cats aged 5 years were more likely to be DAT positive, whereas neutered male cats were less likely to be DAT positive. Flow cytometry-based DAT is a useful adjunctive diagnostic tool for assessing suspected immune-mediated platelet destruction in thrombocytopenic cats. Younger cats may be at increased risk, whereas neutered male cats may be at lower risk. However, the interpretation of a DAT positive test result should be made alongside assessment of clinical findings and investigations for underlying causes of thrombocytopenia.",
       "categories": [
         "internalMedicine"
       ]

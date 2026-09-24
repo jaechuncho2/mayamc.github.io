@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T23:44:41.315Z",
+  "updated_at": "2026-09-24T23:55:40.991Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -5615,6 +5615,86 @@
       "title": "The epidemiological landscape of canine tumors in central Italy: animal cancer registry insights, distribution patterns, and incidence estimates.",
       "journal": "Frontiers in Veterinary Science",
       "generated_at": "2026-09-23T23:43:41.612Z",
+      "model": "gpt-5-mini"
+    },
+    "42777771": {
+      "brief_summary": "이 비디오는 gene electrotransfer (GET)를 이용한 플라스미드 DNA 면역요법 투여 기법을 시연하여 개와 고양이 암 환자에 적용 가능한 절차를 보여준다. 환자 준비, 근육내(IM) 플라스미드 투여, 전극 위치 설정, 전기천공 펄스 전달 및 시술 후 평가 등 시술 전반을 시연한 것이 핵심 결과이다. 임상적으로 GET은 종양 관련 항원 및 면역조절 분자를 표적하는 DNA 면역요법의 전달을 돕는 실무적 기법으로 수의종양학에서 활용도가 증가하고 있음을 제시한다.",
+      "detailed_summary": "본 논문은 기술 튜토리얼 비디오로, 수의종양학에서 플라스미드 DNA 면역요법 전달을 위해 gene electrotransfer (GET) 기법을 시연하는 것을 목적으로 한다. 비디오는 개와 고양이 환자에 적용 가능한 절차를 예시하며, 환자 준비, 근육내(IM) 플라스미드 투여, 전극 배치, 전기천공 펄스 전달 및 시술 후 평가 과정을 단계적으로 보여준다. 또한 필요한 장비, 전체 절차 흐름(workflow) 및 실무적 기술 고려사항을 검토한다. 시연은 전신마취 하에서 IM GET를 이용한 플라스미드 DNA 면역요법 전달의 일반적 작업흐름을 설명한다. 저자들은 GET이 종양 연관 항원 및 면역조절 분자를 표적으로 하는 DNA 면역요법 전달을 촉진하기 위해 수의종양학에서 점차 더 많이 사용되고 있다고 언급한다. 초록에는 임상적 효능이나 안전성에 대한 정량적 결과는 제시되어 있지 않으므로 이 비디오는 기법의 실무적 개요를 제공하는 교육 자료임을 유의해야 한다.",
+      "title": "Gene electrotransfer for DNA immunotherapy in veterinary oncology: Technical Tutorial Video.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-09-24T23:55:14.238Z",
+      "model": "gpt-5-mini"
+    },
+    "42777784": {
+      "brief_summary": "7세 1개월, 체중 15.2 kg의 중성화 수컷 프렌치불도그에서 심장기저(aortic body) 종양이 우심방으로 침습하여 우심방내 종괴와 복수가 발생한 증례이다. 약물치료로 복수가 호전되지 않아 7일째 부분 체외순환(partial cardiopulmonary bypass) 하에 종괴 감량술을 시행했고, 수술 후 복수와 임상증상이 해소되고 우심장 비대 및 삼첨판 역류(Tricuspid regurgitation, TR)가 호전되어 입원 14일째 퇴원했다. 부분 체외순환 보조의 완화적(debulking) 수술은 선택된 개에서 일시적으로 폐색을 완화할 수 있으나 고위험·비치료적이며 장기간 생존에 대한 기여는 불확실하다고 결론지었다.",
+      "detailed_summary": "단증례 보고로, 내원 2주간의 무기력, 식욕감소, 운동불내성, 복부팽만 및 다갈증을 주소로 한 증례이다. 경흉 심초음파(transthoracic echocardiography, TTE)에서 우심장 중등도 이상 비대와 심장내 이질성 우심방 종괴(3.2 × 3.1 cm)가 관찰되었고, 삼첨판 역류의 최대 속도는 4.03 m/s였다. 복부 초음파에서 간정맥 울혈과 다량의 복수(수정된 삼출액)가 확인되었고, 보존적 치료로 복수가 호전되지 않아 7일째 부분 체외순환 하에 외과적 종괴 감량술을 시행하였다. 종괴는 심방 중격 측면에 단단히 유착되어 있어 완전 절제는 불가능했고 수술 후 복수와 임상증상이 소실되었으며 우심장 비대가 감소하고 TR는 더 이상 관찰되지 않아 입원 14일째 퇴원하였다. 추적에서 360일째 우심방 종괴 재발이 문서화되었으나 우측성 심부전은 재발하지 않았고, 증례는 390일째 췌장염 관련 담도폐색 및 다장기부전으로 사망하였다. 부검에서 심장내 침습을 동반한 aortic body 종양과 폐 전이가 확인되었고 종양 색전이 관찰되었다. 저자들은 부분 체외순환 보조 완화적 감량술이 일시적 증상 완화에 도움이 될 수 있으나 고위험·비치료적이며, 수술 후 toceranib 투여와 종양의 자연 경과가 임상 경과에 영향을 미쳤을 수 있어 장기 생존에 대한 기여는 불확실하다고 제한점을 명확히 적시하였다.",
+      "title": "Palliative Debulking of an Aortic Body Tumour With Right Atrial Invasion in a Dog Under Partial Cardiopulmonary Bypass.",
+      "journal": "Veterinary Medicine and Science",
+      "generated_at": "2026-09-24T23:55:40.980Z",
+      "model": "gpt-5-mini"
+    },
+    "42778219": {
+      "brief_summary": "이 연구는 이탈리아 나폴리 수의대 부속병원 외과에 입원한 개 100마리의 수술 전 비강에서 분리된 Staphylococcus spp.의 항균제 내성 및 생물막 형성 능력을 평가했다. 총 65균주가 확인되었고, Staphylococcus pseudintermedius가 40%로 가장 흔했으며 61.5%는 다제내성(MDR), 4.6%는 광범위내성(XDR)으로 분류되었다. 모든 분리주가 생물막을 형성했으며 56.9%는 중등도 생성자로 분류되어, 수술 환자의 비강에서 항균제 저항성 및 생물막 형성 균주가 공존함을 시사한다. 임상적으로는 고위험 환자에 대한 수술 전 비강 선별을 고려해 예방적 항균제 전략과 감염관리 강화가 필요하다고 제안한다.",
+      "detailed_summary": "연구는 수술을 앞둔 개 100마리로부터 수술 전 비강(코) 면봉 검체를 채취하여 진행되었다. 분리균은 MALDI-TOF 질량분석으로 동정했으며 항균제 감수성은 국제 지침에 따른 디스크 확산법으로 평가했고, 생물막 형성은 정량적 크리스탈 바이올렛법으로 측정했다. 총 65개의 Staphylococcus spp.가 분리되었고 Staphylococcus pseudintermedius가 40%로 가장 빈발했으며(χ2=134.6, df=14, p<0.001), S. aureus는 15.4%, S. epidermidis는 7.7%였다. 분리주 중 61.5%가 다제내성(MDR)으로, 4.6%는 광범위내성(XDR)으로 분류되었고 여러 항균제에 대해 높은 저항성이 관찰되었다. 모든 분리주가 생물막을 형성했으며 56.9%는 중등도 생성자로 평가되어 생물막 관련 지속감염 우려가 있다. 저자들은 이러한 항균제 저항성과 생물막 형성의 공존이 세균의 지속성과 관리에 영향을 줄 수 있다고 지적하며, 고위험 환자에서 수술 전 비강 선별을 통해 예방적 항균제 프로토콜 최적화와 수술 환경의 감염관리 강화를 고려할 것을 권고했다. 초록에는 추가적인 제한점이나 세부적 임상 적용 결과는 명시되어 있지 않다.",
+      "title": "Nasal Colonization of Antimicrobial-Resistant and Biofilm-Producing Staphylococcus spp. in Surgical Canine Patients From Italy.",
+      "journal": "Veterinary Medicine and Science",
+      "generated_at": "2026-09-24T23:55:29.520Z",
+      "model": "gpt-5-mini"
+    },
+    "42779156": {
+      "brief_summary": "이 연구는 성체 Domestic Shorthair 고양이 30구의 시체를 이용해 관통형 압축 헤드리스 스크류(cannulated compression headless screw, CCHS) 두 길이와 피질스크류(cortical screw, CS)의 천골(sacrum)에서의 견인 강도를 비교하였다. 최대 견인력(peak pull-out force, PPF)에서 전수트레드(완전 나사산)인 2.4 mm CS(60% 천골 폭 관통)가 부분 나사산인 2.5 mm CCHS(60% 및 40%)보다 유의하게 높았다(p = 0.05). 한편 40% 관통 길이의 짧은 CCHS는 권장 길이(60%)의 CCHS와 보유력에서 차이가 없었다(p = 0.98), 변위 및 강성에서는 그룹 간 유의차가 없었다는 점이 임상적 시사점이다.",
+      "detailed_summary": "무작위로 30구의 성체 Domestic Shorthair 고양이 시체를 세 그룹(n=10)으로 나누어 단일 2.4 mm 피질스크류(CS 60, 천골 폭의 60% 관통), 2.5 mm CCHS(60% 관통, CCHS 60) 및 2.5 mm CCHS(40% 관통, CCHS 40)를 삽입하였다. 모든 표본에서 스크류를 천골에 삽입한 뒤 만능재료시험기로 0.2 mm/s의 일정 변위 속도로 최대 20 mm까지 당겨 PPF, PPF에서의 변위, 강성(stiffness)을 로드-변위 곡선으로 산출하였다. 통계는 Fisher의 ANOVA 및 Welch 검정을 사용하고 사후비교는 Student t-검정 및 Games-Howell 검사로 수행하였으며 유의수준은 p ≤ 0.05로 설정되었다. PPF의 쌍별 비교에서 CS 60은 CCHS 60 및 CCHS 40과 각각 유의한 차이를 보였다(p = 0.05, p = 0.05). CCHS 60과 CCHS 40 간에는 PPF에서 차이가 없었고(p = 0.98), PPF에서의 변위와 강성에서는 어떤 쌍에서도 유의한 차이가 관찰되지 않았다. 결론적으로 초록의 결과만으로는 완전 나사산인 피질스크류가 부분 나사산 CCHS보다 냉동시료(시체) 천골에서 더 높은 고정력을 제공하며, 짧은 길이의 단일 CCHS는 권장 길이의 CCHS와 유사한 보유력을 보였다는 점이 요약된다. 초록에는 추가적인 제한점이나 임상적 적용성에 대한 상세한 논의는 포함되어 있지 않다.",
+      "title": "EXPRESS: Pull-out strength of cannulated compression headless screws and cortical screws in the feline sacrum.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "generated_at": "2026-09-24T23:54:58.590Z",
+      "model": "gpt-5-mini"
+    },
+    "42779179": {
+      "brief_summary": "이 무작위 이중맹검 위약대조 교차 임상연구는 가정에서 기르던 경·중등도 퇴행성 관절질환(DJD)을 가진 고양이들을 대상으로 비변성 제II형 콜라겐(undenatured type II collagen) 보충의 효과를 평가했다. 12주 간 일일 보충 후 보완적 평가에서 CSOM과 FMPI-sf 점수가 유의하게 감소(P=0.006, P=0.009)하고 삶의 질(QoL)도 개선(P=0.002)되어 보호자 보고상 이동성 향상과 통증 감소가 관찰되었다. 12주 시점에서 CSOM과 FMPI-sf의 백분율 변화는 콜라겐군이 각각 −27%·−30%로 위약군(+0.4%·+40%)보다 개선되었고, CSOM에서 임상적 의미가 있는 개선(≥2점)을 보인 비율은 콜라겐군 57% 대 위약군 28%였다. 이러한 결과는 고양이 근골격 건강을 위한 보조사료로서의 가능성을 뒷받침한다.",
+      "detailed_summary": "본 연구는 전향적, 이중맹검, 무작위, 위약대조 교차 임상시험(코드 3361)으로 윤리위원회 승인과 서면 동의 하에 시행되었다. 총 20마리(암 13, 수 7; 평균 연령 8.7±3.5년; 평균 체중 4.8±0.8kg)의 가정내 고양이들이 경·중등도 DJD로 확인되어 등록되었고, 유의한 동반질환은 배제되었다. 개입은 비변성 제II형 콜라겐 또는 위약 츄어블을 하루 1회 12주 간 투여한 뒤 6주 세척기(washout)를 두고 군을 교차하는 방식이었다. 주요 평가 항목은 보호자 특정 결과측정(CSOM), Feline Musculoskeletal Pain Index 단축형(FMPI-sf), 삶의 질(QoL)로 기저선, 6주, 12주에 평가되었다. 결과적으로 14마리가 모든 방문을 완료하였고, 콜라겐 투여군은 6주 및 12주에 CSOM과 FMPI-sf의 절대 점수가 유의하게 감소(P=0.006, P=0.009)하며 QoL도 유의하게 향상되었다(P=0.002); 12주 시 백분율 변화는 콜라겐군 −27%/−30% 대 위약군 +0.4%/+40%였고, CSOM에서 ≥2점 개선을 보인 비율은 콜라겐군 57% 대 위약군 28%였다. 결론적으로 일일 비변성 제II형 콜라겐 보충은 보호자 보고상 이동성 개선과 DJD 관련 통증 감소를 보였으나, 전체 등록 20마리 중 14마리만 완주한 점 등 완료군 규모가 제한적이라는 점은 해석 시 유의해야 한다.",
+      "title": "EXPRESS: Undenatured type II collagen enhances mobility in cats: a randomized placebo controlled cross over field study.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "generated_at": "2026-09-24T23:54:45.455Z",
+      "model": "gpt-5-mini"
+    },
+    "42780347": {
+      "brief_summary": "본 연구는 만성 염증성 장병증(CIE)과 내독소혈증 관련 염증·산화 스트레스에 대한 apigenin, curcumin, fumaric acid의 영향을 in vitro로 평가했다. 건강한 개 3마리의 말초혈액단핵세포(PBMC)를 대장균 LPS(Escherichia coli O111:B4, O127:B8) 혹은 엔로플록사신으로 처리한 대장균 자극 하에서 처리한 뒤 세포 대사활성, LDH 유리, 세포내 ROS(DCF), H2O2 생성과 TNF-α 분비를 측정했다. 결과적으로 curcumin은 선택적 자극 조건에서 세포내 ROS와 H2O2 및 TNF-α를 일관되게 감소시켰고, apigenin은 조건에 따라 DCF로 측정한 세포내 ROS를 증가시키거나 H2O2·TNF-α를 감소시키는 등 자극 의존적 효과를 보였으며, fumaric acid는 제한적·자극 의존적 효과를 보였다. 항균 활성 평가는 용해도 한계로 MIC·MPC가 ≥1,024 μg/mL 이상에서 신뢰성 있게 결정되지 않았고, curcumin은 한 분리주(No. 863)에 대해 아목시실린-클라불라네이트와 상승작용을 보였으며 fumaric acid는 엔로플록사신과 농도 의존적 길항을 보였다.",
+      "detailed_summary": "연구 설계는 in vitro 실험으로, 건강한 기증견 3마리의 PBMC를 사용하여 E. coli O111:B4 또는 O127:B8 LPS, 또는 엔로플록사신 처리한 E. coli로 자극한 후 apigenin, curcumin, fumaric acid를 처리해 평가했다. 평가 항목은 세포 대사활성, LDH 유리(세포독성 지표), DCF로 측정한 세포내 ROS, H2O2 생성, 그리고 TNF-α 분비였다. 세 가지 화합물 모두 적용 조건 하에서 세포 대사활성이나 LDH 유리에는 유의한 변화를 주지 않았다. Curcumin은 선택된 자극 조건에서 세포내 ROS와 H2O2 및 TNF-α 분비를 일관되게 감소시켰고, apigenin은 기저 상태와 낮은 농도의 O111 LPS 자극에서는 DCF 기반 세포내 ROS를 증가시키는 반면 여러 조건에서 H2O2와 TNF-α는 감소시켜 자극·측정법 의존적 양상을 나타냈다. Fumaric acid의 효과는 더 제한적이고 자극 의존적이었다. 항균성 평가에서 화합물들의 용해도 제한으로 MIC·MPC 값은 ≥1,024 μg/mL 이상으로 신뢰성 있게 결정할 수 없었고, 상호작용에서는 curcumin이 분리주 No. 863에 대해 amoxicillin-clavulanic acid와 상승작용을 보였고 fumaric acid는 enrofloxacin과 농도 의존적 길항을 보였다. 결론적으로 화합물별·자극별로 개 PBMC의 산화 및 염증 반응을 조절하는 경향을 보였으나, 소수 표본·in vitro 실험 및 항균성 평가의 용해도 제한이 중요한 한계로 향후 질환 연관 모델에서 추가 검증이 필요하다.",
+      "title": "In vitro effects of apigenin, curcumin, and fumaric acid on intracellular ROS and TNF-&#x3b1; responses in Escherichia coli -stimulated canine PBMCs.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-09-24T23:54:33.259Z",
+      "model": "gpt-5-mini"
+    },
+    "42780817": {
+      "brief_summary": "19마리의 사후 기증된 Cavalier King Charles Spaniel(CKCS)을 대상으로 Chiari-like malformation(CM)과 이차적 syringomyelia(SM) 및 ventriculomegaly(VM)의 뇌 병리 변화를 규명하기 위해 진행한 조직학적 연구이다. SM 및 VM이 있는 군(n=13)은 없는 군(n=6)에 비해 periventricular 영역에서 혈관신생(100배 시야당 혈관 수 평균 23.62±6.79 vs 11.67±4.93), 혈관 벽 두께 비율(총 혈관 직경 대비 71.61%±5.14 vs 58.73%±6.47) 및 GFAP(글리얼 섬유산성 단백질) 면역반응 증가로 성상교세포 활성화가 뚜렷했다. 이러한 병리소견은 혈관 탄력성 변화로 인한 만성 압력 손상 또는 저산소성 손상과 연관될 수 있으며 CM 및 그 합병증의 병태생리 규명과 향후 진단 바이오마커·치료 표적 연구에 시사점을 준다.",
+      "detailed_summary": "연구는 사후 기증된 19마리의 CKCS에서 CM 관련 중추신경계 병리 변화를 조직학적으로 비교·분석한 관찰연구이다. 대상은 SM 및 VM이 동반된 군(n=13)과 동반되지 않은 군(n=6)으로 나뉘었고, periventricular 조직을 채취하여 H&E, Martius Scarlet Blue(MSB) 염색과 GFAP 면역염색으로 평가하였다. 주요 평가 항목은 혈관 수(100배 시야 기준), 혈관 벽 두께의 총 혈관 직경 대비 비율, 그리고 GFAP을 통한 성상교세포 활성화 정도였다. 결과는 SM/VM 군에서 혈관신생이 증가하고(23.62±6.79 vs 11.67±4.93), 혈관 벽 두께 비율이 증가했으며(71.61%±5.14 vs 58.73%±6.47), GFAP 면역반응이 더 강하게 나타나 만성 압력 손상 및 저산소성 손상과 연관될 수 있음을 시사했다. 저자들은 이 소견이 CM과 그 합병증의 병리기전에 대한 통찰을 제공하며 향후 진단 바이오마커 및 치료 표적 연구에 기여할 수 있다고 결론지었다. 초록에서는 연구의 구체적 제한점이나 인과관계 확정에 대한 기술은 제공되지 않았다.",
+      "title": "Contents under pressure: vascular proliferation and gliosis in the brains of Cavalier King Charles Spaniels with syringomyelia.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-09-24T23:54:21.675Z",
+      "model": "gpt-5-mini"
+    },
+    "42781032": {
+      "brief_summary": "본 논문은 개·고양이에서 미추(꼬리) 경막외(caudal epidural) 국소마취 투여 후 앞복부(cranial abdominal) 마취 범위를 해석하는 개념적 분석이다. 고양이 난소 수술에서 0.3 ml/kg의 요법은 임상 결과가 이질적이었고, 누적 iohexol 0.75–1.0 ml/kg을 이용한 CT 매핑에서도 일관된 양측 T10–T11 추간공 도달이 관찰되지 않았다. 저자들은 0.3 ml/kg으로 일관된 완전 양측 범위를 설명하기 어렵다고 결론내리며, 개에서는 0.6 ml/kg, 고양이에서는 1.0 ml/kg(비교군 0.75 ml/kg) 등량을 전향적으로 검토할 것을 제안한다.",
+      "detailed_summary": "이 논문은 해부학적 분포, 미리 정의된 자극에 대한 기능적 차단, 생리적 허용성, 그리고 복합적 수술기록(perioperative clinical performance)을 구분하는 개념적 분석이다. 고양이 난소 수술 사례에서 0.3 ml/kg 요법은 임상 결과가 다양하게 나타났고, 목표 지향적 CT 조영제 매핑(target-oriented CT mapping)에서는 누적 iohexol 0.75–1.0 ml/kg로도 일관된 양측 T10–T11 추간공 도달을 보이지 않았다. 주입 물질, 투여 순서, 평가 종점의 차이로 인해 직접적인 용량-반응 비교는 제한적이다. 그러나 관찰된 불일치의 크기로 보아 0.3 ml/kg으로 항상 완전한 양측 앞복부 차단이 이루어진다고 보기는 어렵다고 저자들은 지적한다. 개에 대한 기존 자료는 0.6 ml/kg의 용적 요법을 전향적으로 시험할 근거를 제공하며, 고양이 자료는 적정성 지향 후보로 1.0 ml/kg을 0.75 ml/kg과 비교할 근거를 제시한다. 향후 연구는 해부학적 매핑, 시술 관련 기능적 검사, 생리학적 평가, 임상적 결과를 밀접하게 맞춘 요법으로 연계하여 보고해야 한다.",
+      "title": "Interpreting cranial abdominal coverage after caudal epidural local anesthetic administration in dogs and cats.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-09-24T23:54:02.909Z",
+      "model": "gpt-5-mini"
+    },
+    "42781373": {
+      "brief_summary": "3세 중성화 수컷 국내 단모묘에서 1년간 진행된 우측 편측 감각운동 이상과 경추 통증으로 내원한 증례에서, C5 부위 우측 경막외 척수압박 병변과 우측 척추궁 및 척추체에서 기원한 골 증식이 MRI에서 확인되었다. 외과적 절제 및 조직병리검사로 척추골 혈관성 해마트마(vertebral vascular hamartoma)로 확진되었고, 수술 후 일시적 악화 뒤 임상증상이 호전되었다. 1년 뒤 증상이 재발하였고 MRI 및 CT(전산화단층촬영)에서 병변 재성장이 확인되어 재수술을 시행했고, 다시 조직병리로 동일 소견이 확인되었다. 저자들은 경추 척추골 혈관성 해마트마를 젊은 고양이의 진행성 척수병증 및 경막외 척수압박과 척추 골 증식의 중요한 감별진단으로 제시하며, 불완전 절제 후 재성장 가능성에도 불구하고 수술적 치료가 의미 있는 임상 개선을 가져올 수 있음을 시사한다고 결론지었다.",
+      "detailed_summary": "증례는 3세 중성화 수컷 국내 단모묘로, 1년간 진행된 우측 편향의 고유수용성 실조(proprioceptive ataxia), 보행 가능한 사지마비(ambulatory tetraparesis) 및 경추성 통증의 병력이 있었고, 내원 직전에 갑작스런 악화가 있었다. 신경학적 검사 소견은 우측 C6–T2 수준의 척수병증과 일치하였고, 자기공명영상(MRI)에서 C5 수준의 우측 경막외 척수압박 병변과 우측 척추궁 및 척추체에서 기인한 골 증식이 확인되어 척수의 좌측 편위와 심한 압박을 보였다. 1차로 병변을 외과적으로 절제하였고, 조직병리학적 검사에서 척추골 혈관성 해마트마로 확진되었으며 수술 후 일시적 악화 후 임상증상은 호전되었다. 1년 후 신경학적 결손이 재발하였고, MRI 및 전산화단층촬영(CT)에서 병변의 재성장이 확인되어 두 번째 외과적 절제를 시행하였고, 재차 조직병리로 동일한 척추골 혈관성 해마트마 소견이 확인되었다. 저자들은 본 증례가 두 번의 수술 모두에서 조직병리학적 확진과 추적 영상이 보고된 최초의 고양이 증례라고 기술하였다. 임상적 의의로는 젊은 고양이에서 진행성 척수병증, 경막외 척수압박 및 척추의 골 증식이 있을 때 척추골 혈관성 해마트마를 감별진단에 포함할 것을 제안하고, 불완전 절제 후 재성장 가능성에도 불구하고 수술적 제거가 유의미한 임상 개선을 가져올 수 있음을 시사한다. 본 연구는 단일 증례보고이므로 일반화에는 한계가 있으며, 재성장 가능성 역시 관찰된 사실로서 예후에 영향을 줄 수 있다.",
+      "title": "Case Report: Repeated imaging and surgical treatment of a vascular hamartoma arising from the cervical vertebral column of a cat.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-09-24T23:53:50.945Z",
+      "model": "gpt-5-mini"
+    },
+    "42781415": {
+      "brief_summary": "중성화된 반려묘 78마리(수컷 37, 암컷 41, 1–16세)를 대상으로 비만(체형점수 BCS 6–9)과 정상체중(BCS 4–5)에 따른 말초혈액 면역세포 구성과 림프구 증식성을 분석한 연구이다. 전혈 유세포분석과 일부에서 CFSE 기반 콘카나발린 A 자극 증식 검사, 그리고 과체중묘에서 혈청 아밀로이드 A, 중성지방, 아디포넥틴을 측정했다. 과체중묘는 CD21+ Ki67+ B세포의 증식 빈도가 높았고, 전반적으로 림프구 증식 반응 증대와 연령·성별에 따른 뚜렷한 조절 효과를 보였다는 점에서 비만이 고양이의 면역반응성에 연관성을 가질 수 있음을 시사한다.",
+      "detailed_summary": "연구는 중성화된 가정묘 78마리(수컷 37, 암컷 41, 연령 1–16세)를 대상으로 실시되었고, 체형점수(BCS)를 이용해 정상체중(4–5)과 과체중(6–9)으로 분류하였다. 말초혈액을 유세포분석(flow cytometry)으로 T세포(CD5+ CD4+, CD5+ CD8+ 포함), B세포(CD21+), 자연살해(NK)세포(CD56+), 활성화표지자(CD80), 증식표지자(Ki67)를 평가했으며 일부 표본에서는 CFSE 기반 콘카나발린 A 자극 증식 검사를 수행하였다. 주요 결과로 과체중묘에서 CD21+ Ki67+ B세포의 증식 빈도가 정상체중묘보다 높았고, 증식 검사 결과는 양성/음성 성별 모두에서 T세포 증식이 더 활발하다는 서술적 일관성을 보였다. 연령 증가는 수컷·암컷 모두에서 CD5+ CD4+ T세포의 감소와 연관되었고, 암컷에서는 추가로 CD5+ CD21+ 세포의 감소 및 CD80 발현 증대가 관찰되었다. 성별 차이는 연령대에 따라 변화하여 젊은 성체에서는 B세포 활성화, 성체에서는 수컷의 CD5+ CD8+ 증가와 암컷의 Ki67+ 분획 증가, 고령에서는 CD56+ NK세포 차이가 나타났고, 체형에 따른 영향은 연령·성별로 층화한 후에 뚜렷하게 드러났다(예: 성체 과체중 수컷의 CD4+ Ki67+ 및 CD8+ Ki67+ 증가; 젊은 성체 과체중 암컷의 CD5+ 및 활성화된 CD5+ CD21+ CD80+ 증가; 고령 과체중 암컷의 CD5+ CD21+ Ki67+ B세포 감소). 과체중묘 내에서는 아디포넥틴 수치가 높을수록 CD5+ 림프구가 적게 관찰되었고, 혈청 아밀로이드 A 또는 중성지방과의 유의한 연관성은 발견되지 않았다. 초록에서는 명시적 제한점이 기술되지 않았으며, 결론적으로 고양이 비만은 면역세포 구성에는 미묘한 변화만을 보였으나 림프구 증식성에는 보다 뚜렷한 영향이 있었고, 이들 효과는 연령과 성별에 따라 강하게 조절되었다.",
+      "title": "Body condition, age, and sex as modulators of peripheral blood immune-cell populations and lymphocyte proliferation in cats.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-09-24T23:53:37.300Z",
       "model": "gpt-5-mini"
     }
   }
