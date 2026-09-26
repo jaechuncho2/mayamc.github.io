@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T23:55:40.991Z",
+  "updated_at": "2026-09-26T00:01:54.848Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -5695,6 +5695,134 @@
       "title": "Body condition, age, and sex as modulators of peripheral blood immune-cell populations and lymphocyte proliferation in cats.",
       "journal": "Frontiers in Veterinary Science",
       "generated_at": "2026-09-24T23:53:37.300Z",
+      "model": "gpt-5-mini"
+    },
+    "42781880": {
+      "brief_summary": "후향적 다기관 연구로 고양이 비강 암종(NC) 33례를 대상으로 항암(antineoplastic) 치료군(18마리)과 완화적 치료군(15마리)을 비교했다. 전체에서 임상 징후는 48% 악화, 36% 안정, 16% 임상적 이득을 보였고 중앙 진행까지 시간(MTTP)은 104일, 중앙 생존기간(MST)은 178일이었다. 항암 치료는 MTTP(96 vs. 111일, p=0.95)이나 MST(197 vs. 262일, p=0.77)에서 통계적 우위를 보이지 않아 완화적 치료만과 비교했을 때 명확한 생존 이점이 관찰되지 않았다.",
+      "detailed_summary": "후향적 다기관 연구로 조직병리학 또는 세포병리학으로 진단된 고양이 비강 암종 33마리(항암 치료 18마리, 완화적 치료 15마리)를 포함했다. 주요 평가 항목은 치료 반응, 중앙 진행까지 시간(MTTP)과 중앙 생존기간(MST)이었고 비출혈(코피), 안면 변형, 병기, NSAIDs 사용, 이전 외과적 감량술 등의 임상 변수를 분석했다. 전체 집단에서 48%는 임상 징후가 악화되었고 36%는 안정, 16%는 임상적 이득을 보였다. 전체 MTTP는 104일, MST는 178일이었다. 항암 치료군과 완화적 치료군 간 MTTP(96 vs. 111일, p=0.95) 및 MST(197 vs. 262일, p=0.77) 차이는 통계적으로 유의하지 않았다. 분석한 임상 변수들 중 어느 것도 예후와 유의한 관련을 보이지 않았으며 연구자는 표본 수가 적고 투여된 치료의 이질성 등으로 결과 해석에 주의를 당부했다.",
+      "title": "Tolerability and Outcome of Medical Treatment in Feline Nasal Carcinomas: A Multi-Institutional Retrospective Study.",
+      "journal": "Veterinary and Comparative Oncology",
+      "generated_at": "2026-09-26T00:01:54.836Z",
+      "model": "gpt-5-mini"
+    },
+    "42785356": {
+      "brief_summary": "전신마취 상태의 개에서 ForeSight 조직 산소포화도 모니터의 두부(rScO2) 및 신장(rSrO2) 측정 가능성을 평가한 연구로, 6마리의 비글을 대상으로 고산소·정상산소·저산소 상태에서 비교하였다. rScO2는 혈액가스 기반 가중 참조값(REF-CXB)과 중등도 상관(r = 0.70; P < .01)을 보였으나 블랜드-얼만 분석에서 일치도는 좋지 않았다. rSrO2는 신장 참조값과 상관이 없었고(r = 0.09; P = .62) 일치도도 좋지 않았다. 임상적으로는 ForeSight가 개의 전신마취 중 두부 산소화 추세 모니터링의 보조 도구로는 사용할 수 있으나 신장 산소화의 정량적 평가에는 신뢰성이 낮다.",
+      "detailed_summary": "무작위가 아닌 관찰 연구로 6마리의 마취된 비글을 대상으로 수행되었다. ForeSight 센서를 두부와 왼쪽 측복부에 부착하여 rScO2(지역 두부 산소포화도)와 rSrO2(지역 신장 산소포화도)를 추정했고, 좌측 배발동맥, 우측 대퇴정맥, 우측 경정맥에서 동일시점에 1 mL의 혈액을 채취하여 혈액가스 분석기에서 분석하였다. 경정맥과 대퇴정맥 도관의 끝은 각각 신정맥과 내경정맥의 가장 두측부에 위치시켰고, 혈액가스 기반 가중 참조 산소포화도(REF-CXB)를 계산하여 비교대상으로 삼았다. 통계는 반복측정 상관분석과 블랜드-얼만 분석으로 상관성과 일치도를 평가하였다. 결과적으로 rScO2는 REF-CXB와 중등도 상관(r = 0.70; P < .01)을 보였지만 블랜드-얼만에서 일치도는 낮았고, rSrO2는 REF-CXB와 유의한 상관이 없었으며(r = 0.09; P = .62) 일치도도 좋지 않았다. 결론은 ForeSight가 개의 전신마취 중 두부 산소화 추세를 실시간 보조적으로 관찰하는 데는 활용될 수 있으나 신장 산소화의 정확한 추정에는 적합하지 않다는 점이며, 표본이 6마리로 소수라는 점과 블랜드-얼만에서의 낮은 일치도가 정량적 해석을 제한하는 중요한 제약임을 명시한다.",
+      "title": "Feasibility of the ForeSight tissue oximetry system for estimating cerebral and renal tissue oxygen saturation in anesthetized dogs during hyperoxia, normoxia, and hypoxia.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-09-26T00:00:22.132Z",
+      "model": "gpt-5-mini"
+    },
+    "42785357": {
+      "brief_summary": "본 연구는 소변 분자의 조성 분석 기술인 Urine Molecular Fingerprinting(UMF)을 라만 분광법(Raman spectroscopy)과 계산 통계로 적용해 견종별 정상 개(총 822마리)와 암(n=142) 및 비신생물성 질환(n=19) 개의 소변 패턴을 비교한 탐색적 연구이다. 버니즈 마운틴 독(263), 골든 리트리버(214), 웨스트 하이랜드 화이트 테리어(79), 저먼 셰퍼드 독(21) 등에서 견종별 UMF 차이가 관찰되었고, 순종과 혼혈/기타 순종 코호트 간에도 차이가 있었다. 암 및 비신생물성 질환을 가진 개들의 UMF 프로파일은 임상적으로 건강한 개들의 기준 UMF와 달라 UMF가 개의 암 및 비신생물성 질환 검출에 유망한 기술임을 시사한다.",
+      "detailed_summary": "연구 설계는 배뇨로 채취한 소변 샘플을 이용한 탐색적 분석으로, 대상은 임상적으로 건강한 개 822마리(버니즈 263, 골든 214, WHWT 79, 저먼 셰퍼드 21, 기타 245)와 암 환자 샘플 142개, 비신생물성 질환 샘플 19개였다. 샘플은 라만 분광법으로 분석하고 계산 통계를 사용해 Urine Molecular Fingerprinting(UMF)을 구축·비교하였다. 주요 평가 항목은 견종·연령·성별·중성화 여부에 따른 UMF 차이와 암/비신생물성 질환 개체의 UMF가 건강한 기준과 다른지 여부였다. 결과적으로 특정 견종(버니즈, 골든, 저먼 셰퍼드, WHWT)에서 견종 관련 UMF 차이가 존재했고, 순종과 혼혈/기타 순종 코호트 간에도 UMF 차이가 관찰되었다. 버니즈 마운틴 독에서는 연령·성별·중성화 상태에 따른 UMF 차이는 없었다. 암(n=142) 및 비신생물성 질환(n=19) 개체의 UMF는 건강한 개들의 UMF와 달라 UMF가 임상에서 암 및 비신생물성 질환 검출을 보조할 유망한 기술임을 시사하지만 본 연구는 탐색적·예비적 성격임을 명시하고 있다.",
+      "title": "Urine Molecular Fingerprinting: exploratory study of a promising technology for detecting cancer and nonneoplastic disease in dogs.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-09-26T00:00:13.850Z",
+      "model": "gpt-5-mini"
+    },
+    "42785358": {
+      "brief_summary": "후향적 의무기록 검토로 설(혀) 또는 편도 종양이 확인된 반려견·반려묘 29마리(설종양: 개 7·고양이 7, 편도종양: 개 15)를 대상으로 전기화학치료(ECT) 단독 또는 수술 병용 후 국소 반응과 무진행 생존(PFS), 전체 생존(OS)을 평가했다. 설종양 개에서 ORR(객관적 반응률) 85.7%·CR(완전 관해) 71.4%·중앙 OS 270일을 보였고, 설종양 고양이는 ORR 71.4%·CR 57.1%·중앙 OS 240일이었다. 편도종양 개도 ORR 80.0%·CR 66.7%·중앙 OS 240일로 높은 국소 반응을 보였으나 생존은 주로 폐 전이에 의해 제한되어 다중모달 접근이 필요함을 시사한다.",
+      "detailed_summary": "연구는 후향적 의무기록 검토로 1회 이상 추적 관찰이 가능한 29마리의 임상증례(설종양: 개 7·고양이 7, 편도종양: 개 15)를 포함했다. 치료는 전기화학치료(ECT) 단독 또는 수술 병용으로 이루어졌고, 반응 평가는 수정된 고형종양 평가 기준(modified RECIST)을 사용했으며 PFS와 OS는 Kaplan-Meier 분석으로 산출했다. 설종양 개군의 객관적 반응률(ORR)은 85.7%였고 완전 관해(CR)는 71.4%, 중앙 OS는 270일, 중앙 PFS는 263일이었으며 2마리는 980일과 1,090일 시점까지 생존했다. 설종양 고양이군은 ORR 71.4%·CR 57.1%·중앙 OS 240일·중앙 PFS 215일이었고, 모든 고양이는 주로 국소 진행으로 사망했다. 편도종양 개군은 ORR 80.0%·CR 66.7%·중앙 OS 240일·중앙 PFS 210일이었고 모든 개는 주로 폐 전이로 사망했다. 저자들은 ECT가 모든 그룹에서 높은 국소 반응률을 달성했으며 설종양에서는 기능 보존적 치료로 유용하고 수술 병용 시 단독 ECT보다 큰 종양 치료가 가능하다고 결론지었다. 또한 편도종양의 경우 높은 국소 반응에도 불구하고 원격 전이로 인해 생존이 제한되어 다중모달 치료 접근의 필요성을 제시했다.",
+      "title": "Electrochemotherapy achieves high local control of lingual and tonsillar tumors in dogs and cats.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-09-26T00:00:46.315Z",
+      "model": "gpt-5-mini"
+    },
+    "42785426": {
+      "brief_summary": "증례보고: 9세 암컷 중성화된 개가 반복적 실신과 문서화된 과다 인슐린성 저혈당(hyperinsulinemic hypoglycemia)으로 내원했다. 영상검사에서 췌장 종괴가 확인되지 않아 좌측 부분 췌장절제와 국소 림프절 절제술을 시행했고, 조직검사에서 인슐리노마는 배제되고 네시디오블라스토시스(nesidioblastosis)로 진단되었다. 수술 후 증상은 일시 호전되었으나 45일 뒤 저혈당 재발로 우측 부분 췌장절제를 추가로 시행했고, 이후 8개월 추적 동안 정상 혈당 유지 및 임상적 무증상 상태를 보였으며 임상적 당뇨병이나 외분비 췌장기능부전은 관찰되지 않았다. 본 증례는 췌장 종괴가 확인되지 않는 과다 인슐린성 저혈당에서 네시디오블라스토시스를 감별해야 함과 병변의 확산성으로 인해 단측 부분 절제 후 재발할 수 있음을 시사한다.",
+      "detailed_summary": "연구설계는 단일 증례보고이며 대상은 반복적 실신과 문서화된 과다 인슐린성 저혈당을 보인 9세 암컷 중성화 개였다. 진단 과정에서 영상검사로 췌장 종괴를 찾지 못해 탐색 개복술을 시행했고 좌측 부분 췌장절제 및 주변 림프절 절제술을 실시했다. 조직병리에서 인슐리노마는 배제되었고 네시디오블라스토시스가 확진되었다. 좌측 수술 후 임상증상은 일시적으로 해소되었으나 45일 후 저혈당이 재발하여 우측 부분 췌장절제를 추가로 시행하였다. 두 번째 수술 이후 환견주는 8개월 추적 기간 동안 환축이 정상 혈당을 유지하고 임상적 증상이 없었으며 임상적으로 관찰되는 당뇨병이나 외분비 췌장기능부전은 보고되지 않았다고 기술되었다. 저자들은 췌장 종괴가 동반되지 않는 과다 인슐린성 저혈당에서 네시디오블라스토시스를 감별진단으로 고려할 것을 권하고, 병변의 확산성 때문에 단측 부분 절제 후 재발할 수 있음을 지적한다. 단, 단일 증례이므로 결과를 일반화하기는 어렵다는 제한점이 있다.",
+      "title": "Successful management of nesidioblastosis in a dog with persistent hyperinsulinemic hypoglycemia following staged bilateral partial pancreatectomies.",
+      "journal": "Topics in Companion Animal Medicine",
+      "generated_at": "2026-09-26T00:01:17.813Z",
+      "model": "gpt-5-mini"
+    },
+    "42785750": {
+      "brief_summary": "본 연구는 갑상선절제술을 받은 개 30마리(35개 종양)를 대상으로 림프혈관 침범(lymphovascular invasion, LVI)을 조직학적·면역조직화학적으로 규명하고 임상 결과와의 연관성을 평가했다. 피막 밖(extracapsular) LVI는 사망 위험과 유의하게 연관되었고, 특히 피막 밖에서 섬유소(응고물)가 붙은 비내피화된 종양혈전은 사망 가능성을 약 10배(p=0.001), 내피화된 피막 밖 종양혈전은 약 3배(p=0.013) 증가시켰다. 반면 피막 내(intracapsular) LVI는 본 코호트에서 예후와 연관되지 않았다. 임상적으로는 피막 밖 LVI의 존재를 예후 위험요인으로 고려할 필요가 있음을 시사한다.",
+      "detailed_summary": "후향적 사례군 연구로서 포함기준은 갑상선절제술을 받고 조직검체가 확보되었으며 최소 1년 추적관찰 또는 사망 시점까지의 임상자료가 있는 개였다. 총 30마리에서 35개의 종양(여기서 여포성(follicular) 26개, 수질(medullary) 9개)을 평가하였다. 조직학적으로 LVI는 피막 내·외의 내피화(endothelialized) 종양색전 또는 섬유소가 부착된(non-endothelialized) 종양색전 등으로 분류되었고, 면역표지에서 CD31 양성 혈관에서는 17건, Prox1 양성에서는 1건에서 내피화된 종양혈전이 관찰되었다. 통계적으로 피막 밖 침범 중 섬유소가 붙은 비내피화된 경우와 내피화된 경우가 각각 사망 위험을 약 10배(p=0.001) 및 3배(p=0.013) 증가시켰고, 피막 밖의 유무에 따른 차이는 유의하지 않았다(p=0.31). 피막 내 종양색전과 비내피화된 종양색전 전체는 이 코호트에서 예후와 관련이 없었다. 연구 결론은 피막 밖 LVI가 악성 예후와 연관되나, 표준화된 치료 및 추적을 포함한 더 큰 규모의 연구가 필요하다는 점을 제한점으로 명시하고 있다.",
+      "title": "Pathologic Characterization and Clinical Significance of Lymphovascular Invasion in Canine Thyroid Carcinomas.",
+      "journal": "Veterinary and Comparative Oncology",
+      "generated_at": "2026-09-26T00:01:32.871Z",
+      "model": "gpt-5-mini"
+    },
+    "42785969": {
+      "brief_summary": "이 연구는 우즈베키스탄의 육상 및 반수생 육식성 포유류 15종에서 보고된 헬민트 기생충에 대한 최신 체크리스트와 서술적 검토를 제공하는 것을 목적으로 한다. 문헌 120건(1926–2024)을 검토해 총 74종의 헬민트(9 trematodes·흡충, 24 cestodes·조충, 5 acanthocephalans·천엽충, 36 nematodes·선형동물)를 확인했으며 이 중 37종(50.0%)은 인수공통감염(zoonotic) 관련 종으로 재평가되었다. 연구는 개, 자칼, 여우에 대한 연구 편중과 여러 숙주군·지리적 영역·분자동정 및 인수공통감염 위험평가의 부족을 지적한다. 임상적으로는 대표 표본채취, 분자 및 비침습적 진단법과 One Health(One Health) 기반 통합 감시가 향후 우선 과제로 제시된다.",
+      "detailed_summary": "연구 설계는 체계적 검토나 메타분석이 아닌 업데이트된 체크리스트 및 서술적(narrative) 검토로 이루어졌으며, 데이터는 PubMed, ResearchGate, Google Scholar 및 지역 아카이브에서 수집되었다. 총 120편의 문헌(1926–2024년 발표; 학술지 61편, 국내학술대회 초록 54편, 박사학위논문 5편; 러시아어·우즈벡어·영어)을 검토했다. 검토 결과 우즈베키스탄의 개과(Canidae), 고양이과(Felidae), 족제비과(Mustelidae)에 속하는 15종의 육식동물에서 총 74종의 헬민트가 보고되었고(흡충 9종, 조충 24종, 천엽충 5종, 선형동물 36종), 그중 37종(50.0%)은 인수공통감염 관련 종으로 분류되었다. 인수공통감염의 공중보건 중요성은 잘 확립된 질환부터 드문 우발적 인간감염까지 다양하다고 저자들은 명시한다. 연구는 연구 노력이 개·자칼·여우에 편중되어 있으며 여러 숙주군과 지역이 불충분하게 조사되었다고 보고한다. 저자들은 향후 연구에서 대표적 표본채취, 분자동정과 비침습적 진단법의 포함, 그리고 One Health(One Health) 관점의 통합 감시를 우선할 것을 권고하며, 현재 숙주 범위·지리적 샘플링·분자 동정 및 인수공통감염 위험평가의 공백이 이해를 제한한다고 결론지었다.",
+      "title": "An Updated Checklist and Narrative Review of Helminth Parasites of Terrestrial and Semiaquatic Carnivorous Mammals in Uzbekistan.",
+      "journal": "Veterinary Medicine and Science",
+      "generated_at": "2026-09-26T00:01:05.735Z",
+      "model": "gpt-5-mini"
+    },
+    "42786467": {
+      "brief_summary": "에티오피아 Bahir Dar 및 Gondar시의 개에서 Taeniidae 계열 기생충 감염 유병률과 소유자 KAP(지식·태도·실천)를 조사한 횡단연구이다. 2025년 9월~2026년 2월에 개 배설물 424건을 채취해 분변 부동법으로 검사한 결과 전체 유병률은 29.5%였고, 설사나 분변 내 총절편(proglottid) 등 임상증상이 있는 개는 81.1%로 가장 높았다. 연구자는 연령, 성별, 임상증상, 자유 유기(자유활동) 여부, 소유자 지식 수준 등이 감염과 통계적으로 연관되어 있어 일상 구충, 책임 있는 사육, 공중교육 및 잔해(offal) 적정 처리 등의 통합적 방제가 필요하다고 결론지었다.",
+      "detailed_summary": "본 연구는 2025년 9월부터 2026년 2월까지 Bahir Dar와 Gondar 도시에서 수행된 횡단연구로, 개 배설물 424건을 표본으로 분변 부동법을 이용해 Taeniidae 계열 감염 여부를 확인하고 구조화된 설문으로 소유자·사육·동물 요인을 조사했다. 전체 Taeniid 감염 유병률은 29.5%였고, 설사 및 분변 내 proglottid가 관찰된 개의 감염비율은 81.1%로 보고되었다. 카이제곱 검정과 다변량 로지스틱 회귀를 사용했으며 유의수준은 P<0.05로 설정되었다. 다변량분석에서 고령은 오즈비(AOR)=2.8(P=0.024)로 감염과 양의 연관을 보였고, 암컷은 AOR=0.43(P=0.007), 임상증상은 AOR=25.9(P=0.001), 자유로이 돌아다니는 행동은 AOR=0.05(P=0.001), 소유자 지식 부족은 AOR=0.38(P=0.029)로 통계적으로 유의한 관련성이 관찰되었다. (오즈비가 1보다 작으면 해당 변수와 감염의 오즈가 낮음을 의미한다.) 연구결과는 해당 지역에서 Taeniid 감염이 흔함을 시사하며 저자들은 정기 구충, 책임 있는 사육관리, 공중보건 교육 및 적절한 폐기물·도축 부산물 처리 등을 권고하였다. 초록에 기재된 바 외의 추가적인 진단(예: 종 동정)이나 개입 효과에 대한 근거는 제시되지 않았으므로 이러한 제한을 고려해야 한다.",
+      "title": "Taeniid infection in dogs: a coprological and knowledge, attitude and practices study in Gondar and Bahir Dar cities, Ethiopia.",
+      "journal": "BMC Veterinary Research",
+      "generated_at": "2026-09-25T23:59:34.304Z",
+      "model": "gpt-5-mini"
+    },
+    "42786736": {
+      "brief_summary": "증례집단 연구로 진행된 본 논문은 전뇌(prosencephalic) 증상을 보인 고양이 4마리에서 MRI상 종양과 함께 관찰된 유사낭성(pseudocystic) 액 축적을 보고한다. 모든 증례는 개두술로 종괴를 제거했고 수술 후 신경학적 호전과 퇴원을 보였다. 병리학적으로는 수막종(meningioma)이 확인되었고 한 증례는 수의학 문헌에 드물게 보고된 마이크로시스틱(microcystic) 수막종이었다. 저자들은 유사낭성 성분이 임상 경과나 수술 결과에 명백한 부정적 영향을 주지 않은 것으로 보고하였다.",
+      "detailed_summary": "연구 설계는 증례 시리즈로, 진행성 전뇌 증상을 보인 고양이 4마리를 대상으로 하였다. 각 증례에서 MRI는 외축성(extraaxial) 종괴와 동반된 유사낭성 액 축적을 보였고, 증례 1에서는 실제 낭(cyst)과 유사한 소견을, 증례 2·3·4에서는 피하경막(subdural) 성상의 초승달 모양 액 축적 소견을 보였다. 모든 환자는 개두술(craniotomy)을 통해 종괴 제거술을 받았고 수술 후 모두 신경학적으로 호전되어 퇴원하였다. 조직병리학적 분류는 증례 1, 2, 4에서 섬유성(fibrous) 수막종, 증례 3에서 마이크로시스틱 수막종으로 확인되었고, 증례 4의 액체 분석에서는 단백질이 풍부한 액체와 종양성 수막 세포가 관찰되었다. 증례 4의 액 주위 벽 조직에서는 경막에 인접해 배엽상(epithelial) 내막 없이 종양성 meningothelial 세포가 관찰되었다. 추적 MRI는 증례 2와 3에서 수술 6개월 후 국소적 수막 비후를 보였다. 결론적으로 저자들은 유사낭성 성분의 기원이 불명이며(unknown), 이 4증례에서는 임상 예후나 수술 후 경과에 명확한 불리함을 보이지 않았다고 보고하였으나, 표본 수가 적은 증례 보고이므로 일반화는 불가능하다는 제한점이 있다.",
+      "title": "EXPRESS: Meningiomas in four cats with pseudocystic fluid accumulation including one microcystic meningioma.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "generated_at": "2026-09-26T00:00:02.326Z",
+      "model": "gpt-5-mini"
+    },
+    "42786780": {
+      "brief_summary": "후향적 증례군 연구로 11마리의 새끼 고양이(평균 연령 12.3주, 범위 8–20주)의 Type I atresia ani(무항문증)를 대상으로 사람의 Heineke‑Mikulicz 성형술을 변형한 Heineke‑Mikulicz-like anoplasty를 적용하여 수술적 관리와 결과를 보고하였다. 수술 중 합병증은 없었고, 평균 추적기간 13.6개월(6–24개월) 동안 11/11에서 재발은 없었으며, 1/11(9%)에서 수술 2일 후 상처 열개가 발생했으나 재수술로 완치되었다. 장기적으로 1/11(9%)에서 영구 분변실금이 보고되었고, 9/11(81%)에서는 장기 결과가 우수하였다며 해당 술식이 Type I 무항문증 관리에 적절하다고 제시하였다.",
+      "detailed_summary": "연구는 후향적 증례 연속보고로, 사람에서 기술된 Heineke‑Mikulicz 성형술을 변형한 anoplasty 기법을 고안해 11마리의 Type I atresia ani(무항문증) 새끼 고양이(평균 연령 12.3주, 범위 8–20주)에 적용하였다. 수술은 모든 증례에서 시행되었고 수술 중 합병증은 보고되지 않았다. 주요 평가 항목으로는 수술 중 합병증, 수술 후 합병증(예: 상처 열개), 재발 여부, 배변 조절(분변실금) 및 장기 추적관찰 결과가 포함되었다. 수술 후 주요 합병증은 1/11(9%)에서 2일째 상처 열개가 발생한 사례뿐이었고, 해당 증례는 재수술로 완치되었다. 평균 추적기간 13.6개월(범위 6–24개월) 동안 11/11에서 재발은 없었으며, 영구 분변실금은 1/11에서 보고되었고 9/11(81%)에서는 장기 결과를 ‘우수’로 평가하였다. 저자들은 이 술식이 Type I 무항문증 관리에 적절하다고 결론지었으나 본문 초록에 따라 이는 증례보고 기반 결과임을 고려해야 한다(일반화 제한).",
+      "title": "EXPRESS: Surgical management of type I atresia ani using Heineke-Mikulicz-like anoplasty: a case series of eleven kittens (2022-2025).",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "generated_at": "2026-09-25T23:59:50.971Z",
+      "model": "gpt-5-mini"
+    },
+    "42787045": {
+      "brief_summary": "인도 GADVASU의 외래에서 자연 발생한 개(교상·탈피성 손상 등)를 대상으로 32마리를 무작위로 네 처치군으로 나눠 신제품 천연제제 VG111과 표준 5% 포비돈-요오드(povidone-iodine, PI)를 전신 세포탁심(cefotaxime) 유무로 비교한 전향적 연구이다. 상처 수축률과 수정된 Bates-Jensen 상처평가도(BWAT)를 5일 간격으로 평가한 결과, VG111 단독군은 완전 치유에 25일이 걸려 PI군(최대 50일)에 비해 거의 두 배 빠른 치유 속도를 보였다. 또한 VG111에 세포탁심을 추가하면 치유가 가속되지 않고 오히려 다소 지연되는 경향을 보였고, GC‑MS로 VG111에서 41개 성분을 확인했으며 분자동역학(docking) 결과는 항미생물 기전을 시사했다. 임상적 의미는 VG111이 국소제제로서 빠른 치유와 항미생물 연관성을 보였다는 점이나, 초록에 통계적 유의성·부작용 등 제한적 정보만 제시되어 해석에 주의가 필요하다는 것이다.",
+      "detailed_summary": "연구는 자연 발생한 개의 상처 관리에서 PI의 세포독성 한계를 보완하고자 시행한 전향적 비교연구로, 총 32마리의 내원 환견을 인도 GADVASU(루디아나)에서 네 처치군으로 무작위 배정하였다. 처치군은 VG111 단독, VG111+전신 세포탁심, 5% PI 단독, 5% PI+전신 세포탁심으로 구성되었고 평가항목은 상처 수축률(%)과 수정된 Bates-Jensen Wound Assessment Tool(BWAT) 점수였으며 평가는 5일 간격으로 이루어졌다. 주요 결과로 VG111 단독군은 평균적으로 25일에 완전 치유를 달성하여 PI군의 최대 50일에 비해 빠른 치유 양상을 보였다(초록에는 정확한 평균·표준편차나 p값은 제시되지 않음). 흥미롭게도 VG111에 전신 세포탁심을 추가한 군에서는 치유 속도가 가속되지 않고 오히려 다소 지연되는 방향성이 관찰되었다. 추가적으로 GC‑MS 분석으로 VG111에서 41개의 화학성분을 동정하였고, 인실리코 분자동역학(모의 도킹) 결과는 해당 성분들이 항미생물 활성을 가질 가능성을 시사하였다. 결론적으로 초록 수준에서는 VG111이 임상적으로 빠른 상처 치유와 항미생물 관련 기전을 제시했으나, 초록에는 통계적 유의성, 부작용·안전성 자료, 장기 추적 또는 세부 방법론적 제한점이 구체적으로 기술되어 있지 않으므로 결과 해석에는 주의가 필요하다.",
+      "title": "A comparative study of wound healing kinetics, efficacy, and profiling of VG111 in canine wounds.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-09-25T23:59:23.161Z",
+      "model": "gpt-5-mini"
+    },
+    "42787157": {
+      "brief_summary": "본 연구는 전십자인대 파열(CCLR) 개에서 표준 수술인 경골고원평형절골술(TPLO)에 자가조절혈청(ACS)을 병용했을 때 기능 회복과 골관절염(OA) 진행에 미치는 영향을 평가한 전향적 무작위 대조시험이다. 총 60 슬관절(48마리의 자가견)을 ACS 단독, TPLO 단독, TPLO+ACS군으로 무작위 배정하여 기능점수(OAS), 방사선학적 OA, 관절액 사이토카인(IL-1β, IL-10, TNF-α)을 추적하였다. 모든 군에서 유의한 기능 향상이 있었으나( p < 0.001), TPLO+ACS군이 ΔOAS 7.29점 감소와 D180의 최저 OAS(0.57 ± 0.16)를 보여 단독요법보다 우수했고( p < 0.05), 장기(720일)에는 OA 점수도 유의하게 낮았다(1.8 ± 0.4, p < 0.05). 임상적 의미는 TPLO로 기계적 안정성을 복원하면서 ACS가 관절 내 염증성 환경을 조절해 기능 회복을 증진하고 OA 진행을 지연시킬 가능성이 있다는 것이다.",
+      "detailed_summary": "연구는 전향적 무작위 대조시험으로 총 60 슬관절(48마리의 임상 환자견)을 ACS 단독, TPLO 단독, TPLO+ACS 병용군으로 각각 20개씩 배정하였다. 평가 시점은 수술 전(D0)과 수술 후 30–180일이며, 주요 평가지표는 정형외과 평가점수(OAS), 방사선학적 OA 등급, 관절액 내 사이토카인(IL-1β, IL-10, TNF-α)이었다. 추가로 15개 슬관절은 최대 720일까지 장기 추적되어 장기적 OA 진행을 비교하였다. 결과는 모든 군에서 기능적으로 유의한 개선을 보였고(p < 0.001), TPLO+ACS군이 가장 큰 OAS 감소(ΔOAS = 7.29)와 D180의 최저 점수(0.57 ± 0.16)를 보여 단독요법보다 유의하게 우수했다(p < 0.05). 단기(≤180일) OA 진행은 군 간 차이가 없었으나, 720일 시점에서는 TPLO+ACS군의 OA 점수가 1.8 ± 0.4로 ACS(2.3 ± 0.5) 및 TPLO(2.2 ± 0.7)군보다 유의하게 낮았다(p < 0.05). 관절액 사이토카인 분석에서는 TPLO+ACS군이 IL-1β 및 TNF-α와 같은 프로염증성 사이토카인을 가장 효과적으로 억제하고, IL-10과 같은 항염증성 표지를 초기~중기 수술 후 기간 동안 유지하는 것으로 보고되었다. 결론적으로 TPLO와 ACS의 병용은 기계적 안정성 회복과 관절 내 염증 미세환경 조절을 결합해 기능 회복을 증진하고 OA 진행을 지연시킬 수 있음을 시사하나, 장기 결과는 15개 슬관절의 제한된 추적에서 도출되었음을 유의해야 한다.",
+      "title": "Combined tibial plateau leveling osteotomy and autologous conditioned serum for functional recovery and delayed osteoarthritis progression in dogs with cranial cruciate ligament rupture.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-09-25T23:59:11.473Z",
+      "model": "gpt-5-mini"
+    },
+    "42787174": {
+      "brief_summary": "증례보고로서 젊은 암컷 개에서 다발성 유선 결절과 발정 시작 1~2주 전부터 관찰된 지속적 고혈당이 보고되었다. 검사(임상검진·혈액학·생화학·세포검사) 및 유선 병변의 외과적 절제와 조직병리 검사에서 서로 다른 조직학적 양상의 다발성 유선암이 확인되었고, 유선종양 절제 후에도 혈당은 지속 상승하였다. 난소자궁적출술(ovariohysterectomy, OHE) 시행 2주 후부터 혈당이 점차 정상화되어 생식호르몬 상태와 연관된 인슐린 저항성 가능성이 제기되며, 젊은 환자에서 생식호르몬 상태와 대사 평가의 중요성을 시사한다.",
+      "detailed_summary": "단증례 보고로, 젊은 암컷 개에서 다발성 유선 결절과 발정(estrus) 시작 약 1~2주 전부터 관찰된 지속적 고혈당(hyperglycemia)을 진단하고 추적하였다. 수행된 평가는 임상검진, 혈액학 및 생화학 검사, 세포검사, 유선 병변의 외과적 절제와 조직병리였다. 조직병리학적으로 서로 다른 조직학적 패턴을 가진 다발성 유선암(mammary carcinomas)이 확인되었다. 유선종양 절제 후에도 혈당은 계속 높게 유지되었으나, 2주 뒤 시행한 난소자궁적출술(ovariohysterectomy, OHE) 이후 수주 내에 혈당이 점차 저하되어 정상 범위로 회복되었다. 저자들은 종양 자체의 직접적인 대사작용보다는 생식호르몬 상태와 연관된 인슐린 저항성 가능성을 제시한다. 이 증례는 젊은 유선종양 환자에서 생식호르몬 상태와 포도당대사의 상호작용을 고려한 종합적 임상·대사 평가의 필요성을 강조한다. 단, 단일 증례이므로 인과관계 확정이나 일반화는 제한된다는 중요한 한계가 있다.",
+      "title": "Case Report: Multiple mammary carcinomas in a young dog with estrus-associated hyperglycemia: clinicopathological findings and glycemic normalization after ovariohysterectomy.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-09-25T23:58:57.104Z",
+      "model": "gpt-5-mini"
+    },
+    "42787357": {
+      "brief_summary": "본 연구는 전십자인대 파열(cranial cruciate ligament rupture, CCLR) 개 30두를 대상으로 합성 인공 인대 Zlig의 관절내 재건술과 경골 고원 평형 절골술(tibial plateau leveling osteotomy, TPLO)을 비교한 전향적 대조 임상연구이다. 18주간 추적 결과 두 군 모두 사지 기능과 임상 지표가 개선되었으나, 12주 시점에서 TPLO군이 절골술에서 통계적으로 더 큰 외상성 완화(절름증 점수·관절삼출·통증 민감도 감소)를 보였다. 18주 시점에서 TPLO군은 모든 개에서 경골압박검사 음성(안정화)였고 합병증률도 TPLO 18.8%(n=3) vs Zlig 35.7%(n=5)로 TPLO가 더 신뢰할 만한 안정화와 낮은 합병증률을 보였다는 임상적 시사점을 가진다.",
+      "detailed_summary": "본 연구는 LMU Munich 소동물 클리닉에서 시행된 전향적 임상연구로, CCLR 진단을 받은 개 30두를 TPLO군(n=16)과 합성 관절내 인대 Zlig군(n=14)으로 수술 후 6, 12, 18주에 평가하였다. 임상 평가는 절름증 점수, 관절삼출, 임상 검사 시 통증 반응 및 경골압박검사(tibial compression test)를 포함했고, 객관적 보행분석은 러닝머신 기반 포스플레이트와 모션캡처 시스템으로 수행되었다. 양 군 모두 18주 동안 임상적·기능적 개선을 보였으나, 12주 시점에서 TPLO군이 절름증 점수·관절삼출·슬관절 통증 민감도에서 유의하게 더 큰 감소를 보였다. 다른 모든 시점(사전·6주·18주)에서는 TPLO와 Zlig 사이에 유의한 차이는 관찰되지 않았다. 18주 시점의 경골압박검사 결과는 TPLO군은 전원 음성인 반면 Zlig군은 78.6%(n=11)가 여전히 양성으로 남아 잔여 불안정성이 관찰되었다. 수술 후 전체 합병증률은 TPLO 18.8%(n=3), Zlig 35.7%(n=5)였고, 연구진은 Zlig군의 잔여 불안정성에 대해 추가적인 생체역학적 연구와 장기 전향적 검증이 필요하다고 결론지었다.",
+      "title": "Zlig ligament reconstruction versus tibial plateau leveling osteotomy for cranial cruciate ligament rupture in dogs: a prospective controlled study.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-09-25T23:58:39.141Z",
+      "model": "gpt-5-mini"
+    },
+    "42787421": {
+      "brief_summary": "12세 암컷 메인쿤 고양이 1마리가 변형 L-CHOP 기반 화학요법 중 상기도 폐색을 유발하는 후두 병변으로 진행하여 응급 임시 기관절개술을 시행받았다. 기관절개술로 기도 확보 후 펀치생검에서 미만성 대형 B세포 림프종과 일치하는 소견을 보였고, 저분할 완화 방사선치료(6 Gy × 6회, 총 36 Gy)를 시행하였다. 치료 중 종양이 점차 소실되어 4회째에 기관절개관을 제거했고, 방사선치료 시작 17일 후 CT에서 후두 병변이 관찰되지 않았으나 환자는 27일째 전신적 질환 진행 의심으로 사망하였다. 이 증례는 임시 기관절개술과 병행한 저분할 방사선치료가 후두 B세포 림프종으로 인한 기도 폐색을 빠르게 완화할 수 있음을 시사하지만 증례보고로 일반화는 불가하다.",
+      "detailed_summary": "단일 증례보고로 12세 스프레이 암컷 메인쿤 고양이 한 마이가 연구 대상이다. 초기 진단은 경부 T-세포가 풍부한 B세포 림프종(cervical T-cell-rich B-cell lymphoma)이었고, 변형 L-CHOP 기반 화학요법 중 후두 병변으로 인한 상기도 폐색이 진행되었다. 초기 CT에서 연속적인 후두 침범이 의심되었고 추적 영상에서는 심한 후두 협착이 확인되어 응급 임시 기관절개술로 기도 확보를 시행하였다. 기관절개 후 시행한 후두 펀치생검은 미만성 대형 B세포 림프종(diffuse large B-cell lymphoma)과 가장 일치하는 소견이었다. 폐색성 종괴를 목표로 저분할 완화 방사선치료(hypofractionated RT, 6 Gy × 6회, 총 36 Gy)를 시작하였고 치료 도중 종양이 점진적으로 축소되어 4회째에 기관절개관을 성공적으로 제거하였다. 방사선치료 시작 17일째 추적 CT에서는 후두 병변이 관찰되지 않았고 이후 기도 폐색이나 호흡기 증상은 재발하지 않았다. 환자는 임상적으로 의심되는 전신 질환 진행으로 27일째 사망하였으며, 본 증례는 해당 치료가 빠른 완화를 제공했음을 보여주지만 단일 증례라는 점과 생존기간·장기 추적의 한계가 있어 일반화할 수 없다.",
+      "title": "Case Report: Palliative benefit of hypofractionated radiation therapy (6&#x202f;Gy &#xd7; 6 fractions) with temporary tracheostomy in a cat with laryngeal B-cell lymphoma progressing during chemotherapy.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-09-25T23:58:27.312Z",
+      "model": "gpt-5-mini"
+    },
+    "42787561": {
+      "brief_summary": "헝가리의 과거(2010·2017) 개 외이염(otitis externa)에서 분리된 Pseudomonas aeruginosa를 대상으로 병원성 관련 유전자 구성을 게놈 수준에서 분석한 연구로, 품질기준(CheckM)을 충족한 52개체 코호트에서 보존된 병원성 유전자 골격과 균주별로 이질적인 Type III 분비(T3) 효과자 프로필을 규명했다. 총 242개의 서로 다른 병원성 관련 유전자가 검출되었고, 중앙값으로 균주당 230.5개였으며 217개(89.7%)는 거의 모든 균주(≥95%)에 보존되어 있었다. exoT(52/52), exoY(50/52), exoS(49/52), exoU(4/52)처럼 T3 효과자는 균주 간 차이가 뚜렷했으며, 연도별(2010 vs 2017) 전체 병원성 레퍼토리 구성에는 유의한 차이가 없었다(R2=0.0134, p=0.6083). 단, 검출된 유전자는 발현이나 기능적 기여를 증명하는 증거가 아니라 게놈상 동족유전자로 해석되어야 한다는 점을 명시했다.",
+      "detailed_summary": "본 연구는 2010년과 2017년에 개 외이염에서 분리된 헝가리 산 P. aeruginosa 역사적 표본을 장비열(롱리드) 조립과 병원성 유전자(DB 대비) 스크리닝으로 특성화했다. 명목상 70개 식별자 중 60개는 장비열 조립과 연계된 VFDB 스크리닝 기록이 있었고, 그중 한 조립은 종 수준 기준을 충족하지 못해 제외되었다. 52개체는 CheckM의 완전성≥95%·오염≤5% 기준을 충족하는 게놈확인 P. aeruginosa로 1차 분석 코호트를 구성했고, CheckM 기준을 충족하지 못한 추가 7개체는 서술적 맥락에서만 보존되었다. 1차 코호트에서 총 242개의 병원성 관련 유전자가 검출되었고 균주당 중앙값은 230.5개였으며, 217개(89.7%)는 코어-유사로 판단되어 대부분 균주에 널리 보존된 것으로 나타났다. 알지네이트, type IV 파일러스, 편모, 철획득(siderophore), 페나진(phenazine), 쿼럼센싱, type II·III·VI 분비 골격 등은 널리 보존되었으나 Type III 분비 효과자군은 이질적이어서 exoT는 52/52, exoY는 50/52, exoS는 49/52, exoU는 4/52에서 검출되었고 한 균주에서는 exoS와 exoU 유사 서열의 동시 검출이 보고되었다. 전체 병원성 레퍼토리 구성은 2010년과 2017년 사이에 통계적으로 유의한 차이를 보이지 않았고(제곱근 자카드 PERMANOVA R2=0.0134, p=0.6083), 다중검정 보정 후 특정 유전자가 연도와 연관된 것도 없었다. 연구는 검출된 유전자를 게놈상의 동족유전자 및 레퍼토리 특징으로 해석해야 하며, 유전자 존재가 곧 발현이나 병원성 기여를 의미하지 않는다는 중요한 제한점을 명시하고 있다.",
+      "title": "A conserved virulence backbone and heterogeneous type III secretion effector profiles in historical canine otitis-associated Pseudomonas aeruginosa from Hungary.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-09-25T23:58:16.785Z",
       "model": "gpt-5-mini"
     }
   }

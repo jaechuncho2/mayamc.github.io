@@ -1,6 +1,170 @@
 {
-  "updated_at": "2026-09-24T23:53:14.247Z",
+  "updated_at": "2026-09-25T23:57:51.782Z",
   "papers": [
+    {
+      "pmid": "42787561",
+      "title": "A conserved virulence backbone and heterogeneous type III secretion effector profiles in historical canine otitis-associated Pseudomonas aeruginosa from Hungary.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Veres MA, Moravcsik B, Mag P, Kaszab E, Feh&#xe9;r E, Jerzsele &#xc1;, Kerek &#xc1;",
+      "date": "2026 09 25",
+      "dateObject": "2026 09 25",
+      "abstract": "Canine otitis externa provides a chronic, inflamed and frequently antimicrobial-exposed niche in which Pseudomonas aeruginosa can persist through a coordinated repertoire of adhesion, biofilm, iron-acquisition, secretion and toxin systems. We characterized the virulence-associated genomic architecture of a historical Hungarian collection obtained from canine otitis cases in 2010 and 2017. Of the 70 isolate identifiers in the nominal range 70-139, 60 had corresponding long-read assemblies and linked VFDB screening records. One assembly was excluded after genome-based taxonomic validation showed that it did not meet the species-level criterion for P. aeruginosa . Primary absence-sensitive analyses were restricted to 52 genome-confirmed P. aeruginosa assemblies meeting prespecified CheckM criteria (completeness &#x2265;95%, contamination &#x2264;5%), while seven additional genome-confirmed P. aeruginosa assemblies that did not meet the primary CheckM criteria were retained only for descriptive contextualization and were excluded from prevalence denominators and absence-sensitive analyses. The primary cohort contained 242 distinct virulence-associated genes, with a median of 230.5 genes per isolate. Of these, 217 (89.7%) were core-like, occurring in at least 95% of genomes. Alginate, type IV pilus, flagellar, siderophore, phenazine, quorum-sensing, type II, type III and type VI secretion backbones were broadly conserved. In contrast, type III effector content was heterogeneous: exoT occurred in 52/52 isolates, exoY in 50/52, exoS in 49/52 and exoU in 4/52; one isolate showed assembly-level co-detection of exoS and an exoU -homologous sequence. Whole-virulome composition did not differ detectably between 2010 and 2017 (square-root Jaccard PERMANOVA, R 2 &#x202f;=&#x202f;0.0134, p &#x202f;=&#x202f;0.6083), and no individual gene remained associated with collection year after false-discovery-rate correction. These data define a conserved historical virulence-associated genomic backbone punctuated by isolate-level effector and surface-structure variation. The detected genes are interpreted as genomic homologues and repertoire features rather than as evidence of their expression or functional contribution to pathogenicity.",
+      "categories": [
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42787421",
+      "title": "Case Report: Palliative benefit of hypofractionated radiation therapy (6&#x202f;Gy &#xd7; 6 fractions) with temporary tracheostomy in a cat with laryngeal B-cell lymphoma progressing during chemotherapy.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Kim J, Kim J, Jeong I, Choi H, Kim Y, Lee S, Eom K, Kim J",
+      "date": "2026 09 25",
+      "dateObject": "2026 09 25",
+      "abstract": "A 12-year-old spayed female Maine Coon cat was diagnosed with cervical T-cell-rich B-cell lymphoma. During modified L-CHOP-based chemotherapy, the cat developed progressive upper airway obstruction associated with a laryngeal lesion. Initial CT suggested contiguous laryngeal involvement, and follow-up imaging revealed severe laryngeal narrowing. An emergency temporary tracheostomy was performed for airway stabilization, and subsequent punch biopsy of the laryngeal lesion was most consistent with diffuse large B-cell lymphoma. Hypofractionated palliative radiation therapy (6&#x202f;Gy&#x202f;&#xd7;&#x202f;6 fractions; total dose 36&#x202f;Gy) was initiated to address the obstructive mass. Progressive tumor shrinkage was observed during treatment, and by the fourth fraction the tracheostomy tube was successfully removed without recurrence of airway obstruction. Follow-up CT 17&#x202f;days after radiation therapy initiation showed no visible laryngeal lesion, and no respiratory signs or airway obstruction recurred before the cat died on day 27 following clinically suspected systemic disease progression. This case suggests that hypofractionated radiation therapy, in combination with temporary tracheostomy, may provide rapid and effective relief of tumor-induced upper airway obstruction in cats with laryngeal B-cell lymphoma progressing during chemotherapy.",
+      "categories": [
+        "internalMedicine",
+        "oncology"
+      ]
+    },
+    {
+      "pmid": "42787357",
+      "title": "Zlig ligament reconstruction versus tibial plateau leveling osteotomy for cranial cruciate ligament rupture in dogs: a prospective controlled study.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Chwatal S, Volz F, Kornmayer M, Zablotski Y, Meyer-Lindenberg A",
+      "date": "2026 09 25",
+      "dateObject": "2026 09 25",
+      "abstract": "Cranial cruciate ligament rupture (CCLR) is one of the most common causes of hindlimb lameness in dogs, causing stifle instability, osteoarthritis and damage to the medial meniscus. While tibial plateau leveling osteotomy (TPLO) is the most common performed method for cranial cruciate ligament rupture in dogs, intra-articular reconstruction of the cranial cruciate ligament is the gold standard in human medicine. The objective of this prospective clinical study was to investigate whether the synthetic ligament Zlig by Eickemeyer&#xae; for intra-articular reconstruction can achieve similar clinical and gait analysis results in cases of CCLR in dogs compared to TPLO. Thirty dogs with CCLR were enrolled in this prospective clinical study at the small animal clinic at LMU Munich. The dogs underwent surgery with TPLO ( n &#x202f;=&#x202f;16) or the synthetic intra-articular ligament Zlig ( n &#x202f;=&#x202f;14) and were assessed preoperatively as well as 6, 12 and 18&#x202f;weeks postoperatively. Clinical assessment included lameness scoring, joint effusion, pain response during clinical examination and tibial compression test. Objective gait analysis was performed using treadmill-based force plate and motion capture systems. Both groups showed significant clinical and functional improvement over the 18-week period. At 12&#x202f;weeks, the TPLO group exhibited significantly greater reductions in lameness score, joint effusion and pain sensitivity of the stifle. At the all other time points, there were no significant differences between the TPLO group and the Zlig group. By week 18, all dogs treated with TPLO had a negative tibial compression test, while 78.6% ( n &#x202f;=&#x202f;11) of the dogs in the Zlig group were still tested positive. Total postoperative complication rate was 18.8% ( n &#x202f;=&#x202f;3) in the TPLO group and 35.7% ( n &#x202f;=&#x202f;5) in the Zlig group. Both surgical techniques resulted in improved limb function. The TPLO group showed more reliable stabilization and a lower complication rate in comparison to the Zlig group. The role of the residual instability in the dogs of the Zlig group needs further studies examining its biomechanical properties. Whether the intra-articular Zlig implant represents a potential alternative for the future needs to be further validated through more prospective studies over a longer time period.",
+      "categories": [
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42787174",
+      "title": "Case Report: Multiple mammary carcinomas in a young dog with estrus-associated hyperglycemia: clinicopathological findings and glycemic normalization after ovariohysterectomy.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Rosca P, Pasca AS, Hritcu TD, Ciornei SG, Spataru MC, Ivanescu L, Hritcu LD, Nechifor F",
+      "date": "2026 09 25",
+      "dateObject": "2026 09 25",
+      "abstract": "Mammary tumors are among the most common neoplasms affecting female dogs and are typically diagnosed in middle-aged or older animals. The occurrence of malignant mammary tumors in very young dogs is uncommon and may present diagnostic and clinical management challenges. This case report describes a young female dog presenting with multiple mammary nodules accompanied by persistent hyperglycemia detected approximately one to 2 weeks before the onset of estrus. Clinical examination, hematological and biochemical testing, cytological evaluation, surgical excision of the mammary lesions, and histopathological analysis were performed. Histopathology confirmed the presence of multiple mammary carcinomas with different histological patterns. Despite surgical removal of the tumors, blood glucose concentrations remained elevated. Two weeks later, the patient underwent ovariohysterectomy, after which glycemic values gradually decreased and returned to normal within the following weeks. The temporal association between reproductive hormonal status and the observed metabolic alteration suggests a possible hormone-related insulin resistance rather than a direct metabolic effect of the tumors themselves. This case highlights the potential interaction between mammary neoplasia, reproductive hormonal status, and glucose metabolism in dogs and emphasizes the importance of comprehensive clinical and metabolic evaluation in young patients presenting with mammary tumors.",
+      "categories": [
+        "internalMedicine",
+        "oncology",
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42787157",
+      "title": "Combined tibial plateau leveling osteotomy and autologous conditioned serum for functional recovery and delayed osteoarthritis progression in dogs with cranial cruciate ligament rupture.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Ji C, Gao G, Deng G",
+      "date": "2026 09 25",
+      "dateObject": "2026 09 25",
+      "abstract": "Cranial cruciate ligament rupture (CCLR) is the leading cause of stifle joint instability, chronic pain, and osteoarthritis (OA) in dogs. Although tibial plateau leveling osteotomy (TPLO) is the standard surgical treatment, postoperative inflammation and secondary OA progression remain major challenges. Autologous conditioned serum (ACS) is a biological therapy with anti-inflammatory and chondroprotective properties. In this prospective, randomized controlled trial, 60 stifles (48 client-owned dogs) with complete CCLR were allocated equally to three groups ( n = 20 each): ACS-only, TPLO-only, and TPLO+ACS. Assessments at preoperative baseline (D0) and postoperative days 30-180 included orthopedic assessment scores (OAS), radiographic OA grading, and synovial fluid cytokine levels (IL-1&#x3b2;, IL-10, TNF-&#x3b1;). A subset of 15 stifles was followed up to 720 days for long-term OA progression. All groups showed significant functional improvement ( p < 0.001). The TPLO+ACS group achieved the greatest OAS reduction (&#x394;OAS = 7.29 points) and the lowest D180 score (0.57 &#xb1; 0.16), outperforming both monotherapy groups ( p < 0.05). Short-term OA progression ( &#x2264; 180 days) did not differ significantly; however, at 720 days, TPLO+ACS maintained significantly lower OA scores (1.8 &#xb1; 0.4) than ACS (2.3 &#xb1; 0.5) and TPLO (2.2 &#xb1; 0.7) groups ( p < 0.05). Synovial inflammatory cytokine analysis revealed that TPLO+ACS most effectively suppressed pro-inflammatory cytokines (IL-1&#x3b2;, TNF-&#x3b1;) and sustained anti-inflammatory IL-10 levels during the early-to-mid postoperative phase. TPLO combined with ACS provides great improvement for canine CCLR by restoring biomechanical stability and modulating the intra-articular inflammatory microenvironment. This integrated approach enhances functional recovery and retards OA progression.",
+      "categories": [
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42787045",
+      "title": "A comparative study of wound healing kinetics, efficacy, and profiling of VG111 in canine wounds.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Singh KA, Kaur P, Attri S, Shekhar N, Karan M, Kumar R, Singh P, Singhal L, Singh N, Gautam V",
+      "date": "2026 09 25",
+      "dateObject": "2026 09 25",
+      "abstract": "The management of naturally occurring canine wounds, such as bite and degloving injuries, remains a major veterinary challenge because standard treatments often struggle to balance infection control and tissue regeneration. Although povidone-iodine (PI) remains a widely used first-line antiseptic in both human and veterinary medicine, there are concerns regarding its potential for cytotoxicity and the inhibition of fibroblast growth, which can delay healing. To address these limitations, a prospective comparative study was conducted on 32 client-owned dogs at GADVASU in Ludhiana, where wounds were randomized into four treatment arms. The animals received either the novel natural product formulation VG111 or standard 5% PI, both with and without systemic cefotaxime. Clinical outcomes were assessed through wound contraction percentages and modified Bates-Jensen Wound Assessment Tool (BWAT) scores at 5-day intervals. The results revealed that the VG111-only group achieved complete healing by day 25 nearly twice as fast as the PI group, which took up to 50&#x202f;days. Interestingly, the addition of systemic cefotaxime to VG111 modestly delayed healing kinetics rather than accelerating them. In addition to clinical evaluation, gas chromatography-mass spectrometry (GC-MS) analysis was utilized to identify 41 chemical constituents within VG111. These chemical findings were further complemented by in silico molecular docking simulations, indicating potential mechanisms underlying the formulation's robust antimicrobial activity.",
+      "categories": [
+        "internalMedicine",
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42786467",
+      "title": "Taeniid infection in dogs: a coprological and knowledge, attitude and practices study in Gondar and Bahir Dar cities, Ethiopia.",
+      "journal": "BMC Veterinary Research",
+      "authors": "Yayeh M, Birhan M, Ayalew A, Menigstu A",
+      "date": "2026 09 25",
+      "dateObject": "2026 09 25",
+      "abstract": "The zoonotic cestodes such as Taenia and Echinococcus species belonging to family taeniidae are of paramount importance in the developing world since they pose serious public health impacts. Dogs serve as definitive hosts, shedding eggs into the environment that can infect livestock and humans. To determine the occurrence of Taeniid infections in dogs, assess the risk factors and evaluate the knowledge, attitudes, and practices (KAP) of dog owners. A cross-sectional study was conducted from September 2025 to February 2026 in Bahir Dar and Gondar cities, Ethiopia. A total of 424 dog fecal samples were collected, and standard fecal flotation techniques were used to examine the eggs. Structured questionnaires were used to gather information on host, management, and owner-related factors. Data were analyzed using chi-square tests and logistic regression in Stata 17, with P&#x2009;<&#x2009;0.05 considered significant. The overall prevalence of taeniid infections was 29.5%, with dogs showing clinical signs such as diarrhea and proglottids in the feces having the highest infection rates (81.1%). Chi-square analysis revealed significant associations with age, sex, clinical signs, roaming behavior, feeding patterns, and owner knowledge. Multivariate analysis confirmed that old age (AOR&#x2009;=&#x2009;2.8, P&#x2009;=&#x2009;0.024), female sex (AOR&#x2009;=&#x2009;0.43, P&#x2009;=&#x2009;0.007), clinical signs (AOR&#x2009;=&#x2009;25.9, P&#x2009;=&#x2009;0.001), free-roaming behavior (AOR&#x2009;=&#x2009;0.05, P&#x2009;=&#x2009;0.001), and inadequate owner knowledge (AOR&#x2009;=&#x2009;0.38, P&#x2009;=&#x2009;0.029) as independent risk factors. The study found that taeniid infections were common in dogs in Bahir Dar and Gondar. The main predictors were age, sex, clinical symptoms, free-roaming behavior, and a lack of owner knowledge. To lower the risk of taeniid infection in the study areas, integrated control measures like routine deworming; responsible dog management, public education, and appropriate offal disposal were suggested.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42786780",
+      "title": "EXPRESS: Surgical management of type I atresia ani using Heineke-Mikulicz-like anoplasty: a case series of eleven kittens (2022-2025).",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "authors": "Berlemont L, Bondonny L, Massinon J, Chanoit G, Taroni M, Ferrand FX",
+      "date": "2026 09 25",
+      "dateObject": "2026 09 25",
+      "abstract": "Type I atresia ani is rare in cats and there is limited published data on the surgical management and prognosis of this condition in feline patients. Appropriate surgical planning requires thorough examination of the rectum, anus, and perineum to accurately diagnose atresia ani and rule out the presence of a rectovaginal or rectourethral fistula. Type I atresia may be treated with balloon dilatation or bougienage but recurrence may occur and several procedures may be required before complete resolution of the stenosis. The objective of this retrospective case series was to describe, for the first time, the clinical application and postoperative outcomes of a Heineke-Mikulicz-like anoplasty technique in kittens with type I atresia ani. The surgical technique was adapted from the Heineke-Mikulicz anoplasty technique described in people. Eleven cats with a mean age of 12.3 weeks (8-20 weeks) were included in this study. Heineke-Mikulicz-like anoplasty was performed in all cases without intraoperative complications. Major postoperative complications occurred in one case (1/11, 9%), with wound dehiscence two days after surgery. However, complete healing was achieved following revision surgery. At long-term follow-up over 13.6 months (6-24 months) no recurrence was reported in 11/11 (100%) cases. While permanent fecal incontinence was reported in 1/11 (9%) cat, long-term outcomes were excellent in 9/11 (81%) cats.These data suggest that Heineke-Mikulicz-like anoplasty is appropriate for the management of type I atresia ani in cats.",
+      "categories": [
+        "surgery",
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42786736",
+      "title": "EXPRESS: Meningiomas in four cats with pseudocystic fluid accumulation including one microcystic meningioma.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "authors": "Bitoun A, Berthom&#xe9; C, Frankar H, Fert S, Cauzinille L",
+      "date": "2026 09 25",
+      "dateObject": "2026 09 25",
+      "abstract": "Case series summaryFour cats were presented with progressive prosencephalic signs. An extraaxial mass associated with a pseudocystic component was identified in each case on MRI and pseudocystic meningiomas were suspected. The appearance of the fluid accumulation in Case 1 was more suggestive of an actual cyst, whereas the crescent shaped fluid accumulation was more compatible with subdural fluid accumulation in Cases 2,3 and 4. All cases underwent mass removal through craniotomy and were discharged from the hospital.The meningiomas were classified as fibrous in case 1,2 and 4, and as microcystic in case 3. The fluid analysis in Case 4 revealed a protein rich fluid with neoplastic meningeal cells. Histology of the wall surrounding the fluid in case 4 revealed tumoral meningothelial cells lined against dura mater, without epithelial lining.All cats improved neurologically after surgical removal of the tumour. Follow-up MRI in cases 2 and 3 performed 6 months post operatively identified focal thickening of the meninges in the two cases (2 and 3).Relevance and novel informationThis case series describes four cats with brain meningiomas associated with a pseudocystic component of unknown origin. Including one microcystic meningioma which has not been previously reported in the veterinary literature. The pseudocyst didn't seem to affect the clinical outcomes and postoperative MRI for these four cats.",
+      "categories": [
+        "oncology",
+        "surgery",
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "42785357",
+      "title": "Urine Molecular Fingerprinting: exploratory study of a promising technology for detecting cancer and nonneoplastic disease in dogs.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Robertson J, Issa AS, Dervisis N, McGuire K, Tuohy J, Rossmeisl J, Marine B, Jodar L, Marconato L, Fonseca-Alves C, Feiock C, Conner B, White C, Fesler EB, Ngo L, Asl RS, Luckzo M, Senger R",
+      "date": "2026 09 24",
+      "dateObject": "2026 09 24",
+      "abstract": "To describe a novel technology, Urine Molecular Fingerprinting (UMF), for analyzing the composition of urine and its application for neoplastic/nonneoplastic diseases in dogs. Voided urine samples from clinically healthy Bernese Mountain Dogs (n = 263), Golden Retrievers (214), West Highland White Terriers (79), German Shepherd Dogs (21), and other breeds (245). Samples were analyzed using Raman spectroscopy and computational statistics. To illustrate the clinical relevance of UMF, samples from dogs with cancer (n = 142) or nonneoplastic diseases (19) were analyzed and compared with reference UMF databases of clinically healthy dogs. Breed-associated differences in UMFs were present in samples from clinically healthy Bernese Mountain Dogs, Golden Retrievers, German Shepherd Dogs, and West Highland White Terriers. The UMFs of purebred dogs were different from those of a cohort of mixed breed/other purebred dogs. There were no UMF differences associated with age, sex, or neutering status in Bernese Mountain Dogs. The Raman intensity profiles of UMFs from dogs with cancer or nonneoplastic diseases were different from UMFs of clinically healthy dogs. Preliminary, exploratory studies indicate that UMF is a promising technology for detecting cancer and nonneoplastic disease in dogs. Urine Molecular Fingerprinting may be useful in the detection of cancer and nonneoplastic diseases in dogs. This technology could be adapted for testing in clinics, supplementing clinical, laboratory, and imaging information used for health assessments. The use of liquid biopsy technology, such as UMF, in canine cancer detection is addressed in the companion Currents in One Health by Robertson et al, JAVMA, June 2026.",
+      "categories": [
+        "oncology"
+      ]
+    },
+    {
+      "pmid": "42785356",
+      "title": "Feasibility of the ForeSight tissue oximetry system for estimating cerebral and renal tissue oxygen saturation in anesthetized dogs during hyperoxia, normoxia, and hypoxia.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Sakata H, Arai S, Gilleland E, Monnet E",
+      "date": "2026 09 24",
+      "dateObject": "2026 09 24",
+      "abstract": "To evaluate the feasibility of the ForeSight tissue oximetry system for assessing regional cerebral and renal tissue oxygen saturation in anesthetized dogs across 3 oxygenation states. 6 anesthetized Beagles were included. ForeSight tissue oximetry sensors were applied to the cranium and left lateral abdomen to estimate regional cerebral oxygen saturation (rScO2) and regional renal oxygen saturation (rSrO2). The left dorsal pedal artery, right femoral vein, and right jugular vein were cannulated for arterial and venous blood sampling. The distal tips of the jugular and femoral venous catheters were positioned in the renal vein and the most cranial aspect of the internal jugular vein. During hyperoxia, normoxia, and hypoxia, 1-mL blood samples were collected simultaneously from all 3 sites and analyzed using a blood gas analyzer. Weighted reference oxygenation values (REF-CXB) were calculated. Correlation and agreement between REF-CXB and rScO2 or rSrO2 were assessed using repeated-measures correlation and Bland-Altman analyses. rScO2 demonstrated moderate correlation with cerebral REF-CXB (r = 0.70; P < .01) but poor agreement. In contrast, rSrO2 showed no correlation with renal REF-CXB (r = 0.09; P = .62) and poor agreement. rScO2 demonstrated moderate correlation with the blood gas-derived cerebral oxygen saturation reference estimate in anesthetized dogs, whereas rSrO2 did not reliably reflect the corresponding renal oxygen saturation reference estimate. Trend monitoring of cerebral oxygenation with the ForeSight system may provide an adjunctive tool for real-time assessment of cerebral oxygenation in dogs undergoing general anesthesia.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42785358",
+      "title": "Electrochemotherapy achieves high local control of lingual and tonsillar tumors in dogs and cats.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Vizcay J, Portillo F, Sabella T, Diaz M, Impellizeri J, Maglietti F, Tellado M",
+      "date": "2026 09 24",
+      "dateObject": "2026 09 24",
+      "abstract": "To describe local response, progression-free survival (PFS), and overall survival (OS) in dogs and cats with lingual or tonsillar tumors treated with electrochemotherapy (ECT) alone or combined with surgery. Medical records were retrospectively reviewed for dogs and cats with a histologically or cytologically confirmed tumor of the tongue or tonsil treated with ECT alone or combined with surgery, with &#x2265; 1 posttreatment follow-up. Twenty-nine client-owned animals, 7 dogs and 7 cats with lingual tumors and 15 dogs with tonsillar tumors, were included. Response was assessed by modified Response Evaluation Criteria in Solid Tumors; PFS and OS were estimated by Kaplan-Meier analysis. In dogs with lingual tumors, the objective response rate (ORR) was 85.7% (complete response [CR], 71.4%); the median OS was 270 days, with 2 dogs alive at 980 and 1,090 days, and the median PFS was 263 days. In cats with lingual tumors, the ORR was 71.4% (CR, 57.1%), the median OS was 240 days, and all cats died, most of local progression; the median PFS was 215 days. In dogs with tonsillar tumors, the ORR was 80.0% (CR, 66.7%), the median OS was 240 days, and all dogs died, predominantly of pulmonary metastasis; the median PFS was 210 days. ECT can provide high local response rates in dogs and cats with lingual tumors. In dogs with tonsilar tumors, even when high local response rates are achieved, patients die predominantly from distant metastasis, warranting a multimodal treatment aproach. ECT achieved high local response rates in all groups. It appears most useful for function-preserving treatment for lingual tumors. The combination with surgery allows treatment of larger tumors than ECT alone. The survival of dogs with tonsillar tumors was limited by metastatic dissemination, supporting a multimodal approach.",
+      "categories": [
+        "oncology",
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42785969",
+      "title": "An Updated Checklist and Narrative Review of Helminth Parasites of Terrestrial and Semiaquatic Carnivorous Mammals in Uzbekistan.",
+      "journal": "Veterinary Medicine and Science",
+      "authors": "Safarov A, Okkiyev S, Ionic&#x103; AM, Said MB",
+      "date": "2026 09 24",
+      "dateObject": "2026 09 24",
+      "abstract": "Helminth parasites are critical components of biodiversity and influence the health of both wild and domestic carnivorous mammals. Despite their ecological and public health importance, comprehensive data on helminth diversity in Uzbekistan remain fragmented. This study delivers a thorough and updated synthesis of helminth parasites infecting 15 species of terrestrial and semi-aquatic carnivorous mammals in Uzbekistan. This study was designed as an updated checklist and narrative review rather than a formal systematic review or meta-analysis. A total of 120 documents published between 1926 and 2024 were reviewed, including 61 journal articles, 54 national conference abstracts and 5 PhD theses written in Russian, Uzbek and English. Data were obtained from PubMed, ResearchGate, Google Scholar and local archival sources. Parasite and host nomenclatures were updated using internationally recognized taxonomic databases and recent parasitological references. The review identified 74 helminth species, including 9 trematodes, 24 cestodes, 5 acanthocephalans and 36 nematodes, recorded from 15 carnivorous mammal species belonging to the families Canidae, Felidae and Mustelidae. Among these parasites, 37 species (50.0%) were retained as having zoonotic relevance after reassessment, although their public health importance varies from well-established zoonoses to occasional or accidental human infections. Research efforts were strongly biased toward domestic dogs, jackals and foxes, while several host taxa and geographic regions remain poorly investigated. This review highlights the rich but unevenly documented helminth diversity of carnivorous mammals in Uzbekistan and provides a taxonomically updated baseline for future regional studies. Persistent gaps in host coverage, geographic sampling, molecular identification and zoonotic risk assessment limit current understanding. Future research should prioritize representative sampling, inclusion of poorly studied carnivore taxa, molecular and non-invasive diagnostic approaches and integrated One Health surveillance to better assess parasite biodiversity, wildlife health and public health risks in Uzbekistan and Central Asia.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
     {
       "pmid": "42781415",
       "title": "Body condition, age, and sex as modulators of peripheral blood immune-cell populations and lymphocyte proliferation in cats.",
@@ -61,6 +225,19 @@
       ]
     },
     {
+      "pmid": "42785426",
+      "title": "Successful management of nesidioblastosis in a dog with persistent hyperinsulinemic hypoglycemia following staged bilateral partial pancreatectomies.",
+      "journal": "Topics in Companion Animal Medicine",
+      "authors": "Teyssandier S, Rendon ME, Lameroli H, Centurion B, Galac S",
+      "date": "2026 09 24",
+      "dateObject": "2026 09 24",
+      "abstract": "Nesidioblastosis is a rare but important differential diagnosis for hyperinsulinemic hypoglycemia in dogs, a condition most commonly associated with insulinoma. A nine-year-old spayed female dog was presented with recurrent episodes of collapse and documented hyperinsulinemic hypoglycemia. Diagnostic imaging failed to identify a pancreatic mass, prompting exploratory laparotomy with left partial pancreatectomy and regional lymphadenectomy. Histopathological examination excluded insulinoma and established a diagnosis of nesidioblastosis. Although clinical signs initially resolved following surgery, hypoglycemia recurred 45 days later, prompting a right partial pancreatectomy. Following the second procedure, the patient remained euglycemic and free of clinical signs, without evidence of clinical diabetes mellitus or exocrine pancreatic insufficiency throughout an eight-month follow-up period. This case underscores the importance of considering nesidioblastosis in dogs with hyperinsulinemic hypoglycemia when a pancreatic mass is not identified. Furthermore, this case suggests that recurrence after unilateral partial pancreatectomy may occur because of the diffuse nature of nesidioblastosis. In this patient, staged bilateral partial pancreatectomy was associated with sustained glycemic control and clinical remission, without clinically apparent endocrine or exocrine pancreatic dysfunction during an eight-month follow-up period.",
+      "categories": [
+        "internalMedicine",
+        "surgery"
+      ]
+    },
+    {
       "pmid": "42779179",
       "title": "EXPRESS: Undenatured type II collagen enhances mobility in cats: a randomized placebo controlled cross over field study.",
       "journal": "Journal of Feline Medicine and Surgery",
@@ -81,6 +258,43 @@
       "categories": []
     },
     {
+      "pmid": "42785750",
+      "title": "Pathologic Characterization and Clinical Significance of Lymphovascular Invasion in Canine Thyroid Carcinomas.",
+      "journal": "Veterinary and Comparative Oncology",
+      "authors": "Griffin MA, Stoyle B, Oakes A, Flesner B, Lenz JA, Stefanovski D, Durham AC",
+      "date": "2026 09 24",
+      "dateObject": "2026 09 24",
+      "abstract": "The association between lymphovascular invasion (LVI) and outcomes in dogs with thyroid carcinoma is inadequately described, and a standardized definition of LVI is lacking. This study's objectives were to histopathologically and immunohistochemically characterize LVI and to evaluate associated clinical outcomes in dogs with thyroid carcinoma. Inclusion criteria were: dogs that underwent thyroidectomy for thyroid carcinoma with available histopathology samples, and a minimum of 1-year postoperative follow-up data or follow-up to death. Thirty dogs with 35 distinct tumours, including 26 follicular and nine medullary, were evaluated. LVI was characterized as intracapsular endothelialized tumour emboli (without adhered fibrin) in 26 samples, intracapsular tumour emboli with adhered fibrin in seven samples, extracapsular tumour emboli without adhered fibrin in 10 samples, and extracapsular tumour emboli with endothelial disruptions and adhered fibrin in three samples. CD31 and Prox1 positive vessels contained endothelialized tumour thrombi in 17 and one sample, respectively. Extracapsular invasion with (non-endothelialized) and without (endothelialized) associated fibrin were associated with a 10-fold (p&#x2009;=&#x2009;0.001) and 3-fold (p&#x2009;=&#x2009;0.013) increase in the likelihood of death, respectively. No significant difference in the likelihood of death was noted between cases of extracapsular invasion with or without fibrin (p&#x2009;=&#x2009;0.31). Intracapsular tumour thrombi with or without associated fibrin and non-endothelialized tumour thrombi were not associated with outcomes in this cohort. These results support that in dogs with thyroid carcinoma, extracapsular LVI with or without associated fibrin thrombi, but not intracapsular LVI, is associated with worse outcomes. Further study is warranted on a larger population of dogs with standardized treatment and follow-up.",
+      "categories": [
+        "internalMedicine",
+        "oncology",
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42781880",
+      "title": "Tolerability and Outcome of Medical Treatment in Feline Nasal Carcinomas: A Multi-Institutional Retrospective Study.",
+      "journal": "Veterinary and Comparative Oncology",
+      "authors": "Amato F, Gobbetti M, Giuliano A, Treggiari E, Pieri M, Bonazzi I, Bianchi ML, Valenti P",
+      "date": "2026 09 24",
+      "dateObject": "2026 09 24",
+      "abstract": "Carcinomas are the second most common feline intranasal neoplasm. Various treatment options, including radiotherapy, surgery or a combination of both, have been described, but data on medical therapy efficacy are lacking. This retrospective study evaluated the outcome of cats with nasal carcinoma (NC) treated with antineoplastic treatment. Cats with a histopathological or cytopathological diagnosis of NC were included. Patients receiving antineoplastic treatment were compared to patients receiving palliative treatment alone. Response to therapy, median time to progression (MTTP) and median survival time (MST) were described and compared for both groups. Analysed clinical variables included the presence of epistaxis, facial deformity, stage, use of NSAIDs and previous surgical debulking. Thirty-three cats were included in the study: 18 in the antineoplastic treatment group and 15 in the palliative treatment group. Forty-eight percent of the entire population had worsening of the clinical signs, 36% remained stable and 16% showed clinical benefit. MTTP of the entire population was 104&#x2009;days and MST was 178&#x2009;days. No statistically significant differences were found between groups for either MTTP (96 vs. 111&#x2009;days; p&#x2009;=&#x2009;0.95) or MST (197 vs. 262; p&#x2009;=&#x2009;0.77). None of the evaluated clinical variables was associated with outcome. In this retrospective study, antineoplastic treatment was not associated with a detectable survival advantage over palliative treatment alone. These findings should be interpreted cautiously given the small sample size and heterogeneity of treatments administered.",
+      "categories": [
+        "oncology",
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42781877",
+      "title": "Precision-Guided Therapy for Canine Cancers: An Oasis or a Mirage?",
+      "journal": "Veterinary and Comparative Oncology",
+      "authors": "Modiano JF",
+      "date": "2026 09 24",
+      "dateObject": "2026 09 24",
+      "abstract": "",
+      "categories": []
+    },
+    {
       "pmid": "42765737",
       "title": "Response to: citation clarification regarding feline eltrombopag in the ACVIM consensus statement on the treatment of immune thrombocytopenia in dogs and cats.",
       "journal": "Journal of Veterinary Internal Medicine",
@@ -90,18 +304,6 @@
       "abstract": "",
       "categories": [
         "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42777771",
-      "title": "Gene electrotransfer for DNA immunotherapy in veterinary oncology: Technical Tutorial Video.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Impellizeri JA, Vigodny A, Sanchez E, Aurisicchio L, Conforti A",
-      "date": "2026 09 23",
-      "dateObject": "2026 09 23",
-      "abstract": "To demonstrate the technique of gene electrotransfer (GET) for administration of plasmid DNA immunotherapy in veterinary oncology. The method demonstrated in the video is relevant to both canine and feline cancer patients undergoing administration of DNA immunotherapies. This Technical Tutorial Video demonstrates patient preparation, IM plasmid administration, electrode positioning, electroporation pulse delivery, and postprocedural assessment for a GET procedure. Required equipment, procedure workflow, and practical technical considerations are reviewed. The video illustrates the general workflow for delivery of plasmid DNA immunotherapy using IM GET under general anesthesia, including patient preparation, plasmid administration, pulse delivery, and patient monitoring. GET is increasingly used in veterinary oncology to facilitate delivery of DNA immunotherapies targeting tumor-associated antigens and immunomodulatory molecules. This tutorial provides a practical overview of the technique.",
-      "categories": [
-        "oncology"
       ]
     },
     {
@@ -157,16 +359,6 @@
       "categories": [
         "internalMedicine"
       ]
-    },
-    {
-      "pmid": "42410421",
-      "title": "Direct quantitative PCR detects genetic biomarkers of antileishmanial drug resistance in clinical samples from dogs with leishmaniosis.",
-      "journal": "BMC Veterinary Research",
-      "authors": "Carrasco-Martin M, Vi&#xf1;eta C, Mart&#xed;-Carreras J, Roura X, Ferrer L, Busquets P, Vila A, Francino O",
-      "date": "2026 09 23",
-      "dateObject": "2026 09 23",
-      "abstract": "Treatment response in canine leishmaniosis is driven by the dog host, the Leishmania parasite, and pharmacological factors, with drug resistance increasingly undermining the effectiveness of therapy. Current methods for assessing antileishmanial drug resistance rely on culture-based approaches, which are slow and technically demanding. A direct quantitative PCR test (LeishGenR&#x2122;) was applied to 104 clinical samples from 95 dogs in the Mediterranean area diagnosed with leishmaniosis in veterinary clinical settings and testing positive for Leishmania infantum by PCR. The assay enabled rapid detection of genetic drug-resistance biomarkers for allopurinol (metk), meglumine antimoniate (mrpa), and miltefosine (LdMT), providing a clinically relevant, timely alternative to culture-based approaches by directly analyzing circulating&#xa0;Leishmania infantum&#xa0;amastigotes. The assay (LeishGenR&#x2122;) showed high specificity (100%) and sensitivity (>&#x2009;87.5%) for genetic drug-resistance profile assignment and a strong correlation with whole-genome sequencing for gene copy number assessment (metk: r&#x2009;=&#x2009;0.878;&#xa0;mrpa: r&#x2009;=&#x2009;0.943 and LdMT&#x2009;=&#x2009;0.691). Genetic drug-resistance biomarkers were detected in 24.3% of L. infantum DNA from clinical samples analyzed (20/82; 95% CI 16.3-34.6), most commonly for allopurinol (13.4%; 95% CI 7.6-22.4), then meglumine antimoniate (9.4%; 95% CI 4.6-18.2), and for miltefosine (5.4%; 95% CI 1.8-14.8). Prevalence was higher in dogs previously treated for leishmaniosis. This study demonstrates the ability to detect genetic biomarkers of drug resistance in L. infantum directly from clinical samples of dogs with leishmaniosis. This method enables rapid, precise detection of genomic biomarkers, circumventing delays associated with culture-based methods and supporting more effective clinical management and surveillance. Among dogs with high parasitemia referred to clinics in Mediterranean regions sampled in this study, the findings reveal a significant prevalence of circulating L. infantum strains carrying genomic drug resistance biomarkers to standard treatments for canine leishmaniosis.",
-      "categories": []
     },
     {
       "pmid": "42572207",
@@ -637,53 +829,6 @@
       ]
     },
     {
-      "pmid": "42756254",
-      "title": "Owner reported prevalence of autonomic signs in epileptic dogs.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Skinner C, Czopowicz M, Gutierrez-Quintana R, Stalin C",
-      "date": "2026 09 18",
-      "dateObject": "2026 09 18",
-      "abstract": "Epilepsy is a common neurological disorder in dogs. Autonomic manifestations are commonly recognised but poorly reported in veterinary literature. This study aimed to determine owner reported prevalence and course of autonomic signs in epileptic dogs. A survey for owners of dogs with epilepsy created with Qualtrics was circulated on Facebook between March 2025 and August 2025. There were 1,154 responses, with 704 included in statistical analysis. The overall frequency of autonomic signs was 697/704 dogs (99.0%). When analysed by body system, gastrointestinal signs [96.9% (682/704)], and urogenital signs [91.1% (641/704)] were most common. Individually, commonly reported signs included ptyalism [87.6% (617/704)], urination [79.1% (556/703)], polydipsia [78.4% (551/703)], mydriasis [71.8% (505/703)], and owner-reported appetite changes [73.9% (520/704)]; the latter could not be confidently attributed to seizure-associated autonomic dysfunction. The least prevalent were priapism [14.6% (66/452)], apnoea [16.7% (117/701)], anisocoria [18.8% (132/702)], cyanosis [20.5% (144/702)], and abdominal pain [21.3% (150/703)]. Antiseizure drugs, defined as any medications used for epileptic seizure control for both acute and maintenance management, were significantly associated with increased prevalence of several autonomic signs. Additionally, mean course of progression (deterioration) rate (3.6%) was significantly higher than mean course of regression (improvement) rate (2.9%; p &#x202f;<&#x202f;0.001). When analysed by body system, overall regression was most common for gastrointestinal [11.2% (79/704)] and urogenital [8.8% (62/704)] autonomic signs, and overall progression was most common for gastrointestinal [15.9% (112/704)] and cardiorespiratory [15.8% (111/704)] autonomic signs. This study demonstrated that autonomic signs are ubiquitous in epileptic dogs, progression of autonomic signs is uncommon, and progression occurs more often than regression. The prevalence of autonomic signs in epileptic dogs appears to be significantly higher than previously reported. Additionally, changes in the course of autonomic signs indicate the need to monitor autonomic activity in individuals managed for epilepsy, due to the potential impact on quality of life (QoL).",
-      "categories": [
-        "internalMedicine",
-        "neurology"
-      ]
-    },
-    {
-      "pmid": "42756077",
-      "title": "Ocular temperature measured by infrared thermography in dogs varies with biological and environmental factors.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Rostami S, Woodruff KA, McBride A, Shi J, Smith DR",
-      "date": "2026 09 18",
-      "dateObject": "2026 09 18",
-      "abstract": "Non-contact temperature assessment is highly valuable for screening animal populations, but its performance can be influenced by various external and biological variables. This study aimed to quantify the association between eye temperature (ET) and rectal temperature (RT) in dogs, and to identify physiological and environmental factors associated with these readings. Field study: ET was obtained with a thermal camera up to 3 times per visit (~10-min intervals), followed by RT measurement. Eye temperature was defined as the highest temperature recorded from either eye. A linear mixed-effects model evaluated ET in relation to capture time (1-3), RT, age, sex, body size, coat length, ambient temperature, and relative humidity. Device temporal stability assessment: To account for potential camera drift observed in our previous research, temperature at a fixed target inside an insulated box was recorded every 5&#x202f;min for 1&#x202f;h and analyzed with repeated-measures mixed model regression. Results. We analyzed 129 observations from 78 dogs. In the final ET model, both RT ( &#x3b2; &#x202f;=&#x202f;0.77&#x202f;&#xb0;C; 95% C.I. 0.512-1.019&#x202f;&#xb0;C) and humidity ( &#x3b2; &#x202f;=&#x202f;0.01&#x202f;&#xb0;C; 95% C.I. 0.002-0.013&#x202f;&#xb0;C) were positively and significantly associated with ET. The device stability assessment demonstrated no significant time-related measurement drift. Overall, ET was associated with RT but was not interchangeable and ET was slightly affected by environmental humidity. These results support further investigation of using ET as a rapid, noncontact temperature monitoring procedure.",
-      "categories": [
-        "dermatology"
-      ]
-    },
-    {
-      "pmid": "42755814",
-      "title": "Combined enrichment and pharmaceutical intervention reduces excessive arousal in shelter dogs in a randomized controlled trial.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Cisneros A, O'Hanley K, Moody CM, Stellato AC",
-      "date": "2026 09 18",
-      "dateObject": "2026 09 18",
-      "abstract": "Environmental stressors in animal shelters may lead to development of excessive arousal, posing risks to adoptability and behavioral euthanasia. Recommendations regarding excessive arousal in shelter dogs include providing pharmaceuticals and enrichment. A randomized controlled trial was conducted to assess the influence of enrichment and pharmaceutical interventions on shelter dogs ( N &#x202f;=&#x202f;50) displaying excessive arousal from a municipal animal shelter in Texas, United States. Data were collected during 1&#x202f;week of baseline conditions (days 1-7) and 1&#x202f;week of treatment (days 8-14). Dogs were randomly assigned to a treatment group: (1) baseline (5-min walk, 2x/day), (2) calm enrichment (15-min walks 2x/day,15-min human-animal interaction), (3) active enrichment (15-min play 2x/day, 15-min human-animal interaction), (4) pharmaceutical (20&#x202f;mg/kg gabapentin, 6&#x202f;mg/kg trazodone, 5-min walk 2x/day), and (5) pharmaceutical and calm enrichment (20&#x202f;mg/kg gabapentin, 6&#x202f;mg/kg trazodone, 15-min walk 2x/day, 15-min human-animal interaction). Arousal scores (0&#x202f;=&#x202f;no arousal, 4&#x202f;=&#x202f;extreme arousal) and ease of transition out of kennel scores (0&#x202f;=&#x202f;no difficulty, 4&#x202f;=&#x202f;extreme difficulty) were assigned. Behaviors were assessed before, during, and after enrichment provision. All assessments occurred on days 1, 3, 7, 10, and 14. During post-enrichment, the baseline group had higher arousal scores compared to active enrichment ( p &#x202f;=&#x202f;0.041), pharmaceutical ( p &#x202f;=&#x202f;0.001), and pharmaceutical and calm enrichment ( p &#x202f;<&#x202f;0.001) groups. Arousal scores were lower day 10 ( p &#x202f;<&#x202f;0.001) and day 14 ( p &#x202f;=&#x202f;0.003; vs. day 1). The pharmaceutical and calm enrichment group exhibited had less lip licking ( p &#x202f;=&#x202f;0.004), panting ( p &#x202f;=&#x202f;0.032), vocalizations ( p &#x202f;=&#x202f;0.003), and jumping ( p &#x202f;<&#x202f;0.001) compared to all treatments. The pharmaceutical group (vs. baseline) had less jumping ( p &#x202f;<&#x202f;0.001) and more body shaking ( p &#x202f;=&#x202f;0.003). Post-enrichment (vs. pre-enrichment) observations had less paw lifting ( p &#x202f;<&#x202f;0.001), yawning ( p &#x202f;=&#x202f;0.011), vocalizations ( p &#x202f;<&#x202f;0.001), and more lip licking ( p &#x202f;<&#x202f;0.001), environmental scanning ( p &#x202f;=&#x202f;0.002) and panting ( p &#x202f;=&#x202f;0.002). Dogs in kennels near exits had less paw lifting ( p &#x202f;=&#x202f;0.013) compared to dogs housed in between high arousal dogs. Longer stays were associated with more alert behavior ( p &#x202f;=&#x202f;0.001) and less environmental scanning ( p &#x202f;=&#x202f;0.04), lip licking ( p &#x202f;=&#x202f;0.013), and vocalizing ( p &#x202f;=&#x202f;0.029). Results suggest enrichment and pharmaceutical interventions may reduce excessive arousal in shelter dogs and can be used to inform shelter intervention protocols aimed at promoting welfare and adoptability.",
-      "categories": []
-    },
-    {
-      "pmid": "42751143",
-      "title": "Mitochondria-associated endoplasmic reticulum membranes in canine and feline diabetic kidney disease: mechanistic links and nutritional implications.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Yang Q, Sun Y, Zuo L, Xu M, Tan S, Wang Z, Han M",
-      "date": "2026 09 17",
-      "dateObject": "2026 09 17",
-      "abstract": "Diabetic kidney disease in dogs and cats is clinically relevant but mechanistically underdefined, and the dietary management of diabetic pets is still dominated by empirical control of glycemia, body weight, and renal nutrient load. Mitochondria-associated endoplasmic reticulum membranes (MAMs) are dynamic contact domains that coordinate calcium transfer, lipid exchange, ER stress, mitochondrial quality control, inflammatory signaling, and cell death. This review first summarizes the veterinary clinical context of canine and feline diabetic kidney disease, including proteinuria, microalbuminuria, hypertension, chronic kidney disease, and species-specific differences in diabetes pathophysiology. It then integrates MAM biology into core renal injury modules involving structural tethering proteins, the IP3R-GRP75-VDAC-MCU/MICU1 calcium axis, lipid metabolic enzymes, PERK/GRP78-mediated ER stress, mPTP opening, mitophagy, and inflammatory amplification. Because direct MAM evidence in diabetic dogs and cats remains limited, the MAM-related pathways discussed here are presented as hypotheses inferred from rodent DKD models, human cell lines, and broader metabolic-disease studies rather than as confirmed mechanisms in companion animals. Finally, we discuss how MAM-centered mechanisms may guide the development of functional prescription diets incorporating EPA/DHA, medium-chain triglycerides, L-carnitine, taurine, magnesium, N-acetylcysteine, antioxidants, resveratrol, and selected plant extracts, provided that efficacy and safety are validated using species-specific renal endpoints. This perspective may support a transition from empirical formulation to mechanism-informed precision nutrition for diabetic dogs and cats.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
       "pmid": "42750033",
       "title": "Microbiological investigation of conjunctivitis in cats and dogs from Kars, T&#xfc;rkiye (2024-2025): culture- and MALDI-TOF MS-based identification and antimicrobial susceptibility testing of bacterial isolates.",
       "journal": "BMC Veterinary Research",
@@ -755,28 +900,6 @@
       "categories": [
         "cardiology"
       ]
-    },
-    {
-      "pmid": "42746025",
-      "title": "Radiomics and comparative neuroimaging of canine gliomas and human glioblastomas: a step toward precision medicine.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Faustino R, Henriques J",
-      "date": "2026 09 16",
-      "dateObject": "2026 09 16",
-      "abstract": "Gliomas are primary Central Nervous System glial tumors common in dogs and humans. Human glioblastomas are the most aggressive subtype, with an average survival of 15 months after diagnosis. Brachycephalic dogs are predisposed to gliomas and share biological and clinical features with human glioblastomas. This study explored radiomics applied to T2 weigthed Fluid Attenuated Inversion Recovery (T2-FLAIR) magnetic resonance imaging (MRI) sequences to characterize canine glioma lesions and non-lesioned tissues, aiming to identify imaging biomarkers for diagnosis and prognosis. MRI scans from canine gliomas and human glioblastomas were analyzed. Regions of Interest (ROIs) were segmented for extraction of radiomic features including texture, shape, and intensity. Descriptive and non-parametric statistical analyses, ANOVA, and Receiver Operating Characteristic (ROC) curves were used to evaluate feature discrimination capacity, particularly features with area under the curve (AUC) values above 80%, such as \"jointaverage\" and \"autocorrelation\". Volumetric analysis revealed significant differences between groups ( p < 0.001). Selected radiomic features discriminated tumoral from non-lesioned tissues, with ROC AUC values exceeding 80% ( p < 0.001). The Support Vector Machine (SVM) model achieved 80.33% accuracy in distinguishing gliomas and glioblastomas from non-lesioned brain tissue across canine and human datasets. Radiomic features revealed comparable texture patterns between canine gliomas and human glioblastomas, enabling cross-species discrimination between tumoral and non-lesioned tissue with AUC values above 80% and SVM accuracy of 80.33%. These findings support canine gliomas as a valuable translational model for human glioblastoma research and precision medicine. However, the limited sample size and population diversity require validation in larger cohorts. Consistent imaging biomarkers across canine gliomas and human glioblastomas support advances in comparative and translational medicine. Radiomic features extracted from T2-FLAIR MRI enabled non-invasive discrimination between tumoral and non-lesioned brain tissue across species, reinforcing the relevance of canine gliomas as a natural model for human glioblastoma and the potential of comparative neuroimaging for precision medicine.",
-      "categories": [
-        "neurology"
-      ]
-    },
-    {
-      "pmid": "42745785",
-      "title": "Automated analysis of feline posture using deep learning and geometric modeling.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Bezerra CE, Bittencourt C, Alves R, Ribeiro T, Azor&#xed;n-Ortu&#xf1;o M, Nejar G, Barreras A, Zemirline C, Lewiner T, Le Bourdiec A, Pagny G, Barbosa A, Yang X, Oliveira K, Vieira T",
-      "date": "2026 09 16",
-      "dateObject": "2026 09 16",
-      "abstract": "Body posture provides clinically relevant information in cats, but behavioral interpretation can be challenging because postural signs are often subtle, context-dependent, and subject to inter-observer variability. We developed and evaluated a non-invasive computer vision framework for extracting clinically interpretable feline posture descriptors from side-view RGB images acquired using low-cost cameras, with the aim of supporting behavioral assessment, welfare monitoring, and future clinical decision support. The proposed framework combines object detection, anatomical segmentation, lightweight convolutional neural networks for posture and side-view classification, pose estimation, and rule-based geometric analysis within a structured processing pipeline. From standing side-view frames, the system generates descriptors including overall posture, head pitch, back inclination, back curvature, and tail configuration. In image-based evaluation, the lightweight neural networks achieved 92.6% accuracy for side-view classification and 93.1% accuracy for overall posture classification while using approximately 38 times fewer trainable parameters than VGG19-based baselines. After image quality and viewpoint filtering, descriptor accuracy reached 88% for head pitch, 95% for back inclination, 90% for back curvature, and 95.47% for tail configuration. In end-to-end video experiments, frame retention after filtering depended strongly on recording conditions, particularly side-view visibility and occlusion. Nevertheless, retained frames still enabled high-accuracy estimation of head pitch, back inclination, and tail configuration. These findings demonstrate that automated posture analysis from standard RGB video can generate structured and clinically interpretable feline body-language descriptors relevant to behavioral medicine and animal welfare assessment. Further prospective validation against established pain, stress, and welfare assessment instruments is required before clinical or diagnostic application.",
-      "categories": []
     },
     {
       "pmid": "42736627",
@@ -1619,28 +1742,6 @@
       ]
     },
     {
-      "pmid": "42276122",
-      "title": "Survival outcomes in canine nasal tumors treated with megavoltage radiation therapy with or without toceranib phosphate: a retrospective study of 279 cases.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Mizuno R, Mori T",
-      "date": "2026 09 01",
-      "dateObject": "2026 09 01",
-      "abstract": "To evaluate whether adjunctive toceranib phosphate improves survival time in dogs with nasal tumors treated with megavoltage radiation therapy using a simplified 2-tier, CT-based staging system. The medical records of 279 client-owned dogs with nasal tumors that underwent CT and megavoltage radiation therapy from 2015 through 2024 were retrospectively reviewed. Dogs were classified as stage I (no cribriform plate destruction) or stage II (cribriform plate destruction present). Survival time was analyzed using Kaplan-Meier methods and Cox proportional hazards models. The median survival time was longer in stage I than in stage II (468 vs 191 days). Toceranib phosphate was administered to 44 dogs. In the overall cohort, dogs treated with toceranib phosphate had longer survival times than untreated dogs (389 vs 250 days). Stage-specific analysis revealed no survival benefit in stage I. In contrast, toceranib phosphate was associated with prolonged survival in stage II. Multivariable analysis confirmed that toceranib phosphate was associated with improved survival in the overall cohort and in stage II but not in stage I. Adjunctive toceranib phosphate was associated with improved survival in dogs with nasal tumors with cribriform plate destruction, whereas no benefit was observed in dogs without cribriform plate destruction. These findings indicate that the therapeutic effect of toceranib phosphate is stage dependent. A stage-based treatment approach may be appropriate in canine nasal tumors, with radiation therapy alone for stage I disease and combination therapy with toceranib phosphate for stage II disease.",
-      "categories": [
-        "oncology"
-      ]
-    },
-    {
-      "pmid": "42248206",
-      "title": "Low serum albumin and elevated blood urea nitrogen-to-albumin and creatinine-to-albumin ratios are associated with mortality in dogs.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Pullens BJ, Ly C, Ebrahimie E, Dehcheshmeh MM, Hedgespeth BA",
-      "date": "2026 09 01",
-      "dateObject": "2026 09 01",
-      "abstract": "To determine whether serum biomarkers, BUN-to-albumin ratio (BAR) and creatinine-to-albumin ratio (CAR), have prognostic utility in dogs. A retrospective, single-center study utilizing signalment, clinicopathological, and mortality data collected from medical records of dogs presented to a referral hospital from September 2022 through June 2025. Dogs were stratified based on mortality. 327 cases were included. Nonsurvivors (n = 92) had significantly elevated BAR (median, 6.62; 95% CI, 5.69 to 7.61) and CAR (0.36; 95% CI, 0.32 to 0.42) compared with survivors at 5.01 (95% CI, 4.52 to 5.50) and 0.29 (95% CI, 0.27 to 0.31), respectively. Nonsurvivors had lower albumin (2.9 g/dL; 95% CI, 2.7 to 3.0) than survivors (3.2 g/dL; 95% CI, 3.1 to 3.2). Blood urea nitrogen was higher in nonsurvivors (18.8 mg/dL; 95% CI, 17.1 to 23.2) than survivors (16.0 mg/dL; 95% CI, 14.8 to 17.4). Survival analysis identified low albumin as the strongest predictor of mortality, with increased risk of death (hazard ratio, 2.01; CI, 1.32 to 3.07). High BAR, BUN, and CAR were associated with poor survival, whereas creatinine was not related to outcome. A random forest-classified model showed strong discrimination between survivors and nonsurvivors, with an area under the curve of 0.998 (Specificity, 100%; Sensitivity, 71.7%). Nonsurvivors had significantly higher BAR, CAR, BUN, and creatinine and lower albumin; BAR, CAR, BUN, and albumin outperformed creatinine in predicting mortality. Biochemical ratios are easily calculated, have the potential to predict mortality in dogs, and thus warrant further investigation.",
-      "categories": []
-    },
-    {
       "pmid": "42529917",
       "title": "Consuming treats with amino acids, osmolytes and sodium increased total water intake and decreased urine specific gravity of healthy cats.",
       "journal": "Journal of Feline Medicine and Surgery",
@@ -2358,18 +2459,6 @@
       ]
     },
     {
-      "pmid": "42599758",
-      "title": "Adjunctive Therapy With a Perna canaliculus and Euphausia superba Extract (EAB-277 TM ) for Clinical Signs of Tracheal Collapse in Dogs: A Prospective, Randomized and Placebo-Controlled Exploratory Trial.",
-      "journal": "Veterinary Medicine and Science",
-      "authors": "Yangwanitset W, Huaijantug S, Taechikantaphat M, Hezzell M, Sakcamduang W",
-      "date": "2026 08 14",
-      "dateObject": "2026 08 14",
-      "abstract": "Tracheal collapse is a common canine respiratory disease characterized by dorsoventral cartilage flattening, airway lumen narrowing and subsequent mucosal inflammation. To investigate the efficacy of EAB-277, a marine lipid extract combining Perna canaliculus (30&#xa0;mg) and Euphausia superba (20&#xa0;mg) as an adjunctive therapy in the management of tracheal collapse in dogs. Forty-one dogs with confirmed tracheal collapse were randomly assigned to receive standard conventional medications plus either EAB-277 (n&#xa0;=&#xa0;21) or a placebo (n&#xa0;=&#xa0;20). The EAB-277 treatment protocol included a loading dose for the initial 14 days. Clinical signs and quality of life were assessed together with fluoroscopy, radiography, haematology and serum biochemistry on Days 0, 14, 28 and 56. Dogs receiving EAB-277 showed a significant improvement in exercise tolerance by Day 14. Concurrently, fluoroscopic analysis demonstrated significant reductions in the percentage change in tracheal luminal diameter across the cervical, thoracic inlet and intrathoracic regions by Day 14. Both groups showed significant improvements in cough scores throughout the study, with no statistical difference between the groups. Although conventional medical therapy effectively manages the clinical signs of tracheal collapse, particularly cough, this study demonstrates that EAB-277 provides additional benefits by significantly improving exercise tolerance and reducing dynamic tracheal collapse at the cervical, thoracic inlet and intra-thoracic regions, which might have the potential to enhance airway health.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
       "pmid": "42599030",
       "title": "EXPRESS: MYOCARDIAL INJURY IN CATS WITH ACUTE BLUNT TRAUMA: PREVALENCE AND PROGNOSTIC IMPLICATIONS.",
       "journal": "Journal of Feline Medicine and Surgery",
@@ -2417,30 +2506,6 @@
       "dateObject": "2026 08 13",
       "abstract": "The canine baculum is routinely visible on abdominal and pelvic radiographs, yet radiographic reference data for its length are scarce. This retrospective single-centre study aimed to characterise radiographic baculum length in male dogs aged at least 1 year and to determine whether baculum length was associated with body-weight category, age, neuter status or mixed-breed status. Lateral radiographs from 62 dogs were reviewed, and baculum length was measured on a single optimal projection. Mean&#x2009;&#xb1;&#x2009;SD baculum length increased from 68.4&#x2009;&#xb1;&#x2009;9.1&#xa0;mm in dogs&#x2009;<&#x2009;10&#xa0;kg to 105.9&#x2009;&#xb1;&#x2009;26.7&#xa0;mm in dogs 10-30&#xa0;kg and 131.2&#x2009;&#xb1;&#x2009;18.6&#xa0;mm in dogs&#x2009;>&#x2009;30&#xa0;kg (Kruskal-Wallis P&#x2009;<&#x2009;0.001). In multivariable ordinary least-squares linear regression, body-weight category remained strongly associated with baculum length after adjustment for age, neuter status and mixed-breed status (robust F(2,56)&#x2009;=&#x2009;67.65, P&#x2009;<&#x2009;0.001; adjusted R&#xb2; = 0.609). No evidence of association was detected for age, neuter status or mixed-breed status. These descriptive data may support radiographic interpretation of the canine baculum but should not be used as diagnostic thresholds.",
       "categories": []
-    },
-    {
-      "pmid": "42590897",
-      "title": "EXPRESS: Renal Health in Cats with Feline Infectious Peritonitis treated with GS-441524: Baseline Findings and Longitudinal Effects.",
-      "journal": "Journal of Feline Medicine and Surgery",
-      "authors": "de Witt Curtius CC, Meli ML, Crespo Bouzon A, Wenk J, Stachowski JM, Cerchiaro I, Pineroli B, Unterer S, Felten S, Major A, Meunier SM, Howard J, Zwicklbauer K, Dorsch R, Hartmann K, Hofmann-Lehmann R, Spiri AMM",
-      "date": "2026 08 13",
-      "dateObject": "2026 08 13",
-      "abstract": "ObjectivesGS-441524 is effective against feline infectious peritonitis (FIP), but potential renal toxicity remains debated. Renal health was assessed in cats with FIP undergoing antiviral treatment.MethodsCats with confirmed FIP (n = 80) receiving oral GS-441524 for 42 days were assessed before (day 1; D1), during (D7, D42), and after treatment (D84, D183). Assessments included urine specific gravity (USG), urine protein:creatinine ratio (UPC), urinary cystatin B (uCysB), urine protein electrophoresis, serum creatinine, urea and symmetric dimethylarginine (SDMA).The term potential renal dysfunction was used for cats fulfilling the following criteria: creatinine >140 &#xb5;mol/l or SDMA &#x2265; 18 &#xb5;g/dl and USG <1.035. Serum amyloid A (SAA) and alpha-1-acid glycoprotein (AGP) were assessed in serum, feline coronavirus (FCoV) RNA in blood and urine (D1-D42).ResultsAt baseline, 97.5% of cats had creatinine concentrations <140 &#xb5;mol/l; by D183, 23.8% exceeded this threshold (D1-D183: PD <0.0001). Potential renal dysfunction criteria were met in 2.5% of cats at baseline and 8.8% at D183. In contrast, uCysB was increased in 83.8% of cats at D1 and declined during treatment (D1-D183: PD <0.0001). Cats with uCysB >100 ng/ml had higher UPC values (PMWU <0.0001). Most cats had elevated AGP and SAA at baseline, which normalised during treatment (D1-D42: PD <0.0001). Proteinuria (UPC >0.2) was present in 91.3% on D1 and 3.8% on D183; urine protein electrophoresis at D1 revealed predominantly tubular and mixed patterns. Urine was more frequently FCoV RNA-positive than blood on D1 (68.8%/61.3%), but not on D7 (16.3%/45.0%).Conclusions and relevanceTreatment reversed FIP-associated renal abnormalities and inflammation observed at baseline. A small subset of cats met criteria compatible with potential renal dysfunction during the study. Whether these findings reflect delayed FIP-related renal insults or adverse antiviral effects remains unknown but indicate that treatment should not be extended unnecessarily.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42581420",
-      "title": "EXPRESS: Positional Impact on Ocular Lens and Thyroid Radiation Doses During Feline Cranial CT: A TLD Study of 70 Cases.",
-      "journal": "Journal of Feline Medicine and Surgery",
-      "authors": "Parlak K, Gul OV, Ergin H, Zam&#x131;rbekova NN",
-      "date": "2026 08 12",
-      "dateObject": "2026 08 12",
-      "abstract": "The increasing use of computed tomography (CT) in feline medicine necessitates the optimization of radiation protocols to adhere to ALARA principles. This prospective study aimed to evaluate the impact of patient positioning dorsoventral (DV) versus ventrodorsal (VD) on radiation doses absorbed by the ocular lenses and the thyroid gland during feline cranial CT. Seventy cats were divided into two equal groups (DV, n = 35; VD, n = 35). Radiation doses were measured using thermoluminescent dosimeters (TLD-100) placed at the anatomical projections of the target organs. While no statistically significant difference was observed in ocular lens doses between the groups (p > 0.05), VD positioning resulted in a 24.4% reduction in the mean radiation dose absorbed by the thyroid gland compared to the DV position (1.33 &#xb1; 0.17 mGy vs. 1.76 &#xb1; 0.35 mGy, respectively; p = 4.97 &#xd7; 10&#x207b;&#x2079;). This reduction is attributed to the \"natural shielding\" effect provided by the dorsal axial skeleton and epaxial muscles in the VD position. VD positioning offers a significant dosimetric advantage for protecting the thyroid gland without requiring additional equipment or compromising diagnostic quality. Adopting the VD position as a routine standard in feline cranial CT is recommended to minimize radiation exposure to the thyroid gland.",
-      "categories": [
-        "internalMedicine"
-      ]
     },
     {
       "pmid": "42579237",
@@ -2593,43 +2658,6 @@
       "categories": [
         "oncology",
         "surgery"
-      ]
-    },
-    {
-      "pmid": "42036120",
-      "title": "Comparative Response of Canine and Human Osteosarcoma Tumour Cell Lines to Molecularly Targeted Anticancer Agents at Clinically Relevant Exposures With Analysis of Genomic Biomarkers.",
-      "journal": "Veterinary and Comparative Oncology",
-      "authors": "Gustafson DL, Early KA, Morales MA, Poplawski KA, Das S, Duval DL",
-      "date": "2026 08 10",
-      "dateObject": "2026 08 10",
-      "abstract": "Osteosarcoma (OSA) is a primary bone tumour occurring in children but is also prevalent in large breed dogs. Canine OSA (cOSA) has long been viewed as analogous to human OSA (hOSA) with cOSA serving as a surrogate for development of therapeutic approaches to treat the rarer human form. Drug therapy of OSA has remained virtually unchanged over the last four decades and drug testing is challenging due to the genomic heterogeneity of OSA as well as the limited number of patients for clinical trials. Thus, an approach that includes a suitable clinical surrogate at the early stage of therapeutic development may be beneficial. Therefore, to address these challenges, a phenotypic drug screen of 12 targeted anticancer drugs was carried out using 13 cOSA and 6 hOSA cell lines and responses compared at clinically relevant exposures (CRE) estimated from human data. The results identified four drugs (alisertib, crizotinib, onvansertib and sorafenib) with significant responses at the CRE in cOSA and hOSA cell lines and demonstrated that drug responses were indistinguishable across species. Correlations of drug response with genomic biomarkers in the cOSA cell line panel identified Myc and Hedgehog signalling as potential predictors of crizotinib response and Myc, epithelial markers and anti-apoptotic signalling for onvansertib response. The conclusions of these findings are that cOSA and hOSA cell lines show the same range of response to targeted agents and identify potential biomarker pathways for further investigation in OSA tumours for use in future comparative oncology studies including clinical trials in pet dogs.",
-      "categories": [
-        "oncology"
-      ]
-    },
-    {
-      "pmid": "42021669",
-      "title": "Cytokine-Enhanced Vaccine as Surgery Adjuvant Treatment for Spontaneous Canine Melanoma: Comparison of Two Intralesional Procedures for Local Disease Control.",
-      "journal": "Veterinary and Comparative Oncology",
-      "authors": "Finocchiaro LME, Villaverde MS, Glikin GC",
-      "date": "2026 08 10",
-      "dateObject": "2026 08 10",
-      "abstract": "We present here the feasibility, safety, and efficacy results of a 7-year study that included 337 canine melanoma patients undergoing surgery with adjuvant intralesional therapies combined with immunogenic therapy. After complete (CS) or partial (PS) surgery, the patients received post-surgical bed injections of (i) lipoplexes carrying canine interferon-&#x3b2; (cIFN&#x3b2;) gene combined with bleomycin (CT IF/B ) or (ii) 5-fluorouracil (CT 5FU ). This surgery adjuvant therapy (SAT) also included the periodic administration of subcutaneous genetic vaccines composed of tumour extracts and lipoplexes carrying cIFN&#x3b2;, human interleukin-2, and human granulocyte-macrophage colony-stimulating factor genes. Compared at the end of their individual follow-ups with controls treated with complete surgery alone (CSo), CS-CT IF/B and CS-CT 5FU treatments quadrupled the fraction of local disease-free (from 19% to 81% and 85%), and increased the percentage of metastasis-free patients (M0: from 47% to 82% and 81%). Both PS arms (PS-CT IF/B and PS-CT 5FU ) also significantly increased the fraction of metastatic-free disease (M0: from 48% to 75% and 73%). In addition, SAT produced a significant 11- (CS-CT IF/B : p&#x2009;<&#x2009;0.0001, HR 95% CI &#x2009;=&#x2009;0.155 [0.109-0.222]), 9- (CS-CT 5FU : p&#x2009;<&#x2009;0.0001, HR 95% CI &#x2009;=&#x2009;0.172 [0.123-0.242]), 6- (PS-CT IF/B : p&#x2009;<&#x2009;0.0001, HR 95% CI &#x2009;=&#x2009;0.204 [0.132-0.315]), and 7- (PS-CT 5FU : p&#x2009;<&#x2009;0.0001, HR 95% CI &#x2009;=&#x2009;0.203 [0.132-0.311]) fold increase of overall survival as compared to their respective CSo and PSo controls. The respective median follow-up days for each group were: 695.5 (28-2516), 542.5 (46-2554), 458 (29-1273), and 521 (30-1659). In general terms, this SAT transformed a lethal disease into a manageable condition where 25% (CS-CT IF/B ), 24% (CS-CT 5FU ), 22% (PS-CT IF/B ), and 22% (PS-CT 5FU ) of patients were still alive at the end of the study, while 53%, 60%, 16%, and 17%, respectively, died from causes unrelated to melanoma. Both surgery adjuvant treatments delayed or prevented post-surgical recurrence and metastases, improved disease-free and overall survival while maintaining quality of life. These successful outcomes encourage assaying a similar scheme for human melanoma.",
-      "categories": [
-        "oncology",
-        "surgery"
-      ]
-    },
-    {
-      "pmid": "42003040",
-      "title": "Chemical Exposures, DNA Methylation and Whole Blood DNA Damage in Pet Golden Retrievers.",
-      "journal": "Veterinary and Comparative Oncology",
-      "authors": "Tindle AN, Berres ME, Baker L, Wu Z, Swafford B, Labadie J, Trepanier LA",
-      "date": "2026 08 10",
-      "dateObject": "2026 08 10",
-      "abstract": "Canine multicentric lymphoma (CL) is a common and typically fatal cancer among dogs. Although certain breeds have a higher incidence of CL, its environmental risk factors remain uncertain. Exposures to herbicides and volatile organic compounds (VOCs) associate with non-Hodgkin lymphoma in people. These exposures also correlate with measurable in&#xa0;vivo DNA strand breaks in dogs, even at estimated systemic concentrations that do not reach genotoxic thresholds. Herbicides and VOCs can also exert genotoxicity through differential DNA methylation. We therefore hypothesised that higher chemical exposures would be associated with differential global and gene-specific methylation in the blood of pet golden retrievers, and that differential gene-specific methylation would be further associated with measured DNA strand breaks and oxidised DNA damage. We performed Oxford Nanopore sequencing in 24 of 60 dogs from a recent case-control study within the Golden Retriever Lifetime Study cohort, selected based on the highest and lowest quintiles of estimated aggregate herbicide and VOC exposures. Contrary to our initial hypothesis, higher estimated chemical exposures were associated with relatively lower promoter methylation of antioxidant genes (median 0.335 versus 0.374; p&#x2009;=&#x2009;0.007) and 8-oxoguanine DNA repair genes (median 0.254 versus 0.294; p&#x2009;=&#x2009;0.007). This pattern could represent a compensatory response to chemical exposures rather than a driver of DNA damage. Follow-up studies are needed to determine whether these modest promoter methylation differences correspond to biologically meaningful increases in gene expression, antioxidant status and DNA repair capacity.",
-      "categories": [
-        "oncology"
       ]
     },
     {
@@ -2942,18 +2970,6 @@
       "categories": [
         "internalMedicine",
         "dermatology"
-      ]
-    },
-    {
-      "pmid": "42082101",
-      "title": "Cardiac involvement in European canine babesiosis - a pathological perspective.",
-      "journal": "Topics in Companion Animal Medicine",
-      "authors": "Huber D, Vlahovi&#x107; D, Mihokovi&#x107; Buhin I, Medven Zagradi&#x161;nik L, Artukovi&#x107; B, Hoh&#x161;teter M, &#x160;o&#x161;tari&#x107;-Zuckermann IC",
-      "date": "2026 07 16",
-      "dateObject": "2026 07 16",
-      "abstract": "Canine babesiosis is an important and potentially life-threatening disease of worldwide significance. European babesiosis encompasses all protozoan parasites of the genus Babesia that have been reported to cause canine disease in Europe. Despite its importance, cardiac pathology associated with European babesiosis remains poorly characterized. The aim of this study was to assess cardiac lesions in dogs that succumbed to European babesiosis. For this study, the archive of the Department of Veterinary Pathology, Faculty of Veterinary Medicine Zagreb, was retrospectively searched for necropsied dogs which died as a consequence of naturally acquired European babesiosis. Babesiosis was diagnosed by detection of trophozoites within erythrocytes, but not lymphocytes, in cytological and/or histological slides. Necropsy reports, photographs of cardiac gross lesions, and histologic slides of the heart were reviewed, and all changes were noted. The most common gross pathologies were hemorrhage and pericardial effusion, while intravascular monocytic leukostasis, hemorrhage, endomysial edema, myocardial necrosis, congestion, and myocarditis were the most frequent histologic findings. Based on results of the current study, cardiac lesions in clinical cases of complicated European babesiosis should be expected and patients should be evaluated for such damage.",
-      "categories": [
-        "cardiology"
       ]
     },
     {
