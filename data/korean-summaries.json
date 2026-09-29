@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T23:50:04.222Z",
+  "updated_at": "2026-09-29T01:01:15.483Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -6055,6 +6055,38 @@
       "title": "Effect of low dose azithromycin on the fecal microbiome and fecal bile acids in healthy dogs.",
       "journal": "Journal of Veterinary Internal Medicine",
       "generated_at": "2026-09-27T23:48:50.457Z",
+      "model": "gpt-5-mini"
+    },
+    "42803120": {
+      "brief_summary": "200마리의 고양이를 대상으로 좌심실 밴드(Left ventricular bands, LVBs)의 심초음파 유병률과 부착 부위 양상을 조사한 전향적 관찰 연구이다. 전체 884개의 LVB가 확인되었고 199/200마리(유병률 99.5%)에서 적어도 하나 이상의 LVB가 관찰되었으며 중앙값은 개체당 4개(범위 0–10)이었다. 대부분은 심실중격과 유두근 또는 유두근 유사 구조의 연결을 보였고(심실중격 포함 51.9%, 유두근 관련 94.3%), 성별·진정 여부·정상/국소 부착부 비후군과 심근비대증(HCM) 표현형 간 LVB 수에는 유의한 차이가 없었다(P=0.47, 0.26, 0.98). 임상적으로는 고양이 심초음파에서 흔히 관찰되는 소견으로 인식·분류의 기준이 될 수 있다.",
+      "detailed_summary": "이 연구는 경흉 심초음파를 받는 200마리의 고양이를 전향적으로 평가하여 좌심실 내 두 근육 구조를 연결하되 승모판엽에는 삽입되지 않는 심실 내 선형 구조인 좌심실 밴드(LVBs)의 존재, 개수 및 부착 부위 패턴을 조사했다. 연구에서 총 884개의 LVB가 식별되었고, 199/200마리에서 최소 하나의 LVB가 관찰되어 유병률은 99.5%였다. 개체당 중앙값은 4개(범위 0–10)였으며 가장 흔한 부착 양상은 심실중격과 유두근 또는 유두근 유사 구조 간의 연결이었다. 전체 LVB의 51.9%는 최소 하나의 심실중격 부착을 가졌고 94.3%는 유두근 또는 유두근 유사 구조와 관련되어 있었다. 표현형 비교는 정상/국소 부착 부위 비후군(n=89)과 심근비대증(HCM) 표현형(n=86)을 포함했으며, LVB 수는 성별(P=0.47), 진정 여부(P=0.26), 그리고 두 표현형 간(P=0.98)에 따라 유의한 차이를 보이지 않았다. 초록에는 별도의 제한점 기술이 없으며, 저자들은 LVB가 임상 심초음파 조건에서 흔한 소견으로서 인식 및 분류를 위한 기준을 제공한다고 결론지었다.",
+      "title": "EXPRESS: Echocardiographic prevalence and attachment-site patterns of left ventricular bands in cats.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "generated_at": "2026-09-29T01:01:15.473Z",
+      "model": "gpt-5-mini"
+    },
+    "42803121": {
+      "brief_summary": "후향적 연구에서 중이 내 폴립성 또는 비폴립성 중이염이 의심되는 고양이 38마리(43귀)를 대상으로, 경이(전내시경) 기반의 고막절개 및 중격절개술(transcanal perendoscopic myringotomy and septotomy)을 기술하고 임상적 안전성을 평가하였다. 모든 치료 귀에서 중이의 외측상부(dorsolateral)와 배측-배측하부(ventromedial) 구획에 삼출물이 관찰되었고, 시술 중 모든 귀에서 점막 염증을 확인했으며 33%에서 중이 내 폴립이 발견되어 내시경적으로 제거되었다. 술 후 퇴원 시까지 시술 관련 합병증은 관찰되지 않았고, 저자들은 이 술식이 양측 중이의 두 구획에 접근 가능한 빠르고 최소침습적이며 안전해 보인다고 결론지었다. 단, 단·장기 결과는 추후 연구가 필요하다.",
+      "detailed_summary": "연구 설계는 후향적 증례 연구로, 이비 증상이 있는 고양이의 의무기록을 후향적으로 검토하여 포함기준(CT에서 고막강 내 액체/연조직, 오토엔도스코피상 고막 이상 및/또는 비인두내시경상 귀관 개구부 이상)을 만족하는 38마리(43귀)를 분석했다. CT에서는 치료된 모든 귀에서 dorsolateral 및 ventromedial 구획의 삼출물이 확인되었다. 오토스코피에서는 93%에서 고막 이상을 보였고(변색 28%, 팽윤 28%, 파열 16%, 돌출성 폴립 21%), 비중격내시경(정상정향 nasopharyngoscopy)에서 동측 귀관이 81%에서는 육안으로 열려 있었고 19%에서는 분비물 또는 폴립 물질로 부분적·완전 폐색이 관찰되었다. 모든 증례에 대해 1 mm 강성 Frazier 흡인관을 이용한 경이 전내시경 고막절개 및 중격절개술을 시행했으며, 시술 중 모든 귀에서 점막 염증을 관찰했고 33%에서 중이내 폴립 형성이 있어 내시경적으로 제거하였다. 모든 고양이는 독시사이클린(doxycycline) 7일 투여와 프레드니솔론(prednisolone) 점차 감량 요법을 받았고, 수술 관련 합병증은 수술 중 및 퇴원 시점까지 보고되지 않았다. 저자 결론은 이 술식이 양 구획 접근이 가능한 빠르고 최소침습적이며 현재 관찰상 안전해 보인다는 것이며, 단·장기 결과 평가는 향후 연구에서 필요하다고 명시했다.",
+      "title": "EXPRESS: Modified transcanal perendoscopic myringotomy and septotomy technique for cats with otitis media - a retrospective study of 38 cats.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "generated_at": "2026-09-29T01:01:04.501Z",
+      "model": "gpt-5-mini"
+    },
+    "42803610": {
+      "brief_summary": "본 논문은 개에서 간헐광자극(Intermittent photic stimulation, IPS)을 이용한 뇌파검사(EEG)의 적용 현황을 종합한 내러티브 리뷰로, 자극 설계·각성 상태·전극 배치의 이질성을 비판적으로 평가하고 표준화 틀을 제안한다. 연구들은 IPS가 특정 개의 간질 증후군에서 특히 깨어있는 상태의 기록 동안 전형적인 generalized spike-wave 및 polyspike-wave 방전을 유발할 수 있음을 보고했다. 저자는 각성 상태에서의 표준화된 검사, 명확한 자극 변수 정의 및 공간 표본화 개선을 권고하며, 표준화가 진단 민감도 향상과 수의학적 EEG의 재현성 제고에 도움이 될 수 있음을 제시한다.",
+      "detailed_summary": "이 논문은 개에서의 IPS 적용을 정리한 내러티브 리뷰로서, 자극 주파수 범위·광도·눈 상태 제어·섬광 지속시간·각성 상태·램프 거리 등 자극 설계의 다양성과 전극 배열의 한계를 검토했다. 발표된 수의학 연구들은 IPS가 선택된 간질 증후군에서 generalized spike-wave 및 polyspike-wave 방전을 촉발할 수 있다고 보고했으며, 이 효과는 특히 깨어있는(awake) 기록에서 더 흔하게 관찰되었다. 진정(sedation)이나 전신마취는 망막 및 시상피질(thalamocortical)의 반응성을 약화시켜 photoparoxysmal response(PPR)를 유발할 가능성을 낮추는 것으로 보인다. 그러나 연구들 간에 주파수 범위, 빛 세기, 눈 상태 통제, 섬광 지속시간, 각성 상태, 램프 거리 등이 크게 달라 결과 비교가 어렵다. 또한 전극 배열이 드물고 일관성이 없어 광학 반응의 공간적 해석과 연구 간 비교를 제약한다는 점이 지적되었다. 저자는 인간 연구의 확립된 방법론과 수의학적 데이터에 근거해 깨어있는 상태 검사 표준화, 정의된 자극 매개변수, 공간 표본화 개선에 대한 실무적 권고를 제시하며, 표준화가 개의 photosensitive epilepsy 동정과 EEG의 진단 효율 및 번역적 정렬성 향상 기회를 제공할 수 있다고 결론지었다. 중요한 제한점으로는 현존 연구들의 방법론적 이질성과 제한된 전극 샘플링으로 인해 공간적·비교적 해석이 제한된다는 점이 있다.",
+      "title": "Current knowledge of intermittent photic stimulation for electroencephalography in dogs.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-09-29T01:00:39.074Z",
+      "model": "gpt-5-mini"
+    },
+    "42804407": {
+      "brief_summary": "본 연구는 Lori 수컷 양의 정자 동결보존 시 Tris 기반 보조제에 Spirulina platensis 추출물(0–70 µg/mL)을 보충했을 때 해동 후 정자 기능에 미치는 용량 의존적 영향을 평가했다. 50 µg/mL 보충(Spir-50)이 해동 후 전체 운동성(TM: 50.23% vs 대조 32.30%)과 진행성 운동성(PM: 33.0% vs 대조 18.8%), 생존률(59.16%) 및 미토콘드리아막 전위(ΔΨm, 54.5%)를 유의하게 개선했고 항산화 효소 활동(SOD, GPx)과 총항산화능(TAC)을 증가시키며 지질 과산화 산물(MDA), DNA 변성(2.87% vs 대조 6.67%) 및 과산화수소(H2O2)를 감소시켰다. 이 결과는 Tris 기반 보조제에 Spirulina 추출물 첨가가 램 정자 동결보존 후 품질 향상에 기여할 수 있음을 시사한다.",
+      "detailed_summary": "연구는 네 마리의 성숙한 Lori 수컷 양으로부터 주 2회, 4주간(총 8회 반복) 채취한 정액을 풀링하여 Tris 기반 희석액에 Spirulina 추출물을 0, 10, 20, 30, 40, 50, 60, 70 µg/mL로 보충(Spir-0~Spir-70)한 후 5°C에서 3시간 평형, 액체질소 동결, 37°C 물욕탕에서 30초 해동하는 프로토콜로 진행했다. 해동 후 평가는 CASA(Computer-Assisted Sperm Analysis)를 이용한 운동성, 생존률, 원형질막 기능성, 아크로좀 형태, 미토콘드리아막 전위(ΔΨm), 아크리딘 오렌지(AO)를 이용한 DNA 변성 및 산화 스트레스 지표(MDA, H2O2)와 항산화효소 활동(SOD, CAT, GPx), 총항산화능(TAC)을 포함해 광범위하게 수행했다. 통계는 일원배치 분산분석(one-way ANOVA)과 Tukey의 HSD 사후검정을 사용했으며 유의수준은 P < 0.05로 설정되었다. 주요 결과로 Spir-50 처치군이 대조군에 비해 전체 및 진행성 운동성, 생존률, 원형질막 기능성, 높은 미토콘드리아막 전위 비율을 유의하게 향상시켰고 GPx(35.49 vs 23.73 mU/mL), SOD(213.07 vs 190.74 U/mL), TAC(4.53 vs 3.34 µmol/L)을 증가시켰으며 MDA(2.60 vs 7.69 nmol/mL), DNA 변성(2.87% vs 6.67%), H2O2(16.4% vs 27.7%)는 현저히 감소시켰다. 결론적으로 50 µg/mL의 Spirulina 추출물 보충이 본 실험에서 가장 효과적인 동결보호 효과를 보여 해동 후 램 정자 품질 개선에 유리했다는 결과를 제시한다. 초록에서는 추가적인 한계점이나 장기적 임상 적용성에 대한 상세한 논의는 제공하지 않았다.",
+      "title": "Effects of Supplementing Semen Extenders With Spirulina platensis Extract on Post-Thaw Ram Sperm Quality.",
+      "journal": "Veterinary Medicine and Science",
+      "generated_at": "2026-09-29T01:00:51.034Z",
       "model": "gpt-5-mini"
     }
   }
