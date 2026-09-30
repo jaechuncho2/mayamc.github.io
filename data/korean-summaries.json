@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T01:01:15.483Z",
+  "updated_at": "2026-09-30T00:29:48.735Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -6087,6 +6087,30 @@
       "title": "Effects of Supplementing Semen Extenders With Spirulina platensis Extract on Post-Thaw Ram Sperm Quality.",
       "journal": "Veterinary Medicine and Science",
       "generated_at": "2026-09-29T01:00:51.034Z",
+      "model": "gpt-5-mini"
+    },
+    "42806282": {
+      "brief_summary": "이 연구는 고령 반려견에서 요검사 이상과 배변 오염 행동(soiling), 인지 저하 간의 관계를 확인하기 위해 진행된 전향적 관찰 코호트 연구이다. 84마리(평균 연령 12.77±1.91세)를 반년 간격으로 자유 채취 소변검사, 소유주 작성 CADES(Canine Dementia Scale) 및 인지 검사로 평가했다. 소변 비중(USG)은 연령과 함께 감소했고(P<.001), 낮은 USG와 연령이 높은 오염 점수와 연관되었으며(P<.001) 높은 오염 점수는 억제통제 및 우회(detour) 과제 수행 저하와 연관되었다(P<.001). 비정상 요검사 소견은 예상보다 드물었고, 연구진은 오염 행동이 반드시 요로·전신 질환만을 반영하지 않을 수 있으며 인지 기능 장애의 지표일 수 있음을 제시했다.",
+      "detailed_summary": "전향적 관찰 코호트 연구로 84마리의 클라이언트 소유 고령견(평균 연령 12.77±1.91세, 암컷 중성화 53, 수컷 중성화 29, 비중성 2)을 반년마다 평가했다. 평가 항목은 자유 채취 소변검사(총 231회), 소유주 작성 CADES(Canine Dementia Scale; 개 치매 척도), 및 인지 검사 배터리였다. 소변검사 결과는 농뇨(pyuria) 19회, 혈뇨 14회, 세균뇨 11회, 단백뇨 194회를 보였고 소변 비중(USG)은 1.005–1.056 범위로 연령과 유의하게 감소했다(P<.001). 배변 오염 점수는 0–25 범위였고 연령 증가(P<.001) 및 USG 감소(P<.001)와 연관되었으며, 다변량 모델에서도 연령과 USG가 오염의 유의한 예측인자로 남았다. 높은 오염 점수는 억제 통제(inhibitory control) 과제와 우회(detour) 과제 수행 저하와 연관되어(P<.001) 오염 행동이 집행기능 저하와 관련됨을 시사했다. 연구는 비정상 요검사 소견이 기대보다 적었음을 보고하며, 배변 오염 행동이 배뇨기 또는 전신 질환만을 의미하지 않을 수 있고 인지 저하의 표시일 수 있음을 제안한다. 본 연구는 전향적 관찰 설계였음을 감안할 때 인과관계는 확정하지 못한다는 점을 유의해야 한다.",
+      "title": "The relationship between urinalysis abnormalities, soiling behavior, and cognitive decline in aging dogs.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-09-30T00:29:17.501Z",
+      "model": "gpt-5-mini"
+    },
+    "42807202": {
+      "brief_summary": "본 연구는 발거된 개의 견치 30개(그룹별 n=10)를 대상으로 기계식과 수동 니켈-티타늄(Ni-Ti) 기구법을 비교하여 고해상도 마이크로CT(micro-CT)로 근관 형상·충전 균질성·시술 안전성을 평가했다. 기계식 Ni-Ti 시스템은 수동보다 근관 직경과 기구 크기 불일치가 더 적고(불일치 p=0.008), 내부 공기량(air inclusion)이 적어 충전이 더 균질한 경향을 보였다(p=0.017) 반면 근관의 사전·사후 부피 비율에는 그룹 간 유의한 차이가 없었다(p=0.464). 임상적으로는 기계식 시스템이 보다 재현성 있는 근관 조제와 균질한 충전을 기대할 수 있으며, 치료 후 CBCT는 충전계면의 방사투과성 소견을 영상 인공물로 오해할 수 있어 주의해석이 필요함을 시사한다.",
+      "detailed_summary": "무작위로 배정된 30개의 발거 견치를 세 그룹(n=10)으로 나누어 두 가지 기계식 Ni-Ti 시스템과 수동 Ni-Ti 핸드 파일로 근관 성형을 시행한 비교연구이다. 평가에는 치료 전·후 고해상도 micro-CT를 이용한 근관 형태 정량화, 사후·사전 근관 부피 비율(post-to-pre), 내부 공기량(air inclusion), 근관 직경과 기구 크기 간 불일치 등이 포함되었고, 치료 후 콘빔CT(CBCT) 영상도 촬영하였다. 혼합모형 분석에서 근관 직경과 기구 크기 불일치에 그룹 효과가 있었고(p=0.008), 사후·사전 부피 비율은 그룹 간 유의차가 없었다(p=0.464). 내부 공기량에서도 그룹 효과가 관찰되어(p=0.017) 수동 기구법이 더 많은 내부 공기량과 덜 균질한 충전과 관련되었다. 시술 합병증은 전체 표본의 26.7%에서 발생했으며 경험이 적은 술자가 더 자주 발생시켰다. CBCT에서 관찰된 충전-상아질 계면의 방사투과성 소견은 micro-CT에서 빈틈 또는 이물로 확인되지 않아 영상 인공물로 귀속되었고, 연구 결론은 기계식 Ni-Ti가 유사한 근관 부피 변화에도 불구하고 보다 재현성 높은 조제와 균질한 충전을 보였다는 점과, CBCT 소견을 해석할 때 주의가 필요하다는 것이다.",
+      "title": "Machine-driven vs. manual nickel-titanium instrumentation of canine teeth in dogs: a high resolution micro-CT evaluation of canal geometry and obturation quality.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-09-30T00:29:48.723Z",
+      "model": "gpt-5-mini"
+    },
+    "42807956": {
+      "brief_summary": "독일의 순혈 도베르만 핀셔 345마리(453개 혈청 샘플)를 대상으로 Vcheck V200 점병원 검사로 NT‑proBNP와 cTnI가 확장성 심근병증(DCM) 검출에 유용한지 평가하고, 일부 샘플(358개)에서는 실험실 기반 IDEXX cTnI와 비교했다. Vcheck NT‑proBNP(컷오프 ≥580 pmol/L)는 민감도 76.6%, 특이도 83.1% (AUC 0.845)를, Vcheck cTnI(컷오프 ≥0.21 ng/mL)는 민감도 71.0%, 특이도 78.3% (AUC 0.809)를 보였다. IDEXX 실험실 cTnI가 특히 초기 병기(“last normal” 포함)에서 더 높은 진단 정확도를 보였고, 두 Vcheck 바이오마커 병합 시 민감도는 증가하나 특이도는 감소하며 전체 성능은 IDEXX 단독보다 낮았다.",
+      "detailed_summary": "이 연구는 전향적 종적 설계로 신체검사, 심초음파, 24시간 홀터 검사와 바이오마커 분석을 통해 개들을 A, last normal, B1, B2, C의 5단계로 분류했다. 총 453개 혈청 샘플(345마리)에서 Vcheck V200으로 NT‑proBNP와 cTnI를 측정했고, 그중 358개 샘플은 추가로 IDEXX 실험실 기반 cTnI 측정을 시행했다. 진단성능은 수신자 조작 특성(ROC) 곡선으로 분석하였고, 검사 간 일치도는 Bland–Altman 분석으로 평가하였다. Vcheck NT‑proBNP(≥580 pmol/L)는 민감도 76.6%, 특이도 83.1% (AUC 0.845)를 보였고, Vcheck cTnI(≥0.21 ng/mL)는 민감도 71.0%, 특이도 78.3% (AUC 0.809)를 보였다. IDEXX 실험실 cTnI는 특히 초기 단계에서 더 높은 진단 정확도를 보였고, 두 Vcheck 바이오마커를 병합하면 민감도와 AUC(0.886)는 증가하나 특이도는 감소하며 IDEXX 단독보다 성능은 낮았다. 임상적 의의로 Vcheck V200은 클리닉에서의 바이오마커 평가에 실용적이며, 제시된 기준값을 초과하는 개는 심초음파 및 24시간 홀터를 포함한 정밀 심장 검사가 권고된다.",
+      "title": "Diagnostic performance of Vcheck NT-proBNP and cardiac troponin I assays for detection of dilated cardiomyopathy in Doberman Pinschers.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-09-30T00:29:32.421Z",
       "model": "gpt-5-mini"
     }
   }
