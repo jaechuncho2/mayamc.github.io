@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-09-30T00:29:03.160Z",
+  "updated_at": "2026-10-01T00:34:24.208Z",
   "papers": [
+    {
+      "pmid": "42814655",
+      "title": "Melioidosis in dogs and cats: 18 cases.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Lim ZS, Soon K, Neo N, Labrador J, Kelly D",
+      "date": "2026 09 30",
+      "dateObject": "2026 09 30",
+      "abstract": "The clinical manifestations and outcomes in dogs and cats with melioidosis have not been described. Describe the presenting signs, treatment, and outcome of dogs and cats with melioidosis. Fifteen dogs and 3 cats from a hospital in Singapore. Retrospective case series. A hospital database search was performed to identify dogs with melioidosis presenting over a 5-year period. Data collected included signalment, clinical signs, test results, treatment, and outcome. Diagnosis was based on positive bacterial culture and identification of Burkholderia pseudomallei in all cases. At presentation, 13/15 (87%) had systemic inflammatory response syndrome (SIRS), 10/15 (67%) were septic, and 3/15 (20%) had septic shock. In dogs, 8/15 (53%) had multiple cutaneous abscesses or open wounds, and 6/15 (40%) had prostatitis or prostatic abscessation. In cats, 2/3 had osteomyelitis and 1/3 had pyelonephritis. Of the cases, 5/15 (33%) dogs and none of the cats were considered potentially immunocompromised. Of the 17 cases with >4&#xa0;weeks of follow-up, death or euthanasia attributed to melioidosis occurred in 8/17 (47%). Of the surviving 9/17 (53%) animals, 6 were alive after 1 month (range, 1-43&#xa0;months) and 3 died or were euthanized for reasons unrelated to melioidosis, with median follow-up duration of 724&#xa0;days. Melioidosis should be considered in dogs with prostatitis or cutaneous abscesses, and in cats with osteomyelitis. Initial treatment with ceftazidime or meropenem, followed by 3-6&#xa0;months of trimethoprim-sulfonamide (TMPS) might be optimal.",
+      "categories": [
+        "internalMedicine",
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42813026",
+      "title": "Correction: Comparison of analgesic efficacy between intrafunicular and intratesticular lidocaine injection in dogs.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Frontiers Production Office",
+      "date": "2026 09 30",
+      "dateObject": "2026 09 30",
+      "abstract": "[This corrects the article DOI: 10.3389/fvets.2026.1753113.].",
+      "categories": []
+    },
+    {
+      "pmid": "42812987",
+      "title": "Correction: Templated tibial plateau leveling osteotomy and implant guidance system improves accuracy in novice surgeons: an ex vivo study.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Wyatt TJ, Lynch AC, Miniter B",
+      "date": "2026 09 30",
+      "dateObject": "2026 09 30",
+      "abstract": "[This corrects the article DOI: 10.3389/fvets.2026.1729787.].",
+      "categories": [
+        "surgery"
+      ]
+    },
     {
       "pmid": "42806282",
       "title": "The relationship between urinalysis abnormalities, soiling behavior, and cognitive decline in aging dogs.",
@@ -48,6 +83,18 @@
       "categories": [
         "internalMedicine",
         "dermatology"
+      ]
+    },
+    {
+      "pmid": "42732994",
+      "title": "Comparative Phenotypic and Molecular Characterisation of Feline Oral Squamous Cell Carcinoma Cell Lines Reveals Marked Biological Heterogeneity.",
+      "journal": "Veterinary and Comparative Oncology",
+      "authors": "Tanveer Q, Pang LY, Farquharson C, Bergkvist GT",
+      "date": "2026 09 29",
+      "dateObject": "2026 09 29",
+      "abstract": "Feline oral squamous cell carcinoma (FOSCC) is the most common oral malignancy, characterised by aggressive local invasion, frequent bone involvement, and poor prognosis. The limited availability of well-characterised in&#xa0;vitro models has hindered the understanding of tumour heterogeneity and invasive behaviour. This study aimed to establish and comparatively characterise a panel of FOSCC cell lines derived from tumours with and without documented bone invasion to identify intrinsic biological differences. Four FOSCC cell lines were evaluated for epithelial identity, growth kinetics, clonogenicity, migratory capacity and chemosensitivity. All cell lines retained epithelial characteristics, with consistent expression of epithelial markers; however, variation in cytokeratin-19 and vimentin suggested phenotypic heterogeneity and partial epithelial-mesenchymal plasticity. The cell lines demonstrated distinct proliferation rates, doubling times, and clonogenic capacities. Morphologically, these cells displayed varying degrees of peripheral filopodial activity. Functional assays further revealed substantial migratory capacity under both serum-supplemented and serum-free conditions, with differences across cell lines. Chemosensitivity profiling showed heterogeneous responses to targeted and cytotoxic agents, highlighting cell line-specific differences in drug susceptibility and potential intrinsic drug responsiveness. These findings demonstrate that FOSCC cell lines possess distinct biological properties consistent with phenotypic differences. The observed heterogeneity underscores the potential relevance of tumour origin in shaping functional behaviour and highlights the value of using multiple, well-characterised cell line models to better represent disease diversity. This study provides a comprehensive comparative characterisation of four FOSCC cell lines, including a newly established model, and establishes a baseline resource for future mechanistic and translational investigations in feline and comparative oncology.",
+      "categories": [
+        "oncology"
       ]
     },
     {
@@ -927,30 +974,6 @@
       ]
     },
     {
-      "pmid": "42761244",
-      "title": "Pilot study demonstrating safety and efficacy of intravenous allogeneic uterine-derived mesenchymal stromal cell therapy in cats with naturally occurring osteoarthritis.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Williams V, Mick L, Windsor R, Parrish RS, Thompson CM, Sundman E, Wrightson C, Taechangam N, Sharif O, Black L",
-      "date": "2026 09 19",
-      "dateObject": "2026 09 19",
-      "abstract": "The objective of this study was to evaluate the tolerability and efficacy at 3 months of intravenous (IV) allogeneic uterine-derived mesenchymal stromal cells (UMSCs) for osteoarthritis (OA) in client-owned cats. This was a randomized, masked, placebo-controlled pilot study conducted across six veterinary clinics. Thirty-five client-owned cats with naturally occurring OA were randomly assigned to receive two intravenous injections, given 14 days apart, of one of three treatments: 5 million (5M) UMSCs, 20 million (20M) UMSCs, or saline placebo. Client-Specific Outcome Measures (CSOM), Owner Overall Assessment (OOA), Veterinarian Overall Assessment (VOA) and Veterinarian Pain Assessment (VPA) were recorded at day 0, 14, 30, 60 and 90. At day 90, predefined treatment success was achieved in: CSOM and OOA for 7/9(78%) 5M UMSC and 10/12(83%) 20M UMSC treated cats compared to 4/11(36.4%) placebo-treated cats for both outcomes; VOA for 4/8(50%) 5M UMSC and 8/12(67%) 20M UMSC treated cats compared to 2/10(20%) placebo-treated cats; and VPA for 6/8(75%) 5M UMSC and 10/12(83%) 20M UMSC treated cats compared to 5/11(45%) placebo-treated cats. Treatment-related adverse events were observed in 1/10 (10%) 5M UMSC treated cats, 5/13 (38%) 20M UMSC treated cats, and 2/12 (16.7%) saline treated cats. The most common treatment related events reported in the first 24 hours were transient vomiting or nausea, weakness, lethargy, hypersalivation, tachypnea and malodorous breath. This study demonstrated that IV administration of allogeneic UMSCs was well tolerated and showed improvement in owner and veterinarian outcomes at both 5M UMSC and 20M UMSC dosing to at least 3 months in cats with naturally occurring OA. Intravenous MSC therapy shows promise for cats with OA and warrants further exploration.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42761127",
-      "title": "Cirevetmab, a novel canine anti-TGF&#x3b2; monoclonal antibody, exerts antifibrotic effects on renal cells in vitro .",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Kappenman DL, Koehler CL, Prentice RN, Koziar N, Beardow A, Merlo A, Knauer CS, Mwangi D, Stirling C",
-      "date": "2026 09 19",
-      "dateObject": "2026 09 19",
-      "abstract": "Transforming Growth Factor-&#x3b2; (TGF-&#x3b2;) has been implicated for its role in fibrosis and progression of chronic kidney disease (CKD) in both humans and rodents. Additionally, CKD is a common and progressive condition in canines, with striking pathological similarities to human disease. However, targeted therapies addressing fibrogenic mediators in dogs remain underexplored. We investigated the role of all three TGF-&#x3b2; isoforms (TGF-&#x3b2;1, TGF-&#x3b2;2, and TGF-&#x3b2;3) in CKD and renal fibrosis with in vitro model systems using human and canine primary renal proximal tubular epithelial cells. The studies assessed the induction of the canonical TGF-&#x3b2; pathway and the ability of a novel canine anti-TGF-&#x3b2; monoclonal antibody, cirevetmab, to neutralize these effects. All three TGF-&#x3b2; isoforms induced phosphorylation of SMAD3 (homologs of Drosophila mothers against decapentaplegic and C. elegans SMA proteins), nuclear translocation, and alpha-smooth muscle actin (&#x3b1;SMA). Treatment with cirevetmab led to robust neutralization of TGF-&#x3b2;1-induced SMAD phosphorylation and fibrotic marker changes. Notably, although cirevetmab exerted modest neutralization of TGF-&#x3b2;3-induced SMAD phosphorylation, this was not associated with a significant change in TGF-&#x3b2;3-induced fibrotic markers. Conversely, no neutralization of TGF-&#x3b2;2-induced activity was observed with cirevetmab. Our results demonstrate that cirevetmab selectively neutralizes TGF-&#x3b2;1 and, to a lesser extent, TGF-&#x3b2;3-induced SMAD phosphorylation in vitro , while only significantly neutralizing TGF-&#x3b2;1-induced fibrotic markers in renal proximal tubule cells.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
       "pmid": "42753789",
       "title": "Cadaveric feline study revealed no significant difference in biomechanical stability following L4-L5 hemilaminectomy versus mini-hemilaminectomy.",
       "journal": "American Journal of Veterinary Research",
@@ -1355,18 +1378,6 @@
       "abstract": "",
       "categories": [
         "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42732994",
-      "title": "Comparative Phenotypic and Molecular Characterisation of Feline Oral Squamous Cell Carcinoma Cell Lines Reveals Marked Biological Heterogeneity.",
-      "journal": "Veterinary and Comparative Oncology",
-      "authors": "Tanveer Q, Pang LY, Farquharson C, Bergkvist GT",
-      "date": "2026 09 13",
-      "dateObject": "2026 09 13",
-      "abstract": "Feline oral squamous cell carcinoma (FOSCC) is the most common oral malignancy, characterised by aggressive local invasion, frequent bone involvement, and poor prognosis. The limited availability of well-characterised in&#xa0;vitro models has hindered the understanding of tumour heterogeneity and invasive behaviour. This study aimed to establish and comparatively characterise a panel of FOSCC cell lines derived from tumours with and without documented bone invasion to identify intrinsic biological differences. Four FOSCC cell lines were evaluated for epithelial identity, growth kinetics, clonogenicity, migratory capacity and chemosensitivity. All cell lines retained epithelial characteristics, with consistent expression of epithelial markers; however, variation in cytokeratin-19 and vimentin suggested phenotypic heterogeneity and partial epithelial-mesenchymal plasticity. The cell lines demonstrated distinct proliferation rates, doubling times, and clonogenic capacities. Morphologically, these cells displayed varying degrees of peripheral filopodial activity. Functional assays further revealed substantial migratory capacity under both serum-supplemented and serum-free conditions, with differences across cell lines. Chemosensitivity profiling showed heterogeneous responses to targeted and cytotoxic agents, highlighting cell line-specific differences in drug susceptibility and potential intrinsic drug responsiveness. These findings demonstrate that FOSCC cell lines possess distinct biological properties consistent with phenotypic differences. The observed heterogeneity underscores the potential relevance of tumour origin in shaping functional behaviour and highlights the value of using multiple, well-characterised cell line models to better represent disease diversity. This study provides a comprehensive comparative characterisation of four FOSCC cell lines, including a newly established model, and establishes a baseline resource for future mechanistic and translational investigations in feline and comparative oncology.",
-      "categories": [
-        "oncology"
       ]
     },
     {
@@ -2387,18 +2398,6 @@
         "internalMedicine",
         "oncology",
         "surgery"
-      ]
-    },
-    {
-      "pmid": "42658783",
-      "title": "Effect of amiodarone, diltiazem, or both to achieve strict heart rate control in dogs with atrial fibrillation.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Tjostheim SS, Kellihan HB, Stepien RL",
-      "date": "2026 08 27",
-      "dateObject": "2026 08 27",
-      "abstract": "Dogs with atrial fibrillation (AF) live longer if heart rate is strictly controlled (SHRC, 24-h mean heart rate&#xa0;&#x2264;&#xa0;125&#xa0;beats per minute [bpm]). Amiodarone and diltiazem are used to lower ventricular response rate (VRR) in dogs with AF, but information about their relative efficacy for achieving SHRC is lacking. Describe heart rate response with sequential escalation of amiodarone or diltiazem monotherapy to combination therapy. Thirteen client-owned dogs with AF. Prospective cohort study with an adaptive treatment protocol. Dogs with AF with mean daily heart rate (MDHR) >&#x2009;125&#xa0;bpm (baseline, 24-h Holter) were randomized to receive amiodarone or diltiazem at standard doses. Dogs were reassessed 21&#xa0;days later, and the other drug (amiodarone or diltiazem) was added if SHRC was not achieved. Dogs were then reassessed at 42 and 63-147&#xa0;days after starting treatment. If MDHR >125&#xa0;bpm at any repeat assessment, the second drug was added. Timing of final assessment was dependent on whether treatment was escalated. Monotherapy with amiodarone and diltiazem was initially used in 7 and 6 dogs, respectively. SHRC was achieved in 3 dogs (amiodarone, n&#xa0;=&#xa0;2; diltiazem, n&#xa0;=&#xa0;1) at first follow-up. At last follow-up, 11 of 13 dogs were receiving both drugs (median [range] 50 [20-153] days). Combination therapy of amiodarone and diltiazem did not result in SHRC (139 [94-160] bpm) in most dogs (7/11, 64%). Monotherapy with amiodarone or diltiazem or combination therapy of amiodarone/diltiazem did not achieve SHRC in most dogs in this study.",
-      "categories": [
-        "cardiology"
       ]
     },
     {
