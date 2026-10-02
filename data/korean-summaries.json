@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T00:35:00.438Z",
+  "updated_at": "2026-10-02T00:50:10.231Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -6135,6 +6135,70 @@
       "title": "Melioidosis in dogs and cats: 18 cases.",
       "journal": "Journal of Veterinary Internal Medicine",
       "generated_at": "2026-10-01T00:34:41.409Z",
+      "model": "gpt-5-mini"
+    },
+    "42815455": {
+      "brief_summary": "10개월령 골든리트리버 한 마리를 대상으로 전장유전체염기서열분석(WGS)을 통해 Marfan 증후군(MFS) 유사 증후군을 진단하고 예후·치료 방향을 모색했다. 임상적으로 심장 비대, 기흉, 관절 과운동성이 관찰되었고, 유전체 분석에서 FBN1 유전자의 엑손 24를 포함하는 3618 bp 결실(NC_049251.1:g.14998228_15001846del)을 단일 대립유전자에서 확인하였다. 이 변이는 코드서열에 인-프레임 결실을 초래할 가능성이 있어 MFS 관련 병변으로 추정된다. 본 증례는 개에서의 생전(M) MFS 유사 증후군 진단 사례를 제시한다.",
+      "detailed_summary": "증례는 10개월령 골든리트리버로 심장 비대, 기흉 및 관절 과운동성 등 결합조직질환 의심 소견으로 내원했다. 병원에서 신체검진, 혈액검사 및 방사선검사가 시행되었고, 진단을 위해 전장유전체염기서열분석(WGS)을 수행했다. 비교를 위해 비영향 게르만셰퍼드-비글 혼혈 1마리와 160마리의 관련 없는 골든리트리버의 혈액·DNA를 대조군으로 사용했다. 유전학적 분석은 단일염기변이(SNVs), 소규모 삽입·결실(indels), 구조변이(SVs)를 포괄적으로 탐색하고 후보유전자를 우선 검토하였다. 그 결과 FBN1 유전자의 엑손 24를 포함하는 3618 bp 결실(NC_049251.1:g.14998228_15001846del)을 한 대립유전자에서 확인했고, 해당 영역은 중합효소연쇄반응(PCR) 증폭 및 Sanger 염기서열분석으로 확증되었다. 이 결실은 코드서열에 인-프레임 결실을 초래할 가능성이 있어 임상 소견과 함께 MFS 유사 증후군과 연관된 병변으로 보고되었다. 다만 본 보고는 단일 증례이므로 일반화할 수 없으며 원인성 및 역학적 관련성 확인을 위한 추가 연구가 필요하다.",
+      "title": "Clinical and molecular genetic description of a Marfan-like syndrome in a Golden Retriever puppy.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-10-02T00:49:44.372Z",
+      "model": "gpt-5-mini"
+    },
+    "42815528": {
+      "brief_summary": "24마리의 반려 흰족제비(Mustela putorius furo)를 대상으로 수의용 휴대형 혈당계(v-PBGM; AlphaTrak3)와 사람용 휴대형 혈당계(h-PBGM; FreeStyle Precision Neo)를 현장 화학분석기(레퍼런스 분석기; VetScan VS2)와 비교하였다. h-PBGM은 가장 큰 양의 고정 바이어스를 보였고, v-PBGM의 개 및 고양이 설정은 고정 바이어스가 작았으나 모든 기기에서 협의 범위(limits of agreement)가 넓었다. ≤60 mg/dL 기준에서 분류 일치율은 v-PBGM의 개·고양이 설정이 79%, 등기마(말) 설정 75%, h-PBGM은 58%였으며, 결론적으로 휴대형 혈당계만으로 페럿의 저혈당 진단이나 치료 결정을 내리기에는 부족하므로 낮거나 경계값의 결과는 현장 또는 참조 실험실 화학분석기로 확인할 것을 권고한다.",
+      "detailed_summary": "잔여 헤파린화 경정맥 혈액 샘플을 2025년 6월부터 2026년 4월까지 채혈 후 10분 이내에 분석하여, v-PBGM(AlphaTrak3)의 말·개·고양이 설정과 h-PBGM(FreeStyle Precision Neo)의 측정값을 VetScan VS2 현장 화학분석기(레퍼런스 분석기)와 비교하였다. 비교는 Bland–Altman 분석과 저혈당 기준(≤60 mg/dL 및 <70 mg/dL)에 따른 분류 일치로 평가되었다. 연구에 포함된 24마리의 평균 레퍼런스 혈당은 90.8 mg/dL(범위 43–157 mg/dL)이었다. h-PBGM은 가장 큰 양의 고정 바이어스를 보였고, v-PBGM의 개·고양이 설정은 고정 바이어스가 적었으나 모든 혈당계에서 협의 범위가 넓어 개별 측정값의 불일치가 컸다. ≤60 mg/dL 기준에서 분류 일치율은 v-PBGM 개·고양이 설정 79%, 등기마(말) 설정 75%, h-PBGM 58%로 보고되었다. 저자들은 v-PBGM의 개·고양이 설정이 h-PBGM보다 레퍼런스 분석기와 더 근접했으나, 전반적인 일치성은 휴대형 혈당계만으로 저혈당을 진단하거나 관리하기에 충분치 않다고 결론지었으며, 낮거나 경계값이거나 치료를 바꿀 수 있는 결과는 현장 또는 참조 실험실 화학분석기로 확인할 것을 권고하고 있다.",
+      "title": "Portable blood glucose meters do not reliably detect hypoglycemia in ferrets (Mustela putorius furo) compared with a point-of-care chemistry analyzer.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-10-02T00:50:10.216Z",
+      "model": "gpt-5-mini"
+    },
+    "42815534": {
+      "brief_summary": "본 연구는 CT 관류(CTP)에서 얻은 시간-최대강화 도달시간(T-peak)과 동맥혈류(arterial blood flow, AF)가 개의 부신종양(부신수질종인 pheochromocytoma[PHEO]과 부신피질종양)을 수술 전 감별하는 데 도움이 되는지 평가했다. 20마리의 개(22종양)와 역사적 대조군(건강한 비글 5마리)을 대상으로 하여 T-peak는 PHEO보다 부신피질종양에서 유의하게 길었고, AF는 PHEO가 부신피질암보다 높았으며 AF의 AUC는 0.923이었다. 연구진은 CTP 지표가 수술 전 종양 특성화에 보조적인 정보를 제공할 수 있으나 제시된 판정 기준은 더 큰 독립 코호트에서 검증이 필요하다고 결론지었다.",
+      "detailed_summary": "후향적 CTP 데이터(건강한 비글 5마리 대조)와 2024-11-21부터 2026-05-31 사이에 내원한 임상 케이스로 구성된 연구에서, 고객 소유 개들은 삼중 위상 CT, CTP, 부신 절제술 및 조직병리 검사로 평가되었다. 최종 집단은 20마리의 개에서 총 22개의 종양(부신피질선종 8개, 부신피질암 7개, PHEO 7개)이었다. T-peak(조영제 투여부터 최고 조직 감쇠값 도달까지의 시간)는 PHEO보다 두 부신피질종양군에서 더 길었고, 사후분석에서 T-peak < 36.0초가 PHEO와 부신피질종양을 구분하는 데 표본상 민감도·특이도 모두 100%로 나타났다(논문 표현대로 'apparent'). AF는 두 부신피질종양군에서 대조군보다 낮았고, PHEO는 부신피질암보다 AF가 더 높았다. AF의 수신자조작특성곡선(AUC)은 0.923였으며, AF > 100.60 mL/min/100 mL 기준이 apparent 85.7% 민감도 및 100% 특이도를 보였다. 단측 종양 17예에서는 종양 대 반대측 AF 비율이 PHEO와 부신피질종양을 완전히 구분했고, AF는 CT의 wash-in 및 washout 지표와 양의 상관, T-peak는 동맥·정맥상에서의 감쇠 백분율 washout과 음의 상관을 보였다. 결론적으로 CTP 기반의 T-peak와 AF는 부신종양 유형에 따라 차이를 보였고 수술 전 보조정보가 될 수 있으나 제시된 판정 임계값은 더 큰 독립 코호트에서 검증이 필요하다는 중요한 제한점이 있다.",
+      "title": "Computed tomography perfusion parameters may aid preoperative differentiation of canine pheochromocytomas from adrenocortical tumors.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-10-02T00:49:56.039Z",
+      "model": "gpt-5-mini"
+    },
+    "42816882": {
+      "brief_summary": "증례보고로, 보호소에서 입양된 5세 수컷 잡종견에서 급성 혈성 설사가 발생한 사례를 통해 Brachyspira hyodysenteriae의 임상적 의미를 조사했다. 실시간 PCR에서 B. hyodysenteriae가 낮은 Ct 값(27.19)으로 검출되었고 Campylobacter coli, C. jejuni, canine astrovirus 및 Cystoisospora도 동시 검출되었다. enrofloxacin, metronidazole, fen벤다졸 치료 후 임상증상은 호전되고 추적 실시간 PCR에서는 모든 검출 병원체가 음성화되어, B. hyodysenteriae가 개의 위장관 질환에 기여할 가능성과 종간 전파·생물안전성 우려를 제기한다. 다만 배양 확인이 이루어지지 않았고 다중 병원체 동시 검출로 인과관계는 확정할 수 없다.",
+      "detailed_summary": "본 연구는 단일 증례보고로, 보호소에서 온 과거 연하기(soft stools)가 있던 5세 수컷 잡종견이 급성 혈성 설사(수성 변, 신선혈 및 섬유성 점액 포함)로 내원한 사례를 기술한다. 기초 검사에서 습윤도말과 분변 부동 검사는 기생충·난충을 보이지 않았으나 분변 도말 세포학에서 chevron 및 나선형을 포함한 다양한 세균 형태가 관찰되었다. 실시간 PCR에서는 Brachyspira hyodysenteriae가 Ct 27.19로 검출되었고 동시에 Campylobacter coli, Campylobacter jejuni, canine astrovirus, Cystoisospora가 검출되었다. 치료로 enrofloxacin, metronidazole, fenbendazole를 투약하였고 혈변은 완전히 소실되었으며 배변 형태도 점차 정상화되었다. 추적 실시간 PCR에서는 이전에 검출된 모든 병원체가 검출되지 않아 임상적 호전과 분자검사 음성화를 확인하였다. 중요한 제한점으로는 병원체 동정에 대한 확정적 배양이 이루어지지 않았고 다중 병원체의 동시 감염이 있어 B. hyodysenteriae와 증상 사이의 인과관계는 확정할 수 없으며, 단일 증례이므로 일반화할 수 없다는 점이 언급되어 있다.",
+      "title": "Brachyspira hyodysenteriae detected in a dog with acute haemorrhagic diarrhoea: a case report.",
+      "journal": "BMC Veterinary Research",
+      "generated_at": "2026-10-02T00:49:32.284Z",
+      "model": "gpt-5-mini"
+    },
+    "42818666": {
+      "brief_summary": "만성 신장병(chronic kidney disease, CKD) 고양이의 항단백뇨 치료에서 벤아제프릴(benazepril)을 고수분·고기호성 신장 식이(약용 사료)에 넣어 수시 섭취하게 한 결과를 보고한다. 약용 사료 섭취는 경구 정제의 1일 1회 투여에 비해 약물 노출은 전반적으로 낮았으나 ACE 억제 효과는 CKD 고양이에서 동등했고 건강한 고양이에서는 더 높았다. 이로 인해 단위 약물 노출당 치료 효과(효율성)는 약용 사료에서 더 우수했으며, 복용 편의성과 치료 효율 개선의 가능성을 제시한다.",
+      "detailed_summary": "연구는 벤아제프릴을 만성 신장병 고양이용 고기호성 신장 식이에 포함시켜 고양이의 수시 섭취로 다회 투여 효과를 대체하려는 시도를 평가했다. 건강한 고양이와 CKD 고양이 모두에서 약용 사료 섭취군을 1일 1회 정제 투여군과 비교하였다. 주요 평가 항목은 전반적인 약물 노출(약물 노출량)과 안지오텐신전환효소(ACE) 억제 정도였다. 결과는 약용 사료에서 약물 노출은 전반적으로 낮았지만 ACE 억제 효과는 CKD 고양이에서는 동등했고 건강한 고양이에서는 더 크게 나타났다. 따라서 단위 약물 노출당 얻는 치료 효과, 즉 효율성은 약용 사료가 1일 1회 정제보다 우수했다는 결론을 제시한다. 연구는 약물 총량보다 시간적 노출 패턴이 중요할 수 있음을 시사하며, 사료가 고양이에게 잘 받아들여질 경우 복약순응도와 치료 효율을 동시에 개선할 수 있는 새로운 전략이 될 수 있음을 강조한다.",
+      "title": "Why incorporating benazepril into a renal diet may improve treatment efficiency and compliance in cats with chronic kidney disease.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-10-02T00:49:21.404Z",
+      "model": "gpt-5-mini"
+    },
+    "42818700": {
+      "brief_summary": "본 후향적 연구는 요천추부 퇴행성 협착증을 가진 개 55마리를 대상으로 메조테라피(리도카인·덱사메타손·미다졸람, MG, n=30), 경막외 PRP(혈소판풍부혈장, PRPG, n=15), 경막외 메틸프레드니솔론 아세테이트(MPG, n=10)를 비교하여 통증 및 기능 개선을 평가했다. 모든 군에서 임상적 유의한 개선이 관찰되었고, PSS(통증강도)와 PIS(통증간섭)에서는 MG와 PRPG가 90일까지 개선을 보였으며 PRPG만이 120일까지 유의한 효과를 유지했다(p=0.03). 모든 군에서 보행 관련 일반 지표는 120일까지 유사한 개선을 보였고, 부작용은 보고되지 않았다.",
+      "detailed_summary": "후향적 관찰 연구로 총 55마리의 개를 세 치료군으로 나누어 각 치료를 15일 간격으로 2회 시행했다. 평가도구로는 Canine Brief Pain Inventory(CBPI)와 Canine Orthopedic Index(COI)를 기초선 및 15, 30, 60, 90, 120일에 측정했고, 정상성 검정(Shapiro–Wilk) 후 그룹 간 비교에는 비모수 검정(Kruskal–Wallis 및 Dunn 사후검정)을 사용하였다. 통계적 유의성 기준은 p<0.05였고 시간-사건 분석은 Kaplan–Meier 추정치를 사용해 제시되었다. 결과는 모든 치료가 임상적으로 의미 있는 개선을 초래했음을 보여주었고, PSS와 PIS에서는 MG와 PRPG가 90일까지 유의한 개선을 유지했으며 PRPG만이 120일까지 유의한 개선을 지속했다(p=0.03). 보행 관련 일반 지표는 세 군 모두 120일까지 유사한 개선을 보였고, 연구 기간 동안 부작용은 보고되지 않았다. 본 연구는 후향적 설계라는 점을 포함한 제한점이 있으며, 초록에 제시된 결과만으로는 인과관계나 장기 안전성에 대한 일반화는 제한적이다.",
+      "title": "Effectiveness of a mesotherapy protocol vs. an epidural injection of platelet-rich plasma or methylprednisolone in degenerative lumbosacral stenosis in dogs - a retrospective study.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-10-02T00:49:10.857Z",
+      "model": "gpt-5-mini"
+    },
+    "42819057": {
+      "brief_summary": "이 연구는 개와 고양이에서 N-acetylcysteine (NAC)의 종특이적 약동학, 임상·실험·in vitro 근거를 체계적으로 검토하여 적응증별 근거 수준을 구분했다. 71편의 보고를 포함한 결과, 고양이·개의 아세트아미노펜(acetaminophen) 중독에 대한 조기 투여 근거가 가장 강했고, NAC는 해독제로서와 상황에 따른 보조치료제로서의 역할이 지지되었다. 반면 개의 전통적 수용액 NAC 약동학은 정의되지 않았고, 많은 투여 스케줄이 용량탐색 연구가 아닌 전문가 합성에 기반해 임상 적용에 주의가 필요하다.",
+      "detailed_summary": "체계적 검토로서 104건의 기존 자료 라이브러리를 재검토하고 2026년 8월 1일까지 PubMed 등 다수 데이터베이스와 인용추적을 업데이트하여 개·고양이의 생체내 연구 또는 개·고양이 유래 조직·세포·임상 분리주 대상의 연구를 포함해 총 71편을 정성적 합성했다. 연구들은 설계별 편향 위험을 평가했으며 이질성이 커서 메타분석은 실시하지 않았다. 주요 결과로는 고양이·개의 아세트아미노펜 중독에 대한 조기 NAC 투여 근거가 가장 강하게 지지되었고, 입원한 개에서의 산화환원(레독스) 회복, 개 파보바이러스성 장염의 보조치료, 만성-급성 악화 신기능 장애가 있는 고양이에서의 단기 정맥 투여 및 일부 안과 국소 적용에 임상적 근거가 있음을 보고했다. 항균·항생물막 활성이 개의 외이염 및 감염성 각막염 병원체에 대해 in vitro에서 재현되었고, 표재성 화농증(superficial pyoderma)에 대한 다성분 국소요법을 지지하는 소규모 임상연구가 있었으나 NAC 고유의 효과와 항미생물제와의 상호작용은 제형에 따라 달랐다. 심폐·신장·간·당뇨 관련 실험적 장기보호 신호는 생물학적으로 일관되지만 임상적으로는 아직 미성숙했고, 반대로 수술중 신경보호, 독소루비신(doxorubicin) 심장보호, 흡입형 치료의 고양이 천식 효과는 중립적이거나 불리한 결과를 보였다. 저자 결론은 NAC를 범용 항산화제로 보는 것은 부적절하며 해독제와 맥락 의존적 보조제로서의 근거를 우선시해야 하고, 향후 연구는 개 약동학, 표준화된 제형, 임상적 의의가 있는 결과지표, 국소 항미생물·신장 적응증의 전향적 검증을 우선할 것을 권고한다.",
+      "title": "From antidote to multimodal adjunct: a systematic review of N-acetylcysteine in dogs and cats.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-10-02T00:48:57.012Z",
+      "model": "gpt-5-mini"
+    },
+    "42819399": {
+      "brief_summary": "본 연구는 래브라도 리트리버의 두개 골격을 대상으로 인간용 두부측정(cephalometric) 분석인 Wylie 분석을 3차원으로 적응·검증해 개의 교합을 정량적으로 평가하려는 목적이다. 2007–2022년 수집한 146개의 머리 CT(DICOM)에서 3D 모델과 30개 표준 해부학적 랜드마크를 사용해 분석했으며, 96두로 기준값을 설정하고 50두로 검증했다. Wylie 점수는 평균적으로 0 근처(SD = 3)를 보여 정상 교합에서 상악·하악 길이 불일치가 거의 없음을 시사했고, ANB 평균 각도는 7.8° ± 1.5°였으며 비율 기반 지표들이 Wylie 점수와 강하게 상관했다. 연구자는 메사티세팔릭 두개골을 대표하는 래브라도 리트리버에 대한 두부측정 기준을 제시하며, Wylie 분석 및 비율 지표들이 임상적 교합 평가의 정량적 방법이 될 수 있음을 제시했다.",
+      "detailed_summary": "연구는 2007–2022년간 수집된 래브라도 리트리버 146두의 머리 CT를 이용해 DICOM 파일로부터 3D 두개 모델을 작성하고, 각 모델에 30개의 표준 해부학적 랜드마크를 배치해 두부측정 분석을 수행했다. 전체 표본 중 96두는 품종별 기준값을 확립하는 표준화(정규화) 코호트로 사용되었고 성적 이형성(sexual dimorphism)과 체중에 따른 등척성(allometric) 영향을 평가한 뒤, 나머지 50두는 Wylie 두부측정 분석의 검증 코호트로 사용되었다. 평가 항목으로는 Wylie 점수를 통한 상악·하악 길이 불일치 정량화, ANB 각도, 안면 각도 분석 및 세 가지 비율 기반 측정(MXPM4:MNM1, MXK9:MNK9, MX:MN)이 포함되었다. 결과적으로 두개안면 측정치는 성적 이형성과 체중과의 등척성 스케일링을 보였고, 정규화군과 검증군 간 유의한 차이는 없었다. Wylie 점수는 평균적으로 0 근처에 군집(SD = 3)해 정상 교합에서 길이 불일치가 최소임을 나타냈고, ANB 평균은 7.8° ± 1.5°였다. 비율 측정의 평균값은 MXPM4:MNM1 = 1.1, MXK9:MNK9 = 0.9, MX:MN = 1.0였고 이들 비율은 Wylie 점수와 강한 상관을 보였다. 저자는 인간용 두부측정 기법을 개에게 적용할 수 있음을 보였고 래브라도 리트리버를 대표 표준으로 하는 3차원 두부측정 기준과 교합 평가의 정량적 방법을 제시했다.",
+      "title": "Adaptation and validation of the Wylie cephalometric analysis for three-dimensional assessment of canine occlusion in Labrador retrievers.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-10-02T00:48:41.375Z",
       "model": "gpt-5-mini"
     }
   }

@@ -1,6 +1,78 @@
 {
-  "updated_at": "2026-10-01T00:34:24.208Z",
+  "updated_at": "2026-10-02T00:48:27.717Z",
   "papers": [
+    {
+      "pmid": "42819399",
+      "title": "Adaptation and validation of the Wylie cephalometric analysis for three-dimensional assessment of canine occlusion in Labrador retrievers.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Kudrna KE, Tu TH, Hetzel SJ, Soukup JW",
+      "date": "2026 10 01",
+      "dateObject": "2026 10 01",
+      "abstract": "In veterinary medicine, we lack a quantitative method for assessment and classification of occlusion. Current systems of occlusion classification are subjective, limiting the ability for precise treatment planning. A medical record search identified 146 head CTs from Labrador Retrievers from 2007-2022. 3D computer models of skulls were created from DICOM files. Thirty standardized anatomic landmarks were placed on each model to perform cephalometric analysis. A cohort of 96 dogs was used to establish breed-specific reference values, with assessment for sexual dimorphism prior to standardization. The remaining 50 dogs served as a validation cohort for the Wylie cephalometric analysis to quantify maxillomandibular length discrepancy. Facial angles analysis and three ratio-based measurements (MXPM4: MNM1, MXK9: MNK9, and MX: MN) were calculated for all samples. Craniofacial measurements showed significant sexual dimorphism and showed allometric scaling with weight. There was no significant difference between normalization and validation groups. Wylie score clustered near zero (SD&#x202f;=&#x202f;3), indicating minimal maxillomandibular discrepancy in dogs with normal occlusion. The mean ANB angle was 7.8&#xb0;&#x202f;&#xb1;&#x202f;1.5&#xb0;. Ratio-based measurements assessing maxillary-to-mandibular relationships were as follows: MXPM4: MNM1 ratio was 1.1, the MXK9: MNK9 ratio was 0.9, and the MX: MN ratio was 1.0 across all individuals. The ratio-based measurements correlated strongly with the Wylie score. Human cephalometric analyses can be adapted for use in canine patients. This study established a reference standard for cephalometric analysis in Labrador Retrievers as a representative of mesaticephalic canine skulls. The Wylie analysis and ratio-based measurements represent a quantifiable method of occlusion assessment.",
+      "categories": []
+    },
+    {
+      "pmid": "42819057",
+      "title": "From antidote to multimodal adjunct: a systematic review of N-acetylcysteine in dogs and cats.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "T&#xf3;th ZT, Tarpataki NK, Nemes-Ter&#xe9;nyi M, Jerzsele &#xc1;, Kerek &#xc1;",
+      "date": "2026 10 01",
+      "dateObject": "2026 10 01",
+      "abstract": "N-acetylcysteine (NAC) is used in small-animal medicine as an antidote, mucolytic, thiol donor, and cytoprotective adjunct, yet its evidentiary basis varies markedly among indications and between dogs and cats. We systematically evaluated species-specific pharmacokinetic, clinical, experimental, and in vitro evidence to distinguish established uses from extrapolated practice. A 104-record legacy evidence library was re-screened, and an update search of PubMed/MEDLINE, Europe PMC, Crossref-resolved publisher records, Google Scholar, selected Hungarian databases and journal archives, and backward/forward citations was completed through 1 August 2026. Eligible reports evaluated NAC in dogs or cats in vivo , or in canine- or feline-derived tissues, cells, or clinical isolates. Risk of bias was appraised with design-specific tools, and findings were synthesized narratively because interventions, models, doses, and outcomes were too heterogeneous for meta-analysis. Seventy-one reports were included in the qualitative synthesis. The strongest evidence supported early NAC administration for feline and canine acetaminophen toxicosis. Controlled or clinically direct evidence also supported redox restoration in hospitalized dogs, adjunctive treatment of canine parvoviral enteritis, short-course intravenous treatment in cats with acute-on-chronic kidney disease and selected topical ophthalmic applications. Antibacterial and antibiofilm activity against canine otitis and infectious-keratitis pathogens was reproducible in vitro , and a small clinical study supported multicomponent topical therapy for superficial pyoderma; however, NAC-specific effects and antimicrobial interactions remained formulation dependent. Experimental cardiopulmonary, renal, hepatic, and diabetic-organ-protection studies yielded biologically coherent but clinically immature signals. Conversely, perioperative neuroprotection, doxorubicin cardioprotection, and nebulized treatment of feline asthma were neutral or unfavorable. Conventional aqueous NAC pharmacokinetics remain undefined in dogs, and many widely quoted dosing schedules originate from expert synthesis rather than dose-ranging trials. NAC is therefore best regarded as an evidence-supported antidote and a context-dependent adjunct, not a generic antioxidant therapy. Future studies should prioritize canine pharmacokinetics, standardized formulations, clinically meaningful outcomes, and prospective validation of topical antimicrobial and renal indications.",
+      "categories": [
+        "internalMedicine",
+        "oncology",
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42818700",
+      "title": "Effectiveness of a mesotherapy protocol vs. an epidural injection of platelet-rich plasma or methylprednisolone in degenerative lumbosacral stenosis in dogs - a retrospective study.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Reis T, Alves JC",
+      "date": "2026 10 01",
+      "dateObject": "2026 10 01",
+      "abstract": "This study aimed to compare the effectiveness of an intradermal mesotherapy protocol, an intra-articular injection of platelet-rich plasma (PRP), and an epidural injection of methylprednisolone in managing degenerative lumbosacral stenosis in dogs. Retrospective study. 55 dogs. The animals were divided into three treatment groups: a mesotherapy group (MG, n = 30) treated with a combination of lidocaine, dexamethasone, and midazolam; a PRP group (PRPG, n = 15) treated with epidural PRP; and a methylprednisolone group (MPG, n = 10) treated with epidural methylprednisolone acetate. All treatments consisted of two sessions spaced 15 days apart. Clinical outcomes were measured using the Canine Brief Pain Inventory (CBPI) and Canine Orthopedic Index (COI) before treatment and at 15, 30, 60, 90, and 120 days post-treatment. The Shapiro-Wilk test was used to check for data normality. Group comparisons at each time point were analyzed using the Kruskal-Wallis H test, followed by Dunn's post-hoc test, p < 0.05. Kaplan-Meier estimators were used to create time-to-event probabilities and curves. All treatments produced clinically significant improvements. The MG and PRPG produced significant improvements in Pain Severity Scores (PSS) and Pain Interference Scores (PIS) scores up to +90d, but only the PRPG maintained these improvements up to +120d ( p = 0.03). All groups produced similar results in general gait up to 120 days. No side effects were recorded for any of the treatments. All three treatments are good options that can be effective, with PRP being the most advantageous, in terms of clinical improvement and duration of effect.",
+      "categories": [
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42818666",
+      "title": "Why incorporating benazepril into a renal diet may improve treatment efficiency and compliance in cats with chronic kidney disease.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Bidaud A, Tardiveau J, Couronn&#xe9; A, Pellet T, Batard A, Frayssinet L",
+      "date": "2026 10 01",
+      "dateObject": "2026 10 01",
+      "abstract": "Treating cats with chronic kidney disease generally requires daily administration of an antiproteinuric drug, which can impact medication compliance with medical outcomes as well as negative implications for the wellbeing of the cat and the owner. In addition, for a given daily dose, benazepril is more effective when administered several times a day but this could increase non compliance. It was therefore conceived to incorporate benazepril into a highly palatable diet for cats with chronic kidney disease, that is, a medicated diet, that the cats could consume throughout the day, with the aim of replacing multiple administrations thanks to the cat's nibbler eating behavior and the slow gastric emptying in cats eating dry food. Our investigation showed that Consumption of the medicated diet led to an overall lower drug exposure in both healthy and CKD cats compared to benazepril once-daily tablets. Nevertheless, the overall efficacy in inhibiting ACE was at least equivalent (CKD cats) and even higher (healthy cats). In both cases, this resulted in greater efficiency (i.e., the amount of desired therapeutic effect produced per unit of drug exposure) of the medicated diet than of conventional once daily tablet administration. More broadly, this observation suggests that the temporal pattern of benazepril exposure may be more important than the total dose administered. Medicated diets may represent a new strategy for improving both compliance and therapeutic efficiency in chronic feline diseases, provided that the diet is well accepted by the cat.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42816882",
+      "title": "Brachyspira hyodysenteriae detected in a dog with acute haemorrhagic diarrhoea: a case report.",
+      "journal": "BMC Veterinary Research",
+      "authors": "Jeong H, Ahn H, Cheon DS, Oh Y, Yoon WK",
+      "date": "2026 10 01",
+      "dateObject": "2026 10 01",
+      "abstract": "Brachyspira hyodysenteriae is a well-known pathogen of swine dysentery, a severe mucohaemorrhagic colitis in pigs. While several Brachyspira species are reported in dogs, natural Brachyspira hyodysenteriae detection in dogs is extremely rare. This case report aims to provide insight into the pathogenic potential and clinical significance of Brachyspira hyodysenteriae in dogs. A 5-year-old male mongrel dog was presented with acute haemorrhagic diarrhoea shortly after being adopted from a shelter, where he had a history of soft stools. The faeces were watery, containing fresh blood and fibrinous mucus. Initial wet mount and faecal flotation tests were negative for parasites or ova, but faecal smear cytology revealed diverse bacterial morphologies, including chevron- and spiral-shaped forms. Real-time PCR identified Brachyspira hyodysenteriae with a low Ct value (27.19), alongside Campylobacter coli, Campylobacter jejuni, canine astrovirus and Cystoisospora. The dog was treated with enrofloxacin, metronidazole, and fenbendazole, leading to complete resolution of haematochezia and gradual normalization of stool consistency. Follow-up real-time PCR confirmed the absence of all previously detected pathogens, and the patient remained asymptomatic. This case suggests that Brachyspira hyodysenteriae, traditionally regarded as a swine-specific pathogen, may contribute to gastrointestinal disease in dogs. However, because confirmatory bacterial culture was not performed and multiple enteropathogens were detected concurrently, a definitive association between Brachyspira hyodysenteriae and the observed haemorrhagic diarrhoea cannot be established. Nevertheless, it highlights the importance of considering Brachyspira hyodysenteriae in unexplained cases of infectious diarrhoea in dogs, particularly regarding mixed infections. These findings also raise concerns regarding potential interspecies transmission and associated biosecurity risks. Further research is warranted to enhance understanding of diagnostic strategies, treatment approaches and antibiotic resistance patterns.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42815455",
+      "title": "Clinical and molecular genetic description of a Marfan-like syndrome in a Golden Retriever puppy.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Lennertz HT, McClosky ME, Fuentes MDM, Niggel JK, Casal ML, Murgiano L",
+      "date": "2026 09 30",
+      "dateObject": "2026 09 30",
+      "abstract": "Marfan syndrome (MFS) is a genetic fibrillin disorder causing cardiac, ocular, and musculoskeletal pathology; it is not well reported on in dogs, with minimal descriptions of antemortem diagnosis. Use whole-genome sequencing (WGS) to diagnose a dog with suspected MFS to guide prognostication and potential treatment. A client-owned, 10-month-old Golden Retriever presented with signs of possible connective tissue disorder. Blood and DNA samples from a non-affected German Shepherd-Beagle mix and 160 unrelated Golden Retrievers were used as controls. Physical examination, blood collection, and radiography were performed on the dog while at the hospital. Whole-genome sequencing was performed on DNA from the affected dog. Genetic analysis focused on single-nucleotide variants, small insertion-deletions, and structural variants to detect potential disease-causing genetic variants in the genome, prioritizing candidate genes. Polymerase chain reaction amplification and Sanger sequencing of a suspected region were carried out to confirm presence of the candidate pathogenic variant. The dog was presented for cardiology consultation and had clinical signs of cardiac enlargement, pneumothorax, and joint hypermobility. After genetic analysis, a 3618 base pair deletion encompassing exon 24 of the FBN1 gene on 1 allele was detected (NC_049251.1:g.14998228_15001846del), likely causing an in-frame deletion in the coding sequence. Physical and complementary examination findings are suggestive of MFS and associated with a causal deletion variant.",
+      "categories": [
+        "cardiology"
+      ]
+    },
     {
       "pmid": "42814655",
       "title": "Melioidosis in dogs and cats: 18 cases.",
@@ -13,6 +85,42 @@
         "internalMedicine",
         "dermatology"
       ]
+    },
+    {
+      "pmid": "42815534",
+      "title": "Computed tomography perfusion parameters may aid preoperative differentiation of canine pheochromocytomas from adrenocortical tumors.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Iida K, Ishigaki K, Ishikawa C, Shiozawa N, Kinpara M, Hayakawa T, Yamaoka S, Yamada N, Wang P, Yoshida O, Kagawa Y, Asano K",
+      "date": "2026 09 30",
+      "dateObject": "2026 09 30",
+      "abstract": "To characterize CT perfusion (CTP)-derived time to highest observed adrenal tissue enhancement (T-peak) and arterial blood flow (AF), evaluate associations with triple-phase CT findings, and assess the diagnostic performance of T-peak, AF, and the tumor-to-contralateral adrenal AF ratio for differentiating pheochromocytomas from adrenocortical tumors. Historical CTP data from 5 healthy Beagles served as controls. Client-owned dogs evaluated from November 21, 2024, through May 31, 2026, underwent triple-phase CT, CTP, adrenalectomy, and histopathology. Time to highest observed adrenal tissue enhancement was the interval from contrast administration to the greatest sampled adrenal attenuation; AF was calculated with a single-input maximum-slope model. 20 dogs with 22 tumors (8 adrenocortical adenomas, 7 adrenocortical carcinomas, and 7 pheochromocytomas [PHEOs]) were included. Time to highest observed adrenal tissue enhancement was longer in both adrenocortical tumor groups than in PHEOs; a post hoc cutoff < 36.0 seconds yielded apparent 100% sensitivity and specificity. Arterial blood flow was lower in both adrenocortical tumor groups than in controls and higher in PHEOs than in adrenocortical carcinomas. Arterial blood flow had an area under the curve of 0.923; a cutoff > 100.60 mL/min/100 mL yielded apparent 85.7% sensitivity and 100% specificity. Among 17 dogs with unilateral tumors, the tumor-to-contralateral AF ratio completely separated PHEOs from adrenocortical tumors. Arterial blood flow correlated positively with CT wash-in and washout indices, whereas T-peak correlated negatively with arterial- and venous-phase percentage enhancement washout. Time to highest observed adrenal tissue enhancement and AF differed among adrenal tumor types and were associated with CT enhancement characteristics. Computed tomography perfusion may provide adjunctive information for preoperative adrenal tumor characterization, but the proposed thresholds require validation in larger independent cohorts.",
+      "categories": [
+        "internalMedicine",
+        "oncology",
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42815528",
+      "title": "Portable blood glucose meters do not reliably detect hypoglycemia in ferrets (Mustela putorius furo) compared with a point-of-care chemistry analyzer.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Rollins K, Rishniw M, Donnelly TM, Kopp L",
+      "date": "2026 09 30",
+      "dateObject": "2026 09 30",
+      "abstract": "To compare blood glucose concentrations measured by a veterinary portable blood glucose meter (v-PBGM; AlphaTrak3; Zoetis Inc), a human portable blood glucose meter (h-PBGM; FreeStyle Precision Neo; Abbott Diabetes Care), and a point-of-care chemistry analyzer (reference analyzer; VetScan VS2; Zoetis Inc) in client-owned ferrets. Residual heparinized jugular venous blood samples from ferrets undergoing unrelated veterinary evaluations were analyzed from June 2025 through April 2026 within 10 minutes of collection. Blood glucose was measured with the h-PBGM and with the v-PBGM using equine, canine, and feline settings. Agreement was assessed by Bland-Altman analysis and at hypoglycemia thresholds of &#x2264; 60 and < 70 mg/dL. 24 client-owned domestic ferrets (Mustela putorius furo) were included. Mean blood glucose concentration by the reference analyzer was 90.8 mg/dL (range, 43 to 157 mg/dL). The h-PBGM had the greatest positive fixed bias. The v-PBGM canine and feline settings showed minimal fixed bias, but all glucometers had wide limits of agreement. At the &#x2264; 60-mg/dL threshold, simple classification agreement was 79% for the canine and feline settings, 75% for the equine setting, and 58% for the h-PBGM. The v-PBGM canine and feline settings agreed more closely with the reference analyzer than did the h-PBGM. However, agreement was insufficient to support diagnosis or management of hypoglycemia based solely on portable glucometer results in ferrets. Low, borderline, unexpected, or treatment-altering blood glucose results should be confirmed with a point-of-care or reference laboratory chemistry analyzer.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42815535",
+      "title": "Progressive regurgitation and sialorrhea in a 6-year-old mixed-breed dog.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Lucioli J, Stefen FBL, Evangelista CM, Crist&#xf3;v&#xe3;o WF, Traverso SD",
+      "date": "2026 09 30",
+      "dateObject": "2026 09 30",
+      "abstract": "",
+      "categories": []
     },
     {
       "pmid": "42813026",
@@ -506,18 +614,6 @@
       "categories": []
     },
     {
-      "pmid": "42790500",
-      "title": "Antibiograms generated in the United States support use of potentiated sulfonamides and intravenous amoxicillin-clavulanic acid when antimicrobials are needed in Escherichia coli canine pyometra.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Marino KN, Buote N, Glass J, Guarino C, Sobkowich K, Szlosek D, Cazer CL",
-      "date": "2026 09 25",
-      "dateObject": "2026 09 25",
-      "abstract": "Evaluate antimicrobial susceptibility patterns among bacterial pathogens isolated from canine pyometra cases and generate a cumulative antibiogram to inform evidence-based treatment recommendations. This observational retrospective study included canine uterine samples submitted for antimicrobial susceptibility testing to Idexx Laboratories and the Cornell University Animal Health Diagnostic Center between 2007 and 2023 in the US. Susceptibility results were interpreted according to current Clinical and Laboratory Standards Institute criteria. Cumulative antibiograms were generated with an interactive app for analysis of diagnostic antimicrobial susceptibility test data (AMR Visualizer; RShiny). Across the 2 laboratories, 6,462 bacterial isolates were included. Escherichia coli was the predominant pathogen (71.7%). Among E coli isolates, poor susceptibility was observed to penicillins, &#x3b2;-lactam/&#x3b2;-lactamase inhibitor combinations, tetracyclines, and chloramphenicol. Excellent susceptibility was maintained to aminoglycosides, third-generation cephalosporins, potentiated sulfonamides, and imipenem. Most E coli isolates were susceptible-dose-dependent to fluoroquinolones and susceptible with increased exposure to intravenous amoxicillin-clavulanic acid. Most canine pyometras are caused by E coli. The in vitro antimicrobial susceptibility patterns of these isolates contribute to understanding resistance trends and support antimicrobial stewardship efforts. Susceptibility should be interpreted in the context of regimens used for breakpoint development. When perioperative antimicrobial therapy of pyometras is appropriate, veterinarians can use antibiograms to assist in selecting an effective and appropriate antimicrobial before susceptibility test results are available. These antibiograms suggest that folate-pathway inhibitors could be effective empiric choices that align with antimicrobial stewardship principles. High-exposure intravenous amoxicillin-clavulanic acid could be an effective choice in regions where the product is available.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
       "pmid": "42787561",
       "title": "A conserved virulence backbone and heterogeneous type III secretion effector profiles in historical canine otitis-associated Pseudomonas aeruginosa from Hungary.",
       "journal": "Frontiers in Veterinary Science",
@@ -704,42 +800,6 @@
       ]
     },
     {
-      "pmid": "42781032",
-      "title": "Interpreting cranial abdominal coverage after caudal epidural local anesthetic administration in dogs and cats.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Nagahama S",
-      "date": "2026 09 24",
-      "dateObject": "2026 09 24",
-      "abstract": "Caudal epidural local anesthetic administration is used in dogs and cats and may be interpreted as contributing to cranial abdominal coverage, but favorable perioperative outcomes do not identify the cranial extent or completeness of the local-anesthetic block. This conceptual analysis distinguishes anatomical distribution, functional attenuation of predefined stimuli, physiological tolerance, and composite perioperative clinical performance. In feline ovarian surgery, 0.3 ml/kg regimens have produced heterogeneous clinical outcomes, whereas target-oriented CT mapping did not show uniform bilateral T10-T11 foraminal reach even with cumulative iohexol volumes of 0.75-1.0 ml/kg. Differences in injectate, dosing sequence, and endpoint preclude a direct dose-response comparison, but the magnitude of this discrepancy makes consistent complete bilateral coverage after 0.3 ml/kg a less plausible explanation for favorable outcomes. Canine data support prospective testing of a 0.6 ml/kg dose-volume regimen; feline data support comparison of 1.0 ml/kg as an adequacy-oriented candidate with 0.75 ml/kg as a lower comparator. Future studies should aim to connect target-oriented anatomical mapping, procedure-relevant functional testing, physiological assessment, and clinical evaluation using closely matched regimens, with any necessary differences made explicit.",
-      "categories": [
-        "surgery"
-      ]
-    },
-    {
-      "pmid": "42780817",
-      "title": "Contents under pressure: vascular proliferation and gliosis in the brains of Cavalier King Charles Spaniels with syringomyelia.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Atkins C, Rusbridge C, Guil-Luna S, D&#xed;az-Santana P, Constantino-Casas F, Salguero FJ",
-      "date": "2026 09 24",
-      "dateObject": "2026 09 24",
-      "abstract": "Vascular and astroglial changes in the central nervous system of Cavalier King Charles Spaniels (CKCS) affected by Chiari-like malformation (CM) and secondary syringomyelia (SM) and ventriculomegaly (VM) are poorly characterised. CM is a developmental malformation of brachycephalic breeds and is a significant welfare concern, especially for CKCS in which this disorder is considered ubiquitous with varying degrees of severity. A frequent sequela of CM is SM and VM, causing a range of neurological clinical signs. Nineteen deceased CKCS diagnosed with CM were donated for the purposes of research, from which two groups were selected for examination: those with SM and VM ( n &#x202f;=&#x202f;13) and those without SM and VM ( n &#x202f;=&#x202f;6). Periventricular tissue samples were collected, processed routinely for histology, and stained with H&E, Martius Scarlet Blue (MSB), and glial fibrillary acidic protein (GFAP). Dogs with SM and VM demonstrated increased angiogenesis (23.62&#x202f;&#xb1;&#x202f;6.79 vs. 11.67&#x202f;&#xb1;&#x202f;4.93 mean blood vessels per 100x magnification field), and increased vessel wall thickness (71.61%&#x202f;&#xb1;&#x202f;5.14 vs. 58.73%&#x202f;&#xb1;&#x202f;6.47 of total vessel diameter) and greater astrocyte activation, indicated by increased GFAP immunoreactivity, what could be associated with chronic pressure trauma and hypoxic insult resulting from altered vascular compliance. These findings provide insight into the pathological mechanisms associated with CM and its sequelae and may inform future investigations into diagnostic biomarkers and therapeutic targets.",
-      "categories": [
-        "neurology"
-      ]
-    },
-    {
-      "pmid": "42780347",
-      "title": "In vitro effects of apigenin, curcumin, and fumaric acid on intracellular ROS and TNF-&#x3b1; responses in Escherichia coli -stimulated canine PBMCs.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "M&#xf3;ritz AV, Pusk&#xe1;s B, Nagy N, Jerzsele &#xc1;, Farkas O",
-      "date": "2026 09 24",
-      "dateObject": "2026 09 24",
-      "abstract": "Chronic inflammatory enteropathy (CIE) is a common gastrointestinal disorder in dogs and is associated with dysregulated inflammatory and oxidative responses, potentially contributing to the development of endotoxemia. The present study investigated the effects of apigenin, curcumin, and fumaric acid on inflammatory and oxidative responses in canine peripheral blood mononuclear cells (PBMCs) under endotoxin- and bacteria-associated stimulation. PBMCs obtained from three healthy donor dogs were exposed to Escherichia coli O111:B4 or O127:B8 lipopolysaccharide (LPS), or to enrofloxacin-treated E. coli , and subsequently treated with the tested compounds. Cellular metabolic activity, LDH release, intracellular reactive oxygen species (ROS), H 2 O 2 production, and TNF-&#x3b1; secretion were assessed. Minimum inhibitory concentration (MIC), mutant prevention concentration (MPC), and fractional inhibitory concentration (FIC) indices were determined to evaluate antimicrobial activity and interactions with enrofloxacin, amoxicillin-clavulanic acid, and gentamicin. None of the tested compounds significantly altered metabolic activity or LDH release under the applied conditions. Curcumin consistently reduced intracellular ROS and H 2 O 2 production under selected stimulated conditions and decreased TNF-&#x3b1; secretion. Apigenin increased DCF-derived intracellular ROS under basal conditions and following lower-intensity O111 LPS stimulation, while reducing H 2 O 2 and TNF-&#x3b1; production under several conditions, indicating a stimulus- and assay-dependent effect on cellular redox responses. Fumaric acid showed more limited, stimulus-dependent effects on oxidative and inflammatory parameters. Antimicrobial activity was also evaluated against four canine septicemic E. coli isolates. Due to limited solubility, the MIC and MPC values of the tested compounds were &#x2265;1,024&#x202f;&#x3bc;g/mL and could not be reliably determined above this concentration. Curcumin showed synergistic interaction with amoxicillin-clavulanic acid only against isolate No. 863, whereas fumaric acid exhibited concentration-dependent antagonism with enrofloxacin. Overall, the findings demonstrate compound- and stimulus-dependent modulation of oxidative and inflammatory responses in canine PBMCs and support further investigation of these compounds in disease-relevant models of endotoxemia and canine CIE.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
       "pmid": "42779179",
       "title": "EXPRESS: Undenatured type II collagen enhances mobility in cats: a randomized placebo controlled cross over field study.",
       "journal": "Journal of Feline Medicine and Surgery",
@@ -835,19 +895,6 @@
         "internalMedicine",
         "oncology",
         "surgery"
-      ]
-    },
-    {
-      "pmid": "42774971",
-      "title": "The epidemiological landscape of canine tumors in central Italy: animal cancer registry insights, distribution patterns, and incidence estimates.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Carnio A, Cocumelli C, Galietta V, Fonti N, Simeoni S, Barberini M, Panetta V, Scaramozzino P, Millanta F, Eleni C, Carvelli A",
-      "date": "2026 09 23",
-      "dateObject": "2026 09 23",
-      "abstract": "Animal cancer registries (ACRs) monitor companion animal tumors, providing essential data for comparative oncology. Sharing domestic environments and possessing compressed lifespans, dogs serve as \"One Health\" environmental sentinels. This study aimed to provide a descriptive analysis of canine neoplasms recorded in the ACR of the Lazio Region (central Italy) over 15-year period (2009-2023) and generate a survey-adjusted crude incidence estimate. Primary tumors were standardized using Vet-ICD-O-canine-1. Proportional Morbidity Ratios (PMRs) were used to evaluate associations between demographic and environmental characteristics and the relative distribution of malignant tumor topographies. Incidence estimates were calculated using an adjusted canine population and corrected tumor counts to account for under-ascertainment. The population denominator was adjusted using a validated 75.3% registry completeness factor to calculate the annual crude incidence estimate. A total of 9,823 primary tumors from 9,122 dogs were included. Malignant tumors accounted for 59.3% of cases. Skin (38.4%), mammary gland (23.2%), and soft tissues (13.3%) were the most frequent topographies. The highest proportion of cases was observed in dogs aged 8-11 years. Among cases, 60.2% were purebred, 58.3% were fed industrial diets, and 49.1% lived primarily indoors. Females accounted for 57.7% of cases, although sex-stratified age-adjusted PMR analysis showed higher proportions of most tumors in males, except for mammary tumors (adj PMR = 46.22; 95% CI: 29.75-71.81). Intact females showed higher PMRs for mammary and female genital organs tumors, whereas spayed females had higher PMRs for hematopoietic, skin, digestive, and nervous system tumors. Higher PMRs for skin tumors were observed in dogs fed industrial diets, while environmental factors showed associations with specific tumor sites, including a higher frequency of skin tumors in outdoor dogs and a higher proportional frequency of mammary tumors in indoor dogs. The estimated crude incidence was 662.1 cases per 100,000 dogs, including 249.4 malignant and 412.7 benign tumors per 100,000 dogs. The ACR represents a valuable tool for monitoring canine cancer and exploring potential determinants of tumor occurrence. The integration of registry and survey data provided adjusted incidence estimates and improved the assessment of tumor burden. The findings support the use of ACRs in epidemiological surveillance and One Health research.",
-      "categories": [
-        "oncology",
-        "dermatology"
       ]
     },
     {
@@ -2016,18 +2063,6 @@
       ]
     },
     {
-      "pmid": "42679217",
-      "title": "Effect of trilostane treatment on proteinuria secondary to spontaneous hypercortisolism in dogs.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Tagliasacchi F, Fracassi F, Poli M, Tomba LD, Golinelli S, Tardo AM, Del Baldo F",
-      "date": "2026 09 01",
-      "dateObject": "2026 09 01",
-      "abstract": "Proteinuria is reported in 68%-71% of dogs with spontaneous hypercortisolism (HC). The long-term effect of trilostane on HC-associated proteinuria remains poorly documented. To evaluate the efficacy of trilostane on proteinuria in dogs with HC and identify potential clinical, anamnestic, and analytical differences between responders and nonresponders. Retrospective longitudinal cohort study including dogs with proteinuric HC treated exclusively with trilostane. Clinical history and laboratory data at diagnosis (T0) were retrieved. When available, urine protein-to-creatinine ratio (UPC), disease clinical score (DCS), blood pressure (BP), and daily trilostane dosage (TD) were recorded at 30, 90, 180, and 365&#xa0;days (T30, T90, T180, and T365) after treatment initiation. Dogs achieving a&#xa0;&#x2265;&#xa0;50% UPC reduction or a final UPC&#xa0;<&#xa0;0.5 were defined as \"responders.\" One hundred sixty dogs met inclusion criteria: 89% had pituitary-dependent HC and 10% adrenal-dependent HC. At diagnosis, 64% were proteinuric. A significant UPC reduction over time occurred (P&#xa0;=&#xa0;.0005; F(4,153.9)&#xa0;=&#xa0;5.26), with statistically significant decreases at T90 (P&#xa0;=&#xa0;.020; difference, 1.093; 95% CI, 0.115-2.071), T180 (P&#xa0;=&#xa0;.031; difference, 1.122; 95% CI, 0.064-2.181), and T365 (P&#xa0;=&#xa0;.002; difference, 1.599; 95% CI, 0.436-2.761) compared to baseline. At the last follow-up, 76 dogs were evaluable; 48% were responders and had lower median DCS, BP, and TD (P&#xa0;=&#xa0;.029, P&#xa0;=&#xa0;.025, and P&#xa0;=&#xa0;.048, respectively) than nonresponders. Trilostane induces a significant and sustained reduction in proteinuria in some dogs with spontaneous HC, evident from 3 months of treatment. Responders exhibit better control of hypertension and clinical signs despite lower TD. Nonresponders account for 52% of proteinuric dogs.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
       "pmid": "42442409",
       "title": "Fecal floatation and KeyScreen polymerase chain reaction optimize Echinococcus multilocularis detection in canine feces for veterinary practice and zoonotic surveillance.",
       "journal": "American Journal of Veterinary Research",
@@ -2098,30 +2133,6 @@
       "abstract": "To compare the frequency of thoracic duct (TD) enhancement, time to enhancement, and quality after metatarsal pad (MTP) and perirectal region (PR) administration of iohexol in cats undergoing CT lymphangiography (CTLA). Purpose-bred, healthy cats underwent 2 sedated CTLA at a veterinary teaching hospital between August and October 2025, during which MTP or PR iohexol was administered in a cross-over, randomized design. Frequency of TD enhancement, time to enhancement, quality of enhancement, and Glasgow Feline Composite Measure Pain Scale scoring were performed upon recovery and at 1, 4, and 7 days after each scan. Bilateral TDs were appreciated in all 7 cats. Seven out of 7 and 6 out of 7 cats after MTP and PR iohexol administration, respectively, achieved TD enhancement. Metatarsal pad administration resulted in superior quality TD enhancement by both subjective grading (median MTP, grade 2 [IQR, 2 to 3]; median PR, grade 1 [IQR, 0 to 2]) and measured HU at T10-T12 (MTP, 452.5 &#xb1; 130.4 HU; PR, 91.17 &#xb1; 19.5 HU). Mild discomfort, which resolved spontaneously within 24 hours of injection without additional treatment, was appreciated in 5 of 7 and 3 of 7 upon recovery after MTP and PR, respectively. Both MTP and PR iohexol administration are safe and effective in cats undergoing CTLA. However, MTP iohexol administration results in superior TD enhancement. Although both MTP and PR iohexol administration effectively highlight individual TD morphology on CTLA in cats, MTP might represent a better choice for understanding the preoperative anatomy of the TD.",
       "categories": [
         "surgery"
-      ]
-    },
-    {
-      "pmid": "42276124",
-      "title": "Clonidine-induced delayed gastric emptying persists despite prokinetic therapy in dogs fed a liquid meal as assessed by acetaminophen absorption.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Akers NM, Harmon AC, Dugas T, Dirikolu L, Gaschen F",
-      "date": "2026 09 01",
-      "dateObject": "2026 09 01",
-      "abstract": "To evaluate the effects of metoclopramide and azithromycin on liquid-phase gastric emptying (GE) in a clonidine-induced delayed GE model using the acetaminophen absorption test (AAT). This was a randomized crossover study of healthy, purpose-bred, mixed-breed dogs performed in a controlled laboratory setting from May through July 2023. Dogs received 1 of 4 treatments 1 hour before ingesting a liquid meal containing 25% of their resting energy requirement and 20 mg/kg acetaminophen: no treatment (control), clonidine (0.03 mg/kg, SC), clonidine plus azithromycin (4 mg/kg, IV), or clonidine plus metoclopramide (0.5 mg/kg, SC). Using high-power liquid chromatography, plasma acetaminophen concentrations were measured in 11 samples collected preprandially and at 10 time points between 0.5 and 24 hours postprandially. Time to peak concentration was used as a proxy for GE time. Results were analyzed by 2-way ANOVA with Sidak post hoc comparisons. 8 intact female dogs were included and received all 4 treatments in a random sequence. All dogs tolerated the AAT procedure well. Clonidine significantly delayed GE, increasing time to peak concentration from 80.6 &#xb1; 15.9 minutes to 187.5 &#xb1; 53.8 minutes. Neither metoclopramide nor azithromycin reversed this delay. The AAT identified delayed liquid-phase GE following clonidine administration. However, at the investigated dosages, metoclopramide and azithromycin did not mitigate clonidine-induced delayed GE. The AAT shows potential as a clinical tool for identifying delayed GE of liquids, particularly in critically ill or postoperative patients.",
-      "categories": [
-        "surgery"
-      ]
-    },
-    {
-      "pmid": "42276123",
-      "title": "Development and validation of a sandwich ELISA for measurement of angiotensinogen in feline urine.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Huang JHC, Louren&#xe7;o BN, Coleman AE, Berghaus LJ, Whitfield-Cargile C",
-      "date": "2026 09 01",
-      "dateObject": "2026 09 01",
-      "abstract": "To develop a sandwich ELISA that measures angiotensinogen concentration in urine samples from domestic cats. Recombinant feline angiotensinogen and antibodies against it were generated by a commercial source. Angiotensinogen protein sequence was confirmed through tandem mass spectrometry. A sandwich ELISA was developed and validated for precision, limit of quantification, dilutional linearity, recovery, and crossreactivity with feline albumin and angiotensin II. Fresh voided urine samples collected from purpose-bred cats (n = 3) and residual urine samples from client-owned cats submitted to a diagnostic clinical pathology laboratory (3) were used for assay development and validation. The assay showed good performance for measuring urinary angiotensinogen within a concentration range of 0.74 to 50 ng/mL. Intra- and interassay coefficients of variation were 8.7% to 18.5% and 19.4% to 29.0%, respectively. Dilutional linearity following 2-time serial dilutions was ideal (R2>0.98), and there was a moderate recovery rate (102.7% to 137.7%). Minimal crossreactivity was observed for albumin and angiotensin II. Urinary angiotensinogen concentrations ranged from 6.03 to 514.24 ng/mL in the samples evaluated using this ELISA. The sandwich ELISA developed offers sufficient sensitivity and minimal crossreactivity for measuring urinary angiotensinogen in cats. Assay precision based on coefficient of variation percentage was deemed acceptable given the magnitude of concentration differences observed between different samples; the assay is not well suited to detect subtle differences in angiotensinogen concentration. Measuring urinary angiotensinogen is an established noninvasive method to evaluate intrarenal renin-angiotensin system activity in humans and rodents. This assay allows for the investigation of this method in cats.",
-      "categories": [
-        "internalMedicine"
       ]
     },
     {
@@ -3062,18 +3073,6 @@
       "date": "2026 07 09",
       "dateObject": "2026 07 09",
       "abstract": "Feline infectious peritonitis (FIP) is a fatal infectious disease caused by feline infectious peritonitis virus (FIPV) which causes death of young cats less than 2 years old. Until now, few drugs are available for treatment of FIP. Here, we developed a modified FIPV expressing eGFP reporter gene by reverse genetics to evaluate the ability of Chinese herbal polysaccharides on inhibition of FIPV infection in Crandell-Rees feline kidney (CRFK) cells. The results demonstrated that the recombinant FIPV could express eGFP reporter gene, replicated in the CRFK cells and grow in a similar way with wild-type FIPV. By using this recombinant FIPV, we found that glycyrrhiza polysaccharide (GPS) effectively inhibited FIPV when added at the same time with virus or post-infection in CRFK cells. Further studies revealed that GPS inhibited FIPV adsorption and replication, but did not affect FIPV internalization in CRFK cells. In the current study, we successfully established a modified FIPV platform which supports high-throughput drug screening in vitro, and we found that GPS is a promising candidate for treating FIP.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42414994",
-      "title": "Off-label use of dapagliflozin in a dog with recurrent calcium oxalate urolithiasis: a case report.",
-      "journal": "BMC Veterinary Research",
-      "authors": "Pakhawala J",
-      "date": "2026 07 07",
-      "dateObject": "2026 07 07",
-      "abstract": "Calcium oxalate (CaOx) urolithiasis is a common and recurrent condition in dogs, typically managed with dietary modification, thiazide diuretics, and potassium citrate. In human medicine, sodium-glucose cotransporter 2 (SGLT2) inhibitors such as dapagliflozin are increasingly used to manage diabetes mellitus and chronic kidney disease and have been shown to alter urinary factors associated with nephrolithiasis. Their effects in veterinary patients, however, remain uncharacterized. This case report describes the novel off-label use of dapagliflozin in a dog with refractory CaOx cystolithiasis despite standard preventive therapies. An 8-year-old neutered male Chihuahua with a history of recurrent CaOx urolithiasis experienced multiple episodes of stone recurrence despite adherence to a therapeutic stone-prevention diet, hydrochlorothiazide, and potassium citrate. Dapagliflozin was initiated off-label as adjunctive therapy to evaluate its potential impact on urinary calcium excretion. Pre- and post-treatment urinalyses and urine calcium-to-creatinine ratios were compared. Following initiation, the dog developed glucosuria, acidic urine, and increased urine specific gravity, while urinary calcium-to-creatinine ratios remained elevated. The medication was discontinued after 12 days due to concerns about underhydration. Short-term SGLT2 inhibition combined with a thiazide diuretic did not reduce hypercalciuria and may increase lithogenic risk if fluid intake is insufficient to offset the osmotic diuresis. This case underscores the importance of hydration monitoring and highlights potential pharmacologic interactions when using SGLT2 inhibitors off-label in dogs. Further controlled studies are needed to elucidate their safety and therapeutic role in managing CaOx urolithiasis in veterinary patients.",
       "categories": [
         "internalMedicine"
       ]
