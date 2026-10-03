@@ -1,6 +1,81 @@
 {
-  "updated_at": "2026-10-03T00:31:15.875Z",
+  "updated_at": "2026-10-03T23:47:12.281Z",
   "papers": [
+    {
+      "pmid": "42827366",
+      "title": "EXPRESS: Evaluation of Left Atrial Reservoir Strain by Two-Dimensional Speckle-Tracking Echocardiography in Cats with Stage B1 Hypertrophic Cardiomyopathy.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "authors": "Algan D, Varlik T, Bach MBT, Gleerup CH, Yilmaz Z, Koch J",
+      "date": "2026 10 03",
+      "dateObject": "2026 10 03",
+      "abstract": "Left atrial reservoir strain (LA S_R), assessed by two-dimensional speckle-tracking echocardiography (2D-STE), reflects left atrial (LA) function and may reveal subtle alterations in LA mechanics in cats with American College of Veterinary Internal Medicine (ACVIM) stage B1 hypertrophic cardiomyopathy (HCM) compared with healthy cats. This study aimed to determine whether LA S_R differs between cats with HCM (stage B1) and healthy cats using 2D-STE. Sixty-one client-owned cats were retrospectively identified and included from medical databases. These cats were classified as healthy controls (Stage A; n=30) or preclinical HCM (Stage B1; n=31) according to ACVIM consensus guidelines. All cats underwent a comprehensive conventional echocardiographic examination, including two-dimensional, M-mode, color Doppler, pulsed-wave Doppler, and tissue Doppler imaging, as part of clinical care or screening protocols. Conventional two-dimensional assessment of LA size and function included the LA/Ao ratio, LA diameter, LA area, LA fractional shortening (LA FS), and LA ejection fraction (LA EF). LA S_R was subsequently measured offline using automated function imaging software. Reproducibility was assessed via intra- and inter-observer intraclass correlation coefficients (ICC). Receiver operating characteristic (ROC) curve analysis was performed to compare the discriminatory performance of LA S_R and the evaluated LA variables between the predefined study groups. Cats with ACVIM stage B1 HCM had significantly lower LA S_R than healthy controls (19.0% [IQR, 14.5-22.0%] vs 38.0% [IQR, 30.25-42.50%], respectively; P < 0.001). LA S_R reproducibility was high with an intra-observer ICC of 0.974 and an inter-observer ICC of 0.894. Assessment of LA S_R was feasible in cats with stage B1 HCM. LA S_R values differed between affected cats and healthy controls, with lower values observed in the affected group and good reproducibility. These findings suggest that LA S_R may provide complementary information on LA function in cats with this stage of disease.",
+      "categories": [
+        "cardiology"
+      ]
+    },
+    {
+      "pmid": "42826750",
+      "title": "Dogs and cats undergoing surgery for penetrating thoracic trauma have high survival despite frequent complications, and imaging may underestimate injury severity.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Pathak N, Lozano B, Wang YW, Berns C, Ahn R, Singh A, Lux CN, Glamann S, Ham K, Dickerson V",
+      "date": "2026 10 02",
+      "dateObject": "2026 10 02",
+      "abstract": "To describe clinical and radiographic findings in dogs and cats with surgically confirmed penetrating thoracic trauma and evaluate associations with outcomes. This retrospective, multicenter observational study reviewed records from 5 referral hospitals to identify dogs and cats with surgically confirmed penetrating thoracic trauma between July 1, 2010, and July 31, 2025. Inclusion required thoracic radiographs, surgical reports, and perioperative records. A total of 86 dogs and 5 cats were identified. Mean animal trauma triage score was higher in nonsurvivors (7.6 &#xb1; 2.4; n = 20) than survivors (5.2 &#xb1; 2.5; 71). Radiographic findings included pneumothorax (73.6%), pulmonary contusions (65.9%), and rib fractures (62.6%). Computed tomography findings often identified more injuries. Time from presentation to surgery did not differ in survivors versus nonsurvivors. Lung lobectomy was performed in 24.2% of patients and was more common in nonsurvivors (45.0% vs 18.3%). Intra- and postoperative complications occurred in 56% and 51.7% of patients, respectively. Survival to discharge was 78.0% (71 of 91 patients), with a median hospitalization of 3.3 days (range, 1 to 12 days). Among 55 patients with follow up, 11 (20%) had complications related to thoracic trauma. Surgical management of penetrating thoracic trauma was associated with a high survival rate despite frequent complications. Animal trauma triage is a useful prognostic indicator. Computed tomography may alter treatment plans. Clinicians should anticipate higher injury severity than anticipated based on routine imaging and examination. Higher animal trauma triage scores were associated with nonsurvival and may provide useful prognostic information. Close monitoring is needed following surgery for penetrating thoracic trauma.",
+      "categories": [
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42826748",
+      "title": "How can veterinary personnel recognize and protect themselves from domestic cats infected with highly pathogenic avian influenza A(H5N1) viruses?",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Durand LO, Olsen SJ, Wendling NM, Uyeki TM, Mirabito G, Shimabukuro TT, Basler CA",
+      "date": "2026 10 02",
+      "dateObject": "2026 10 02",
+      "abstract": "Highly pathogenic avian influenza A(H5N1) viruses circulate globally in wild birds, causing poultry outbreaks and spillover infections in mammals and sporadic human infections. Recent detections in domestic cats highlight occupational risks for veterinarians handling cats in areas where A(H5N1) virus is circulating. Although the potential risk for cat-to-human A(H5N1) virus-transmission is currently low, vigilance is warranted. Veterinarians can use published recommendations to evaluate exposure risks, implement infection control practices, use recommended personal protective equipment, train staff, and coordinate with health officials. The One Health approach can help reduce risks of A(H5N1) virus infection to veterinary staff, cat owners, and other animals.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42826746",
+      "title": "Most cats with a spinal fracture or luxation recover locomotion within 8 weeks of surgery.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Severac L, Piot C, Gibert S, S&#xe9;riot P, Griffeuille E, Cavalerie R, Duni&#xe9;-M&#xe9;rigot A",
+      "date": "2026 10 02",
+      "dateObject": "2026 10 02",
+      "abstract": "To evaluate the surgical management of feline vertebral fractures and luxations, with emphasis on neurological recovery. Cats that underwent surgical management of vertebral fractures and luxations, without prior neurological disease, were retrospectively enrolled in this observational study from March 1, 2012, to December 31, 2024. Collected data included signalment, vertebral injury characterization, surgical technique, postoperative reduction, modified Frankel score, and urinary incontinence progression, outcome, and complications from clinical/radiographic follow-up and telephone survey. Descriptive statistics were used to describe outcomes. 30 cats met the inclusion criteria. Injury locations were lumbar (n = 16), thoracic (9), lumbosacral (4), and cervical (1). Preoperative modified Frankel scores were grade 3 (n = 12), grade 4 (8), grade 2 (4), grade 5 (2), and grade 1 (1). Surgical stabilization techniques primarily involved polymethylmethacrylate with screws (n = 18) or pins (9). At 8 weeks postoperatively, 28 cats were ambulatory. In the long term, 23 cats fully recovered. Grade 5 cats did not show neurological improvement. Among the 28 long-term ambulatory cats, 6 had persistent proprioceptive ataxia and all of these had T3-L3 neuroanatomical lesions. Urinary incontinence persisted in 4 cats. Owner assessment of long-term neurological recovery was good or excellent in 27 of 29 cats. Surgical management was associated with favorable neurological recovery, even when surgery was delayed or postoperative reduction was incomplete. In cats with vertebral fractures or luxations, surgical management should be considered an effective option when spinal instability or cord compression is present, providing that nociception is preserved.",
+      "categories": [
+        "internalMedicine",
+        "surgery",
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "42826745",
+      "title": "Trauma, particularly vehicular strikes, causes substantial years of life lost in dogs and cats.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Sullivan CG, Zersen KM, Pidcoke HF, Hall K",
+      "date": "2026 10 02",
+      "dateObject": "2026 10 02",
+      "abstract": "\"Years of life lost\" (YLL) describes the burden of a given cause of death on a population by measuring the years of remaining life expectancy at the time of death. The objective of this study was to quantify the YLL due to trauma in dogs and cats. In this retrospective descriptive study, fatal traumatic injury data for dogs and cats were obtained from the Veterinary Committee on Trauma registry from September 2013 to April 2025. Life expectancies for cats and 5 size categories of dogs were obtained from previously published life tables. Years of life lost were calculated by subtracting the years lived from the life expectancy. There were 5,980 animals included in this study: 4,083 dogs and 1,897 cats. Traumatic injury resulted in a median loss of 7.03 years in dogs and 8.18 years in cats. This loss equated to 55% of the canine life expectancy and 73% of the feline life expectancy. The traumatic injury subcategories associated with the most YLL were \"injured by falling object,\" \"struck by vehicle,\" \"fall from height,\" \"penetrating bite wound,\" and \"nonpenetrating bite wound.\" American Staffordshire Terriers were an over-represented breed and had a median YLL of 9.51 years, nearly 75% of their life expectancy. Trauma is responsible for a substantial loss of life in dogs and cats. Blunt traumas, particularly being struck by a vehicle, predominate in the total loss of life years. Quantifying YLL provides an additional perspective about the burden of trauma in dogs and cats.",
+      "categories": [
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42826744",
+      "title": "Suspected acrylamide toxicosis associated with ingestion of consumer polyacrylamide-based hydrogel migraine caps, eye masks, and wraps in 45 dogs.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Wegenast C, Haugen A, Waratuke K, Bader R, Spiegelberg S, Wilt B, Kane M",
+      "date": "2026 10 02",
+      "dateObject": "2026 10 02",
+      "abstract": "To describe suspected acute acrylamide toxicosis in dogs following ingestion of consumer polyacrylamide-based hydrogel migraine caps, eye masks, and wraps, and to quantify acrylamide monomer concentrations in associated products. Cases were identified from the American Society for the Prevention of Cruelty to Animals Poison Control's AnTox database (January 1, 2024, through June 1, 2026). Dogs with single product exposures to hydrogel-containing migraine caps, eye masks, or wraps and strong evidence of exposure were included. Analysis focused on 45 dogs with high or medium likelihood of exposure-related effects. Vomiting, tachycardia, seizures, ataxia, and tremors were the most prominent clinical signs across cases. Behavior changes were common and included anxiety, agitation, frantic behavior, restlessness, and aggression. In one dog, behavior consistent with hallucinations was described. Panting, hyperthermia, hyperesthesia, hypotension, and lethargy or depression were also reported. The most common clinicopathologic findings were hypokalemia, hyperglycemia, and hemoconcentration. Management was supportive and included anticonvulsants, muscle relaxants, IV fluids, and electrolyte supplementation. Among 21 dogs with known outcomes, 14 (67%) died or were euthanized. Analysis of polyacrylamide-based hydrogel samples revealed acrylamide monomer concentrations ranging from 12,900 to 51,800 ppm, substantially exceeding expected residual levels and indicating a clinically meaningful risk of acrylamide monomer exposure. Findings were consistent with acute acrylamide toxicosis. Consumer polyacrylamide-based hydrogel products contain variable levels of residual neurotoxic acrylamide monomer and represent a potentially life-threatening source of toxicosis.",
+      "categories": [
+        "internalMedicine",
+        "neurology"
+      ]
+    },
     {
       "pmid": "42825200",
       "title": "Correction: Measuring canine impulsivity: translation and validation of a German dog impulsivity assessment scale.",
@@ -317,16 +392,6 @@
       "date": "2026 10 01",
       "dateObject": "2026 10 01",
       "abstract": "To identify the effects of incline and decline treadmill trotting on forelimb muscle activity in dogs using electromyography (EMG). Data were collected for a prospective within-subject, repeated-measures study in January and February of 2025 where subjects were trotted on a level treadmill, 5% incline, 10% incline, 5% decline, and 10% decline. Surface EMG data were collected bilaterally from the scapular portion of the deltoideus, lateral head of the triceps brachii, and biceps brachii, and fine-wire EMG data were collected from the supraspinatus muscle. Repeated-measures ANOVA tests were conducted followed by post hoc pairwise comparisons when significant main effects were seen (P < .05). Data were collected from 12 adult large-breed dogs. Peak supraspinatus activity increased by 6.5% (95% CI, 0.1% to 11.8%) from 0% to 5% incline and by 5.7% (95% CI, 1.6% to 15.5%) from 5% to 10% incline. Average triceps muscle activity increased by 17.9% (95% CI, 0.6% to 3.7%) from 0% to 10% incline, by 12.5% (95% CI, 1.2% to 5.9%) from 5% to 10% incline, and by 9.3% (95% CI, 1.1% to 1.7%) from 5% to 10% decline. Peak triceps and average deltoideus activity followed similar trends. Biceps brachii activity showed no significant changes. Muscle activities of the supraspinatus, triceps, and deltoideus all exhibited significant changes during incline and/or decline treadmill trotting. The biceps brachii was not significantly affected by any condition tested. The findings support the use of incrementally increasing or decreasing levels of treadmill trotting to progressively load specific forelimb musculature in canine rehabilitation.",
-      "categories": []
-    },
-    {
-      "pmid": "42815535",
-      "title": "Progressive regurgitation and sialorrhea in a 6-year-old mixed-breed dog.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Lucioli J, Stefen FBL, Evangelista CM, Crist&#xf3;v&#xe3;o WF, Traverso SD",
-      "date": "2026 10 01",
-      "dateObject": "2026 10 01",
-      "abstract": "",
       "categories": []
     },
     {
@@ -1439,58 +1504,6 @@
       ]
     },
     {
-      "pmid": "42202865",
-      "title": "Oral fecal microbial transplant for parvovirus in the outpatient setting: a randomized controlled trial to evaluate a practical and low-cost intervention.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Hoel ME, Gimenez AR, Elbe A, Horecka K, Alvarez E, Lashnits E",
-      "date": "2026 09 18",
-      "dateObject": "2026 09 18",
-      "abstract": "To evaluate commercially available oral capsules providing fecal microbial transplant (FMT) as a practical option for adjunctive treatment of canine parvovirus (CPV) in an outpatient setting. We hypothesized that treatment with FMT capsules would improve survival and hasten resolution of clinical signs compared to placebo. This blinded, randomized controlled trial evaluated oral FMT capsules in shelter dogs with CPV treated with an outpatient protocol (September 2022 to August 2024). Eligible dogs were randomized to receive adjunctive FMT or placebo, with 3 dosing regimens assessed. The primary outcome was time to recovery; secondary outcomes included survival, escalation to ICU, and resolution of clinical signs. 101 dogs were enrolled, of which 52 were in the control group and 49 received FMT. Dogs that survived without escalation to ICU-level care in both the control (n = 42) and FMT groups (32) had a median duration to recovery of 5 days (P = .872). There was a 94% (49 of 52) survival rate in the control group compared to 82% (40 of 49) for the group receiving FMT (P = .051); there was no significant difference in survival between groups when controlling for age or weight (OR, 3.18; 95% CI, 0.74 to 17.28; P = .139). There was no evidence that oral FMT capsules hastened recovery or improved short-term survival rate in an outpatient setting. Future work is needed to determine whether oral FMT has negative effects in dogs with CPV. This study provides evidence that oral FMT treatment may not be helpful in the outpatient treatment of CPV.",
-      "categories": [
-        "internalMedicine",
-        "surgery"
-      ]
-    },
-    {
-      "pmid": "42161311",
-      "title": "Frozen section biopsy is a feasible and accurate tool for diagnosing canine and feline oral tumors in a private veterinary oral surgery practice.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Bronko SE, Harvey AM, Bell CM, Soukup JW, Lewis JR, Rice CA, Hetzel SJ, Mendelsohn D",
-      "date": "2026 09 18",
-      "dateObject": "2026 09 18",
-      "abstract": "To determine diagnostic agreement between frozen sectioning (FS) and formalin-fixed, paraffin-embedded (FFPE) tissue-processing methods for veterinary oral tumors and to chronicle the method and time required to perform FS sample processing in a private practice setting. 27 canine and feline oral tumor samples were collected between October 2024 and February 2025 and processed in 2 ways: (1) in-house using FS and (2) conventional FFPE. All biopsies were interpreted by 2 veterinary pathologists, one who read the FFPE samples for normal diagnostic turnaround time, who then blinded and digitized the FS slides for submission to the second pathologist. The final diagnoses for FS and FFPE tissue samples were compared for each tumor. Mitotic count and FS slide quality were also recorded for each sample. Time elapsed between surgical biopsy and completion of FS was recorded. Excellent diagnostic agreement (0.915 [95% CI, 0.775 to 1.0]) was documented in veterinary oral tumors processed with FS and FFPE methods. Poor to moderate agreement was documented between FS and FFPE mitotic counts (0.42 [95% CI, 0.12 to 0.65]). The mean total FS slide processing time was 19.80 minutes (SD, 8.58). High diagnostic concordance was documented in veterinary oral tumors processed with FS and FFPE methods, with results similar to human studies. Slides were processed in a reasonable amount of time. Future study evaluating veterinary oral tumor FS samples using telepathology is warranted. FS should be considered a feasible and accurate tool for intraoperative veterinary oral tumor diagnosis.",
-      "categories": [
-        "oncology",
-        "surgery"
-      ]
-    },
-    {
-      "pmid": "42091070",
-      "title": "Survey of United States-based veterinarians reveals knowledge gaps in coccidioidomycosis and guides future One Health-based educational initiatives.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Ahmed SZ, Sykes JE, Laporte C, Mount R, Schick A, Tater KC, Rishniw M",
-      "date": "2026 09 18",
-      "dateObject": "2026 09 18",
-      "abstract": "Coccidioidomycosis, or Valley fever, is a climate-driven fungal disease. Dogs are valuable sentinels for human disease. We sought to evaluate veterinarian-reported clinical encounters with coccidioidomycosis in dogs and the relative awareness of coccidioidomycosis by veterinarians in endemic versus nonendemic states. Survey responses were solicited from 45,240 veterinarians subscribing to the Veterinary Information Network in June/July 2024. For US-based veterinarians, data were gathered on the number of coccidioidomycosis cases evaluated, recall of education on coccidioidomycosis, and respondent knowledge of diagnostic tests, epidemiology, causative agents, and human exposure. Knowledge responses were averaged to yield an awareness score. Reported case data and continuing education hours were normalized with publicly available population data. For a subset of cases reported from nonendemic states, medical records were reviewed for travel history. Responses were received from 640 veterinarians (365 endemic, 275 nonendemic [response rate, 1.4%]). Median case encounters reported per 100,000 households was 230-fold higher for veterinarians working in endemic states compared to those in nonendemic states. Median awareness scores were low (&#x2264; 50%) in both groups. Most education occurred during veterinary school. There was no difference in practitioner-reported median continuing education hours for endemic versus nonendemic states. All cases for which medical records were reviewed had travel history to endemic regions. Awareness of coccidioidomycosis amongst veterinarians using the Veterinary Information Network was low, especially among nonendemic states. Educational and reporting initiatives are needed to improve disease awareness and recognition by veterinarians, with implications for early recognition of human disease in nonendemic regions.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42055043",
-      "title": "Thoracic radiographs in dogs with gastric dilatation-volvulus rarely affect the decision to proceed with surgery or survival to discharge: a 25-year retrospective study of 176 cases.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Lee J, DeGroot W",
-      "date": "2026 09 18",
-      "dateObject": "2026 09 18",
-      "abstract": "To assess whether thoracic radiographs in dogs with gastric dilatation-volvulus (GDV) are associated with the decision to proceed with surgery and survival to discharge. A retrospective cohort study of dogs with GDV confirmed on right lateral abdominal radiographs at a single referral hospital (Veterinary Emergency Clinic and Referral Centre, Toronto, Ontario) from January 2000 to March 2025. Dogs with thoracic radiographs (or documented interpretation), complete signalment, and survival-to-discharge data were included. Thoracic findings were recorded and evaluated for associations with surgery and survival. Of 176 included dogs, 16 (9.1%) had findings suggestive of aspiration pneumonia and 15 (8.5%) had cardiomegaly. One dog had a solitary soft tissue opacity recorded as a structured interstitial pulmonary abnormality; none had evidence of disseminated pulmonary metastasis. Surgery was performed in 171 of 176 dogs (97.2%), and 162 of 171 (94.7%) survived to discharge. Radiographic findings suggestive of aspiration pneumonia and cardiomegaly were not associated with whether surgery was performed or survival to discharge. In dogs with GDV and documented thoracic radiographs, thoracic radiographic abnormalities were not associated with the decision to proceed with surgery or survival to discharge. Thoracic radiography findings were not associated with surgical decision-making or short-term survival in this cohort, suggesting limitations in the prognostic utility of routine thoracic radiography in dogs with GDV, although thoracic imaging may still provide clinically relevant information in select cases.",
-      "categories": [
-        "internalMedicine",
-        "oncology",
-        "surgery"
-      ]
-    },
-    {
       "pmid": "42750033",
       "title": "Microbiological investigation of conjunctivitis in cats and dogs from Kars, T&#xfc;rkiye (2024-2025): culture- and MALDI-TOF MS-based identification and antimicrobial susceptibility testing of bacterial isolates.",
       "journal": "BMC Veterinary Research",
@@ -2399,16 +2412,6 @@
         "internalMedicine",
         "oncology"
       ]
-    },
-    {
-      "pmid": "42665888",
-      "title": "EXPRESS: Effect of oral gabapentin administered in-hospital on behavioral stress, compliance, and physiologic stress markers: a randomized, double-blind, placebo-controlled trial.",
-      "journal": "Journal of Feline Medicine and Surgery",
-      "authors": "Canosa C, Summers SC",
-      "date": "2026 08 29",
-      "dateObject": "2026 08 29",
-      "abstract": "The aim of the study was to determine whether post-admission oral gabapentin improves stress indices and handling tolerance in hospitalized cats. In this double-blind, randomized, placebo-controlled, parallel-design trial, healthy client-owned cats were enrolled. After initial exam, cats received a 100-mg gabapentin or placebo capsule. At ninety minutes, a second examination, venipuncture, and brief dorsal positioning were performed. Five stress behaviors (struggling, vocalization, repelling, hypersalivation, mouth breathing), compliance, and enclosure activity score (1, sedate; 5, very active) were recorded; blood glucose, lactate, serum cortisol, and lymphocyte count were measured. Serum gabapentin concentrations were obtained 90-minutes post-capsule. Thirty cats (15 cats/group) were included in analysis. In the 15 cats that received gabapentin, median gabapentin dose was 21.7 mg/kg (range, 14.3-28.1 mg/kg), yielding a median serum concentration 16.4 mcg/mL (range, 1.3-24.5 mcg/mL). Most cats gabapentin-treated cats exhibited less stress behaviors (86%; 13/15) and better compliance for handling during examination (73%; 11/15) at 90-minutes post-capsule compared with 20% (3/15) and 26% (4/15), respectively, in placebo cats. Between group differences were not detected for behavioral or compliance scores during venipuncture or dorsal positioning. Enclosure activity scores in the gabapentin group decreased from median 3 at baseline to 2 from 90-360 minutes post dose (120, 240, and 300 minutes; P <0.05, respectively), consistent with mild sedation. Blood lactate and cortisol concentrations were lower in gabapentin group than placebo group (P = 0.002 and P = 0.04, respectively). A 100-mg oral dose of gabapentin provides modest improvement in stress behaviors during examination and favorably alters select physiologic stress markers within 90 minutes of administration, with sustained reductions in kennel activity. Findings support incorporating gabapentin within a multimodal, low stress approach for cats presenting without pre appointment medication, while maintaining contingency plans for additional sedation as needed.",
-      "categories": []
     },
     {
       "pmid": "42663853",

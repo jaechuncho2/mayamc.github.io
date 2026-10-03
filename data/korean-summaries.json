@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T00:33:34.956Z",
+  "updated_at": "2026-10-03T23:48:41.379Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -6295,6 +6295,54 @@
       "title": "Comparison of an Anti-&#x3b1; v &#x3b2; 3 Integrin NIR Fluorescent Probe and Indocyanin Green for Precision Resection of Naturally Occurring Sarcomas in Dogs-A Randomized Blinded Case-Controlled Pilot Study.",
       "journal": "Veterinary and Comparative Oncology",
       "generated_at": "2026-10-03T00:31:59.764Z",
+      "model": "gpt-5-mini"
+    },
+    "42826744": {
+      "brief_summary": "소비자용 폴리아크릴아마이드 기반 하이드로겔(편두통용 캡, 수면안대, 랩) 섭취와 연관된 급성 아크릴아마이드 중독이 의심되는 개 45건을 분석한 보고이다. 구토, 빈맥, 발작, 운동실조 및 떨림과 행동 변화가 흔했고, 결과를 알 수 있는 21마리 중 14마리(67%)가 사망하거나 안락사되었다. 하이드로겔 시료에서 아크릴아마이드 단량체가 12,900–51,800 ppm 검출되어 임상적으로 의미 있는 노출 위험을 시사한다.",
+      "detailed_summary": "사례는 2024-01-01부터 2026-06-01까지 American Society for the Prevention of Cruelty to Animals(ASPCA) 독물통제 AnTox 데이터베이스에서 확인되었으며, 하이드로겔 함유 편두통 캡·수면안대·랩의 단일 제품 노출과 노출 증거가 확실한 개를 포함하였다. 분석은 노출 관련 영향의 가능성이 높거나 중간인 45마리를 중심으로 수행되었다. 주요 임상증상으로는 구토, 빈맥, 발작, 운동실조, 떨림이 가장 두드러졌고, 불안·초조·광란 행동·안절부절·공격성 등의 행동 변화가 흔했으며 한 건에서는 환각과 유사한 행동이 보고되었다. 추가 증상으로는 헐떡임, 고열, 통각과민, 저혈압, 무기력 또는 우울이 보고되었고 검사 소견으로는 저칼륨혈증, 고혈당, 혈액농축이 주로 관찰되었다. 치료는 항경련제, 근이완제, 정맥주사(IV)액 및 전해질 보충 등 지지요법 중심으로 이루어졌다. 결과를 알 수 있는 21마리 중 14마리(67%)가 사망 또는 안락사되었으며, 하이드로겔 시료의 아크릴아마이드 단량체 농도는 12,900–51,800 ppm으로 예상 잔류 수준을 훨씬 초과하였다. 초록의 저자들은 이 소견이 급성 아크릴아마이드 중독과 일치하며 소비자용 폴리아크릴아마이드 기반 하이드로겔 제품이 변동적인 잔류 신경독성 아크릴아마이드 단량체를 포함하여 생명을 위협할 수 있는 중독원임을 시사한다고 결론지었다; 초록에는 별도의 제한점은 명시되지 않았다.",
+      "title": "Suspected acrylamide toxicosis associated with ingestion of consumer polyacrylamide-based hydrogel migraine caps, eye masks, and wraps in 45 dogs.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-10-03T23:48:41.360Z",
+      "model": "gpt-5-mini"
+    },
+    "42826745": {
+      "brief_summary": "본 연구는 개와 고양이에서 외상으로 인한 '잃어버린 기대수명(years of life lost, YLL)'을 정량화하는 것을 목적으로 한 후향적 기술 연구이다. Veterinary Committee on Trauma 등록자료(2013년 9월–2025년 4월)를 이용해 사망한 5,980마리(개 4,083마리, 고양이 1,897마리)를 분석한 결과, 외상으로 인한 중앙값 YLL은 개에서 7.03년, 고양이에서 8.18년으로 각각 전체 기대수명의 약 55%와 73%에 해당했다. 결론적으로 외상, 특히 차량 충돌 등 둔외상(blunt trauma)은 개와 고양이의 상당한 기대수명 손실을 초래하며 YLL 지표는 외상의 부담을 평가하는 추가적 관점을 제공한다.",
+      "detailed_summary": "연구는 Veterinary Committee on Trauma 등록자료를 후향적으로 분석한 기술 연구로, 2013년 9월부터 2025년 4월까지의 치명적 외상 사례를 포함했다. 대상은 총 5,980마리로 개 4,083마리와 고양이 1,897마리였고, 개는 5개 크기 범주(size categories)로 분류된 기대수명과 고양이의 기대수명을 기존 생명표에서 확보했다. YLL은 사망 시점의 기대수명에서 실제로 살았던 연수를 뺀 값으로 산출했다. 주요 결과로 외상으로 인한 중앙값 YLL은 개 7.03년(전체 기대수명의 55%), 고양이 8.18년(전체 기대수명의 73%)이었다. 외상 하위범주 중 '낙하물에 의한 부상', '차량에 치임(struck by vehicle)', '높이에서의 추락', '관통성 물림(penetrating bite wound)', '비관통성 물림(nonpenetrating bite wound)'이 YLL에 가장 크게 기여했으며, American Staffordshire Terrier는 과대표집되어 중앙값 YLL이 9.51년(약 기대수명의 75%)이었다. 초록에는 구체적 제한점이 명시되지 않았으며, 연구는 외상으로 인한 기대수명 손실의 규모를 제시하는 데 의의를 둔다.",
+      "title": "Trauma, particularly vehicular strikes, causes substantial years of life lost in dogs and cats.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-10-03T23:48:24.169Z",
+      "model": "gpt-5-mini"
+    },
+    "42826746": {
+      "brief_summary": "후향적 관찰연구로 척추골절 및 탈구가 있는 고양이의 수술적 치료와 신경학적 회복을 평가했다. 총 30마리 중 8주째에 28마리가 보행 가능했으며 장기적으로는 23마리가 완전 회복했다. 수술적 안정화는(폴리메틸메타크릴레이트(PMMA)와 스크류 또는 핀 사용) 지연 수술이나 수술 후 정복이 불완전한 경우에도 대체로 유리한 신경학적 회복과 관련되었다. 척추 불안정성 또는 척수압박이 있고 통각(nociception)이 보존된 경우 수술적 치료를 고려할 수 있음을 시사한다.",
+      "detailed_summary": "2012-03-01부터 2024-12-31 사이에 기존 신경학적 질환이 없는 척추 골절·탈구 고양이를 후향적 관찰연구로 등록하여 수술적 치료 결과를 분석했다. 대상은 30마리로 손상 부위는 요추 16, 흉추 9, 요천추(lumbosacral) 4, 경추 1이었다. 수집한 항목은 신호표지, 손상 특성, 수술 기법, 수술 후 정복 정도, modified Frankel 점수(사전 점수: grade 3 n=12, grade 4 n=8, grade 2 n=4, grade 5 n=2, grade 1 n=1), 요실금 경과 및 임상·방사선 추적과 전화 설문 결과였다. 수술 기법은 주로 PMMA와 스크류(n=18) 또는 핀(n=9)을 이용한 고정이었고, 수술 후 8주에는 28마리가 보행을 회복했으며 장기적으로는 23마리가 완전 회복했다. Grade 5로 분류된 고양이들은 신경학적 개선을 보이지 않았고, 장기 보행 가능 고양이 28마리 중 6마리는 지속적인 고유수용성 실조를 보였으며 이들 모두가 T3–L3 병변이었다. 요실금은 4마리에서 지속되었고, 소유주 평가에서 장기 신경학적 회복은 29마리 중 27마리에서 ‘좋음’ 또는 ‘우수’로 보고되었다. 결론적으로 수술적 관리가 전반적으로 유리한 신경학적 결과와 연관되었으나 본 연구는 후향적 관찰 연구라는 점에서 해석 시 제한이 있음을 유의해야 한다.",
+      "title": "Most cats with a spinal fracture or luxation recover locomotion within 8 weeks of surgery.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-10-03T23:48:10.640Z",
+      "model": "gpt-5-mini"
+    },
+    "42826748": {
+      "brief_summary": "이 논문은 가정 고양이에서 검출된 고병원성 조류인플루엔자 A(H5N1) 바이러스와 관련해 임상 수의사가 위험을 인지하고 스스로를 보호하는 방법을 제시한다. 최근 고양이 검출 사례가 수의사들의 직업적 노출 위험을 높일 수 있음을 지적하고, 고양이→사람 전파 가능성은 현재 낮지만 경계가 필요하다고 결론지었다. 노출 평가, 감염관리 실천, 권장 개인보호장비(PPE) 사용, 직원 교육 및 보건당국과의 협력을 권장하며 One Health 접근법을 통해 수의진료진·소유주·다른 동물의 위험을 낮출 수 있다고 제안한다.",
+      "detailed_summary": "초록은 전 세계 야생조류 내 A(H5N1) 순환과 가금류 유행, 그리고 최근 가정 고양이에서의 검출을 배경으로 임상 수의사들의 직업적 위험 인식과 보호 대책을 논의하는 권고적 논문임을 제시한다. 연구 설계는 초록에 구체적으로 명시되어 있지 않으며, 기존 권고사항과 지침을 바탕으로 한 종합적 논의·권고로 보인다. 주요 대상은 A(H5N1) 바이러스가 순환하는 지역에서 고양이를 진료·취급하는 수의사와 진료 팀이다. 주요 권장 항목은 노출 위험 평가, 감염관리 실천, 권장 개인보호장비(PPE) 사용, 직원 교육, 그리고 보건당국과의 연계이다. 초록은 현재 고양이로부터 사람으로의 전파 가능성은 낮다고 평가하면서도 경계와 예방 조치가 필요하다고 강조한다. 초록 자체에는 구체적 수치, 사례 수, 또는 자세한 연구설계·정량적 위험 추정이 제시되어 있지 않음을 명시하고 있다.",
+      "title": "How can veterinary personnel recognize and protect themselves from domestic cats infected with highly pathogenic avian influenza A(H5N1) viruses?",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-10-03T23:47:56.966Z",
+      "model": "gpt-5-mini"
+    },
+    "42826750": {
+      "brief_summary": "후향적 다기관 관찰연구로, 흉부 침습성 외상을 수술로 확인 받은 개 86마리와 고양이 5마리(총 91마리)를 대상으로 임상·방사선 소견과 예후 연관성을 평가했다. 전체 퇴원 생존율은 78.0%(71/91)였고, 수술 전 동물 외상 분류 점수(Animal Trauma Triage score, ATT)가 비생존군에서 유의하게 높았다(평균 7.6±2.4 vs 5.2±2.5). 흉부 방사선에서 기흉(73.6%), 폐 타박상(65.9%), 늑골 골절(62.6%)이 흔했고, CT는 종종 방사선보다 더 많은 손상을 확인하여 치료계획에 영향을 줄 수 있었다. 수술 후 합병증이 빈번했으나 전반적으로 수술적 치료로 높은 생존율을 보였으므로 주의 깊은 모니터링이 권고된다.",
+      "detailed_summary": "본 연구는 2010년 7월 1일부터 2025년 7월 31일까지 5개 의뢰 병원 기록을 후향적으로 검토한 다기관 관찰연구이다. 포함 기준은 흉부 방사선, 수술 소견 및 주변 기록을 갖춘 흉부 침습성 외상에서 수술로 확인된 증례였다(개 86마리, 고양이 5마리, 총 91마리). 주요 평가 항목은 방사선 및 CT 소견, 수술 및 합병증 발생, 동물 외상 분류 점수(ATT)와 생존성 등이다. 방사선 소견으로는 기흉 73.6%, 폐 타박상 65.9%, 늑골 골절 62.6%였고 CT는 종종 추가 손상을 확인하였다. 폐엽 절제술은 전체의 24.2%에서 시행되었고 비생존군에서 더 흔했다(45.0% vs 18.3%). 수술 전 ATT는 비생존군에서 평균 7.6±2.4(비생존 n=20)로 생존군 5.2±2.5(생존 n=71)보다 높았고, 수술 중·후 합병증 발생률은 각각 56.0% 및 51.7%였다. 결론적으로 수술적 관리에도 합병증이 흔했으나 퇴원 생존율은 78.0%로 비교적 높았고, ATT는 예후 지표로 유용하며 CT가 치료계획을 변경할 수 있으므로 방사선 소견만으로 손상 정도를 과소평가하지 말고 수술 후 면밀한 관찰이 필요하다.",
+      "title": "Dogs and cats undergoing surgery for penetrating thoracic trauma have high survival despite frequent complications, and imaging may underestimate injury severity.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-10-03T23:47:45.359Z",
+      "model": "gpt-5-mini"
+    },
+    "42827366": {
+      "brief_summary": "후향적으로 선별된 61마리의 고객 소유 고양이(정상 대조 30마리, ACVIM stage B1 비대성 심근증(HCM) 31마리)를 대상으로 2차원 스펙클-트래킹 심초음파(2D-STE)를 이용해 좌심방 저장 스트레인(LA S_R)을 비교한 연구다. Stage B1 HCM 고양이는 정상 대조군보다 LA S_R이 유의하게 낮았으며(중앙값 19.0% [IQR 14.5–22.0%] vs 38.0% [IQR 30.25–42.50%], P < 0.001), 측정의 재현성도 높게 보고되었다(내관찰자 ICC 0.974, 관찰자 간 ICC 0.894). 저자들은 LA S_R이 이 병기 고양이에서 좌심방 기능에 대한 보완적 정보를 제공할 수 있다고 결론지었다.",
+      "detailed_summary": "이 연구는 의료 데이터베이스에서 후향적으로 선정된 61마리의 고객 소유 고양이를 대상으로 수행되었으며, ACVIM 합의 지침에 따라 정상(Stage A, n=30)과 전임상 HCM(Stage B1, n=31)으로 분류하였다. 모든 대상 고양이는 2차원, M-모드, 컬러 도플러, 펄스파 도플러 및 조직 도플러 영상을 포함한 표준 심초음파 검사를 받았고, 좌심방 크기 및 기능은 LA/Ao 비율, LA 직경, LA 면적, LA fractional shortening(LA FS) 및 LA ejection fraction(LA EF)으로 평가되었다. 핵심 평가지표인 좌심방 저장 스트레인(LA S_R)은 자동화 기능 이미징 소프트웨어를 사용해 오프라인으로 측정되었고, 이 변수의 판별력 비교를 위해 ROC 곡선 분석이 수행되었다. 주요 결과는 Stage B1 HCM 고양이의 LA S_R이 정상군보다 현저히 낮았다는 점(중앙값 19.0% vs 38.0%, P < 0.001)이다. LA S_R 측정은 임상에서 실현 가능했으며 재현성도 높아 내관찰자 ICC 0.974, 관찰자 간 ICC 0.894를 보였다. 연구 결론은 LA S_R이 이 병기 고양이의 좌심방 기능에 대한 보완적 정보를 제공할 수 있다는 것이며, 초록에는 별도의 제한점 기술은 제시되지 않았다.",
+      "title": "EXPRESS: Evaluation of Left Atrial Reservoir Strain by Two-Dimensional Speckle-Tracking Echocardiography in Cats with Stage B1 Hypertrophic Cardiomyopathy.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "generated_at": "2026-10-03T23:47:23.278Z",
       "model": "gpt-5-mini"
     }
   }
