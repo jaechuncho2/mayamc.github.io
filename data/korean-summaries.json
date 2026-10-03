@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T00:50:10.231Z",
+  "updated_at": "2026-10-03T00:33:34.956Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -1353,6 +1353,14 @@
       "generated_at": "2026-07-28T00:21:42.916Z",
       "model": "gpt-5-mini"
     },
+    "42335959": {
+      "brief_summary": "12마리의 성체 대형견을 대상으로 경사(0%, 5%, 10% 상승/하강) 러닝머신 트로팅이 전지 근육의 전기생리(EMG)에 미치는 영향을 평가한 연구로, 슈프라스피나투스(supraspinatus)의 최고 활동도가 상승 경사에서 유의하게 증가했고(trend 수치 있음), 삼두근(triceps)과 삼각근(deltoideus)도 경사 변화에 따라 활동도가 증가하는 경향을 보였으며 이두근(biceps)은 유의한 변화가 없었다. 임상적 의미는 경사/하강을 단계적으로 증가·감소시켜 특정 전지 근육에 점진적 부하를 주는 재활운동으로 활용할 수 있다는 점이다.",
+      "detailed_summary": "이 연구는 2025년 1–2월에 수행된 전향적 동일 대상 반복 측정 디자인으로, 동일한 12마리의 성체 대형견을 대상으로 수평(0%), 5% 및 10% 상승, 5% 및 10% 하강 러닝머신에서 트로팅하며 EMG를 측정했다. 표면 EMG는 견갑부 부분의 deltoideus, 삼두근(lateral head of triceps brachii), 이두근(biceps brachii)에서 양측으로 수집했고, supraspinatus는 파인와이어(fine-wire) EMG로 측정했다. 통계는 반복측정 ANOVA를 사용하고 유의한 주효과에 대해 사후 비교를 수행했으며 유의수준은 P < .05였다. 주요 수치 결과로 supraspinatus의 최고 활동도는 0%에서 5% 상승 시 6.5% 증가(95% CI, 0.1%–11.8%)했고 5%에서 10% 상승 시 5.7% 증가(95% CI, 1.6%–15.5%)했다. 평균 삼두근 활동은 0%에서 10% 상승 시 17.9% 증가(95% CI, 0.6%–3.7%), 5%에서 10% 상승 시 12.5% 증가(95% CI, 1.2%–5.9%), 그리고 5%에서 10% 하강 시 9.3% 증가(95% CI, 1.1%–1.7%)했으며 최고 삼두근 및 평균 deltoideus 활동도 유사한 경향을 보였다. 결론은 supraspinatus, triceps, deltoideus의 근활동이 경사/하강 트로팅에서 유의하게 변했으며 biceps는 영향이 없었다는 것이고, 저자들은 이를 근재활에서 특정 전지 근육에 점진적 부하를 가하는 용도로 활용할 수 있다고 제시했다. 초록에는 연구의 제한점이 별도로 기술되어 있지 않다.",
+      "title": "Incline and decline treadmill trotting produce electromyographic changes in specific canine shoulder muscle activity: implications for therapeutic exercise.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-10-03T00:33:26.598Z",
+      "model": "gpt-5-mini"
+    },
     "42337529": {
       "brief_summary": "본 연구는 고양이 범백혈구감소증 바이러스(FPV)와 개 파보바이러스(CPV)의 유전자별 뉴클레오타이드 조직을 다층적으로 비교하여 두 바이러스의 진화적 역학을 규명하는 것을 목적으로 했다. 비동의 자리에서는 높은 보존성과 Ka/Ks 패턴을 통한 강한 정화선택(purifying selection)이 관찰된 반면 동의 자리에서는 변이가 더 컸고, CpG 다뉴클레오타이드는 네 유전자에서 모두 현저히 저발현되었다. 또한 동의 코돈 사용 편향, 코돈 인접 뉴클레오타이드 맥락, 코돈 쌍 사용 등의 비무작위적 최적화가 관찰되었고, 구조 단백질 유전자(VP1·VP2)는 비구조 유전자보다 코돈 편향과 tRNA 적응도가 높았으며 CPV 유전자는 고양이 숙주에 대해 개 숙주보다 더 큰 번역 적응을 보였다. 이는 단백질 기능을 유지하면서 숙주 적응을 위해 뉴클레오타이드 조직을 활용한다는 점을 시사한다.",
       "detailed_summary": "연구는 CPV와 FPV의 네 유전자에 대해 다층적 뉴클레오타이드 분석을 수행하는 비교유전체적 접근으로 설계되었다. 분석 대상은 구조 단백질 유전자(VP1·VP2)와 비구조 유전자를 포함한 네 유전자였고, 주요 평가 항목은 비동의·동의 자리의 변이, Ka/Ks, CpG 빈도, 동의 코돈 사용, 코돈 인접 맥락, 코돈 쌍 사용 및 tRNA 적응도였다. 결과적으로 비동의 자리에서는 뉴클레오타이드 사용이 매우 보존되어 Ka/Ks가 정화선택을 지시했으며 동의 자리에서는 상대적으로 변동성이 컸다. 모든 유전자에서 CpG 다뉴클레오타이드가 현저히 저발현되었고, 동의 코돈 사용 편향 및 코돈 인접 맥락·코돈 쌍의 비무작위적 편향이 광범위하게 관찰되어 자연선택과 염기 조성 제약의 영향을 반영했다. 구조 유전자(VP1·VP2)는 비구조 유전자보다 코돈 사용 편향이 강하고 tRNA 적응도가 높았으며, CPV 유전자는 고양이 숙주에 대해 개 숙주보다 더 큰 번역 적응을 보였다. 저자들은 이러한 결과가 두 파보바이러스가 필수 단백질 기능을 유지하면서 숙주 적응을 위해 유연한 뉴클레오타이드 조직을 활용함을 보여준다고 결론지었으나, 초록에는 표본 수나 지리적·계통적 범위 등 구체적 제한점은 명시되어 있지 않다.",
@@ -1401,12 +1409,36 @@
       "generated_at": "2026-07-28T00:20:10.183Z",
       "model": "gpt-5-mini"
     },
+    "42341817": {
+      "brief_summary": "임상적으로 정상인 비글 4마리(후지 8개)를 대상으로 트로팅 중 후지 신전근의 활성화 시기를 표면 근전도(EMG)와 3차원 동작 분석을 이용해 특성화하고, SwV(스윙 수직 모멘트)와 StV(스탠스 수직 모멘트)라는 운동학적 사건을 기준으로 해석 가능성을 평가했다. 근활성화는 개체내·개체간 및 좌우 대칭에서 상당한 변동성을 보였으나, 외측광근(vastus lateralis)은 활성화 지연이 잦고 중둔근(middle gluteal)은 스탠스 중 일찍 활동을 종료하는 등 근군 간 일관된 특징이 관찰되었다. 연구자는 SwV와 StV 같은 사건 기반의 시간 기준이 EMG 해석에 유용하며 사지별 신경근 평가와 사건 기반 시계열 분석을 지지한다고 결론지었다.",
+      "detailed_summary": "연구 설계는 관찰적 탐색 연구로, 임상적으로 정상인 비글 4마리의 8개 후지를 대상으로 표면 근전도(EMG, 1,000 Hz)와 3차원 모션 캡처(240 Hz)를 동기화해 비구속(overground) 트로팅을 기록했다. 측정 근육은 중둔근(middle gluteal), 외측광근(vastus lateralis), 대퇴이두근(biceps femoris), 비복근(gastrocnemius)이었고, 임계값 기반으로 근전도 시작과 종료 시점을 산정했다. 연구진은 두 가지 운동학적 사건인 SwV(스윙 수직 모멘트)와 StV(스탠스 수직 모멘트)를 활성화 시점의 기준으로 정의하여 해석하였다. 결과는 근활성화 패턴에 대해 개체 간 및 개체 내(좌우 대칭 포함)에서 상당한 변동성을 보였음을 보고했고, 그럼에도 불구하고 외측광근은 비교적 빈번한 활성화 지연을, 중둔근은 스탠스 중 이른 활동 종료를 보이는 등의 근군 간 일관된 경향이 관찰되었다. 대부분의 후지에서 근의 활성화 시작은 SwV와 접지(touchdown) 사이에 집중되었고, 활동 종료는 StV 이후에 일어났다. 저자들은 이러한 결과가 사지별 신경근 평가와 사건 기반의 시간 기준을 이용한 임상적·연구적 보행 분석 및 재활 계획에 시사점을 줄 수 있다고 제시했으며(observational exploratory study임을 명시), 표본수가 4마리(8개 후지)인 소규모 관찰 연구라는 점을 감안해야 한다고 결론지었다.",
+      "title": "Hind limb extensor muscle activation timing during trotting in Beagles shows limb-specific variability and can be referenced to kinematic events swing vertical moment and stance vertical moment.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-10-03T00:33:12.157Z",
+      "model": "gpt-5-mini"
+    },
+    "42341827": {
+      "brief_summary": "CT 영상을 이용해 컴퓨터 지원 설계(CAD) 소프트웨어 기반 측정과 다평면 재구성(MPR) 기반 측정의 요골(radial) 각도 및 관찰자 내 신뢰도를 비교한 후향적 연구이다. 오른쪽 흉지(앞다리) 10개를 대상으로 CAD와 MPR의 전두면(근위/원위), 시상면, 토션(회전) 평면에서 측정을 시행했으며 CAD의 시상면 및 원위 전두면 측정 신뢰도가 우수(excellent)했고 MPR는 시상면에서 중등도(moderate), 원위 전두면에서 낮음(poor)을 보였다. CAD와 MPR 간 일치도는 모든 평면에서 낮았고(비등), CAD 기반 측정은 MPR 기반 측정과 동등하거나 더 높은 신뢰도를 보였다는 임상적 의미가 있다.",
+      "detailed_summary": "연구는 2018-01-01부터 2023-03-01 사이에 촬영된 정상 개의 흉지 CT 영상을 후향적으로 수집해 분석했다. 비교 대상은 컴퓨터 지원 설계(CAD) 소프트웨어와 다평면 재구성(MPR)으로 얻은 요골 기하학(전두면: 근위/원위, 시상면, 토션 평면) 측정치였고, 한 명의 관찰자가 각 측정을 3회 반복했다. 중앙값 근위 전두면 각도는 CAD에서 3.6°(IQR -0.7°~6.2°, 외반[valgus])였고 MPR에서는 -6.8°(IQR -8.9°~-5.3°, 내반[varus])로 보고되었다. CAD의 시상면 및 원위 전두면 측정 신뢰도는 '우수'였으나 MPR는 시상면에서 '중등도', 원위 전두면에서 '낮음'으로 평가되었고, 근위 전두면 및 토션 측정에 대해서는 CAD와 MPR 간 신뢰도 차이가 없었다. CAD와 MPR 간 측정값의 일치도는 모든 평면에서 낮았으며, 근위 전두면 값의 차이는 사용된 해부학적 기준의 차이 때문으로 해석되었다. 초록 자체에는 추가적 제한점이 자세히 명시되어 있지 않으며, 저자들은 CAD 유도 측정이 MPR 유도 측정과 동등하지 않을 가능성을 강조하고 있다.",
+      "title": "Measurements of radial angulation using computer-aided design software provide equal or superior reliability to multiplanar computed tomographic reconstruction in dogs.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-10-03T00:33:02.956Z",
+      "model": "gpt-5-mini"
+    },
     "42343995": {
       "brief_summary": "9세 거세 수컷 단모종 고양이에서 진행성 우측 후지 절룩임으로 내원하여 진단 및 치료를 시행한 증례보고이다. 방사선 및 CT(컴퓨터단층촬영)에서 대퇴 원위부 반막근(semimembranosus muscle)에 부분적 석회화를 동반한 종괴가 확인되었고, 조직검사와 최종 병리에서 근내 골연골종(osteochondroma)으로 진단되었다. 주변부 절제(marginal excision) 후 고양이는 정상활동으로 회복하였고 보고 시점에서 3년째 재발 소견 없이 건강하게 지내고 있어, 단단한 근내 종괴의 감별진단으로 근내 골연골종을 고려할 필요가 있음을 시사한다.",
       "detailed_summary": "대상은 9세 거세 수컷 단모종 고양이 1두로, 진행성 우측 골반지 절룩임과 우측 슬관절 내측의 촉통성 종괴를 주소로 내원했다. 전혈구검사(CBC)와 혈액생화학검사는 정상 소견이었고, 방사선 및 CT에서 대퇴 원위부 수준의 종괴와 반응성 근육 비대 및 국소 석회화가 관찰되었다. 절개생검에서는 골연골종, 골연골증(osteochondromatosis), 연골종(chondroma)이 감별로 제시되었으며, 이후 종괴를 주변부 절제 방식으로 외과적 제거하였다. 최종 조직병리검사는 근내 골연골종(intramuscular osteochondroma)에 합치되었다. 수술 후 환축은 정상 활동으로 회복하였고, 보고 시점에서 3년 동안 재발 없이 생존 중이었다. 본 증례는 고양이에서 반막근 위치의 근내 골연골종을 보고한 최초 사례로서, 단일 증례라는 제한으로 일반화는 불가하지만 임상에서 단단한 근내 종괴의 감별진단에 이 질환을 포함시킬 근거를 제공한다.",
       "title": "Lameness caused by intramuscular osteochondroma in semimembranosus muscle in a male cat.",
       "journal": "JFMS Open Reports",
       "generated_at": "2026-07-28T00:19:56.540Z",
+      "model": "gpt-5-mini"
+    },
+    "42349497": {
+      "brief_summary": "이 후향적 다기관 횡단연구는 조직학적으로 확인된 간경변이 있는 개 8마리와 간 질환이 없는 개 121마리를 대상으로 비조영 컴퓨터단층촬영(CT)에서 측정한 간 부피와 간 실질 감쇠도(HPA)를 비교했다. 간경변군은 체중으로 정규화한 간 부피, HPA 및 HPA:비장 감쇠도(SPA) 비율이 유의하게 낮았다(예: 간 부피 16.5 ± 4.5 vs 22.8 ± 5.3 cm3/kg; HPA 47.3 ± 9.6 vs 58.8 ± 6.2 HU). 일부에서는 결절성 실질 변화, 후천성 문맥계 문합, 복수 소견도 관찰되었다. 저자들은 CT 기반 정량 지표가 간경변 인식을 보조할 수 있으나, 간 부피 감소만으로 진단해서는 안 된다고 결론지었다.",
+      "detailed_summary": "연구는 후향적 다기관 횡단 설계로 조직학적으로 확인된 간경변 개 8마리와 간 질환이 없는 개 121마리를 비교하였다. 비조영 CT 영상을 사용해 수동으로 간 용적(부피)을 측정하고 이를 체중으로 정규화했으며, 표준화된 간 실질 감쇠도(HPA)와 비장 실질 감쇠도(SPA)를 측정했다. 간경변군의 평균 간 부피/체중 비율은 16.5 ± 4.5 cm3/kg로 정상군 22.8 ± 5.3 cm3/kg보다 유의하게 낮았고(평균차 -6.3 cm3/kg; 95% CI -10.1 to -2.5; P = .002). HPA도 간경변군에서 47.3 ± 9.6 HU로 정상군 58.8 ± 6.2 HU보다 낮았으며(평균차 -11.5 HU; 95% CI -16.1 to -6.9; P = .001), HPA:SPA 비율도 0.8 ± 0.1 vs 0.9 ± 0.1로 유의하게 낮았다(P = .03). 질적 CT 소견으로는 결절성 실질 변화가 4마리, 후천성 문맥계 문합이 2마리, 복수가 3마리에서 보고되었다. 결론적으로 CT 기반의 정량적 지표는 개의 간경변 인식을 도울 수 있으나, 연구 대상의 간경변군이 8마리로 제한적이며 감소된 간 부피만으로는 진단적 근거가 되지 않는다는 점을 저자들이 강조했다.",
+      "title": "Computed tomographic liver volumetry and hepatic attenuation in dogs with histologically confirmed cirrhosis compared with dogs without liver disease.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-10-03T00:32:52.678Z",
       "model": "gpt-5-mini"
     },
     "42357746": {
@@ -1719,6 +1751,14 @@
       "title": "Development and Physicochemical Stability of an Oral GS-441524 Suspension for Weight-Adjusted Treatment of Feline Infectious Peritonitis.",
       "journal": "Veterinary Medicine and Science",
       "generated_at": "2026-07-27T10:57:43.472Z",
+      "model": "gpt-5-mini"
+    },
+    "42379217": {
+      "brief_summary": "무작위, 맹검, 대조 연구에서 8주령 비글 강아지 40마리를 20마리씩 배정해 단회 경구용 생약독화 Bordetella bronchiseptica (Bb) 백신 Vanguard B Oral을 투여한 후 7일째 공기중 유력 Bb로 도전하여 면역 발현을 평가했다. 백신군은 대조군에 비해 2일 연속 기침 발생률(20% vs 85%), 기침 관찰 비율(3.2% vs 15.8%), 기침 지속기간(2.4일 [95% CI 1.0–3.7] vs 5.5일 [95% CI 4.1–6.8])과 총 임상점수(중위수 15.0 vs 27.0)가 유의하게 낮았다. 결론적으로 Vanguard B Oral은 투여 7일 만에 유의한 보호면역을 안전하게 유도했다.",
+      "detailed_summary": "연구는 2022년 수행된 무작위·맹검·대조 실험으로, 8주령 비글 강아지 40마리를 백신군(20마리)과 위약군(20마리)으로 나누어 0일에 단회 경구 투여를 시행했고 7일째에 에어로졸 방식의 유력 Bordetella bronchiseptica (Bb)로 도전했다. 임상 관찰은 도전 전후로 정기적으로 시행되었고 고막 온도 측정 및 혈청응집법(마이크로플레이트) 항체역가를 -12, 0, 6, 21일에 채취했다. 주요 결과는 기침 관련 지표와 총 임상점수로, 2일 연속 기침 발생은 대조군에서 17/20(85%)였고 백신군에서는 4/20(20%)였으며 기침 관찰 기간 비율은 각각 15.8% 대 3.2%였다. 기침 지속기간은 백신군이 2.4일(95% CI 1.0–3.7)로 대조군의 5.5일(95% CI 4.1–6.8)보다 짧았고, 총 임상점수 중위수도 백신군 15.0 vs 대조군 27.0으로 유의하게 낮았다. 안구·비점액 배출을 제외했을 때도 임상점수 차이는 유의했으며, 백신은 경미한 임상징후만 산발적으로 나타나 안전한 것으로 평가되었다. 전반적으로 저자들은 Vanguard B Oral이 투여 7일 만에 유효한 보호면역을 유도했다고 결론지었다.",
+      "title": "Oral administration of a live-attenuated Bordetella bronchiseptica vaccine (Vanguard B Oral) induces protective immunity against challenge 7 days after vaccination in dogs.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-10-03T00:32:34.227Z",
       "model": "gpt-5-mini"
     },
     "42381034": {
@@ -6199,6 +6239,62 @@
       "title": "Adaptation and validation of the Wylie cephalometric analysis for three-dimensional assessment of canine occlusion in Labrador retrievers.",
       "journal": "Frontiers in Veterinary Science",
       "generated_at": "2026-10-02T00:48:41.375Z",
+      "model": "gpt-5-mini"
+    },
+    "42819905": {
+      "brief_summary": "이 문서는 미국 내 개에서의 Trypanosoma cruzi (T. cruzi) 감염 유병률에 관한 2000–2024년 관찰 연구들을 대상으로 한 체계적 문헌고찰 및 메타분석 논문에 대한 정정 기사입니다. 초록에는 정정 사실(원문 DOI: 10.3389/fvets.2025.1658198)을 알리는 내용만 있으며 연구의 핵심 결과나 정정된 구체적 내용은 제시되어 있지 않습니다. 임상 수의사는 정정 내용과 원문을 직접 확인해 진단·관리상의 적용 가능성을 판단해야 합니다.",
+      "detailed_summary": "이 자료는 'Prevalence of Trypanosoma cruzi (T. cruzi) infection in dogs in the United States: a systematic review and meta-analysis of observational studies (2000-2024)' 논문에 대한 정정 기사입니다. 초록에는 단지 해당 논문의 DOI(10.3389/fvets.2025.1658198)를 정정한다는 문구만 포함되어 있으며, 정정의 구체적 항목이나 변경된 자료는 제공되지 않습니다. 따라서 이 정정 초록만으로는 연구 설계의 세부사항, 포함된 대상 수, 주요 평가 항목, 유병률 수치 또는 통계적 결과의 방향성을 파악할 수 없습니다. 임상적 의미나 권고사항 역시 초록에 제시되어 있지 않으므로 과장하거나 인과관계를 추정해서는 안 됩니다. 정정의 내용과 원 논문의 자세한 결과 및 한계는 해당 저널의 정정문(Erratum)과 원문을 확인해 확인해야 합니다.",
+      "title": "Correction: Prevalence of Trypanosoma cruzi infection in dogs in the United States: a systematic review and meta-analysis of observational studies (2000-2024).",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-10-03T00:33:34.939Z",
+      "model": "gpt-5-mini"
+    },
+    "42820725": {
+      "brief_summary": "52마리의 고양이를 대상으로 좌심실벽두께(LVWT)를 측정할 때 포함하는 심내막 경계 수가 측정값에 미치는 영향을 평가했다. 심실간중격(IVS)에서 leading edge-to-trailing edge(L-T)는 중앙값 5.5 mm [IQR 3.8–7.2]로 가장 크게, trailing edge-to-leading edge(T-L)는 IVS 4.3 mm [IQR 3.4–6.2] 및 좌심실 자유벽(LVFW) 4.8 mm [IQR 3.4–6.2]로 가장 작게 측정되어 방법에 따라 약 1.2 mm 차이가 관찰되었다 (P < .001). 이 결과는 LVWT 측정 시 포함할 심내막 경계 수를 표준화해야 한다는 임상적 시사점을 제공한다.",
+      "detailed_summary": "단일 기관의 후향적 횡단 연구로, 이전에 정상·애매·비대성 심근병증(HCM) 표현형으로 분류된 52마리의 고양이를 대상으로 하였다. 3명의 관찰자가 심실간중격(IVS)에는 L-L, L-T, T-L, T-T의 4가지 측정법을, 좌심실 자유벽(LVFW)에는 L-L 및 T-L 방법을 사용해 저장된 심초음파 영상에서 측정을 수행했으며, 영상은 2명의 관찰자가 2회에 걸쳐 측정하였다. 통계 분석으로는 Friedman 검정과 Bonferroni 보정이 적용된 사후 Wilcoxon 서명순위 검정을 사용하였다. 주요 결과는 IVS에서 L-T 방법의 중앙값이 5.5 mm [IQR 3.8–7.2]로 가장 크고, T-L 방법이 IVS 4.3 mm [IQR 3.4–6.2] 및 LVFW 4.8 mm [IQR 3.4–6.2]로 가장 작아 방법 간 유의한 차이(P < .001)가 있다는 것이었다. L-T가 T-L보다 IVS에서 중앙값 기준 약 1.2 mm 크게 측정되었다. 결론은 LVWT가 포함하는 심내막 경계 수에 따라 달라지므로 측정법의 표준화가 필요하다는 것이며, 본 연구는 단일 기관의 후향적 교차설계라는 제한점을 가진다.",
+      "title": "Influence of including or excluding endocardial borders on left ventricular wall thickness measurements in cats.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-10-03T00:32:19.193Z",
+      "model": "gpt-5-mini"
+    },
+    "42823068": {
+      "brief_summary": "다기관 후향적 연구에서 총 27마리의 개를 대상으로 인간의 propriospinal myoclonus(PSM) 유사 증상을 기술하고자 하였다. 증상은 주로 젊은 개(중앙값 발병 연령 9개월)에서 눕는 자세에서 주로 골반(후지) 팔다리의 신전성 근간대(myoclonus)가 반복적으로 나타났고 신경학적 검사상 정상 소견을 보였다. 영상검사에서 PSM과 관련된 이상 소견은 대부분 관찰되지 않았고, 59%는 무치료였으며 그중 절반 이상에서 증상 빈도의 자연감소가 관찰되어 임상적으로 자발호전이 흔할 수 있다.",
+      "detailed_summary": "연구는 온라인으로 증례를 모집한 다기관 후향적 증례 시리즈로, 머리 관여 없이 사지와 몸통에 근간대 증상이 있는 의심 PSM 증례 27마리를 포함했다. 중앙값 발병 연령은 9개월(범위 2–44개월)이었고 모든 개에서 골반(후지) 근간대가 관여했으며 흉부(앞)사지 14/27(52%), 몸통 9/27(33%)에서 추가 관여가 있었다. 골반사지 근간대는 모두 신전성(extensor)이었고, 삽화는 모두 체중비지지(recumbency) 자세에서 주로 측와(25/27, 93%)와 흉와(12/27, 44%)에서 관찰되었으며 의식 변화는 없었다(정상 정신상태). 신경학적 검사상 이상은 없었고, MRI는 일부(뇌·척수 각각 6마리 정도 검사)에서 시행되어 5/6마리에서는 관련 이상 소견이 없었고 남은 1마리의 소견도 PSM과 관련없음으로 보고되었다. 치료는 27마리 중 11마리가 다양한 항경련제(antiseizure medications)를 시작했고 그중 5/11(45%)에서 호전이 있었으며, 치료하지 않은 16마리 중 9/16(56%)에서는 증상 빈도가 자발적으로 감소하였다. 결론적으로 의심되는 PSM은 주로 젊은 개에서 발생하고 원인 불명(일차성·특발성)으로 보이며 눕는 자세에서 후지의 신전성 근간대가 특징이고 자발호전이 흔할 수 있다는 점이 임상적으로 중요하다. 한계로는 후향적 설계, 온라인 모집에 따른 선택편향 가능성 및 소수에서만 영상검사가 시행되었다는 점이 있다.",
+      "title": "Phenotypic characterization of presumptive propriospinal myoclonus in young dogs (2013-2025).",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-10-03T00:32:08.501Z",
+      "model": "gpt-5-mini"
+    },
+    "42824097": {
+      "brief_summary": "증례보고로, 3년 6개월수컷 중성화 믹스견(치와와×미니어처 닥스훈트)의 재발성 림프관 기형(lymphatic malformation)에 대해 수술 절제 후 조기 재발이 관찰되어 반복적으로 미노사이클린(minocycline) 경화요법을 시행한 결과 대형 낭성 병변이 소실되거나 억제되어 수술만으로 조절이 어려운 병변의 장기 국소 조절이 535일 추적기간 동안 관찰되었다. 병변은 이전 수술 후 재발했고 장기간 프레드니솔론(prednisolone) 투여에도 증대하였으며, PIK3CA 핫스팟에 대한 암플리콘 기반 타깃 심층 시퀀싱에서 병원성 변이는 검출되지 않았다. 이 증례는 반복적인 미노사이클린 경화요법이 최소침습적 치료 옵션이 될 수 있음을 시사한다는 임상적 의미를 가진다.",
+      "detailed_summary": "설계는 단일 증례보고이며 대상은 3년 6개월령 중성화 수컷 혼합견(치와와×미니어처 닥스훈트)이다. 좌측 서혜부 및 음경주위의 재발성 림프관 기형으로 타 병원에서 수술 절제 후 조기 재발을 보였고, 장기간 프레드니솔론 투여에도 병변이 점차 확대되어 보행장애와 활동 감소를 초래했다. 저자들은 광범위 외과적 절제를 시행했으나 수술 후 조기 재발이 관찰되어 재발 낭성 병변에 대해 반복적으로 미노사이클린 경화요법을 시행하였다. 치료 결과 대형 낭성 병변은 소실되거나 억제되어 병변 진행의 장기 억제가 이루어졌고, 소량의 잔존 병변은 남았으나 535일 추적 시 활동성과 보행에 뚜렷한 악화 없이 유지되었다. 유전학적 평가는 PIK3CA 핫스팟에 대한 암플리콘 기반 타깃 심층 시퀀싱에서 병원성 변이를 확인하지 못했다는 점이 보고되었다. 결론적으로 저자들은 반복적 미노사이클린 경화요법이 수술만으로 조절이 어려운 개의 림프관 기형에 대한 잠재적 최소침습 치료법이 될 수 있음을 제시하였으나, 단일 증례라는 점이 중요한 제한점으로 남는다.",
+      "title": "Case report: Long-term local control of recurrent lymphatic malformations using minocycline sclerotherapy following surgical resection in a dog.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-10-03T00:31:49.725Z",
+      "model": "gpt-5-mini"
+    },
+    "42824553": {
+      "brief_summary": "이 논문은 개의 점액변성 승모판막 질환(MMVD)에서 개심(심폐우회술 하) 승모판막 수복(OMVR)과 경도관 엣지-투-엣지 수복(TEER, V‑Clamp)을 비교·종합한 내러티브 리뷰로, 환자 선택을 위한 프레임워크를 제안한다. OMVR은 10년 이상의 임상 경험과 1,000마리 이상의 보고 기반을 가지며 수술 생존율이 모든 임상 단계에서 99%를 넘는 반면, V‑Clamp TEER는 2020년 이후 등장해 최대 코호트에서 시술 성공률이 96–97%이고 주요 센터에서 2년 전체 생존율이 67%로 보고되었다. 저자들은 ACVIM 단계, 승모판 해부, 체구, 동반질환, 센터 경험 등을 통합한 선택 기준을 제시하며, 센터별 경험과 각 기법의 한계를 포함한 정직한 보호자 상담을 강조한다.",
+      "detailed_summary": "저자들은 문헌을 종합한 내러티브 리뷰를 통해 개에서 시행 가능한 두 가지 외과적 치료법(OMVR 및 V‑Clamp TEER)을 비교하고 환자 선별 프레임워크를 제안했다. OMVR은 심폐우회술 하의 개심 승모판막 수복으로 10년 이상의 임상 경험과 1,000마리 이상의 보고가 있으며, 모든 임상 단계에서 수술 생존율이 99%를 초과한다고 보고되었다. 장기 사망 위험은 연령, 체중, 품종 및 폐혈관 상태에 따라 달라지는 것으로 기술되었다. V‑Clamp TEER는 2020년 이후 도입되어 여러 임상 코호트에서 급성 시술 가능성이 최대 코호트에서 96–97%로 보고되었고, 1년간의 혈류역학 및 심장 재형성 개선과 선도 센터에서의 2년 전체 생존율 67%가 보고되었다. 그러나 결과는 환자 선별, 해부학적 적합성, 시술자 학습 곡선에 따라 센터별로 다르게 나타나며, 증거의 성숙도와 보고된 성과 지표가 달라 직접적인 수치 비교는 주의가 필요하다. OMVR은 더 완전한 승모판 역류(MR) 감소를 달성하는 반면, V‑Clamp는 덜 침습적인 이중 구멍(double-orifice) 수복으로 중간 수준의 혈역학적 효과를 보이고 유의한 잔여 MR이 있을 경우 효과가 일부 감소할 수 있다. 제안된 선별 프레임워크는 ACVIM 단계, 승모판 해부, 체구, 동반질환 부담 및 센터 경험을 통합하며, 임상적으로는 센터별 경험과 각 옵션의 한계를 포함한 정직한 보호자 상담을 우선할 것을 권고한다.",
+      "title": "When to consider mitral valve surgery in dogs: a comparative review of open mitral valve repair and transcatheter edge-to-edge repair with a proposed selection framework.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-10-03T00:31:41.567Z",
+      "model": "gpt-5-mini"
+    },
+    "42825200": {
+      "brief_summary": "이 문서는 DOI 10.3389/fvets.2026.1869578에 해당하는 원논문에 대한 정정 공지이다. 원논문은 개의 충동성 측정을 위해 '독일어 개 충동성 평가 척도'(German Dog Impulsivity Assessment Scale)를 번역·검증한 연구이다. 초록에는 정정의 구체적 내용이 명시되어 있지 않아, 임상가는 정확한 수정사항을 확인하기 위해 정정된 원문을 직접 확인해야 한다.",
+      "detailed_summary": "해당 문건은 앞서 발표된 'Measuring canine impulsivity: translation and validation of a German dog impulsivity assessment scale' 논문(doi:10.3389/fvets.2026.1869578)에 대한 정정이다. 제목으로부터 원논문은 독일어로 된 개 충동성 평가 도구의 번역 및 타당화 연구임을 알 수 있다. 본 정정 초록 자체에는 어떤 부분(데이터, 분석, 저자 표기 등)이 수정되었는지에 대한 구체적 설명이 포함되어 있지 않다. 따라서 임상가는 정정 내용의 세부를 파악하기 위해 정정된 원문 또는 저널의 정정 공지를 열람해야 한다. 원논문의 주제가 평가 도구의 번안 및 검증인 점을 고려하면, 정정 사항이 해당 척도의 신뢰도·타당도나 임상 적용에 영향을 미칠 가능성이 있으므로 도구 사용 전 확인이 필요하다. 최신 버전의 논문과 DOI를 확인해 임상 적용 시 혼선을 피할 것을 권고한다.",
+      "title": "Correction: Measuring canine impulsivity: translation and validation of a German dog impulsivity assessment scale.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-10-03T00:31:28.704Z",
+      "model": "gpt-5-mini"
+    },
+    "42825706": {
+      "brief_summary": "이전향적 무작위 배정된 블라인드 파일럿 연구로, 자연발생성 육종을 가진 개 20마리를 대상으로 인도시아닌그린(ICG)과 표적 항-αvβ3 인테그린 형광 프로브를 비교하여 수술 중 형광유도수술(FGS)의 정확성을 평가했다. 항-αvβ3 프로브군에서 위양성 신호가 적게 관찰(3/10 vs 9/10)되었고, 포르말린 고정 조직에서 종양 대 배경비(TBR)가 유의하게 높았다(5.3 vs 2.6, p=0.016). 두 프로브 모두 형광 영역과 조직학적 종양 범위의 상관은 강했으나(DC 0.78 vs 0.64), 초기 결과는 항-αvβ3 프로브가 ICG보다 더 종양 선택적일 수 있음을 시사한다.",
+      "detailed_summary": "연구 설계는 무작위 배정된 블라인드 증례-대조 파일럿 연구로, 수술 전 ICG(그룹1) 또는 항-αvβ3 인테그린 표적 프로브(그룹2)를 투여한 후 FGS를 시행하였다. 대상은 자연발생성 육종으로 수술을 받은 개 20마리(각 군 10마리)였다. 주요 평가항목은 위양성·위음성 비율, 종양 대 배경비(TBR), 형광 영역과 조직학적 종양 확장의 상관을 평가한 Dice 계수(DC) 및 FGS에 따른 절제 범위 변경의 임상적 영향이었다. 위양성 신호는 ICG군에서 9/10 마리, 표적 프로브군에서 3/10 마리로 차이를 보였고, 피부 수준 평균 TBR는 표적 프로브에서 더 높았으며 포르말린 고정 조직에서는 유의하게 높았다(5.3 vs 2.6, p=0.016). 형광 신호와 조직학적 종양 범위의 상관은 ICG군 DC=0.64, 표적군 DC=0.78로 두 군 모두 비교적 강했다. FGS에 의해 추가 종양 조직을 절제한 경우는 표적군이 3/10, ICG군이 1/10으로 표적 프로브에서 더 빈번했다. 결론적으로 초기 결과는 항-αvβ3 프로브가 ICG보다 종양 선택성이 높음을 시사하지만, 본 연구는 파일럿 성격의 예비 연구임을 고려해야 한다.",
+      "title": "Comparison of an Anti-&#x3b1; v &#x3b2; 3 Integrin NIR Fluorescent Probe and Indocyanin Green for Precision Resection of Naturally Occurring Sarcomas in Dogs-A Randomized Blinded Case-Controlled Pilot Study.",
+      "journal": "Veterinary and Comparative Oncology",
+      "generated_at": "2026-10-03T00:31:59.764Z",
       "model": "gpt-5-mini"
     }
   }
