@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T23:48:41.379Z",
+  "updated_at": "2026-10-04T23:59:02.694Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -6343,6 +6343,46 @@
       "title": "EXPRESS: Evaluation of Left Atrial Reservoir Strain by Two-Dimensional Speckle-Tracking Echocardiography in Cats with Stage B1 Hypertrophic Cardiomyopathy.",
       "journal": "Journal of Feline Medicine and Surgery",
       "generated_at": "2026-10-03T23:47:23.278Z",
+      "model": "gpt-5-mini"
+    },
+    "42827602": {
+      "brief_summary": "본 연구는 2015–2024년 단일 기관의 후향적 분석으로, 불완전 절제 또는 경계절제된 고양이 육종 66건을 대상으로 블레오마이신 단독 전기화학요법(ECT)의 무병생존기간(DFI)을 평가하였다. 고등급군(43마리, 평균 ECT 2회)의 중앙 DFI는 389일이었고 저등급군(23마리, ECT 1회)은 중앙 DFI에 도달하지 않아 두 군 간 차이가 통계적으로 유의하였다. 연구진은 블레오마이신 단독 ECT가 수술 단독에 비해 DFI를 향상시킨다고 보고하였다.",
+      "detailed_summary": "연구 설계는 단일 기관의 후향적 증례집단 연구이며, 2015년 3월부터 2024년 7월까지 수술 후 ECT로 치료받은 고양이 육종 66마리를 포함했다. 표준화된 고양이 육종 등급 체계가 없었기 때문에 연구진은 주로 유사분열 수(mitotic count)를 기준으로 고등급과 저등급으로 층화하였다. 치료는 정맥내 블레오마이신 주사와 수술 흉터를 따라 흉터 부위에 피하 주사를 2:1 비율로 시행한 뒤, 흉터 및 주변 2 cm 조직에 대해 전기천자(ECT)를 시행하였다. 전기파형은 8개의 양극성 파형, 펄스 지속시간 100 마이크로초(µs), 반복주파수 1 Hz, 펄스 강도 1,200 V/cm로 보고되었다. 고등급군(43마리)은 평균 2회의 ECT를 받았고 중앙 DFI는 389일이었으며, 저등급군(23마리)은 단일 ECT로 중앙 DFI에 도달하지 않아 두 군 간 DFI 차이는 통계적 유의성이 있었다. 저자들은 본 연구가 고양이에서 블레오마이신 단독 ECT를 평가한 최초의 연구이며, 이 치료가 불완전 또는 경계절제된 육종의 DFI 개선과 연관이 있음을 보고하였다. 제한점으로는 후향적 설계와 표준화된 등급 체계 부재에 따른 층화 기준을 사용한 점이 명시되어 있다.",
+      "title": "A retrospective study on cats with incompletely or marginally excised sarcomas treated with a bleomycin-only electrochemotherapy protocol: 66 cases.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-10-04T23:59:02.683Z",
+      "model": "gpt-5-mini"
+    },
+    "42828236": {
+      "brief_summary": "본 증례보고는 뇌내 혈관육종(hemangiosarcoma, HSA)으로 진단된 고양이 1두의 임상 소견, 자기공명영상(MRI) 소견, 조직병리 및 사후 뇌의 육안 소견을 기술한다. 고양이에서 HSA는 내피세포 기원의 고악성 종양으로 드물며 비혈액계 종양의 <2%를 차지한다. 개에서는 HSA가 뇌로 전이되는 경우가 흔하게 보고되지만, 고양이의 뇌내 관여는 매우 희귀해 이전에 전이된 증례가 한 건만 보고되어 있다. 임상적으로는 드문 진단이므로 의심되는 경우 영상검사와 조직병리가 중요함을 시사한다.",
+      "detailed_summary": "연구는 단일 증례보고로, 뇌내 혈관육종(HSA)으로 진단된 고양이의 임상 증상, MRI 영상 소견, 조직병리학적 결과 및 부검 시 관찰된 뇌의 육안 변화들을 기술하였다. HSA는 내피세포 기원의 고악성 종양으로 고양이에서는 드물게 보고되며 비혈액계 종양의 <2%를 차지한다고 설명하였다. 고양이의 HSA는 피부형(dermal)과 장기형(visceral)으로 분류되며 두 형태 모두 전이 가능성이 있다고 기술되었다. 저자들은 개에서는 HSA가 뇌로 전이되는 대표적 종양으로 알려진 반면, 고양이의 뇌내 관여는 극히 드물어 문헌상 이전에 전이된 증례가 단 한 건뿐이라고 언급하였다. 본 증례에서는 임상 소견과 MRI 및 조직병리 소견, 부검 소견을 종합하여 뇌내 HSA의 특성을 보고하였으나 구체적 수치나 치료·예후 정보는 제시되지 않았다. 단일 증례라는 점과 희귀성으로 인해 결과를 일반화할 수 없으며, 의심되는 경우 영상진단 및 조직병리 확인이 필요하다는 제한점을 갖는다.",
+      "title": "Case Report: Clinical and magnetic resonance imaging findings in intracranial hemangiosarcoma in a cat.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-10-04T23:58:46.866Z",
+      "model": "gpt-5-mini"
+    },
+    "42828283": {
+      "brief_summary": "이 문서는 10.3389/fvets.2025.1720932 DOI의 기존 논문에 대한 정정 공지문이다. 원 논문 제목은 설사(diarrhea)가 있는 개에서 새로운 프로바이오틱(probiotic) 투여에 따른 내약성 및 분변 미생물군(fecal microbiota)의 변화를 평가한 파일럿 연구임을 나타내지만, 이 초록 자체에는 연구 결과나 수치가 포함되어 있지 않다. 임상적으로는 수정된 원문을 확인해야만 실제 결과와 적용 가능성을 판단할 수 있다.",
+      "detailed_summary": "초록 본문은 정정(correction) 공지로, 원 논문 DOI(10.3389/fvets.2025.1720932)를 명시하고 있을 뿐 연구 설계, 대상 수, 평가 항목, 통계적 결과 또는 결론을 제시하지 않는다. 제목으로부터 추정되는 연구 목적은 설사가 있는 개를 대상으로 새로운 프로바이오틱 투여의 내약성 및 분변 미생물군(fecal microbiota) 변화 평가였으나, 초록에는 대상(개)의 수, 연구 기간, 무작위 배정 여부 등 구체적 설계 정보가 없다. 주요 평가 항목이나 핵심 수치(예: 미생물 다양성 지표, 증상 개선 정도, 이상반응 빈도 등)는 전혀 제공되지 않아 결과의 방향성이나 크기를 알 수 없다. 따라서 본 정정문만으로는 인과관계나 유의성을 판단할 수 없으며, 임상 적용을 위한 근거로 사용할 수 없다. 임상 수의사는 수정된 원문 전체를 확인해 구체적 방법론, 결과, 저자들의 해석 및 제한점을 검토해야 한다.",
+      "title": "Correction: Pilot study evaluating tolerability and changes in fecal microbiota associated with novel probiotic administration to dogs with diarrhea.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-10-04T23:58:35.493Z",
+      "model": "gpt-5-mini"
+    },
+    "42828555": {
+      "brief_summary": "중성화된 7세 수컷 단모종(domestic shorthair) 고양이에서 Cladophialophora boppii에 의한 비강 phaeohyphomycosis가 확인된 증례보고이다. CT(전산화단층촬영), 비강내시경 및 조직검사와 함께 균 배양 및 분자 염기서열 분석으로 진단했으며, 경구 이트라코나졸(itraconazole) 단독으로는 질환 진행을 억제하지 못해 지연된 비강 절제술(nasal planectomy)과 이후 반복적 외과적 제거 및 장기 항진균치료가 필요했다. 최종적으로 임상적 관해와 삶의 질의 현저한 개선을 얻었으며, 고양이에서 새롭게 확인된 흑색곰팡이 병원체에 대한 임상적 인식을 높여야 함을 시사한다.",
+      "detailed_summary": "증례보고 형식으로 중성화된 7세 수컷 단모종 고양이가 만성 색소성 비강 병변, 비생산성 재채기 및 코호흡(stertor)으로 내원하였다. 진단을 위해 CT(전산화단층촬영), 비강내시경(rhinoscopy) 및 조직 채취를 시행했고, 균 배양과 분자 염기서열 분석을 통해 Cladophialophora boppii 감염을 확인하였다. 초기 치료로 경구 이트라코나졸(itraconazole)을 투여했으나 질환 진행을 멈추지 못해 지연된 비강 절제술(nasal planectomy)이 시행되었다. 수술 후 일시적 관해를 보였으나 질환이 재발하여 반복적 외과적 제거와 장기간 항진균치료가 필요했다. 최종적으로 임상적 완화와 환자의 삶의 질 개선이 관찰되었다. 이 증례는 고양이의 비강에서 C. boppii에 의한 phaeohyphomycosis가 발생할 수 있음을 보고하며, 새로운 곰팡이병원체의 출현에 대한 임상적 주의가 필요함을 강조한다. 단일 증례 보고이므로 결과를 일반화할 수 없다는 제한이 있다.",
+      "title": "Nasal phaeohyphomycosis in a cat caused by Cladophialophora boppii.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-10-04T23:58:22.411Z",
+      "model": "gpt-5-mini"
+    },
+    "42829981": {
+      "brief_summary": "본 논문은 고양이의 지혈(hemostasis) 및 응고 장애에 관한 임상 리뷰로, 지혈 생리, 흔한 일차·이차 지혈장애의 병태생리, 진단검사 해석 및 치료법을 종합적으로 정리했다. 지혈장애는 드물지만 생명을 위협할 수 있으며 병력·신체검사와 현장형 검사(point-of-care assay, POC)를 포함한 검사 조합 및 지혈 기전의 이해로 진단할 수 있다고 강조한다. 임상적 의의는 얻은 정보를 바탕으로 개별 환자에 맞춘 검사 선택과 관리·치료 계획을 수립해야 한다는 점이다.",
+      "detailed_summary": "이 논문은 고양이의 지혈(hemostasis) 및 응고장애를 문헌 기반으로 종합적으로 검토하는 임상 리뷰이다. 주요 내용은 지혈의 기본 생리, 흔한 일차 및 이차 지혈장애의 병태생리와 임상 양상, 다양한 진단검사의 비교·해석 방법, 그리고 각 장애에 대한 치료·관리 전략의 요약이다. 저자들은 지혈장애가 드물지만 치명적일 수 있음을 밝히고, 원인 규명은 주로 병력·신체검사·지향적 검사(directed testing) 및 현장형 검사(POC)의 조합으로 이루어진다고 설명한다. 논문은 임상가가 각 검사법의 장단점을 비교·해석하여 적절한 검사를 선택하고, 검사 결과를 임상 소견과 함께 통합하여 진단을 내리도록 권장한다. 결론적으로 독자는 지혈의 기초를 이해하고 흔한 지혈장애의 진단과 치료·관리 전략을 적용할 수 있어야 한다고 제시한다. 제한점으로는 초록상 이 논문이 문헌 리뷰 형식으로 새로운 원자료(primary data)를 제시하지 않는다는 점이 있다.",
+      "title": "Clotting and Coagulation Disorders in Cats: A clinical review of causes, diagnosis and management.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "generated_at": "2026-10-04T23:58:08.232Z",
       "model": "gpt-5-mini"
     }
   }

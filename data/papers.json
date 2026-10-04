@@ -1,6 +1,82 @@
 {
-  "updated_at": "2026-10-03T23:47:12.281Z",
+  "updated_at": "2026-10-04T23:57:49.356Z",
   "papers": [
+    {
+      "pmid": "42829981",
+      "title": "Clotting and Coagulation Disorders in Cats: A clinical review of causes, diagnosis and management.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "authors": "Evans J, Li RHL",
+      "date": "2026 10 04",
+      "dateObject": "2026 10 04",
+      "abstract": "Hemostatic disorders in cats, while uncommon, can be life-threatening. In general, they can be diagnosed by utilizing a combination of history, physical examination findings, point-of-care assays and a basic understanding of hemostasis. This review aims to provide a general overview of hemostasis physiology, discuss common hemostatic disorders, diagnosis and interpretation of hemostatic testing, and summarize treatments of hemostatic disorders. The underlying cause of hemostatic disorders can often be diagnosed by a combination of history, physical examination and directed testing. Based on the information obtained during the work-up, a management plan can be constructed tailored to the individual patient. This article aims to review the literature surrounding the pathophysiology, diagnosis and management of hemostatic disorders in cats. By the end of this article, readers should be able to: understand the basic physiology of hemostasis; understand common primary and secondary hemostatic disorders in cats and their pathophysiologies in relation to clinical signs and diagnostic findings; compare and contrast common diagnostic tests to assess hemostasis and apply those that are appropriate; and list the appropriate therapeutic and management strategies for common primary and secondary hemostatic disorders in cats.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42828555",
+      "title": "Nasal phaeohyphomycosis in a cat caused by Cladophialophora boppii.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "McCarthy J, Augusto M, O'Neill E, Otero Balda I, Wyatt E",
+      "date": "2026 10 03",
+      "dateObject": "2026 10 03",
+      "abstract": "Phaeohyphomycosis is an opportunistic mycosis caused by dematiaceous fungi, typically affecting the cutaneous or subcutaneous tissues of the facial region and distal extremities in cats. This report documents a case of Cladophialophora boppii infection in a cat. A 7-year-old neutered male domestic shorthair cat was presented with a chronic, pigmented nasal lesion, non-productive sneezing, and stertor. Computed tomography, rhinoscopy, and tissue sampling were performed. Fungal culture and molecular sequencing confirmed the diagnosis. Oral itraconazole treatment failed to arrest progression, necessitating delayed nasal planectomy. Despite transient remission, disease recurred, requiring repeat surgical debridement, and prolonged antifungal treatment. Clinical resolution was ultimately achieved, with marked improvement in the cat's quality of life. Identification of a novel species of phaeohyphomycosis in a cat emphasizes the need for increased awareness of emerging fungal pathogens that can precipitate considerable morbidity, particularly in the absence of prompt aggressive intervention.",
+      "categories": [
+        "internalMedicine",
+        "surgery",
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42828283",
+      "title": "Correction: Pilot study evaluating tolerability and changes in fecal microbiota associated with novel probiotic administration to dogs with diarrhea.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Doshier J, Anderson B, Yang F, Stewart SD, Calapa KA, Cooper R, Wilson-Robles H, Embree M, Khanna C",
+      "date": "2026 10 03",
+      "dateObject": "2026 10 03",
+      "abstract": "[This corrects the article DOI: 10.3389/fvets.2025.1720932.].",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42828236",
+      "title": "Case Report: Clinical and magnetic resonance imaging findings in intracranial hemangiosarcoma in a cat.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Marsell&#xe9;s-Gonz&#xe1;lez I, Benigni L, Cloup E, Fernandes R",
+      "date": "2026 10 03",
+      "dateObject": "2026 10 03",
+      "abstract": "Hemangiosarcoma (HSA) is a highly malignant tumor of endothelial origin that is infrequently reported in cats, accounting for less than 2% of nonhematopoietic neoplasms. Feline HSA is typically classified into dermal and visceral subtypes, both of which exhibit metastatic potential. While HSA is the tumor most commonly reported to metastasize to the brain in dogs, intracranial involvement in cats remains rare, with only one previously documented metastatic case. This case report details the clinical presentation, magnetic resonance imaging (MRI) features, histopathological findings, and gross post-mortem brain changes in a cat diagnosed with intracranial hemangiosarcoma.",
+      "categories": [
+        "oncology",
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "42827969",
+      "title": "Editorial: Case reports in veterinary neurology and neurosurgery, volume II.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Santifort KM, De Frias JM, Spinillo S, Lopes BA, Monteiro SM",
+      "date": "2026 10 03",
+      "dateObject": "2026 10 03",
+      "abstract": "",
+      "categories": [
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "42827602",
+      "title": "A retrospective study on cats with incompletely or marginally excised sarcomas treated with a bleomycin-only electrochemotherapy protocol: 66 cases.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Hovis K, Souquet Q, Ferguson S, Bryan JN, Tripp C",
+      "date": "2026 10 03",
+      "dateObject": "2026 10 03",
+      "abstract": "Electrochemotherapy (ECT) is a novel therapy used as an effective and safe treatment modality for both cats and dogs with various tumor types. This retrospective study aimed to evaluate the disease-free interval (DFI) for cats with incompletely excised or marginally excised sarcomas treated with a bleomycin-only ECT protocol. A single institution retrospective evaluation was performed to identify cats as having undergone surgical removal of their sarcoma tumor followed by ECT from March 2015 to July 2024. In the absence of a standardized grading system for feline sarcomas, cats were stratified into high-grade and low-grade groups with primary emphasis on mitotic count. Median DFI was subsequently evaluated for each group. A total of 66 cats were identified and were divided into a high-grade group, which consisted of 43 cats treated with an average of 2 ECT treatments, and a low-grade group, which consisted of 23 cats treated with a single ECT treatment. Intravenous bleomycin was injected followed by a subcutaneous injection of bleomycin along the surgical scar in a 2:1 ratio. The surgical scar, as well as 2&#x202f;cm of tissue surrounding the scar was then treated with electroporation with the following parameters: 8 biphasic waveforms; pulses duration of 100&#x202f;&#x3bc;s; pulse repetition frequency of 1&#x202f;Hz and pulse amplitude 1,200&#x202f;volts/cm. Median DFI for the cats in the low-grade group was not reached whereas the median DFI for cats within the high-grade group was 389&#x202f;days. This was statistically significant between the two groups. This is the first study to evaluate a bleomycin-only ECT protocol in cats. Bleomycin-only ECT improved DFI compared to surgery alone for cats with incompletely or marginally excised sarcomas.",
+      "categories": [
+        "oncology",
+        "surgery"
+      ]
+    },
     {
       "pmid": "42827366",
       "title": "EXPRESS: Evaluation of Left Atrial Reservoir Strain by Two-Dimensional Speckle-Tracking Echocardiography in Cats with Stage B1 Hypertrophic Cardiomyopathy.",
@@ -981,57 +1057,6 @@
       "dateObject": "2026 09 26",
       "abstract": "Heatstroke is a life-threatening veterinary emergency that is rarely reported in cats, particularly when secondary to household hazards such as clothes dryer entrapment. This report details the successful intensive management and clinical progression of a single feline patient presenting with severe non-exertional heatstroke and concurrent blunt force trauma following approximately 20 min of entrapment in an operating dryer. Upon presentation, the cat exhibited severe hyperthermia (43.0 &#xb0;C), circulatory shock, oral hemorrhage, and generalized seizures. The rapid initiation of active cooling and aggressive hemodynamic resuscitation prevented further life-threatening complications beyond the initial day of seizures, leading to clinical stabilization and discharge on day 6 at the owner's request, with a full recovery confirmed at a recheck appointment on day 11. Furthermore, serial biomarker tracking during hospitalization revealed a continuous elevation in feline serum amyloid A (fSAA) accompanied by intermittent hyperthermia. This sustained inflammatory response suggests that feline heatstroke shares a pathophysiological mechanism with systemic inflammatory response syndrome (SIRS). Ultimately, this case highlights the hidden but severe dangers of household appliances and suggests that early recognition and the immediate initiation of targeted therapy are critical for achieving favorable outcomes in feline non-exertional heatstroke.",
       "categories": []
-    },
-    {
-      "pmid": "42787561",
-      "title": "A conserved virulence backbone and heterogeneous type III secretion effector profiles in historical canine otitis-associated Pseudomonas aeruginosa from Hungary.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Veres MA, Moravcsik B, Mag P, Kaszab E, Feh&#xe9;r E, Jerzsele &#xc1;, Kerek &#xc1;",
-      "date": "2026 09 25",
-      "dateObject": "2026 09 25",
-      "abstract": "Canine otitis externa provides a chronic, inflamed and frequently antimicrobial-exposed niche in which Pseudomonas aeruginosa can persist through a coordinated repertoire of adhesion, biofilm, iron-acquisition, secretion and toxin systems. We characterized the virulence-associated genomic architecture of a historical Hungarian collection obtained from canine otitis cases in 2010 and 2017. Of the 70 isolate identifiers in the nominal range 70-139, 60 had corresponding long-read assemblies and linked VFDB screening records. One assembly was excluded after genome-based taxonomic validation showed that it did not meet the species-level criterion for P. aeruginosa . Primary absence-sensitive analyses were restricted to 52 genome-confirmed P. aeruginosa assemblies meeting prespecified CheckM criteria (completeness &#x2265;95%, contamination &#x2264;5%), while seven additional genome-confirmed P. aeruginosa assemblies that did not meet the primary CheckM criteria were retained only for descriptive contextualization and were excluded from prevalence denominators and absence-sensitive analyses. The primary cohort contained 242 distinct virulence-associated genes, with a median of 230.5 genes per isolate. Of these, 217 (89.7%) were core-like, occurring in at least 95% of genomes. Alginate, type IV pilus, flagellar, siderophore, phenazine, quorum-sensing, type II, type III and type VI secretion backbones were broadly conserved. In contrast, type III effector content was heterogeneous: exoT occurred in 52/52 isolates, exoY in 50/52, exoS in 49/52 and exoU in 4/52; one isolate showed assembly-level co-detection of exoS and an exoU -homologous sequence. Whole-virulome composition did not differ detectably between 2010 and 2017 (square-root Jaccard PERMANOVA, R 2 &#x202f;=&#x202f;0.0134, p &#x202f;=&#x202f;0.6083), and no individual gene remained associated with collection year after false-discovery-rate correction. These data define a conserved historical virulence-associated genomic backbone punctuated by isolate-level effector and surface-structure variation. The detected genes are interpreted as genomic homologues and repertoire features rather than as evidence of their expression or functional contribution to pathogenicity.",
-      "categories": [
-        "dermatology"
-      ]
-    },
-    {
-      "pmid": "42787421",
-      "title": "Case Report: Palliative benefit of hypofractionated radiation therapy (6&#x202f;Gy &#xd7; 6 fractions) with temporary tracheostomy in a cat with laryngeal B-cell lymphoma progressing during chemotherapy.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Kim J, Kim J, Jeong I, Choi H, Kim Y, Lee S, Eom K, Kim J",
-      "date": "2026 09 25",
-      "dateObject": "2026 09 25",
-      "abstract": "A 12-year-old spayed female Maine Coon cat was diagnosed with cervical T-cell-rich B-cell lymphoma. During modified L-CHOP-based chemotherapy, the cat developed progressive upper airway obstruction associated with a laryngeal lesion. Initial CT suggested contiguous laryngeal involvement, and follow-up imaging revealed severe laryngeal narrowing. An emergency temporary tracheostomy was performed for airway stabilization, and subsequent punch biopsy of the laryngeal lesion was most consistent with diffuse large B-cell lymphoma. Hypofractionated palliative radiation therapy (6&#x202f;Gy&#x202f;&#xd7;&#x202f;6 fractions; total dose 36&#x202f;Gy) was initiated to address the obstructive mass. Progressive tumor shrinkage was observed during treatment, and by the fourth fraction the tracheostomy tube was successfully removed without recurrence of airway obstruction. Follow-up CT 17&#x202f;days after radiation therapy initiation showed no visible laryngeal lesion, and no respiratory signs or airway obstruction recurred before the cat died on day 27 following clinically suspected systemic disease progression. This case suggests that hypofractionated radiation therapy, in combination with temporary tracheostomy, may provide rapid and effective relief of tumor-induced upper airway obstruction in cats with laryngeal B-cell lymphoma progressing during chemotherapy.",
-      "categories": [
-        "internalMedicine",
-        "oncology"
-      ]
-    },
-    {
-      "pmid": "42787357",
-      "title": "Zlig ligament reconstruction versus tibial plateau leveling osteotomy for cranial cruciate ligament rupture in dogs: a prospective controlled study.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Chwatal S, Volz F, Kornmayer M, Zablotski Y, Meyer-Lindenberg A",
-      "date": "2026 09 25",
-      "dateObject": "2026 09 25",
-      "abstract": "Cranial cruciate ligament rupture (CCLR) is one of the most common causes of hindlimb lameness in dogs, causing stifle instability, osteoarthritis and damage to the medial meniscus. While tibial plateau leveling osteotomy (TPLO) is the most common performed method for cranial cruciate ligament rupture in dogs, intra-articular reconstruction of the cranial cruciate ligament is the gold standard in human medicine. The objective of this prospective clinical study was to investigate whether the synthetic ligament Zlig by Eickemeyer&#xae; for intra-articular reconstruction can achieve similar clinical and gait analysis results in cases of CCLR in dogs compared to TPLO. Thirty dogs with CCLR were enrolled in this prospective clinical study at the small animal clinic at LMU Munich. The dogs underwent surgery with TPLO ( n &#x202f;=&#x202f;16) or the synthetic intra-articular ligament Zlig ( n &#x202f;=&#x202f;14) and were assessed preoperatively as well as 6, 12 and 18&#x202f;weeks postoperatively. Clinical assessment included lameness scoring, joint effusion, pain response during clinical examination and tibial compression test. Objective gait analysis was performed using treadmill-based force plate and motion capture systems. Both groups showed significant clinical and functional improvement over the 18-week period. At 12&#x202f;weeks, the TPLO group exhibited significantly greater reductions in lameness score, joint effusion and pain sensitivity of the stifle. At the all other time points, there were no significant differences between the TPLO group and the Zlig group. By week 18, all dogs treated with TPLO had a negative tibial compression test, while 78.6% ( n &#x202f;=&#x202f;11) of the dogs in the Zlig group were still tested positive. Total postoperative complication rate was 18.8% ( n &#x202f;=&#x202f;3) in the TPLO group and 35.7% ( n &#x202f;=&#x202f;5) in the Zlig group. Both surgical techniques resulted in improved limb function. The TPLO group showed more reliable stabilization and a lower complication rate in comparison to the Zlig group. The role of the residual instability in the dogs of the Zlig group needs further studies examining its biomechanical properties. Whether the intra-articular Zlig implant represents a potential alternative for the future needs to be further validated through more prospective studies over a longer time period.",
-      "categories": [
-        "surgery"
-      ]
-    },
-    {
-      "pmid": "42787174",
-      "title": "Case Report: Multiple mammary carcinomas in a young dog with estrus-associated hyperglycemia: clinicopathological findings and glycemic normalization after ovariohysterectomy.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Rosca P, Pasca AS, Hritcu TD, Ciornei SG, Spataru MC, Ivanescu L, Hritcu LD, Nechifor F",
-      "date": "2026 09 25",
-      "dateObject": "2026 09 25",
-      "abstract": "Mammary tumors are among the most common neoplasms affecting female dogs and are typically diagnosed in middle-aged or older animals. The occurrence of malignant mammary tumors in very young dogs is uncommon and may present diagnostic and clinical management challenges. This case report describes a young female dog presenting with multiple mammary nodules accompanied by persistent hyperglycemia detected approximately one to 2 weeks before the onset of estrus. Clinical examination, hematological and biochemical testing, cytological evaluation, surgical excision of the mammary lesions, and histopathological analysis were performed. Histopathology confirmed the presence of multiple mammary carcinomas with different histological patterns. Despite surgical removal of the tumors, blood glucose concentrations remained elevated. Two weeks later, the patient underwent ovariohysterectomy, after which glycemic values gradually decreased and returned to normal within the following weeks. The temporal association between reproductive hormonal status and the observed metabolic alteration suggests a possible hormone-related insulin resistance rather than a direct metabolic effect of the tumors themselves. This case highlights the potential interaction between mammary neoplasia, reproductive hormonal status, and glucose metabolism in dogs and emphasizes the importance of comprehensive clinical and metabolic evaluation in young patients presenting with mammary tumors.",
-      "categories": [
-        "internalMedicine",
-        "oncology",
-        "surgery"
-      ]
     },
     {
       "pmid": "42786467",
@@ -2149,19 +2174,6 @@
       ]
     },
     {
-      "pmid": "42685338",
-      "title": "Subcutaneous ureteral bypass explantation in 21 cats (2015-2023): outcomes and owner perceptions.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Broughton SE, Frykfors von Hekkel A, Rossanese M, Rutherford L, Geddes RF, Lawson JS",
-      "date": "2026 09 02",
-      "dateObject": "2026 09 02",
-      "abstract": "Subcutaneous ureteral bypass (SUB) can be an effective treatment for ureteral obstruction in cats, but SUB explantation is little documented. Describe reasons for SUB explantation, outcomes, and owner experiences. We hypothesized that explantation would be effective in managing common SUB-related complications. Twenty-one cats (31 SUBs) that underwent 29 explantations. Retrospective case-series of cats undergoing explantation between 2015 and 2023 with medical record review and 20 owners emailed for follow-up. Results are median (range). Explantation was performed 1.8&#xa0;years (0.2-4.1&#xa0;years) after placement because of positive urine culture (PUC; 15/21), SUB obstruction (8/21), sterile cystitis (4/21), and suspected SUB failure (2/21). Twenty-six out of 31 ureters had documented patency. Seventeen cats had all implants removed (9 unilateral, 8 bilateral). Two underwent unilateral explantation and ipsilateral ureteronephrectomy. Two with bilateral SUBs underwent unilateral explantation. Follow-up after explantation was 596&#xa0;days (3-2310&#xa0;days). Four cats had ureteral re-obstruction (1 after partial obstruction at explantation), 10 did not re-obstruct and the remainder were undetermined. Seven cats died at 614&#xa0;days (405-2200&#xa0;days), 11 were lost to follow-up at 135&#xa0;days (19-1774&#xa0;days) after explantation, and 3 remained alive. Four deaths were renal related (2/4 re-obstructions). Nine of 15 cats explanted due to PUC had a negative postoperative urine culture. Three of 15 cats had clinical signs related to PUC postoperatively. Questionnaire response was 9 of 20, and 8 of 9 owners would consider explantation if in the same situation again. For SUB cats with complications, explantation is a viable option. A small proportion of cats had clinical signs of PUC, or ureteral re-obstruction postoperatively. Cats have narrow ureters which connect the kidney to the bladder. These are prone to blockage, in which case placement of an implant to bypass the blockage can be lifesaving. Implants need to be examined and flushed every 3-6&#xa0;months, and can become blocked, infected, or cause irritation. We used clinical records of cats treated at a referral hospital to investigate if removing the implant could treat complications. We also asked if owners felt this was the right choice when considering the long-term outcome. We reviewed 21 cats and found 26 of 31 ureters had unblocked and 29 implants were removed. We had follow-up information for an average of 596&#xa0;days. Four cats did get a new ureteral blockage, but 60% of cats who had an infection in the urine were cured after the surgery. Nine owners completed our survey, and 8 felt that they would make the same decision for implant removal in the future. Our study shows that removing the implant can be considered in certain cats, but there is a risk of a new blockage forming which would require a new implant.",
-      "categories": [
-        "internalMedicine",
-        "surgery"
-      ]
-    },
-    {
       "pmid": "42529917",
       "title": "Consuming treats with amino acids, osmolytes and sodium increased total water intake and decreased urine specific gravity of healthy cats.",
       "journal": "Journal of Feline Medicine and Surgery",
@@ -2395,19 +2407,6 @@
       "date": "2026 08 29",
       "dateObject": "2026 08 29",
       "abstract": "ObjectivesThis study aimed to determine the occurrence of gastric Helicobacter species colonization in cats with confirmed gastrointestinal disease and to investigate possible associations between Helicobacter species colonization and gastric histopathological changes. It also aimed to identify the Helicobacter species present in cats in countryX.MethodsPrivately owned cats were prospectively enrolled between May 2018 and December 2022. Regardless of the reason for presentation, the owners of all cats presented to the cat clinic during that time period were systematically interviewed regarding chronic gastrointestinal signs. Cats with suspected chronic gastrointestinal disease underwent non-invasive diagnostic evaluation, and those with persistent suspicion proceeded to gastrointestinal biopsies. Full-thickness gastric and small intestinal biopsies were collected from each cat to evaluate histopathological lesions and to determine the presence and localization of Helicobacter species in the stomach. A total of 154 cats that underwent biopsies were included in the study. A subset of Helicobacter-positive samples was further analyzed to the species level using the nanopore sequencing technique.ResultsAll cats had chronic small intestinal disease. Of these, 79% had inflammatory enteropathy and 21% had lymphoma. Helicobacter species were detected in 75% of cats. Colonization with multiple Helicobacter species was common, with Helicobacter heilmannii being the most prevalent species. Gastritis was present in 58% of cats and occurred with similar frequency in both small intestinal diseases. The presence of Helicobacter species was significantly associated with lymphoplasmacytic gastritis. However, the density of bacterial colonization was not associated with gastritis severity.Conclusions and relevanceOur findings indicate that colonization by Helicobacter species is common in cats with gastrointestinal clinical signs and is associated with chronic lymphoplasmacytic gastritis. Nevertheless, the causal relationship between Helicobacter species and gastritis cannot be established with this study design due to the lack of a control group. Most cats were colonized with mixed Helicobacter species.",
-      "categories": [
-        "internalMedicine",
-        "oncology"
-      ]
-    },
-    {
-      "pmid": "42665890",
-      "title": "EXPRESS: Efficacy and tolerability of sequential COP and doxorubicin chemotherapy protocol for treatment of high-grade lymphoma in cats.",
-      "journal": "Journal of Feline Medicine and Surgery",
-      "authors": "Neiderfer K, Iwaki Y, Donnelly LL, Bryant JE, Bryan JN, Henry C",
-      "date": "2026 08 29",
-      "dateObject": "2026 08 29",
-      "abstract": "ObjectivesThe aim of this study was to evaluate tolerability of a COP/DOX protocol, where cats received COP (vincristine, cyclophosphamide, and prednisolone) induction weekly for 6 weeks followed by doxorubicin (DOX) consolidation every three weeks for 6 doses. A secondary objective was to evaluate the efficacy of COP/DOX protocol in this cohort of cats.MethodsRecords were retrospectively reviewed for cats with high-grade lymphoma treated with the COP/DOX protocol from 2005-2024. Data collected included signalment, method of diagnosis, tumor location, staging, baseline diagnostics, drug dosages, adverse events, re-staging diagnostics and treatment response. Progression free survival (PFS) and survival time (ST) were estimated using the Kaplan-Meier method and compared across selected variables using log-rank test. ResultsTwenty-seven cats met inclusion criteria. The most common form of lymphoma was gastrointestinal in 33.3% of cats. The number of cats achieving a maximal response of clinical remission (CR) and partial remission (PR) throughout COP were 10 (37.0%) and 12 (44.4%), respectively. Of the 5 cats that had stable disease (SD) or progressive disease (PD) during COP, 1 achieved PR on doxorubicin. Four cats (14.8%) did not respond either to the COP or DOX part of the protocol. The overall response rate at 6 weeks after initiation of COP/DOX was 77.7%. PFS was 98 days (Interquartile range (IQR) 41 - 141) and MST was 154 days (IQR 102 - 546). The cats that had CR at the completion of DOX had PFS of 554.5 days and MST of 546 days. High grade adverse events included grade 3 and 4 neutropenia (n=3 for each) during COP. Lymphocyte: monocyte ratio and response at the completion of DOX were significantly associated with PFS and MST.Conclusions and relevanceWe conclude that the COP/DOX protocol was well tolerated by this population. PFS and MST were similar to previous reports. The COP/DOX protocol is an effective treatment approach for cats with lymphoma.",
       "categories": [
         "internalMedicine",
         "oncology"
