@@ -1,6 +1,18 @@
 {
-  "updated_at": "2026-10-04T23:57:49.356Z",
+  "updated_at": "2026-10-06T01:46:25.594Z",
   "papers": [
+    {
+      "pmid": "42832652",
+      "title": "Retrospective evaluation of lipiduria in urine from 140 dogs and 74 cats.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Cervone M, Legroux D, Barral G, Ramery E",
+      "date": "2026 10 05",
+      "dateObject": "2026 10 05",
+      "abstract": "Lipiduria has recognized physiopathological and diagnostic relevance in human medicine, while data regarding its relevance in animals remain limited. To determine the frequency of lipiduria in dogs and cats and to assess whether lipiduria represents an epiphenomenon or is associated with animal-related factors. Urinalysis results from 140 dogs and 74 cats. Retrospective study. Cases were included if complete urinalysis data were available. Animals were classified as lipiduric or non-lipiduric. Animal characteristics, as well as selected hematologic and urinary abnormalities, were compared between groups. In dogs, factors potentially associated with the presence of lipiduria were further evaluated using multivariable logistic regression analysis. Overall, 58% (125/214) animals were lipiduric, including 46% (64/140) dogs and 82% (61/74) cats. Lipiduria was significantly more frequent in cats (82%) than in dogs (46%) (P&#xa0;<&#xa0;.00001). Among cats, lipiduric individuals were older (mean age 9.5&#xa0;years; SD&#xa0;&#xb1;&#xa0;4.5; P&#xa0;=&#xa0;.02). In dogs, females (63%; 40/64) were overrepresented in the lipiduric group (P&#xa0;=&#xa0;.0008). Lipiduric dogs had a higher mean urine pH (6.4; SD&#xa0;&#xb1;&#xa0;1.2; P&#xa0;=&#xa0;.00054) and more frequently exhibited struvite crystalluria (17%; 11/64; P&#xa0;=&#xa0;.003). In multivariable analysis, female dogs had 3.5-fold higher odds of lipiduria (OR, 3.5; 95% CI, 1.7-7.3), and the odds of lipiduria increased by 5% for each 0.1-unit increase in urine pH. Lipiduria was a common finding in this study, particularly in cats. In dogs, our findings suggest a potential link between lipiduria, female status, and high urine pH. Lipid droplets can sometimes be detected in urine, a finding known as lipiduria. Although lipiduria is well described in human medicine, little is known about how common it is in dogs and cats or whether it is associated with animal-related factors. In this retrospective study, we reviewed complete urinalysis results from 140 dogs and 74 cats. Lipiduria was identified in 58% of all animals and was much more common in cats (82%) than in dogs (46%). Cats with lipiduria were, on average, older than cats without lipiduria. In dogs, after accounting for several factors, female dogs were more likely to have lipiduria, and the likelihood of lipiduria increased as urine pH increased. These findings suggest that lipiduria is common in dogs and cats, particularly in cats. In dogs, it might be associated with sex and urine pH.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
     {
       "pmid": "42829981",
       "title": "Clotting and Coagulation Disorders in Cats: A clinical review of causes, diagnosis and management.",
@@ -2158,19 +2170,6 @@
       "abstract": "Hip arthroscopy is a valuable diagnostic and surgical tool in veterinary medicine; however, the optimal arthroscope viewing angle for the canine coxofemoral joint has not been established. We hypothesised that a 70&#xb0; arthroscope would provide superior visualisation of the hip joint cavity compared to the standard 30&#xb0; arthroscope when inserted via a dorso-lateral approach. To test this hypothesis, five 3D-printed canine hip joint models were developed using computed tomography (CT) scans of large-breed dogs. The articular surfaces were embossed with a 1&#x2009;&#xd7;&#x2009;1&#xa0;mm checkerboard pattern to enable objective quantification of the visible area. Arthroscopy was performed with 2.7-mm-diameter 30&#xb0; and 70&#xb0; arthroscopes at four positions (3, 6, 9, and 12 o'clock), and the visible area was calculated by counting visible tiles. Statistical analysis was performed using a mixed-effect general linear model. There was no significant overall difference in the visible area between the two arthroscope viewing angles (P&#x2009;=&#x2009;0.977). However, arthroscope position significantly affected the visible area (P&#x2009;<&#x2009;0.001), and a significant interaction between viewing angle and position was identified (P&#x2009;=&#x2009;0.001). Notably, the visible area produced by the 70&#xb0; arthroscope was significantly smaller than that produced by the 30&#xb0; arthroscope at the 12 o'clock position (P&#x2009;=&#x2009;0.026). However, at the 3 o'clock position, the visible area produced by the 70&#xb0; arthroscope appeared to be larger than that produced by the 30&#xb0; arthroscope. Nevertheless, this difference was not significant (P&#x2009;=&#x2009;0.085). The results suggest that, in this experimental model, the 70&#xb0; arthroscope provided a comparable overall visible area of the artificial hip joint surface to the 30&#xb0; arthroscope during dorso-lateral canine hip arthroscopy. Further comparative studies, particularly on calibrated cadaveric hip joints, are required.",
       "categories": [
         "surgery"
-      ]
-    },
-    {
-      "pmid": "42685339",
-      "title": "A SINE-like insertion in intron 13 of the ATP7A gene is associated with a mild form of Menkes-like disease in a Cavalier King Charles Spaniel.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Fulton EA, Schwarz C, Jagannathan V, Leeb T, Gutierrez-Quintana R",
-      "date": "2026 09 02",
-      "dateObject": "2026 09 02",
-      "abstract": "A 7-month-old intact male Cavalier King Charles Spaniel was presented for persistent glucosuria despite normoglycemia, failure to thrive, chronic diarrhea, and cerebellar ataxia. Fanconi syndrome was diagnosed, but the neurologic abnormalities were not fully explained. As a consequence of the early onset Fanconi syndrome, a hereditary process was suspected. Whole genome sequencing identified a private hemizygous SINE-like insertion into the ATP7A gene, at the end of intron 13, near the start of exon 14. In humans, variants in ATP7A are associated with Menkes disease, a disorder of copper metabolism associated with a spectrum of clinical signs including progressive neurodegeneration and connective tissue abnormalities. Clinically affected dogs with variants in ATP7A have not been reported previously. Although this case appears to represent a mild phenotypic presentation of Menkes-like disease, it raises the possibility that copper disorders aside from copper-associated hepatitis might exist in dogs. Further genetic screening and phenotypic characterization of rare genetic variants associated with copper metabolism would be beneficial to expand our knowledge of copper disorders in dogs and allow potential early intervention and modeling for metabolic diseases in humans.",
-      "categories": [
-        "internalMedicine",
-        "neurology"
       ]
     },
     {
