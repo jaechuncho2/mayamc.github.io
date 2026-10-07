@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T01:46:41.015Z",
+  "updated_at": "2026-10-07T00:45:27.335Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -6391,6 +6391,54 @@
       "title": "Retrospective evaluation of lipiduria in urine from 140 dogs and 74 cats.",
       "journal": "Journal of Veterinary Internal Medicine",
       "generated_at": "2026-10-06T01:46:41.004Z",
+      "model": "gpt-5-mini"
+    },
+    "42833257": {
+      "brief_summary": "고양이 태반 유래 중간엽 줄기세포(MSCs)를 대상으로 염증성 사이토카인 프라이밍이 세포 생존성, 미토콘드리아 구조 및 세포외 소포(EVs) 내용물에 미치는 영향을 평가했다. 7마리 건강한 고양이 유래 MSCs를 대조, 무혈청, 사이토카인(종양괴사인자-α, 인터페론-γ, IL-1, IL-6) 처리 조건에서 배양한 결과, 전처리가 세포 생존성을 해치지 않으면서 미토콘드리아 신장(가지형·단순 관형 증가)과 EV의 면역억제적 유전자·마이크로RNA(miR) 프로파일로의 전환을 유도했다. 이는 T세포 매개 염증성 질환에 대한 MSC 치료의 효능을 높이기 위한 염증성 프라이밍 전략의 추가 연구를 정당화한다는 임상적 시사점을 제공한다.",
+      "detailed_summary": "연구는 in vitro에서 고양이 태반 유래 MSCs(7마리 분리)를 대조, 무혈청, 및 사이토카인(종양괴사인자-α, 인터페론-γ, IL-1, IL-6) 자극 조건으로 배양하여 수행되었다. 평가 항목으로는 유세포분석을 통한 생존성/아폽토시스, MicroP/MATLAB을 이용한 공초점현미경 기반 미토콘드리아 형태 분석, 그리고 EV 표면표지자·전사체(RNA-seq)·miR 프로파일링이 포함되었다. 전체 조건에서 세포 생존률은 96%를 초과했으며 군간 유의한 차이는 없었다. 반면 Ki-67 증식표지자와 대사활성은 무혈청 및 사이토카인 자극 조건에서 대조군에 비해 유의하게 감소했다(P < .001). 미토콘드리아 형태는 사이토카인 프라이밍에서 가지형 및 단순 관형(elongated) 증가, 무혈청에서는 단편화(fragmented) 증가로 방향성이 달랐다. EV 분석에서 329개의 차등발현 유전자가 확인되었고(C-C motif chemokine receptor 8 등 면역억제 관련 수용체 상향, 염증성 히스톤 전사체 하향), miR 프로파일링에서는 총 23개 miR이 차등발현되어 항염증성 miR-204, let-7g, miR-181b-2의 풍부화와 염증성 miR-34a, miR-320a의 감소가 관찰되었다. 결론적으로 사이토카인 프라이밍은 세포 생존성을 손상시키지 않으면서 미토콘드리아 형태와 EV 화자를 면역억제적 프로파일로 이동시켰으며, 이는 고양이에서 MSC 치료 전의 염증성 프라이밍을 추가 연구할 근거를 제공하나, 본 연구는 in vitro 결과에 기반하므로 임상적 효능·안전성 검증을 위한 추가 전임상·임상연구가 필요하다.",
+      "title": "Cytokine priming shifts mitochondrial architecture and extracellular vesicle cargo of feline placental mesenchymal stromal cells toward an immunosuppressive phenotype.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-10-07T00:45:09.082Z",
+      "model": "gpt-5-mini"
+    },
+    "42833263": {
+      "brief_summary": "후두근(크리코파링지얼) 아칼라시아(cricopharyngeal achalasia, CA)로 수술적 치료를 받은 개 26마리를 후향적으로 분석하여 진단·수술 관리와 예후 인자를 평가한 연구다. 수술 후 사망률은 낮았으나(11.5%) 합병증(23%)과 재발 또는 지속적 임상증상(불만족스러운 결과 42.3%)의 발생률은 중간 수준이었고, 재발률은 34.6%로 보고되었다. 수의사들은 재발과 잔존 증상으로 인한 장기 식이 조절 필요성 및 흡인성 폐렴 위험(수술 전·후 모두)을 사전에 설명해야 한다.",
+      "detailed_summary": "본 연구는 2009년부터 2025년까지 CA로 수술적 치료를 받은 개 26마리를 후향적으로 검토한 연구다. Poodle 믹스(n=12)와 골든리트리버(n=8)가 흔했고, 비디오투시 연하 검사(videofluoroscopic swallow study, VFSS) 소견, 수술 측위(양측 복측 접근 대 측면 2개 절개), 절제한 근육 등을 포함한 여러 변수와 결과의 연관성을 Fisher 정확검정과 Wilcoxon 순위합 검정으로 분석했다. 복측 양측 접근이 측면 2개 절개보다 수술 시간이 짧았고, 전체적인 수술 관련 합병증률은 23%, 수술 관련 사망률은 11.5%였으며 흡인성 폐렴이 가장 흔한 합병증이었다. 불만족스러운 결과(잔존 증상 또는 재발)는 42.3%였고, 초기 해소 후 증상 재발은 34.6%, 재수술은 26.9%였으며 중앙 재발 시간은 84일(범위 7–1,320일)이었다. 연령·성별·품종·수술 측위·VFSS 소견·절제 근육 등은 유의한 예후 인자와 연관되지 않았다. 결론적으로 CA의 외과적 관리는 사망률은 낮지만 재발 및 장기 증상 관리를 필요로 하는 경우가 적지 않아(보호자에게 재발·잔존 증상 및 흡인성 폐렴 위험을 설명할 필요가 있음) 수술은 안전한 선택지이나 장기적 보수적 관리가 요구될 수 있다.",
+      "title": "Surgical management of cricopharyngeal achalasia in dogs results in low mortality but moderate incidence of recurrence or persistent clinical signs.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-10-07T00:44:54.312Z",
+      "model": "gpt-5-mini"
+    },
+    "42833267": {
+      "brief_summary": "본 연구는 가정에서 투여하는 맑은 육수와 polyethylene glycol 3350(PEG 3350) 복용 후 검사 직전 대장 관류(colonic flushing)를 시행하는 장정결법의 유효성을 평가했다. 비디오 완전 기록이 있는 47마리 개에서 시행된 49건의 대장내시경을 Boston Bowel Preparation Scale(BBPS)로 평가한 결과, 41/49건(84%)에서 적절한 장정결(총 BBPS ≥ 6 및 개별 분절 점수 ≥ 2)이 달성되었다. 중간 총점은 7(범위 4–9)이었고 하행결장, 횡행결장, 상행결장 중 상행결장이 유의하게 낮은 점수를 보였다. 논문은 복잡하지 않고 주인 친화적인 가정 준비법으로도 진단적 품질의 장시야 확보가 가능하다고 결론지었다.",
+      "detailed_summary": "단일 의뢰 센터의 후향적 연구로, 대장 전체 영상이 완비된 49건의 대장내시경 비디오(47마리 개)를 단일 검사자가 Boston Bowel Preparation Scale(BBPS)로 평가했다. 준비법은 가정에서의 맑은 육수 및 PEG 3350 복용 후 검사 직전 대장 관류를 포함하고 있다. 적절한 준비는 총 BBPS ≥ 6이면서 개별 분절 점수가 2 미만이 없는 것으로 정의했다. 결과는 41/49건(84%)에서 적절한 장정결이었고, 중앙값 총점은 7(범위 4–9), 분절 중앙값은 하행 3, 횡행 2, 상행 2였다. 상행결장이 하행결장보다 유의하게 낮은 점수를 보였고, 대상의 57%는 만성 장 질환(chronic enteropathy) 평가를 위한 상·하부 내시경 동시 시행이었다. 연구자는 복잡하거나 수고스러운 프로토콜 없이도 진단적 시야 확보가 가능하다고 제시했으나, 단일 센터·후향적 설계 및 단일 평가자에 따른 제한점이 있음을 보고서에 명시하고 있다.",
+      "title": "Assessment of bowel preparation quality in dogs undergoing colonoscopy using the Boston Bowel Preparation Scale.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-10-07T00:44:45.211Z",
+      "model": "gpt-5-mini"
+    },
+    "42833272": {
+      "brief_summary": "후향적 의무기록 검토에서 B-세포 림프종 진단을 받은 개 82마리가 CHOP(시클로포스파미드, 독소루비신, 빈크리스틴, 프레드니손) 항암화학요법 이후 Adoptive T-cell therapy(Adoptive T-cell therapy, ACT)를 받은 임상 결과를 보고했다. 전체 생존 중앙값은 660일(95% CI 539–781), ACT 이후 생존 중앙값은 368일(95% CI 261–474), 다음 항림프종 치료까지 중앙값은 317일(95% CI 284–350)이었다. ACT는 전반적으로 내약성이 양호했고 5%(4/82)에서 주로 grade 1–2의 부작용이 보고되었으며, 이 결과는 향후 전향적 대조 연구 설계에 참고가 될 수 있다.",
+      "detailed_summary": "2017년부터 2025년 사이에 CHOP 항암화학요법 후 ACT를 받은 B-세포 림프종 개 82마의 의무기록을 후향적으로 검토했다. 전체 생존(overall survival)은 진단 시점부터 사망 또는 최종 추적까지, ACT 이후 생존(post-ACT survival)과 다음 항-림프종 치료 시작까지의 시간(time to next anti-lymphoma treatment)은 첫 ACT 주입 시점부터 산출했다. 생존 결과는 Kaplan–Meier 분석으로 추정되었다. 주요 수치는 전체 생존 중앙값 660일(95% CI 539–781), ACT 이후 생존 중앙값 368일(95% CI 261–474), 다음 치료까지 중앙값 317일(95% CI 284–350)이다. 부작용은 82마리 중 4마리(5%)에서 보고되었고 대부분 grade 1–2였으며 1건의 grade 3 부작용이 있었다. 연구진은 ACT가 대체로 내약성이 양호하다고 결론지었고, 이 결과가 향후 전향적 대조 연구 설계에 정보를 제공할 수 있음을 제시했다.",
+      "title": "Clinical outcomes were evaluated in 82 dogs with B-cell lymphoma treated with adoptive T-cell therapy following cyclophosphamide, doxorubicin, vincristine, and prednisone chemotherapy.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-10-07T00:45:27.319Z",
+      "model": "gpt-5-mini"
+    },
+    "42834927": {
+      "brief_summary": "미국 수의대 진료 수의사·반려동물을 대상으로 구강 및 구인두(입·인두)의 Enterobacterales 보균 위험요인을 설문으로 평가하고, 선택된 분리주를 전장유전체시퀀싱(WGS)으로 특성화한 횡단면 연구이다. 총 255명 중 13.7%가 Enterobacterales, 7.5%가 Klebsiella spp. 양성였고, 197마리의 개에서는 47.2%가 Enterobacterales(대장균 30.5%, Klebsiella spp. 8.1%)였으며 고양이는 18마리 중 1마리만 양성이었다. 개에서는 지난 12개월 내 항생제 투여가 Klebsiella spp.(OR=3.850, 95% CI 1.046–14.173, p=0.043) 및 E. coli 보균(OR=3.049, 95% CI 1.517–6.129, p=0.002)과, 최근 3개월 내 입원이 Klebsiella spp. 보균(OR=4.134, 95% CI 1.400–12.213, p=0.010)과 연관되었고, WGS(36주)에서 CTX-M-15와 NDM-5 등 임상적으로 중요한 내성인자가 확인되어 인수공통(One Health) 감시와 항생제 관리의 중요성을 시사한다.",
+      "detailed_summary": "연구는 횡단면 설계로 Mississippi State University 수의과대학에 내원한 사람과 반려동물의 구강·구인두 검체를 대상으로 설문(27항)과 배양을 시행하고 일부 분리주를 WGS로 분석하였다. 대상은 인간 255명(Enterobacterales 양성 13.7%, Klebsiella spp. 7.5%), 개 197마리(Enterobacterales 양성 47.2%, E. coli 30.5%, Klebsiella spp. 8.1%), 고양이 18마리(양성 1마리)였다. 인간에서는 수의업 종사 노출이 Klebsiella spp. 보균과 비유의적으로 연관되는 경향(OR=2.537, 95% CI 0.963–6.688, p=0.060)을 보였고, 개에서는 지난 12개월 항생제 투여와 지난 3개월 내 입원이 보균 위험 증가와 통계적으로 유의한 연관을 보였다(각 OR·CI·p 값 표기와 같음). WGS(36주) 결과 다양한 유전체 집단을 보였고 CTX-M-15 및 NDM-5 등 주요 베타락타마제 유전자가 확인되었으며, 인간과 개에서 동일하게 관찰된 이전 미할당 Klebsiella pneumoniae 계통은 Institut Pasteur MLST에 의해 ST9790으로 지정되었다. 한편 매칭된 인간-동물 쌍에서는 동일한 세균 종이나 서열형(ST)이 확인되지 않았다. 결론적으로 항생제 노출과 반려견의 Enterobacterales 보균 사이에 연관성이 관찰되었고, 임상적으로 중요한 내성 유전자가 사람과 개에서 확인되어 인수공통 감시 및 항생제 관리 필요성을 뒷받침한다. 연구는 횡단면 설계임을 고려할 때 인과관계 규명에는 한계가 있다는 점을 함께 제시한다.",
+      "title": "Survey-based risk factors and genomic characterization of oral and oropharyngeal Enterobacterales carriage in humans and companion animals: a One Health study.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-10-07T00:44:25.663Z",
+      "model": "gpt-5-mini"
+    },
+    "42836885": {
+      "brief_summary": "암컷 집토끼(Oryctolagus cuniculus)에서 발생한 유선의 secretory carcinoma에 대한 증례보고로, 조직병리학적·조직화학적·면역조직화학적 소견을 기술하였다. 종양은 비피막성으로 경계가 뚜렷한 상피성 증식(고형 및 관상 패턴)을 보였고 세포질 내·외에 다량의 분비물과 PAS 양성(디아스타아제 처리 전·후 모두) 소견이 관찰되었다. 면역표지에서 neoplastic 세포와 분비물에 대해 α-lactalbumin이 세포질 양성으로 확인되어 분비성 기원을 시사하였고, 저자들은 토끼에서 분비활동이 두드러진 유선종양의 감별진단에 secretory carcinoma를 포함할 것을 제안한다.",
+      "detailed_summary": "한 증례의 집토끼 유선종양을 대상으로 병리학적 검토를 시행하였다. 조직학적 소견은 비피막성·경계 뚜렷한 상피성 신생물로 고형 및 관상 구조를 이루며 섬세한 섬유성 간질에 의해 지지되었고, 세포는 약간 호산성 세포질과 핵을 가장자리로 밀어낸 큰 공포(시넷링 유사 소견)를 자주 보였다. Periodic acid–Schiff(PAS) 염색을 디아스타아제 처리 전·후로 시행한 결과, 세포내외의 분비 물질이 양성으로 관찰되어 당단백질성 분비물을 시사하였다. 면역조직화학은 α-lactalbumin, Ki-67, estrogen receptor(ER), progesterone receptor(PR), COX-2에 대해 시행되었고, 그중 α-lactalbumin의 세포질 양성이 신생물 및 분비물에서 확인되어 병변의 분비성 특성을 확인했다. 진단은 조직병리학적·조직화학적·면역표지 결과의 종합으로 secretory carcinoma로 확정되었다. 저자들은 토끼에서 유선의 분비활동이 두드러진 암종의 감별진단에 본 소견을 포함시키되, 본 보고가 단일 증례임을 감안해 일반화에는 주의가 필요하다고 언급하고 있다.",
+      "title": "Mammary secretory carcinoma in a female domestic rabbit (Oryctolagus cuniculus): histopathological and immunohistochemical features.",
+      "journal": "Veterinary Research Communications",
+      "generated_at": "2026-10-07T00:44:36.533Z",
       "model": "gpt-5-mini"
     }
   }

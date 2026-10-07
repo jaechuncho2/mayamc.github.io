@@ -1,6 +1,52 @@
 {
-  "updated_at": "2026-10-06T01:46:25.594Z",
+  "updated_at": "2026-10-07T00:44:06.550Z",
   "papers": [
+    {
+      "pmid": "42834927",
+      "title": "Survey-based risk factors and genomic characterization of oral and oropharyngeal Enterobacterales carriage in humans and companion animals: a One Health study.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Brookshire WC, Hellmann KT, Robinson DA, Seo KS",
+      "date": "2026 10 06",
+      "dateObject": "2026 10 06",
+      "abstract": "Antimicrobial-resistant (AMR) Enterobacterales, including extended-spectrum beta-lactamase (ESBL)- and carbapenemase-producing organisms, represent an important One Health concern involving humans, animals, and shared environments. This cross-sectional study evaluated survey-based risk factors for oral and oropharyngeal Enterobacterales carriage in humans and companion animals and characterized selected isolates using whole-genome sequencing (WGS). Human and companion animal samples were collected from participants presenting to the Mississippi State University College of Veterinary Medicine. A 27-item questionnaire assessed pet-related exposures, household antimicrobial use, occupational exposures, and human-animal interactions. Among 255 humans, 13.7% were positive for Enterobacterales and 7.5% for Klebsiella spp. Among 197 dogs, 47.2% were positive for Enterobacterales, including 30.5% positive for E. coli and 8.1% positive for Klebsiella spp. Only one of 18 cats was positive for Enterobacterales. In humans, veterinary occupational exposure demonstrated a nonsignificant positive trend toward Klebsiella spp. carriage (OR&#x202f;=&#x202f;2.537, 95% CI: 0.963-6.688, p &#x202f;=&#x202f;0.060). In dogs, antibiotic administration within the previous 12&#x202f;months was associated with increased odds of Klebsiella spp. carriage (OR&#x202f;=&#x202f;3.850, 95% CI: 1.046-14.173, p &#x202f;=&#x202f;0.043) and E. coli carriage (OR&#x202f;=&#x202f;3.049, 95% CI: 1.517-6.129, p &#x202f;=&#x202f;0.002). Recent hospitalization within the previous 3&#x202f;months was also associated with increased odds of canine Klebsiella spp. carriage (OR&#x202f;=&#x202f;4.134, 95% CI: 1.400-12.213, p &#x202f;=&#x202f;0.010). Whole-genome sequencing of 36 Enterobacterales isolates revealed substantial genomic diversity and identified multiple clinically important resistance determinants, including CTX-M-15 and NDM-5. A previously unassigned Klebsiella pneumoniae sequence type identified in both a human and canine isolate was subsequently assigned ST9790 through the Institut Pasteur Klebsiella MLST database. No shared bacterial species or sequence types were identified within matched human-animal pairs. These findings demonstrate associations between antimicrobial exposure and Enterobacterales carriage in companion animals and highlight the presence of clinically important antimicrobial resistance determinants in both humans and dogs. This study further supports the importance of continued One Health surveillance and antimicrobial stewardship efforts at the human-animal interface.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42421062",
+      "title": "Glycyrrhiza polysaccharide inhibits feline infectious peritonitis virus infection screened by a recombinant virus expressing eGFP protein.",
+      "journal": "BMC Veterinary Research",
+      "authors": "Yang Y, Fu H, Chang M, Zhang M, Zhou J, Xu K, Yang M, Li W, Zhu H",
+      "date": "2026 10 06",
+      "dateObject": "2026 10 06",
+      "abstract": "Feline infectious peritonitis (FIP) is a fatal infectious disease caused by feline infectious peritonitis virus (FIPV) which causes death of young cats less than 2 years old. Until now, few drugs are available for treatment of FIP. Here, we developed a modified FIPV expressing eGFP reporter gene by reverse genetics to evaluate the ability of Chinese herbal polysaccharides on inhibition of FIPV infection in Crandell-Rees feline kidney (CRFK) cells. The results demonstrated that the recombinant FIPV could express eGFP reporter gene, replicated in the CRFK cells and grow in a similar way with wild-type FIPV. By using this recombinant FIPV, we found that glycyrrhiza polysaccharide (GPS) effectively inhibited FIPV when added at the same time with virus or post-infection in CRFK cells. Further studies revealed that GPS inhibited FIPV adsorption and replication, but did not affect FIPV internalization in CRFK cells. In the current study, we successfully established a modified FIPV platform which supports high-throughput drug screening in vitro, and we found that GPS is a promising candidate for treating FIP.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42836885",
+      "title": "Mammary secretory carcinoma in a female domestic rabbit (Oryctolagus cuniculus): histopathological and immunohistochemical features.",
+      "journal": "Veterinary Research Communications",
+      "authors": "Nunes MM, Oliveira ES, Wronski JG, de Souza Ruas Lopes R, da Rocha MLMS, Nakagaki KYR, Cassali GD",
+      "date": "2026 10 06",
+      "dateObject": "2026 10 06",
+      "abstract": "Secretory carcinoma of the breast is a rare histological subtype in women and is uncommon in female dogs and cats, with only two cases described in female dogs and one case described in a cat. This report describes the histopathological and immunohistochemical features of secretory carcinoma of the mammary gland in a domestic rabbit (Oryctolagus cuniculus). Microscopic evaluation revealed a non-encapsulated, well-demarcated neoplastic proliferation composed of epithelial cells arranged in solid and tubular patterns, supported by a delicate fibrous connective tissue stroma. The neoplastic cells had slightly eosinophilic cytoplasm, frequently containing large, well-demarcated vacuoles that displaced the nucleus to the periphery, giving the cells a signet-ring-like appearance. Periodic acid-Schiff (PAS) histochemical staining, performed with and without diastase digestion, showed positivity in the intracellular and extracellular secretory material in both approaches. Immunohistochemical evaluation was performed for the markers &#x3b1;-lactalbumin, Ki-67, estrogen receptor, progesterone receptor, and COX-2. Positive cytoplasmic immunolabeling for &#x3b1;-lactalbumin was observed in neoplastic cells and in intracellular and extracellular secretory material, confirming their secretory nature. The diagnosis of secretory carcinoma was established based on the association of histopathological, histochemical, and immunohistochemical features. Considering the secretory features of the mammary gland in rabbits, secretory carcinoma should be included in the differential diagnosis of mammary carcinomas with prominent secretory activity in this species.",
+      "categories": [
+        "oncology"
+      ]
+    },
+    {
+      "pmid": "42834801",
+      "title": "Comment on 'Fibroepithelial Polyps of the Ear Canal in Dogs: A Retrospective Analysis of 17 Cases'.",
+      "journal": "Veterinary Dermatology",
+      "authors": "Lucas R, Tortoriello R",
+      "date": "2026 10 06",
+      "dateObject": "2026 10 06",
+      "abstract": "",
+      "categories": []
+    },
     {
       "pmid": "42832652",
       "title": "Retrospective evaluation of lipiduria in urine from 140 dogs and 74 cats.",
@@ -11,6 +57,55 @@
       "abstract": "Lipiduria has recognized physiopathological and diagnostic relevance in human medicine, while data regarding its relevance in animals remain limited. To determine the frequency of lipiduria in dogs and cats and to assess whether lipiduria represents an epiphenomenon or is associated with animal-related factors. Urinalysis results from 140 dogs and 74 cats. Retrospective study. Cases were included if complete urinalysis data were available. Animals were classified as lipiduric or non-lipiduric. Animal characteristics, as well as selected hematologic and urinary abnormalities, were compared between groups. In dogs, factors potentially associated with the presence of lipiduria were further evaluated using multivariable logistic regression analysis. Overall, 58% (125/214) animals were lipiduric, including 46% (64/140) dogs and 82% (61/74) cats. Lipiduria was significantly more frequent in cats (82%) than in dogs (46%) (P&#xa0;<&#xa0;.00001). Among cats, lipiduric individuals were older (mean age 9.5&#xa0;years; SD&#xa0;&#xb1;&#xa0;4.5; P&#xa0;=&#xa0;.02). In dogs, females (63%; 40/64) were overrepresented in the lipiduric group (P&#xa0;=&#xa0;.0008). Lipiduric dogs had a higher mean urine pH (6.4; SD&#xa0;&#xb1;&#xa0;1.2; P&#xa0;=&#xa0;.00054) and more frequently exhibited struvite crystalluria (17%; 11/64; P&#xa0;=&#xa0;.003). In multivariable analysis, female dogs had 3.5-fold higher odds of lipiduria (OR, 3.5; 95% CI, 1.7-7.3), and the odds of lipiduria increased by 5% for each 0.1-unit increase in urine pH. Lipiduria was a common finding in this study, particularly in cats. In dogs, our findings suggest a potential link between lipiduria, female status, and high urine pH. Lipid droplets can sometimes be detected in urine, a finding known as lipiduria. Although lipiduria is well described in human medicine, little is known about how common it is in dogs and cats or whether it is associated with animal-related factors. In this retrospective study, we reviewed complete urinalysis results from 140 dogs and 74 cats. Lipiduria was identified in 58% of all animals and was much more common in cats (82%) than in dogs (46%). Cats with lipiduria were, on average, older than cats without lipiduria. In dogs, after accounting for several factors, female dogs were more likely to have lipiduria, and the likelihood of lipiduria increased as urine pH increased. These findings suggest that lipiduria is common in dogs and cats, particularly in cats. In dogs, it might be associated with sex and urine pH.",
       "categories": [
         "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42833267",
+      "title": "Assessment of bowel preparation quality in dogs undergoing colonoscopy using the Boston Bowel Preparation Scale.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Ruedi GL, Kook PH",
+      "date": "2026 10 05",
+      "dateObject": "2026 10 05",
+      "abstract": "To evaluate the efficacy of a bowel preparation protocol consisting of at-home administration of clear broth and polyethylene glycol 3350 followed by colonic flushing immediately before colonoscopy in dogs. In this single-referral-center retrospective study, dogs with complete video documentation of the colon were included. Colonic cleanliness was assessed using the Boston Bowel Preparation Scale (BBPS), which scores the 3 colonic segments individually (total score range, 0 to 9 with higher scores indicating better preparation quality). Adequate preparation was defined as a total BBPS score &#x2265; 6 with no individual segment score < 2. Video footage from 49 colonoscopies performed in 47 dogs was assessed by a single examiner. Adequate colonic preparation was achieved in 41 of 49 (84%) colonoscopies. Median total BBPS score was 7 (range, 4 to 9), with median segment scores of 3, 2, and 2 for descending, transverse, and ascending colon, respectively. The ascending colon had significantly lower scores than the descending colon. In 57% of procedures, the indication for colonoscopy was evaluation of chronic enteropathy (combined upper and lower intestinal endoscopy) without specific suspicion of colonic disease. High-quality bowel preparation for colonoscopy can be achieved without complex or logistically demanding protocols. A straightforward, owner-friendly, at-home preparation regimen provided diagnostic-quality colonic visualization in dogs. These findings may facilitate broader clinical use of colonoscopy in dogs by supporting practical bowel preparation protocols that are feasible for owners and sufficient for diagnostic evaluation, particularly when complete colonic cleanliness is not essential for the intended diagnostic objective.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42833263",
+      "title": "Surgical management of cricopharyngeal achalasia in dogs results in low mortality but moderate incidence of recurrence or persistent clinical signs.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Zhang RM, Brisson BA, Holt DE, Park B, Ham KM, Hawker W",
+      "date": "2026 10 05",
+      "dateObject": "2026 10 05",
+      "abstract": "To describe diagnostic and surgical management of cricopharyngeal achalasia (CA) in dogs and to identify patient or management factors that may contribute to postoperative outcomes. Signalment, diagnostic imaging findings, surgical information, complications, and outcomes were retrospectively obtained. Fisher exact and Wilcoxon rank-sum tests were performed to identify predictors of unsatisfactory outcomes using sex, breed, age, videofluoroscopic swallow study findings, laterality of surgery, and muscles resected as variables. 26 dogs surgically managed for CA from 2009 through 2025 were included. The most common breeds were Poodle mixes (n = 12) and Golden Retrievers (8). Ventral bilateral surgery resulted in shorter operative times than through 2 lateral incisions. Postoperative complication and mortality rates were 23% and 11.5%, respectively. Aspiration pneumonia was the most common postoperative complication. Unsatisfactory outcomes were reported in 42.3%. Recurrence of clinical signs after initial resolution was noted in 34.6%, and revision surgery was performed in 26.9%. Median time to recurrence was 84 days (range, 7 to 1,320 days). No significant association was identified for age, sex, breed, laterality, videofluoroscopic swallow study findings, or muscles resected. Surgical management of CA resulted in low mortality, moderate incidence of recurrence and revision surgery, and residual symptoms requiring long-term conservative management. Surgery is a safe option for management of CA, but owners should be informed of the risks of recurrence and residual clinical signs that may require long-term dietary modifications. Animals with CA are at risk of aspiration pneumonia both pre- and postoperatively and should be monitored accordingly.",
+      "categories": [
+        "internalMedicine",
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42833257",
+      "title": "Cytokine priming shifts mitochondrial architecture and extracellular vesicle cargo of feline placental mesenchymal stromal cells toward an immunosuppressive phenotype.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Soltero-Rivera M, Arzi B, Marycz K",
+      "date": "2026 10 05",
+      "dateObject": "2026 10 05",
+      "abstract": "To characterize effects of inflammatory cytokine priming on viability, mitochondrial morphology, and extracellular vesicle (EV) cargo in feline placenta-derived mesenchymal stromal cells (MSCs). Feline placenta-derived MSCs from 7 healthy cats were cultured under control, serum-deprived, or cytokine-stimulated (tumor necrosis factor-&#x3b1;, interferon-&#x3b3;, IL-1, IL-6) conditions in vitro. Viability/apoptosis were assessed by flow cytometry and mitochondrial morphology by confocal microscopy with MicroP/MATLAB; EVs were characterized by surface markers, RNA sequencing, and microRNA (miR) profiling. Viability exceeded 96% across all conditions, with no significant intergroup differences. Kiel 67 proliferation marker and metabolic activity were significantly reduced under serum-free and cytokine-stimulated conditions versus controls (both P < .001). Cytokine priming increased branching and simple tubular mitochondria, whereas serum deprivation increased fragmented forms. Extracellular vesicle transcriptomics identified 329 differentially expressed genes, including upregulated immunosuppressive receptors C-C motif chemokine receptor 8 and poliovirus receptor-related immunoglobulin domain-containing protein and downregulated proinflammatory histone transcripts. microRNA (miR) profiling revealed 23 differentially expressed miRs, with enrichment of anti-inflammatory miR-204, let-7g, and miR-181b-2 and depletion of proinflammatory miR-34a and miR-320a. Cytokine priming induces mitochondrial elongation and shifts EV cargo toward an immunosuppressive phenotype without compromising viability, supporting inflammatory priming as a strategy to optimize MSC-based therapies for T-cell-mediated inflammatory diseases. Inflammatory priming prior to MSC administration may enhance therapeutic efficacy in cats, supporting investigation of cytokine licensing as a translatable approach to improving MSC therapy outcomes in veterinary medicine.",
+      "categories": [
+        "oncology"
+      ]
+    },
+    {
+      "pmid": "42833272",
+      "title": "Clinical outcomes were evaluated in 82 dogs with B-cell lymphoma treated with adoptive T-cell therapy following cyclophosphamide, doxorubicin, vincristine, and prednisone chemotherapy.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Westfall TE, Impellizeri JA",
+      "date": "2026 10 05",
+      "dateObject": "2026 10 05",
+      "abstract": "To describe clinical outcomes and adverse events in dogs with B-cell lymphoma treated with adoptive T-cell therapy (ACT) following cyclophosphamide, doxorubicin, vincristine, and prednisone (CHOP) chemotherapy. Medical records of 82 dogs with B-cell lymphoma that received ACT following CHOP chemotherapy between 2017 and 2025 were retrospectively reviewed. Overall survival was defined as the time from lymphoma diagnosis to death from any cause or last follow-up. Post-ACT survival was defined as the time from first ACT infusion to death from any cause or last follow-up. Time to next anti-lymphoma treatment was defined as the time from first ACT infusion to initiation of subsequent lymphoma-directed therapy. Survival outcomes were estimated using Kaplan-Meier analysis. 82 dogs met inclusion criteria. Median overall survival from diagnosis was 660 days (95% CI, 539 to 781 days). Median post-ACT survival was 368 days (95% CI, 261 to 474 days), and median time to next anti-lymphoma treatment was 317 days (95% CI, 284 to 350 days). Adoptive T-cell therapy was generally well tolerated following CHOP chemotherapy. Adverse events occurred in 5% (4 of 82) of dogs; most were grade 1 or 2, with 1 grade 3 event reported. Clinical outcomes varied among dogs with B-cell lymphoma treated with ACT following CHOP chemotherapy. Adoptive T-cell therapy was generally well tolerated, with adverse events reported in 4 of 82 dogs. This study describes clinical outcomes and adverse events in 82 dogs with B-cell lymphoma that received ACT following CHOP chemotherapy. These findings provide clinical data on the use of ACT in this patient population and may inform the design of prospective controlled studies evaluating ACT in canine B-cell lymphoma.",
+      "categories": [
+        "oncology"
       ]
     },
     {
@@ -451,38 +546,6 @@
       ]
     },
     {
-      "pmid": "42341827",
-      "title": "Measurements of radial angulation using computer-aided design software provide equal or superior reliability to multiplanar computed tomographic reconstruction in dogs.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Stoneburner RM, Lassinger LB, Hayes G, Bleedorn JA, Karlin WM, Marcellin-Little DJ, Tinga S",
-      "date": "2026 10 01",
-      "dateObject": "2026 10 01",
-      "abstract": "To compare CT measurements of radial geometry obtained using computer-aided design (CAD) software to those obtained using multiplanar reconstruction (MPR) and to compare their intraobserver reliability. We hypothesized that CAD and MPR measurements would be different and that the CAD method would have higher reliability. CT images from normal thoracic limbs of dogs scanned from January 1, 2018, through March 1, 2023, were retrospectively collected and analyzed. The CAD and MPR-based measurements in frontal (proximal/distal), sagittal, and torsional planes were made by 1 observer, in triplicate, and compared. Biases and reliability were calculated. 10 right-sided thoracic limbs were included. Median proximal frontal angulation was 3.6&#xb0; (IQR, -0.7&#xb0; to 6.2&#xb0;; valgus) using CAD and -6.8&#xb0; (IQR, -8.9&#xb0; to -5.3&#xb0;; varus) using MPR. The reliability of CAD measurements of sagittal and distal frontal angulation was excellent, whereas the reliability of MPR measurements was moderate for sagittal angulation and poor for distal frontal angulation. There was no difference in reliability between CAD and MPR for proximal frontal or torsional measurements. Agreement between CAD and MPR was poor in all planes. Measurements of proximal frontal angulation differed between CAD and MPR groups, most likely due to differences in the anatomic features used. The reliability of CAD measurements was equal to or superior to the reliability of MPR measurements. Understanding the relationship between CAD and MPR measurements is important as CAD-derived measurements are likely not equivalent to MPR-derived measurements.",
-      "categories": []
-    },
-    {
-      "pmid": "42341817",
-      "title": "Hind limb extensor muscle activation timing during trotting in Beagles shows limb-specific variability and can be referenced to kinematic events swing vertical moment and stance vertical moment.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Kong L, Harada Y, Hara Y",
-      "date": "2026 10 01",
-      "dateObject": "2026 10 01",
-      "abstract": "To characterize hind limb extensor muscle activation timing during trotting in clinically normal Beagles using surface electromyography (EMG) within the context of canine gait analysis and to evaluate whether event-based kinematic reference points provide a physiologically meaningful framework for interpreting activation timing. An observational exploratory study was conducted in 4 clinically normal Beagles. Synchronized surface EMG (1,000 Hz) and 3-D motion capture (240 Hz) were recorded from 8 hind limbs during unrestrained overground trotting. Threshold-based muscle onset and offset timing were determined for the middle gluteal, vastus lateralis, biceps femoris, and gastrocnemius muscles. Two kinematic events, the swing vertical moment (SwV) and the stance vertical moment (StV), were defined to anchor activation timing relative to gait mechanics. Substantial inter- and intraindividual variability in muscle activation patterns was observed, including differences between contralateral hind limbs. Despite this variability, consistent intermuscle features emerged: the vastus lateralis most frequently exhibited delayed activation, whereas the middle gluteal muscle tended to terminate activity earlier during stance. Across most hind limbs, muscle onset clustered within the SwV-touchdown interval, and activity termination occurred after the StV. Hind limb muscle activation timing during trotting is characterized by pronounced limb-specific variability. Event-based kinematic references, such as the SwV and StV, provide a refined temporal reference for EMG interpretation without assuming fixed gait-cycle proportions. These findings support limb-specific neuromuscular assessment and event-based temporal analysis in canine gait evaluation, with potential relevance for veterinary biomechanics research and rehabilitation planning.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42335959",
-      "title": "Incline and decline treadmill trotting produce electromyographic changes in specific canine shoulder muscle activity: implications for therapeutic exercise.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Stanford K, Cain RM, Millis D, Drum M, Richards J, Levine D, Ursini T",
-      "date": "2026 10 01",
-      "dateObject": "2026 10 01",
-      "abstract": "To identify the effects of incline and decline treadmill trotting on forelimb muscle activity in dogs using electromyography (EMG). Data were collected for a prospective within-subject, repeated-measures study in January and February of 2025 where subjects were trotted on a level treadmill, 5% incline, 10% incline, 5% decline, and 10% decline. Surface EMG data were collected bilaterally from the scapular portion of the deltoideus, lateral head of the triceps brachii, and biceps brachii, and fine-wire EMG data were collected from the supraspinatus muscle. Repeated-measures ANOVA tests were conducted followed by post hoc pairwise comparisons when significant main effects were seen (P < .05). Data were collected from 12 adult large-breed dogs. Peak supraspinatus activity increased by 6.5% (95% CI, 0.1% to 11.8%) from 0% to 5% incline and by 5.7% (95% CI, 1.6% to 15.5%) from 5% to 10% incline. Average triceps muscle activity increased by 17.9% (95% CI, 0.6% to 3.7%) from 0% to 10% incline, by 12.5% (95% CI, 1.2% to 5.9%) from 5% to 10% incline, and by 9.3% (95% CI, 1.1% to 1.7%) from 5% to 10% decline. Peak triceps and average deltoideus activity followed similar trends. Biceps brachii activity showed no significant changes. Muscle activities of the supraspinatus, triceps, and deltoideus all exhibited significant changes during incline and/or decline treadmill trotting. The biceps brachii was not significantly affected by any condition tested. The findings support the use of incrementally increasing or decreasing levels of treadmill trotting to progressively load specific forelimb musculature in canine rehabilitation.",
-      "categories": []
-    },
-    {
       "pmid": "42819905",
       "title": "Correction: Prevalence of Trypanosoma cruzi infection in dogs in the United States: a systematic review and meta-analysis of observational studies (2000-2024).",
       "journal": "Frontiers in Veterinary Science",
@@ -798,19 +861,6 @@
         "oncology",
         "surgery",
         "dermatology"
-      ]
-    },
-    {
-      "pmid": "42798418",
-      "title": "Predicting stage B2 myxomatous mitral valve disease in dogs using machine learning and routine clinical data.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Nam H, Jeong K, Seo H, Chae Y, Kang BT, Lee E, Yun T, Kim H",
-      "date": "2026 09 26",
-      "dateObject": "2026 09 26",
-      "abstract": "Early identification of Stage B2 myxomatous mitral valve disease in dogs is critical for initiating appropriate treatment to delay the onset of heart failure. Although echocardiography is the gold standard for diagnosing Stage B2 cardiac remodeling, it has limitations in general clinical settings owing to the limited availability of specialized equipment and the need for advanced technical expertise. We developed a machine learning model using routine clinical data to identify dogs with Stage B2 disease without echocardiography. A total of 387 client-owned dogs (252 non-Stage B2 dogs and 135 Stage B2 dogs) were evaluated. A gradient boosting algorithm was trained on 80% of the data and validated on a test dataset comprising the remaining 20%, incorporating demographic, hematological, serum biochemical, urinalysis, and thoracic radiographic variables. The model achieved an accuracy of 0.825 [95% confidence interval (CI): 0.738-0.900], a sensitivity of 0.815 (95% CI: 0.650-0.957), a specificity of 0.830 (95% CI: 0.729-0.919), and an area under the receiver operating characteristic curve of 0.922 (95% CI: 0.860-0.971). These findings demonstrate that machine learning can accurately classify Stage B2 status using routine clinical data, thereby assisting veterinary clinicians in the early detection and specialist referral when echocardiography is unavailable.",
-      "categories": [
-        "cardiology",
-        "internalMedicine"
       ]
     },
     {
@@ -1528,19 +1578,6 @@
       ]
     },
     {
-      "pmid": "42242285",
-      "title": "Nasotracheal oxygen supplementation facilitates anesthetic recovery in high-risk brachycephalic dogs.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Westbrook M, Boscan P, Monnet E, Marvel SJ",
-      "date": "2026 09 18",
-      "dateObject": "2026 09 18",
-      "abstract": "To describe the complications and short-term outcome following the use of perioperative nasotracheal oxygen administered through a nasotracheal tube (NTT) placed prophylactically or as a rescue during anesthetic recovery for brachycephalic dogs. 35 brachycephalic dogs were included in this retrospective study. Medical records were searched between January 2017 and September 2025 for dogs with brachycephalic obstructive airway syndrome that received supplemental oxygen through an NTT during the anesthetic recovery period. Dogs were divided into 2 groups depending on timing of tube placement. Tubes were placed prophylactically prior to extubation or as a rescue when reintubation was required. Follow-up information was obtained from medical records, referring veterinarians, or a phone call with the owner. Minor complications associated with NTTs occurred in 23% of dogs (8 of 35). Non-tube-related complications occurred in 63% of dogs (22 of 35), with severe respiratory complications occurring in 17% of dogs (6 of 35). Four of 6 dogs (67%) with severe respiratory complications had rescue tubes. Nasotracheal tubes were successful in 66% of dogs (23 of 35). Success was associated with 10-Fr or larger tubes. Nasotracheal oxygen supplementation was another tool to assist in successful anesthetic recovery of high-risk brachycephalic dogs. Larger tubes were associated with improved success rates. NTTs placed either prophylactically or as a rescue were generally well tolerated. Dogs that undergo rescue tube placement may experience severe postoperative respiratory complications, including temporary tracheostomy, need for mechanical ventilation, and euthanasia or death. Further evaluation on timing of NTT placement is warranted.",
-      "categories": [
-        "internalMedicine",
-        "surgery"
-      ]
-    },
-    {
       "pmid": "42750033",
       "title": "Microbiological investigation of conjunctivitis in cats and dogs from Kars, T&#xfc;rkiye (2024-2025): culture- and MALDI-TOF MS-based identification and antimicrobial susceptibility testing of bacterial isolates.",
       "journal": "BMC Veterinary Research",
@@ -1959,19 +1996,6 @@
       "dateObject": "2026 09 11",
       "abstract": "Allergen-specific immunotherapy (ASIT) is the only treatment targeting the pathophysiology of canine atopic dermatitis (cAD) and feline atopic skin syndrome (FASS). Despite its disease-modifying potential, owner persistence remains a clinical challenge. This study applied the Health Belief Model (HBM) to evaluate factors influencing owner persistence with ASIT. We hypothesised that owner perceptions of ASIT effectiveness, perceived barriers (e.g., cost) and ease of treatment integration would be associated with persistence. The objective was to identify modifiable psychological and logistical factors to support sustained ASIT use in cAD and FASS management. No animals were used. Pets prescribed ASIT between 1 January 2020 and 31 May 2024, were identified from four geographically diverse veterinary dermatology practices. Owners completed a survey assessing HBM constructs-perceived susceptibility, perceived severity, perceived benefits, perceived barriers, self-efficacy, social support-and a knowledge domain. Owner-reported ASIT refill behaviour served as a proxy for persistence. Associations between HBM constructs and refill behaviour were evaluated using chi-square tests and logistic regression. Higher perceived disease severity, greater perceived benefits and increased self-efficacy were positively associated with persistence. Owners who viewed their pet's condition as severe, believed ASIT effective, or felt confident administering treatment were more likely to continue therapy. Cost concerns and administration challenges were key perceived barriers. This study highlights the psychological factors in owner persistence with ASIT. HBM-informed educational strategies that emphasise disease impact, treatment value and owner confidence may improve persistence with ASIT and long-term disease management.",
       "categories": [
-        "dermatology"
-      ]
-    },
-    {
-      "pmid": "41937610",
-      "title": "Epidemiology of Canine Cutaneous Histiocytoma: Insights From Age and Topographic Clustering.",
-      "journal": "Veterinary Dermatology",
-      "authors": "De Moura C, Pinello K, Catarino J, Niza-Ribeiro J, Santos J, Fa&#xed;sca P",
-      "date": "2026 09 11",
-      "dateObject": "2026 09 11",
-      "abstract": "Canine cutaneous histiocytoma (CCH) is a benign Langerhans-cell tumour that often regresses spontaneously via inflammation. To estimate incidence and characterise age and breed-anatomical-site patterns using two complementary clustering analyses. A total of 359 histopathologically-confirmed CCHs from a private veterinary laboratory in Portugal (January 2020-January 2022) were analysed with dog-population denominators from the national registry (SIAC). Incidence rates (IR) were calculated for Lisbon-Set&#xfa;bal; breed- and sex-specific relative risks (RR) were estimated. Age was modelled with BIC-selected Gaussian mixtures; breed-site patterns were summarised by hierarchical clustering of site frequencies (heatmaps). Cases concentrated in young dogs (&#x2264;&#x2009;2&#x2009;years, 48.8%) and males (58.5%). Age clustering defined three bands (&#x2248;&#x2009;&#x2264;&#x2009;1.5, 1.5-3.5, >&#x2009;3.5&#x2009;years) with differing breed and site distributions. Breed-site clustering revealed recurring anatomical predilections by breed and sex. The annual IR in Lisbon-Set&#xfa;bal was 4.0 per 10,000 dogs (3.5 in females; 4.4 in males). Risk was highest in French bulldogs (RR 11.5; IR 34.1) and Boxers (RR 8.3; IR 24.5) versus mixed-breed dogs (p&#x2009;<&#x2009;0.001). Canine cutaneous histiocytoma (CCH) shows clear age bands and breed-linked anatomical predilections; these patterns help prioritise ages, sites and breeds for studies of inflammation-mediated regression.",
-      "categories": [
-        "oncology",
         "dermatology"
       ]
     },
@@ -2892,19 +2916,6 @@
       ]
     },
     {
-      "pmid": "42496949",
-      "title": "Swimmer puppy syndrome, pectus excavatum, and cardiac dextroposition in two American Akitas: management and successful long-term outcome.",
-      "journal": "Veterinary Research Communications",
-      "authors": "Talavera-L&#xf3;pez J, Hern&#xe1;ndez-Rubio E, Soler M",
-      "date": "2026 07 24",
-      "dateObject": "2026 07 24",
-      "abstract": "Swimmer puppy syndrome (SPS), also known as splay leg, splay weak, or myofibrillar hypoplasia, is an uncommon condition with poorly understood pathogenesis. It affects neonates and is characterized by sternal flattening, limb abduction, and an inability to stand or ambulate properly. This report describes two American Akita littermates diagnosed with SPS. The condition was associated with pectus excavatum and cardiac dextroposition, identified through clinical examination and thoracic imaging. Both puppies presented with persistent sternal recumbency, respiratory distress, and restricted mobility during the first weeks of life. Radiographic evaluation revealed thoracic flattening, rightward cardiac displacement, and mild pectus excavatum. A therapeutic protocol including intensive physiotherapy, active positioning, and a custom-made external thoracic splint was implemented. Marked improvement in locomotion and thoracic conformation was observed within 30 days. Long-term follow-up (two years in one case) demonstrated a successful functional outcome despite persistent, mild, rightward cardiac displacement. These observations highlight the importance of early recognition and conservative management of SPS and associated thoracic deformities.",
-      "categories": [
-        "cardiology",
-        "internalMedicine"
-      ]
-    },
-    {
       "pmid": "42477745",
       "title": "Fatal traumatic injury patterns in free-roaming cats: an anatomopathological study of 40 cases.",
       "journal": "BMC Veterinary Research",
@@ -3053,18 +3064,6 @@
       "dateObject": "2026 07 10",
       "abstract": "Trypanocide resistance is an escalating threat to African animal trypanosomosis control, yet how dogs are actually treated for trypanosomosis, by who, with what drugs, and under what oversight, remains poorly characterized despite the documented presence of resistant trypanosome populations in this neglected host compartment. In a cross-sectional survey interpreted within a One Health framework, grounded in data from Enugu North Senatorial Zone, Southeastern Nigeria, we integrate previously published molecular and epidemiological data on canine trypanosomes with original cross-sectional survey data from 120 dog-owning households and 250 dogs. Associations are descriptive and inferential; no new resistance assays or transmission studies were undertaken. Survey data revealed that 87.5% of treated dogs received treatment without prior parasitological confirmation, 83% received doses estimated without weight-based calculation, and 76.7% of households obtained trypanocides from unregulated sources. Only 38.3% had geographic access to a licensed veterinarian, and 60% reported no community access to diagnostic testing. Inter-household dog movement was documented in 44.2% of households and 57.5% reported livestock co-habitation. These findings are consistent with sustained selective pressure for resistance, interpreted alongside published evidence of diminazene-resistant and multidrug-resistant Trypanosoma isolates from the same zone. Dogs emerge as plausible reservoirs and amplifiers of drug-resistant trypanosomes within a One Health framework, posing risks to livestock productivity and public health. The molecular identification of Trypanosoma brucei gambiense in study-area dogs warrants structured surveillance investigation. Direct transmission pathways were not evaluated. Addressing these drivers requires robust veterinary drug regulation, expanded veterinary service access, community education, and integration of companion animals into national trypanosomosis surveillance frameworks.",
       "categories": []
-    },
-    {
-      "pmid": "42421062",
-      "title": "Glycyrrhiza polysaccharide inhibits feline infectious peritonitis virus infection screened by a recombinant virus expressing eGFP protein.",
-      "journal": "BMC Veterinary Research",
-      "authors": "Yang Y, Fu H, Chang M, Zhang M, Zhou J, Xu K, Yang M, Li W, Zhu H",
-      "date": "2026 07 09",
-      "dateObject": "2026 07 09",
-      "abstract": "Feline infectious peritonitis (FIP) is a fatal infectious disease caused by feline infectious peritonitis virus (FIPV) which causes death of young cats less than 2 years old. Until now, few drugs are available for treatment of FIP. Here, we developed a modified FIPV expressing eGFP reporter gene by reverse genetics to evaluate the ability of Chinese herbal polysaccharides on inhibition of FIPV infection in Crandell-Rees feline kidney (CRFK) cells. The results demonstrated that the recombinant FIPV could express eGFP reporter gene, replicated in the CRFK cells and grow in a similar way with wild-type FIPV. By using this recombinant FIPV, we found that glycyrrhiza polysaccharide (GPS) effectively inhibited FIPV when added at the same time with virus or post-infection in CRFK cells. Further studies revealed that GPS inhibited FIPV adsorption and replication, but did not affect FIPV internalization in CRFK cells. In the current study, we successfully established a modified FIPV platform which supports high-throughput drug screening in vitro, and we found that GPS is a promising candidate for treating FIP.",
-      "categories": [
-        "internalMedicine"
-      ]
     },
     {
       "pmid": "42405028",
