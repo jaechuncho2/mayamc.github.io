@@ -1,6 +1,142 @@
 {
-  "updated_at": "2026-10-07T00:44:06.550Z",
+  "updated_at": "2026-10-08T01:01:40.112Z",
   "papers": [
+    {
+      "pmid": "42842766",
+      "title": "Palatability assessment of a commercial wet renal diet in healthy cats: an open-label in-home exploratory trial.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Magalh&#xe3;es TR, Corbee RJ, Queiroga FL, Louren&#xe7;o AL",
+      "date": "2026 10 07",
+      "dateObject": "2026 10 07",
+      "abstract": "Wet renal diets are considered the best option for managing cats with chronic kidney disease (CKD), but their palatability is a recurrent concern. Assess the palatability of a commercial wet diet formulated for early-stage CKD in cats. Forty-two healthy cats privately owned by 31 caregivers. An open-label in-home feeding trial was conducted over three 6-day phases, during which cats were offered the wet renal diet (Phase 1), their usual wet diet (Phase 2), and both diets simultaneously (Phase 3). Time from diet presentation to eating (latency time), food intake, and feeding-related behaviors were recorded by caregivers. Analyses included descriptive statistics and mixed-effects regression models. Caregivers classified renal diet acceptance as positive for 69.0% (n&#xa0;=&#xa0;29) of cats, negative for 23.8% (n&#xa0;=&#xa0;10), and neutral for 7.1% (n&#xa0;=&#xa0;3). Overall, cats were significantly more likely (P&#xa0;<&#xa0;.001) to be recorded in a higher diet intake category in Phase 2 than in Phase 1, whereas latency time did not differ significantly (P&#xa0;=&#xa0;.07). Based on recorded intake during Phase 3, neither diet was significantly preferred (P&#xa0;=&#xa0;.34), although caregivers perceived a preference for the usual diet in 47.6% (n&#xa0;=&#xa0;20) of cats and for the renal diet in 45.2% (n&#xa0;=&#xa0;19). If prescribed, caregivers would offer this therapeutic diet to 78.6% (n&#xa0;=&#xa0;33) of cats. In this short-term feeding trial, most healthy cats accepted the renal diet formulated for early-stage CKD with no apparent palatability concerns.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42842764",
+      "title": "Bacterial aortic endarteritis with sepsis as a rare complication of aortic dissection in a cat.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Lim S, Shekelle KL, Groch KR, Porter BF, Malcolm E, Gordon S",
+      "date": "2026 10 07",
+      "dateObject": "2026 10 07",
+      "abstract": "A 14-year-old domestic shorthair cat was examined because of respiratory distress. Thoracic radiography showed a prominent aortic arch and no other abnormalities. Echocardiography documented a mobile flap within the ascending aorta creating 2 lumens, consistent with aortic dissection (AD), mild pericardial effusion with tamponade, left ventricular concentric hypertrophy, and normal left atrial size. Systemic hypertension (200&#xa0;mmHg) was the presumed cause of AD, prompting administration of telmisartan, furosemide, and amlodipine. The cat clinically improved, became normotensive, and was discharged 2 days later. The cat remained well for 4&#xa0;months, then became lethargic and died. Necropsy showed a 7.6&#xa0;cm long aortic intimal flap, severe bacterial aortic endarteritis, and evidence of sepsis including multiple organ necrosis, thrombosis, and embolic glomerulonephritis. Bacterial culture of the kidneys yielded mixed bacterial growth including Pasteurella stomatis, presumably the same bacterium identified in the endarteritis lesion. Infective aortic endarteritis can be a fatal complication of AD.",
+      "categories": [
+        "cardiology",
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42842763",
+      "title": "Low plasma butyrylcholinesterase activity in dogs: prevalence, association with underlying disorders, laboratory variables, and survival.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Tesseraux AM, Howard J, Peters LM",
+      "date": "2026 10 07",
+      "dateObject": "2026 10 07",
+      "abstract": "Low blood butyrylcholinesterase (BChE) activity is associated with obesity, pancreatitis, inflammation, sepsis, and malignancy in people, often with negative prognostic value. The clinical relevance of BChE activity in dogs remains unclear. Describe the prevalence of low BChE activity in a large population of dogs and its association with selected underlying disorders, outcome, and clinicopathological variables. We hypothesized that low BChE activity would be associated with inflammatory disorders and a negative outcome. A total of 950 client-owned dogs presented to a university teaching hospital with BChE activity measured within 24&#xa0;h of admission. Retrospective observational study of clinical records and laboratory data. Admission BChE activities ranged from 482 to 17&#x2009;348&#xa0;U/L (median, 4553&#xa0;U/L; interquartile range [IQR], 3485-5926&#xa0;U/L) and were below reference intervals (RI) in 83 of 950 dogs (8.7%) at admission and in 53 of 207 (25.6%) dogs with repeat in-hospital measurements. Low BChE activity was associated with systemic inflammatory response syndrome (SIRS) and sepsis, but the predictive value was lower than that of C-reactive protein (CRP). Low admission BChE activity was associated with increased odds of non-survival, lower hematocrit and cholesterol concentrations and increased band neutrophil percentages, but no associations were found with obesity, acute pancreatitis, or malignancy. Activity of BChE behaves as a negative inflammatory marker in dogs, but its utility as a standalone clinical classifier for SIRS or sepsis is limited and inferior to CRP. Low BChE activity is associated with poor prognosis but is not an independent predictor of outcome. Butyrylcholinesterase (BChE), an enzyme related to acetylcholinesterase, contributes to neurotransmission, toxin metabolism and has anti-inflammatory properties. In humans, it is low in inflammatory conditions, high in obesity and associated with severity of disease and prognosis. We aimed to investigate the frequency of low BChE activity as well as its diagnostic and prognostic value in dogs with different disorders. Of 950 dogs presented to a small animal referral hospital over 12&#xa0;months, 8.7% of all dogs had low BChE activity at admission and 25.6% of hospitalized dogs had low activity at some point during their stay. We found that BChE activity was often low in inflammatory conditions such as systemic inflammatory response syndrome (SIRS) and sepsis, making it a negative inflammatory marker. However, its performance was inferior compared with the well-established inflammatory marker, C-reactive protein. Low BChE at admission and during hospitalization was associated with higher mortality. We could not confirm any association of BChE with obesity, acute pancreatitis, or cancer that were shown in previous studies of humans and dogs.",
+      "categories": [
+        "internalMedicine",
+        "oncology"
+      ]
+    },
+    {
+      "pmid": "42842761",
+      "title": "Evaluation of serum pancreatic lipase activity in dogs with myxomatous mitral valve disease.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Kim C, Chae Y, Yun T, Kang BT, Kim H",
+      "date": "2026 10 07",
+      "dateObject": "2026 10 07",
+      "abstract": "Previous studies have evaluated the association between myxomatous mitral valve disease (MMVD) and pancreatic lipase activity, but medications remain unconsidered. Elevated serum pancreatic lipase activity is related to cardiac medication in dogs with MMVD. Eighty-two client-owned dogs without clinical signs of pancreatitis (MMVD, n&#xa0;=&#xa0;67 [stage B1&#xa0;=&#xa0;24; stage B2&#xa0;=&#xa0;22; non-medicated stage C&#xa0;=&#xa0;9; medicated stage C&#xa0;=&#xa0;12]; controls, n&#xa0;=&#xa0;15). Retrospective cross-sectional study. Dogs were classified into MMVD stage and control groups. Serum pancreatic lipase activity was compared among groups, and correlation and multivariable linear regression analyses were performed. In non-medicated dogs, pancreatic lipase activity did not differ among groups. In contrast, medicated stage C dogs had higher pancreatic lipase activity than controls (median difference, 67.5&#xa0;U/L; 95% CI, 19.0-184.0), stage B1 (57.0&#xa0;U/L; 95% CI, 12.0-145.0), stage B2 (65.8&#xa0;U/L; 95% CI, 18.0-156.0), and non-medicated stage C (58.0&#xa0;U/L; 95% CI, 9.0-268.0). Moreover, 25% (3/12) of medicated stage C dogs had pancreatic lipase activity exceeding 400&#xa0;U/L, whereas no non-medicated stage C dogs reached this threshold. Pancreatic lipase activity was positively correlated with furosemide (&#x3c1;&#xa0;=&#xa0;0.67) and duration of angiotensin-converting enzyme inhibitor (&#x3c1;&#xa0;=&#xa0;0.62) administration. In multivariable analysis, medication was the independent predictor of pancreatic lipase activity in dogs with MMVD. Pancreatic lipase activity might be elevated in some dogs with MMVD receiving cardiac medications, highlighting the importance of considering medication history in clinical interpretation. &#xbc30;&#xacbd;: &#xae30;&#xc874; &#xc5f0;&#xad6c;&#xc5d0;&#xc11c; &#xac1c;&#xc758; &#xc810;&#xc561;&#xc885;&#xc131; &#xc2b9;&#xbaa8;&#xd310;&#xb9c9;&#xc9c8;&#xbcd1;(myxomatous mitral valve disease, MMVD)&#xacfc; &#xd608;&#xccad; &#xcdcc;&#xc7a5; &#xb77c;&#xc774;&#xd398;&#xc774;&#xc2a4; &#xd65c;&#xc131;&#xb3c4;&#xc758; &#xc5f0;&#xad00;&#xc131;&#xc774; &#xd3c9;&#xac00;&#xb418;&#xc5c8;&#xc73c;&#xb098;, &#xc2ec;&#xc7a5;&#xc57d;&#xbb3c;&#xc774; &#xd608;&#xccad; &#xb77c;&#xc774;&#xd398;&#xc774;&#xc2a4; &#xd65c;&#xc131;&#xb3c4;&#xc5d0; &#xbbf8;&#xce58;&#xb294; &#xc601;&#xd5a5;&#xc740; &#xace0;&#xb824;&#xb418;&#xc9c0; &#xc54a;&#xc558;&#xb2e4;. &#xac00;&#xc124;: MMVD&#xc5d0; &#xc774;&#xd658;&#xb41c; &#xac1c;&#xc5d0;&#xc11c; &#xd608;&#xccad; &#xcdcc;&#xc7a5; &#xb77c;&#xc774;&#xd398;&#xc774;&#xc2a4; &#xd65c;&#xc131;&#xb3c4;&#xc758; &#xc99d;&#xac00;&#xb294; &#xc2ec;&#xc7a5;&#xc57d;&#xbb3c; &#xd22c;&#xc5ec;&#xc640; &#xad00;&#xb828;&#xc774; &#xc788;&#xc744; &#xac83;&#xc774;&#xb2e4;. &#xc5f0;&#xad6c;&#xb300;&#xc0c1;: &#xcdcc;&#xc7a5;&#xc5fc;&#xc758; &#xc784;&#xc0c1;&#xc99d;&#xc0c1;&#xc774; &#xc5c6;&#xb294; &#xac1c; 82&#xb9c8;&#xb9ac;&#xb97c; &#xb300;&#xc0c1;&#xc73c;&#xb85c; &#xd558;&#xc600;&#xb2e4;(MMVD 67&#xb9c8;&#xb9ac; [Stage B1&#xa0;=&#xa0;24&#xb9c8;&#xb9ac;, Stage B2&#xa0;=&#xa0;22&#xb9c8;&#xb9ac;, &#xc2ec;&#xc7a5;&#xc57d;&#xbb3c;&#xc744; &#xd22c;&#xc5ec; &#xbc1b;&#xc9c0; &#xc54a;&#xc740; Stage C&#xa0;=&#xa0;9&#xb9c8;&#xb9ac;, &#xc2ec;&#xc7a5;&#xc57d;&#xbb3c;&#xc744; &#xd22c;&#xc5ec; &#xbc1b;&#xc740; Stage C&#xa0;=&#xa0;12&#xb9c8;&#xb9ac;]&#xc640; &#xb300;&#xc870;&#xad70; 15&#xb9c8;&#xb9ac;). &#xc5f0;&#xad6c;&#xbc29;&#xbc95;: &#xd6c4;&#xd5a5;&#xc801; &#xb2e8;&#xba74;&#xc5f0;&#xad6c;&#xb97c; &#xc218;&#xd589;&#xd558;&#xc600;&#xb2e4;. &#xc5f0;&#xad6c;&#xb300;&#xc0c1; &#xac1c;&#xb97c; MMVD &#xb2e8;&#xacc4; &#xbc0f; &#xb300;&#xc870;&#xad70;&#xc73c;&#xb85c; &#xbd84;&#xb958;&#xd558;&#xc600;&#xb2e4;. &#xadf8;&#xb8f9; &#xac04; &#xd608;&#xccad; &#xcdcc;&#xc7a5; &#xb77c;&#xc774;&#xd398;&#xc774;&#xc2a4; &#xd65c;&#xc131;&#xb3c4;&#xb97c; &#xbe44;&#xad50;&#xd558;&#xc600;&#xc73c;&#xba70;, &#xc0c1;&#xad00;&#xbd84;&#xc11d;&#xacfc; &#xb2e4;&#xbcc0;&#xb7c9; &#xc120;&#xd615;&#xd68c;&#xadc0;&#xbd84;&#xc11d;&#xc744; &#xc218;&#xd589;&#xd558;&#xc600;&#xb2e4;. &#xacb0;&#xacfc;: &#xc2ec;&#xc7a5;&#xc57d;&#xbb3c;&#xc744; &#xd22c;&#xc5ec; &#xbc1b;&#xc9c0; &#xc54a;&#xc740; &#xac1c;&#xc5d0;&#xc11c;&#xb294; &#xadf8;&#xb8f9; &#xac04; &#xcdcc;&#xc7a5; &#xb77c;&#xc774;&#xd398;&#xc774;&#xc2a4; &#xd65c;&#xc131;&#xb3c4;&#xc5d0; &#xc720;&#xc758;&#xd55c; &#xcc28;&#xc774;&#xac00; &#xc5c6;&#xc5c8;&#xb2e4;. &#xbc18;&#xba74;, &#xc2ec;&#xc7a5;&#xc57d;&#xbb3c;&#xc744; &#xd22c;&#xc5ec; &#xbc1b;&#xc740; Stage C &#xac1c;&#xc5d0;&#xc11c;&#xb294; &#xb300;&#xc870;&#xad70;(&#xc911;&#xc559;&#xac12; &#xcc28;&#xc774; 67.5&#xa0;U/L; 95% &#xc2e0;&#xb8b0;&#xad6c;&#xac04; [CI], 19.0-184.0), Stage B1(57.0&#xa0;U/L; 95% CI, 12.0-145.0), Stage B2(65.8&#xa0;U/L; 95% CI, 18.0-156.0) &#xbc0f; &#xc2ec;&#xc7a5;&#xc57d;&#xbb3c;&#xc744; &#xd22c;&#xc5ec; &#xbc1b;&#xc9c0; &#xc54a;&#xc740; Stage C(58.0&#xa0;U/L; 95% CI, 9.0-268.0)&#xc5d0; &#xbe44;&#xd574; &#xcdcc;&#xc7a5; &#xb77c;&#xc774;&#xd398;&#xc774;&#xc2a4; &#xd65c;&#xc131;&#xb3c4;&#xac00; &#xb192;&#xc558;&#xb2e4;. &#xb610;&#xd55c; &#xc2ec;&#xc7a5;&#xc57d;&#xbb3c;&#xc744; &#xd22c;&#xc5ec; &#xbc1b;&#xc740; Stage C &#xac1c;&#xc758; 25%(3/12)&#xc5d0;&#xc11c; &#xcdcc;&#xc7a5; &#xb77c;&#xc774;&#xd398;&#xc774;&#xc2a4; &#xd65c;&#xc131;&#xb3c4;&#xac00; 400&#xa0;U/L&#xb97c; &#xcd08;&#xacfc;&#xd55c; &#xbc18;&#xba74;, &#xc2ec;&#xc7a5;&#xc57d;&#xbb3c;&#xc744; &#xd22c;&#xc5ec; &#xbc1b;&#xc9c0; &#xc54a;&#xc740; Stage C &#xac1c;&#xc5d0;&#xc11c;&#xb294; 400&#xa0;U/L&#xb97c; &#xcd08;&#xacfc;&#xd55c; &#xac1c;&#xac00; &#xc5c6;&#xc5c8;&#xb2e4;. &#xcdcc;&#xc7a5; &#xb77c;&#xc774;&#xd398;&#xc774;&#xc2a4; &#xd65c;&#xc131;&#xb3c4;&#xb294; &#xd478;&#xb85c;&#xc138;&#xb9c8;&#xc774;&#xb4dc; &#xd22c;&#xc5ec;&#xae30;&#xac04;(&#x3c1;&#xa0;=&#xa0;0.67) &#xbc0f; &#xc548;&#xc9c0;&#xc624;&#xd150;&#xc2e0;-&#xc804;&#xd658; &#xd6a8;&#xc18c; &#xc5b5;&#xc81c;&#xc81c; &#xd22c;&#xc5ec;&#xae30;&#xac04;(&#x3c1;&#xa0;=&#xa0;0.62)&#xacfc; &#xc591;&#xc758; &#xc0c1;&#xad00;&#xad00;&#xacc4;&#xb97c; &#xbcf4;&#xc600;&#xb2e4;. &#xb2e4;&#xbcc0;&#xb7c9; &#xbd84;&#xc11d;&#xc5d0;&#xc11c; &#xc2ec;&#xc7a5;&#xc57d;&#xbb3c; &#xd22c;&#xc5ec;&#xb294; MMVD &#xac1c;&#xc758; &#xcdcc;&#xc7a5; &#xb77c;&#xc774;&#xd398;&#xc774;&#xc2a4; &#xd65c;&#xc131;&#xb3c4;&#xc640; &#xb3c5;&#xb9bd;&#xc801; &#xc5f0;&#xad00; &#xc694;&#xc778;&#xc774;&#xc5c8;&#xb2e4;. &#xacb0;&#xb860; &#xbc0f; &#xc784;&#xc0c1;&#xc801; &#xc758;&#xc758;: &#xc2ec;&#xc7a5;&#xc57d;&#xbb3c;&#xc744; &#xd22c;&#xc5ec; &#xbc1b;&#xb294; &#xc77c;&#xbd80; MMVD &#xac1c;&#xc5d0;&#xc11c; &#xcdcc;&#xc7a5; &#xb77c;&#xc774;&#xd398;&#xc774;&#xc2a4; &#xd65c;&#xc131;&#xb3c4;&#xac00; &#xc99d;&#xac00;&#xd560; &#xc218; &#xc788;&#xc73c; &#xbbc0;&#xb85c;, MMVD &#xac1c;&#xc5d0;&#xc11c; &#xcdcc;&#xc7a5; &#xb77c;&#xc774;&#xd398;&#xc774;&#xc2a4; &#xac80;&#xc0ac; &#xacb0;&#xacfc; &#xd574;&#xc11d; &#xc2dc; &#xc2ec;&#xc7a5;&#xc57d;&#xbb3c; &#xd22c;&#xc5ec; &#xc774;&#xb825;&#xc744; &#xd568;&#xaed8; &#xace0;&#xb824;&#xd574;&#xc57c; &#xd55c;&#xb2e4;. Dogs with myxomatous mitral valve disease (MMVD), particularly those with congestive heart failure, can have increased serum pancreatic lipase activity, which is commonly used as a marker of pancreatic injury. However, it remains unclear whether this increase is related to the severity of heart disease itself or to the medications used to treat congestive heart failure in dogs. The present study evaluated pancreatic lipase activity in 82 dogs, including 67 dogs with different stages of MMVD and 15 control dogs. Among dogs not receiving cardiac medications, serum pancreatic lipase activity did not differ according to MMVD stage. In contrast, dogs with Stage C MMVD receiving cardiac medications had higher serum pancreatic lipase activity than the other groups. Three of 12 (25%) medicated stage C dogs had pancreatic lipase activity above 400&#xa0;U/L, a threshold considered suggestive of pancreatitis, whereas none of the non-medicated Stage C dogs exceeded this threshold. Longer durations of furosemide and angiotensin-converting enzyme inhibitor administration were also associated with higher serum pancreatic lipase activity in medicated stage C dogs. These findings suggest that cardiac medication use should be considered when interpreting increased serum pancreatic lipase activity in dogs with MMVD.",
+      "categories": [
+        "cardiology",
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42840743",
+      "title": "Pleuropneumonia and mediastinitis caused by Rhodococcus equi in a dog: a case report.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Salarolli T, de Oliveira TS, Ferreira FCB, Zanon IP, Prates IP, da Costa AJA, Resende J&#xfa;nior T, de Carvalho TP, Silva ROS, Santos RL",
+      "date": "2026 10 07",
+      "dateObject": "2026 10 07",
+      "abstract": "Rhodococcus equi is a cosmopolitan bacterium found in the feces of several animals, and it is recognized as a major cause of bronchopneumonia in foals, as well as an opportunistic pathogen causing infections in humans and, rarely, in other species. This report describes a rare and atypical infection by Rhodococcus equi in a mixed-breed dog, associated with a pyogranulomatous pleuropneumonia and mediastinitis with abundant intralesional Gram-positive coccobacilli. The bacterium was isolated and identified as Rhodococcus hoagii ( R. equi ) using matrix-assisted laser desorption ionization-time of flight (MALDI-ToF), followed by whole-genomic sequencing that detected the vapN virulence-associated gene and identified a new sequence type (ST), designated as ST111.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42840741",
+      "title": "Surgical management of an unstable occipital condyle fracture in a dog using a patient-specific CNC-milled titanium implant: a case report.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Jeong N, Kim H, Cho C, Jung J",
+      "date": "2026 10 07",
+      "dateObject": "2026 10 07",
+      "abstract": "A 10-year-old castrated male Pomeranian was evaluated after a fall and presented with tetraparesis, dysphagia, and headturn. Magnetic resonance imaging (MRI) revealed a right occipital condyle fracture that caused brainstem compression and cerebellar infarction from a displaced bony fragment. According to the Anderson and Montesano classification in human medicine, this case was presumed to be Type 3, indicating instability, and surgical correction was considered. A bone fragment located in the medulla oblongata was left in situ owing to the potential risk of severe complications from removal. Occipitocervical stabilization surgery was performed to prevent further damage from instability. A patient-specific titanium implant was designed by CAD and fabricated by CNC milling, and screws were applied to the occiput and C1 vertebra using standard techniques, whereas a screw was inserted transversely into the C2 spinous process to minimize the risk of implant failure from neck flexion. Postoperative computed tomography (CT) confirmed proper implant placement without neural injury. Over time, the patient showed improvements in hypoglossal dysfunction and gait, and was discharged on postoperative day five. Occipital condyle fractures are rare in both veterinary and human medicine, with most cases classified as type 1 or 2, and typically do not require surgical intervention. To the best of our knowledge, this is the first peer-reviewed description of surgical stabilization of an occipital condyle fracture in a dog using a patient-specific, CNC-milled titanium implant. Conservative management of occipital condyle fracture and surgical stabilization of craniocervical junction fractures have been described previously, and the contribution of the present report lies in the implant design and fabrication workflow rather than in the surgical management of craniocervical injury per se .",
+      "categories": [
+        "surgery",
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "42840567",
+      "title": "Prognostic indicators associated with 2-week survival and postoperative antimicrobial use following ovariohysterectomy for canine pyometra from 2012 to 2021: a multicenter retrospective cohort of 470 cases.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Langfitt SM, Arun A, Spector DI, Maza FJ, Buoniconti S, Regier PJ, Hardie ME, Marvel S, Grimes JA",
+      "date": "2026 10 07",
+      "dateObject": "2026 10 07",
+      "abstract": "This study aimed to retrospectively evaluate factors associated with 2-week survival following ovariohysterectomy for pyometra in dogs. This study included 470 intact bitches that underwent ovariohysterectomy for pyometra. In this multi-institutional retrospective cohort study, medical records were reviewed for clinical data, including signalment, duration of clinical signs, blood count findings, presence of septic peritonitis, culture and susceptibility results, antibiotics prescribed and duration, and survival at 2&#x202f;weeks postoperatively (from the medical record or via owner contact). A univariable analysis was performed due to the low mortality rate to evaluate the association between variables and 2-week survival. Four hundred and fifty-two dogs survived to discharge, of which 10 dogs (2.2%) did not survive the 2-week follow-up. Eighteen dogs (3.8%) did not survive to discharge (DNSD). Post-discharge 2-week survival was 97.8% (442/452) and was associated with younger age and the absence of pre-operative azotemia, hyperkalemia, and hypoglycemia ( p -values: 0.005, 0.043, 0.004, and 0.015, respectively). No association was found with pyometra type (open vs. closed), oral antibiotic use or duration, or any other assessed variable ( p -values > 0.05). Younger dogs that were presented for pyometra without azotemia, hyperkalemia, and/or hypoglycemia had improved 2-week postoperative survival. An association between postoperative discharge antibiotic use and 2-week survival was not identified in this study. Further studies with greater statistical power are needed to evaluate the potential effect of postoperative antibiotic use on survival.",
+      "categories": [
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42840433",
+      "title": "Prognostic utility of red blood cell distribution width-based ratios and their individual components for mortality prediction in dogs with acute pancreatitis.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Diaz-Gonzalez A, Espadas-Gonzalez L, P&#xe9;rez-Merino EM, Mart&#xed;nez-Zafra C, Crist&#xf3;bal-Verdejo JI",
+      "date": "2026 10 07",
+      "dateObject": "2026 10 07",
+      "abstract": "Prognostic assessment is critical in dogs with acute pancreatitis (AP). Composite biomarkers such as the red blood cell distribution width (RDW)-to-albumin ratio (RAR) and hemoglobin-to-RDW ratio (HRR) have shown prognostic value in human critical care but have not been evaluated in canine AP. A retrospective cohort study was conducted in 80 dogs with AP and 10 healthy controls. The diagnostic and prognostic utility of admission HRR and RAR was compared with that of their individual components measured at admission (RDW, hemoglobin and albumin). Outcome was classified as survival or non-survival to hospital discharge. Receiver operating characteristic (ROC) curve analysis and multivariable logistic regression were performed. The overall mortality rate was 33.75%. Non-survivors presented with significantly lower hemoglobin, albumin and HRR values and significantly higher RDW values than survivors, whereas RAR did not differ between outcome groups. Among the variables evaluated, hemoglobin showed the highest discriminatory performance (AUC = 0.704; 95% CI: 0.583-0.812), followed by HRR (AUC = 0.669; 95% CI: 0.547-0.790), RDW (AUC = 0.663; 95% CI: 0.540-0.786), CAPCSI (AUC = 0.658) and albumin (AUC = 0.634; 95% CI: 0.506-0.757). In the multivariable model including age, hemoglobin, albumin, RDW and CAPCSI, only CAPCSI remained independently associated with survival (adjusted OR = 0.612; 95% CI: 0.403-0.929; p = 0.021). Integrating erythrocyte indices into composite ratios offered no clinical advantage over evaluating individual markers in dogs with acute pancreatitis. Among the laboratory variables assessed, hemoglobin showed the highest discriminatory performance, although its overall prognostic accuracy remained moderate. These findings suggest that erythrocyte-derived variables may serve as adjunctive prognostic markers in dogs with AP but should be interpreted alongside established clinical assessment.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42432684",
+      "title": "Human-mediated determinants of trypanocide use in dogs in Southeastern Nigeria: a cross-sectional survey with implications for resistance and One Health.",
+      "journal": "BMC Veterinary Research",
+      "authors": "Obi CF, Ezeokonkwo RC",
+      "date": "2026 10 07",
+      "dateObject": "2026 10 07",
+      "abstract": "Trypanocide resistance is an escalating threat to African animal trypanosomosis control, yet how dogs are actually treated for trypanosomosis, by who, with what drugs, and under what oversight, remains poorly characterized despite the documented presence of resistant trypanosome populations in this neglected host compartment. In a cross-sectional survey interpreted within a One Health framework, grounded in data from Enugu North Senatorial Zone, Southeastern Nigeria, we integrate previously published molecular and epidemiological data on canine trypanosomes with original cross-sectional survey data from 120 dog-owning households and 250 dogs. Associations are descriptive and inferential; no new resistance assays or transmission studies were undertaken. Survey data revealed that 87.5% of treated dogs received treatment without prior parasitological confirmation, 83% received doses estimated without weight-based calculation, and 76.7% of households obtained trypanocides from unregulated sources. Only 38.3% had geographic access to a licensed veterinarian, and 60% reported no community access to diagnostic testing. Inter-household dog movement was documented in 44.2% of households and 57.5% reported livestock co-habitation. These findings are consistent with sustained selective pressure for resistance, interpreted alongside published evidence of diminazene-resistant and multidrug-resistant Trypanosoma isolates from the same zone. Dogs emerge as plausible reservoirs and amplifiers of drug-resistant trypanosomes within a One Health framework, posing risks to livestock productivity and public health. The molecular identification of Trypanosoma brucei gambiense in study-area dogs warrants structured surveillance investigation. Direct transmission pathways were not evaluated. Addressing these drivers requires robust veterinary drug regulation, expanded veterinary service access, community education, and integration of companion animals into national trypanosomosis surveillance frameworks.",
+      "categories": []
+    },
+    {
+      "pmid": "42842143",
+      "title": "Trichomonads in the oral cavity of dogs and cats: species composition and relationship with animal age and oral hygiene status.",
+      "journal": "Veterinary Research Communications",
+      "authors": "Piekara-St&#x119;pi&#x144;ska A, Czerski A, Szczepankiewicz B, Lachowicz-Wolak A, Gorczykowski M, Piekarska J",
+      "date": "2026 10 07",
+      "dateObject": "2026 10 07",
+      "abstract": "The oral cavity provides a suitable environment for various microorganisms, including protozoa such as trichomonads, which may be associated with periodontal disease development. Humans are considered the typical hosts of Trichomonas tenax but it has also been found in dogs, cats, and other animals, which makes it a factor with a significant zoonotic potential. Apart from T. tenax, domestic carnivores may be infected with such species as T. canistomae, T. felistomae and T. brixi. The aim of this study was to determine the prevalence, species composition, and risk factors of trichomonad colonization of the oral cavity in dogs and cats from Poland. Oral swabs from 238 household animals (151 dogs and 87 cats) were examined using cultivation methods. Amplification of ITS1- 5.8&#xa0;S rRNA-ITS2 fragment was performed for microscopic-positive samples and PCR products were further sequenced. Trichomonads were identified in 26 out of 151 (17.22%) canine and 5 out of 87 (5.75%) feline samples. Higher frequency was observed in older dogs and dogs with intense dental calculus. T. brixi and T. tenax were the only species detected in both dogs and cats. The detection of zoonotic T. tenax in a substantial number of examined animals highlights the relevance of this finding also in the context of human health.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42839754",
+      "title": "The Role of Comorbidities in Pyoderma Among Canine and Feline Diabetic Patients.",
+      "journal": "Veterinary Dermatology",
+      "authors": "Wixon V, Pieper JB, Bachtel J",
+      "date": "2026 10 07",
+      "dateObject": "2026 10 07",
+      "abstract": "Pyoderma is considered a secondary complication of diabetes mellitus (DM), yet the relationship remains unclear. One study found 22% of diabetic dogs with dermatopathy had no other comorbidities while cats have not been evaluated. This study evaluated the association of DM and pyoderma in dogs and cats by identifying comorbidities. This retrospective study analysed canine and feline DM cases from August 2019 to November 2022 at Iowa State University and Colorado State University. We analysed cytologically confirmed pyoderma and assessed the prevalence of comorbidities, including allergies, thyroid and adrenal disease, neoplasia and other dermatological disorders. Pyoderma was prevalent in 7.6% (61 of 805) dogs and 4.0% (15 of 372) cats with concurrent DM. Of 61 dogs, two (3.3%) lacked comorbidities which was considered protective (odds ratio [OR]&#x2009;=&#x2009;0.06; 95% CI 0.01-0.29; p&#x2009;<&#x2009;0.001). Allergic dermatitis was the most common comorbidity (70.5%) in dogs with increased odds (OR&#x2009;=&#x2009;9.15; 95% CI 4.25-19.72; p&#x2009;<&#x2009;0.001). Among 15 cats, one (6.7%) lacked comorbidities (OR&#x2009;=&#x2009;0.04; 95% CI 0.01-0.34; p&#x2009;=&#x2009;0.003), while allergic dermatitis appeared most frequent and increased odds (73.3%; OR&#x2009;=&#x2009;18.67; 95% CI 4.81-72.44; p&#x2009;<&#x2009;0.001). West Highland white terriers (OR&#x2009;=&#x2009;4.59; 95% CI 1.43-14.77; p&#x2009;=&#x2009;0.011) and domestic medium hair cats (OR&#x2009;=&#x2009;7.31; 95% Cl 1.05-50.68; p&#x2009;=&#x2009;0.044) had increased odds of pyoderma. This study suggests that pyoderma in DM cats and dogs is uncommon as pyoderma owing to DM alone being seen in only 0.25% of dogs and 0.27% of cats.",
+      "categories": [
+        "internalMedicine",
+        "oncology",
+        "dermatology"
+      ]
+    },
     {
       "pmid": "42834927",
       "title": "Survey-based risk factors and genomic characterization of oral and oropharyngeal Enterobacterales carriage in humans and companion animals: a One Health study.",
@@ -35,6 +171,18 @@
       "abstract": "Secretory carcinoma of the breast is a rare histological subtype in women and is uncommon in female dogs and cats, with only two cases described in female dogs and one case described in a cat. This report describes the histopathological and immunohistochemical features of secretory carcinoma of the mammary gland in a domestic rabbit (Oryctolagus cuniculus). Microscopic evaluation revealed a non-encapsulated, well-demarcated neoplastic proliferation composed of epithelial cells arranged in solid and tubular patterns, supported by a delicate fibrous connective tissue stroma. The neoplastic cells had slightly eosinophilic cytoplasm, frequently containing large, well-demarcated vacuoles that displaced the nucleus to the periphery, giving the cells a signet-ring-like appearance. Periodic acid-Schiff (PAS) histochemical staining, performed with and without diastase digestion, showed positivity in the intracellular and extracellular secretory material in both approaches. Immunohistochemical evaluation was performed for the markers &#x3b1;-lactalbumin, Ki-67, estrogen receptor, progesterone receptor, and COX-2. Positive cytoplasmic immunolabeling for &#x3b1;-lactalbumin was observed in neoplastic cells and in intracellular and extracellular secretory material, confirming their secretory nature. The diagnosis of secretory carcinoma was established based on the association of histopathological, histochemical, and immunohistochemical features. Considering the secretory features of the mammary gland in rabbits, secretory carcinoma should be included in the differential diagnosis of mammary carcinomas with prominent secretory activity in this species.",
       "categories": [
         "oncology"
+      ]
+    },
+    {
+      "pmid": "42790675",
+      "title": "Reassessing neonatal hypoglycemia in kittens: Clinical relevance beyond the laboratory value.",
+      "journal": "Topics in Companion Animal Medicine",
+      "authors": "de Oliveira NMS, Carneiro MD, Talieri IC, Milken VMF, Gouv&#xea;a FN, Borin-Crivellenti S, Crivellenti LZ",
+      "date": "2026 10 06",
+      "dateObject": "2026 10 06",
+      "abstract": "The underdeveloped metabolism in newborn kittens, along with the quick use of liver sugar reserves and the limited ability to produce glucose, makes them prone to low blood sugar levels during this time. This condition may be potentially fatal, although reduced blood glucose values do not necessarily manifest with clinical signs. Fifteen neonatal kittens born to three clinically healthy pregnant queens were evaluated during the first three days of life. Apgar scoring was done daily, and blood glucose measurements began within the first hour after birth (T1), followed by evaluations every 2 hours, with a total of six measurements each day from T2 to T6. Samples were obtained via capillary puncture with alternating digital pads and analyzed using a glucometer validated for cats. A total of 270 glycemic measurements were performed, demonstrating instability during the first hours of life. On the first day, there was a mean glucose concentration of 61.7 &#xb1; 22.2 mg/dL. On the second day, it dropped to 53.9 &#xb1; 16.5 mg/dL. On the third day, metabolic recovery occurred (68.5 &#xb1; 14.7 mg/dL). All neonates maintained adequate Apgar scores and showed no clinical signs of hypoglycemia (< 50 mg/dL; weakness, apathy, or reduced suckling reflex). Marked fluctuations in blood glucose levels were observed during the first 48 hours, characterized by wide glycemic variability (22-165 mg/dL on day 1 and 21-86 mg/dL on day 2). A high frequency of hypoglycemic values was recorded, reaching 51.1% on the first day and 60% on the second, indicating initial metabolic instability despite intermediate mean glucose levels. Progressive stabilization was observed by the third day (range 26-95 mg/dL), with the rate of hypoglycemic events dropping to 22.2%, reflecting the maturation of neonatal metabolic homeostasis. Despite the laboratory diagnosis of hypoglycemia, none of the kittens exhibited clinical manifestations or required intervention.",
+      "categories": [
+        "internalMedicine"
       ]
     },
     {
@@ -689,18 +837,6 @@
       ]
     },
     {
-      "pmid": "42807202",
-      "title": "Machine-driven vs. manual nickel-titanium instrumentation of canine teeth in dogs: a high resolution micro-CT evaluation of canal geometry and obturation quality.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Wunderl J, Ebersp&#xe4;cher-Schweda M, Handschuh S, Tichy A, Schnabl-Feichter E",
-      "date": "2026 09 29",
-      "dateObject": "2026 09 29",
-      "abstract": "Root canal treatment in canine teeth of dogs represents a technically demanding procedure due to complex root canal anatomy and large canal dimensions. The present study aimed to compare different endodontic instrumentation techniques and to evaluate their effects on canal geometry, obturation quality, and procedural safety using high-resolution micro-computed tomography (micro-CT). In addition, the diagnostic value of cone-beam computed tomography (CBCT) in the assessment of postoperative findings was investigated. Thirty extracted canine teeth were randomly assigned to three groups ( n =&#x202f;10) and instrumented using two different machine-driven nickel-titanium (Ni-Ti) systems or manual Ni-Ti hand files. Pre- and post-treatment micro-CT scans were used for quantitative analysis of canal morphology, post-to-pre canal volume ratio, air inclusion, and discrepancies between canal diameter and instrument size. CBCT imaging was performed for post-treatment evaluation. Mixed-model analysis revealed a significant overall effect of instrumentation group on the discrepancy between canal diameter and instrument size ( p &#x202f;=&#x202f;0.008). Pairwise comparisons demonstrated significantly greater discrepancies for manual instrumentation than for one of the machine-driven systems, whereas the remaining comparisons were not statistically significant after Sidak correction. No significant differences were observed in the post-to-pre canal volume ratio between groups ( p &#x202f;=&#x202f;0.464). A significant group effect was identified for internal air volume ( p &#x202f;=&#x202f;0.017), with manual instrumentation being associated with greater internal air volume, indicating less homogeneous obturation. Procedural complications occurred in 26.7% of specimens and were more frequent for the less experienced operator. CBCT imaging demonstrated radiolucent zones at the dentin-filling interface that were not confirmed as voids or debris by micro-CT and were therefore attributed to imaging artifacts. Machine-driven Ni-Ti systems provided more reproducible canal preparation and were associated with more homogeneous obturation despite achieving a comparable post-to-pre canal volume ratio. Moreover, high-resolution micro-CT demonstrated that radiolucent CBCT findings at the dentin-filling interface predominantly reflected imaging-related artifacts rather than true treatment deficiencies, highlighting the importance of cautious interpretation of postoperative CBCT examinations in veterinary endodontics.",
-      "categories": [
-        "surgery"
-      ]
-    },
-    {
       "pmid": "42581420",
       "title": "Positional impact on ocular lens and thyroid radiation doses during feline cranial CT: A thermoluminescent dosimetry study of 70 cases.",
       "journal": "Journal of Feline Medicine and Surgery",
@@ -820,47 +956,6 @@
       "abstract": "Long-term thyroid status and survival after radioiodine treatment of hyperthyroid cats are incompletely characterized, particularly for cats developing iatrogenic hypothyroidism. To determine long-term thyroid outcomes and survival after radioiodine treatment, and to assess associations among thyroid status, hypothyroid remission, levothyroxine treatment, and survival. One thousand three hundred forty-four hyperthyroid cats treated with radioiodine. Prospective longitudinal cohort study. Thyroid and renal status were classified 6-12&#xa0;months after radioiodine treatment and reassessed at 6- to 12-month intervals until death, euthanasia, relapse, loss to follow-up, or study completion. Kaplan-Meier analysis and Cox proportional hazards regression evaluated survival. At 6-12&#xa0;months, 1047/1344 cats (77.9%) were euthyroid, 240/1344 (17.9%) were subclinically hypothyroid, and 57/1344 (4.2%) were overtly hypothyroid. Among initially euthyroid cats, 934/1047 (89.2%) remained euthyroid, 43 (4.1%) developed late-onset hypothyroidism, and 70 (6.7%) developed recurrent hyperthyroidism. Among initially subclinically hypothyroid cats, 102/240 (42.5%) underwent remission to become euthyroid. Median survival was 49.7&#xa0;months in euthyroid cats, 44.6&#xa0;months in subclinically hypothyroid cats, and 36.1&#xa0;months in overtly hypothyroid cats. In multivariable analysis, initial posttreatment thyroid status was not independently associated with survival, whereas older age, male sex, and higher creatinine concentration were. In final-outcome models, untreated subclinical and overt hypothyroidism were independently associated with an increased hazard of death, whereas hypothyroidism in cats treated with levothyroxine was not. Thyroid status after radioiodine treatment is dynamic. Subclinical hypothyroidism frequently resolves, whereas untreated persistent hypothyroidism is associated with shorter survival. Long-term monitoring of thyroid and renal function is critical in managing radioiodine-treated cats. Hyperthyroidism, an overactive thyroid gland, is the most common hormone disorder in older cats. Treatment with radioactive iodine, or radioiodine (131I), cures it in most cats, but some later develop an underactive thyroid gland, called hypothyroidism. This study followed 1344 radioiodine-treated cats for up to 12&#xa0;years, tracking their thyroid function and survival. Most cats maintained normal thyroid function long term. A smaller number developed hypothyroidism, and a few had a relapse of hyperthyroidism. Hypothyroidism took 2 forms: the milder subclinical form, which often resolved on its own, and the more severe overt form, which usually persisted. Cats with persistent, untreated hypothyroidism tended to live shorter lives. Cats whose subclinical hypothyroidism resolved, and cats given thyroid hormone replacement with levothyroxine, both lived about as long as cats that never became hypothyroid. Kidney dysfunction, which hypothyroidism appears to worsen, also strongly affected survival. Thyroid function can keep changing for years after radioiodine treatment, so cats need their thyroid and kidney values checked regularly for life. Treating persistent hypothyroidism with levothyroxine appears to increase survival time compared with no treatment, particularly in cats with overt hypothyroidism.",
       "categories": [
         "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42798654",
-      "title": "A neurotrophic withdrawal hypothesis for multisystem adverse events associated with anti-NGF therapy for canine osteoarthritis pain.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Federico G, Ilardi A, Elia V, Chieffi S",
-      "date": "2026 09 26",
-      "dateObject": "2026 09 26",
-      "abstract": "Post-marketing reports in dogs treated with bedinvetmab (Librela&#x2122;, Zoetis), the first anti-nerve growth factor (NGF) monoclonal antibody approved for canine osteoarthritis pain, include musculoskeletal, autonomic, and neurological events. Existing interpretations address these domains separately or focus on the limitations of pharmacovigilance systems. Here, we propose a complementary, integrative interpretation: at least some of these events may share an on-target component arising from systemic NGF sequestration97an iatrogenic state of neurotrophic withdrawal. The evidence derives mainly from bedinvetmab , but the recent authorization of a second canine anti-NGF agent, izenivetmab (Lenivia&#x2122;, Zoetis), raises a testable class-level safety question. Drawing on neurotrophin biology, human anti-NGF development programs, regulatory data, and the most recent evidence linking somatosensory innervation to skeletal repair, we outline how reduced NGF-mediated trophic support might affect joint protection and load adaptation/fracture repair, autonomic regulation, and central neuronal maintenance, particularly in geriatric animals. We set out the predictions that distinguish this account from unrelated background disease, and the studies that would test them.",
-      "categories": [
-        "surgery",
-        "neurology"
-      ]
-    },
-    {
-      "pmid": "42798635",
-      "title": "Case Report: Topical imiquimod (Aldara&#xae;) as a palliative option for extensive canine facial cutaneous melanocytoma.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Ryu H, Kang M, Cho KW, Jung DI, Bae H",
-      "date": "2026 09 26",
-      "dateObject": "2026 09 26",
-      "abstract": "Cutaneous melanocytic neoplasms in dogs generally present as benign lesions, unlike their oral or digital counterparts, but treatment can be challenging when complete surgical excision is restricted by anatomical location. A 5-year-old neutered male Shiba Inu was evaluated for a firm, well-circumscribed, black-pigmented nodule measuring 4&#x202f;&#xd7;&#x202f;3.8&#x202f;cm on the left facial region, with surrounding pigmented papules. Histopathological examination of punch biopsy specimens confirmed cutaneous melanocytoma with superficial subcutaneous involvement observed in two samples. Complete surgical excision was not feasible due to the broad facial distribution of the nodule and surrounding papules. Consequently, topical immunotherapy with 5% imiquimod cream (Aldara&#xae;; 3&#x202f;M Pharmaceuticals, St Paul, MN, USA) was initiated as a palliative treatment. After 5&#x202f;months of treatment, the nodule decreased in size to 3.3&#x202f;&#xd7;&#x202f;3.0&#x202f;cm, became subjectively softer on palpation, and the number of surrounding papules decreased, with no observed adverse effects. Following discontinuation of treatment during a planned washout period before follow-up biopsy, the nodule increased in size, and histopathological findings remained consistent with the initial diagnosis. This case suggests that topical imiquimod may provide temporary clinical improvement and may be considered as a palliative or maintenance option for canine cutaneous melanocytoma when complete surgical excision is challenging.",
-      "categories": [
-        "oncology",
-        "surgery",
-        "dermatology"
-      ]
-    },
-    {
-      "pmid": "42798594",
-      "title": "Exploratory analysis of perioperative plasma histamine concentrations in dogs with mast cell tumours.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Niwa A, Kadosawa T, Sakai T",
-      "date": "2026 09 26",
-      "dateObject": "2026 09 26",
-      "abstract": "In this exploratory study, we investigated plasma histamine concentration as a perioperative prognostic marker in dogs with mast cell tumours. Mast cell tumours exhibit marked heterogeneity in biological behaviour, and histological grading is widely used for prognostication; however, grading alone does not directly reflect tumour burden or residual disease following surgery. Histamine has a short half-life in the circulation, and persistently elevated plasma histamine levels may reflect continuous release from neoplastic mast cells. Although plasma histamine concentration has been proposed as a marker of prognosis and residual disease, its clinical relevance and optimal interpretation remain incompletely defined. Twenty-seven dogs that underwent surgical excision of mast cell tumours (29 surgeries) during a 28-month study period were included. Associations between plasma histamine concentration and survival outcomes were evaluated using Kaplan-Meier survival analyses. Multivariable analyses were performed to explore factors associated with preoperative and postoperative plasma histamine concentration. Dogs with elevated preoperative plasma histamine concentration (>1.0&#x202f;ng/mL) had significantly shorter progression-free intervals (PFIs) than those with low preoperative plasma histamine concentration (&#x2264;1.0&#x202f;ng/mL). However, in multivariable analyses restricted to dogs with cutaneous mast cell tumours, preoperative plasma histamine concentration was confounded by tumour volume and was not an independent prognostic factor following adjustment. Postoperative plasma histamine concentration values were elevated in only a few cases, limiting formal survival analyses; nonetheless, multivariable analyses demonstrated a significant association between postoperative plasma histamine concentration and gross residual disease, suggesting that postoperative plasma histamine concentration may reflect macroscopic residual tumour but may lack sensitivity for microscopic disease. The findings suggest that preoperative plasma histamine concentration primarily reflects tumour burden in dogs with cutaneous mast cell tumours, whereas postoperative plasma histamine concentration is associated with macroscopic residual disease and may be less informative for detecting microscopic residual or metastatic disease. Plasma histamine concentration may serve as an adjunctive perioperative biomarker when interpreted in conjunction with established clinicopathological factors. Larger prospective studies are warranted to validate assay performance, refine cut-off values, and determine the clinical utility of plasma histamine concentration in canine mast cell tumours.",
-      "categories": [
-        "oncology",
-        "surgery",
-        "dermatology"
       ]
     },
     {
@@ -1128,18 +1223,6 @@
       "date": "2026 09 25",
       "dateObject": "2026 09 25",
       "abstract": "The zoonotic cestodes such as Taenia and Echinococcus species belonging to family taeniidae are of paramount importance in the developing world since they pose serious public health impacts. Dogs serve as definitive hosts, shedding eggs into the environment that can infect livestock and humans. To determine the occurrence of Taeniid infections in dogs, assess the risk factors and evaluate the knowledge, attitudes, and practices (KAP) of dog owners. A cross-sectional study was conducted from September 2025 to February 2026 in Bahir Dar and Gondar cities, Ethiopia. A total of 424 dog fecal samples were collected, and standard fecal flotation techniques were used to examine the eggs. Structured questionnaires were used to gather information on host, management, and owner-related factors. Data were analyzed using chi-square tests and logistic regression in Stata 17, with P&#x2009;<&#x2009;0.05 considered significant. The overall prevalence of taeniid infections was 29.5%, with dogs showing clinical signs such as diarrhea and proglottids in the feces having the highest infection rates (81.1%). Chi-square analysis revealed significant associations with age, sex, clinical signs, roaming behavior, feeding patterns, and owner knowledge. Multivariate analysis confirmed that old age (AOR&#x2009;=&#x2009;2.8, P&#x2009;=&#x2009;0.024), female sex (AOR&#x2009;=&#x2009;0.43, P&#x2009;=&#x2009;0.007), clinical signs (AOR&#x2009;=&#x2009;25.9, P&#x2009;=&#x2009;0.001), free-roaming behavior (AOR&#x2009;=&#x2009;0.05, P&#x2009;=&#x2009;0.001), and inadequate owner knowledge (AOR&#x2009;=&#x2009;0.38, P&#x2009;=&#x2009;0.029) as independent risk factors. The study found that taeniid infections were common in dogs in Bahir Dar and Gondar. The main predictors were age, sex, clinical symptoms, free-roaming behavior, and a lack of owner knowledge. To lower the risk of taeniid infection in the study areas, integrated control measures like routine deworming; responsible dog management, public education, and appropriate offal disposal were suggested.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42790675",
-      "title": "Reassessing neonatal hypoglycemia in kittens: clinical relevance beyond the laboratory value.",
-      "journal": "Topics in Companion Animal Medicine",
-      "authors": "Carneiro MD, de Oliveira NMS, Talieri IC, Milken VMF, Gouv&#xea;a FN, Borin-Crivellenti S, Crivellenti LZ",
-      "date": "2026 09 25",
-      "dateObject": "2026 09 25",
-      "abstract": "The underdeveloped metabolism in newborn kittens, along with the quick use of liver sugar reserves and the limited ability to produce glucose, makes them prone to low blood sugar levels during this time. This condition may be potentially fatal, although reduced blood glucose values do not necessarily manifest with clinical signs. Fifteen neonatal kittens born to three clinically healthy pregnant queens were evaluated during the first three days of life. Apgar scoring was done daily, and blood glucose measurements began within the first hour after birth (T1), followed by evaluations every 2 hours, with a total of six measurements each day from T2 to T6. Samples were obtained via capillary puncture with alternating digital pads and analyzed using a glucometer validated for cats. A total of 270 glycemic measurements were performed, demonstrating instability during the first hours of life. On the first day, there was a mean glucose concentration of 61.7&#xb1; 22.2 mg/dL. On the second day, it dropped to 53.9&#xb1; 16.5 mg/dL. On the third day, metabolic recovery occurred (68.5 &#xb1;14.7 mg/dL). All neonates maintained adequate Apgar scores and showed no clinical signs of hypoglycemia (< 50 mg/dL; weakness, apathy, or reduced suckling reflex). Marked fluctuations in blood glucose levels were observed during the first 48 hours, characterized by wide glycemic variability (22-165 mg/dL on day 1 and 21-86 mg/dL on day 2). A high frequency of hypoglycemic values was recorded, reaching 51.1% on the first day and 60% on the second, indicating initial metabolic instability despite intermediate mean glucose levels. Progressive stabilization was observed by the third day (range 26-95 mg/dL), with the rate of hypoglycemic events dropping to 22.2%, reflecting the maturation of neonatal metabolic homeostasis. Despite the laboratory diagnosis of hypoglycemia, none of the kittens exhibited clinical manifestations or required intervention.",
       "categories": [
         "internalMedicine"
       ]
@@ -1664,18 +1747,6 @@
       ]
     },
     {
-      "pmid": "42725899",
-      "title": "Citation clarification regarding feline eltrombopag in the \"ACVIM consensus statement on the treatment of immune thrombocytopenia in dogs and cats\".",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Kim J, Kwak D",
-      "date": "2026 09 14",
-      "dateObject": "2026 09 14",
-      "abstract": "",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
       "pmid": "42723045",
       "title": "Correction: Clinico-pathological and renal morphological findings in dogs naturally infected with Dirofilaria repens.",
       "journal": "BMC Veterinary Research",
@@ -1988,18 +2059,6 @@
       ]
     },
     {
-      "pmid": "41948785",
-      "title": "Applying the Health Belief Model to Identify Factors Associated With Owner Persistence to Allergen-Specific Immunotherapy.",
-      "journal": "Veterinary Dermatology",
-      "authors": "Williams C, Milum AW, Andritsch S, von Fricken ME, Painter M",
-      "date": "2026 09 11",
-      "dateObject": "2026 09 11",
-      "abstract": "Allergen-specific immunotherapy (ASIT) is the only treatment targeting the pathophysiology of canine atopic dermatitis (cAD) and feline atopic skin syndrome (FASS). Despite its disease-modifying potential, owner persistence remains a clinical challenge. This study applied the Health Belief Model (HBM) to evaluate factors influencing owner persistence with ASIT. We hypothesised that owner perceptions of ASIT effectiveness, perceived barriers (e.g., cost) and ease of treatment integration would be associated with persistence. The objective was to identify modifiable psychological and logistical factors to support sustained ASIT use in cAD and FASS management. No animals were used. Pets prescribed ASIT between 1 January 2020 and 31 May 2024, were identified from four geographically diverse veterinary dermatology practices. Owners completed a survey assessing HBM constructs-perceived susceptibility, perceived severity, perceived benefits, perceived barriers, self-efficacy, social support-and a knowledge domain. Owner-reported ASIT refill behaviour served as a proxy for persistence. Associations between HBM constructs and refill behaviour were evaluated using chi-square tests and logistic regression. Higher perceived disease severity, greater perceived benefits and increased self-efficacy were positively associated with persistence. Owners who viewed their pet's condition as severe, believed ASIT effective, or felt confident administering treatment were more likely to continue therapy. Cost concerns and administration challenges were key perceived barriers. This study highlights the psychological factors in owner persistence with ASIT. HBM-informed educational strategies that emphasise disease impact, treatment value and owner confidence may improve persistence with ASIT and long-term disease management.",
-      "categories": [
-        "dermatology"
-      ]
-    },
-    {
       "pmid": "42722447",
       "title": "Forensic LC-MS/MS Monitoring of Anticoagulant Rodenticide Poisoning in Cats Over a Half-Decade.",
       "journal": "Veterinary Medicine and Science",
@@ -2086,19 +2145,6 @@
       ]
     },
     {
-      "pmid": "42704875",
-      "title": "Evaluation of renal microvascular perfusion in dogs with cardiac disease using Superb Microvascular Imaging.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Yasuda R, Nakamura K, Sasaki N, Yokoyama N, Sasaoka K, Sugawara-Suda M, Kawamoto S, Shiohara N, Kawakami Y, Sato K, Takiguchi M",
-      "date": "2026 09 07",
-      "dateObject": "2026 09 07",
-      "abstract": "Renal dysfunction in cardiac disease is attributed to both reduced cardiac output and venous congestion; however, relative contributions of these mechanisms are difficult to evaluate clinically. Renal microvascular perfusion assessed by Superb Microvascular Imaging (SMI) would be associated with indices of cardiac output and venous congestion in dogs with cardiac disease. Forty-three client-owned dogs were enrolled: 15 healthy dogs (Control), 21 dogs with cardiac disease but without right-sided heart failure (non-RHF), and 7 dogs with signs of right-sided heart failure (RHF). Prospective cross-sectional observational study. SMI images were obtained from renal cortex, and mean SMI signal intensity (SMI-SI) was calculated as an index of renal perfusion. The left ventricular outflow tract velocity-time integral (LVOT-VTI) was used as an index of cardiac output, while caudal vena cava short-to-long axis ratio at minimal inspiratory diameter (CVC SD/LD) was used to indicate venous congestion. Median SMI-SI was 41.3 (95% CI, 39.1-43.8) in Control, 21.6 (95% CI: 19.4-23.9) in non-RHF, and 18.6 (95% CI, 16.4-21.0) in RHF. Both cardiac disease groups had lower values than Control (P&#xa0;<&#xa0;.001). SMI-SI was negatively correlated with CVC SD/LD (&#x3c1;&#xa0;=&#xa0;-0.59, P&#xa0;<&#xa0;.001) and positively correlated with LVOT-VTI (&#x3c1;&#xa0;=&#xa0;0.43, P&#xa0;=&#xa0;.007). In full multivariable analysis, only CVC SD/LD was independently associated with SMI-SI (P&#xa0;=&#xa0;.001). SMI detects reduced renal microvascular perfusion in dogs with cardiac disease, which is associated with venous congestion rather than cardiac output.",
-      "categories": [
-        "cardiology",
-        "internalMedicine"
-      ]
-    },
-    {
       "pmid": "42702519",
       "title": "Quality of Life Shapes Owner Decision-Making in Canine Cancer Care: Insights From Large-Scale Online Discourse.",
       "journal": "Veterinary and Comparative Oncology",
@@ -2147,28 +2193,6 @@
       "categories": [
         "internalMedicine"
       ]
-    },
-    {
-      "pmid": "42691613",
-      "title": "Post-marketing safety monitoring of sodium-glucose cotransporter 2 inhibitors for diabetes in cats: a pharmacovigilance study based on the FDA ADAE database.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Lai X, Chen M, Huang Y, Cheng Y",
-      "date": "2026 09 03",
-      "dateObject": "2026 09 03",
-      "abstract": "Bexagliflozin and velagliflozin are currently the only sodium-glucose cotransporter 2 inhibitors approved by the United States Food and Drug Administration (FDA) for treating diabetes in cats. There are limited real-world safety reports on their associated adverse events (AEs). To analyze AEs associated with bexagliflozin and velagliflozin using real-world data from the FDA Animal Drug Adverse Events (ADAE) database. None. AE reports submitted for cats receiving bexagliflozin and velagliflozin. Data were obtained from the ADAE database up to the second quarter of 2025. Disproportionality analysis was conducted employing four algorithms: the reporting odds ratio (ROR), proportional reporting ratio, Bayesian confidence propagation neural network, and multi-item gamma Poisson shrinker. Of the 34&#x2009;187 AE reports for cats, 2876 were related to bexagliflozin and 2776 to velagliflozin. AEs associated with bexagliflozin spanned 22 system organ classes (SOCs), with stronger signals observed for weight fluctuation, glucosuria, and diabetic ketoacidosis. Velagliflozin-related AEs occurred in 19 SOCs, with higher RORs for ketonuria, hypochloremia, and acid-base disorders. Bexagliflozin was associated with stronger signals for DKA and ketosis, whereas velagliflozin showed stronger signals for ketonuria and hypochloremia. Velagliflozin-related AEs occurred earlier (median onset: 5 vs. 9&#xa0;days), resolved more quickly (median duration: 8 vs. 14&#xa0;days). This study provides a comprehensive safety profile of bexagliflozin and velagliflozin for diabetes in cats. These findings support veterinarians in implementing differentiated risk monitoring and individualized therapeutic decisions in the management of diabetes in cats. This study investigated the safety of 2 diabetes medications for cats, bexagliflozin and velagliflozin, by analyzing adverse event (AE) reports submitted to the FDA. The analysis revealed distinct AE patterns for the 2 drugs. Bexagliflozin was more frequently associated with weight changes, sugar in the urine, and a serious complication called diabetic ketoacidosis, whereas velagliflozin was more commonly linked to ketones in the urine, low blood chloride, and acid&#x2013;base imbalances. The timing of AEs also differed. AEs related to velagliflozin tended to appear sooner and resolve more rapidly than those associated with bexagliflozin. These differences can guide veterinarians in selecting the most appropriate treatment and in tailoring monitoring protocols to enable early detection of specific problems in each diabetic cat.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42691612",
-      "title": "Evaluation of basal cortisol and the adrenocorticotropic hormone stimulation test in 982 dogs undergoing investigation for hypoadrenocorticism.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Da Silva AJ, Barton SA, Shiel RE, Mooney CT",
-      "date": "2026 09 03",
-      "dateObject": "2026 09 03",
-      "abstract": "The adrenocorticotropic hormone (ACTH) stimulation test is the gold standard test for diagnosing hypoadrenocorticism. However, basal cortisol is recommended for screening but fails to consider the effect of analytical variation and previous glucocorticoid therapy on test performance and additional information that a stimulation test could provide. To investigate the effect of varied cut-offs and previous glucocorticoid therapy on the diagnostic performance of basal cortisol and whether ACTH stimulation test results impart additional prognostic information. Fifty-five and 927 hospitalized dogs with and without hypoadrenocorticism, respectively. Retrospective case record analysis of dogs undergoing ACTH stimulation testing. Cortisol concentrations were compared between glucocorticoid-exposed (GS, n&#xa0;=&#xa0;198) and non-exposed (NGS, n&#xa0;=&#xa0;729) groups. Basal cortisol concentrations &#x2264;&#x2009;2.0&#xa0;&#x3bc;g/dL were significantly (P&#xa0;<&#xa0;.0001) more common in the GS (n&#xa0;=&#xa0;91, 46.0%) than in the NGS group (n&#xa0;=&#xa0;226, 31.0%). False-positive flat-line ACTH stimulation test results occurred in 11 (1.2%) dogs. Basal cortisol &#x2264;&#x2009;2.0&#xa0;&#x3bc;g/dL demonstrated imperfect diagnostic sensitivity (98.2%; 95% CI, 90.3%-100%) and poor specificity (65.8%; 95% CI, 62.7%-68.9%). Increasing the cut-off from 2.0 to 2.4, 2.7, or 3.1&#xa0;&#x3bc;g/dL improved diagnostic sensitivity at the expense of specificity. In the NGS group, basal >&#x2009;7.0&#xa0;&#x3bc;g/dL, post-ACTH >&#x2009;15.6&#xa0;&#x3bc;g/dL, and delta <&#x2009;5.3&#xa0;&#x3bc;g/dL cortisol concentrations were associated with increased risk of not surviving to discharge. Higher basal cortisol concentration cut-offs (>2&#xa0;&#x3bc;g/dL) maximize test sensitivity to the detriment of specificity. Adrenocorticotropic hormone stimulation test results rule out hypoadrenocorticism in the majority of dogs and can provide prognostic information.",
-      "categories": []
     },
     {
       "pmid": "42689384",
@@ -2821,20 +2845,6 @@
       ]
     },
     {
-      "pmid": "42517970",
-      "title": "Cross-species oncolytic virotherapy in vitro: BoHV4EGFP&#x394;TK as a novel candidate against canine osteosarcoma and histiocytic sarcoma.",
-      "journal": "Veterinary Research Communications",
-      "authors": "Melania DP, Sergio M, Valentina F, Rosanna DL, Attilio C, Paolo B, Gaetano D, Elisabetta R, Floriana F, Wolfgang B, Rosanna V, Melania A, Giuseppina B, Simona B, Benedetta P, Federico A",
-      "date": "2026 07 29",
-      "dateObject": "2026 07 29",
-      "abstract": "Canine osteosarcoma (cOSA) and histiocytic sarcoma (cHS) are aggressive tumors characterized by poor prognoses and limited therapeutic options. Oncolytic viruses represent a promising treatment option for these tumors. Based on this hypothesis, this study aimed to evaluate direct and indirect oncolytic effects of Bovine Herpes virus type 1 (BoHV1) and a recombinant type 4 (BoHV4EGFP&#x394;TK). Here we used cOSA, cHS and cutaneous fibroblast (FDOG) cell lines. BoHV1 and BoHV4EGFP&#x394;TK can successfully infect cOSA and cHS cell lines with 1 multiplicity of infection (MOI). Notably, BoHV4EGFP&#x394;TK displayed a less prominent ability to infect FDOG, whereas BoHV1 showed the highest percentage of infected cells in FDOG. Flow cytometry results showed that BoHV4EGFP&#x394;TK, unlike BoHV1, induces a high percentage of dead and infected cells in all tumor cell lines. BoHV4EGFP&#x394;TK infected FDOG showed over time a stable low percentage of dead and infected cells. Moreover, BoHV4EGFP&#x394;TK infection of canine tumor cell lines triggered apoptosis and increased (Gasdermin-D) GSDM-D levels. Furthermore, both viruses exerted indirect oncolytic effects like influence on tumor cell motility. Efficacy varied by tumor cell line and time point. In conclusion, BoHV4EGFP&#x394;TK compared to BoHV1, showed a prominent tropism for cancer cells and deserve future investigation to confirm its oncolytic potential.",
-      "categories": [
-        "internalMedicine",
-        "oncology",
-        "dermatology"
-      ]
-    },
-    {
       "pmid": "42523885",
       "title": "Pericardial hemangiosarcoma in a cat.",
       "journal": "JFMS Open Reports",
@@ -3054,16 +3064,6 @@
         "surgery",
         "dermatology"
       ]
-    },
-    {
-      "pmid": "42432684",
-      "title": "Human-mediated determinants of trypanocide use in dogs in Southeastern Nigeria: a cross-sectional survey with implications for resistance and One Health.",
-      "journal": "BMC Veterinary Research",
-      "authors": "Obi CF, Ezeokonkwo RC",
-      "date": "2026 07 10",
-      "dateObject": "2026 07 10",
-      "abstract": "Trypanocide resistance is an escalating threat to African animal trypanosomosis control, yet how dogs are actually treated for trypanosomosis, by who, with what drugs, and under what oversight, remains poorly characterized despite the documented presence of resistant trypanosome populations in this neglected host compartment. In a cross-sectional survey interpreted within a One Health framework, grounded in data from Enugu North Senatorial Zone, Southeastern Nigeria, we integrate previously published molecular and epidemiological data on canine trypanosomes with original cross-sectional survey data from 120 dog-owning households and 250 dogs. Associations are descriptive and inferential; no new resistance assays or transmission studies were undertaken. Survey data revealed that 87.5% of treated dogs received treatment without prior parasitological confirmation, 83% received doses estimated without weight-based calculation, and 76.7% of households obtained trypanocides from unregulated sources. Only 38.3% had geographic access to a licensed veterinarian, and 60% reported no community access to diagnostic testing. Inter-household dog movement was documented in 44.2% of households and 57.5% reported livestock co-habitation. These findings are consistent with sustained selective pressure for resistance, interpreted alongside published evidence of diminazene-resistant and multidrug-resistant Trypanosoma isolates from the same zone. Dogs emerge as plausible reservoirs and amplifiers of drug-resistant trypanosomes within a One Health framework, posing risks to livestock productivity and public health. The molecular identification of Trypanosoma brucei gambiense in study-area dogs warrants structured surveillance investigation. Direct transmission pathways were not evaluated. Addressing these drivers requires robust veterinary drug regulation, expanded veterinary service access, community education, and integration of companion animals into national trypanosomosis surveillance frameworks.",
-      "categories": []
     },
     {
       "pmid": "42405028",

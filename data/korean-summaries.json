@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T00:45:27.335Z",
+  "updated_at": "2026-10-08T01:04:03.657Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -6439,6 +6439,86 @@
       "title": "Mammary secretory carcinoma in a female domestic rabbit (Oryctolagus cuniculus): histopathological and immunohistochemical features.",
       "journal": "Veterinary Research Communications",
       "generated_at": "2026-10-07T00:44:36.533Z",
+      "model": "gpt-5-mini"
+    },
+    "42839754": {
+      "brief_summary": "본 연구는 아이오와주립대와 콜로라도주립대의 2019년 8월~2022년 11월 기록을 후향적으로 분석해 당뇨병(DM) 반려견 및 반려묘에서 pyoderma(화농성 피부감염)와 동반질환의 연관성을 평가했다. DM 환자 중 pyoderma 유병률은 개에서 7.6% (61/805), 고양이에서 4.0% (15/372)였고, DM 단독으로 인한 pyoderma는 드물어 개 0.25%, 고양이 0.27%만 관찰되었다. 알레르기성 피부염이 가장 흔한 동반질환으로 개(70.5%, OR=9.15)와 고양이(73.3%, OR=18.67)에서 pyoderma 발생 위험을 높였으며, 임상적으로는 DM 환자에서 pyoderma가 관찰되면 다른 동반질환을 적극적으로 평가할 필요가 있음을 시사한다.",
+      "detailed_summary": "후향적 연구로 2019년 8월~2022년 11월 사이 아이오와주립대와 콜로라도주립대의 당뇨병(DM) 환자 기록을 분석했다. 대상은 DM 진단을 받은 개 805마리와 고양이 372마리였고, pyoderma는 세포학적으로 확진된 경우만 포함했다. 연구는 알레르기, 갑상선 및 부신 질환, 종양 및 기타 피부질환 등 동반질환의 유병률과 pyoderma와의 연관성을 평가했다. 결과는 개에서 pyoderma 유병률 7.6% (61/805), 고양이 4.0% (15/372)였고, 동반질환이 없는 사례는 개 2예(3.3%), 고양이 1예(6.7%)로 동반질환 부재는 보호적 연관성(개 OR=0.06, 95% CI 0.01–0.29, p<0.001; 고양이 OR=0.04, 95% CI 0.01–0.34, p=0.003)을 보였다. 알레르기성 피부염이 가장 흔한 동반질환으로 개에서 70.5% (OR=9.15, 95% CI 4.25–19.72, p<0.001), 고양이에서 73.3% (OR=18.67, 95% CI 4.81–72.44, p<0.001)의 비율과 유의한 연관성을 보였다. 품종 연관성으로는 West Highland white terrier(개, OR=4.59, p=0.011)와 domestic medium hair(고양이, OR=7.31, p=0.044)에서 pyoderma 발생 위험이 증가했다. 결론적으로 DM 자체만으로 생기는 pyoderma는 드물며, 임상에서는 pyoderma가 있는 DM 환자에서 다른 동반질환을 확인하는 것이 중요하다고 제시하였다.",
+      "title": "The Role of Comorbidities in Pyoderma Among Canine and Feline Diabetic Patients.",
+      "journal": "Veterinary Dermatology",
+      "generated_at": "2026-10-08T01:04:03.637Z",
+      "model": "gpt-5-mini"
+    },
+    "42840433": {
+      "brief_summary": "후향적 코호트 연구에서 급성 췌장염(acute pancreatitis, AP)으로 입원한 개 80마리(대조군 10마리)를 대상으로 적혈구 분포 폭(RDW), 헤모글로빈, 알부민 및 이들로 계산한 비율(RDW-대-알부민 비율 RAR, 헤모글로빈-대-RDW 비율 HRR)의 예후 예측 가치를 평가했다. 전체 사망률은 33.75%였고 비생존군은 헤모글로빈·알부민·HRR이 낮고 RDW는 높았으나 RAR은 그룹 간 차이가 없었다. 헤모글로빈이 가장 높은 판별력(AUC 0.704)을 보였고, 다변량분석에서는 CAPCSI만이 생존과 독립적으로 연관되어 다른 적혈구 지표들은 독립적 예측인자로 남지 못해 적혈구 기반 복합지표는 개의 AP에서 개별 지표보다 임상적 이점이 없었다.",
+      "detailed_summary": "연구는 후향적 코호트로 AP 개 80마리와 건강 대조 10마리를 포함하여 입원 시 혈액검사로 RDW, 헤모글로빈, 알부민과 RAR, HRR을 측정하고 퇴원 시 생존 여부로 결과를 분류했다. 전체 사망률은 33.75%였고 비생존군에서 헤모글로빈·알부민·HRR 값이 유의하게 낮고 RDW는 유의하게 높았다; RAR은 생존군과 비생존군 간 차이가 없었다. 각 지표의 ROC 분석에서 헤모글로빈 AUC는 0.704(95% CI 0.583–0.812)로 가장 높았고, HRR AUC 0.669(95% CI 0.547–0.790), RDW AUC 0.663(95% CI 0.540–0.786), CAPCSI AUC 0.658, 알부민 AUC 0.634(95% CI 0.506–0.757)이었다. 연령, 헤모글로빈, 알부민, RDW, CAPCSI를 포함한 다변량 로지스틱 회귀에서는 CAPCSI만이 생존과 독립적으로 유의한 연관성을 보였고(조정 OR = 0.612; 95% CI 0.403–0.929; p = 0.021) 적혈구 기반 지표들은 독립 예측인자가 되지 못했다. 연구진은 적혈구 지표나 이를 이용한 복합비율이 개의 급성 췌장염에서 보조적 예후마커로 활용될 수는 있으나 단독으로는 예후 예측력이 중간 정도로 제한적이며 기존 임상 평가와 함께 해석해야 한다고 결론지었다. 연구 설계는 후향적 관찰연구임을 감안해야 하며, 초록에 제시된 결과 외의 추가 해석이나 인과관계 주장은 제시되지 않았다.",
+      "title": "Prognostic utility of red blood cell distribution width-based ratios and their individual components for mortality prediction in dogs with acute pancreatitis.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-10-08T01:03:36.850Z",
+      "model": "gpt-5-mini"
+    },
+    "42840567": {
+      "brief_summary": "본 연구는 2012–2021년 다기관 후향적 코호트에서 자궁축농증(pyometra)으로 난소자궁적출술(ovariohysterectomy)을 받은 470마리의 중성화되지 않은 암컷견을 대상으로 2주 생존에 영향을 주는 예후인자와 수술 후 항생제 사용과의 연관성을 후향적으로 평가했다. 퇴원한 452마리 중 2주 후 생존률은 97.8%(442/452)였고, 2주 생존은 젊은 연령과 수술 전 질소혈증(azotemia), 고칼륨혈증(hyperkalemia), 저혈당(hypoglycemia)이 없는 경우에 유의하게 높았다(p=0.005, 0.043, 0.004, 0.015). 퇴원 후 경구 항생제 사용 여부나 기간과 2주 생존 사이에는 유의한 연관성이 관찰되지 않았으며, 저사망률로 인해 단변량 분석만 수행된 점이 주요 제한점으로 제시되었다.",
+      "detailed_summary": "연구는 2012–2021년 사이 다기관의 의무기록을 후향적으로 검토한 코호트 연구로, 자궁축농증으로 난소자궁적출술을 받은 총 470마리의 중성화되지 않은 암컷견을 포함했다. 검토 항목은 신상정보(signalment), 임상 징후 지속기간, 혈구검사 소견, 패혈성 복막염(septic peritonitis) 여부, 배양 및 감수성 결과, 처방 항생제 및 투약기간, 그리고 수술 후 2주 생존(기록 또는 보호자 연락) 등이었다. 전체에서 452마리가 수술 후 퇴원했으며 18마리(3.8%)는 퇴원까지 사망(DNSD)했고, 퇴원 후 2주 이내 사망은 10마리(2.2%)로 나타나 퇴원 후 2주 생존률은 97.8%(442/452)였다. 단변량 분석 결과 젊은 연령과 수술 전 질소혈증, 고칼륨혈증, 저혈당의 부재가 2주 생존과 유의하게 연관되었고(각 p값: 0.005, 0.043, 0.004, 0.015), 개방형 vs 폐쇄형(pyometra type) 여부나 퇴원 후 경구 항생제 사용·기간 등은 2주 생존과 유의한 연관성을 보이지 않았다(p>0.05). 연구 결론은 수술 전 혈액검사상 이상(질소혈증, 고칼륨혈증, 저혈당)이 없는 젊은 개에서 단기 생존이 더 좋았다는 점이며, 퇴원 시 항생제 처방과 단기 생존 간의 연관성은 이 연구에서 확인되지 않았다는 것이다. 중요한 제한점으로는 전체 사망률이 낮아 다변량 분석을 수행하지 못한 점과 후향적 설계로 인한 한계가 있으며, 퇴원 후 항생제의 영향 평가는 더 큰 통계적 검정력을 가진 추가 연구가 필요하다고 보고되었다.",
+      "title": "Prognostic indicators associated with 2-week survival and postoperative antimicrobial use following ovariohysterectomy for canine pyometra from 2012 to 2021: a multicenter retrospective cohort of 470 cases.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-10-08T01:03:24.863Z",
+      "model": "gpt-5-mini"
+    },
+    "42840741": {
+      "brief_summary": "10세 중성화 수컷 포메라니안에서 낙상 후 우측 후두관절(occipital condyle) 골절로 뇌간 압박과 소뇌 경색이 발생해 Anderson and Montesano 분류상 Type 3(불안정)으로 판단되어 수술적 안정화가 시행되었다. CAD로 설계하고 CNC 밀링(CNC milling)으로 제작한 환자 맞춤형 티타늄 임플란트를 이용한 후두-경추 고정술을 시행했고 술후 CT에서 임플란트 위치가 적절하고 신경학적 손상은 없었으며 설하신경(hypoglossal) 기능장애와 보행이 호전되어 수술 5일째 퇴원하였다. 저자들은 이를 개에서 환자 맞춤형 CNC 밀링 티타늄 임플란트를 사용한 최초의 동료심사 보고로 기술하며, 주된 기여는 임플란트 설계·제작 워크플로에 있다고 명시한다.",
+      "detailed_summary": "증례는 10세 중성화 수컷 포메라니안 한 마리로 낙상 후 사지허약(tetraparesis), 연하곤란(dysphagia), 머리 회전(headturn)을 보였고 MRI에서 우측 후두관절 골절로 인한 뇌간 압박과 전위된 골절편에 의한 소뇌 경색이 확인되었다. Anderson and Montesano 분류상 Type 3으로 불안정하다고 판단되어 수술적 교정이 고려되었고, 연수(medulla oblongata)에 위치한 골절편은 제거 시 심각한 합병증 위험이 있어 현존 상태로 두었다. 후두-경추(occipitocervical) 안정화술을 선택하였고, CAD(컴퓨터 지원 설계)로 환자 맞춤형 티타늄 임플란트를 설계하여 CNC 밀링으로 제작한 후 후두와 C1에는 표준 술기대로 나사를, C2 극돌기에는 목 굴곡 시 임플란트 파손 위험을 줄이기 위해 횡방향 나사를 적용하였다. 술후 CT에서 임플란트가 적절히 위치하고 신경 손상은 관찰되지 않았으며, 환자는 설하신경 기능장애와 보행이 점진적으로 개선되어 수술 5일째 퇴원하였다. 저자들은 후두관절 골절이 드물고 대부분 Type 1·2로 보존적 치료로 충분한 경우가 많다고 언급하면서, 본 보고의 주요 기여는 수술적 치료 자체보다는 임플란트 설계·제작 워크플로에 있다고 결론지었다. 본 증례는 단일 보고이므로 결과를 일반화할 수 없다는 점이 중요한 제한점으로 남는다.",
+      "title": "Surgical management of an unstable occipital condyle fracture in a dog using a patient-specific CNC-milled titanium implant: a case report.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-10-08T01:03:04.997Z",
+      "model": "gpt-5-mini"
+    },
+    "42840743": {
+      "brief_summary": "단일 증례보고로, 혼합견에서 발생한 화농육아성(pyogranulomatous) 흉막폐렴 및 종격동염의 원인으로 Rhodococcus equi(동등한 명칭 Rhodococcus hoagii)가 분리·동정되었음을 보고한다. 병변 내 다수의 그람 양성 간구균이 관찰되었고, 매트릭스 보조 레이저 탈착 이온화-비행시간(MALDI-ToF)과 전장 유전체 시퀀싱을 통해 병원체가 확인되었으며 vapN 병원성 유전자를 보유하고 새로운 서열형(ST111)으로 규명되었다. 이 사례는 R. equi가 조랑마(foals)에서 주요 병원체로 알려져 있고 인간 등에서 기회감염을 일으킬 수 있음을 감안할 때, 개에서의 드문 비정형 감염 사례로 임상적 감별의 중요성을 시사한다.",
+      "detailed_summary": "연구는 단일 증례 보고로, 혼합견에서 발생한 흉막폐렴과 종격동염을 대상으로 하였다. 조직검사에서 화농육아성 염증과 다수의 병변 내 그람 양성 간구균이 관찰되었고, 병원균을 분리하여 동정하였다. 동정에는 매트릭스 보조 레이저 탈착 이온화-비행시간(MALDI-ToF)을 사용하였고, 이어 전장 유전체 시퀀싱을 수행하여 종을 Rhodococcus hoagii(R. equi)로 확정하였다. 유전체 분석에서 vapN이라는 병원성 관련 유전자가 검출되었고, 기존에 보고되지 않은 새로운 서열형(sequence type)인 ST111로 규명되었다. 주요 결과는 개에서 드물고 비전형적인 R. equi 감염이 실제로 발생할 수 있음을 보여준다는 점이다. 그러나 본 연구는 단일 증례에 기반하므로 결과를 일반화할 수 없고, 발생 빈도·예후·치료 반응 등은 추가 연구가 필요함을 제한점으로 둔다.",
+      "title": "Pleuropneumonia and mediastinitis caused by Rhodococcus equi in a dog: a case report.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-10-08T01:02:45.437Z",
+      "model": "gpt-5-mini"
+    },
+    "42842143": {
+      "brief_summary": "폴란드 가정견·묘 238마리(개 151, 고양이 87)의 구강을 대상으로 trichomonad 기생충의 유병률과 종 구성, 위험인자를 조사한 연구이다. 구강 면봉을 배양하고 현미경 양성 샘플에 대해 ITS1-5.8S rRNA-ITS2 영역을 증폭·염기서열분석한 결과, 개에서는 26/151(17.22%), 고양이에서는 5/87(5.75%)에서 trichomonad가 검출되었고 T. brixi와 인수공통 가능성이 있는 T. tenax만 확인되었다. 고령견과 치석이 심한 개에서 검출 빈도가 높았으며, T. tenax 검출은 인체 보건 측면의 유의성을 시사한다.",
+      "detailed_summary": "연구는 폴란드의 가정에서 기르는 개(151마리)와 고양이(87마리) 총 238마리를 대상으로 구강 면봉을 채취해 배양법으로 trichomonad를 탐색한 횡단적 관찰 연구이다. 현미경에서 양성으로 확인된 샘플에 대해 ITS1-5.8S rRNA-ITS2 영역을 PCR로 증폭하고 염기서열분석을 수행해 종을 동정했다. 전체에서 개 26/151(17.22%), 고양이 5/87(5.75%)가 양성으로 확인되었고, 동정된 종은 T. brixi와 T. tenax뿐이었다. 분석 결과 연령이 높은 개와 치석이 심한(강한 치석 형성) 개에서 검출 빈도가 더 높았다(초록의 방향성 기술). 저자들은 특히 인수공통 가능성이 있는 T. tenax의 검출이 인간 건강 측면에서 중요할 수 있음을 강조했다. 연구는 폴란드의 가정동물 표본을 대상으로 한 점과 검출·동정에 배양 및 현미경 양성 샘플의 PCR/염기서열분석을 사용한 점을 고려해야 하며, 초록에 제시된 범위 내에서 결과를 해석해야 한다.",
+      "title": "Trichomonads in the oral cavity of dogs and cats: species composition and relationship with animal age and oral hygiene status.",
+      "journal": "Veterinary Research Communications",
+      "generated_at": "2026-10-08T01:03:48.759Z",
+      "model": "gpt-5-mini"
+    },
+    "42842761": {
+      "brief_summary": "후향적 횡단 연구에서 총 82마리( MMVD 67마리: Stage B1=24, B2=22, 비투약 Stage C=9, 투약 Stage C=12; 대조 15마리)를 대상으로 MMVD( myxomatous mitral valve disease)와 혈청 췌장 리파아제 활성의 연관을 평가했다. 임상적 췌장염 증상이 없는 개들에서, 심장 약물을 투여받는 Stage C 개들이 비투약군 및 다른 단계에 비해 혈청 췌장리파아제 활성이 유의하게 높았다(예: 대조군 대비 중앙값 차이 67.5 U/L, 95% CI 19.0–184.0). 12마리의 투약 Stage C 중 3마리(25%)는 400 U/L 초과로 췌장염 의심 역치에 해당했으며, 푸로세미드(furosemide) 투여량/기간(ρ=0.67)과 ACE 억제제(ACE inhibitor) 투여 기간(ρ=0.62)과 양의 상관을 보였고, 다변량 분석에서는 약물 투여가 혈청 췌장리파아제 활성의 독립적 예측인자였다. 임상적으로는 MMVD 환아에서 혈청 췌장리파아제 상승을 해석할 때 심장약물 복용력을 반드시 고려해야 한다.",
+      "detailed_summary": "연구 설계는 후향적 횡단 연구로, 임상적 췌장염 증상이 없는 개 82마리를 포함했다( MMVD 67마리: B1=24, B2=22, 비투약 C=9, 투약 C=12; 대조 15마리). 주요 평가 항목은 혈청 췌장 리파아제 활성(pancreatic lipase activity)이며, MMVD 단계 및 약물 투여 유무에 따라 군별 비교, 상관분석 및 다변량 선형회귀를 시행했다. 비투약 상태에서는 MMVD 단계별로 췌장리파아제 활성에 유의한 차이가 없었으나, 심장 약물을 투여받는 Stage C 군은 대조군 및 B1, B2, 비투약 C군보다 활성도가 높았다(대조군 대비 중앙값 차이 67.5 U/L, 95% CI 19.0–184.0 등). 투약 Stage C 군의 25%(3/12)는 400 U/L를 초과했으며 이는 췌장염 의심 역치에 해당한다. 푸로세미드와의 상관계수는 ρ=0.67, ACE 억제제 투여 기간과의 상관계수는 ρ=0.62로 보고되었고, 다변량 분석에서는 약물 투여 여부가 췌장리파아제 활성의 독립적 예측인자로 나타났다. 결론적으로 MMVD 자체보다는 심부전 치료에 사용되는 약물이 일부 개에서 혈청 췌장리파아제를 상승시킬 수 있으므로 검사 결과 해석 시 약물력을 고려해야 하며, 본 연구는 후향적 관찰 연구라는 점에서 인과관계 규명에는 한계가 있다.",
+      "title": "Evaluation of serum pancreatic lipase activity in dogs with myxomatous mitral valve disease.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-10-08T01:02:32.223Z",
+      "model": "gpt-5-mini"
+    },
+    "42842763": {
+      "brief_summary": "본 연구는 대학 부속병원에 내원한 950마리의 반려견에서 입원 24시간 이내 혈중 부티릴콜린에스터라제(butyrylcholinesterase, BChE) 활성도를 측정해 저활성의 유병률과 임상적 연관성을 평가한 후향적 관찰연구이다. 입원 시 8.7%에서 BChE가 기준치 이하였고(반복 검사 대상 207마리 중 25.6%는 입원 중 저활성을 보임), 저활성은 전신 염증 반응 증후군(SIRS) 및 패혈증과 연관되었으나 예측력은 C-반응성 단백질(C-reactive protein, CRP)에 미치지 못했다. 또한 저 BChE는 사망과 연관이 있었고(독립적 예측인자는 아님) 헤마토크릿·콜레스테롤 감소 및 띠중성구 비율 증가와 연관되었다는 점에서 염증의 음성 지표로 작용한다는 임상적 의미가 있다.",
+      "detailed_summary": "후향적 관찰연구로 총 950마리의 내원 반려견을 대상으로 입원 24시간 이내측정한 BChE 활동도를 분석하였다. BChE 활동도 범위는 482–17,348 U/L(중앙값 4,553 U/L, IQR 3,485–5,926 U/L)이었고, 입원 시 83/950마리(8.7%)에서 기준치 이하였으며 입원 중 반복 검사 대상 207마리 중 53마리(25.6%)가 저활성을 보였다. 저 BChE는 전신 염증 반응 증후군(SIRS) 및 패혈증과 연관성을 보였으나, SIRS·패혈증 판별의 예측값은 C-반응성 단백질(CRP)에 비해 낮았다. 저 BChE는 사망(비생존)과 연관된 것으로 보고되었으나 연구에서는 독립적 예측인자라고 결론내리지 않았다. 또한 저 BChE는 헤마토크릿 및 총 콜레스테롤 수치의 감소와 띠중성구 비율의 증가와 연관되었으나 비만, 급성 췌장염, 악성종양과는 연관이 관찰되지 않았다. 결론적으로 BChE 활동도는 개에서 염증의 음성 마커로 행동하지만 SIRS/패혈증의 단독 판별 도구로서의 유용성은 제한적이며 CRP보다 열등하다.",
+      "title": "Low plasma butyrylcholinesterase activity in dogs: prevalence, association with underlying disorders, laboratory variables, and survival.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-10-08T01:02:18.185Z",
+      "model": "gpt-5-mini"
+    },
+    "42842764": {
+      "brief_summary": "14세 국내 단모묘 한 마리를 대상으로 한 증례보고로, 호흡곤란으로 내원한 고양이에서 심초음파상 상승 대동맥 내 이동성 박리판으로 2개의 내강이 형성되어 대동맥 박리(aortic dissection, AD)로 진단되었고, 경미한 심낭삼출과 탐포나데, 좌심실 동심성 비대가 관찰되었다. 전신성 고혈압(200 mmHg)이 원인으로 추정되어 telmisartan, furosemide, amlodipine으로 치료 후 임상적으로 호전되어 2일 후 퇴원했으나 4개월 후 쇠약으로 사망했다. 부검에서 길이 7.6 cm의 대동맥 내막 박리판과 중증 세균성 대동맥 내막염(endarteritis) 및 패혈증 소견(다기관 괴사·혈전·색전성 사구체신염)이 확인되었고, 신장 배양에서 Pasteurella stomatis를 포함한 혼합 균배양이 검출되어 AD의 치명적 합병증으로서 감염성 대동맥 내막염이 발생할 수 있음을 시사한다.",
+      "detailed_summary": "증례는 14세 국내 단모묘에서 호흡곤란으로 촬영한 흉부 방사선에서 두드러진 대동맥궁 소견을 보였고, 심초음파로 상승 대동맥 내 이동성 박리판이 확인되어 2개의 내강이 형성된 대동맥 박리(AD)로 진단되었다. 검사상 경미한 심낭삼출과 탐포나데, 좌심실의 동심성 비대는 관찰되었으나 좌심방 크기는 정상이었다. 내원 시 전신성 고혈압(200 mmHg)이 확인되어 telmisartan, furosemide, amlodipine을 투여하였고 임상적으로 호전되어 2일 만에 퇴원하였다. 환묘는 퇴원 후 4개월간 양호하다가 쇠약을 보이며 사망하였고, 부검에서 길이 7.6 cm의 대동맥 내막 박리판과 중증 세균성 대동맥 내막염이 확인되었다. 또한 다기관 괴사, 혈전, 색전성 사구체신염 등 패혈증을 시사하는 소견이 있었고, 신장 배양에서 Pasteurella stomatis를 포함한 혼합 균배양이 나와 내막염 병변과 연관이 있던 것으로 추정되었다. 결론적으로 본 증례는 감염성 대동맥 내막염이 대동맥 박리의 드문 치명적 합병증이 될 수 있음을 보고한다. 본 연구는 단일 증례보고로서 일반화에는 한계가 있다.",
+      "title": "Bacterial aortic endarteritis with sepsis as a rare complication of aortic dissection in a cat.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-10-08T01:02:06.607Z",
+      "model": "gpt-5-mini"
+    },
+    "42842766": {
+      "brief_summary": "건강한 고양이 42마리(보호자 31명)를 대상으로 초기 단계 만성 신장 질환(CKD)용 상업적 습식 치료식의 기호성을 평가한 개방형 가정 내 탐색적 시범 연구이다. 보호자 평가에서 수용도는 긍정 69.0%(29마리), 부정 23.8%(10마리), 중립 7.1%(3마리)였고, 기존 습식 사료(Phase 2)에서 기록된 섭취량이 신장식(Phase 1)보다 유의하게 높았다(P < .001), 섭취 시작 지연 시간(latency)은 유의차 없음(P = .07). 동시제공(Phase 3)에서는 통계적 선호 차이가 없었지만(P = .34) 보호자 인식으로는 기존 사료 선호 47.6%(20마리), 신장식 선호 45.2%(19마리)였고, 처방 시 78.6%(33마리)의 보호자가 이 치료식을 제공하겠다고 답해 단기간 시험에서 대체로 수용성이 양호하다고 결론지었다.",
+      "detailed_summary": "연구는 3단계(각 단계 6일) 개방형 가정 내 급여 시험으로 진행되어 Phase 1에서 신장용 습식 치료식만, Phase 2에서 보호자의 기존 습식 사료만, Phase 3에서 두 사료를 동시에 제공하였다. 보호자는 사료 제시부터 식사 시작까지의 시간(지연 시간), 섭취량, 급여 관련 행동을 기록하였고 기술통계 및 혼합효과 회귀모형으로 분석했다. 총 대상은 42마리의 건강한 고양이였고, 보호자 기반의 수용도 평가는 긍정 69.0%(29), 부정 23.8%(10), 중립 7.1%(3)로 보고되었다. 기록된 섭취량은 기존 사료(Phase 2)에서 신장식(Phase 1)보다 유의하게 높은 것으로 나타났으며(P < .001), 섭취 시작 지연 시간에는 유의한 차이가 없었다(P = .07). 동시제공(Phase 3)에서는 두 사료 간 통계적 선호 차이는 없었다(P = .34), 그러나 보호자 주관적 인식에서는 기존 사료 선호 47.6%(20), 신장식 선호 45.2%(19)로 엇비슷했다. 연구진은 단기간의 가정 내 시범에서 대부분의 건강한 고양이가 해당 초기 CKD용 습식 치료식을 수용했다고 결론지었으나, 본 연구가 단기간 관찰임을 중요한 제한점으로 명시하고 있다.",
+      "title": "Palatability assessment of a commercial wet renal diet in healthy cats: an open-label in-home exploratory trial.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-10-08T01:01:53.052Z",
       "model": "gpt-5-mini"
     }
   }
