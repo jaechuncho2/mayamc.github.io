@@ -1,6 +1,108 @@
 {
-  "updated_at": "2026-10-08T01:01:40.112Z",
+  "updated_at": "2026-10-09T01:14:10.831Z",
   "papers": [
+    {
+      "pmid": "42846899",
+      "title": "Chronic renal disease detection developments with future potential to improve veterinary clinical practice.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Arevalo Turrubiarte M, Rideout H, Whetton AD, Geifman N, Armstrong SK",
+      "date": "2026 10 08",
+      "dateObject": "2026 10 08",
+      "abstract": "Chronic Kidney Disease (CKD) is a major global human and veterinary health concern. Novel blood and urine biomarkers currently offer significant opportunities to advance early diagnosis, prognosis, and clinical outcomes. Adopting a translational medicine approach, we summarise research performed to date on CKD biomarkers in humans and relate these findings to companion animal CKD biomarker research. Emerging candidates, including microRNAs and multiprotein measurements for diagnostic signatures, are also considered. We discuss the potential complementarity offered by multi-omic approaches and Artificial Intelligence (AI) driven diagnostic algorithm generation for the understanding of CKD pathogenesis in dogs and cats.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42846857",
+      "title": "Analgesic effect of methadone constant rate infusion is not superior to fentanyl constant rate infusion in dogs after spinal surgery: a prospective, randomized, blinded, clinical trial.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Sch&#xfc;tter AF, K&#xe4;stner SBR, Prause B, T&#xfc;nsmeier J",
+      "date": "2026 10 08",
+      "dateObject": "2026 10 08",
+      "abstract": "This study aimed to compare the analgesic efficacy of methadone and fentanyl infusions at a 50:1 dose rate in dogs after spinal surgery. In a prospective, randomized, blinded clinical trial, 42 dogs with intervertebral disk disease were evaluated at 1, 2, 4, 18, 24, 42, 48, 66, 72, 90, and 96&#x202f;h after extubation. Based on the treatment groups, the dogs received a presurgical bolus of 0.25&#x202f;mg/kg methadone or 5&#x202f;&#x3bc;g/kg fentanyl, followed by an intraoperative and postoperative opioid infusion. In the methadone (M) treatment group, the dogs received 0.2&#x202f;mg/kg/h methadone, which was reduced stepwise to 0.05&#x202f;mg/kg/h. In the fentanyl (F) treatment group, the initial dose of 5&#x202f;&#x3bc;g/kg/h was reduced stepwise to 1&#x202f;&#x3bc;g/kg/h. Assessments at each time point included a simple sedation score, vital parameters, pain scoring using the Glasgow Composite Measure Pain Scale (CMPS-SF), and sensory testing with von Frey filaments. Multiple Mann-Whitney tests were used for the analysis of CMPS-SF scores and sedation scores. Vital parameters, between and within the groups, were analyzed using mixed-effects analysis and Dunnett's multiple comparison test. The need for rescue analgesia was assessed via survival analysis. The level of significance was set to &#x3b1;&#x202f;=&#x202f;5%. In the postoperative period, six dogs in group M and four dogs in group F required rescue analgesia. CMPS-SF scores were not different between the groups M and F and did not change significantly over time within the treatment groups. Tactile sensory thresholds were not different between the groups M and F. Under the dosing regimens investigated, methadone did not provide superior postoperative analgesia compared to fentanyl. From a clinical perspective, both drugs provided effective postoperative analgesia in this heterogeneous cohort of dogs following spinal surgery.",
+      "categories": [
+        "surgery",
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "42846393",
+      "title": "Corridor-based relative severity assessment of the canine anaesthetic course.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Kschonek JD, K&#xe4;stner SBR, Ohland PLS, Lutscher S, Volk HA, Talbot SR",
+      "date": "2026 10 08",
+      "dateObject": "2026 10 08",
+      "abstract": "The Relative Severity Assessment (RELSA) score grades welfare severity based on the magnitude of multivariate deviations from a reference value. Many variables monitored during anaesthesia are homeostatic and become harmful when they leave the normal range in either direction. Building on the corridor concept of the PVS from human intensive care, we conducted a feasibility study to assess the application and behaviour of a corridor extension of RELSA in two canine anaesthesia datasets. Each homeostatic variable was given a normal band, and only its deviation was folded into the standard RELSA algorithm. Severity in this report denotes the number this algorithm returns, and that number has not been shown to represent clinical severity. We obtained two Beagle datasets, including one four-arm within-subject study, allowing a paired between-protocol comparison. This is an exploratory secondary analysis of existing data, with no a priori power calculation. Under the selected bands, the calculated score changed across the recorded anaesthetic course: low while awake, rising at the documented propofol induction, maintained, and resolving on recovery. The dominant departures were hypotension, hypothermia, and mild hypercapnia, sometimes coinciding with a single animal, though their magnitudes are band-dependent. Corridor RELSA produced a number that changed across the recorded anaesthetic course and represented bidirectional departures as a single continuous score. The between-protocol comparison is not interpreted as evidence about the protocols because the verdict it returns depends on the variable panel being scored. The approach is a domain extension and a small refinement of the human-ICU corridor concept.",
+      "categories": []
+    },
+    {
+      "pmid": "42846344",
+      "title": "Beyond population size: long-term changes in free-roaming cat population structure during TNR implementation in Seoul.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Cho Y, Byun JH, Hwang BR, Lee Y",
+      "date": "2026 10 08",
+      "dateObject": "2026 10 08",
+      "abstract": "Free-roaming cats ( Felis catus ) in urban environments are commonly managed through trap-neuter-return (TNR) programs, yet the long-term population effects of these measures remain inconsistently evaluated, particularly when considering both population size and structural dynamics. This study aimed to assess long-term changes in free-roaming cat populations and population-structure patterns observed in the context of public TNR program in Seoul, Republic of Korea, using multiple demographic and structural indicators, specifically neutering rate, kitten proportion, and apparent retention. A longitudinal observational study was conducted across 17 fixed survey sites from 2017 to 2025. Repeated field surveys were performed biennially, with at least five visits per site. Population size, neutering rate, kitten proportion, and apparent retention were calculated via non-invasive photographic individual identification. Negative binomial and binomial mixed-effects models evaluated temporal trends and land-use differences. A logistic mixed effects model assessed apparent retention by baseline neutering status, and within-year encounter histories were used to estimate detection probability. Overall population size and density showed a decreasing temporal pattern, while neutering rates generally increased and kitten proportions generally decreased. At the survey-year level, higher neutering rates coincided with lower kitten proportions. After adjustment for covariates and site-level clustering, cats neutered at baseline had significantly higher odds of apparent retention than non-neutered cats (OR = 3.06, 95% CI: 2.07-4.53). The pooled single-visit detection probability was 0.299, indicating that apparent retention remained subject to imperfect detection. In exploratory site-level comparisons, sites maintaining high neutering rates showed patterns consistent with lower kitten proportions and higher apparent retention, whereas sites with declining neutering rates showed patterns consistent with greater apparent turnover and higher kitten proportions. These findings describe population-structure patterns observed during implementation of Seoul's public TNR program, including reduced kitten counts and increased neutering probability over time. Given the observational nature of the study and the absence of untreated controls, these findings cannot demonstrate the causal effects of TNR. Nevertheless, structural indicators may complement simple procedure counts to identify sites requiring further intervention in urban cat management.",
+      "categories": []
+    },
+    {
+      "pmid": "42848107",
+      "title": "Canine exposure to vector-borne pathogens in a rural Brazilian landscape.",
+      "journal": "Veterinary Research Communications",
+      "authors": "Ubirajara Filho CRC, Mergulh&#xe3;o da Silva G, Lima MLO, Macedo LO, Alves LC, de Carvalho GA, Ramos RAN",
+      "date": "2026 10 08",
+      "dateObject": "2026 10 08",
+      "abstract": "Vector-borne pathogens (VBPs) of medical and veterinary concern have mostly been studied in urban dog populations, while animals in rural settings, with limited access to ectoparasite prevention, have received less attention. In this study, we assessed canine exposure to VBPs in a rural Brazilian landscape. From August to October 2024, we collected 155 blood samples from dogs domiciled in a rural area of the municipality of Garanhuns, Pernambuco, Northeastern Brazil. Samples were assessed using an immunofluorescence antibody test (IFAT) to detect antibodies against Trypanosoma cruzi and using a rapid immunochromatographic test combined with an ELISA to detect Leishmania infantum antibodies. In addition, each sample was tested using a qualitative ELISA to detect D. immitis antigens and antibodies against Anaplasma phagocytophilum/Anaplasma platys, Ehrlichia canis/Ehrlichia ewingii, and Borrelia burgdorferi sensu lato. A total of 56.1% (87/155) of samples were reactive to at least one pathogen. Specifically, in 5.1% (8/155) were detected anti-T. cruzi antibodies, and in four of these samples (2.5%, 4/155) were co-detected antibodies anti-L. infantum. Antibodies against Ehrlichia spp. were observed in 50.9% (79/155), Anaplasma spp. in 8.3% (13/155), and B. burgdorferi in 0.6% (1/155). Antigens for D. immitis were detected in 1.2% (2/155). No statistical associations were observed on variables (sex, mobility, overnight stay and presence of ectoparasites) and pathogen seropositivity. In conclusion, dogs from rural areas are exposed to VBPs, which requires the use of ectoparasiticide preventive compounds to avoid ectoparasite infestation and reduce the risk of pathogen exposure.",
+      "categories": []
+    },
+    {
+      "pmid": "42844723",
+      "title": "EXPRESS: Metagenomic Oxford Nanopore sequencing of feline aural inflammatory polyps for pathogen discovery.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "authors": "Noland E, Conner K, Brame B, Petersen A, Thaiwong-Nebelung T",
+      "date": "2026 10 08",
+      "dateObject": "2026 10 08",
+      "abstract": "ObjectivesFeline aural inflammatory polyps (FIAP) have been proposed to be induced by chronic viral or bacterial infections; however, the cause is still unknown. The aim of this study was to investigate potential etiologies of these polyps using metagenomic sequencing.MethodsPolyp tissue was collected from 13 cats following routine traction and avulsion procedures. Total nucleic acid was extracted and subjected to a host (feline) nucleic acid depletion protocol. Additionally, the Sequence-Independent Single-Primer Amplification (SISPA) method was used to enrich for low-abundance RNA viral genomes. Sequencing was conducted on the Oxford Nanopore MinION sequencing platform. Non-feline sequencing reads were taxonomically classified against custom bacterial/viral databases to calculate relative genus-level abundances.ResultsTaxonomic classification of sequencing reads identified various bacteria across samples and, in some samples, rare viruses. However, no common microbial sequences were associated with polyps to suggest a specific infectious etiology. Bacterial communities were dominated by Pseudomonadota, Actinomycetota, and Bacillota phyla, with Pseudomonadota and Actinomycetota being more frequently dominant. Lasallevirus was detected in few samples with unknown clinical relevance. Culture and sequencing showed partial concordance in identifying bacteria in some cases.Conclusions and relevanceNo common microbial-associated sequences found to be associated with polyp samples; therefore, no suspect causative agent was identified. 16S and ITS metagenomic sequencing on FIAP may help further elucidate if microbial population shifts have a role in polyp development and recurrence and/or persistence of inflammation leading to polyp development.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42844719",
+      "title": "EXPRESS: Assessment of caregiver burden in feline chronic kidney disease.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "authors": "Lim L, Quimby JM, Caney S",
+      "date": "2026 10 08",
+      "dateObject": "2026 10 08",
+      "abstract": "ObjectivesThe aim of this study was to investigate caregiver burden associated with management of cats with chronic kidney disease (CKD).MethodsCaregivers who had experience managing a cat with CKD were recruited through social media to anonymously participate in an online Qualtrics survey. The modified Zarit Burden Interview (mZBI) was incorporated into the survey to objectively assess caregiver burden. An mZBI score of &#x2265; 18 represents clinically significant burden.ResultsA total of 339 surveys were completed. 46% of caregivers reported an mZBI score of &#x2265; 18. Caregivers of cats with IRIS stages 3/4 had significantly higher mZBI scores (median 20.0, range 3 - 50) than caregivers of cats with IRIS stages 1/2 (median 14.5, range 0 - 58; P = 0.0007). Caregivers who reported never to rarely sharing care responsibilities had significantly higher mZBI scores (median 20.0; range 0 - 50) than those who reported sometimes to always sharing care responsibilities (median 15.0; range 2 - 58) (P = 0.0007). Caregivers who reported the need to coax their cat to eat on a daily basis had higher mZBI scores (median 22.8, range 2 - 50) than those who never coaxed their cat to eat (median 14.5, range 0-49) or coaxed their cat 1-2 days/week (median 19.2, range 3 - 42) (both P < 0.001). Caregivers who always felt supported by the veterinary care team had lower mZBI scores (median 13; range 0-58) than those that only felt supported sometimes to never (median 23; range 5-45) (P < 0.001).Conclusions and clinical importanceSignificant caregiver burden is present in feline CKD, emphasizing the need to for clinicians to provide empathetic advice and practical support.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42557850",
+      "title": "The hormonal effects of owner-cat interactions on pet cats of different potential attachment styles.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "authors": "He X, Huang H, Chang H, Xu W, Gui C, Pan J, Yan H, Guo Y, Avilas-Rosa E, Yang B, Deng B, Zhang L",
+      "date": "2026 10 08",
+      "dateObject": "2026 10 08",
+      "abstract": "The aim of the present study was to investigate how different owner-cat interaction types influence stress and owner-bonding in pet cats with different potential attachment styles, using salivary cortisol and oxytocin as physiological indicators. Twenty pet cats were classified into potential secure, insecure-anxious or insecure-avoidant attachment styles using the Secure Base Test. Owners engaged in four types of interactions with their cats at home on separate days. Saliva samples were collected before and after each interaction and analysed for cortisol and oxytocin concentrations. The effects of attachment style, interaction type and time on hormonal changes were examined. Significant interactive effects of potential attachment style and time, as well as interaction type and time, were observed for both cortisol and oxytocin. Passive interactions were associated with increased oxytocin and decreased cortisol, whereas forced interactions showed an opposite pattern. Secure cats exhibited more positive hormonal responses to human interactions compared with insecure cats, who showed increased cortisol or limited hormonal changes. Insecure cats also showed higher basal oxytocin levels than secure cats. Human-cat interactions trigger changes in cortisol and oxytocin levels, depending on the interaction type and cat's attachment style. These findings highlight the importance of considering individual cat attachment differences when promoting appropriate interaction strategies to improve cat welfare and human-cat relationships.",
+      "categories": []
+    },
+    {
+      "pmid": "42847764",
+      "title": "Effects of a Dietary Supplementation of Bovine Colostrum in Dogs With Atopic Dermatitis.",
+      "journal": "Veterinary Dermatology",
+      "authors": "Sch&#xe4;fer L, B&#xfc;ttner K, Pa&#xdf;lack N",
+      "date": "2026 10 08",
+      "dateObject": "2026 10 08",
+      "abstract": "Bovine colostrum (BC) shows immunomodulatory properties, which could be beneficial in the management of chronic immune-mediated diseases such as canine atopic dermatitis (cAD). To assess if a BC supplementation affects selected immune variables and clinical signs in cAD. Twenty client-owned dogs with non-seasonal, environmentally induced cAD were enrolled in this prospective, double-blinded, placebo-controlled study. After a 2-week adaptation to standardised feeding, the dogs were divided into two groups, receiving either a placebo or BC at 0.2% in dietary dry matter for 4&#x2009;weeks. Afterwards, the dogs remained on their diets for another 4&#x2009;weeks, without placebo and BC supplementation. Blood and faecal samples were collected on Day (D)14, D42 and D70 for immunological measurements (proliferative and phagocytic activity of blood leukocytes, faecal immunoglobulin [Ig]A, plasma concentrations of Igs, C-reactive protein [CRP] and serum amyloid A [SAA]). Additionally, the Canine Atopic Dermatitis Extent and Severity Index, 4th iteration (CADESI-04) was assessed. The owners evaluated pruritus (Visual Analog Scale) of their dogs retrospectively and daily (r-/d-pVAS), as well as quality-of-life (QoL), global assessment and quality-of-coat. No significant diet effects were detected for the clinical and immunological parameters evaluated. A slight improvement in QoL could be observed in both feeding groups over time. An oral administration of BC did not alter relevant clinical and immune parameters in patients with cAD.",
+      "categories": [
+        "internalMedicine",
+        "dermatology"
+      ]
+    },
     {
       "pmid": "42842766",
       "title": "Palatability assessment of a commercial wet renal diet in healthy cats: an open-label in-home exploratory trial.",
@@ -51,6 +153,16 @@
         "cardiology",
         "internalMedicine"
       ]
+    },
+    {
+      "pmid": "42843409",
+      "title": "Should veterinarians apply a 2-step framework to classify adiposity and diagnose clinical obesity in dogs and cats?",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Ward E, Churchill J",
+      "date": "2026 10 07",
+      "dateObject": "2026 10 07",
+      "abstract": "Obesity drugs are entering veterinary trials, and prescribing them should follow a diagnosis. Body condition score is not a diagnosis; it describes a patient's adiposity, not whether it is causing illness. This Viewpoint proposes 2 steps for diagnosing clinical obesity in dogs and cats: describe, then diagnose. Step 1 describes adiposity as overweight or obesity. Step 2, applied only when obesity is documented, assigns a disease stage; clinical obesity requires a documented, clinically meaningful abnormality attributed to adiposity. The framework is proposed for consensus and validation. Structured weight loss begins at overweight; nutritional assessment applies to every patient.",
+      "categories": []
     },
     {
       "pmid": "42840743",
@@ -742,18 +854,6 @@
       ]
     },
     {
-      "pmid": "42818666",
-      "title": "Why incorporating benazepril into a renal diet may improve treatment efficiency and compliance in cats with chronic kidney disease.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Bidaud A, Tardiveau J, Couronn&#xe9; A, Pellet T, Batard A, Frayssinet L",
-      "date": "2026 10 01",
-      "dateObject": "2026 10 01",
-      "abstract": "Treating cats with chronic kidney disease generally requires daily administration of an antiproteinuric drug, which can impact medication compliance with medical outcomes as well as negative implications for the wellbeing of the cat and the owner. In addition, for a given daily dose, benazepril is more effective when administered several times a day but this could increase non compliance. It was therefore conceived to incorporate benazepril into a highly palatable diet for cats with chronic kidney disease, that is, a medicated diet, that the cats could consume throughout the day, with the aim of replacing multiple administrations thanks to the cat's nibbler eating behavior and the slow gastric emptying in cats eating dry food. Our investigation showed that Consumption of the medicated diet led to an overall lower drug exposure in both healthy and CKD cats compared to benazepril once-daily tablets. Nevertheless, the overall efficacy in inhibiting ACE was at least equivalent (CKD cats) and even higher (healthy cats). In both cases, this resulted in greater efficiency (i.e., the amount of desired therapeutic effect produced per unit of drug exposure) of the medicated diet than of conventional once daily tablet administration. More broadly, this observation suggests that the temporal pattern of benazepril exposure may be more important than the total dose administered. Medicated diets may represent a new strategy for improving both compliance and therapeutic efficiency in chronic feline diseases, provided that the diet is well accepted by the cat.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
       "pmid": "42816882",
       "title": "Brachyspira hyodysenteriae detected in a dog with acute haemorrhagic diarrhoea: a case report.",
       "journal": "BMC Veterinary Research",
@@ -791,28 +891,6 @@
       ]
     },
     {
-      "pmid": "42813026",
-      "title": "Correction: Comparison of analgesic efficacy between intrafunicular and intratesticular lidocaine injection in dogs.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Frontiers Production Office",
-      "date": "2026 09 30",
-      "dateObject": "2026 09 30",
-      "abstract": "[This corrects the article DOI: 10.3389/fvets.2026.1753113.].",
-      "categories": []
-    },
-    {
-      "pmid": "42812987",
-      "title": "Correction: Templated tibial plateau leveling osteotomy and implant guidance system improves accuracy in novice surgeons: an ex vivo study.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Wyatt TJ, Lynch AC, Miniter B",
-      "date": "2026 09 30",
-      "dateObject": "2026 09 30",
-      "abstract": "[This corrects the article DOI: 10.3389/fvets.2026.1729787.].",
-      "categories": [
-        "surgery"
-      ]
-    },
-    {
       "pmid": "42806282",
       "title": "The relationship between urinalysis abnormalities, soiling behavior, and cognitive decline in aging dogs.",
       "journal": "Journal of Veterinary Internal Medicine",
@@ -822,18 +900,6 @@
       "abstract": "In elderly people, dementia and urinary tract dysfunction often exacerbate one another. Aging dogs also suffer cognitive decline but the relationship between cognitive decline, soiling behaviors, and urinalysis abnormalities has not been explored. Soiling behavior is associated with urinalysis abnormalities and cognitive performance in aging dogs. Eighty-four client-owned dogs enrolled in a longitudinal cohort study of aging. In this prospective observational study, dogs were evaluated biannually with free-catch urinalysis, owner-completed Canine Dementia Scale (CADES), and a cognitive test battery. Mean age at enrollment was 12.77&#xa0;years &#xb1; 1.91, 53 were female spayed, 29 male neutered, and 1 female and 1 male intact. Mixed-effects and generalized linear mixed models were used to assess the associations between urinalysis variables and cognitive test performance. Of 231 urinalyses, 19 showed pyuria, 14 hematuria, 11 bacteriuria, and 194 proteinuria. Urine specific gravity (USG) ranged from 1.005 to 1.056 and decreased significantly with age (P&#xa0;<&#xa0;.001). Soiling scores ranged from 0 to 25, and were associated with increasing age (P&#xa0;<&#xa0;.001) and decreasing USG (P&#xa0;<&#xa0;.001). In multivariable models, age and USG remained significant predictors of soiling. Higher soiling scores were associated with poorer performance on inhibitory control (P&#xa0;<&#xa0;.001) and detour tasks (P&#xa0;<&#xa0;.001). Increased soiling behavior was linked to USG and executive function. Abnormal urinalysis findings were less frequent than expected. Soiling behavior in aging dogs might not exclusively reflect urinary tract or systemic disease and could be an indicator of cognitive decline.",
       "categories": [
         "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42807956",
-      "title": "Diagnostic performance of Vcheck NT-proBNP and cardiac troponin I assays for detection of dilated cardiomyopathy in Doberman Pinschers.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Driessen H, Friederich J, Wess G",
-      "date": "2026 09 29",
-      "dateObject": "2026 09 29",
-      "abstract": "Dilated cardiomyopathy (DCM) is a common hereditary cardiac disease in Doberman Pinschers. Early myocardial changes can be detected using cardiac biomarkers such as N-terminal pro-B-type natriuretic peptide (NT-proBNP) and cardiac troponin I (cTnI). The Vcheck V200 (Bionote) is a point-of-care immunofluorescence-based assay for in-clinic measurement of these markers. To evaluate the diagnostic performance of NT-proBNP and cTnI measured with the Vcheck V200 point-of-care assays for detecting different stages of DCM in Doberman Pinschers and to compare Vcheck cTnI results with those obtained using a laboratory-based IDEXX cTnI assay. A total of 453 serum samples from 345 privately owned, purebred Doberman Pinschers in Germany were analyzed. Dogs were clinically classified into five stages (A, last normal, B1, B2, and C) based on echocardiographic and electrocardiographic findings. This prospective longitudinal study included physical examination, echocardiography, 24-h Holter monitoring, and biomarker analysis. NT-proBNP and cTnI concentrations were measured using the Vcheck V200 assay. In a subset of 358 samples, cTnI concentrations were additionally measured using the IDEXX assay. Diagnostic performance was evaluated using receiver operating characteristic curve analysis, and agreement between cTnI assays was assessed using Bland-Altman analysis. NT-proBNP and cTnI concentrations were significantly higher in dogs with DCM than in healthy controls. For NT-proBNP measured with Vcheck, a cutoff of &#x2265;580&#x202f;pmol/L yielded 76.6% sensitivity and 83.1% specificity (AUC 0.845). For cTnI measured with Vcheck, a cutoff of &#x2265;0.21&#x202f;ng/mL achieved 71.0% sensitivity and 78.3% specificity (AUC 0.809). The IDEXX cTnI assay showed higher diagnostic accuracy, particularly in early-stage disease, including \"last normal\" dogs. Combining both Vcheck biomarkers increased sensitivity and overall diagnostic performance (AUC 0.886), but specificity was reduced and performance remained lower than that of IDEXX cTnI alone. The Vcheck V200 provides a practical and accessible tool for in-clinic biomarker assessment in Doberman Pinschers at risk for DCM. While Vcheck NT-proBNP and cTnI may help identify dogs requiring further cardiac evaluation, the laboratory-based IDEXX cTnI assay showed higher diagnostic accuracy, especially for early-stage detection. Dogs exceeding these biomarker thresholds should undergo comprehensive cardiac evaluation, including echocardiography and 24-h Holter monitoring.",
-      "categories": [
-        "cardiology"
       ]
     },
     {
@@ -1389,16 +1455,6 @@
       ]
     },
     {
-      "pmid": "42281370",
-      "title": "Owner personality traits associated with non-conventional feeding practices in domestic cats.",
-      "journal": "Journal of Feline Medicine and Surgery",
-      "authors": "Hoummady S, Rebout N, Prorel G, Robles M",
-      "date": "2026 09 23",
-      "dateObject": "2026 09 23",
-      "abstract": "ObjectivesThe objectives of the present study were to assess the association between owner personality traits and the owner-reported use of non-conventional diets in domestic cats (starch-free, meat-only, grain-free, raw or vegetarian), and to compare personality traits between owners reporting the incorporation of fresh meat-based foods and those relying exclusively on commercial diets.MethodAn anonymous nationwide online survey of French cat owners was conducted (n&#x2009;=&#x2009;1566). The owner's personality was assessed using the French version of the Big Five Inventory. Two outcomes were defined: (1) use of a non-conventional diet (yes: n&#x2009;=&#x2009;439) and (2) inclusion of fresh meat-based foods in the diet (ie, not exclusively commercial with fresh meat; yes: n&#x2009;=&#x2009;61). Two multivariable logistic regression models were built, with owner personality traits as explanatory variables. Model 1 evaluated the likelihood of using a non-conventional diet, while model 2 assessed the likelihood of incorporating fresh meat in the diet.ResultsHigher Conscientiousness was associated with lower odds of feeding a non-conventional diet (OR 0.80, 95% CI 0.67-0.95), whereas higher Openness was associated with higher odds (OR 1.19, 95% CI 1.01-1.41). Daily cooking (OR 1.49, 95% CI 1.17-1.91) and access to autonomous enrichment devices (OR 1.74, 95% CI 1.11-2.84) were also positively associated with non-conventional feeding. Lower Agreeableness was associated with higher odds of including fresh meat in the diet (OR 0.55, 95% CI 0.35-0.87). Training activities with the cat (OR 2.40, 95% CI 1.32-4.18) and owning a purebred cat (OR 2.10, 95% CI 1.10-3.82) were also positively associated with fresh meat feeding.Conclusions and relevanceThese results suggest that owners who choose non-conventional diets may present different personality traits. Recognising these differences may help veterinarians adapt their communication and facilitate dialogue regarding feeding decisions in the interest of feline health. Owner personality traits associated with non-conventional feeding practices in domestic cats in France Non-conventional diets, such as homemade, raw or grain-free diets, are increasingly fed to domestic cats. These feeding practices are challenges for veterinarians, particularly regarding the motivations behind owner&#x2019;s choices. Personality traits may play a role in these decisions, but this subject remains poorly explored. An online survey was distributed to cat owners and included questions on feeding practices, lifestyle and the owner&#x2019;s personality using the validated French version of the Big Five Inventory questionnaire. A total of 1566 responses were recorded. Diets were classified as conventional or non-conventional (including homemade, raw, grain-free or other alternative diets). In a second step, owners providing fresh meat in the diet were compared with those feeding exclusively commercial diets. Most cats were fed conventional diets, although a substantial proportion received non-conventional diets. Higher owner Conscientiousness was associated with a lower likelihood of feeding a non-conventional diet, while higher Openness was associated with a greater likelihood. Regarding fresh meat in the diet, lower Agreeableness was associated with a higher likelihood of providing such diets. These results suggest that owner personality traits are associated with dietary choices in French domestic cats. Better understanding these factors may help veterinarians improve communication.",
-      "categories": []
-    },
-    {
       "pmid": "42770278",
       "title": "Evaluation of a canine hemoglobin A1c point-of-care assay: analytical validation, clinical utility, and establishing a population-based reference interval.",
       "journal": "Journal of Veterinary Internal Medicine",
@@ -1648,19 +1704,6 @@
       ]
     },
     {
-      "pmid": "42269666",
-      "title": "Fecal microbiota transplantation shows promise in slowing or reducing cognitive impairment in aging dogs.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Dewey CW, Rojas CA, Pomeroy C, Gerardi J, Ganz HH",
-      "date": "2026 09 18",
-      "dateObject": "2026 09 18",
-      "abstract": "To investigate potential effects of fecal microbiota transplantation (FMT) on cognitive scores and bacterial microbiota composition in dogs with suspected canine cognitive dysfunction (CCD). The study was conducted from September 19, 2024, to September 11, 2025. Dogs with presumptive CCD were given oral FMT capsules daily for 90 days. Each dog received 1 FMT capsule every 12 hours. Fecal samples and cognitive (disorientation, impaired social interactions, sleep disturbance, house soiling, learning and memory loss, activity changes, and anxiety and fear [DISHAA]) assessments were completed at baseline and on days 30, 60, and 90. Fecal samples were submitted for 16S rRNA gene sequencing. 11 dogs were enrolled; 10 dogs had no adverse events from FMT treatment, and 1 dog developed gastrointestinal signs and was removed from the study. All 10 remaining dogs had complete microbiome data; however, owners of 4 dogs did not report final (90-day) DISHAA scores. Of the 6 dogs with complete data, cognition improved in 4 (mean, -8.25 points) but worsened in 2 (mean, +7 points) according to owner-reported DISHAA scores. Microbiome richness and diversity increased in 4 of the 6 dogs. Several dogs also showed positive modulation of microbiome composition including reductions in Streptococcus spp and increases in Peptacetobacter hiranonis, Prevotella copri, and Bacteroides spp. These findings provided preliminary evidence that FMT may help improve cognitive function in dogs with CCD. However, the study sample size was small and ideal FMT dosing level and treatment duration remain undefined. A larger study with longer follow-up is warranted, based on our results. FMT showed promise in slowing or reducing cognitive impairment in aging dogs and may be considered as adjunct therapy in these cases.",
-      "categories": [
-        "internalMedicine",
-        "neurology"
-      ]
-    },
-    {
       "pmid": "42750033",
       "title": "Microbiological investigation of conjunctivitis in cats and dogs from Kars, T&#xfc;rkiye (2024-2025): culture- and MALDI-TOF MS-based identification and antimicrobial susceptibility testing of bacterial isolates.",
       "journal": "BMC Veterinary Research",
@@ -1706,19 +1749,6 @@
       "abstract": "To investigate the prevalence of Mycoplasma spp. in cats with rhinitis compared to healthy cats and to evaluate factors associated with detection. A total of 46 cats with rhinitis and 37 asymptomatic controls were prospectively enrolled. Nasal swabs were collected, and polymerase chain reaction (PCR) assays for Mycoplasma spp., Mycoplasma felis, feline herpesvirus (FHV), feline calicivirus (FCV), Bordetella bronchiseptica (B. bronchiseptica) and Chlamydia spp. were performed. All Mycoplasma spp.-positive samples underwent sequencing for species identification. PCR analysis revealed a significantly higher prevalence of Mycoplasma spp. in cats with rhinitis compared to healthy controls (28.3% vs 5.4%; p = 0.037). Mycoplasma felis was detected in 21.7% of rhinitis cases but in none of the controls (p = 0.017).FHV was significantly more prevalent in cats with rhinitis (39.1% vs 8.1%; p = 0.027). In addition, detection of FHV was significantly associated with detection of Mycoplasma spp. and M. felis within the rhinitis group. FCV (17.4% vs 5.4%; p = 0.352) and Chlamydia spp. (4.3% vs 0%; p = 0.481) did not differ between groups. B. bronchiseptica was not detected in either group. The findings support an association between Mycoplasma detection, particularly M. felis, and feline rhinitis, suggesting clinical relevance of these organisms in feline upper respiratory tract disease. The observed association between Mycoplasma detection and FHV suggests potential viral-bacterial interactions in the pathogenesis of feline upper respiratory tract disease.",
       "categories": [
         "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42444066",
-      "title": "Comparing the efficacy of transmucosal and subcutaneous glucagon administration in response to insulin-induced hypoglycemia in healthy cats.",
-      "journal": "Journal of Feline Medicine and Surgery",
-      "authors": "Lam JPM, Justus-Heale O, Snead E",
-      "date": "2026 09 17",
-      "dateObject": "2026 09 17",
-      "abstract": "ObjectivesThe aim of the present study was to evaluate the efficacy of two different formulations of glucagon given by three different routes (subcutaneous [SC], rectal [RCT] and intranasal [IN]) for correcting insulin-induced hypoglycemia in cats and to describe any adverse effects and compare the time required for administration by each route.MethodsA randomized, non-blinded, sham-controlled crossover study was conducted in six healthy cats, with a 7-day washout period between treatments. Hypoglycemia was induced using a constant rate infusion (CRI) of rapid-acting insulin lispro. Glucagon nasal powder (single-dose, ready-to-use) was given intranasally and rectally and compared with SC glucagon injection and IN sham control. Blood glucose (BG) concentration was measured from samples collected at baseline (T-15), after induction of hypoglycemia (T0) and at 5-min intervals for 30&#x2009;mins, and then at 15-min intervals for 1&#x2009;h after glucagon administration. Plasma glucagon and potassium (K + ) concentrations were measured at T-15, T0, T15 and T30 after glucagon administration. The time taken to prepare and administer each treatment was recorded.ResultsMedian BG was 2.6&#x2009;mmol/l at T0 and increased significantly after glucagon administration by all routes, reaching peak median concentrations of 11.2&#x2009;mmol/l (IN), 9.7&#x2009;mmol/l (RCT) and 10.15&#x2009;mmol/l (SC). Plasma glucagon concentrations increased markedly by T15, with the highest concentrations observed after IN administration (1562&#x2009;pmol/l), followed by SC (191.7&#x2009;pmol/l) and RCT (158.5&#x2009;pmol/l) routes of administration. Plasma K + decreased after insulin administration and increased modestly by T30 after glucagon administration by all routes. No serious adverse effects occurred after glucagon administration.Conclusions and relevanceTransmucosal glucagon effectively restores BG towards baseline after insulin-induced hypoglycemia with minimal side effects. The IN route resulted in the highest plasma glucagon and BG concentrations compared with the RCT and SC routes of administration. Further studies are needed to quantify the efficacy and safety of transmucosal glucagon in diabetic cats in response to spontaneous insulin-induced hypoglycemia. Comparing two ways of delivering glucagon to rescue cats with low blood sugar The aim of the study was to compare different formulations of glucagon (a hormone drug) administered in three different ways: under the skin, rectally or intranasally. Six healthy cats received an intravenous insulin infusion to gradually and safely induce hypoglycemia. Once the target blood glucose level was reached, glucagon was administered by one of the three routes, or air was administered as a placebo using the nasal device. Blood samples were collected to monitor blood glucose, electrolyte levels and drug concentrations. Side effects and the time required to administer the drug were also recorded. Regardless of whether the drug was administered under the skin, rectally or intranasally, the average blood glucose level increased after administration, rescuing the cats from hypoglycemia within 10&#x2009;mins. Drug absorption was highest with intranasal administration, followed by subcutaneous and rectal administration. One electrolyte level decreased when the cats became hypoglycemic, but administration of the drug did not worsen this change. No major side effects were observed after drug administration. The new methods of delivering glucagon intranasally or rectally successfully rescued cats from hypoglycemia. However, further studies are needed in diabetic cats experiencing hypoglycemia due to insulin overdose.",
-      "categories": [
-        "internalMedicine",
-        "dermatology"
       ]
     },
     {
@@ -2042,19 +2072,6 @@
       "dateObject": "2026 09 11",
       "abstract": "Baicalin has shown efficacy in various dermatitis models in animals. However, its therapeutic effects on naturally occurring canine atopic dermatitis (cAD) have not been evaluated. To evaluate the efficacy and safety of baicalin in dogs with cAD. 56 client-owned dogs were enrolled. All dogs were randomly divided to receive oral baicalin or placebo over a 90day period. All subjects had veterinary evaluations using the Canine Atopic Dermatitis Extent and Severity Index, 4th iteration (CADESI-04) during the trial and owners were requested to evaluate itching using the pruritus Visual Analog Scale (PVAS) and to complete a quality-of-life (QoL) questionnaire at Day (D)0 and D90. Additionally, the transepidermal water loss (TEWL), total serum IgE levels (IgE), complete blood count and serum biochemical results were measured at D0 and D90. The significant decreases in CADESI-04 (p&#x2009;<&#x2009;0.001), PVAS (p&#x2009;<&#x2009;0.001), TEWL (p&#x2009;=&#x2009;0.014), IgE (p&#x2009;<&#x2009;0.001) and QoL scores (p&#x2009;<&#x2009;0.001) were observed in the baicalin group D90 compared to baseline. When compared to placebo, the baicalin group had significantly lower scores in CADESI-4 and PVAS (p&#x2009;<&#x2009;0.001). A significantly higher proportion of subjects in the baicalin group showed a good-to-excellent treatment response (82.1%) compared to those in the placebo group (35.7%). The treatment was well tolerated. Baicalin had a significant benefit in alleviating pruritus and reducing clinical signs in dogs with mild-to-moderate cAD and was well tolerated.",
       "categories": [
-        "dermatology"
-      ]
-    },
-    {
-      "pmid": "42203245",
-      "title": "Prevalence of Antimicrobial Use in Small Animal Dermatology Referral Practices in the United States.",
-      "journal": "Veterinary Dermatology",
-      "authors": "Santoro D, Bollig ER, Granick JL",
-      "date": "2026 09 11",
-      "dateObject": "2026 09 11",
-      "abstract": "Antimicrobial resistance is a critical global health concern driven by antimicrobial use. Dermatological conditions are common reasons for antimicrobial prescriptions in small animal practice, yet data on prescribing patterns in veterinary dermatology referral settings are lacking. To characterise the frequency, types and indications for antimicrobial use in dogs and cats seen by board-certified or residency-trained first-opinion veterinary surgeons in the United States. Medical record data about 550 client-owned animals (479 dogs, 71 cats) presenting to 22 US veterinary dermatology referral practices were included. A prospective, cross-sectional point-prevalence study was conducted in August 2023. Each clinic enrolled the first 25 consecutive dogs or cats evaluated by a referral clinician. Data collected included clinical diagnoses, antimicrobial and antiseptic prescriptions and diagnostic testing. Antimicrobials were prescribed in 54.9% (302 of 550) of cases. Third-generation cephalosporins accounted for 43.9% (54 of 123) of systemic antibiotics to dogs. Of topical antimicrobials prescribed for otitis externa associated with bacteria only or yeast only, 36.4% (20 of 55) were a combination formulation containing both an antibiotic and an antifungal. Antiseptics were prescribed in 62.7% of cases. Cytological investigation was performed in 86.3% of conditions treated with antimicrobials, whereas bacterial culture was used in only 15.3%. This study provides a benchmark for antimicrobial use in veterinary dermatology referral practices. Findings highlight opportunities to align prescribing with updated guidelines to reduce reliance on broad-spectrum systemic antibiotics, favouring topical therapies and underscore the need for narrow-spectrum topical options.",
-      "categories": [
-        "internalMedicine",
         "dermatology"
       ]
     },
@@ -2447,19 +2464,6 @@
       ]
     },
     {
-      "pmid": "42666034",
-      "title": "EXPRESS: Colonization of Helicobacter Species and Associated Gastritis in Cats with Gastrointestinal disease: a Cross-Sectional Study on 154 Cases.",
-      "journal": "Journal of Feline Medicine and Surgery",
-      "authors": "Immonen TK, Pettersson JM, Vauhkonen H, Palen S, Weinstein I, Sironen T, Kant R, Sukura AKK, Airas N",
-      "date": "2026 08 29",
-      "dateObject": "2026 08 29",
-      "abstract": "ObjectivesThis study aimed to determine the occurrence of gastric Helicobacter species colonization in cats with confirmed gastrointestinal disease and to investigate possible associations between Helicobacter species colonization and gastric histopathological changes. It also aimed to identify the Helicobacter species present in cats in countryX.MethodsPrivately owned cats were prospectively enrolled between May 2018 and December 2022. Regardless of the reason for presentation, the owners of all cats presented to the cat clinic during that time period were systematically interviewed regarding chronic gastrointestinal signs. Cats with suspected chronic gastrointestinal disease underwent non-invasive diagnostic evaluation, and those with persistent suspicion proceeded to gastrointestinal biopsies. Full-thickness gastric and small intestinal biopsies were collected from each cat to evaluate histopathological lesions and to determine the presence and localization of Helicobacter species in the stomach. A total of 154 cats that underwent biopsies were included in the study. A subset of Helicobacter-positive samples was further analyzed to the species level using the nanopore sequencing technique.ResultsAll cats had chronic small intestinal disease. Of these, 79% had inflammatory enteropathy and 21% had lymphoma. Helicobacter species were detected in 75% of cats. Colonization with multiple Helicobacter species was common, with Helicobacter heilmannii being the most prevalent species. Gastritis was present in 58% of cats and occurred with similar frequency in both small intestinal diseases. The presence of Helicobacter species was significantly associated with lymphoplasmacytic gastritis. However, the density of bacterial colonization was not associated with gastritis severity.Conclusions and relevanceOur findings indicate that colonization by Helicobacter species is common in cats with gastrointestinal clinical signs and is associated with chronic lymphoplasmacytic gastritis. Nevertheless, the causal relationship between Helicobacter species and gastritis cannot be established with this study design due to the lack of a control group. Most cats were colonized with mixed Helicobacter species.",
-      "categories": [
-        "internalMedicine",
-        "oncology"
-      ]
-    },
-    {
       "pmid": "42663853",
       "title": "Interventional tracheoscopy for management of intratracheal plasmacytoma in a dog.",
       "journal": "Veterinary Research Communications",
@@ -2827,20 +2831,6 @@
       "abstract": "An 8-year-old spayed female American Shorthair cat was evaluated for refractory perioral nodules and respiratory distress persisting for 9 months. The patient had a history of feline atopy and chronic gingivostomatitis managed with long-term immunosuppressive therapy, including cyclosporine A and prednisolone. Pre-surgical computed tomography (CT) revealed a 2.1&#xa0;cm nasolabial mass without osteolysis, later diagnosed as a mycobacterial infection. This unusual infection was tentatively attributed to pharmacological suppression of cell-mediated immunity, potentially impairing both granuloma formation and inflammatory bone resorption. Fine-needle aspiration (FNA) and Ziehl-Neelsen (ZN) staining demonstrated a high burden of acid-fast bacilli (AFB). However, conventional cultures, including inoculation on 3% Ogawa medium, failed due to rapid overgrowth of Klebsiella pneumoniae (K. pneumoniae). Post-mortem multi-target real-time PCR and whole genome sequencing (WGS), together with internal transcribed spacer (ITS) sequencing and phenotypic antimicrobial testing, identified a fatal co-infection comprising Mycobacterium tuberculosis complex (MTBC), Mycobacterium kansasii, K. pneumoniae, and multidrug-resistant Pseudomonas aeruginosa. This report describes a rare feline case of a fatal polymicrobial infection involving both MTBC and non-tuberculous mycobacteria (NTM) in conjunction with opportunistic gram-negative pathogens. The findings suggest that chronic iatrogenic immunosuppression may alter or obscure classical diagnostic features of mycobacteriosis and facilitate complex co-infections. This case highlights the importance of high-sensitivity molecular diagnostics and suggests that immunocompromised companion animals may, in rare instances, serve as cautious indicators of possible household mycobacterial exposure within a One Health framework.",
       "categories": [
         "internalMedicine",
-        "surgery"
-      ]
-    },
-    {
-      "pmid": "42521841",
-      "title": "Multimodality imaging characteristics and surgical management of a biliary cystadenoma in a cat.",
-      "journal": "Veterinary Research Communications",
-      "authors": "Kirim E, Topcu ME, Senel M, Topal A, Kaya E, Sonmez G",
-      "date": "2026 07 29",
-      "dateObject": "2026 07 29",
-      "abstract": "Biliary cystadenomas are rare hepatobiliary tumors in cats and are usually characterized by cystic proliferation of the bile duct epithelium. A ten-year-old castrated male British Shorthair cat was brought to the clinic with complaints of abdominal distension and intermittent vomiting. Ultrasound, computed tomography, and magnetic resonance imaging revealed a large, multilocular cystic mass involving multiple hepatic lobes. Hematological and biochemical examinations revealed mild preoperative changes. Postoperative biochemical abnormalities consistent with hepatic dysfunction were observed. Under general anesthesia, resection of the gallbladder, including multiple liver lobes, was performed. Histopathological examination confirmed the diagnosis of biliary cystadenoma. Despite surgical resection and postoperative supportive care, the patient's general condition deteriorated, and the patient died one week after the operation. This case highlights the diagnostic challenges of distinguishing biliary cystadenomas from malignant hepatic neoplasms and the importance of histopathological evaluation for definitive diagnosis. Furthermore, while surgical resection is the gold standard of treatment, the extent of the lesion and postoperative complications significantly influence prognosis.",
-      "categories": [
-        "internalMedicine",
-        "oncology",
         "surgery"
       ]
     },

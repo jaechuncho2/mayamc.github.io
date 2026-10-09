@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T01:04:03.657Z",
+  "updated_at": "2026-10-09T01:15:53.645Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -6519,6 +6519,78 @@
       "title": "Palatability assessment of a commercial wet renal diet in healthy cats: an open-label in-home exploratory trial.",
       "journal": "Journal of Veterinary Internal Medicine",
       "generated_at": "2026-10-08T01:01:53.052Z",
+      "model": "gpt-5-mini"
+    },
+    "42843409": {
+      "brief_summary": "이 Viewpoint는 개와 고양이를 대상으로 체지방 상태와 임상적 비만을 구분하는 2단계 진단틀을 제안한다. 비만 약물이 수의학 임상시험에 진입함에 따라 처방은 진단에 기반해야 한다고 보고, 1단계는 체형 점수(Body Condition Score, BCS)로 과체중 또는 비만을 ‘서술’하는 것이고 2단계는 비만이 문서화된 경우에만 질병 단계를 부여해 임상적 비만을 진단하도록 권한다. 구조화된 체중감량은 과체중 단계부터 시작하고 모든 환자에 대해 영양평가를 시행할 것을 권고하며, 제안된 틀은 합의와 검증이 필요하다고 결론짓는다.",
+      "detailed_summary": "논문 유형은 Viewpoint로, 비만 약물의 임상 적용을 앞두고 처방 근거로서의 진단 체계 필요성을 제시한다. 대상은 개와 고양이이며, 저자들은 체지방 상태와 질병으로서의 비만을 분리하는 2단계 프레임워크를 제안한다. Step 1은 체형 점수(Body Condition Score, BCS)를 사용해 환자의 지방 상태를 ‘서술’하여 과체중 또는 비만으로 분류하는 것이고, Step 2는 비만이 문서화된 경우에만 비만의 질병 단계를 부여해 임상적 비만을 진단하도록 한다. 이 프레임워크에서 임상적 비만은 ‘지방 과다에 기인한 임상적으로 의미 있는 이상’이 문서화되어야 진단된다. 저자들은 BCS는 단지 지방 상태를 기술할 뿐 진단 자체가 아니므로 별도의 진단 단계가 필요하다고 강조한다. 임상적 권고로는 구조화된 체중감량을 과체중 단계부터 시작하고 모든 환자에 대해 영양평가를 시행할 것을 제안하며, 제안된 틀은 합의와 검증이 필요하다는 제한을 명시한다.",
+      "title": "Should veterinarians apply a 2-step framework to classify adiposity and diagnose clinical obesity in dogs and cats?",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-10-09T01:15:53.633Z",
+      "model": "gpt-5-mini"
+    },
+    "42844719": {
+      "brief_summary": "본 연구는 만성 신장 질환(CKD) 고양이의 보호자 부담을 평가하기 위해 소셜 미디어로 모집된 보호자들이 익명 온라인 설문에 응답한 결과를 분석했다. 전체 339명 중 46%가 modified Zarit Burden Interview(mZBI) 점수 ≥18로 임상적으로 유의한 부담을 보였다. IRIS 단계 3/4, 돌봄 분담이 거의 없는 경우, 매일 먹이를 유도해야 하는 경우, 수의진료팀의 지지 부족 등이 더 높은 부담과 연관되었다. 임상적으로는 수의사들이 공감적인 조언과 실질적 지원을 제공할 필요가 있음을 시사한다.",
+      "detailed_summary": "연구는 소셜 미디어를 통해 모집된 CKD 고양이 보호자들을 대상으로 익명 온라인(Qualtrics) 설문을 시행했고, modified Zarit Burden Interview(mZBI)를 포함해 보호자 부담을 객관적으로 평가했다. 전체 응답자 수는 339명이었고, mZBI 점수 ≥18을 임상적으로 유의한 부담으로 정의하여 응답자의 46%가 해당 기준을 충족했다. IRIS 단계 3/4 고양이의 보호자들은 IRIS 단계 1/2에 비해 mZBI 중앙값이 유의하게 높았으며(중앙값 20.0, 범위 3–50 vs 중앙값 14.5, 범위 0–58; P = 0.0007). 돌봄을 거의 혼자 하는 보호자(공유 거의 없음)는 중앙값 20.0(범위 0–50)으로, 돌봄을 가끔에서 항상 공유하는 그룹(중앙값 15.0, 범위 2–58)에 비해 부담이 컸다(P = 0.0007). 매일 먹이를 유도해야 하는 보호자의 mZBI 중앙값은 22.8(범위 2–50)로, 절대 유도하지 않는 그룹(중앙값 14.5, 범위 0–49)이나 주 1–2회 유도하는 그룹(중앙값 19.2, 범위 3–42)보다 높았다(모두 P < 0.001). 수의진료팀의 지지를 항상 느끼는 보호자는 중앙값 13(범위 0–58)으로, 가끔에서 전혀 지지받지 못한다고 느끼는 그룹(중앙값 23, 범위 5–45)에 비해 부담이 낮았다(P < 0.001). 결론적으로 고양이 CKD 관련 상당한 보호자 부담이 관찰되며, 수의사들은 공감적 조언과 실무적 지원을 제공할 필요가 있다; 다만 본 연구는 소셜 미디어 모집의 익명 온라인 설문이라는 설계 특성상 선택 편향 및 자기보고 기반의 한계가 있음을 고려해야 한다.",
+      "title": "EXPRESS: Assessment of caregiver burden in feline chronic kidney disease.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "generated_at": "2026-10-09T01:15:28.510Z",
+      "model": "gpt-5-mini"
+    },
+    "42844723": {
+      "brief_summary": "본 연구는 고양이 이개 염증성 폴립(FIAP)의 원인 미확인을 밝히기 위해 13마리의 폴립 조직을 대상으로 메타게놈 Oxford Nanopore( MinION) 시퀀싱을 시행했다. 호스트 핵산 제거와 SISPA를 통한 RNA 바이러스 증폭을 수행했으나, 특정 감염성 병원체와 일관되게 연관된 미생물 서열은 확인되지 않았다. 결과적으로 특정 병원체를 지목할 근거는 없었고, 미생물 군집 분석(주로 Pseudomonadota, Actinomycetota, Bacillota 우세)이 향후 16S/ITS 분석으로 폴립 발생 및 지속 염증과의 연관성 규명에 도움이 될 수 있음을 시사한다.",
+      "detailed_summary": "연구 설계는 FIAP 조직을 routine traction and avulsion으로 채취한 13마리의 고양이를 대상으로 한 메타게놈 탐색 연구이다. 총 핵산을 추출한 뒤 고양이 유래 핵산을 제거하고 SISPA(Sequence-Independent Single-Primer Amplification)로 저농도 RNA 바이러스를 증폭하여 Oxford Nanopore MinION으로 시퀀싱했다. 비-고양이 서열은 맞춤형 박테리아/바이러스 데이터베이스에 대해 분류하여 속 수준 상대풍부도를 계산했다. 결과는 샘플들에서 다양한 박테리아가 확인되었고 몇몇 샘플에서는 드문 바이러스가 검출되었으나, 폴립과 일관되게 연관되는 공통 병원체 서열은 발견되지 않았다. 박테리아 군집은 Pseudomonadota, Actinomycetota, Bacillota 문이 지배적이었고 특히 Pseudomonadota와 Actinomycetota가 더 자주 우세했다. Lasallevirus는 일부 샘플에서 검출되었으나 임상적 의의는 불명확했으며, 배양 결과와 시퀀싱 결과는 일부에서만 부분적으로 일치했다. 결론적으로 본 연구에서는 특정 감염성 원인을 규명하지 못했으며, 저자들은 16S 및 ITS 메타게놈 분석이 미생물 군집 변화가 폴립 발생·재발 및 지속성 염증과 관련이 있는지 추가 규명하는 데 도움이 될 수 있다고 제시했다.",
+      "title": "EXPRESS: Metagenomic Oxford Nanopore sequencing of feline aural inflammatory polyps for pathogen discovery.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "generated_at": "2026-10-09T01:15:16.769Z",
+      "model": "gpt-5-mini"
+    },
+    "42846344": {
+      "brief_summary": "본 연구는 서울시 공공 TNR(trap-neuter-return) 사업이 시행되는 환경에서 2017–2025년 동안 도시 유기고양이(Felis catus) 집단의 규모와 구조 변화를 평가하기 위해 수행된 종적 관찰연구이다. 17개 고정 조사지점에서 비침습적 사진 개체 식별을 통해 개체수·중성화율·새끼 비율·잔류(재관찰) 등을 추적한 결과, 전체 개체수와 밀도는 감소했고 중성화율은 증가했으며 새끼 비율은 감소하는 경향을 보였다. 임상적 의미로는 단순 시술 건수 집계뿐 아니라 중성화율·새끼 비율·잔류와 같은 구조적 지표가 도시 고양이 관리에서 개입 필요 지점을 파악하는 데 유용할 수 있음을 시사한다.",
+      "detailed_summary": "연구는 2017–2025년 동안 서울의 17개 고정 조사지점에서 격년으로 반복 현장조사(지점당 최소 5회 방문)를 시행한 종적 관찰연구이다. 비침습적 사진 개체 식별법으로 개체수, 중성화율, 새끼 비율, apparent retention(현저관찰·잔류)을 산출했으며, 음이항·이항 혼합효과 모형과 로지스틱 혼합효과 모형으로 시간 경향과 토지 이용 차이를 평가했다. 전체적으로 개체수와 밀도는 시간에 따라 감소하는 반면 중성화율은 전반적으로 증가하고 새끼 비율은 전반적으로 감소하는 양상을 보였다. 조사연도 수준에서는 중성화율이 높을수록 새끼 비율이 낮게 관찰되었고, 기초 시점에 중성화된 고양이는 비중성화 고양이보다 잔류될 오즈가 유의하게 높았다(OR = 3.06, 95% CI: 2.07–4.53). 단일 방문 기준의 통합 검출확률은 0.299로, 잔류 지표가 불완전 검출의 영향을 받는다는 점을 보여주었다. 탐색적 지점 비교에서 중성화율을 높게 유지한 지점은 새끼 비율이 낮고 잔류가 높은 패턴을 보인 반면, 중성화율이 하락한 지점은 교체(turnover)가 크고 새끼 비율이 높은 경향을 보였다. 관찰연구이며 미처리 대조군 부재로 인해 본 연구만으로 TNR의 인과적 효과를 입증할 수 없다는 중요한 제한이 있음을 명확히 밝힌다.",
+      "title": "Beyond population size: long-term changes in free-roaming cat population structure during TNR implementation in Seoul.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-10-09T01:14:50.269Z",
+      "model": "gpt-5-mini"
+    },
+    "42846393": {
+      "brief_summary": "개 심마취 데이터에 인간 중환자실의 corridor 개념을 확장한 RELSA(Relative Severity Assessment) 점수 적용 가능성을 평가한 탐색적 연구이다. 각 항상성 변수에 정상 범위(band)를 설정하고 정상 범위를 벗어난 편차만을 점수화한 corridor RELSA는 각 마취 단계에서 점수가 낮음(각성기)→프로포폴 유도 시 상승→유지→회복 시 해소되는 변화를 보였다. 저자들은 이 방법이 양방향(상승·하강) 편차를 하나의 연속적 수치로 표현할 수 있음을 제시하나, 해당 수치가 임상적 중증도를 나타낸다는 근거는 제시되지 않았고 탐색적·사후분석이라는 제한이 있다.",
+      "detailed_summary": "연구는 기존 자료의 탐색적 2차 분석으로, 비글(Beagle) 두 개의 데이터셋을 사용했고 그중 하나는 네 군(4-arm) 내배치(within-subject) 설계로 프로토콜 간 대응비교가 가능했다. corridor RELSA는 인간 중환자실 PVS의 corridor 개념을 도입하여 각 항상성 변수마다 정상 밴드를 부여하고 그 벗어남만 표준 RELSA 알고리듬에 반영했다. 보고된 결과는 점수가 각성기에는 낮고 프로포폴(propofol) 유도 시 상승하여 유지되며 회복에 따라 감소하는 패턴을 보였다는 점이다. 주된 편차는 저혈압(hypotension), 저체온(hypothermia), 경미한 고탄산혈증(mild hypercapnia)이었고 때로는 단일 동물에서 나타났다. 편차의 크기와 점수는 설정한 밴드에 따라 달라졌으며, 프로토콜 간 비교 결과는 채택된 변수 패널에 따라 달라지므로 프로토콜 우열의 근거로 해석할 수 없다고 저자들은 밝혔다. 또한 이 분석에는 사전 표본크기 계산이 없었고, 알고리듬이 반환하는 수치가 임상적 중증도를 대표한다는 근거는 아직 제시되지 않았다는 중요한 제한이 있다.",
+      "title": "Corridor-based relative severity assessment of the canine anaesthetic course.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-10-09T01:14:41.526Z",
+      "model": "gpt-5-mini"
+    },
+    "42846857": {
+      "brief_summary": "전향적 무작위·맹검 임상시험으로 추간판질환으로 척추 수술을 받은 개 42마리를 대상으로 메타돈과 펜타닐의 지속정속주입(CRI) 진통 효과를 비교했다. 각 군은 수술 전 보유량(메타돈 0.25 mg/kg, 펜타닐 5 μg/kg) 후 수술 중·후 방사선으로 CRI(메타돈 0.2→0.05 mg/kg/h, 펜타닐 5→1 μg/kg/h)를 투여했고, 통증점수(CMPS-SF)와 촉각 감각 검사(von Frey)를 포함해 다중 시점에서 평가했다. 결과적으로 CMPS-SF와 촉각 역치에서 군 간 유의한 차이는 없었고(유의수준 α=0.05), 메타돈군에서 6마리, 펜타닐군에서 4마리가 구조적 진통(구조치료)을 필요로 하여 본 용량·요법에서 메타돈이 펜타닐보다 우월하지는 않았다. 임상적으로는 두 약물 모두 이 이질적 코호트에서 수술 후 효과적인 진통을 제공했다는 결론이다.",
+      "detailed_summary": "연구는 전향적, 무작위, 맹검 임상시험으로 총 42마리의 추간판질환(intervertebral disk disease) 개를 대상으로 하였다. 처치군은 메타돈(M)과 펜타닐(F)로 나뉘어 수술 전 보유량(메타돈 0.25 mg/kg 또는 펜타닐 5 μg/kg) 후 수술 중·후에 CRI를 유지(메타돈 0.2→0.05 mg/kg/h, 펜타닐 5→1 μg/kg/h)하였다. 평가 시점은 발관 후 1, 2, 4, 18, 24, 42, 48, 66, 72, 90, 96시간 등 여러 시점에서 이루어졌고, 평가 항목은 단순 진정도, 활력징후, 글래스고 통합 통증 척도 단축형(CMPS-SF) 점수, von Frey 필라멘트를 이용한 감각 역치 등이 포함되었다. 통계분석은 CMPS-SF와 진정도에 대해 다중 Mann–Whitney 검사를, 활력징후는 혼합효과 분석 및 Dunnett 검정, 구조치료 필요성은 생존분석으로 평가하였고 유의수준은 α=5%로 설정되었다. 주요 결과로 CMPS-SF 점수와 촉각 역치는 군 간 차이가 없었고, 시간 경과에 따른 유의한 변화도 관찰되지 않았다; 구조치료가 필요했던 환수는 메타돈군 6마리, 펜타닐군 4마리였다. 결론적으로 본 연구의 용량·투여법 하에서는 메타돈이 펜타닐보다 우수한 통증완화 효과를 보이지 않았고, 임상적으로는 두 약물이 모두 이 다종(이질적) 코호트에서 수술 후 유효한 진통을 제공했다는 점이 보고되었다.",
+      "title": "Analgesic effect of methadone constant rate infusion is not superior to fentanyl constant rate infusion in dogs after spinal surgery: a prospective, randomized, blinded, clinical trial.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-10-09T01:14:31.603Z",
+      "model": "gpt-5-mini"
+    },
+    "42846899": {
+      "brief_summary": "이 논문은 만성 신장 질환(Chronic Kidney Disease, CKD)에 대해 인간 연구에서 보고된 혈액·요 바이오마커를 요약하고, 이를 번역의학 관점에서 개·고양이 등 반려동물 CKD 연구와 연계하여 검토한다. 마이크로RNA와 다중 단백질 기반 진단 서명 등 새로운 바이오마커 후보들이 조기 진단·예후·임상 결과 개선에 기여할 가능성을 제시한다. 또한 다중오믹스와 인공지능(AI) 기반 진단 알고리즘 생성의 보완적 활용이 CKD 병태 이해와 수의 임상 적용을 진전시킬 잠재력이 있음을 논의한다.",
+      "detailed_summary": "본 논문은 인간과 반려동물의 CKD 바이오마커 연구를 종합한 리뷰로, 번역의학(translational medicine) 접근을 통해 인간 연구 성과를 반려견·반려묘 CKD 연구에 관련지어 정리했다. 주요 평가 항목은 혈액 및 요(소변) 기반 바이오마커의 진단적·예후적 유용성과 임상 결과 개선 가능성이다. 초록에서는 마이크로RNA(miRNA)와 여러 단백질을 동시에 측정해 진단 서명을 구성하는 방법 등 신흥 후보들이 유망하다고 보고한다. 또한 다중오믹스(예: 유전체·전사체·단백질체 통합) 접근과 AI 기반 알고리즘 생성이 병태생리 이해와 진단 도구 개발에서 상호 보완적 역할을 할 수 있음을 강조한다. 결론은 이러한 신기술들이 개·고양이 임상 수의학에서 CKD 진단·예후 평가를 개선할 잠재력이 있다는 점이다. 초록에는 구체적 수치, 표본 수, 검증 결과나 연구 한계에 대한 상세 설명은 제시되어 있지 않다.",
+      "title": "Chronic renal disease detection developments with future potential to improve veterinary clinical practice.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-10-09T01:14:20.824Z",
+      "model": "gpt-5-mini"
+    },
+    "42847764": {
+      "brief_summary": "전향적 이중맹검 위약대조 연구에서 소 초유(bovine colostrum, BC)를 비계절성 환경성 개 아토피 피부염(canine atopic dermatitis, cAD) 환자 20마리에게 급여(사료 건조물의 0.2%로 4주)한 결과, 임상 지표와 면역 관련 검사에서 유의한 식이 효과가 관찰되지 않았다. 사료 보충 종료 후 추가 4주 관찰에서도 주요 임상·면역 지표의 변화는 없었고, 삶의 질(QoL)은 두 군에서 경미하게 개선되는 양상이었다. 임상적으로는 본 연구 조건에서는 경구 BC 보충이 cAD의 유의한 임상적·면역학적 개선을 가져오지 않았다는 의미이다.",
+      "detailed_summary": "연구는 20마리의 외인성 비계절성 cAD를 가진 고객 소유 개를 대상으로 한 전향적(double-blinded), 위약대조(placebo-controlled) 연구이다. 표준화된 사료에 2주 적응 후 개체들을 위약군 또는 BC군으로 나누어 사료 건조물의 0.2% BC를 4주간 급여하고, 이후 보충 없이 같은 사료로 4주를 더 관찰했다. 검사 시점은 Day14, Day42, Day70였으며, 혈중 백혈구의 증식 및 식세포 활성, 분변 면역글로불린 A(fecal IgA), 혈장 면역글로불린(Ig), C-반응단백(CRP), serum amyloid A(SAA) 등의 면역학적 변수와 CADESI-04, 회고적/일일 가려움 VAS(r-/d-pVAS), 삶의 질(QoL), 전반적 평가 및 모질 평가 등의 임상 지표를 측정했다. 주요 결과는 임상적·면역학적 평가 항목들에서 식이(BC 대 위약)에 따른 유의한 차이가 없었다는 점이며, QoL은 두 군 모두 시간에 따라 약간 개선되는 경향을 보였다. 결론적으로 이 연구 조건 하에서는 경구 BC 보충이 cAD의 관련 임상 및 면역 지표를 변화시키지 못했다. 초록에는 추가적인 제한점(예: 표본크기나 추적기간 관련 제한)에 대한 별도 언급이 없음을 명시한다.",
+      "title": "Effects of a Dietary Supplementation of Bovine Colostrum in Dogs With Atopic Dermatitis.",
+      "journal": "Veterinary Dermatology",
+      "generated_at": "2026-10-09T01:15:41.333Z",
+      "model": "gpt-5-mini"
+    },
+    "42848107": {
+      "brief_summary": "브라질 북동부 Pernambuco 주 Garanhuns의 농촌에 거주하는 개 155마리를 대상으로 2024년 8–10월에 실시한 횡단적 혈청 조사에서 벡터매개 병원체(VBP) 노출을 평가했다. 전체의 56.1% (87/155)가 최소 하나 이상의 병원체에 반응했고, Ehrlichia spp. 항체는 50.9% (79/155), Anaplasma spp. 8.3% (13/155), Trypanosoma cruzi 항체 5.1% (8/155), Leishmania infantum 항체는 일부에서 중복 검출(4/155, 2.5%)되었으며 Dirofilaria immitis 항원은 1.2% (2/155)였다. 임상적으로는 농촌 개에 대한 외부기생충 예방(구제제) 사용이 필요함을 시사한다.",
+      "detailed_summary": "연구는 2024년 8월부터 10월까지 브라질 Pernambuco 주 Garanhuns의 농촌 지역에 거주하는 개 155마리로부터 채혈한 샘플을 이용한 횡단적 조사이다. Trypanosoma cruzi는 면역형광항체법(IFAT)으로, Leishmania infantum는 신속 면역크로마토그래피 검사와 ELISA 병용으로, Dirofilaria immitis 항원 및 Anaplasma phagocytophilum/Anaplasma platys, Ehrlichia canis/Ehrlichia ewingii, Borrelia burgdorferi sensu lato에 대한 항체는 정성적 ELISA로 평가했다. 전체의 56.1% (87/155)가 적어도 하나의 병원체에 반응했으며, Ehrlichia spp. 항체가 50.9% (79/155)로 가장 높았고 Anaplasma spp. 8.3% (13/155), B. burgdorferi s.l. 0.6% (1/155), D. immitis 항원 1.2% (2/155)가 관찰되었다. T. cruzi 항체는 5.1% (8/155)에서 검출되었고 이 중 4개 샘플(2.5%, 4/155)은 L. infantum 항체와 중복 검출되었다. 성별, 이동성(mobility), 야외 숙박 여부 및 외부기생충 존재와 병원체 세로양성 사이에는 통계적 연관성이 관찰되지 않았다. 결론은 농촌 개들이 여러 VBP에 노출되어 있으며 외부기생충 예방 사용을 통해 감염 위험을 줄여야 한다는 것이며, 초록에는 별도의 연구 제한점이 명시되어 있지 않다.",
+      "title": "Canine exposure to vector-borne pathogens in a rural Brazilian landscape.",
+      "journal": "Veterinary Research Communications",
+      "generated_at": "2026-10-09T01:15:05.678Z",
       "model": "gpt-5-mini"
     }
   }
