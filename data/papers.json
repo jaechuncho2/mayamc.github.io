@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-10-09T01:14:10.831Z",
+  "updated_at": "2026-10-10T00:53:12.736Z",
   "papers": [
+    {
+      "pmid": "42443922",
+      "title": "Effect of mixed microbial silage of mulberry and navel orange residue on growth performance, blood metabolism, and rumen microbiome changes in beef cattle.",
+      "journal": "BMC Veterinary Research",
+      "authors": "Cao X, Song X, Guo H, Ou X, Chen C, Chen R, Zhang Q, Lian H, Xie H, Fu T, Cao H, Lei X",
+      "date": "2026 10 09",
+      "dateObject": "2026 10 09",
+      "abstract": "Mulberry and navel orange residue are limited in practical application due to high moisture content, susceptibility to spoilage, and the presence of minor anti-nutritional factors. The main aim of the present study was to investigate the effect of mixed microbial silage of mulberry and navel orange residue on growth performance, blood metabolism, and rumen microbiome changes in beef cattle. Twenty-four healthy 20-22&#x2011;month&#x2011;old male Simmental crossbred beef cattle were randomly assigned to four dietary treatments: CON, SQ1, SQ2, and SQ3 groups were fed diets containing 0%, 20%, 30%, 40% of mixed microbial silage, respectively. At the end of the 90-day feeding trial, dietary 30% mixed microbial silage can improve ADG, reduce F/G and serum levels of ALT, UA and TC, increase levels of blood PLT, P-LCC, LYM and EOS in beef cattle (P&#x2009;<&#x2009;0.05). The serum MDA level in SQ2 group was significantly lower than that in CON and SQ3 groups (P&#x2009;<&#x2009;0.05), while CAT activity was the highest among all treatments (P&#x2009;<&#x2009;0.05). Notably, the Shannon, Chao1 and Observed_species indices of the rumen microbiome in SQ3 group were significantly lower than those in CON group (P&#x2009;<&#x2009;0.05). The relative abundances of Bacteroidetes and Patescibacteria in SQ3 group were lower than those in CON group (P&#x2009;<&#x2009;0.05). Additionally, mixed microbial silage decreased the relative abundance of Proteobacteria and increased that of Actinobacteria. At the genus level, the relative abundance of Cryptobacteroides in SQ1 and SQ2 groups were lower than that in CON group (P&#x2009;<&#x2009;0.05), whereas those of SFMI01 and UBA1711 in SQ2 group were increased (P&#x2009;<&#x2009;0.05). In addition, significant correlations were observed among growth performance, serum antioxidant capacity and rumen microbiome, and a potential competitive exclusion relationship existed within the rumen microbial community. Collectively, these findings suggested that dietary supplementation with 30% mixed microbial silage of mulberry and navel orange residue could improve growth performance, enhance serum antioxidant capacity and stabilize rumen fermentation of beef cattle. Meanwhile, the altered rumen microbiome may improve growth performance in beef cattle by regulating antioxidant capacity.",
+      "categories": []
+    },
+    {
+      "pmid": "42443886",
+      "title": "Serum insulin-like growth factor-1 concentrations are not reduced in Pomeranian dogs with Alopecia X: a case-control study.",
+      "journal": "BMC Veterinary Research",
+      "authors": "Halajian Z, Khoshnegah J, Parham A",
+      "date": "2026 10 09",
+      "dateObject": "2026 10 09",
+      "abstract": "Alopecia X (AX)-also referred to as hair cycle arrest or Alopecia X-like syndrome-is a non-inflammatory disorder common in Pomeranians, though it frequently affects other breeds such as Alaskan Malamutes, Chow Chows, Schipperkes, and Poodles. Historically known by various names including growth hormone-responsive alopecia, castration-responsive alopecia and congenital adrenal hyperplasia-like syndrome, this condition represents a complex follicular arrest of \"plush-coated\" breeds. The etiopathogenesis remains unclear, and reliable, minimally invasive diagnostic biomarkers are lacking. Insulin-like growth factor-1 (IGF-1) is essential for hair follicle cycling, and systemic deficiency has been hypothesized to contribute to canine alopecia. This study aimed to determine if serum IGF-1 concentrations differ between Pomeranian dogs with AX and healthy controls, and to evaluate the effect of neuter status on IGF-1 levels. Thirty client-owned Pomeranian dogs (11 AX, 19 healthy controls) were enrolled. Serum IGF-1 concentrations were measured via a human competitive ELISA kit validated in-house for canine samples. Data were non-normally distributed and analyzed via Mann-Whitney U tests. No significant difference in serum IGF-1 was detected between alopecic (median: 62.0 ng/mL; range: 7.31-151) and healthy dogs (median: 51.8 ng/mL; range: 7.43-209.76) (U&#x2009;=&#x2009;74, p&#x2009;=&#x2009;0.200). Neuter status was significantly imbalanced between groups (63.6% of cases neutered vs. 10.5% of controls, p&#x2009;=&#x2009;0.002). While neutered dogs exhibited numerically higher mean IGF-1 values than intact dogs within the alopecic group, this difference was not statistically significant (p&#x2009;=&#x2009;0.412). No correlation was found between IGF-1 and age or body weight. Serum IGF-1 concentrations are not reduced in Pomeranian dogs with Alopecia X compared to healthy controls. Routine measurement of serum IGF-1 is not recommended as a diagnostic test for AX. The role of gonadectomy in modulating the GH/IGF-1 axis in this breed requires further investigation with larger, balanced cohorts.",
+      "categories": [
+        "internalMedicine",
+        "surgery",
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42853324",
+      "title": "Management of volumetric muscle loss in a dog using bioactive glass-alginate-cellulose composite and a transpositional flap: a case report.",
+      "journal": "Veterinary Research Communications",
+      "authors": "Z&#x103;voi A, Ablassmaier T, Pop B, Mure&#x219;an &#x218;, Negoescu A, Lucaci F, Purdoiu R, Feraru A, Magyari K, Bel L, Dragomir M, Oana L, Taulescu M, Dreanc&#x103; A",
+      "date": "2026 10 09",
+      "dateObject": "2026 10 09",
+      "abstract": "This case report describes the management of a complex volumetric muscle loss (VML) injury in a 3-year-old mixed-breed dog following severe trauma to the right forelimb, which resulted in extensive multi-muscle defects that were unsuitable for primary closure. After initial stabilization and surgical debridement, reconstruction was achieved using a transpositional flap, while a gold nanoparticles-bioactive glass-alginate-cellulose (BGAuSP-Alg-MCC) composite was implanted to fill the dead space and support tissue regeneration. Postoperative healing was evaluated through clinical follow-up, computed tomography performed immediately and at 1 and 3 months postoperatively, as well as histological and immunohistochemical analyses. Imaging demonstrated progressive integration of the biomaterial, restoration of tissue density comparable to adjacent muscle, and absence of major complications. Histological evaluation demonstrated moderate inflammation and granulation tissue formation, containing numerous blood capillaries (neoangiogenesis), confirmed by CD31 and &#x3b1;-Smooth muscle actin (SMA) immunolabelling. Functional recovery was favorable, with preserved limb mobility and normal gait. These findings provide preliminary evidence of local biocompatibility and support the feasibility of incorporating the BGAuSP-Alg-MCC composite into a multimodal surgical management approach for extensive volumetric muscle loss in canine patients.",
+      "categories": [
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42851581",
+      "title": "Developmental lung disease with associated pulmonary hypertension in a Sphynx kitten.",
+      "journal": "JFMS Open Reports",
+      "authors": "Martin E, Wiggen KE, Williams K, Masseau I, Reinero CR",
+      "date": "2026 10 09",
+      "dateObject": "2026 10 09",
+      "abstract": "This case report describes the clinical presentation, diagnostic findings and clinicopathologic features consistent with developmental lung disease (DLD) and pulmonary hypertension (PH) in a 3-month-old Sphynx Munchkin kitten. The kitten was originally referred for episodes of respiratory distress that was unresponsive to medical management, consisting of diuretics, antibiotics and corticosteroids. Echocardiography was consistent with a high probability of PH of a non-cardiac etiology. Baseline blood work, thoracic radiographs, thoracic CT with triphasic angiography and a bronchoalveolar lavage were performed. Thoracic CT revealed diffuse ground-glass opacity with bronchiolectasis and distention of the pulmonary artery and branches. The bronchoalveolar lavage identified an equal distribution of non-degenerative neutrophils and macrophages, with erythrophagocytosis and no overt neoplastic cells or infectious organisms identified. The kitten was humanely euthanized due to the lack of an identifiable treatable etiology and poor prognosis. Histopathological findings were most consistent with DLD with diffuse acinar underdevelopment and vascular changes including pulmonary capillary hemangiomatosis. These findings have not been previously reported in the feline DLD literature. There is a paucity of literature describing DLD and its potential to cause PH in cats. A comprehensive diagnostic evaluation, ultimately including histologic examination, is needed to reach a diagnosis of DLD. The presence of PH in a young kitten without any identifiable primary cardiac or respiratory cause, pulmonary thromboembolism or cardiac parasites should lead to a DLD being considered.",
+      "categories": [
+        "cardiology",
+        "internalMedicine",
+        "oncology"
+      ]
+    },
     {
       "pmid": "42846899",
       "title": "Chronic renal disease detection developments with future potential to improve veterinary clinical practice.",
@@ -2822,19 +2872,6 @@
       ]
     },
     {
-      "pmid": "42525188",
-      "title": "Quadruple co-infection with Mycobacterium tuberculosis complex and M. kansasii in a chronically immunosuppressed cat.",
-      "journal": "Veterinary Research Communications",
-      "authors": "Choi S, Choi SN, Lee TG, Ryoo S, Kwak JH, Kim KW, Park TI, Song WJ, Lee EJ, Jeong KS",
-      "date": "2026 07 29",
-      "dateObject": "2026 07 29",
-      "abstract": "An 8-year-old spayed female American Shorthair cat was evaluated for refractory perioral nodules and respiratory distress persisting for 9 months. The patient had a history of feline atopy and chronic gingivostomatitis managed with long-term immunosuppressive therapy, including cyclosporine A and prednisolone. Pre-surgical computed tomography (CT) revealed a 2.1&#xa0;cm nasolabial mass without osteolysis, later diagnosed as a mycobacterial infection. This unusual infection was tentatively attributed to pharmacological suppression of cell-mediated immunity, potentially impairing both granuloma formation and inflammatory bone resorption. Fine-needle aspiration (FNA) and Ziehl-Neelsen (ZN) staining demonstrated a high burden of acid-fast bacilli (AFB). However, conventional cultures, including inoculation on 3% Ogawa medium, failed due to rapid overgrowth of Klebsiella pneumoniae (K. pneumoniae). Post-mortem multi-target real-time PCR and whole genome sequencing (WGS), together with internal transcribed spacer (ITS) sequencing and phenotypic antimicrobial testing, identified a fatal co-infection comprising Mycobacterium tuberculosis complex (MTBC), Mycobacterium kansasii, K. pneumoniae, and multidrug-resistant Pseudomonas aeruginosa. This report describes a rare feline case of a fatal polymicrobial infection involving both MTBC and non-tuberculous mycobacteria (NTM) in conjunction with opportunistic gram-negative pathogens. The findings suggest that chronic iatrogenic immunosuppression may alter or obscure classical diagnostic features of mycobacteriosis and facilitate complex co-infections. This case highlights the importance of high-sensitivity molecular diagnostics and suggests that immunocompromised companion animals may, in rare instances, serve as cautious indicators of possible household mycobacterial exposure within a One Health framework.",
-      "categories": [
-        "internalMedicine",
-        "surgery"
-      ]
-    },
-    {
       "pmid": "42523885",
       "title": "Pericardial hemangiosarcoma in a cat.",
       "journal": "JFMS Open Reports",
@@ -3032,30 +3069,6 @@
       ]
     },
     {
-      "pmid": "42443922",
-      "title": "Effect of mixed microbial silage of mulberry and navel orange residue on growth performance, blood metabolism, and rumen microbiome changes in beef cattle.",
-      "journal": "BMC Veterinary Research",
-      "authors": "Cao X, Song X, Guo H, Ou X, Chen C, Chen R, Zhang Q, Lian H, Xie H, Fu T, Cao H, Lei X",
-      "date": "2026 07 14",
-      "dateObject": "2026 07 14",
-      "abstract": "Mulberry and navel orange residue are limited in practical application due to high moisture content, susceptibility to spoilage, and the presence of minor anti-nutritional factors. The main aim of the present study was to investigate the effect of mixed microbial silage of mulberry and navel orange residue on growth performance, blood metabolism, and rumen microbiome changes in beef cattle. Twenty-four healthy 20-22&#x2011;month&#x2011;old male Simmental crossbred beef cattle were randomly assigned to four dietary treatments: CON, SQ1, SQ2, and SQ3 groups were fed diets containing 0%, 20%, 30%, 40% of mixed microbial silage, respectively. At the end of the 90-day feeding trial, dietary 30% mixed microbial silage can improve ADG, reduce F/G and serum levels of ALT, UA and TC, increase levels of blood PLT, P-LCC, LYM and EOS in beef cattle (P&#x2009;<&#x2009;0.05). The serum MDA level in SQ2 group was significantly lower than that in CON and SQ3 groups (P&#x2009;<&#x2009;0.05), while CAT activity was the highest among all treatments (P&#x2009;<&#x2009;0.05). Notably, the Shannon, Chao1 and Observed_species indices of the rumen microbiome in SQ3 group were significantly lower than those in CON group (P&#x2009;<&#x2009;0.05). The relative abundances of Bacteroidetes and Patescibacteria in SQ3 group were lower than those in CON group (P&#x2009;<&#x2009;0.05). Additionally, mixed microbial silage decreased the relative abundance of Proteobacteria and increased that of Actinobacteria. At the genus level, the relative abundance of Cryptobacteroides in SQ1 and SQ2 groups were lower than that in CON group (P&#x2009;<&#x2009;0.05), whereas those of SFMI01 and UBA1711 in SQ2 group were increased (P&#x2009;<&#x2009;0.05). In addition, significant correlations were observed among growth performance, serum antioxidant capacity and rumen microbiome, and a potential competitive exclusion relationship existed within the rumen microbial community. Collectively, these findings suggested that dietary supplementation with 30% mixed microbial silage of mulberry and navel orange residue could improve growth performance, enhance serum antioxidant capacity and stabilize rumen fermentation of beef cattle. Meanwhile, the altered rumen microbiome may improve growth performance in beef cattle by regulating antioxidant capacity.",
-      "categories": []
-    },
-    {
-      "pmid": "42443886",
-      "title": "Serum insulin-like growth factor-1 concentrations are not reduced in Pomeranian dogs with Alopecia X: a case-control study.",
-      "journal": "BMC Veterinary Research",
-      "authors": "Halajian Z, Khoshnegah J, Parham A",
-      "date": "2026 07 14",
-      "dateObject": "2026 07 14",
-      "abstract": "Alopecia X (AX)-also referred to as hair cycle arrest or Alopecia X-like syndrome-is a non-inflammatory disorder common in Pomeranians, though it frequently affects other breeds such as Alaskan Malamutes, Chow Chows, Schipperkes, and Poodles. Historically known by various names including growth hormone-responsive alopecia, castration-responsive alopecia and congenital adrenal hyperplasia-like syndrome, this condition represents a complex follicular arrest of \"plush-coated\" breeds. The etiopathogenesis remains unclear, and reliable, minimally invasive diagnostic biomarkers are lacking. Insulin-like growth factor-1 (IGF-1) is essential for hair follicle cycling, and systemic deficiency has been hypothesized to contribute to canine alopecia. This study aimed to determine if serum IGF-1 concentrations differ between Pomeranian dogs with AX and healthy controls, and to evaluate the effect of neuter status on IGF-1 levels. Thirty client-owned Pomeranian dogs (11 AX, 19 healthy controls) were enrolled. Serum IGF-1 concentrations were measured via a human competitive ELISA kit validated in-house for canine samples. Data were non-normally distributed and analyzed via Mann-Whitney U tests. No significant difference in serum IGF-1 was detected between alopecic (median: 62.0 ng/mL; range: 7.31-151) and healthy dogs (median: 51.8 ng/mL; range: 7.43-209.76) (U&#x2009;=&#x2009;74, p&#x2009;=&#x2009;0.200). Neuter status was significantly imbalanced between groups (63.6% of cases neutered vs. 10.5% of controls, p&#x2009;=&#x2009;0.002). While neutered dogs exhibited numerically higher mean IGF-1 values than intact dogs within the alopecic group, this difference was not statistically significant (p&#x2009;=&#x2009;0.412). No correlation was found between IGF-1 and age or body weight. Serum IGF-1 concentrations are not reduced in Pomeranian dogs with Alopecia X compared to healthy controls. Routine measurement of serum IGF-1 is not recommended as a diagnostic test for AX. The role of gonadectomy in modulating the GH/IGF-1 axis in this breed requires further investigation with larger, balanced cohorts.",
-      "categories": [
-        "internalMedicine",
-        "surgery",
-        "dermatology"
-      ]
-    },
-    {
       "pmid": "42405028",
       "title": "Severe hypercalcemia in a cat following treatment with antibiotic impregnated calcium sulfate carrier material for chronic pyogranulomatous panniculitis.",
       "journal": "JFMS Open Reports",
@@ -3160,18 +3173,6 @@
         "oncology",
         "surgery",
         "neurology"
-      ]
-    },
-    {
-      "pmid": "42226961",
-      "title": "Oesophageal necrosis after impaction as a proposed cause of markedly elevated serum creatine kinase activity in a juvenile cat.",
-      "journal": "JFMS Open Reports",
-      "authors": "Lobegeier HK, Loukopoulos P, Turner RB",
-      "date": "2026 06 02",
-      "dateObject": "2026 06 02",
-      "abstract": "A 21-week-old, male castrated domestic mediumhair cat presented with a history of acute, severe regurgitation. No abnormalities were detected on physical examination. Initial serum biochemistry identified marked elevation in creatine kinase (CK) (905,409 U/l, reference interval [RI] 50-400), which persisted after 24&#x2009;h of supportive care (32,491 U/l, RI 50-400). Serology for Toxoplasma gondii was negative. Radiography and ultrasound found severe caudal oesophageal impaction. The kitten was euthanased; a post-mortem examination confirmed oesophageal food impaction and severe, focally extensive oesophageal necrosis. The underlying cause of the oesophageal impaction was not definitively determined. Other than the oesophageal necrosis, there were no other autopsy findings to explain the elevated CK. Oesophageal muscle necrosis may be associated with severe elevations in CK concentrations and oesophageal disease should be considered if there is no obvious trauma, polymyopathy or cardiac disease in feline patients with markedly elevated CK.",
-      "categories": [
-        "cardiology"
       ]
     },
     {

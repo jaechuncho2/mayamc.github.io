@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T01:15:53.645Z",
+  "updated_at": "2026-10-10T00:53:35.239Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -6591,6 +6591,22 @@
       "title": "Canine exposure to vector-borne pathogens in a rural Brazilian landscape.",
       "journal": "Veterinary Research Communications",
       "generated_at": "2026-10-09T01:15:05.678Z",
+      "model": "gpt-5-mini"
+    },
+    "42851581": {
+      "brief_summary": "3개월령 수프링크스 먼치킨 새끼 고양이에서 발달성 폐질환(DLD)과 연관된 비심장성 폐고혈압(PH)이 의심된 증례를 보고한다. 흉부 CT에서 전반적 ground-glass 소견과 기관지세기관지 확장, 폐동맥 및 분지 확장이 관찰되었고, 기관지폐포세척(BAL)에서는 비퇴행성 호중구와 대식세포가 동등 분포로 관찰되었다. 최종적으로 조직검사에서 확산성 소엽(acinus) 미발달과 폐모세혈관혈관종증(pulmonary capillary hemangiomatosis, PCH)을 동반한 DLD 소견이 확인되었고, 치료 가능 원인 부재 및 예후 불량으로 안락사하였다; 젊은 고양이에서 원인 불명의 PH가 있을 경우 DLD를 고려해야 함을 시사한다.",
+      "detailed_summary": "증례보고로 3개월령 Sphynx Munchkin 수컷 새끼 고양이 1례를 대상으로 하였다. 호흡곤란 증상에 대해 이뇨제, 항생제, 코르티코스테로이드 등 보존적 치료에 반응하지 않았고, 심장초음파에서는 비심장성 원인의 높은 PH 가능성을 시사하였다. 진단적 평가로 혈액검사, 흉부 방사선, 삼상 혈관조영을 포함한 흉부 CT, 기관지폐포세척(BAL)을 시행하였고 CT에서는 전반적 ground-glass 불투명도, 소기관지(bronchiolectasis) 확장 및 폐동맥과 분지의 확장이 관찰되었다. BAL에서는 비퇴행성 호중구와 대식세포가 동등하게 분포하였고 적혈구포식(erythrophagocytosis)은 있었으나 명백한 종양세포나 감염원은 확인되지 않았다. 치료 가능한 원인이 규명되지 않고 예후가 불량하여 안락사하였고, 조직병리학에서 확산성 acinar(소엽) 미발달과 혈관 변화(폐모세혈관혈관종증 포함)를 보이는 DLD 소견이 확인되었다. 본 증례는 고양이 DLD 문헌에서 보고된 바가 드문 소견을 제시하며, 한례 사례라는 점과 진단을 위해 조직학적 평가가 필요하다는 제한점이 있다. 젊은 고양이에서 심장성 원인, 폐색전증, 기생충 등 다른 설명 가능한 원인 없이 PH가 관찰되면 DLD를 감별로 고려해야 한다.",
+      "title": "Developmental lung disease with associated pulmonary hypertension in a Sphynx kitten.",
+      "journal": "JFMS Open Reports",
+      "generated_at": "2026-10-10T00:53:35.224Z",
+      "model": "gpt-5-mini"
+    },
+    "42853324": {
+      "brief_summary": "3세 혼합견에서 발생한 우측 전지의 광범위 체적 근육 결손(volumetric muscle loss, VML)을 전이성 피판과 금 나노입자-생체활성유리-알지네이트-셀룰로오스(BGAuSP-Alg-MCC) 복합체 이식으로 치료한 증례보고이다. 수술 후 임상 추적과 즉시·1개월·3개월의 컴퓨터단층촬영(CT), 조직학 및 면역조직화학 검사에서 복합재료의 점진적 통합, 주변 근육과 유사한 조직 밀도 회복, 큰 합병증 부재가 관찰되었다. 조직학적으로는 중등도의 염증과 육아조직 형성, 다수의 모세혈관(신생혈관형성)이 확인되었고(CD31, α-SMA 양성), 사지 기능은 보존되어 정상 보행을 보였다. 이는 국소 생체적합성의 예비적 근거와 광범위 VML에 대한 다중모드 외과적 접근법 내에서 BGAuSP-Alg-MCC 복합체의 적용 가능성을 제시하지만 증례보고인 점에서 일반화할 수 없다.",
+      "detailed_summary": "연구는 단일 증례보고로, 3세 혼합견의 우측 전지에 발생한 심한 외상으로 다수 근육의 광범위 결손이 생겨 일차 봉합이 불가능한 상황을 다루었다. 초기 안정화와 외과적 괴사조직 제거(debridement) 후 재건은 전이성 피판(transpositional flap)으로 이루어졌고, 사공간(dead space)을 채우고 조직 재생을 지지하기 위해 금 나노입자-생체활성유리-알지네이트-셀룰로오스(BGAuSP-Alg-MCC) 복합체를 이식했다. 평가 방법은 임상 추적 관찰, 수술 직후 및 1개월·3개월의 컴퓨터단층촬영(CT), 조직학 및 면역조직화학 분석이었다. 영상 소견에서는 복합재료의 점진적 통합과 주변 근육과 비교한 유사한 조직 밀도 회복, 주요 합병증의 부재가 보고되었다. 조직학에서는 중등도의 염증 반응과 육아조직 형성, 다수의 모세혈관이 관찰되었고 이는 CD31 및 α-평활근액틴(α-SMA) 면역표지로 확인되어 신생혈관형성을 시사했다. 기능적 회복은 양호하여 수술 후 사지 운동성 보존과 정상 보행이 유지되었다. 저자들은 이러한 소견을 통해 국소 생체적합성과 다중모드 외과 치료에 복합체를 포함시키는 것이 실현 가능함을 제시했으나, 본 보고는 단일 증례에 기반하므로 더 큰 표본과 대조 연구가 필요함을 한정점으로 제시한다.",
+      "title": "Management of volumetric muscle loss in a dog using bioactive glass-alginate-cellulose composite and a transpositional flap: a case report.",
+      "journal": "Veterinary Research Communications",
+      "generated_at": "2026-10-10T00:53:27.160Z",
       "model": "gpt-5-mini"
     }
   }
