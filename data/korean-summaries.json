@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T00:53:35.239Z",
+  "updated_at": "2026-10-11T00:16:16.549Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -6607,6 +6607,62 @@
       "title": "Management of volumetric muscle loss in a dog using bioactive glass-alginate-cellulose composite and a transpositional flap: a case report.",
       "journal": "Veterinary Research Communications",
       "generated_at": "2026-10-10T00:53:27.160Z",
+      "model": "gpt-5-mini"
+    },
+    "42854718": {
+      "brief_summary": "본 연구는 2024년 1월부터 2025년 6월까지 오하이오 주립대 수의학센터 중환자실(ICU)에 입원한 개·고양이를 대상으로 CRE(carbapenem-resistant Enterobacterales) 장내 집락화의 유병률과 연관 요인을 조사했다. 전체 3,834마리에서 채취한 5,552개의 직장 검체에서 환자 유병률은 1.59%였고(61/3,834), blaNDM을 보유한 Escherichia coli가 78.7%(48/61)를 차지했다. 동반질환 부담 증가, 생식기 미절제 상태, 입원 기간 증가, 최근 수술, 최근 3개월 내 항생제 사용 등이 CRE 집락화의 예측인자로 확인되었다. 결과는 환자·직원 보호를 위한 감염예방·통제(IPC) 및 수의학적 항생제 관리(antimicrobial stewardship)의 중요성을 시사한다.",
+      "detailed_summary": "회고적 사례-대조군 연구로, 2024-01–2025-06 기간 동안 오하이오 주립대 수의학센터 중환자실(ICU)에 입원한 개·고양이를 대상으로 수행되었다. 총 3,834마리에서 5,552개의 직장 검체를 수집했으며, 사례군은 입원 중 적어도 한 번 CRE 양성 분변배양을 보인 환자(61마리), 대조군은 CRE 음성으로 무작위 선정된 137마리였다. 환자 유병률은 1.59%(61/3,834; 95% CI 1.24–2.04%)였고, 가장 흔한 분리주는 blaNDM을 보유한 Escherichia coli로 78.7%(48/61; 95% CI 66.9–87.1%)를 차지했다. CRE 집락화와 유의하게 연관된 인자는 동반질환 부담 증가(단위당 OR 1.96; 95% CI 1.43–2.75), 생식기 미절제 상태(OR 4.39; 95% CI 1.47–11.03), 입원 기간 증가(단위당 OR 1.31; 95% CI 1.14–1.53), 최근 수술(OR 2.72; 95% CI 1.29–5.87), 최근 3개월 내 항생제 사용(OR 2.71; 95% CI 1.23–6.07)이다. 저자들은 이러한 예측인자들이 환자 및 직원 보호를 위한 감염예방·통제(IPC)와 수의학적 항생제 관리(antimicrobial stewardship)에서의 개입 목표를 제공한다고 결론지었다. 또한 CRE로 집락화된 환자는 전파의 저장고가 될 수 있고 이후 감염 위험이 있다는 점을 강조하고 있다.",
+      "title": "Predictors of carbapenem-resistant Enterobacterales enteric colonization among patients admitted to a companion animal intensive care unit.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-10-11T00:16:06.445Z",
+      "model": "gpt-5-mini"
+    },
+    "42854722": {
+      "brief_summary": "무작위 대조 연구에서 보호소 개를 대상으로 수술 전후 경구 트라조돈(trazodone, 8 mg/kg), 가바펜틴(gabapentin, 25 mg/kg), 두 약물 병용 또는 대조군을 비교하였다. 행동 비디오를 이용해 스트레스 관련 행동(SRB)을 평가한 결과, 트라조돈 단독 및 트라조돈+가바펜틴 군에서 평균 SRB 점수가 유의하게 감소했고, 가바펜틴 단독군에서는 점수가 증가했으며 대조군은 변화가 없었다. 저자들은 수술 전 트라조돈 단독 또는 병용 투여가 보호소 개의 스트레스 관련 행동 완화에 도움이 될 수 있다고 결론지었다.",
+      "detailed_summary": "연구는 2020년 9월부터 2021년 10월까지 등록된 보호소 개들을 대상으로 한 무작위 대조 시험으로, 중성화 수술(난소자궁절제술 또는 거세) 전날 저녁과 수술 당일 아침에 경구로 약물을 투여했다. 비교군은 트라조돈(8 mg/kg), 가바펜틴(25 mg/kg), 두 약물 병용, 또는 무처치(대조)였고, 영상 녹화로 기저선, 첫 투여 14시간 후, 두번째 투여 1.5시간 후의 행동을 촬영했다. 관찰자들은 눈가림(blinded) 상태에서 15개 SRB 항목을 각 항목 존재(1)·부재(0)로 채점했으나 최종 분석에는 60마리와 13개 SRB가 포함되었다. 각 녹화는 1분차(사람 부재)와 2분차(사람 존재)로 구분해 점수를 합산했고, 기저선에서 1분차 점수가 2분차보다 낮았다. 결과적으로 트라조돈 단독 및 병용군은 평균 SRB 점수의 유의한 감소를 보였고, 가바펜틴 단독군은 점수가 증가했으며 대조군은 시간에 따른 변화가 없었다. 저자 결론은 수술 전 트라조돈 단독 또는 가바펜틴 병용이 보호소 개의 SRB 완화에 유용할 수 있다는 것이며, 초록에는 제한점이 구체적으로 기술되어 있지 않다.",
+      "title": "Oral trazodone alone or in combination with gabapentin reduces the expression of stress-related behaviors in a randomized controlled trial with shelter dogs.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-10-11T00:15:52.593Z",
+      "model": "gpt-5-mini"
+    },
+    "42854896": {
+      "brief_summary": "건강한 비글 10마리를 대상으로 테트라코타이드(Cosacthen)를 개봉 후 2–8°C에서 최대 3주간 보관한 뒤 ACTH 자극 검사(ACTHST)를 시행하여 호르몬 반응 안정성과 비호르몬성 검사값 변화를 평가한 연구다. 모든 시점(T0–T3)에서 ACTH 투여 후 코티솔 농도는 유의하게 증가했고, 개봉 후 냉장 보관은 코티솔 반응을 변화시키지 않았다. 검사 후 적혈구·헤마토크릿·헤모글로빈, 알부민, ALP, 중성지방, 콜레스테롤, 칼륨, 총칼슘은 감소하고 포도당은 증가했으나 모든 값이 참고범위 내에 있었고 이상반응은 없었다는 점에서, 개봉된 Cosacthen을 냉장 보관해도 ACTHST 해석 시 호르몬 반응은 유지되나 검사 후 생화학·혈액학적 변화는 고려해야 한다는 임상적 시사점을 제공한다.",
+      "detailed_summary": "본 연구는 10마리의 건강한 비글(수컷 5, 암컷 5)을 대상으로 테트라코타이드(Cosacthen, 5 μg/kg, IV)를 바이알 개봉 시점(T0)과 개봉 후 7일 간격으로 3주간(T1–T3) 동일 바이알에서 취한 앨리쿼트를 2–8°C에 보관하여 반복 투여하며 평가했다. 각 투여 전과 투여 1시간 후에 코티솔 농도, 혈액학, 생화학 및 전해질을 검사하고 임상적 모니터링을 수행했다. 모든 시점에서 ACTH 투여 후 코티솔은 유의하게 증가했으며, 델타 코티솔은 T1이 T0보다 높고(P = 0.0104) T2가 T1보다 낮았다(P = 0.0059), T0, T2, T3 간에는 차이가 없었다. ACTH 투여 후 적혈구수, 헤마토크릿, 헤모글로빈, 알부민, 알칼리 포스파타제(ALKP), 중성지방, 총콜레스테롤, 칼륨, 총칼슘은 유의하게 감소했고 포도당은 증가했으나 모든 값은 연구에서 사용한 참고범위 내에 머물렀다. 임상적으로 이상반응은 관찰되지 않았고, 결론적으로 개봉 후 냉장 보관한 Cosacthen은 코티솔 반응을 저해하지 않았으며 ACTH 자극 검사 시행 시 호르몬 외의 혈액학적·생화학적 변화는 검사 해석 시 고려해야 한다.",
+      "title": "Biological Response Stability of Refrigerated Cosacthen after Opening and Non-Hormonal Effects of ACTH Stimulation Testing in Healthy Dogs.",
+      "journal": "Topics in Companion Animal Medicine",
+      "generated_at": "2026-10-11T00:16:16.536Z",
+      "model": "gpt-5-mini"
+    },
+    "42855434": {
+      "brief_summary": "2015–2023년 CT에서 확인된 pneumorrhachis(척수관 내 공기, PR) 125건(개 119, 고양이 6)을 후향적으로 분석해 PR의 분포와 진공현상(VP), 관련 질환과의 관계를 평가했다. 개에서는 PR이 신경학적 질환과 함께 나타난 경우가 60/119(50%)였고 그중 추간판질환(IVDD)이 50/60(83%)로 가장 흔했으며 IVDD 관련 PR에서는 Hansen type I이 32/50(64%)를 차지했다. VP는 IVDD 관련군에서 23/50(46%)에서 동반되어 78%에서 병변 추간판과 동일 위치에 있었다. 결론적으로 PR은 신경학적·비신경학적 질환 및 수술 후에 모두 관찰되며, 특히 개의 IVDD에서 자주 보이지만 많은 경우 임상적으로 우연소견이었다.",
+      "detailed_summary": "연구는 2015–2023년 사이 CT 보고에서 PR이 기재된 증례를 포함한 후향적 기술연구로, 증례의 임상기록과 CT 소견을 검토했다. 수집된 항목은 신상정보, PR 분포, VP 존재 여부, 최종 진단(신경학적·비신경학적·수술 후·원인 불명) 등이다. 개에서는 전체 119마리 중 60마리(50%)에서 PR이 신경학적 질환과 동반되었고, 그 신경학적 군의 50/60(83%)이 IVDD였다; IVDD 관련 PR의 32/50(64%)는 Hansen type I이었다. IVDD 관련 사례 중 VP는 23/50(46%)에서 관찰되었고, 그중 78%는 병변 추간판과 동위치로 나타났다. 비신경학적 원인은 개에서 45/119(38%)를 차지했으며 주로 종양성(44%)과 호흡기(36%) 상태였고 VP는 드물게 관찰되었다. 개에서는 12/119가 수술 후였고 2마리(2%)는 등배근 통증을 보였으나 원인 불명이었다. 고양이 6마리에서는 신경학적 2/6, 비신경학적 2/6, 수술 후 2/6로 보고되었고 고양이에서는 IVDD나 VP는 확인되지 않았다. 결론적으로 PR은 드문 CT 소견으로 여러 병태와 연관되며 특히 개의 IVDD에서 자주 동반되나 많은 경우 임상적 중요성은 우연적이었고, 후향적 기술연구라는 설계상 인과관계 규명에는 한계가 있다.",
+      "title": "Clinical characteristics of pneumorrhachis in dogs and cats: a retrospective study of 125 cases.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-10-11T00:15:43.407Z",
+      "model": "gpt-5-mini"
+    },
+    "42855435": {
+      "brief_summary": "277마리의 임상 환자견(신경학적 주호소 없음)을 대상으로 일반 고유수용성 결손(General proprioception deficits, GPD) 유병률을 조사한 횡단 연구이다. 전체의 26.0% (72/277, 95% CI 20.9–31.7)가 GPD를 보였고, 고유감각 결손의 발생률은 연령 증가와 유의하게 연관되었다(연령 OR 1.22, FL OR 1.31, P < .0001). 성별이나 콘드로디스트로픽(chondrodystrophic) 품종 여부와는 관련이 없었으며, 임상적으로는 다른 이상 소견이 없는 고령견에서의 경한 고유감각 결손은 항상 적극적 검사나 즉각적 처치를 요하지 않을 수 있다는 점을 시사한다.",
+      "detailed_summary": "연구는 Cornell University 수의병원에 신경학적 주호소 없이 방문한 277마리의 반려견을 대상으로 한 전향적 자료수집의 횡단 연구로, 각 개체에 대해 신경학적 검사를 수행했다. 연령은 fractional lifespan(FL)로 분류되었으며(성견 ≤0.5, 중년 0.5–0.75, 시니어 >0.75), 각 군의 표본수는 각각 102, 70, 105마리였다. 평가 항목은 패드 자리교체(paw placement)와 호핑(hopping) 반응을 기반으로 정상, 경도, 중증으로 점수화하였다. 총 72마리(26.0%, 95% CI 20.9–31.7)가 GPD를 보였고, 시니어에서는 40% 이상에서 관찰되는 등 연령대에서 유병률이 증가하는 방향성을 보였다. 통계적으로 연령(OR 1.22, 95% CI 1.13–1.33)과 FL(OR 1.31, 95% CI 1.18–1.46)이 GPD와 유의한 양의 연관을 보였고(P < .0001), 성별 및 콘드로디스트로픽 품종 여부와는 유의한 관련이 없었다. 결론적으로, 신경학적 증상이 보고되지 않은 상태에서도 경도의 고유수용성 결손이 비교적 흔하며 특히 고령에서 더 자주 관찰되므로, 임상가는 다른 이상 소견이 없을 때 고령견의 단독 경도 결손을 바로 적극적 검사로 연결할지 여부를 판단할 때 본 연구 결과를 참고할 수 있다.",
+      "title": "Prevalence of proprioception deficits in dogs visiting veterinary clinics for non-neurologic reasons: a cross-sectional study.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-10-11T00:15:27.720Z",
+      "model": "gpt-5-mini"
+    },
+    "42855436": {
+      "brief_summary": "후향적 코호트 연구에서 84마리의 입원한 개를 대상으로 ClotPro 전혈점탄성 검사 결과를 기존의 PT(프로트롬빈시간), aPTT(활성화부분트롬보플라스틴시간), 혈소판(PLT), D-다이머와 비교한 연구이다. EX(외인성) 및 IN(내인성) 채널의 응고시간은 각각 PT(ρ=0.48, q=0.002)와 aPTT(ρ=0.42, q=0.007)와 일관된 상관을 보였고, EX_MCF는 PLT(ρ=0.50, q=0.001)와 연관되었다. 연구는 ClotPro가 검사 경로별 일관성을 보이고 섬유용해 양상도 일관적이나, 질환별로 뚜렷한 점탄성 표현형을 규정하지는 못해 개별 증례 수준의 해석을 권고한다.",
+      "detailed_summary": "연구 설계는 대학병원에 입원한 84마리의 클라이언트 소유 개를 대상으로 한 후향적 코호트 연구이며, ClotPro의 여러 변수(응고시간, 10분 시 진폭, 최대 응고강도(MCF), 최대 용해(ML) 등)를 PT, aPTT, 혈소판 수(PLT), D-다이머와 스피어만 상관분석(벤자미니-호크버그 보정)으로 비교했다. 주요 결과로 PT는 EX 채널의 응고시간과 유의한 양의 상관(ρ=0.48, q=0.002), aPTT는 IN 채널의 응고시간과 상관(ρ=0.42, q=0.007)을 보였으며 PLT는 EX_MCF와 상관(ρ=0.50, q=0.001)을 보였다. FIB 채널의 MCF는 EX_MCF(ρ=0.58, q<0.001) 및 IN_MCF(ρ=0.47, q=0.003)와 상관했고, EX_ML은 EX_MCF와 역상관(ρ=-0.35, q=0.028)을 보였으며 D-다이머는 EX_ML과 양의 상관(ρ=0.30, q=0.049)을 나타냈다. 집단 수준 분포는 상당히 겹쳤고 과도한 섬유용해(HF)는 드물었으며 HF 발생률은 간질환군에서 33%, 출혈성 설사군에서 21%였다. 과응고성 지수(HCI)는 질환 간 차이가 있었으나(P=0.0002) platelet/fibrin-adjusted residual firmness는 차이가 없었다. 결론은 ClotPro 변수가 기존 응고 검사와 경로별로 일관된 상관과 섬유용해 패턴을 제시하지만, 질환별로 명확한 점탄성 표현형을 확립하지 못해 개별 증례 수준에서 해석해야 한다는 것이다.",
+      "title": "ClotPro viscoelastic testing in coagulation disorders in dogs: a retrospective analysis.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-10-11T00:15:14.343Z",
+      "model": "gpt-5-mini"
+    },
+    "42855437": {
+      "brief_summary": "본 연구는 발작성 이상운동장애(Paroxysmal dyskinesia, PD)가 의심되는 41마리의 개를 대상으로 글루텐프리 식이(Gluten‑free diet, GFD)가 증상에 미치는 영향을 후향적으로 평가했다. 33/41마리(80.5%)에서 위장관 증상이 있었고, 21/41마리(51.2%)는 글루텐 관련 항체 양성이었다. GFD 전환 후 24/41마리(58.5%)는 완전 관해, 15/41마리(36.6%)는 부분 호전, 2/41마리(4.9%)는 변화가 없었고 모든 증례에서 위장관 증상은 호전되어 임상적으로 상당한 개선을 보였다.",
+      "detailed_summary": "단일 기관에서 2019–2023년 사이 PD로 진단된 임상 증례 41건을 후향적으로 검토했으며 포함기준은 1회 이상 발작, 동영상으로 기록된 발작, 간헐기 신경학적 검사 정상, 혈청 글루텐 관련 항체 검사 및 GFD 전환 후 최소 6개월 추적이었다. 연구는 위장관 동반증상, 글루텐 관련 혈청 항체(항-글리아딘 및 항-트랜스글루타미나아제‑2 IgA), 그리고 GFD에 대한 임상 반응을 주요 평가 항목으로 삼았다. 결과적으로 위장관 증상은 33/41(80.5%)에서 관찰되었고 항체 양성은 21/41(51.2%)였다. GFD 전환 후 24/41(58.5%)가 완전 관해, 15/41(36.6%)가 부분 반응, 2/41(4.9%)는 무반응을 보였으며 모든 소유자가 위장관 증상 호전을 보고했다. 9마리는 초기 호전 후 재발했는데 재발 유발은 글루텐 섭취(6건), 스트레스(1건), 엄격한 GFD 유지에도 재발(2건)으로 보고되었다. 반응 여부는 위장관 증상 유무나 항체 상태와 통계적으로 유의한 연관성을 보이지 않아 항체 양성만으로 치료 반응을 예측하기는 어려웠다는 점과, 단일 기관의 후향적 설계라는 제한점을 가진다.",
+      "title": "Presumptive paroxysmal dyskinesia in 41 dogs: is the diet change enough?",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-10-11T00:15:03.860Z",
       "model": "gpt-5-mini"
     }
   }

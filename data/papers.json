@@ -1,6 +1,106 @@
 {
-  "updated_at": "2026-10-10T00:53:12.736Z",
+  "updated_at": "2026-10-11T00:14:54.139Z",
   "papers": [
+    {
+      "pmid": "42449371",
+      "title": "Survival patterns and prognostic factors associated with canine parvovirus infection in dogs presented at the KNUST Veterinary Teaching Hospital in Kumasi, Ghana.",
+      "journal": "BMC Veterinary Research",
+      "authors": "Opoku ED, Folitse RD, Kodie DO, Agbota JD, Esther A, Tasiame W, Emikpe BO",
+      "date": "2026 10 10",
+      "dateObject": "2026 10 10",
+      "abstract": "Canine parvovirus (CPV) remains one of the most severe and life-threatening infectious diseases affecting dogs globally, with disproportionately high mortality in puppies. Although CPV has been extensively studied in terms of prevalence and clinical presentation, evidence on survival patterns and prognostic factors in low-and middle-income country veterinary settings remains limited. This cohort study was undertaken at a Veterinary Teaching Hospital, Kumasi, Ghana. Diagnosis of CPV infection was based on clinical signs and confirmed by antigen detection using the CPV rapid immunoassay test kit. Only dogs that received treatment until recovery or death were included (n&#x2009;=&#x2009;205). Data on factors influencing prognosis, including demographic, vaccination, clinical, and management variables, were collected. Time-to-recovery was analysed using cumulative incidence functions with Gray's test and Fine-Gray competing-risk regression. Mortality was evaluated using Cox proportional hazards regression. Hazard ratios (HRs) and subdistribution hazard ratios (SHRs) were reported with 95% confidence intervals (CIs), with statistical significance set at p&#x2009;<&#x2009;0.05. Mortality was highest in treated puppies aged 13-24 weeks and &#x2264;&#x2009;12 weeks at 31.5% and 26.9% respectively, with dogs aged&#x2009;>&#x2009;24 weeks recording the least with 5.9%. Mortality rate decreased progressively with an increasing vaccination frequency, being lowest in dogs vaccinated thrice. Among CPV-positive dogs, local breeds demonstrated a higher recovery rate than foreign breeds (SHR 1.64, 95% CI: 1.07-2.51; p&#x2009;=&#x2009;0.022). Higher body weight was associated with a lower hazard of death (HR 0.86, 95% CI: 0.77-0.97; p&#x2009;=&#x2009;0.012), while CPV-positive dogs showed a longer time to recovery, with a more gradual recovery trajectory observed beyond Day 5. This study highlights the significant impact of CPV on survival outcomes among dogs in Ghana, particularly among younger and incompletely vaccinated populations. The findings demonstrate that certain demographic and clinical factors play critical roles in recovery and mortality outcomes. Notably, local breeds exhibited a higher rate of recovery compared to foreign breeds diagnosed with CPV. These findings emphasise the need for strengthened vaccination coverage, early case detection, and context-appropriate clinical management strategies to improve recovery and reduce CPV-related mortality.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42855437",
+      "title": "Presumptive paroxysmal dyskinesia in 41 dogs: is the diet change enough?",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Reyes HM, Galli G, Burbait&#xe8; E, Cocchetto A, Fiorentino E, Menchetti M",
+      "date": "2026 10 09",
+      "dateObject": "2026 10 09",
+      "abstract": "Paroxysmal dyskinesia (PD) in dogs comprises episodic, involuntary, nonepileptic movement disorders. Recent evidence suggests that PD may be associated with gluten sensitivity, paralleling human gluten-related neurologic syndromes. Characterize clinical features, gastrointestinal comorbidities, gluten-related serology, and response to a gluten-free diet (GFD) in dogs with presumptive gluten-sensitive PD. We hypothesized that dietary modification would decrease episode frequency, particularly in dogs with gastrointestinal signs, seropositivity for anti-gliadin and anti-transglutaminase-2 immunoglobulin A antibodies or both. Forty-one client-owned dogs with presumptive PD. Retrospective review of dogs diagnosed with presumptive PD at a single institution between 2019 and 2023. Inclusion criteria included >&#x2009;1 episode, video-documented episodes, normal interictal neurologic examination, serum gluten-related antibody titers, and&#xa0;&#x2265;&#xa0;6&#xa0;months of follow-up after transition to GFD. Gastrointestinal signs were reported in 33/41 (80.5%) dogs; 21/41 (51.2%) had at least 1 positive antibody titer. After dietary change, 24/41 (58.5%) dogs achieved complete resolution, 15/41 (36.6%) showed partial response, and 2/41 (4.9%) remained unchanged, regardless of antibody status. All owners reported gastrointestinal improvement. Nine dogs relapsed after initial response: 6 after gluten ingestion, 1 associated with stress, and 2 despite strict GFD. Response to GFD was not significantly associated with gastrointestinal signs or antibody status. Although dietary response was not significantly associated with antibody status or gastrointestinal signs, GFD led to substantial clinical improvement in most dogs with PD across multiple breeds, supporting a potential link between gluten sensitivity and PD, and a possible role of the gut-brain axis in disease pathogenesis.",
+      "categories": [
+        "internalMedicine",
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "42855436",
+      "title": "ClotPro viscoelastic testing in coagulation disorders in dogs: a retrospective analysis.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Doulidis PG, Frizzo-Ramos C, Prankch LJ, R&#xfc;tgen B, Burgener IA, Luckschander-Zeller N",
+      "date": "2026 10 09",
+      "dateObject": "2026 10 09",
+      "abstract": "Viscoelastic testing provides whole-blood assessment of coagulation, but clinical data on the performance of the ClotPro in dogs with naturally occurring diseases are limited. To evaluate pathway coherence of ClotPro variables with routine coagulation tests and to explore disease-associated viscoelastic phenotypes, fibrinolysis, and hypercoagulability. Eighty-four client-owned dogs admitted to a university hospital. Retrospective cohort study. ClotPro variables (clotting time, amplitude at 10&#xa0;min, maximum clot firmness, maximum lysis across extrinsic pathway test [EX], intrinsic pathway test [IN], fibrinogen test channel, aprotinin test [AP] channels) were compared with prothrombin time (PT), activated partial thromboplastin time (aPTT), platelet count (PLT), and D-dimer using Spearman correlation with Benjamini-Hochberg adjustment. Group differences were assessed with Kruskal-Wallis and Dunn's post hoc. Hyperfibrinolysis (HF) was defined using paired EX-AP. A hypercoagulability index (HCI) and platelet/fibrin-adjusted residual firmness were derived. PT correlated with clotting time in EX channel (&#x3c1;&#xa0;=&#xa0;0.48, q&#xa0;=&#xa0;0.002) and aPTT with clotting time in IN channel (&#x3c1;&#xa0;=&#xa0;0.42, q&#xa0;=&#xa0;0.007). PLT correlated with maximum clot firmness in EX channel (EX_MCF) (&#x3c1;&#xa0;=&#xa0;0.50, q&#xa0;=&#xa0;0.001). maximum clot firmness in FIB channel correlated with EX_MCF (&#x3c1;&#xa0;=&#xa0;0.58, q&#xa0;<&#xa0;0.001) and maximum clot firmness in IN channel (&#x3c1;&#xa0;=&#xa0;0.47, q&#xa0;=&#xa0;0.003). maximum lysis in EX channel (EX_ML) correlated inversely with EX_MCF (&#x3c1;&#xa0;=&#xa0;-0.35, q&#xa0;=&#xa0;0.028). D-dimer correlated with EX_ML (&#x3c1;&#xa0;=&#xa0;0.30, q&#xa0;=&#xa0;0.049). Group-level distributions overlapped substantially. HF was infrequent among cases (33% in dogs with hepatopathy and 21% in dogs with hemorrhagic diarrhea). The HCI differed across diseases (P&#xa0;=&#xa0;.0002), whereas platelet/fibrin-adjusted residual firmness did not. ClotPro variables demonstrated pathway-specific coherence with routine coagulation testing and consistent fibrinolysis patterns. Disease states did not define discrete viscoelastic phenotypes, supporting case-level interpretation.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42855435",
+      "title": "Prevalence of proprioception deficits in dogs visiting veterinary clinics for non-neurologic reasons: a cross-sectional study.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Tam A, Carney P, Merbl Y",
+      "date": "2026 10 09",
+      "dateObject": "2026 10 09",
+      "abstract": "General proprioception deficits (GPD) detected during neurological exams aid in neurologic assessment and steer practitioners to consider neurological differential diagnoses. However, prevalence of GPD in without clinical signs of neurologic disease is limited. That elderly dogs have GPD that might be undetected in dogs not presenting for neurologic concerns and to determine GPD prevalence in dogs presented to a veterinary teaching hospital. The study included 277 client-owned dogs presenting to the Cornell University without neurologic complaints. Cross-sectional study with prospective data collection involved neurological assessment of dogs. Two hundred seventy-seven dogs met the inclusion criteria. For statistical analysis, ages were categorized into fractional lifespan (FL) groups: Group A (adult, &#x2264;&#x2009;0.5), Group B (middle-aged, 0.5-0.75), and Group C (senior, >0.75). Dogs were scored based on hopping and paw replacement performance as normal, mildly, or severely affected. Seventy-two (26.0%; 95% CI, 20.9-31.7) exhibited GPD while 205 (74.0%) did not. Age distribution revealed 102 dogs (36.8%) in FL category 1 (&#x2264;0.5), 70 dogs (25.3%) in category 2 (>0.5 to &#x2264;&#x2009;0.75), and 105 dogs (37.9%) in category 3 (>0.75). Both age (odds ratio [OR] 1.22, 95% CI, 1.13-1.33) and FL (OR 1.31, 95% CI, 1.18-1.46) were significantly positively associated with GPD (P&#xa0;<&#xa0;.0001). The prevalence of incidental GPD in dogs with no known neurological disease increases with age and is not influenced by sex or chondrodystrophic status. Awareness of this finding might aid general practitioners' decision-making, especially in aging dogs without overt acute neurologic disease. Proprioception is a dog&#x2019;s built-in &#x201c;sense&#x201d; of where its legs and body are in space, without needing to look. It helps keep a dog&#x2019;s gait steady and coordinated. Subtle problems with this sense (general proprioceptive deficits, or GPD) are usually looked for only when a dog shows signs of nervous system disease, so how common these deficits are in dogs and more interestingly is it more prevalent as dogs age, has not been well studied. This study examined 277 dogs visiting a veterinary teaching hospital for non-neurological reasons (such as eye, skin, or dental problems), with owners reporting no history of neurologic or gait problems. Trained examiners tested each dog&#x2019;s paw-placement and hopping responses. About 1 in 4 dogs (26%) had a subtle proprioceptive deficit that owners had not noticed, and this became more common with age, affecting over 40% of senior dogs. The deficits were not linked to sex or to chondrodystrophic breeds (dogs with short, curved legs, such as Dachshunds or Corgis, who are prone to disc disease). These findings suggest that mild proprioceptive changes can be a normal part of aging in dogs, rather than always signaling active disease. For veterinarians, this offers a helpful reference point: an isolated, mild deficit in an older dog with no other concerning findings might not require immediate extensive workup, while awareness of this pattern can also help avoid dismissing early signs of a genuine, progressive neurologic problem.",
+      "categories": [
+        "neurology",
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42855434",
+      "title": "Clinical characteristics of pneumorrhachis in dogs and cats: a retrospective study of 125 cases.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Ooms S, Bossens K, Cornelis I, van Soens I, Kromhout K, Bhatti SFM",
+      "date": "2026 10 09",
+      "dateObject": "2026 10 09",
+      "abstract": "Pneumorrhachis (PR), defined as gas within the vertebral canal, is an uncommon finding, and its clinical relevance and relationship to the vacuum phenomenon (VP) have not been systematically evaluated. To characterize the anatomical distribution of PR in dogs and cats undergoing computed tomography (CT) and to assess its relationship with signalment, VP, and concurrent neurological and non-neurological conditions. One hundred nineteen dogs and 6 cats with PR identified on CT between 2015 and 2023. Retrospective, descriptive study of medical records and CT reports. Cases were included when PR was documented in the radiology report, clinical and imaging information was available. Data included signalment, PR distribution, VP presence, final diagnosis categorized as neurological, non-neurological, postoperative, or no identified cause. Pneumorrhachis was identified with neurological conditions in 60/119 dogs (50%), including intervertebral disc disease (IVDD) in 50/60 (83%). Among IVDD-related PR, Hansen type I occurred in 32/50 (64%) cases. A VP was present in 23/50 dogs (46%), co-localized with the affected intervertebral disc in 78%. Non-neurological conditions accounted for 45/119 (38%) dogs, mainly neoplastic (44%) and respiratory (36%), with VP infrequently detected. Pneumorrhachis occurred postoperatively in 12/119 dogs. Two dogs (2%) had PR and epaxial muscle pain without an identifiable cause. In cats, PR was associated with neurological (2/6), non-neurological conditions (2/6), and postoperatively (2/6). No cases involved IVDD or VP. Pneumorrhachis in dogs and cats is considered an uncommon CT finding occurring with neurological and non-neurological conditions. Although often accompanying IVDD in dogs, PR was frequently incidental. Pneumorrhachis (PR) is the presence of air within the spinal canal. It is an uncommon finding in dogs and cats, and its clinical importance is not well understood. This study reviewed computed tomography (CT) examinations from 119 dogs and 6 cats in which PR was identified between 2015 and 2023. In dogs, PR was most commonly associated with neurological conditions, particularly intervertebral disc disease (IVDD). However, PR was also found in dogs with non-neurological diseases, including cancer and respiratory conditions, and after surgery. A vacuum phenomenon (VP), in which gas forms within a diseased intervertebral disc, was present in some dogs with IVDD and PR. In cats, PR was associated with neurological and non-neurological conditions and with previous surgery, but not with IVDD or the VP. These findings suggest that PR can occur in association with many different conditions and is not necessarily a sign of clinically important spinal disease. Although PR was frequently seen in dogs with IVDD, it was often an incidental finding. Recognizing these different associations may help veterinarians interpret PR when it is identified on CT.",
+      "categories": [
+        "internalMedicine",
+        "oncology",
+        "surgery",
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "42854722",
+      "title": "Oral trazodone alone or in combination with gabapentin reduces the expression of stress-related behaviors in a randomized controlled trial with shelter dogs.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Delabar A, Koch CS, Burling A, Wallace L, Middleton JR",
+      "date": "2026 10 09",
+      "dateObject": "2026 10 09",
+      "abstract": "To determine the effects of oral trazodone and gabapentin on the expression of stress-related behaviors (SRBs) in shelter dogs. SRBs were compared among shelter dogs treated orally with trazodone (8 mg/kg), gabapentin (25 mg/kg), trazodone (8 mg/kg) with gabapentin (25 mg/kg), or neither (control) the evening before and the morning of surgical neuter (ovariohysterectomy or castration). Dogs were enrolled between September 2020 and October 2021. Video recordings captured the behavior at baseline, 14 hours after the first treatment, and 1.5 hours after the second treatment. Fifteen SRBs were scored independently by blinded observers as present (1) or absent (0). Minute 1 recordings were in the absence of a person, and minute 2 recordings were in the presence of a person. The final SRB score was the sum of scores assigned by each observer at each time point, ranging from no SRB to 15 SRBs. 60 dogs and 13 SRBs were included in the final analysis. Mean behavior score was lower at minute 1 than minute 2 at baseline, the trazodone and combination groups had a significant reduction in mean behavior score, and the gabapentin group had an increase in mean behavior score. Mean scores in the control group did not differ over time. Oral trazodone alone or with gabapentin prior to surgery may be beneficial in reducing SRBs in shelter dogs. Oral trazodone alone or in combination with gabapentin may be useful in mitigating SRBs in dogs during veterinary care and related procedures.",
+      "categories": [
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42854719",
+      "title": "Chronic eyelid ulceration in a domestic longhair cat.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Gilbar LR, Richardson S",
+      "date": "2026 10 09",
+      "dateObject": "2026 10 09",
+      "abstract": "",
+      "categories": []
+    },
+    {
+      "pmid": "42854718",
+      "title": "Predictors of carbapenem-resistant Enterobacterales enteric colonization among patients admitted to a companion animal intensive care unit.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Hidalgo Montealegre D, King CA, Mollenkopf DF, Van Balen JC, Cooper ES, Wittum TE, Diaz-Campos D",
+      "date": "2026 10 09",
+      "dateObject": "2026 10 09",
+      "abstract": "To estimate prevalence and identify factors associated with carbapenem-resistant Enterobacterales (CRE) enteric colonization in companion animals admitted to an ICU. The study population included canine and feline patients admitted to The Ohio State University Veterinary Medical Center ICU between January 2024 and June 2025. In total, 5,552 rectal swabs were collected from 3,834 patients during routine screening. A retrospective case-control study included all CRE-positive patients (n = 61) and randomly selected CRE-negative controls (137). Cases were defined as ICU patients with at least 1 positive CRE fecal culture during hospitalization, whereas controls had no positive CRE fecal cultures during their hospitalization. Prevalence of CRE colonization was 1.59% (61 of 3,834 patients; 95% CI, 1.24% to 2.04%). Escherichia coli carrying blaNDM was the most frequently identified isolate, accounting for 78.7% (48 of 61 patients; 95% CI, 66.9% to 87.1%). Predictors of CRE colonization included increased comorbidity burden (unit OR, 1.96; 95% CI, 1.43 to 2.75), intact reproductive status (OR, 4.39; CI, 1.47 to 11.03), longer hospitalization (unit OR, 1.31; CI, 1.14 to 1.53), recent surgery (OR, 2.72; CI, 1.29 to 5.87), and antimicrobial use within the previous 3 months (OR, 2.71; CI, 1.23 to 6.07). These predictors suggest targets for infection prevention and control measures to protect patients and staff. The association between recent antimicrobial exposure and CRE colonization reinforces the importance of antimicrobial stewardship in veterinary medicine. Although uncommon, CRE-colonized patients can serve as reservoirs for transmission and are at risk of subsequent infection.",
+      "categories": [
+        "internalMedicine",
+        "surgery"
+      ]
+    },
     {
       "pmid": "42443922",
       "title": "Effect of mixed microbial silage of mulberry and navel orange residue on growth performance, blood metabolism, and rumen microbiome changes in beef cattle.",
@@ -35,6 +135,18 @@
       "abstract": "This case report describes the management of a complex volumetric muscle loss (VML) injury in a 3-year-old mixed-breed dog following severe trauma to the right forelimb, which resulted in extensive multi-muscle defects that were unsuitable for primary closure. After initial stabilization and surgical debridement, reconstruction was achieved using a transpositional flap, while a gold nanoparticles-bioactive glass-alginate-cellulose (BGAuSP-Alg-MCC) composite was implanted to fill the dead space and support tissue regeneration. Postoperative healing was evaluated through clinical follow-up, computed tomography performed immediately and at 1 and 3 months postoperatively, as well as histological and immunohistochemical analyses. Imaging demonstrated progressive integration of the biomaterial, restoration of tissue density comparable to adjacent muscle, and absence of major complications. Histological evaluation demonstrated moderate inflammation and granulation tissue formation, containing numerous blood capillaries (neoangiogenesis), confirmed by CD31 and &#x3b1;-Smooth muscle actin (SMA) immunolabelling. Functional recovery was favorable, with preserved limb mobility and normal gait. These findings provide preliminary evidence of local biocompatibility and support the feasibility of incorporating the BGAuSP-Alg-MCC composite into a multimodal surgical management approach for extensive volumetric muscle loss in canine patients.",
       "categories": [
         "surgery"
+      ]
+    },
+    {
+      "pmid": "42854896",
+      "title": "Biological Response Stability of Refrigerated Cosacthen after Opening and Non-Hormonal Effects of ACTH Stimulation Testing in Healthy Dogs.",
+      "journal": "Topics in Companion Animal Medicine",
+      "authors": "Oliveira MC, Nogueira TB, Gouvea FL, Oliveira JM, Trevizan L, P&#xf6;ppl &#xc1;G",
+      "date": "2026 10 09",
+      "dateObject": "2026 10 09",
+      "abstract": "The adrenocorticotropic hormone stimulation test (ACTHST) is widely used to evaluate adrenal reserve in dogs. This study assessed the effects of refrigerated storage of tetracosactide (Cosacthen) after opening for up to three weeks and investigated hematological, biochemical, and electrolyte changes following ACTH stimulation. Ten healthy beagle dogs (five males and five females) were enrolled. Each dog received tetracosactide (5 &#x3bc;g/kg, IV) at vial opening (T0) and at 7-day intervals over 3 weeks (T1 to T3), using aliquots from the same vial stored at 2-8&#xb0;C. Blood samples were collected before and 1 hour after ACTH administration to measure cortisol, hematology, biochemistry, and electrolytes. Clinical monitoring was performed after each test. Cortisol concentrations increased significantly after ACTH administration at all time points (T0-T3). Delta-cortisol was higher at T1 than at T0 (P&#x202f;=&#x202f;0.0104) and lower at T2 than at T1 (P&#x202f;=&#x202f;0.0059), with no differences among T0, T2, and T3. After ACTH administration, red blood cell count, hematocrit, hemoglobin, albumin, alkaline phosphatase, triglycerides, cholesterol, potassium, and total calcium decreased significantly, whereas glucose increased. All values remained within reference intervals, and no adverse effects were observed. Refrigerated storage of Cosacthen after opening did not alter cortisol responses. Post-ACTH changes in laboratory variables should be considered when interpreting results.",
+      "categories": [
+        "internalMedicine"
       ]
     },
     {
@@ -1440,18 +1552,6 @@
       "categories": []
     },
     {
-      "pmid": "42765737",
-      "title": "Response to: citation clarification regarding feline eltrombopag in the ACVIM consensus statement on the treatment of immune thrombocytopenia in dogs and cats.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "LeVine DN, Goggs R, Kohn B, Mackin AJ, Kidd L, Garden OA, Brooks MB, Eldermire ERB, Abrams-Ogg A, Appleman EH, Archer TM, Bianco D, Blois SL, Brainard BM, Callan MB, Fellman CL, Haines JM, Hale AS, Huang AA, Lucy JM, O'Marra SK, Rozanski EA, Thomason JM, Walton JE, Wilson HE",
-      "date": "2026 09 23",
-      "dateObject": "2026 09 23",
-      "abstract": "",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
       "pmid": "42778219",
       "title": "Nasal Colonization of Antimicrobial-Resistant and Biofilm-Producing Staphylococcus spp. in Surgical Canine Patients From Italy.",
       "journal": "Veterinary Medicine and Science",
@@ -1539,44 +1639,6 @@
       "abstract": "ObjectivesTo compare the sedative and cardiopulmonary effects following either intranasal (IN) or intramuscular (IM) administration of medetomidine in healthy male cats undergoing neuter procedure.MethodsA total of 26 client-owned healthy cats, aged 7 - 60 months, weighing 4 [3-6] kg (median [min-max]) presented for neutering were included in this blinded, randomized, prospective clinical study. The cats were randomly assigned in two groups to receive medetomidine (40 &#xb5;g/kg) by IN (16 cats) or IM (10 cats) routes. Sedation was scored during premedication (just before and 10, 15, 20 minutes after medetomidine administration) and during recovery (at the moment of orotracheal extubation, 1 and 2 hours after) with a simple descriptive scale (SDSS) ranging from 0 (no sedation) to 3 (maximum sedation) and a composite scale (CSS) ranging from 0 (no sedation) to 19 (maximum sedation). Heart rate (HR), respiratory frequency (RR), non-invasive arterial blood pressure (NIBP) and haemoglobin oxygen saturation (SpO2) were recorded at the same time points as sedation was assessed.ResultsSedation scores significantly increased for both groups at all time points after medetomidine administration. However, cats in the IM group achieved a higher maximal sedation score and earlier than cats in the IN group (CSSmax 16 [13-17] at TCSSmax 18 [10-20] min versus 14 [9-17] at 20 [15-20] min respectively). HR significantly decreased in both groups after medetomidine administration, but decrease was less pronounced and shorter in IN group. Regarding adverse effects, sneezing, swallowing and vomiting were significantly increased immediately after IN administration.Conclusions and relevanceIN medetomidine (40 &#xb5;g/kg) can be an alternative, non-invasive route to IM administration for premedicating healthy cats before general anaesthesia for neutering. IN medetomidine premedication produced sufficient sedation with a slower onset and shorter duration but less cardiovascular effects compared to IM in cats.",
       "categories": [
         "cardiology",
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42766861",
-      "title": "Plasma proteomic profiling in dogs with pheochromocytoma.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "van den Berg MF, Rodr&#xed;guez-Rojas A, Doulidis PG, Pisoni L, Burgener IA, Galac S",
-      "date": "2026 09 21",
-      "dateObject": "2026 09 21",
-      "abstract": "Pheochromocytomas (PCCs) in dogs are challenging to diagnose. Plasma proteomics offers a minimally invasive approach to identify circulating biomarkers and disease-relevant pathways. To compare the plasma proteome of dogs with PCC and controls to (1) identify differentially abundant proteins, (2) characterize altered pathways, and (3) nominate candidate circulating biomarkers and therapeutic targets. Plasma from 10 client-owned PCC dogs and 10 healthy controls. Multicenter, retrospective, observational, exploratory study using label-free liquid chromatography-mass spectrometry. Primary outcomes were the identification of differentially abundant proteins and characterization of altered pathways and protein functions. Principal component analysis demonstrated clear separation between PCC and control dogs. Of 261 reliably quantified proteins, 51 were differentially abundant (false discovery rate-adjusted P&#xa0;<&#xa0;.05). Of these, 33 had a log2 fold change of >1 or&#xa0;<&#xa0;-1, with 15 showing higher and 18 lower plasma abundance in PCC. Compared with controls, PCC dogs showed increased abundance of proteins linked to cell adhesion/migration and metastatic potential, hemostasis, and regulation of apoptotic signaling, alongside alterations in oxidative stress and metabolic processes. Several proteins with higher abundance, including CD44, peroxiredoxin-2, and peptidyl-prolyl cis-trans isomerase, emerged as promising candidates for therapeutic exploration. Dogs with PCC exhibit a distinct circulating protein signature vs healthy controls, providing clues to PCC pathogenesis and nominating proteins as diagnostic biomarker candidates and potential therapeutic targets. This study investigated proteins circulating in the blood of dogs with pheochromocytoma, a tumor arising from the inner part of the adrenal gland, and compared them with those of healthy dogs. Dogs with pheochromocytoma showed a distinct pattern of circulating proteins, including changes in proteins involved in cell movement and tumor spread, blood clotting, cell death, oxidative stress, and metabolism. Several of these proteins could be of interest as future markers for diagnosis or as targets for treatment.",
-      "categories": [
-        "internalMedicine",
-        "oncology"
-      ]
-    },
-    {
-      "pmid": "42765741",
-      "title": "Electroencephalography-functional magnetic resonance imaging using a familial temporal lobe epilepsy model in cats: an exploratory methodological pilot study.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Miura T, Asada R, Hasegawa D",
-      "date": "2026 09 21",
-      "dateObject": "2026 09 21",
-      "abstract": "Reliable methods for identifying the epileptogenic zone (EZ) in veterinary medicine remain limited. Although intracranial electroencephalography (EEG) is considered the most dependable approach for EZ localization, noninvasive simultaneous EEG and functional magnetic resonance imaging (EEG-fMRI) has been applied in human medicine as an alternative. Develop and evaluate EEG-fMRI methodology for clinical application in veterinary medicine and evaluate the methodological feasibility of EEG-fMRI using cats with familial spontaneous epilepsy (FSECs). Ten cats with clear interictal epileptiform discharges on scalp EEG were selected from an FSEC colony with previously suggested amygdalo-hippocampal involvement. Each cat underwent 3 scalp EEG and EEG-fMRI sessions. After preprocessing, blood oxygen level-dependent (BOLD) activation maps were generated. Primary analyses evaluated amygdalo-hippocampal activation using small-volume correction (SVC) and group-level analysis. The BOLD activation was detected in all sessions at an exploratory threshold, but no activation survived correction for multiple comparisons. The SVC analysis identified amygdalo-hippocampal activation in 16/30 sessions. Group-level analysis identified the largest cluster extending from the left parahippocampal gyrus to the hippocampal body. This exploratory pilot study showed that EEG-fMRI could be technically implemented in FSECs, but individual-level EZ localization remains insufficient for clinical use. Further optimization, data from surgical candidates, and multimodal comparisons are needed.",
-      "categories": [
-        "surgery",
-        "neurology"
-      ]
-    },
-    {
-      "pmid": "42765739",
-      "title": "Transforming growth factor-&#x3b2; in kidney disease in dogs and cats: a review of the evidence of its role in renal fibrosis.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Cianciolo RE, Elliott J, Nabity MB, Foster JD, Ammons DT, Bartas K, Williams T, VanBeelen EA, Weaver L",
-      "date": "2026 09 21",
-      "dateObject": "2026 09 21",
-      "abstract": "A growing body of literature implicates the transforming growth factor (TGF)-&#x3b2; pathway in the progression of chronic kidney disease (CKD) in dogs and cats by promoting renal fibrosis. In rodents and humans, TGF-&#x3b2; is a key player in development of glomerulosclerosis and renal interstitial fibrosis. The pathway is also immunomodulatory, underscoring the complexity of its downstream effects. Recently, evidence for the role of TGF-&#x3b2; in small animal CKD has been presented using multiple methodologies, including serum and urinary biomarkers, as well as gene and protein expression in renal tissue and primary renal cell cultures. The aim of this review is to integrate these data and highlight consistencies and discrepancies in the literature. Some of the most convincing data supporting the role of the TGF-&#x3b2; pathway includes biomarker levels and pathway analysis of transcriptional profiles in spontaneous CKD in cats and in the X-linked Alport model in dogs. Demonstration of the presence of TGF-&#x3b2; protein is challenging due to lack of commercially available immunohistochemistry (IHC) antibodies that are sensitive and specific for active variants and isoforms TGF-&#x3b2; in dogs and cats. Cross-reactivity of IHC antibodies with latent TGF-&#x3b2; isoforms (complexed with extracellular matrix proteins) complicates the interpretation of IHC labeling. The mechanisms by which TGF-&#x3b2; activates fibroblasts and injures glomeruli in small animals is an area for future research. Although the relationship between TGF-&#x3b2; and glomerulosclerosis is mostly theoretical based on extrapolation from humans and rodents, substantial evidence strongly supports a role for TGF-&#x3b2; in renal interstitial scarring of small animals.",
-      "categories": [
         "internalMedicine"
       ]
     },
@@ -1718,39 +1780,6 @@
       "categories": [
         "internalMedicine",
         "surgery"
-      ]
-    },
-    {
-      "pmid": "42285146",
-      "title": "Licking of vulva, pollakiuria, tenesmus, and hyporexia in a 14-year-old sexually intact female Chihuahua.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Wawrzyniak NR, Tromblee TC",
-      "date": "2026 09 18",
-      "dateObject": "2026 09 18",
-      "abstract": "",
-      "categories": []
-    },
-    {
-      "pmid": "42269682",
-      "title": "Fear behavior associated with television and reflective surfaces in a 5-year-old Scottish Fold.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Kim SA, Anderson KH",
-      "date": "2026 09 18",
-      "dateObject": "2026 09 18",
-      "abstract": "",
-      "categories": []
-    },
-    {
-      "pmid": "42269667",
-      "title": "High rates of morbidity and mortality in dogs with physiologic degloving injuries.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Beard MC, Cooper L, Grimes JA, Yankin I, Glamann S, Dickerson VM",
-      "date": "2026 09 18",
-      "dateObject": "2026 09 18",
-      "abstract": "To describe clinical progression of dogs with physiologic degloving injuries, including bloodwork abnormalities, nutritional management, wound care, and the need for advanced care such as blood products. Medical records of client-owned dogs with physiologic degloving injuries between 2011 and 2025 were retrospectively reviewed. Data collected included clinical presentation, bloodwork, wound progression, diagnostic imaging, and treatment interventions. Dogs were grouped based on survival to discharge (survivors or nonsurvivors). 18 dogs were identified following medical record review. Physiologic degloving was most frequently caused by vehicular trauma (10 of 18 [55.6%]) or attack by another animal (8 of 18 [44.4%]) and primarily affected the thorax (7 of 18 [38.9%]) and abdomen (6 of 18 [33.3%]). Concurrent injuries were present in 15 of 18 cases (83.3%). Clinicopathologic abnormalities affecting 50% or more of dogs included hypoalbuminemia, hypoproteinemia, and anemia. Treatments frequently included systemic antibiotics, blood product administration, and feeding tube placement. Multidrug-resistant organisms were identified on 6 of 15 cultures (40.0%). Wound management typically included negative pressure wound therapy or active suction drainage, with many dogs requiring prolonged open wound management. The overall mortality rate was 33.3% (12 survivors, 6 nonsurvivors), with a median hospitalization time of 9 days (IQR, 5 to 14 days). Dogs with physiologic degloving injuries may have substantial morbidity requiring intensive monitoring and wound management. Clinicians treating dogs with physiologic degloving should anticipate the need for intensive supportive care, including blood products and early nutritional intervention. Wound management may be prolonged. Mortality rates were high; however, dogs that survive appeared to have a good outcome.",
-      "categories": [
-        "internalMedicine",
-        "dermatology"
       ]
     },
     {
@@ -3057,18 +3086,6 @@
       ]
     },
     {
-      "pmid": "42449371",
-      "title": "Survival patterns and prognostic factors associated with canine parvovirus infection in dogs presented at the KNUST Veterinary Teaching Hospital in Kumasi, Ghana.",
-      "journal": "BMC Veterinary Research",
-      "authors": "Opoku ED, Folitse RD, Kodie DO, Agbota JD, Esther A, Tasiame W, Emikpe BO",
-      "date": "2026 07 15",
-      "dateObject": "2026 07 15",
-      "abstract": "Canine parvovirus (CPV) remains one of the most severe and life-threatening infectious diseases affecting dogs globally, with disproportionately high mortality in puppies. Although CPV has been extensively studied in terms of prevalence and clinical presentation, evidence on survival patterns and prognostic factors in low-and middle-income country veterinary settings remains limited. This cohort study was undertaken at a Veterinary Teaching Hospital, Kumasi, Ghana. Diagnosis of CPV infection was based on clinical signs and confirmed by antigen detection using the CPV rapid immunoassay test kit. Only dogs that received treatment until recovery or death were included (n&#x2009;=&#x2009;205). Data on factors influencing prognosis, including demographic, vaccination, clinical, and management variables, were collected. Time-to-recovery was analysed using cumulative incidence functions with Gray's test and Fine-Gray competing-risk regression. Mortality was evaluated using Cox proportional hazards regression. Hazard ratios (HRs) and subdistribution hazard ratios (SHRs) were reported with 95% confidence intervals (CIs), with statistical significance set at p&#x2009;<&#x2009;0.05. Mortality was highest in treated puppies aged 13-24 weeks and &#x2264;&#x2009;12 weeks at 31.5% and 26.9% respectively, with dogs aged&#x2009;>&#x2009;24 weeks recording the least with 5.9%. Mortality rate decreased progressively with an increasing vaccination frequency, being lowest in dogs vaccinated thrice. Among CPV-positive dogs, local breeds demonstrated a higher recovery rate than foreign breeds (SHR 1.64, 95% CI: 1.07-2.51; p&#x2009;=&#x2009;0.022). Higher body weight was associated with a lower hazard of death (HR 0.86, 95% CI: 0.77-0.97; p&#x2009;=&#x2009;0.012), while CPV-positive dogs showed a longer time to recovery, with a more gradual recovery trajectory observed beyond Day 5. This study highlights the significant impact of CPV on survival outcomes among dogs in Ghana, particularly among younger and incompletely vaccinated populations. The findings demonstrate that certain demographic and clinical factors play critical roles in recovery and mortality outcomes. Notably, local breeds exhibited a higher rate of recovery compared to foreign breeds diagnosed with CPV. These findings emphasise the need for strengthened vaccination coverage, early case detection, and context-appropriate clinical management strategies to improve recovery and reduce CPV-related mortality.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
       "pmid": "42405028",
       "title": "Severe hypercalcemia in a cat following treatment with antibiotic impregnated calcium sulfate carrier material for chronic pyogranulomatous panniculitis.",
       "journal": "JFMS Open Reports",
@@ -3120,19 +3137,6 @@
         "cardiology",
         "internalMedicine",
         "neurology"
-      ]
-    },
-    {
-      "pmid": "42320561",
-      "title": "Methylation analysis of LINE-1 elements in canine cutaneous mast cell tumors.",
-      "journal": "Topics in Companion Animal Medicine",
-      "authors": "Giorgini GB, Xavier JG, da Silva RAF, Bondan EF",
-      "date": "2026 06 28",
-      "dateObject": "2026 06 28",
-      "abstract": "LINE-1 (long interspersed nuclear element-1) is a family of related class I transposable elements in the DNA that is dispersed throughout the entire genome and the study of its methylation pattern is used in the understanding of several neoplasms. Canine mast cell tumors represent a frequent cutaneous neoplasm in veterinary practice presenting different degrees of malignancy and being classified according to their histological differentiation. In view of the current scientific scarcity of information in relation to the epigenetic pattern of neoplasms in domestic animals, this study aimed to verify whether there is correlation between the methylation pattern of LINE-1 with the different grading of canine mast cell tumors according to Kiupel classification. DNA and RNA were extracted from paraffinized healthy and neoplastic (classified as low-grade and high-grade) tissue samples using the phenol/chloroform/isoamyl alcohol and TRIzol&#xae; methods, respectively. LINE-1 methylation pattern and expression were quantified by qPCR. A higher LINE-1 expression was observed in neoplasms characterized with a higher degree of malignancy in relation to healthy samples and tumors with a lower degree of malignancy. It was also noted hypomethylation of the LINE-1 promoter region in both neoplastic mast cell tumor grades in relation to the healthy tissue, but no significant difference was found between low-grade and high-grade groups. Thus, high-grade tumors presented higher expression of LINE-1, suggesting the potential use of LINE-1 as a biomarker of genomic instability.",
-      "categories": [
-        "oncology",
-        "dermatology"
       ]
     },
     {
