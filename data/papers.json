@@ -1,6 +1,134 @@
 {
-  "updated_at": "2026-10-14T00:18:49.515Z",
+  "updated_at": "2026-10-14T23:55:59.957Z",
   "papers": [
+    {
+      "pmid": "42873829",
+      "title": "Prevalence of antibiotic use in dogs and cats in US and Canadian veterinary teaching hospitals, 2022.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Clark H, Bollig ER, Beaudoin AL, Fellman CL, Allano M, Atiee GF, Blois SL, Blong AE, Brookshire WC, Burgess BA, Cohen AJ, Cohn LA, Cole SD, Collier AJ, Curran KM, DeMars P, Droog M, Forbes JM, Fox D, Frey E, Gochenauer A, Guptill L, Hartley AN, Johnston AN, King CA, KuKanich K, LeCuyer TE, Letendre JA, Menard J, Meyers K, Paul L, Perkins AV, Redding L, Santoro D, Stein MR, Sykes JE, Carr SV, Viviano K, Daniels JB, Granick JL",
+      "date": "2026 10 14",
+      "dateObject": "2026 10 14",
+      "abstract": "Evaluation of current antimicrobial prescribing practices can inform antimicrobial stewardship efforts. Our primary objective was to describe current antibiotic prescribing practice in veterinary schools. Medical records from 1800 animals (1403 dogs, 397 cats) at 31 US and Canadian veterinary schools were included. Hospitals collected data from medical records of animals evaluated on a single date in August 2022. Data included patient signalment, hospitalization status, clinical condition(s), diagnostic testing, antibiotics prescribed, route of administration, evidence of infection, and intended use. Overall, 30.4% (95% CI, 28.3%-32.6%) of animals (32.0% of dogs, 24.9% of cats) were prescribed an antibiotic. The most common conditions for which antibiotics were prescribed were surgical (27.3%, 191/699), urinary (11.9%, 83/699), and respiratory (11.6%, 81/699). The most prescribed classes of antibiotics included aminopenicillins with beta-lactamase inhibitors, first-generation cephalosporins, and fluoroquinolones. First-line antibiotics were not prescribed for sporadic bacterial cystitis. For all prescriptions intended for the treatment of infection, the median duration was 10&#xa0;days, whereas for those intended for prophylaxis, the median duration was 7&#xa0;days. Opportunities for antimicrobial stewardship in veterinary schools include guidance for use of fluoroquinolones, decreased usage of antibiotics for surgical prophylaxis, and prioritization of first-line antibiotics for sporadic bacterial cystitis. Tracking of antibiotic use data is important to benchmark prescribing and track progress.",
+      "categories": [
+        "internalMedicine",
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42873828",
+      "title": "Idiopathic facial neuropathy in cats: clinical presentation, magnetic resonance imaging findings, and outcome.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Stefaniuk M, Danciu CG, Mu&#xf1;iz Moris L, Ricco C, De Decker S, Brocal J, Alcoverro E, Marsh O, Taylor-Brown F, Mari L",
+      "date": "2026 10 14",
+      "dateObject": "2026 10 14",
+      "abstract": "Idiopathic facial neuropathy (IFN) is commonly described in dogs, but information in cats is lacking. Describe clinical presentation, magnetic resonance imaging (MRI) findings and outcome in cats diagnosed with IFN. Thirteen cats with presumptive diagnosis of IFN. Multicenter retrospective descriptive study with questionnaire-based follow-up. Magnetic resonance imaging was assessed by a single author blinded to clinical signs. Median age was 30&#xa0;months (range, 6-142). Median time of onset to presentation was 6&#xa0;days (range, 1-150). Facial paresis or paralysis was unilateral in 10 cases and bilateral in 3 (16 sides affected). Clinical signs included absent (11/16) or decreased (2/16) palpebral reflex; lip ptosis (5/16); absent or decreased ear movements (3/6 reported). Eight cats had vestibular signs, including head tilt (6/13), vestibular ataxia (6/13), head swaying (2/13), and horizontal nystagmus (3/13). Findings on MRI included thickened (4/16), or contrast-enhancing (7/16) facial nerve or both and smaller caudal belly of the digastricus muscle (9/16). Cerebrospinal fluid (CSF) was normal in 10 of 11 cats. Treatments included eye lubrication (11/13) and anti-inflammatory doses of prednisolone (3/13). Follow-up was available for 9 of 13 cats (median, 13&#xa0;months; range, 2-91). Median time to maximal recovery was 20&#xa0;weeks (range, 2-24). Recovery of spontaneous blinking was complete in 7 out of 12 eyes, partial in 2 out of 12 and absent in 3 out of 12. Three cats had persistent abnormalities of the lips, face, ears or some combination of these. All vestibular signs resolved but one cat was euthanized because of relapse. Idiopathic facial neuropathy appears to affect mostly young cats, often unilaterally and frequently with vestibular signs. Spontaneous improvement is likely, but persistent neurologic deficits are possible.",
+      "categories": [
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "42870559",
+      "title": "Reply to letter regarding \"ACVIM-endorsed statement: consensus statement and systematic review on guidelines for the diagnosis and treatment of chronic inflammatory enteropathy in dogs\".",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Heilmann RM, Jergens AE, Kathrani A, Allenspach K, Schmitz SS, Priestnall SL, Dandrieux JRS, O'Connor AM",
+      "date": "2026 10 14",
+      "dateObject": "2026 10 14",
+      "abstract": "",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42871677",
+      "title": "Case Report: Therapeutic plasma exchange for systemic centipede envenomation in a 2-kg Chihuahua dog.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Tang W, Li Y, Sun G, Zheng C, Gao Z, Li S",
+      "date": "2026 10 14",
+      "dateObject": "2026 10 14",
+      "abstract": "A 2-kg, 8-year-old neutered male Chihuahua was presented after a centipede sting to the interdigital region of the right forepaw, followed by lameness and red urine. Wound care and intravenous fluid therapy were provided at the referring clinic; however, pigmenturia persisted and systemic manifestations developed, prompting referral. On admission, the dog had icteric mucous membranes, mild dehydration, and clinicopathologic evidence of systemic inflammation, tissue injury, hepatocellular damage, and suspected hemolysis. Because of the acute systemic manifestations following envenomation and persistence of clinical abnormalities despite initial medical management, membrane-based therapeutic plasma exchange (TPE) was performed. Estimated plasma volume was 96&#x202f;mL, and the prescribed exchange volume was 134&#x202f;mL (1.4 plasma volumes). Approximately 1,080&#x202f;mL of whole blood was processed over 3&#x202f;h. The 68-mL extracorporeal circuit was primed with whole blood, anticoagulation was achieved with heparin, and fresh frozen canine plasma was used as the replacement fluid. TPE was completed over 3&#x202f;h at a whole blood flow rate of 6&#x202f;mL/min; transient asymptomatic ionized hypocalcemia was detected and treated with calcium gluconate. After treatment, C-reactive protein decreased from 8.9 to 1.5&#x202f;mg/dL and appetite returned, although depression initially persisted. The dog subsequently improved during hospitalization and was discharged after 7&#x202f;days. In this dog, membrane-based TPE was well tolerated despite the small body size and was temporally associated with improvement in clinical signs.",
+      "categories": [
+        "internalMedicine",
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42464268",
+      "title": "Animal welfare assessment at four dog shelters in Central Uganda: a cross-sectional study using the shelter quality &#xae; protocol.",
+      "journal": "BMC Veterinary Research",
+      "authors": "Ashabahebwa L, Hoareau Z, Ssuna P, Tayebwa DS",
+      "date": "2026 10 14",
+      "dateObject": "2026 10 14",
+      "abstract": "In Central Uganda, animal welfare advocates are increasingly promoting the establishment of animal shelters as a humane alternative to poisoning for controlling free-roaming dog (FRD) populations. However, dogs at these facilities face a number of welfare challenges arising from insufficient resources and substandard management practices. We aimed to assess the welfare of sheltered dogs in Central Uganda by identifying the animal-based welfare issues faced by the dogs, evaluating the housing and management infrastructure, and determining risk factors of animal welfare compromise. We conducted a cross-sectional study in four animal shelters, between July and August 2024. We used structured checklists from the Shelter Quality &#xae; protocol (SQP) to collect data on animal-based measures (ABMs), resource-based measures (RBMs) and management-based measures (MBMs). Overall, the shelters housed 141 dogs (average 35.3, range 4-84) across 40 pens (average 10, range 2-17). A total sample of 32 pens were selected from which 81 dogs were assessed. Fifty-seven of the dogs were housed in groups, fourteen in pairs, and ten were housed individually. Thirty five dogs were females and 46 males. Thirty two dogs were juveniles, 41 were adults and 8 were geriatrics. The most prevalent ABMs were; 'too thin' body condition, skin lesions and fear/aggression, reported among 59.3%, 45.7% and 39.1% of the dogs respectively. At pen-level, signs of diarrhea, pain-associated behavior, and stereotypies were commonly seen in 46.9%, 56.3%, and 46.9% of the pens respectively. Multivariable firth's logistic regression revealed several risk factors of poor welfare outcomes; Skin conditions, especially wounds were significantly associated with the'other' bedding type (aOR&#x2009;=&#x2009;5.27, p&#x2009;=&#x2009;0.008). Panting was highly associated with poorly ventilated pens (aOR&#x2009;=&#x2009;82.33, p&#x2009;=&#x2009;0.010). Pain-related behaviors in dogs were significantly linked to group housing (aOR&#x2009;=&#x2009;11.92, p&#x2009;=&#x2009;0.006), while a lack of outdoor access was a risk factor for stereotypic behaviors (aOR&#x2009;=&#x2009;20.71, p&#x2009;=&#x2009;<&#x2009;0.001). Our findings indicate that the welfare of the majority of shelter dogs was suboptimal, largely due to inadequate resources, poor housing conditions, and questionable management practices. Improving dog welfare in Ugandan shelters requires regulating intakes and implementing evidence-based management interventions. Collaboration with veterinary providers and intervention from animal protection agencies or government bodies can ensure sustainable, high-welfare operations.",
+      "categories": [
+        "internalMedicine",
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42867939",
+      "title": "Myoclonus as a neurologic manifestation of hypoglycemia in dogs.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Polidoro D, Liatis T, &#xc1;lvarez P, Bhatti SFM",
+      "date": "2026 10 13",
+      "dateObject": "2026 10 13",
+      "abstract": "Myoclonus consists of brief, shock-like jerks and is not reported in dogs as a neurological manifestation of hypoglycemia. To describe hypoglycemia-associated myoclonus in dogs and report diagnostic findings, treatment, and outcome. Ten dogs presenting myoclonus and concurrent hypoglycemia. Multicenter, retrospective study of dogs presenting hypoglycemia-related myoclonus. All dogs presented with myoclonus. Neurological examination was abnormal in 5/10 (50%). Myoclonus was generalized in 8/10 (80%) dogs and focal (head) in 2/10 (20%), with progression to generalized tonic-clonic epileptic seizures in 5/10 (50%). Hypoglycemia (<3.3&#xa0;mmol/L) was observed in all dogs (median, 2.07&#xa0;mmol/L) during the myoclonic episodes. Insulinoma was a suspected (n&#xa0;=&#xa0;1), presumptive (n&#xa0;=&#xa0;5), or definitive (n&#xa0;=&#xa0;3) diagnosis in 9/10 (90%) dogs. One dog (10%) developed iatrogenic hypoglycemia after IV administration of fast-acting human insulin and myoclonic episodes resolved after dose reduction. Among dogs with suspected, presumptive or confirmed insulinoma, 5/9 (56%) received medical treatment alone, 3/9 (33%) combined medical and surgical treatment, and 1/9 (11%) was not treated. Medical treatment included, prednisolone (n&#xa0;=&#xa0;6), diazoxide (n&#xa0;=&#xa0;3) and therapeutic diet (n&#xa0;=&#xa0;6). Surgical treatment consisted of pancreatic mass resection. Medical or surgical treatment resulted in short-term improvement in myoclonus frequency in all dogs, however, four were later euthanized due to recurrence of hypoglycemia and myoclonus. Myoclonus might represent an underrecognized neurological manifestation of hypoglycemia in dogs. Measurement of blood glucose concentrations is a fundamental diagnostic approach for identifying hypoglycemia-related myoclonus. Treatment can lead to clinical improvement, but prognosis is dependent on the underlying cause. The aim of this study was to describe muscle jerks in dogs with low blood sugar. Ten dogs were affected, and most had muscle jerks throughout the body, with some developing seizures during periods of low blood sugar. Most dogs were suspected of having a tumor of the pancreas, which might cause low blood sugar. Treatment with medication, surgery to remove the tumor, or both helped reduce the muscle jerks in all dogs at first, although some later had to be put to sleep because the low blood sugar and muscle jerks returned. Myoclonus wordt gekenmerkt door korte, schokachtige spiercontracties en werd bij honden niet eerder beschreven als neurologische manifestatie van hypoglycemie. Beschrijven van hypoglycemie-geassocieerde myoclonus bij honden en diagnostische bevindingen, behandeling en klinische uitkomst rapporteren. Tien honden met myoclonus en hypoglycemie. Multicentrisch retrospectief onderzoek bij honden met hypoglycemie-geassocieerde myoclonus. Alle honden presenteerden myoclonus. Bij 5/10 (50%) honden was het neurologisch onderzoek afwijkend. Myoclonus was gegeneraliseerd bij 8/10 (80%) honden en focaal (hoofd) bij 2/10 (20%). Bij 5/10 (50%) honden trad progressie op naar gegeneraliseerde epilepsieaanvallen. Bij alle honden werd tijdens de myoclonische episoden hypoglycemie (<3,3&#xa0;mmol/L; mediane 2.07&#xa0;mmol/L) vastgesteld. Insulinoma was de vermoedelijke ( n &#xa0;=&#xa0;1), waarschijnlijke ( n &#xa0;=&#xa0;5) of definitieve ( n &#xa0;=&#xa0;3) diagnose bij 9/10 (90%) honden. Een hond (10%) ontwikkelde iatrogene hypoglycemie na intraveneuze toediening van humane insuline. Van de 9 honden met vermoedelijke of bevestigde diagnose van insulinoma werden 5/9 (56%) medicamenteus behandeld, 3/9 (33%) kregen een combinatie van medicamenteuze en chirurgische behandeling en 1/9 (11%) werd niet behandeld. Medicamenteuze behandeling bestond uit prednisolone ( n &#xa0;=&#xa0;6), diazoxide ( n &#xa0;=&#xa0;3) en therapeutisch dieet ( n &#xa0;=&#xa0;6). Chirurgische behandeling bestond uit pancreasmassa resectie. Medicamenteuze en chirurgische behandeling resulteerde bij alle honden verbetering op korte termijn van de myoclonus frequentie. Vier honden werden later ge&#xeb;uthanaseerd wegens recidief van hypoglycemie en myoclonus. Myoclonus kan een onderkende neurologische uiting van hypoglycemie bij honden zijn. Het bepalen van de bloedglucoseconcentratie vormt een essenti&#xeb;le diagnostische stap. Behandeling van hypoglycemie kan leiden tot klinische verbetering, maar prognose is afhankelijk van de onderliggende oorzaak.",
+      "categories": [
+        "internalMedicine",
+        "oncology",
+        "surgery",
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "42867938",
+      "title": "Letter regarding \"ACVIM-endorsed statement: consensus statement and systematic review on guidelines for the diagnosis and treatment of chronic inflammatory enteropathy in dogs\".",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Jablonski SA, Tolbert MK",
+      "date": "2026 10 13",
+      "dateObject": "2026 10 13",
+      "abstract": "",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42869081",
+      "title": "Low complication rates are reported in cats presenting for neurological complaints and undergoing cerebrospinal fluid collection.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Spinoglio GJ, Korman R, Thompson AL",
+      "date": "2026 10 13",
+      "dateObject": "2026 10 13",
+      "abstract": "To assess complications, outcomes, and associated risk factors of cats undergoing CSF collection. This was a single-center retrospective cohort study of client-owned cats presenting to 3 referral hospitals for CSF collection from January 2012 through December 2022. Cats were excluded for nonspecific and/or extraneural presenting complaints. If cats had multiple CSF collection presentations, only the first was included. Records were retrospectively assessed for signalment, physical examination findings, modified Glasgow coma scale, general anesthesia (GA) records, diagnostic imaging, clinical pathology results, and suspected or confirmed final diagnosis. Outcomes included complications and nonsurvival > 24 hours following CSF collection. Univariable logistic regression included breed, sex, body weight, age, modified Glasgow coma scale, evidence of herniation, evidence of intracranial hypertension (ICH) without herniation, GA protocol, GA duration, CSF analysis, collection site, inflammatory/infectious, and neoplasia diagnosis. P values were adjusted for multiple comparisons using the Benjamini-Hochberg procedure. 120 cats were identified, with 2 excluded for nonspecific and/or extraneural presenting complaint, leaving 118 cats. Seven (5.9%) did not survive > 24 hours following CSF procedure, and 9 (7.6%) reported complications, including apnea, suspected iatrogenic spinal cord trauma, and Cushing reflex. After multiple-comparison correction, no variable was significantly associated with outcome. Evidence of ICH without herniation and nonsurvival reported the largest effect estimate (OR, 36.99). Estimates are imprecise and reported as hypothesis generating. Feline CSF collection in this cohort reported low complication rates, and the majority survived > 24 hours after CSF collection. Imaging review for abnormalities associated with ICH is recommended prior to CSF collection.",
+      "categories": [
+        "internalMedicine",
+        "oncology",
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "42869074",
+      "title": "Two headless cannulated screws have a higher maximum failure load than screw-and-pin fixation at a 70&#xb0; fracture angle in 3-dimensionally printed canine femoral neck models.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Song I, Kim S, Kim HY, Kim JM",
+      "date": "2026 10 13",
+      "dateObject": "2026 10 13",
+      "abstract": "To compare maximum failure load among 3-D-printed canine femoral neck models differing in fracture angle and fixation configuration. This experimental biomechanical study was conducted in a university research laboratory from September 10, 2025, through March 10, 2026. Polycarbonate 3-D-printed models were created using left femoral CT data from a 2-year-old 11.9-kg Shiba Inu. The group configurations were a 50&#xb0; femoral neck fracture stabilized with one 2.5-mm fully threaded headless cannulated screw (HCS) and an antirotation pin (1S1P50), a 70&#xb0; fracture with the same fixation (1S1P70), and a 70&#xb0; fracture stabilized with 2 parallel 2.5-mm HCSs (2S70). Initial construct stiffness was estimated from load-crosshead displacement curves. Maximum failure load, the primary outcome, was determined under single axial compression of the femoral head. 18 models were analyzed, with 6 in each group. There was no difference in initial construct stiffness among groups. Mean maximum failure loads were 511.5 N (SD, 81.9) in 1S1P50, 502.0 N (SD, 47.2) in 1S1P70, and 679.2 N (SD, 102.5) in 2S70. Maximum failure load was higher in 2S70 than in 1S1P70 (estimated difference, 176 N; Bonferroni-adjusted 98.3% CI, 31 to 301 N). Under static axial loading, 2S70 had a higher maximum failure load than 1S1P70, with no difference between 1S1P50 and either of the other 2 groups. Under static axial loading, 2 HCSs had a higher maximum failure load than did 1 HCS with an antirotation pin at a 70&#xb0; fracture angle in 3-D-printed canine femoral neck models.",
+      "categories": [
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42869070",
+      "title": "Biomechanical evaluation of cerclage fixation constructs in a 3-dimensionally printed canine tibial long-oblique fracture model.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Park J, Kim JM, Kim HY",
+      "date": "2026 10 13",
+      "dateObject": "2026 10 13",
+      "abstract": "To compare the biomechanical performance of cerclage fixation constructs in a standardized 3-D-printed canine tibial long-oblique fracture model. 3 fixation constructs-stainless steel wire cerclage (SSW), FiberWire cerclage (FW), and paraosseous clamp-cerclage stabilization (PCCS)-were compared in a standardized 3-D-printed canine tibial long-oblique fracture model. A standardized mid-diaphyseal long-oblique fracture was created in each specimen. Axial compression testing was performed until failure. Loads required to reach predefined displacement levels (1, 2, and 3 mm), maximum failure load, and failure mode were recorded. Data were analyzed using one-way ANOVA with the Tukey post hoc test. 21 tibial models (7/group) were evaluated. At all displacement levels, the FW group required significantly lower loads than both the SSW and PCCS groups, whereas no significant difference was observed between the SSW and PCCS groups. Mean loads at 1 mm displacement were 194.5 &#xb1; 32.2 N (SSW), 94.4 &#xb1; 21.0 N (FW), and 207.3 &#xb1; 64.0 N (PCCS). Maximum failure load was highest in the FW group (974.3 &#xb1; 77.0 N), followed by the PCCS group (879.0 &#xb1; 66.6 N) and SSW group (567.6 &#xb1; 63.2 N). PCCS demonstrated resistance to axial compression comparable to SSW fixation, whereas FW cerclage demonstrated the highest maximum failure load. These findings provide biomechanical information that may assist surgeons in selecting cerclage fixation methods for long-oblique tibial fractures in dogs.",
+      "categories": [
+        "surgery"
+      ]
+    },
     {
       "pmid": "42866544",
       "title": "Effects of quercetin supplementation on the quality and metabolomic characteristics of sex-sorted frozen semen from Australian Wagyu bulls.",
@@ -722,19 +850,6 @@
       ]
     },
     {
-      "pmid": "42828236",
-      "title": "Case Report: Clinical and magnetic resonance imaging findings in intracranial hemangiosarcoma in a cat.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Marsell&#xe9;s-Gonz&#xe1;lez I, Benigni L, Cloup E, Fernandes R",
-      "date": "2026 10 03",
-      "dateObject": "2026 10 03",
-      "abstract": "Hemangiosarcoma (HSA) is a highly malignant tumor of endothelial origin that is infrequently reported in cats, accounting for less than 2% of nonhematopoietic neoplasms. Feline HSA is typically classified into dermal and visceral subtypes, both of which exhibit metastatic potential. While HSA is the tumor most commonly reported to metastasize to the brain in dogs, intracranial involvement in cats remains rare, with only one previously documented metastatic case. This case report details the clinical presentation, magnetic resonance imaging (MRI) features, histopathological findings, and gross post-mortem brain changes in a cat diagnosed with intracranial hemangiosarcoma.",
-      "categories": [
-        "oncology",
-        "neurology"
-      ]
-    },
-    {
       "pmid": "42827366",
       "title": "EXPRESS: Evaluation of Left Atrial Reservoir Strain by Two-Dimensional Speckle-Tracking Echocardiography in Cats with Stage B1 Hypertrophic Cardiomyopathy.",
       "journal": "Journal of Feline Medicine and Surgery",
@@ -1027,40 +1142,6 @@
       "categories": []
     },
     {
-      "pmid": "42385782",
-      "title": "Plasma formiminoglutamic acid shows potential as a functional marker of folate deficiency in cats and dogs: development and validation of a liquid chromatography-tandem mass spectrometry method.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Cohn-Urbach M, Ruaux CG",
-      "date": "2026 10 01",
-      "dateObject": "2026 10 01",
-      "abstract": "To evaluate formiminoglutamic acid (FIGLU) as a potential marker of folate deficiency in cats and dogs by (1) establishing a liquid chromatography-tandem mass spectrometry (LC-MS-MS) method for the quantification of FIGLU in feline and canine plasma, and (2) reporting plasma FIGLU concentrations in clinically normal cats and dogs. An LC-MS-MS method for FIGLU quantitation was developed and analytically validated. Clinically normal cats and dogs were prospectively included for plasma FIGLU and serum folate measurement (via LC-MS-MS and chemiluminescence immunoassay, respectively). Statistical analysis was performed to assess for correlations between plasma FIGLU and serum folate concentrations. Accuracy, precision, linearity, and recovery experiments met validation requirements. Dilution integrity experiments did not meet the acceptance criteria, potentially due to ion suppression effects. Plasma FIGLU ranged from 4.5 to 21.0 ng/mL in 11 clinically normal dogs and 9.1 to 57.0 ng/mL in 10 clinically normal cats. There was no evidence of a correlation between serum folate and plasma FIGLU concentrations in clinically normal cats and dogs. The amount of FIGLU present in the plasma of clinically normal cats and dogs is quantifiable via LC-MS-MS, and reference interval determination of plasma FIGLU is therefore feasible. Future studies should include both normofolatemic and hypofolatemic animals to assess the correlation between serum folate and plasma FIGLU and to determine the optimal serum folate cutoff limit. Plasma FIGLU shows promise as a practical research tool and a potential functional marker of folate availability in cats and dogs.",
-      "categories": []
-    },
-    {
-      "pmid": "42379217",
-      "title": "Oral administration of a live-attenuated Bordetella bronchiseptica vaccine (Vanguard B Oral) induces protective immunity against challenge 7 days after vaccination in dogs.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Wappel S, Velineni S, King V, Abma E, Hoevers J, Martorell S, Houser C, Tague A, Wilmes L, Millership J",
-      "date": "2026 10 01",
-      "dateObject": "2026 10 01",
-      "abstract": "To evaluate the onset of immunity 7 days after administration of a live-attenuated Bordetella bronchiseptica (Bb) vaccine (Vanguard B Oral) in dogs. In a randomized, blinded, controlled study conducted at an animal research facility in 2022, forty 8-week-old Beagle puppies were randomly assigned to 2 groups (n = 20/group) and administered a single oral dose of either placebo or vaccine on day 0. On day 7 after vaccination, all dogs were challenged with aerosolized virulent Bb. Clinical observations were conducted twice on days 0 and 6 through 20 and once daily on days 1 through 5 and 21. Tympanic temperatures were measured twice on day 0 and once daily from days 1 through 21. Microplate agglutination titers were collected from all animals on days -12, 0, 6, and 21. Coughing on 2 consecutive days occurred in 17 of 20 control dogs (85%) versus 4 of 20 vaccinates (20%). Vaccinated dogs also exhibited fewer coughing observation periods (3.2% vs 15.8%) and a shorter coughing duration of 2.4 days (95% CI, 1.0 to 3.7) than controls (5.5 days; 95% CI, 4.1 to 6.8). Total clinical scores were significantly lower in vaccinated (median, 15.0) dogs than in controls (median, 27.0) and remained significant when ocular and nasal discharge were excluded. The vaccine was considered safe, with only sporadic mild clinical signs. After challenge, vaccinated dogs demonstrated a significant reduction in coughing and other clinical signs. Vanguard B Oral elicited a rapid onset of protective immunity against virulent Bb challenge as early as 7 days after vaccination.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42349497",
-      "title": "Computed tomographic liver volumetry and hepatic attenuation in dogs with histologically confirmed cirrhosis compared with dogs without liver disease.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Nishi R, Kinoshita K, Cridge H, Toshima A, Park YT, Murakami M",
-      "date": "2026 10 01",
-      "dateObject": "2026 10 01",
-      "abstract": "To compare CT-derived liver volume and noncontrast hepatic attenuation between dogs with histologically confirmed cirrhosis and dogs without liver disease and describe qualitative CT findings in dogs with cirrhosis. This retrospective, multi-institutional, cross-sectional study included 8 dogs with histologically confirmed cirrhosis and 121 dogs without liver disease from a previously published CT liver volume reference interval cohort. Noncontrast CT images were used for manual hepatic volumetry and standardized hepatic and splenic attenuation measurements. Liver volume was normalized to body weight. Hepatic parenchymal attenuation (HPA) and the HPA-to-splenic parenchymal attenuation (SPA) ratio were compared between groups. Qualitative CT features were recorded descriptively. Dogs with cirrhosis had lower mean liver volume-to-body weight ratios than dogs without liver disease (16.5 &#xb1; 4.5 cm3/kg vs 22.8 &#xb1; 5.3 cm3/kg; mean difference, -6.3 cm3/kg; 95% CI, -10.1 to -2.5; P = .002). Mean HPA was lower in dogs with cirrhosis (47.3 &#xb1; 9.6 HU vs 58.8 &#xb1; 6.2 HU; mean difference, -11.5 HU; 95% CI, -16.1 to -6.9; P = .001). The HPA:SPA ratio was also lower in dogs with cirrhosis (0.8 &#xb1; 0.1 vs 0.9 &#xb1; 0.1; P = .03). Nodular parenchymal change, acquired portosystemic shunts, and peritoneal effusion were present in 4, 2, and 3 cirrhotic dogs, respectively. Dogs with histologically confirmed cirrhosis had lower weight-normalized liver volume, HPA, and HPA:SPA ratio than dogs without liver disease. CT-derived quantitative metrics may support recognition of canine cirrhosis, but reduced liver volume alone should not be considered diagnostic.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
       "pmid": "42816882",
       "title": "Brachyspira hyodysenteriae detected in a dog with acute haemorrhagic diarrhoea: a case report.",
       "journal": "BMC Veterinary Research",
@@ -1068,43 +1149,6 @@
       "date": "2026 10 01",
       "dateObject": "2026 10 01",
       "abstract": "Brachyspira hyodysenteriae is a well-known pathogen of swine dysentery, a severe mucohaemorrhagic colitis in pigs. While several Brachyspira species are reported in dogs, natural Brachyspira hyodysenteriae detection in dogs is extremely rare. This case report aims to provide insight into the pathogenic potential and clinical significance of Brachyspira hyodysenteriae in dogs. A 5-year-old male mongrel dog was presented with acute haemorrhagic diarrhoea shortly after being adopted from a shelter, where he had a history of soft stools. The faeces were watery, containing fresh blood and fibrinous mucus. Initial wet mount and faecal flotation tests were negative for parasites or ova, but faecal smear cytology revealed diverse bacterial morphologies, including chevron- and spiral-shaped forms. Real-time PCR identified Brachyspira hyodysenteriae with a low Ct value (27.19), alongside Campylobacter coli, Campylobacter jejuni, canine astrovirus and Cystoisospora. The dog was treated with enrofloxacin, metronidazole, and fenbendazole, leading to complete resolution of haematochezia and gradual normalization of stool consistency. Follow-up real-time PCR confirmed the absence of all previously detected pathogens, and the patient remained asymptomatic. This case suggests that Brachyspira hyodysenteriae, traditionally regarded as a swine-specific pathogen, may contribute to gastrointestinal disease in dogs. However, because confirmatory bacterial culture was not performed and multiple enteropathogens were detected concurrently, a definitive association between Brachyspira hyodysenteriae and the observed haemorrhagic diarrhoea cannot be established. Nevertheless, it highlights the importance of considering Brachyspira hyodysenteriae in unexplained cases of infectious diarrhoea in dogs, particularly regarding mixed infections. These findings also raise concerns regarding potential interspecies transmission and associated biosecurity risks. Further research is warranted to enhance understanding of diagnostic strategies, treatment approaches and antibiotic resistance patterns.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42815455",
-      "title": "Clinical and molecular genetic description of a Marfan-like syndrome in a Golden Retriever puppy.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Lennertz HT, McClosky ME, Fuentes MDM, Niggel JK, Casal ML, Murgiano L",
-      "date": "2026 09 30",
-      "dateObject": "2026 09 30",
-      "abstract": "Marfan syndrome (MFS) is a genetic fibrillin disorder causing cardiac, ocular, and musculoskeletal pathology; it is not well reported on in dogs, with minimal descriptions of antemortem diagnosis. Use whole-genome sequencing (WGS) to diagnose a dog with suspected MFS to guide prognostication and potential treatment. A client-owned, 10-month-old Golden Retriever presented with signs of possible connective tissue disorder. Blood and DNA samples from a non-affected German Shepherd-Beagle mix and 160 unrelated Golden Retrievers were used as controls. Physical examination, blood collection, and radiography were performed on the dog while at the hospital. Whole-genome sequencing was performed on DNA from the affected dog. Genetic analysis focused on single-nucleotide variants, small insertion-deletions, and structural variants to detect potential disease-causing genetic variants in the genome, prioritizing candidate genes. Polymerase chain reaction amplification and Sanger sequencing of a suspected region were carried out to confirm presence of the candidate pathogenic variant. The dog was presented for cardiology consultation and had clinical signs of cardiac enlargement, pneumothorax, and joint hypermobility. After genetic analysis, a 3618 base pair deletion encompassing exon 24 of the FBN1 gene on 1 allele was detected (NC_049251.1:g.14998228_15001846del), likely causing an in-frame deletion in the coding sequence. Physical and complementary examination findings are suggestive of MFS and associated with a causal deletion variant.",
-      "categories": [
-        "cardiology"
-      ]
-    },
-    {
-      "pmid": "42814655",
-      "title": "Melioidosis in dogs and cats: 18 cases.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Lim ZS, Soon K, Neo N, Labrador J, Kelly D",
-      "date": "2026 09 30",
-      "dateObject": "2026 09 30",
-      "abstract": "The clinical manifestations and outcomes in dogs and cats with melioidosis have not been described. Describe the presenting signs, treatment, and outcome of dogs and cats with melioidosis. Fifteen dogs and 3 cats from a hospital in Singapore. Retrospective case series. A hospital database search was performed to identify dogs with melioidosis presenting over a 5-year period. Data collected included signalment, clinical signs, test results, treatment, and outcome. Diagnosis was based on positive bacterial culture and identification of Burkholderia pseudomallei in all cases. At presentation, 13/15 (87%) had systemic inflammatory response syndrome (SIRS), 10/15 (67%) were septic, and 3/15 (20%) had septic shock. In dogs, 8/15 (53%) had multiple cutaneous abscesses or open wounds, and 6/15 (40%) had prostatitis or prostatic abscessation. In cats, 2/3 had osteomyelitis and 1/3 had pyelonephritis. Of the cases, 5/15 (33%) dogs and none of the cats were considered potentially immunocompromised. Of the 17 cases with >4&#xa0;weeks of follow-up, death or euthanasia attributed to melioidosis occurred in 8/17 (47%). Of the surviving 9/17 (53%) animals, 6 were alive after 1 month (range, 1-43&#xa0;months) and 3 died or were euthanized for reasons unrelated to melioidosis, with median follow-up duration of 724&#xa0;days. Melioidosis should be considered in dogs with prostatitis or cutaneous abscesses, and in cats with osteomyelitis. Initial treatment with ceftazidime or meropenem, followed by 3-6&#xa0;months of trimethoprim-sulfonamide (TMPS) might be optimal.",
-      "categories": [
-        "internalMedicine",
-        "dermatology"
-      ]
-    },
-    {
-      "pmid": "42806282",
-      "title": "The relationship between urinalysis abnormalities, soiling behavior, and cognitive decline in aging dogs.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Rafatpanah Baigi S, Yang CC, Mondino A, Fefer G, Panek WK, Case BC, Griffith EH, Gruen ME, Olby NJ",
-      "date": "2026 09 29",
-      "dateObject": "2026 09 29",
-      "abstract": "In elderly people, dementia and urinary tract dysfunction often exacerbate one another. Aging dogs also suffer cognitive decline but the relationship between cognitive decline, soiling behaviors, and urinalysis abnormalities has not been explored. Soiling behavior is associated with urinalysis abnormalities and cognitive performance in aging dogs. Eighty-four client-owned dogs enrolled in a longitudinal cohort study of aging. In this prospective observational study, dogs were evaluated biannually with free-catch urinalysis, owner-completed Canine Dementia Scale (CADES), and a cognitive test battery. Mean age at enrollment was 12.77&#xa0;years &#xb1; 1.91, 53 were female spayed, 29 male neutered, and 1 female and 1 male intact. Mixed-effects and generalized linear mixed models were used to assess the associations between urinalysis variables and cognitive test performance. Of 231 urinalyses, 19 showed pyuria, 14 hematuria, 11 bacteriuria, and 194 proteinuria. Urine specific gravity (USG) ranged from 1.005 to 1.056 and decreased significantly with age (P&#xa0;<&#xa0;.001). Soiling scores ranged from 0 to 25, and were associated with increasing age (P&#xa0;<&#xa0;.001) and decreasing USG (P&#xa0;<&#xa0;.001). In multivariable models, age and USG remained significant predictors of soiling. Higher soiling scores were associated with poorer performance on inhibitory control (P&#xa0;<&#xa0;.001) and detour tasks (P&#xa0;<&#xa0;.001). Increased soiling behavior was linked to USG and executive function. Abnormal urinalysis findings were less frequent than expected. Soiling behavior in aging dogs might not exclusively reflect urinary tract or systemic disease and could be an indicator of cognitive decline.",
       "categories": [
         "internalMedicine"
       ]
@@ -1132,18 +1176,6 @@
       "abstract": "Feline oral squamous cell carcinoma (FOSCC) is the most common oral malignancy, characterised by aggressive local invasion, frequent bone involvement, and poor prognosis. The limited availability of well-characterised in&#xa0;vitro models has hindered the understanding of tumour heterogeneity and invasive behaviour. This study aimed to establish and comparatively characterise a panel of FOSCC cell lines derived from tumours with and without documented bone invasion to identify intrinsic biological differences. Four FOSCC cell lines were evaluated for epithelial identity, growth kinetics, clonogenicity, migratory capacity and chemosensitivity. All cell lines retained epithelial characteristics, with consistent expression of epithelial markers; however, variation in cytokeratin-19 and vimentin suggested phenotypic heterogeneity and partial epithelial-mesenchymal plasticity. The cell lines demonstrated distinct proliferation rates, doubling times, and clonogenic capacities. Morphologically, these cells displayed varying degrees of peripheral filopodial activity. Functional assays further revealed substantial migratory capacity under both serum-supplemented and serum-free conditions, with differences across cell lines. Chemosensitivity profiling showed heterogeneous responses to targeted and cytotoxic agents, highlighting cell line-specific differences in drug susceptibility and potential intrinsic drug responsiveness. These findings demonstrate that FOSCC cell lines possess distinct biological properties consistent with phenotypic differences. The observed heterogeneity underscores the potential relevance of tumour origin in shaping functional behaviour and highlights the value of using multiple, well-characterised cell line models to better represent disease diversity. This study provides a comprehensive comparative characterisation of four FOSCC cell lines, including a newly established model, and establishes a baseline resource for future mechanistic and translational investigations in feline and comparative oncology.",
       "categories": [
         "oncology"
-      ]
-    },
-    {
-      "pmid": "42803610",
-      "title": "Current knowledge of intermittent photic stimulation for electroencephalography in dogs.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Shwarzman RJ, Ford M, Chan AMK, Gaitero L, James FMK",
-      "date": "2026 09 28",
-      "dateObject": "2026 09 28",
-      "abstract": "Intermittent photic stimulation is a standardized activation procedure for electroencephalography in humans that increases the detection of epileptic activity and improves diagnostic yield. However, its application in veterinary medicine remains inconsistent and methodologically heterogeneous. This narrative review synthesizes current knowledge regarding intermittent photic stimulation in dogs, critically evaluates variability in stimulus design, vigilance state, and electrode montage, and proposes a framework to support standardization in veterinary practice. Published veterinary studies demonstrate that photic stimulation can provoke generalized spike-wave and polyspike-wave discharges in selected epilepsy syndromes of dogs, particularly during awake recordings. However, protocols vary substantially in frequency range, light intensity, eye state control, flash duration, vigilance state, and lamp distance. Sedation and general anesthesia appear to attenuate retinal and thalamocortical responsiveness, decreasing the likelihood of eliciting photoparoxysmal responses. In addition, sparse and inconsistent electrode arrays limit spatial interpretation of photic responses and hinder cross-study comparisons. Drawing on established methodology used in humans and emerging veterinary data, this review outlines practical recommendations for standardized awake testing, defined stimulus parameters, and improved spatial sampling. Harmonized protocols may enhance diagnostic sensitivity, facilitate identification of photosensitive epilepsy syndromes in dogs, and strengthen translational alignment between epileptology in humans and animals. Standardization of intermittent photic stimulation represents an opportunity to improve the clinical utility and reproducibility of electroencephalography in dogs.",
-      "categories": [
-        "neurology"
       ]
     },
     {
@@ -1191,18 +1223,6 @@
       "abstract": "ObjectivesTo determine the echocardiographic prevalence and attachment-site patterns of left ventricular bands (LVBs) in cats and assess whether LVB counts differed by sex, sedation status, or echocardiographic group.MethodsIn this prospective observational study, 200 cats undergoing complete transthoracic echocardiographic examination were evaluated for the presence, number, and attachment-site patterns of LVBs. LVBs were defined as discrete intracavitary linear structures connecting two myocardial structures within the left ventricle without insertion into the mitral valve leaflets. Each visible connection was classified according to predefined attachment-site categories. For the phenotype comparison, cats with normal LV wall thickness or focal insertion-site thickening (n = 89) were compared with cats with a hypertrophic cardiomyopathy (HCM) phenotype (n = 86).ResultsA total of 884 LVBs were identified. At least one LVB was detected in 199/200 cats, yielding an echocardiographic prevalence of 99.5%. The median number was 4 LVBs per cat (range 0-10). The most frequently observed attachment patterns involved the interventricular septum and papillary muscle or accessory papillary muscle-like structures. Overall, 51.9% of LVBs had at least one septal attachment, and 94.3% involved a papillary muscle or accessory papillary muscle-like structure. LVB counts did not differ by sex (P = 0.47), sedation status (P = 0.26), or between the normal/focal insertion-site thickening and HCM phenotype groups (P = 0.98).Conclusions and relevanceLeft ventricular bands were identified in nearly all cats examined and represent a common echocardiographic finding. Most involved septal and papillary muscle-related attachment sites. Sex and sedation status were not significantly associated with LVB number, and no significant difference was identified between the combined normal/focal insertion-site thickening group and the HCM phenotype group. These findings provide a reference framework for the echocardiographic recognition and classification of LVBs in cats under clinical imaging conditions.",
       "categories": [
         "cardiology"
-      ]
-    },
-    {
-      "pmid": "42801332",
-      "title": "Effect of low dose azithromycin on the fecal microbiome and fecal bile acids in healthy dogs.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Smith C, Husnik R, Gaschen F, Kirk C, Zhu X, Suchodolski J",
-      "date": "2026 09 27",
-      "dateObject": "2026 09 27",
-      "abstract": "Azithromycin has prokinetic effects at low doses in people, cats, and anecdotally, in dogs; however, antibiotics alter the fecal microbiome and metabolome. To prospectively evaluate the effects of low-dose azithromycin, hypothesizing that it would alter the fecal microbiome and fecal bile acids in healthy dogs. Eleven healthy research dogs. Prospective study. Dogs received azithromycin (2&#xa0;mg/kg PO q8h) for 8&#xa0;days. Fecal samples were collected before (day 1), during (day 6), and after azithromycin administration (days 11, 26, 36, 45). Fecal consistency was assessed daily. Microbiome analysis included qPCR quantification of 16 core bacterial taxa and the Dysbiosis Index. Fecal concentrations of conjugated and unconjugated bile acids (UBAs) were measured on days 1, 11, and 45. Fecal scores increased during azithromycin administration (P&#xa0;=&#xa0;.009). Abundance of 7 of 16 taxa decreased significantly on day 6, including Peptacetobacter hiranonis (P. hiranonis; P&#xa0;<&#xa0;.001), Faecalibacterium (P&#xa0;< .001), and Fusobacterium (P&#xa0;=&#xa0;.031). Abundance of Streptococcus significantly decreased on day 11 (P&#xa0;=&#xa0;.003). Percentage of primary UBAs increased (P&#xa0;=&#xa0;.017; median, 94.06%; range, 0.73%-96.08%), returned to baseline by day 45, and negatively correlated with abundance of P. hiranonis (r&#xa0;=&#xa0;-0.936 [95% CI, -0.973, -0.852], P&#xa0;<&#xa0;.001). Abundance of 8 of 9 significantly altered taxa recovered, with abundance of Streptococcus remaining decreased. Low-dose azithromycin induces a mostly reversible dysbiosis and reversible decrease in secondary fecal UBAs. Atypical decreases in Streptococcus abundance can also occur.",
-      "categories": [
-        "internalMedicine"
       ]
     },
     {
@@ -3054,19 +3074,6 @@
       "categories": [
         "oncology",
         "neurology",
-        "dermatology"
-      ]
-    },
-    {
-      "pmid": "42464268",
-      "title": "Animal welfare assessment at four dog shelters in Central Uganda: a cross-sectional study using the shelter quality &#xae; protocol.",
-      "journal": "BMC Veterinary Research",
-      "authors": "Ashabahebwa L, Hoareau Z, Ssuna P, Tayebwa DS",
-      "date": "2026 07 17",
-      "dateObject": "2026 07 17",
-      "abstract": "In Central Uganda, animal welfare advocates are increasingly promoting the establishment of animal shelters as a humane alternative to poisoning for controlling free-roaming dog (FRD) populations. However, dogs at these facilities face a number of welfare challenges arising from insufficient resources and substandard management practices. We aimed to assess the welfare of sheltered dogs in Central Uganda by identifying the animal-based welfare issues faced by the dogs, evaluating the housing and management infrastructure, and determining risk factors of animal welfare compromise. We conducted a cross-sectional study in four animal shelters, between July and August 2024. We used structured checklists from the Shelter Quality &#xae; protocol (SQP) to collect data on animal-based measures (ABMs), resource-based measures (RBMs) and management-based measures (MBMs). Overall, the shelters housed 141 dogs (average 35.3, range 4-84) across 40 pens (average 10, range 2-17). A total sample of 32 pens were selected from which 81 dogs were assessed. Fifty-seven of the dogs were housed in groups, fourteen in pairs, and ten were housed individually. Thirty five dogs were females and 46 males. Thirty two dogs were juveniles, 41 were adults and 8 were geriatrics. The most prevalent ABMs were; 'too thin' body condition, skin lesions and fear/aggression, reported among 59.3%, 45.7% and 39.1% of the dogs respectively. At pen-level, signs of diarrhea, pain-associated behavior, and stereotypies were commonly seen in 46.9%, 56.3%, and 46.9% of the pens respectively. Multivariable firth's logistic regression revealed several risk factors of poor welfare outcomes; Skin conditions, especially wounds were significantly associated with the'other' bedding type (aOR&#x2009;=&#x2009;5.27, p&#x2009;=&#x2009;0.008). Panting was highly associated with poorly ventilated pens (aOR&#x2009;=&#x2009;82.33, p&#x2009;=&#x2009;0.010). Pain-related behaviors in dogs were significantly linked to group housing (aOR&#x2009;=&#x2009;11.92, p&#x2009;=&#x2009;0.006), while a lack of outdoor access was a risk factor for stereotypic behaviors (aOR&#x2009;=&#x2009;20.71, p&#x2009;=&#x2009;<&#x2009;0.001). Our findings indicate that the welfare of the majority of shelter dogs was suboptimal, largely due to inadequate resources, poor housing conditions, and questionable management practices. Improving dog welfare in Ugandan shelters requires regulating intakes and implementing evidence-based management interventions. Collaboration with veterinary providers and intervention from animal protection agencies or government bodies can ensure sustainable, high-welfare operations.",
-      "categories": [
-        "internalMedicine",
         "dermatology"
       ]
     },
