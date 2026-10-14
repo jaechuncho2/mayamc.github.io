@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T02:35:25.141Z",
+  "updated_at": "2026-10-14T00:20:05.428Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -6719,6 +6719,54 @@
       "title": "Morpho-molecular assessment of nanomaterials in teleost fish wound healing: a systematic review.",
       "journal": "BMC Veterinary Research",
       "generated_at": "2026-10-12T00:35:06.884Z",
+      "model": "gpt-5-mini"
+    },
+    "42866079": {
+      "brief_summary": "본 전향적 관찰연구는 메타미졸(metamizole) 투여와 연관된 하인츠 바디(Heinz body, HB) 빈혈의 혈액학적 추적을 목적으로 25마리의 개를 분석했다. HB 비율과 엑센트로사이트(eccentrocyte) 수는 메타미졸 중단 및 항산화제 투여 후 점차 감소했고(HB 중앙값 26.5%→1.3%, 엑센트로사이트 2.6%→0%), 헤마토크릿(Hct)은 회복(중앙값 24→33%)했다. 모든 증례에서 동반 질환이 있었고 대조군이 없는 관찰연구라는 점을 고려해, 다병성(다중 질환) 개에서 메타미졸 사용은 정기적인 혈액학적 모니터링을 동반해 신중히 결정해야 한다는 임상적 시사점을 제시한다.",
+      "detailed_summary": "전향적 관찰연구로 메타미졸 관련 HB 빈혈로 진단된 개 25마리를 포함하여 혈구수와 도말에서 HB 및 엑센트로사이트를 평가했다. 평가 시점은 메타미졸 중단 및 항산화 치료 개시 후 0일, 1–3일, 4–6일, 7–13일, 14–20일이었다; 도말 염색은 brilliant cresyl blue와 modified Wright's stain을 사용했다. HB 빈혈은 메타미졸 투여 시작 후 중앙값 10일(중앙 누적용량 720 mg/kg)에 발견되었고, HB 비율과 엑센트로사이트 수는 0일의 중앙값 26.5%와 2.6%에서 14–20일에 각각 1.3%와 0%로 감소했고 Hct는 중앙값 24%에서 33%로 증가했다. HB 비율은 레티큘로사이트와는 중등도-강한 상관(r=0.630)을 보였으나 HB 비율 및 엑센트로사이트 수는 메타미졸 용량, Hct 또는 레티큘로사이트와 유의한 상관을 보이지 않았다. 임상적으로는 4마리가 수혈을 받았고 21마리는 생존했으며 4마리는 안락사 또는 사망했다. 연구진은 알려진 다른 산화적 적혈구 손상 원인을 배제했으며, 메타미졸 중단과 항산화 치료 뒤 HB 감소 및 Hct 회복이 관찰되었으나, 모든 환자에 동반 질환이 있었고 무작위 대조군이 없는 관찰설계여서 인과관계를 확정하기보다는 연관 가능성으로 해석해야 한다.",
+      "title": "Hematologic follow-up of metamizole-associated Heinz body anemia in dogs.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-10-14T00:20:05.401Z",
+      "model": "gpt-5-mini"
+    },
+    "42866470": {
+      "brief_summary": "본 연구는 소(bovine) 혈청과 혈장이 개의 감염성 각막염을 일으키는 세균에 대한 국소 항생제 효과에 미치는 영향을 평가했다. 10마리 소에서 채취한 신선·냉동 혈청·혈장을 사용해 30개 임상 분리주(각각 Staphylococcus pseudintermedius, Streptococcus canis, Pseudomonas aeruginosa)를 대상으로 17종 항생제의 최소억제농도(MIC)를 측정한 결과, 혈청/혈장은 균주와 약제에 따라 MIC를 1.33–4배 증가시키거나 0.5–0.75배 감소시키는 등 항생제 효능을 변화시켰다. 임상적으로는 소 혈청/혈장이 직접 항균 효과(예: 냉동 혈장으로 S. pseudintermedius에서 최대 49%)와 항콜라겐분해 억제 효과가 있어 말·개 제제보다 선호할 수 있으며, 적용 시 국소 항생제 도포 후 ≥15분 뒤에 마지막으로 투여할 것을 권고한다.",
+      "detailed_summary": "설계는 10마리 건강한 소에서 혈청과 혈장을 채취하여 신선·냉동(−20°C 1개월) 시료를 준비한 실험적 비교연구이다. 혈청 단백질(알부민)과 alpha-2 macroglobulin 수치는 종특이 ELISA로 정량했으며, 알부민은 1.98–2.00 mg/ml 범위, 냉동 혈청의 α2-macroglobulin 중앙값은 4,403 ng/ml(범위 3,542–5,499 ng/ml), 냉동 혈장의 중앙값은 4,959 ng/ml(범위 3,305–5,447 ng/ml)이었다. 임상에서 분리된 30개 균주(각 10주: S. pseudintermedius, S. canis, P. aeruginosa)를 blank 플레이트와 Sensititre™ JOEYE2 상용 감수성 플레이트로 검사하여 17종 항생제의 MIC(최소억제농도)을 소 혈청/혈장 유무(대조군 대비 신선·냉동 혈청·혈장 4개 실험군)로 비교했다. 신선과 냉동 시료 간에는 감수성 차이가 관찰되지 않았고, 소 혈청/혈장은 특정 균주에서 직접적인 항균작용을 보였으며(예: 냉동 혈장으로 S. pseudintermedius에서 최대 49% 효과), 항생제에 따라 MIC를 증가(1.33–4배)시키거나 감소(0.5–0.75배)시키는 영향이 있었다. 연구진은 소 혈청/혈장이 직접 항균 효과, 항콜라겐분해 억제 능력, 국소 항생제 감수성에 미치는 영향이 비교적 적다는 이유로 임상에서 말 또는 개 혈액 제제보다 고려할 만하다고 권고했다. 초록에서는 추가적인 한계점이 별도로 기술되어 있지 않으며, 적용 시 항생제-단백질 결합 가능성과의 상호작용을 고려해 혈청/혈장은 국소 항생제 도포 후 ≥15분 뒤에 마지막으로 사용하라고 제시하고 있다.",
+      "title": "Bovine blood products modulate the effect of ophthalmic antibiotics against common bacterial pathogens in dogs with infectious keratitis.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-10-14T00:19:52.479Z",
+      "model": "gpt-5-mini"
+    },
+    "42866495": {
+      "brief_summary": "본 증례보고는 13세 수컷 비글에서 진단된 다발성 구강 CD8-양성 epitheliotropic T-cell lymphoma(ETCL)에 대해 oclacitinib 치료 후 진행된 병변에 대해 bleomycin 기반 전기화학요법(BLM-ECT)을 적용한 단일 증례를 보고한다. IV bleomycin 20 mg/m2 투여 후 4-needle 전극(1,000 V/cm, 8 pulses)으로 시행된 BLM-ECT는 205일 및 238일의 1·2차 시술에서 구강 병변의 현저한 감소와 장기간 국소적 조절을 가져왔으며, 608일 최종 평가에서는 육안적 구강 병변과 전신적 전이의 임상적 증거가 없었다. 354일에 관찰된 국소 림프절의 광범위 괴사 소견은 원인이 불명이며 ECT와의 인과관계는 확인되지 않았다.",
+      "detailed_summary": "증례는 13세 수컷 비글 한 마리의 구강 ETCL(병변에서 >90%의 종양세포가 CD3 및 CD8 발현)을 다루는 단일 증례보고이다. 초기에는 oclacitinib로 병변 크기·수가 감소했으나 149일 후 병변 진행이 관찰되었다. 이후 BLM-ECT(IV bleomycin 20 mg/m2, 4-needle 전극, 1,000 V/cm, 8 pulses)를 205일과 238일에 시행해 구강 병변의 현저한 감소와 장기간의 국소적 질환 조절을 얻었다. 354일에 좌측 하악 림프절 비대가 관찰되었으나 조직병리에서 광범위 괴사가 있어 림프종 침윤 여부를 확정할 수 없었고, 잔존 CD3 양성 림프구는 있었으나 유세포분석과 항원수용체 재배열 검사(PARR)는 비정형 림프종 집단을 확인하지 못했다. 555일에 재발한 구순 점막 병변에 대해 제3차 BLM-ECT를 시행했고 해당 병변은 조직학적으로 T세포 림프종으로 재확인되었다. 최종 평가(608일)에서 육안적 구강 병변은 관찰되지 않았고 전신적 전이의 임상적 증거는 없었으며, 저자들은 BLM-ECT가 선택된 구강 ETCL 증례에서 반복 가능한 국소 치료 옵션이 될 수 있으나 본 연구는 단일 증례이며 림프절 괴사의 원인과 ECT 관련 병리·면역학적 변화를 규명하기 위한 추가 연구가 필요하다고 결론지었다.",
+      "title": "Bleomycin-based electrochemotherapy for recurrent oral CD8-positive epitheliotropic T-cell lymphoma in a dog with durable local control and necrotic regional lymph node changes: a case report.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-10-14T00:19:38.175Z",
+      "model": "gpt-5-mini"
+    },
+    "42866536": {
+      "brief_summary": "이 문서는 ‘통계형상모델링(statistical shape modeling, SSM)을 이용한 개의 대퇴골·경골·슬개골의 기하학적 형태’ 원논문에 대한 정정 알림이다. 초록은 원논문 DOI: 10.3389/fvets.2024.1366827의 정정을 알리며, 별도의 새로운 연구 결과나 데이터를 제시하지 않는다. 임상적으로는 원논문의 내용이나 수치·해석을 적용하기 전에 정정사항을 확인해야 함을 알린다.",
+      "detailed_summary": "본 게시물은 앞서 출간된 연구(대상: 개의 대퇴골·경골·슬개골의 통계형상모델링)에 대한 정정(correction) 공지이다. 초록에는 정정 대상 논문의 DOI(10.3389/fvets.2024.1366827)만 명시되어 있으며, 원문에서 무엇이 어떻게 정정되었는지에 대한 구체적 내용은 제공되지 않는다. 따라서 본 정정문 자체에는 연구 설계, 표본수, 주요 평가 항목, 혹은 수치적 결과가 포함되어 있지 않다. 임상가는 원논문과 정정된 버전을 함께 확인하여 데이터나 해석의 변경 여부를 확인해야 한다. 이 정정문은 원저작의 오류·표기오류·데이터 관련 수정 등 여러 가능성을 포함할 수 있으나, 초록만으로는 정정의 성격과 영향도를 판단할 수 없다.",
+      "title": "Correction: Statistical shape modeling of the geometric morphology of the canine femur, tibia, and patella.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-10-14T00:19:27.865Z",
+      "model": "gpt-5-mini"
+    },
+    "42866543": {
+      "brief_summary": "13세 중성화 수컷 치와와(전립선암)를 대상으로 전립선 동맥 색전술(PAE) 시행 후 약 900일간 CT, 초음파(US) 및 흉부 방사선으로 장기 추적한 증례보고이다. PAE 후 임상 증상은 잘 조절되었고 개는 Day 918까지 생존했으며, 전립선 실질 용적은 약 33% 감소하고 Day 481까지 안정적으로 유지되었다. CT와 US에서 시간 경과에 따른 허혈성·공동화(cavitary) 및 만성 재형성 소견이 관찰되었고, 심각한 색전술 관련 합병증은 보고되지 않았다; 이는 PAE가 최소침습적 치료 옵션으로서 실무에서 활용 가능성을 시사한다는 임상적 의미가 있다.",
+      "detailed_summary": "단일 증례의 증례보고로, 13세 중성화 수컷 치와와에서 전립선암에 대해 전립선 동맥 색전술(전신 Day 0)을 시행하고 약 900일(최종 생존 Day 918) 동안 컴퓨터단층촬영(CT), 초음파(US) 및 흉부 방사선으로 전립선·방광·폐를 추적 관찰했다. 주요 영상 소견으로 CT에서는 Day 33에 저음영 병변이 관찰되었고 Day 173에는 가스 축적을 동반하여 병변이 확대되었으며, US에서는 Day 271에 저에코 병변이 보이다가 Day 678에는 산재한 고에코 소견으로 변화했다. 전립선 실질 부피는 색전술 후 약 33% 감소하였고 이 감소는 Day 481까지 안정적으로 유지되었다. 임상적으로는 증상이 잘 조절되었고 보고 기간 동안 심각한 PAE 관련 합병증은 관찰되지 않았다. 저자들은 이러한 영상 소견이 색전술로 인한 지속적 허혈, 공동화 및 만성 재형성 변화를 반영하며 이것이 국소적 장기 조절에 기여했을 가능성이 있다고 해석했다. 본 논문은 개에서 PAE 시행 후 보고된 가장 긴 시간 경과의 영상 추적에 해당한다고 기술한다. 단, 단일 증례 보고이므로 결과를 일반화할 수 없다는 점이 중요한 제한점이다.",
+      "title": "Long-term CT and US imaging of canine prostatic carcinoma after prostatic artery embolization: a 900-day follow-up case report.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-10-14T00:19:20.238Z",
+      "model": "gpt-5-mini"
+    },
+    "42866544": {
+      "brief_summary": "호주 와규 수소의 성별선별 동결 정액에 퀘르세틴을 다양한 농도(0, 10, 50, 100, 150, 200 μM)로 처리하여 해동 후 정자 품질과 대사 특성을 평가했다. 50 μM 처리군에서 생존력과 운동성(직선속도 VSL, 곡선속도 VCL, 평균경로속도 VAP)이 개선되고 활성산소(ROS)가 감소하며 항산화 효소(SOD, CAT, GSH-Px) 활성이 증가했으나 ≥150 μM의 고농도에서는 정자 운동성과 일부 기능 지표가 악화되었다. 비표적 메타볼로믹스에서 131개 대사물질이 상향, 395개가 하향 조절되었고 글리세로인지질 및 아라키돈산 대사 등 지질 관련 경로가 주로 관여하여 적절한 퀘르세틴 농도가 동결보호제 조성 최적화에 도움이 될 수 있음을 시사한다.",
+      "detailed_summary": "연구는 호주 와규 수소의 성별선별 동결 정액을 0, 10, 50, 100, 150, 200 μM의 퀘르세틴(Quercetin) 처리군으로 나누어 해동 후 평가를 수행했다. 평가 항목은 정자 운동성 지표, 원형질막 무결성, 아크로좀 무결성, 미토콘드리아 막전위, DNA 무결성, 활성산소(ROS) 수준 및 항산화 관련 지표였다. 50 μM 처리군은 정자 생존률과 총·직선 운동성 등 운동성 지표(VSL, VCL, VAP)가 개선되었고 ROS가 감소하며 초과산화물디스뮤타아제(SOD), 카탈라아제(CAT), 글루타티온 과산화효소(GSH-Px) 활동이 증가했다. 반면 고농도(≥150 μM)에서는 정자 운동성과 일부 기능 지표에 부정적 영향을 미쳤다. 비표적 메타볼로믹스 비교(50 μM 대조군 대비)에서는 131개 대사물질이 상향, 395개가 하향 조절되었고 KEGG 풍부도 분석에서 글리세로인지질 대사 및 아라키돈산 대사와 같은 지질 관련 경로가 주요하게 관여하는 것으로 나타났다. 저자들은 적절한 농도의 퀘르세틴이 산화스트레스를 완화하고 지질대사를 조절함으로써 성별선별 동결 정액의 해동 후 품질 개선에 기여할 수 있으며, 이는 동결보호제 조성 최적화를 위한 실험적·메타볼로믹 근거를 제공한다고 결론지었다.",
+      "title": "Effects of quercetin supplementation on the quality and metabolomic characteristics of sex-sorted frozen semen from Australian Wagyu bulls.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-10-14T00:19:09.355Z",
       "model": "gpt-5-mini"
     }
   }
