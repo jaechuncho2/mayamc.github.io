@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T23:57:22.280Z",
+  "updated_at": "2026-10-15T23:44:21.988Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -6823,6 +6823,78 @@
       "title": "Prevalence of antibiotic use in dogs and cats in US and Canadian veterinary teaching hospitals, 2022.",
       "journal": "Journal of Veterinary Internal Medicine",
       "generated_at": "2026-10-14T23:56:09.553Z",
+      "model": "gpt-5-mini"
+    },
+    "42874658": {
+      "brief_summary": "미국에서 제출된 개 혈청을 대상으로 SNAP 4Dx Plus(POC)와 실리콘 표면 다중면역검사(Accuplex, SSMIA)를 간접형광항체법(IFA; REFERENCE)과 비교해 Anaplasma spp 및 Ehrlichia spp 항체 검출 성능을 평가했다. Anaplasma spp 검출에서는 두 검사법 간 유의한 차이가 없었고(n = 310), Ehrlichia spp 검출에서는 SSMIA가 POC보다 유의하게 민감도가 높았다(n = 309). 추가로 2,031개의 혈청을 SSMIA로 검사한 결과 SSMIA의 양성률이 CAPC의 기간 유병률 보고치보다 대체로 높았다. 결론적으로 SSMIA(Accuplex)는 개의 진드기매개병원체 노출 선별에 대한 실무적이고 강건한 옵션임을 시사한다.",
+      "detailed_summary": "연구는 2023년 7월 1일부터 2024년 9월 30일까지 미국의 상업검사기관에 제출된 익명화된 보관·반출 혈청 샘플을 대상으로 진행되었으며, 검사결과는 간접형광항체법(IFA; 본 연구의 기준검사 REFERENCE)에 따라 각 항체의 진짜 양성/음성으로 분류되었다. SNAP 4Dx Plus(POC)와 SSMIA(Accuplex)에 대해 민감도, 특이도, Cohen의 카파(κ) 등 성능지표를 REFERENCE 기준으로 산출하였다. Anaplasma spp 항체 검출(샘플 수 n = 310)에서는 POC와 SSMIA 간 통계적으로 유의한 차이가 없었다. Ehrlichia spp 항체 검출(샘플 수 n = 309)에서는 SSMIA가 POC보다 유의하게 민감도가 높게 나타났다. 별도로 2024년 7월에 코네티컷, 매사추세츠, 뉴저지, 뉴욕, 펜실베이니아에서 채취된 혈청을 SSMIA로 검사했고, 또한 추가 2,031개 샘플에 대해 SSMIA 단독 검사를 수행했으며 이들에서의 양성률은 CAPC의 기간 유병률 보고보다 전반적으로 높았다. 저자들은 이러한 결과가 SSMIA를 일상적인 진드기매개 병원체 노출 선별에 대한 강건한 선택지로 뒷받침한다고 결론지었다. 초록에는 개별 민감도·특이도 값, 카파 수치 등 구체적 수치나 교차반응·임상적 결과에 대한 추가 정보는 제시되어 있지 않다.",
+      "title": "Silicon surface multiplex immunoassay (Accuplex) for antibodies against Anaplasma spp and Ehrlichia spp is a robust option for tick-borne pathogen screening in dogs.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-10-15T23:44:21.978Z",
+      "model": "gpt-5-mini"
+    },
+    "42874659": {
+      "brief_summary": "본 횡단면 연구는 2020년 1월부터 2021년 1월까지 오하이오 보호소에 입소한 개들을 대상으로 진드기와 진드기매개 병원체(TBPs)에 대한 노출을 규명하는 것을 목적으로 했다. 총 273마리 중 22%에서 4종의 진드기(그중 Haemaphysalis longicornis 포함)가 검출되었고, 43.9%가 ≥1종의 TBP에 대해 혈청양성으로 확인되었으며 24%는 다중 감염 양상이었다. 보르렐리아(Borrelia burgdorferi) 혈청양성률이 33.5%로 가장 높았고 Ehrlichia spp.는 24.4%, Rickettsia spp.는 19.8%였다. 임상증상은 드물었고(PCR 양성인 개도 소수), 입소 시 진드기 존재 여부는 검사 우선순위 결정에 도움이 될 수 있다는 임상적 시사점을 제공한다.",
+      "detailed_summary": "이 연구는 오하이오의 한 보호소에 입소한 개 273마리를 대상으로 2020년 1월~2021년 1월에 수행된 횡단면 조사이다. 입소 시 채취한 혈액과 부착 진드기를 쌍으로 수집하여 진드기는 동정 후 PCR로 병원체 검사를, 개는 혈청학적 검사와 PCR를 시행하였다. 전체의 22%에서 4종의 진드기가 확인되었고 그 중 Haemaphysalis longicornis가 포함되었다. 혈청검사 결과 43.9%가 하나 이상의 TBP에 노출된 것으로 나타났고 24%는 다중 TBP 혈청양성이었다; 보르렐리아(B. burgdorferi) 33.5%, Ehrlichia spp. 24.4%, Rickettsia spp. 19.8%였다. 반면 혈액 PCR에서는 양성 비율이 낮았고 임상 증상 출현도 드물어(3.7%) 현재 감염보다는 과거 노출의 흔함을 시사한다. 로지스틱 회귀분석에서 진드기 존재와 일부 숙주 요인이 혈청양성 위험 증가와 연관되어 있었다. 연구진은 개와 부착 진드기를 함께 검사하는 쌍검사가 수의학 및 공중보건 감시 측면에서 통합적 정보를 제공한다고 결론지었으며, Rickettsia 혈청양성은 혈청학적 교차반응으로 인해 종 수준 해석에 주의가 필요하다고 지적했다.",
+      "title": "Shelter dogs harbor diverse tick species and demonstrate high exposure to tick-borne pathogens in a zone of tick range expansion.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-10-15T23:44:05.279Z",
+      "model": "gpt-5-mini"
+    },
+    "42874667": {
+      "brief_summary": "개 혈청에서 Vcheck cardiac troponin I(VC-cTnI) 현장 검사에 대한 부분적 검증과 기존 화학발광 검사(ADVIA Centaur XP High-Sensitivity Troponin I, AC-cTnI-HS)와의 방법비교를 수행했다. 121개의 개 혈청 샘플(2024-09-04~2025-08-21)에서 VC-cTnI의 일내 변이계수(CV)는 8.1%~43.8%로 농도가 높을수록 정밀도가 향상되었고, Spearman 상관계수는 0.742였다. VC-cTnI는 0.2 ng/mL 미만 농도에서 정밀도가 떨어졌고 16/121(13.2%) 샘플은 검출 한계 이하였으나, 고농도에서는 임상적으로 중요한 심근 손상을 검출할 수 있었다. 황달, 용혈, 지질혈증에 의한 간섭은 관찰되지 않아 고농도 측정에서는 임상적 활용 가능성이 있다.",
+      "detailed_summary": "연구는 진단검사실에서 남은 개 혈청을 이용해 VC-cTnI 검사의 부분적 검증과 AC-cTnI-HS와의 방법비교를 수행한 전향적 분석이다(샘플 수 121, 수집기간 2024-09-04~2025-08-21). 평가 항목으로 일내 변이, 희석 평행성(dilutional parallelism), 스파이크 회수(spiking recovery), 그리고 황달·용혈·지질혈증의 간섭 효과를 분석했고, VC-cTnI와 AC-cTnI-HS 간의 상관성을 비교했다. VC-cTnI의 일내 CV는 8.1%에서 43.8%로 농도가 증가할수록 CV가 감소하여 고농도에서 정밀도가 좋았다. 희석 평행성의 관찰대비기대 비율은 평균 80.5 ± 33.2% (범위 21.1%–122.2%), 스파이크 회수는 평균 112.8 ± 35.6% (범위 46.0%–173.9%)였다. 황달, 용혈, 지질혈증에 따른 간섭은 관찰되지 않았고, 두 검사 간 상관관계는 Spearman ρ = 0.742였다. 121개 중 16개(13.2%) 샘플은 VC-cTnI의 검출한계 이하였고, 검사의 결론은 VC-cTnI가 0.2 ng/mL 미만에서는 정밀도가 부족하지만 더 높은 농도에서는 임상적으로 중요한 심근 손상을 검출할 수 있다는 것이며, 정상 또는 경계 범위에서는 해석이 어려울 수 있다는 중요한 제한점이 있다.",
+      "title": "Point-of-care troponin I assay has acceptable performance detecting clinically important canine myocardial injury but reduced precision at low concentrations.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-10-15T23:43:32.442Z",
+      "model": "gpt-5-mini"
+    },
+    "42874668": {
+      "brief_summary": "미국 가정용 고양이 12,000건의 잔여 혈액 표본을 대상으로 ABCB1(이전 명칭 MDR1) c.1930_1931delTC 2-bp 결실 변이의 유병률을 조사한 횡단적 연구이다. 결과는 대다수(>98%)가 야생형이고 1.5%(181마리)가 이형접합, 0.025%(3마리)가 동형접합으로 동형접합은 드물었으며 대립유전자 빈도는 0.8%였다. 임상적 의미로는 동형접합 변이의 낮은 유병률이 cyclosporine, loperamide, emodepside 및 ivermectin·eprinomectin·selamectin·milbemycin oxime·moxidectin 등 P‑glycoprotein(P‑gp) 기질 약물 처방 시 큰 우려를 줄여주나, 개별 고양이에 대한 우려가 있다면 ABCB1 유전자형 검사를 고려할 수 있다.",
+      "detailed_summary": "이 연구는 횡단적 역학 연구로 2025년 3월부터 10월까지 Idexx Laboratories에 제출된 미국 가정용 고양이의 편의적으로 확보된 비편향성 잔여 전혈 표본 12,000건을 대상으로 수행되었다. 목적은 P‑glycoprotein(P‑gp) 기질 약물에 대한 감수성과 관련된 ABCB1(이전 명칭 MDR1) c.1930_1931delTC 2-bp 결실 변이의 유병률을 산정하는 것이었다. 변이 검출은 야생형, 이형접합, 동형접합의 세 유전형을 판별하는 검증된 이중 프로브 실시간 PCR 검사로 수행되었다. 주요 결과는 야생형이 >98%였고 1.5%(181마리)는 이형접합, 0.025%(3마리)는 동형접합으로 확인되었으며 대립유전자 빈도는 0.8%였다. 결론적으로 동형접합 변이는 드물어 cyclosporine, loperamide, emodepside 및 ivermectin, eprinomectin, selamectin, milbemycin oxime, moxidectin 등과 같은 P‑gp 기질 약물의 처방에 대한 임상적 우려를 완화할 수 있음을 시사한다. 다만 본 연구는 해당 c.1930_1931delTC 변이에 대한 유병률만 보고하였으며, 초록에서 제시한 바와 같이 다른 알려진 ABCB1/MDR1 다형성에 대한 추가 연구가 필요하다고 저자들이 명시하고 있다.",
+      "title": "The prevalence of MDR1/ABCB1 c.1930_1931delTC variant is rare in US domestic cats.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-10-15T23:43:49.080Z",
+      "model": "gpt-5-mini"
+    },
+    "42876319": {
+      "brief_summary": "고양이 유선암(feline mammary carcinoma, FMC)을 대상으로 64CuCl2 PET/CT의 실현 가능성과 임상적 유용성을 평가한 탐색적 연구이다. 총 8마리(종양 보유 7마리, 정상 대조 1마리)에 정맥 주사 후 전신 PET/CT를 실시했고, 모든 원발 종괴에서 64Cu 집적이 관찰되어 종양-근육 비가 일관되게 높아 병변이 뚜렷하게 보였다. 간·담낭에서의 높은 생리적 집적과 골격근의 낮은 집적이 확인되어 골격근이 기준 조직으로 유용했으며, 영상은 신체검사만으로 확인하기 어려운 국소 침윤 및 전이 평가에 추가 정보를 제공했다. 세룰로플라스민 농도는 넓게 분포했으며 종양의 방사성 집적과는 상관관계가 없었다.",
+      "detailed_summary": "탐색적 설계로 64CuCl2 정맥 주사 후 전신 PET/CT를 이용해 자연 발생 FMC의 영상화를 평가했다. 대상은 총 8마리(종양 보유 7마리, 건강 대조 1마리)였으며 반정량적 분석으로 표준화 섭취값(SUV)과 종양-근육 비를 산출했다. 결과적으로 모든 원발 종괴가 64Cu에 집적(64Cu-avid)되어 병변 대비 근육의 SUV 비율이 일관되게 높았고, 이로 인해 신생물과 정상 조직을 구분할 수 있었다. 영상에서 간과 담낭의 생리적 집적이 높았고 골격근은 낮아 골격근이 신뢰할 수 있는 기준 조직으로 사용되었다. 영상은 신체검사로 완전히 드러나지 않았던 국소 침윤 및 전이 정보를 추가로 제공했다. 혈청 세룰로플라스민 농도를 측정했으나 값이 넓게 분포했고 종양의 64Cu 집적과의 상관관계는 관찰되지 않았다. 중요한 제한점으로 이 연구는 탐색적이며 모든 영상 소견이 세포학적·조직학적 검사로 확인되지 않았으므로 결과의 일반화 및 진단적 민감도·특이도 등은 추가 연구가 필요하다.",
+      "title": "A New Application of 64 CuCl 2 PET/CT: Imaging of Cats With Mammary Carcinoma.",
+      "journal": "Veterinary and Comparative Oncology",
+      "generated_at": "2026-10-15T23:43:18.637Z",
+      "model": "gpt-5-mini"
+    },
+    "42876514": {
+      "brief_summary": "9세 중성화 수컷 치와와에서 IVb기 다중중심 확산성 대형 B세포 림프종(DLBCL)으로 진단되어 UW-25 L-CHOP 프로토콜로 완전 관해를 얻었으나 관해 중 상순 종괴가 발생하였다. 전기화학요법(electrochemotherapy)으로 국소 병변이 현저히 축소되었으나 이후 말초 림프절병증과 진행성 다발성 피부 병변이 재발하였고, 다양한 화학요법에도 불구하고 증상 악화로 59주에 안락사되었다. 조직병리에서는 하악부 림프절에서 DLBCL이 확인되었고, 피부 병변은 표피침윤성(epitheliotropism)을 모방하는 림프구성 침윤을 보였으나 면역조직화학( IHC)에서 두 부위 모두 CD20이 광범위하게 발현되고 CD3는 배경 림프구에만 제한되어 이차적 피부 침범을 시사하였다. 이 증례는 피부 병변의 비전형적 표피침윤 양상에서 정확한 면역표현형 판별을 위해 IHC가 중요함을 강조한다.",
+      "detailed_summary": "증례보고로 9세 중성화 수컷 치와와가 IVb기 다중중심 림프종으로 진단되었고 UW-25 L-CHOP 프로토콜로 완전 관해에 도달하였다. 관해 중 상순에 림프종으로 일치하는 세포학적 소견의 종괴가 발생하였고, 이를 국소 조절 위해 전기화학요법(electrochemotherapy)을 시행하여 병변이 현저히 축소되었다. 이후 다양한 화학요법에도 불구하고 말초 림프절병증이 재발하고 다발성 진행성 피부 종괴가 발생하였으며 임상적 악화로 59주차에 안락사되었다. 부검 및 조직병리에서 하악부 림프절은 확산성 대형 세포림프종(DLBCL)이었고 피부 병변은 다초점적 표피 침윤을 동반한 종양성 림프구 침윤을 보였다. 면역조직화학(IHC) 결과 두 부위 모두에서 CD20이 넓게 발현되었고 CD3 표지는 산재한 배경 림프구에만 한정되어, 피부 병변은 전형적인 T세포성 피부 림프종이 아닌 DLBCL의 이차적 피부 침범으로 해석되었다. 저자들은 이례적인 표피침윤 양상을 보인 DLBCL 사례로서 피부 병변의 면역표현형을 확인하기 위해 IHC 검사가 필수적임을 강조하였다. 본 연구는 단일 증례보고이며 결과를 일반화할 수 없다는 제한점이 있다.",
+      "title": "Case Report: Epitheliotropic cutaneous presentation of multicentric diffuse large B-cell lymphoma in a dog.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-10-15T23:43:02.135Z",
+      "model": "gpt-5-mini"
+    },
+    "42877635": {
+      "brief_summary": "17마리의 임상 반려견을 대상으로 한 파일럿 오픈라벨 연구에서 Hepatiale Forte Advanced(Vet Expert) 복합 간보호제를 8주간 투여한 결과 ALT, AST, ALP, 총빌리루빈 및 혈청 담즙산이 통계적으로 유의하게 감소했고(GGT는 감소 경향, p=0.052), 혈액학적 이상이나 이상반응은 보고되지 않았다. 초음파 소견도 대체로 안정적이거나 일부에서 담즙 슬러지가 소실되는 등 호전 소견을 보였다. 이 결과는 무증상 간수치 상승이 있는 개에서 추가적인 무작위·위약대조 연구의 근거를 제공한다는 임상적 의미가 있다.",
+      "detailed_summary": "본 연구는 고객 소유의 개 17마리를 대상으로 한 오픈라벨 파일럿 연구로, Hepatiale Forte Advanced(지질인지질·선택적 아미노산·베타인·밀크씨슬 추출물 포함)를 제조사 권장 용량으로 8주간 투여하였다. 평가항목은 간효소(ALT, AST, ALP, GGT), 총빌리루빈, 혈청 담즙산, 혈액학적 지표 및 복부 초음파였으며 기저값과 8주 후를 비교하였다. 투여 8주 후 ALT(p=0.004), AST(p=0.004), ALP(p=0.001), 총빌리루빈(p=0.001) 및 혈청 담즙산(p=0.007)이 통계적으로 유의하게 감소하였고 GGT는 감소 경향을 보였다(p=0.052). 혈액학적 지표는 안정적으로 유지되었고 이상반응은 보고되지 않아 제제는 양호하게 내약된 것으로 나타났다. 초음파상 소견도 대부분 안정적이거나 일부에서 담즙 슬러지 소실 등 호전이 관찰되었다. 다만 소규모의 오픈라벨 파일럿 연구로 대조군이 없다는 점을 한계로 명시하고 있으며, 저자들은 무작위·위약대조 연구가 필요하다고 결론지었다.",
+      "title": "Assessment of the hepatoprotective effect of a multi-component preparation containing phospholipids, selected amino acids, betaine, and milk thistle extract in dogs with asymptomatic elevation of liver parameters: a pilot study.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-10-15T23:42:44.996Z",
+      "model": "gpt-5-mini"
+    },
+    "42877642": {
+      "brief_summary": "무작위 배정된 54마리의 난소자궁절제술(ovariohysterectomy) 고양이를 대상으로, 출근 전 경구로 pregabalin(PGB) 5 mg/kg을 투여했을 때의 진정 및 통증 영향성을 평가했다. PGB군은 진정 점수가 유의하게 증가(증가치 2.46, 95% CI 1.69–3.23, p<0.001)했고, 즉시 회복기 통증 지표(Glasgow Feline Composite Measure Pain Scale short-form 및 Feline Grimace Scale) 점수는 모든 시점에서 유의하게 낮았다(차이 -2.15, 95% CI -2.92–-1.39, p<0.001). 활력 징후 등 생리학적 변수에는 유의한 차이가 관찰되지 않아, 사전 경구 PGB가 고양이 마취 진정 보조제로서 회복기 불편감 완화에 도움이 되는 것으로 보고되었다.",
+      "detailed_summary": "연구는 난소자궁절제술을 받는 고양이 54마리를 무작위로 PGB군(경구 pregabalin 5 mg/kg, 입원 90분 전)과 대조군(빈 캡슐)으로 배정한 무작위 비교임상시험이다. 모든 대상은 메타돈(methadone) 0.2 mg/kg IM 및 알팩살론(alfaxalone) 1 mg/kg IM으로 전처치했고, 프로포폴(propofol) 2 mg/kg로 유도 후 아이소플루란(isoflurane)으로 마취를 유지했다. 진정 평가는 Feline Multiparametric Sedation Scale 및 Simple Qualitative Scale로 시행되었고, 회복기 통증 평가는 Glasgow Feline Composite Measure Pain Scale short-form 및 Feline Grimace Scale을 발관 0, 15, 30, 60분에 측정했다. 통계는 생리학적 데이터에 대해 Two-way ANOVA, 진정 및 통증 점수에는 Wilcoxon–Mann–Whitney 검정을 사용했다. 결과는 PGB 투여군에서 진정 점수가 유의하게 증가했고(증가치 2.46, 95% CI 1.69–3.23; p<0.001), 회복기 통증/그림자 점수는 모든 평가 시점에서 유의하게 낮았다(차이 -2.15, 95% CI -2.92–-1.39; p<0.001). 심박수, 호흡수, SpO2, EtCO2, 혈압, 체온 등 모니터링된 생리학적 변수에서는 유의한 차이가 관찰되지 않았다. 초록에는 별도의 제한점 기술이 없어 추가적인 한계(예: 장기 통증 평가, 다른 용량 비교 등)에 대한 언급은 제공되지 않았다.",
+      "title": "Effects of pregabalin added to a multimodal anesthetic protocol in cats undergoing ovariohysterectomy.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-10-15T23:42:34.926Z",
+      "model": "gpt-5-mini"
+    },
+    "42877668": {
+      "brief_summary": "1세 수컷 캐벌리어 킹 찰스 스패니얼(CKCS)이 척추 과민증, 운동기피 및 phantom scratching으로 내원하였고, MRI에서 브라키세팔리·소뇌 탈출을 동반한 Chiari-like malformation(CM), 측뇌실 확장(ventriculomegaly) 및 치아돌기부터 L5까지 이어진 척수공동증(syringomyelia)이 확인되었다. 멜록시캄과 가바펜틴으로도 증상이 호전되지 않아 측뇌실이 크게 확대된 점과 시링스 진행 우려로 뇌실복막 단락술(ventriculoperitoneal shunt, VPS)을 시행하였다. 수술 후 일시적 공기뇌증(pneumocephalus)을 제외하고는 성공적이었고 임상적으로 유의한 호전과 함께 추적 MRI에서 시링스가 축소(최대 폭 7.0 mm → 6개월 후 2.3 mm)되고 측뇌실이 소실되었다. 본 보고는 단일 증례이며 일반화할 수 없다.",
+      "detailed_summary": "증례보고로 1세 수컷 캐벌리어 킹 찰스 스패니얼(CKCS)이 척추 과민증, 운동기피, phantom scratching으로 내원하였다. 초기 MRI에서 브라키세팔리, 소뇌 탈출을 동반한 Chiari-like malformation(CM), 측뇌실 확장 및 치아돌기(odontoid peg)부터 L5까지 이어진 광범위한 척수공동증이 관찰되었고 C2–C3에서 최대 횡단 시링스 폭은 7.0 mm였다. 멜록시캄(meloxicam)과 가바펜틴(gabapentin)에 의한 보존적 치료로는 증상 호전이 없었다. 측뇌실이 상당히 확대되어 있고 시링스 진행 우려가 있어 뇌실복막 단락술(ventriculoperitoneal shunt, VPS)을 시행하였다. 수술 직후 일시적인 공기뇌증이 관찰되었으나 그 외 합병증 없이 경과는 양호하였다. 시술 후 환자는 임상적으로 큰 호전을 보였고, 추적 MRI에서는 측뇌실이 소실되었고 시링스는 6개월 시점에 2.3 mm로 감소하였다. 8개월째에 일시적 의심되는 운동장애 유사 에피소드가 있었으나 완전 회복하였으며, 저자들은 VPS 시행이 이 증례에서 임상 및 영상학적 개선과 연관되었다고 보고하였으나 단일 증례라는 점이 중요한 제한점이다.",
+      "title": "Case Report: Ventriculoperitoneal shunt for management of syringomyelia and Chiari-like malformation in a Cavalier King Charles Spaniel.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-10-15T23:42:24.612Z",
       "model": "gpt-5-mini"
     }
   }
