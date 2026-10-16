@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T23:44:21.988Z",
+  "updated_at": "2026-10-16T23:37:49.437Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -6895,6 +6895,30 @@
       "title": "Case Report: Ventriculoperitoneal shunt for management of syringomyelia and Chiari-like malformation in a Cavalier King Charles Spaniel.",
       "journal": "Frontiers in Veterinary Science",
       "generated_at": "2026-10-15T23:42:24.612Z",
+      "model": "gpt-5-mini"
+    },
+    "42880347": {
+      "brief_summary": "후향 매치 코호트 연구로 근육주사(IM) 예방마취제로 medetomidine-vatinoxan(상품명 Zenalpha, ZEN)과 dexmedetomidine(DEX)을 흡입 마취 첫 1시간 동안 비교했다. ZEN군(24마리, 중앙값 10 μg/kg, 범위 5–26 μg/kg)은 DEX군(48마리, 중앙값 5 μg/kg, 범위 3–10 μg/kg)과 비교해 심박수는 약 18 bpm 높았으나 평균동맥압(MAP)은 약 19 mmHg 낮았고, IV 수액 볼루스와 혈관수축제 투여의 오즈비가 각각 9.3배, 6.8배 높았다. 임상적으로 ZEN 사용 시 흡입 마취 중 저혈압 발생과 그에 따른 혈역학적 개입 준비가 필요함을 시사한다.",
+      "detailed_summary": "연구는 2022년 8월–2025년 1월에 ZEN으로 전처치된 개 24마리와 2021년 7월–2026년 5월에 DEX로 전처치된 개 48마리를 후향적으로 매칭한 코호트 연구이다. 매칭은 α2-아드레날린성 수용체 작용제의 용량 등가성을 우선해 수행했으며, 분석에는 반복측정을 고려한 일반화 추정방정식 모델(GEE)을 사용했다. 평가 시점은 흡입(volatile) 마취의 첫 1시간이었고 주요 결과로 심박수(HR), 평균동맥압(MAP) 및 마취 중 시행된 정맥(IV) 치료를 비교했다. 주요 수치는 ZEN군에서 HR이 약 18 bpm 더 높고 MAP는 약 19 mmHg 더 낮았으며, IV 수액 볼루스를 받을 오즈비는 9.3배, 혈관수축제(vasopressor) 투여 오즈비는 6.8배 높았다. 밝힌 바에 따르면 가벼운 마취 깊이로 인한 IV 중재에는 그룹 간 차이가 검출되지 않았다. 초록에는 별도의 제한점이 구체적으로 기술되어 있지 않으며, 결론은 ZEN이 흡입 마취 중 저혈압과 더 빈번한 혈역학적 개입과 연관되어 있어 주의 깊은 혈역학 모니터링과 혈압 지지 대비가 필요하다는 점을 제시한다.",
+      "title": "Medetomidine-vatinoxan is associated with a higher proportion of hypotension than dexmedetomidine in anesthetized dogs: a retrospective, matched-cohort study.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-10-16T23:37:49.422Z",
+      "model": "gpt-5-mini"
+    },
+    "42881568": {
+      "brief_summary": "본 연구는 연부조직육종(soft tissue sarcoma, STS) 절제연에서 편광 민감 광학단층촬영(PS-OCT)이 스펙트럼 도메인 OCT(SD-OCT) 단독에 비해 조직 분류와 진단 정확도를 개선하는지 평가한 전향적 연구이다. PS-OCT는 골격근에서 교차하는 고·저 이중 굴절 양상, 근막에서는 가변적 굴절성, STS에서는 균일하게 낮은 이중 굴절을 보여 조직 대별 특징을 제공했다. 전체 관찰자군에서는 SD-OCT 단독의 정확도(93.7%, 95% CI 90.1–96.0)와 SD-OCT+PS-OCT(92.6%, 95% CI 89.3–95.4) 간 유의한 차이가 없었으나(p=0.82), 경험이 있는 검사자에게는 PS-OCT가 유의하게 도움이 되었다(p=0.0018).",
+      "detailed_summary": "전향적 연구로 PS-OCT 영상을 10개의 절제된 STS의 수술 절제연 조직병리와 비교해 정상 조직과 종양의 특징을 규명했고, 이후 6명의 관찰자가 30개의 절제된 STS 절제연 영상을 SD-OCT 단독과 SD-OCT+PS-OCT로 판독해 비교했다. PS-OCT에서는 골격근이 교번하는 고·저 이중 굴절(birefringence) 띠를 보였고, 근막(fascia)은 가변적 이중 굴절, 연부조직육종은 균일하게 낮은 이중 굴절을 보여 조직 구분에 활용될 수 있는 대조를 제공했다. 전체 관찰자를 대상으로 한 정확도는 SD-OCT 단독에서 정분류율 93.7% (95% CI 90.1–96.0), SD-OCT+PS-OCT에서 92.6% (95% CI 89.3–95.4)로 보고되었고 두 방법 간 전체 차이는 유의하지 않았다(p=0.82). 그러나 경험 있는 전문가 그룹에서는 PS-OCT 추가 시 진단 정확도가 유의하게 향상되었다(p=0.0018). 관찰자 간 및 동일 관찰자 내 일치도는 ‘실질적(substantial)’에서 ‘거의 완전(near perfect)’ 범위였다. 저자들은 PS-OCT가 짧은 교육 후에도 신뢰성 있게 해석될 수 있고 경험자에게 정확도 향상을 제공할 수 있음을 제시하며, 구조화된 교육과 실시간 적용 가능성에 대한 추가 연구가 필요하다고 결론지었다.",
+      "title": "Polarization Sensitive Optical Coherence Tomography for Surgical Margin Assessment for Canine Soft Tissue Sarcoma.",
+      "journal": "Veterinary and Comparative Oncology",
+      "generated_at": "2026-10-16T23:37:25.626Z",
+      "model": "gpt-5-mini"
+    },
+    "42885475": {
+      "brief_summary": "후향적 증례 시리즈로 2018–2024년 사이 HCA(hair cycle arrest, 일명 alopecia X)로 진단된 50마리(토이 푸들 19마리, 포메라니안 31마리)를 비교하였다. 토이 푸들은 포메라니안보다 발병 연령과 내원 연령이 유의하게 높았고(p=0.003, p=0.001), 포메라니안은 주로 단일 탈모 부위, 토이 푸들은 약 절반이 다발성 탈모를 보였다(p=0.032). 소양증과 표재성 화농성 피부염이 흔했고, 경피 수분 손실(TEWL) 증가와 각질층 수분도(SCH) 감소가 자주 관찰되어 피부 장벽 기능 손상이 시사되었다; 토이 푸들에서는 피부염이 있는 경우 TEWL이 더 높았다(p=0.025). 치료 결과는 다양한 치료에도 불구하고 70% 초과에서 부분 또는 완전 모발 재생을 보였다.",
+      "detailed_summary": "본 연구는 2018–2024년 진료기록을 후향적으로 검토한 증례 시리즈로 HCA로 진단된 50마리(토이 푸들 19마리, 포메라니안 31마리)를 포함하였다. 연구에서는 신상정보(발병 연령 및 진단 시 연령), 임상 양상, 피부 장벽 기능(경피 수분 손실[TEWL], 각질층 수분도[SCH]) 및 치료 결과를 분석하였다. 토이 푸들은 포메라니안보다 발병 연령과 첫 내원 시 연령이 유의하게 높았고(p=0.003, p=0.001), 양측 대칭성 탈모는 두 품종에서 유사했으나 포메라니안은 주로 단일 부위, 토이 푸들은 약 절반이 다발성 부위를 보였다(p=0.032). 소양증과 표재성 화농성 피부염이 양 품종에서 흔했고, TEWL 상승과 SCH 감소가 빈번하여 2차적인 피부 장벽 기능 손상이 시사되었다; 특히 토이 푸들에서는 피부염 유무에 따라 TEWL이 유의하게 차이났다(p=0.025). 치료 결과는 다양한 치료법에도 불구하고 70% 초과에서 부분 또는 완전 모발 재생을 보였으며, 저자들은 토이 푸들의 HCA가 포메라니안과 임상적으로 유사하여 품종 간 병태생리가 보존되어 있을 가능성을 제시했다. 본 연구는 후향적 증례군이라는 점에서 연구 대상에 한정된 관찰을 보고하므로 일반화에는 제한이 있다.",
+      "title": "Clinical Characteristics of Hair Cycle Arrest in Toy Poodles: A Retrospective Comparison With Pomeranians.",
+      "journal": "Veterinary Dermatology",
+      "generated_at": "2026-10-16T23:37:37.098Z",
       "model": "gpt-5-mini"
     }
   }

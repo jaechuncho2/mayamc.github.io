@@ -1,16 +1,41 @@
 {
-  "updated_at": "2026-10-15T23:42:06.802Z",
+  "updated_at": "2026-10-16T23:37:15.984Z",
   "papers": [
     {
       "pmid": "42870559",
       "title": "Reply to letter regarding \"ACVIM-endorsed statement: consensus statement and systematic review on guidelines for the diagnosis and treatment of chronic inflammatory enteropathy in dogs\".",
       "journal": "Journal of Veterinary Internal Medicine",
       "authors": "Heilmann RM, Jergens AE, Kathrani A, Allenspach K, Schmitz SS, Priestnall SL, Dandrieux JRS, O'Connor AM",
-      "date": "2026 10 15",
-      "dateObject": "2026 10 15",
+      "date": "2026 10 16",
+      "dateObject": "2026 10 16",
       "abstract": "",
       "categories": [
         "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42881568",
+      "title": "Polarization Sensitive Optical Coherence Tomography for Surgical Margin Assessment for Canine Soft Tissue Sarcoma.",
+      "journal": "Veterinary and Comparative Oncology",
+      "authors": "Patel N, Fontes G, Dornbusch J, Biggo M, Erickson A, Jurcak N, Mignucci JS, Shen YF, Weaver H, Jennings R, Selmic LE",
+      "date": "2026 10 16",
+      "dateObject": "2026 10 16",
+      "abstract": "Soft tissue sarcomas (STSs) and skeletal muscle both appear high scattering on spectral-domain optical coherence tomography (SD-OCT) imaging, which resulted in instances of misclassification by observers in prior soft tissue sarcoma margin assessment studies. Polarization-sensitive optical coherence tomography (PS-OCT) is an extension of OCT that provides additional information about tissue polarization contrast. In this prospective study we wanted to evaluate whether PS-OCT improves tissue differentiation and diagnostic accuracy compared to spectral-domain OCT (SD-OCT) alone. PS-OCT images from surgical margins of 10 resected STS were compared with histopathology to identify characteristic features of normal and neoplastic tissues. Then, six observers of varying OCT image interpretation experience assessed surgical margins from 30 resected STS using SD-OCT alone and SD-OCT combined with PS-OCT. PS-OCT images demonstrated distinct birefringence (optical patterns), corresponding to tissue organization: skeletal muscle exhibited alternating high and low birefringence bands, fascia showed variable birefringence and STS had uniformly low birefringence. Overall diagnostic accuracy was high for both modalities [correct classification rate: SD-OCT alone 93.7% (95% confidence interval (CI): 90.1, 96.0) vs. SD-OCT combined with PS-OCT 92.6% (95%&#x2009;=&#x2009;CI: 89.3, 95.4)]; adding PS-OCT did not significantly improve accuracy across all observers (p&#x2009;=&#x2009;0.82), though expert observers benefited significantly (p&#x2009;=&#x2009;0.0018). Interobserver and intraobserver agreement ranged from substantial to near perfect. These findings suggest PS-OCT can be interpreted reliably after brief training and may enhance accuracy for experienced users. Further research should explore structured training and real-time applications for comprehensive surgical margin evaluation.",
+      "categories": [
+        "oncology",
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42885475",
+      "title": "Clinical Characteristics of Hair Cycle Arrest in Toy Poodles: A Retrospective Comparison With Pomeranians.",
+      "journal": "Veterinary Dermatology",
+      "authors": "Ueyama A, Amatuji H, Iyori K, Hsiao YH",
+      "date": "2026 10 16",
+      "dateObject": "2026 10 16",
+      "abstract": "Hair cycle arrest (HCA), known as alopecia X, is an alopecia disorder most commonly reported in Nordic breeds-particularly Pomeranians. Toy poodles (TPs) also are frequently affected, yet their clinical characteristics have not been reviewed systematically. The aim of this retrospective case series was to compare the clinical characteristics of HCA in TPs and Pomeranians. Medical records of client-owned dogs diagnosed with HCA between 2018 and 2024 were reviewed. Signalment, including age of onset and age at diagnosis, clinical features, skin barrier function (transepidermal water loss [TEWL], stratum corneum hydration [SCH]) and treatment outcomes were analysed. Fifty dogs (19 TPs, 31 Pomeranians) met the inclusion criteria. TPs were significantly older than Pomeranians both at disease onset and at the first presentation (p&#x2009;=&#x2009;0.003 and p&#x2009;=&#x2009;0.001, respectively). Both breeds exhibited similar bilateral symmetrical alopecia presentations; however, Pomeranians mainly presented with a single alopecic site, while nearly half of the TPs had multiple affected sites (p&#x2009;=&#x2009;0.032). Pruritus and superficial pyoderma were common in both breeds. TEWL and SCH values frequently deviated from reference ranges (increased TEWL and decreased SCH), indicating impaired skin barrier function. TEWL was significantly higher in TPs with pyoderma than in those without (p&#x2009;=&#x2009;0.025). Regarding outcomes, >&#x2009;70% of patients showed partial or complete regrowth, despite various treatment regimens. HCA in TPs closely resembles that in Pomeranians, despite genetic divergence, suggesting a conserved pathogenesis across their breeds. Frequent pruritus and pyoderma, together with abnormal TEWL and SCH, indicate secondary skin barrier dysfunction. Clinical management should address both hair regrowth and restoration of skin barrier function.",
+      "categories": [
+        "dermatology"
       ]
     },
     {
@@ -23,6 +48,18 @@
       "abstract": "",
       "categories": [
         "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42880347",
+      "title": "Medetomidine-vatinoxan is associated with a higher proportion of hypotension than dexmedetomidine in anesthetized dogs: a retrospective, matched-cohort study.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Rouse S, Mu&#xf1;oz K, Lerche P, Ballash G, Midon M, Aarnes TK, Pereira CHR",
+      "date": "2026 10 15",
+      "dateObject": "2026 10 15",
+      "abstract": "To compare clinical parameters and medical interventions during the first hour of inhalant anesthesia in dogs administered medetomidine-vatinoxan (Zenalpha [ZEN]) versus dexmedetomidine (DEX) as IM preanesthetic agents. Medical records were searched to identify dogs premedicated with ZEN between August 2022 and January 2025. Dogs administered DEX between July 2021 and May 2026 were then identified and matched with &#x3b1;2-adrenergic receptor agonist dose equivalence prioritized. Generalized estimating equation models were constructed to assess associations between variables of interest and premedication type, while accounting for repeated measurements within paired matched sets. The ZEN group included 24 dogs (ZEN dose median, 10 &#x3bc;g/kg; range, 5 to 26 &#x3bc;g/kg), whereas the DEX group included 48 dogs (DEX dose median, 5 &#x3bc;g/kg; range, 3 to 10 &#x3bc;g/kg), with no differences between groups. Compared with DEX, premedication with ZEN was associated with an 18 beats/min higher heart rate, whereas mean arterial pressure was 19 mm Hg lower. Dogs receiving ZEN had 9.3-fold greater odds of receiving an IV fluid bolus and 6.8-fold greater odds of vasopressor administration. No differences were detectable between groups in IV interventions administered for a light plane of anesthesia. Findings indicated ZEN was associated with intraoperative hypotension in dogs during the first hour of volatile anesthesia, despite significantly higher heart rates. This effect translated into a significantly greater need for hemodynamic intervention. The effects of ZEN on arterial blood pressure warrant careful hemodynamic monitoring and preparedness to provide blood pressure support in dogs undergoing inhalant anesthesia.",
+      "categories": [
+        "cardiology"
       ]
     },
     {
@@ -1176,19 +1213,6 @@
       ]
     },
     {
-      "pmid": "42413557",
-      "title": "Stationary jump tests demonstrate potential as objective return-to-sport outcomes based on hind limb symmetry in healthy dogs.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Dequaine A, Gordon-Evans WJ",
-      "date": "2026 10 01",
-      "dateObject": "2026 10 01",
-      "abstract": "To improve testing methods to develop clinically applicable return-to-sport assessments in dogs by evaluating hind limb push-off symmetry while jumping onto a platform from a stationary position. The hypothesis was that normal dogs would demonstrate > 90% symmetry when performing the newly proposed jump tests. Jump tests included sit-to-withers-height jump, stand-to-head-height jump, and stand-to-withers-height jump with side rails. This was a prospective, methodological study in which orthopedically and neurologically normal dogs were asked to jump onto a platform, performing 5 valid trials of 3 separate jump tests within a 30-minute period of time. Peak vertical force of the hind limbs was measured and expressed as a percentage of symmetry for each trial. 20 dogs were included. The mean percentage of symmetry for each jump test variation was as follows: stand-to-head-height jump was 83.27% (SD, &#xb1; 5.20%), stand to withers with side rails was 73.49% (SD, &#xb1; 12.63%), and sit-to-withers-height box was 67.39% (SD, &#xb1; 20.96%). However, when selecting for each dog's best attempt, symmetry was 96.90% for stand to head height, 92.34% for side rails, and 94.39% for sit to withers height. Dogs were less than 90% symmetrical in the hind limbs when averaging 5 valid trials for each jump test. An unexpected finding was that when evaluating for each dog's best attempt, hind limb symmetry was above 90% for all modifications. The development of easy-to-perform, reliable, and repeatable return-to-sport assessment tests could provide objective data on canine recovery from orthopedic and neurologic injury.",
-      "categories": [
-        "surgery",
-        "neurology"
-      ]
-    },
-    {
       "pmid": "42816882",
       "title": "Brachyspira hyodysenteriae detected in a dog with acute haemorrhagic diarrhoea: a case report.",
       "journal": "BMC Veterinary Research",
@@ -2178,18 +2202,6 @@
       ]
     },
     {
-      "pmid": "42203258",
-      "title": "Efficacy of Oral Baicalin in Canine Atopic Dermatitis: A Randomised Placebo Controlled Trial.",
-      "journal": "Veterinary Dermatology",
-      "authors": "Qian XL, Lu J, Lu W, Xu WX, Jiang ZH",
-      "date": "2026 09 11",
-      "dateObject": "2026 09 11",
-      "abstract": "Baicalin has shown efficacy in various dermatitis models in animals. However, its therapeutic effects on naturally occurring canine atopic dermatitis (cAD) have not been evaluated. To evaluate the efficacy and safety of baicalin in dogs with cAD. 56 client-owned dogs were enrolled. All dogs were randomly divided to receive oral baicalin or placebo over a 90day period. All subjects had veterinary evaluations using the Canine Atopic Dermatitis Extent and Severity Index, 4th iteration (CADESI-04) during the trial and owners were requested to evaluate itching using the pruritus Visual Analog Scale (PVAS) and to complete a quality-of-life (QoL) questionnaire at Day (D)0 and D90. Additionally, the transepidermal water loss (TEWL), total serum IgE levels (IgE), complete blood count and serum biochemical results were measured at D0 and D90. The significant decreases in CADESI-04 (p&#x2009;<&#x2009;0.001), PVAS (p&#x2009;<&#x2009;0.001), TEWL (p&#x2009;=&#x2009;0.014), IgE (p&#x2009;<&#x2009;0.001) and QoL scores (p&#x2009;<&#x2009;0.001) were observed in the baicalin group D90 compared to baseline. When compared to placebo, the baicalin group had significantly lower scores in CADESI-4 and PVAS (p&#x2009;<&#x2009;0.001). A significantly higher proportion of subjects in the baicalin group showed a good-to-excellent treatment response (82.1%) compared to those in the placebo group (35.7%). The treatment was well tolerated. Baicalin had a significant benefit in alleviating pruritus and reducing clinical signs in dogs with mild-to-moderate cAD and was well tolerated.",
-      "categories": [
-        "dermatology"
-      ]
-    },
-    {
       "pmid": "42722447",
       "title": "Forensic LC-MS/MS Monitoring of Anticoagulant Rodenticide Poisoning in Cats Over a Half-Decade.",
       "journal": "Veterinary Medicine and Science",
@@ -2811,18 +2823,6 @@
       "abstract": "Rational, mechanism-based drug selection for canine diffuse large B-cell lymphoma (DLBCL) remains limited, despite extensive molecular work in human DLBCL. We asked whether human and canine DLBCL share a conserved transcriptional network that could anchor therapeutic hypotheses for dogs. Using public human and canine DLBCL transcriptomes, we derived a 409-gene cross-species module defined by concordant tumour-normal dysregulation and projected it onto pathway and protein-protein interaction (PPI) networks. The module was dominated by DNA replication, cell-cycle checkpoint and DNA damage-response programmes and contained a compact PPI core centred on TOP2A and PARP1. Querying the Connectivity Map/LINCS library with the human component of the module highlighted anthracycline-like topoisomerase II poisons (valrubicin, etoposide, amsacrine) and the PARP inhibitor rucaparib among the ~0.2% most negative connectivity scores, while directly targeting TOP2A and/or PARP1. A simple up-down module score strongly separated tumour from normal lymph nodes in both species and was associated with outcome: higher scores predicted longer progression-free survival in CHOP-treated dogs and better overall survival in an independent human cohort, with a similar but underpowered trend in TCGA-DLBC. Finally, extracellular-vesicle microRNA (EV-miRNA) profiling in human DLBCL showed that differentially expressed EV-miRNAs, including let-7 family members, miR-21-5p, miR-124-3p and miR-205-5p, converge on the same TOP2A/PARP1-centred core. These cross-species, multi-layer data support topoisomerase II poisons and PARP inhibition as coherent, network-anchored candidate therapies for canine DLBCL, with module scores and EV-miRNAs as candidate biomarkers.",
       "categories": [
         "internalMedicine",
-        "oncology"
-      ]
-    },
-    {
-      "pmid": "42129963",
-      "title": "Identification of Novel Therapeutic Agent Candidates Through High Throughput Screening With Chemical Library Based on Molecular Subclassification in Canine Histiocytic Sarcoma Cell Lines.",
-      "journal": "Veterinary and Comparative Oncology",
-      "authors": "Sakuma H, Tomiyasu H, Takamiya M, Goto-Koshino Y, Tsukamoto A, Bonkobara M, Okuda M",
-      "date": "2026 08 10",
-      "dateObject": "2026 08 10",
-      "abstract": "Effective chemotherapy for canine histiocytic sarcoma (CHS) has yet to be established. In our previous study, CHS cell lines were subclassified into two groups based on their gene expression profiles: Group A and Group B. This study aimed to identify novel therapeutic agents that are effective against each CHS subgroup, and we performed high throughput screening, which examined the effects of 1824 chemical compounds on the 10 CHS cell lines. Among the compounds examined, 73 compounds were identified as candidates to show antiproliferative effects in all CHS cell lines examined, and the median IC 50 values of 5-fluorouracil and sunitinib were 7.49&#x2009;&#x3bc;M and 608&#x2009;nM, respectively, across all CHS cell lines. While there was no compound that was specifically effective for Group B CHS cell lines, duvelisib was identified as a selective antitumor agent for CHS cell lines in Group A (median IC 50 &#x2009;=&#x2009;287&#x2009;nM), with minimal effects on the other group (median IC 50 &#x2009;>&#x2009;5&#x2009;&#x3bc;M) and normal peripheral blood mononuclear cells (IC 50 &#x2009;=&#x2009;7.46&#x2009;&#x3bc;M). The amount of phosphorylated Akt protein decreased following duvelisib treatment in all eight CHS cell lines in Group A, but not in cell lines in Group B. Furthermore, duvelisib induced cell cycle arrest and increased cell death in a subset of Group A cell lines. These findings demonstrated that duvelisib exerted antiproliferative effects through inhibition of the Akt pathway in a subset of CHS cell lines while causing minimal cytotoxicity to normal cells.",
-      "categories": [
         "oncology"
       ]
     },
