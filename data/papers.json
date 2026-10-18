@@ -1,6 +1,67 @@
 {
-  "updated_at": "2026-10-17T23:08:34.747Z",
+  "updated_at": "2026-10-18T23:14:32.224Z",
   "papers": [
+    {
+      "pmid": "42892694",
+      "title": "Spontaneous tumors in dogs and cats in Algeria: a dual-source descriptive study of practitioner-reported patterns and histopathology-submitted cases.",
+      "journal": "BMC Veterinary Research",
+      "authors": "Bouchoukh AS, Boukhechem S, Bougherara H, Chaabi AZ",
+      "date": "2026 10 18",
+      "dateObject": "2026 10 18",
+      "abstract": "Algeria has no documented national companion-animal cancer registry, and limited information is available on tumors encountered in veterinary practice or reaching histopathological confirmation. This dual-source descriptive study combined two independently analyzed components: a histopathology-based descriptive case series of diagnostic tumor submissions from dogs and cats, and a cross-sectional questionnaire survey of veterinarians practicing in Algeria. The first component characterized tumors reaching histopathological confirmation, whereas the second examined practitioner-reported tumor patterns, perceived diagnostic-resource availability, and self-reported preparedness. The histopathology-based case series comprised 86 tumor submissions from 81 animals accrued between March 2022 and March 2025. Mammary tumors were the largest category (43/86; 50.0%), followed by cutaneous/subcutaneous tumors (20/86; 23.3%); 80 tumors (93.0%) were classified as malignant. Among 162 questionnaire responses collected between October 2024 and May 2025, 111 respondents selected \"dogs and cats\" as their main animal group. Mammary tumors were reported by 109 respondents (98.2%), cutaneous/subcutaneous tumors by 79 (71.2%), and canine transmissible venereal tumor (CTVT) by 54 (48.6%); multiple categories could be reported. The most frequent self-reported preparedness rating was \"Moderately prepared\" (52/111; 46.8%), while 99 of 110 respondents with valid data (90.0%) rated diagnostic resources as either \"Insufficient\" or \"Not at all satisfactory.\" Mammary and cutaneous/subcutaneous tumors ranked first and second in both sources, whereas the rankings of the remaining categories differed. Because the sources represented different populations, analytical units, denominators, and diagnostic pathways, the comparison was restricted to an exploratory descriptive assessment and was not interpreted as evidence of differences in population-level tumor occurrence. This study provides an initial structured account of companion-animal tumor documentation in Algeria. The partial agreement between the two sources, together with unfavorable diagnostic-availability ratings, suggests potential gaps between clinical recognition, histopathological confirmation, and systematic recording. Standardized submission and coding procedures, improved specimen-transport and formal pathology-referral pathways, broader geographic participation, and progressive development of companion-animal cancer registration are needed to strengthen the national evidence base.",
+      "categories": [
+        "oncology",
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42891877",
+      "title": "Molecular evidence of Bartonella spp. in wild felids from Brazil.",
+      "journal": "Veterinary Research Communications",
+      "authors": "Dias CM, Lee DAB, da Silva JVDSA, Nunes LB, May J&#xfa;nior JA, Baggio-Souza V, Peters FB, Favarini MO, Albano APN, Segui SD, Terra SR, Tirelli FP, Cherem J, Morzele HB, Tortato MA, Lagos AR, Manzano FV, de Oliveira Tourinho TC, Machado RZ, Soares JF, Andr&#xe9; MR",
+      "date": "2026 10 18",
+      "dateObject": "2026 10 18",
+      "abstract": "Among Felidae, domestic cats play a role as reservoirs for Bartonella henselae, Bartonella clarridgeiae, and Bartonella koehlerae. Despite the well-known relationship between Bartonella spp. and domestic cats, to date, there is still a paucity of reports on Bartonella spp. in wild felids. The aim of this study was to molecularly detect and characterize Bartonella spp. in blood and tissue samples from wild felids sampled in Brazil. Among 291 DNA samples (211 blood, 77 spleens and three livers), 3.09% (9/291) were positive in the Quantitative Real-Time PCR (qPCR) assay for Bartonella spp. based on the nuoG gene: 1/44 Leopardus pardalis, 3/61 Leopardus geoffroyi, 1/66 Panthera onca, 1/3 Herpailurus yagouaroundi, and 3/32 Leopardus wiedii. In the phylogenetic analyses, while the gltA sequence detected in L. wiedii grouped with Bartonella henselae, the gltA and ftsZ sequences detected in L. geoffroyi clustered within the same subclade as Bartonella sp. sequences previously identified in wild rodents and associated fleas. These findings reinforce that besides harboring Bartonella species associated with cats, wild felids also may act as accidental hosts for Bartonella species associated with wild small mammals, possibly as a consequence of predation.",
+      "categories": []
+    },
+    {
+      "pmid": "42890363",
+      "title": "A zingiberene-selenium nanoparticle formulation modulates oxidative, inflammatory, and osteogenic responses during femoral fracture healing in rats.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Albarakati AJA",
+      "date": "2026 10 17",
+      "dateObject": "2026 10 17",
+      "abstract": "Bone fracture healing involves coordinated inflammatory, oxidative, and remodeling processes. This study evaluated free zingiberene and a zingiberene-selenium nanoparticle (zingiberene-SeNP) formulation in a rat femoral fracture model. Twenty-four adult male Wistar rats were assigned to intact control, fracture control, fracture plus zingiberene (10 mg/kg/day), or fracture plus zingiberene-SeNP formulation (0.5 mg/kg/day, expressed as total administered formulation mass) groups for 35 days. Outcomes included serum calcium, phosphate, magnesium, and alkaline phosphatase (ALP); malondialdehyde (MDA), nitric oxide (NO), reduced glutathione (GSH), superoxide dismutase (SOD), and catalase (CAT); C-reactive protein (CRP), cyclooxygenase-2 (COX-2), prostaglandin E&#x2082; (PGE&#x2082;), myeloperoxidase (MPO), tumor necrosis factor-alpha (TNF-&#x3b1;), interleukin-1 beta (IL-1&#x3b2;), and nuclear factor-kappa B (NF-&#x3ba;B); C-terminal telopeptide of type I collagen (CTX-I), calcitonin, osteocalcin, osteoprotegerin (OPG), and bone morphogenetic protein-1 (BMP-1), together with radiographic and hematoxylin and eosin (H&E) histology. Fracture disrupted mineral, oxidative, inflammatory, and bone-turnover profiles. Both treatments improved multiple biochemical and inflammatory indices versus fracture control. The zingiberene-SeNP formulation showed stronger effects than free zingiberene for selected endpoints, including MDA, GSH, ALP, PGE&#x2082;, TNF-&#x3b1;, IL-1&#x3b2;, NF-&#x3ba;B, CTX-I, calcitonin, osteocalcin, OPG, and BMP-1. Radiographic and histological findings were consistent with improved callus organization and bone maturation. Overall, both treatments favorably modulated fracture-repair responses, with greater effects of the nanoformulation for selected parameters.",
+      "categories": [
+        "oncology",
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42889477",
+      "title": "Cross-sectional analysis of 152 hyperthyroid cats presented for radioactive iodine therapy in South Korea.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Son D, Chae Y, Yun T, Kim H, Lim JC, Kang BT",
+      "date": "2026 10 17",
+      "dateObject": "2026 10 17",
+      "abstract": "Feline hyperthyroidism is one of the most common endocrinopathies in cats; however, its epidemiological characteristics remain poorly understood in South Korea. Although radioactive iodine therapy (RAIT) is a definitive treatment, studies focusing specifically on cats with hyperthyroidism undergoing RAIT are limited. Medical records of 152 cats with hyperthyroidism presented for RAIT were retrospectively reviewed to describe their epidemiological and clinical features. The median age at diagnosis was 12 years, and 30.3% of the cats were diagnosed incidentally. RAIT was usually performed soon after diagnosis, with a median disease duration of 5 months; only 4.6% of cats had a disease duration >2 years. Unilateral thyroid disease was the predominant pattern (50.7%), and severe hyperthyroidism (total thyroxine &#x2265;19.4 &#x3bc;g/dl) was observed in 10.5% of cats. Only 40.1% of cats underwent RAIT following the veterinarian's recommendation, whereas 59.9% of owners sought RAIT independently. Human-licensed or generic methimazole was used more frequently than veterinary-licensed methimazole (84.0 vs. 18.1%). Pruritus occurred more frequently with human-licensed or generic methimazole than with veterinary-licensed methimazole ( p = 0.047). All cats were housed indoors. The regional distribution of cases differed from the reported national distribution of owned cats ( p = 0.016). No cats originated from Jeju-do, which differed significantly from the mainland regions ( p = 0.0004). Longer disease duration was associated with more advanced disease, including higher thyroid hormone levels and scintigraphic activity, increased bilateral involvement, and a higher rate of refractory response to antithyroid drugs (all p &#x2264; 0.001). This is the first study to characterize cats with hyperthyroidism that were presented for RAIT in South Korea. Key findings included an owner-driven pattern of RAIT selection, early use of definitive therapy despite a relatively late diagnosis, predominant use of non-veterinary methimazole formulations, and a higher frequency of pruritus as an adverse effect. These findings contribute to the epidemiological understanding of feline hyperthyroidism and may inform clinical decision-making in South Korea.",
+      "categories": [
+        "internalMedicine",
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42544949",
+      "title": "Evaluation of the clinical course of immune-mediated polyneuropathy in cats after treatment with human intravenous immunoglobulins.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "authors": "Schmitz AK, Sablotni Aguilera AP, Buhmann G, van Renen J, Parzefall B, Matiasek K, Matiasek LA, Fischer A",
+      "date": "2026 10 17",
+      "dateObject": "2026 10 17",
+      "abstract": "Immune-mediated polyneuropathy (IMPN) manifests with generalised lower motor neuron (LMN) weakness and a remittent or relapsing clinical course. Evidence-based treatment recommendations for severely or chronically affected cats are limited. The objective of this study was to evaluate the clinical course and outcome of cats with IMPN after treatment with human intravenous immunoglobulins (hIVIg). Medical records from two veterinary referral hospitals were reviewed (2018-2025) for cats with IMPN treated with hIVIg. Cats were treated with 1-2&#x2009;g/kg hIVIg divided over 2-4 days (0.5&#x2009;g/kg/day). Clinical information, diagnostic findings, treatment details, and short- and long-term follow-up were evaluated retrospectively. Follow-up information was obtained from medical records and owner communication. Minimum follow-up duration was 8 months (range 8-51; median 17). Clinical course (partial and complete recovery, relapses) was compared between cats with acute/recent onset (four cats) or chronic presentation (five cats). Of nine cats, eight exhibited clinical improvement after hIVIg administration, achieving ambulatory status (walking >5 steps) within a median of 4 days (range 2-8). One cat failed to respond to hIVIg but improved after subsequent prednisolone therapy. For the overall cohort, the median time to complete recovery was 20 days, while the median time to partial recovery was 14 days. Relapses occurred in four cats, but weakness was less severe, and all cats recovered again. The remaining five cats remained relapse-free. Human IVIg was well tolerated in this small cohort, and rapid clinical improvement was observed in most treated cats. These findings suggest that hIVIg may be considered as a treatment option in selected cats with IMPN, including those with acute and chronic presentations. Larger prospective studies, including comparison with no treatment or corticosteroids, are warranted to further assess its efficacy.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
     {
       "pmid": "42870559",
       "title": "Reply to letter regarding \"ACVIM-endorsed statement: consensus statement and systematic review on guidelines for the diagnosis and treatment of chronic inflammatory enteropathy in dogs\".",
@@ -921,41 +982,6 @@
       ]
     },
     {
-      "pmid": "42840743",
-      "title": "Pleuropneumonia and mediastinitis caused by Rhodococcus equi in a dog: a case report.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Salarolli T, de Oliveira TS, Ferreira FCB, Zanon IP, Prates IP, da Costa AJA, Resende J&#xfa;nior T, de Carvalho TP, Silva ROS, Santos RL",
-      "date": "2026 10 07",
-      "dateObject": "2026 10 07",
-      "abstract": "Rhodococcus equi is a cosmopolitan bacterium found in the feces of several animals, and it is recognized as a major cause of bronchopneumonia in foals, as well as an opportunistic pathogen causing infections in humans and, rarely, in other species. This report describes a rare and atypical infection by Rhodococcus equi in a mixed-breed dog, associated with a pyogranulomatous pleuropneumonia and mediastinitis with abundant intralesional Gram-positive coccobacilli. The bacterium was isolated and identified as Rhodococcus hoagii ( R. equi ) using matrix-assisted laser desorption ionization-time of flight (MALDI-ToF), followed by whole-genomic sequencing that detected the vapN virulence-associated gene and identified a new sequence type (ST), designated as ST111.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42840741",
-      "title": "Surgical management of an unstable occipital condyle fracture in a dog using a patient-specific CNC-milled titanium implant: a case report.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Jeong N, Kim H, Cho C, Jung J",
-      "date": "2026 10 07",
-      "dateObject": "2026 10 07",
-      "abstract": "A 10-year-old castrated male Pomeranian was evaluated after a fall and presented with tetraparesis, dysphagia, and headturn. Magnetic resonance imaging (MRI) revealed a right occipital condyle fracture that caused brainstem compression and cerebellar infarction from a displaced bony fragment. According to the Anderson and Montesano classification in human medicine, this case was presumed to be Type 3, indicating instability, and surgical correction was considered. A bone fragment located in the medulla oblongata was left in situ owing to the potential risk of severe complications from removal. Occipitocervical stabilization surgery was performed to prevent further damage from instability. A patient-specific titanium implant was designed by CAD and fabricated by CNC milling, and screws were applied to the occiput and C1 vertebra using standard techniques, whereas a screw was inserted transversely into the C2 spinous process to minimize the risk of implant failure from neck flexion. Postoperative computed tomography (CT) confirmed proper implant placement without neural injury. Over time, the patient showed improvements in hypoglossal dysfunction and gait, and was discharged on postoperative day five. Occipital condyle fractures are rare in both veterinary and human medicine, with most cases classified as type 1 or 2, and typically do not require surgical intervention. To the best of our knowledge, this is the first peer-reviewed description of surgical stabilization of an occipital condyle fracture in a dog using a patient-specific, CNC-milled titanium implant. Conservative management of occipital condyle fracture and surgical stabilization of craniocervical junction fractures have been described previously, and the contribution of the present report lies in the implant design and fabrication workflow rather than in the surgical management of craniocervical injury per se .",
-      "categories": [
-        "surgery",
-        "neurology"
-      ]
-    },
-    {
-      "pmid": "42432684",
-      "title": "Human-mediated determinants of trypanocide use in dogs in Southeastern Nigeria: a cross-sectional survey with implications for resistance and One Health.",
-      "journal": "BMC Veterinary Research",
-      "authors": "Obi CF, Ezeokonkwo RC",
-      "date": "2026 10 07",
-      "dateObject": "2026 10 07",
-      "abstract": "Trypanocide resistance is an escalating threat to African animal trypanosomosis control, yet how dogs are actually treated for trypanosomosis, by who, with what drugs, and under what oversight, remains poorly characterized despite the documented presence of resistant trypanosome populations in this neglected host compartment. In a cross-sectional survey interpreted within a One Health framework, grounded in data from Enugu North Senatorial Zone, Southeastern Nigeria, we integrate previously published molecular and epidemiological data on canine trypanosomes with original cross-sectional survey data from 120 dog-owning households and 250 dogs. Associations are descriptive and inferential; no new resistance assays or transmission studies were undertaken. Survey data revealed that 87.5% of treated dogs received treatment without prior parasitological confirmation, 83% received doses estimated without weight-based calculation, and 76.7% of households obtained trypanocides from unregulated sources. Only 38.3% had geographic access to a licensed veterinarian, and 60% reported no community access to diagnostic testing. Inter-household dog movement was documented in 44.2% of households and 57.5% reported livestock co-habitation. These findings are consistent with sustained selective pressure for resistance, interpreted alongside published evidence of diminazene-resistant and multidrug-resistant Trypanosoma isolates from the same zone. Dogs emerge as plausible reservoirs and amplifiers of drug-resistant trypanosomes within a One Health framework, posing risks to livestock productivity and public health. The molecular identification of Trypanosoma brucei gambiense in study-area dogs warrants structured surveillance investigation. Direct transmission pathways were not evaluated. Addressing these drivers requires robust veterinary drug regulation, expanded veterinary service access, community education, and integration of companion animals into national trypanosomosis surveillance frameworks.",
-      "categories": []
-    },
-    {
       "pmid": "42842143",
       "title": "Trichomonads in the oral cavity of dogs and cats: species composition and relationship with animal age and oral hygiene status.",
       "journal": "Veterinary Research Communications",
@@ -1782,18 +1808,6 @@
       "date": "2026 09 23",
       "dateObject": "2026 09 23",
       "abstract": "Acute kidney injury (AKI) in dogs has high mortality and early diagnosis is essential, but traditional markers are not sensitive enough to detect renal injury in the absence of decreased glomerular filtration rate. The objective of this study was to compare urinary cystatin C (uCysC), N-acetyl-&#x3b2;-D-glucosaminidase (uNAG), and glucose (uGlu) among dogs hospitalised because of envenomation by Vipera berus (EVB) or admitted for intensive care without (IC) or with (AKI APP ) clinically apparent AKI, and 30 healthy dogs. Urine and serum samples were collected on days 1 and 2, and urine samples on days 7 and 14. Urinary CysC, NAG, and glucose concentrations were measured with an automated chemistry analyser, normalised to urinary creatinine concentration (uCr) and compared among groups. Ninety-seven dogs were included (30 HC, 28 EVB, 14 AKI APP and 25 IC dogs). Age, bodyweight, and sex did not differ among groups. On day 1, median [IQR] uCysC/uCr (10 -3 ) and uGlu/uCr were higher (p&#x2009;<&#x2009;0.008) in EVB (0.05 [0.03-0.11], 0.04 [0.03-0.06)]), IC (0.06 [0.03-0.4], 0.05 [0.03-0.09]), and AKI APP (4.4 [0.13-30.0], 0.12 [0.05-0.45]) groups, compared to healthy dogs (0.02 [0.01-0.03], 0.03 [0.02-0.04]). Urinary markers decreased over two weeks post hospitalisation in all groups except AKI APP . Initial levels of uCysC/uCr were higher (p&#x2009;<&#x2009;0.002) and remained elevated in non-survivors compared to survivors of AKI APP , suggesting potential prognostic value. Urinary CysC/uCr and Glu/uCr are potential markers of tubular injury in early stages of AKI in dogs.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42572207",
-      "title": "Development of an ultrasound-guided pericapsular knee desensitization technique in cats: An anatomical cadaveric study.",
-      "journal": "Journal of Feline Medicine and Surgery",
-      "authors": "Lemaitre D, Mej&#xed;as P, V&#xe1;squez MB, Arredondo D, Garbin M, Portela DA, Otero PE",
-      "date": "2026 09 23",
-      "dateObject": "2026 09 23",
-      "abstract": "The aim of the present study was to develop an ultrasound-guided pericapsular knee desensitization (PKD) technique targeting the medial (MAN), lateral (LAN), and posterior (PAN) articular branches of the saphenous, common fibular, and tibial nerves, respectively, and to evaluate its accuracy in domestic feline cadavers. In phase I, six pelvic limbs from three cadavers underwent ultrasonographic evaluation and gross dissection to describe the course of the MAN, LAN, and PAN, and identify anatomical and sonographic landmarks for PKD. In phase II, bilateral PKD was performed in eight cadavers (16 limbs) using 0.1&#x2009;ml (low volume (LV)) or 0.2&#x2009;ml (high volume (HV)) of dye per nerve, randomly assigned between limbs. MAN and PAN injections were performed under ultrasound guidance through a single medial percutaneous approach, whereas LAN injections were landmark-guided. Dissection was used to assess dye distribution around target nerves, the joint capsule, and parent nerves. The MAN was consistently located within the distal subsartorial canal alongside the descending genicular vessels, the PAN coursed adjacent to the popliteal vessels, and the LAN ran superficially near the fibular head and lateral head of the gastrocnemius muscle. Overall success was 23/24 (95.8%) injections (95% confidence interval (CI) 78.9-99.9) in the LV group and 21/24 (87.5%) injections (95% CI 67.6-97.3) in the HV group. Both volumes stained the MAN, LAN, and PAN trajectories and the medial, caudal, and lateral surfaces of the knee joint capsule without intracapsular injection. Ultrasound-guided PKD is feasible in domestic feline cadavers, and small injection volumes (0.1-0.2&#x2009;ml per nerve) reliably reach pericapsular compartments containing the principal articular branches, while largely sparing major motor nerves. These findings provide an anatomical and technical basis for future clinical evaluation of PKD for perioperative and chronic knee pain management in cats.",
       "categories": [
         "internalMedicine"
       ]
@@ -2893,18 +2907,6 @@
         "oncology",
         "surgery",
         "dermatology"
-      ]
-    },
-    {
-      "pmid": "42541529",
-      "title": "Molecular detection of Ehrlichia canis and Rickettsia rickettsii in tick-infested dogs from the city of Chihuahua, Mexico: phylogenetic analysis of the gp36 and ompA genes.",
-      "journal": "Veterinary Research Communications",
-      "authors": "S&#xe1;nchez P&#xe9;rez MJ, Gordillo-P&#xe9;rez G, Rodr&#xed;guez-Murillo C, Garc&#xed;a V&#xe1;zquez SE, Hern&#xe1;ndez Garc&#xed;a AI, Acevedo-Jim&#xe9;nez GE, Ram&#xed;rez &#xc1;lvarez H",
-      "date": "2026 08 01",
-      "dateObject": "2026 08 01",
-      "abstract": "Vector-borne diseases in dogs are an emerging problem worldwide due to their frequency, morbidity, and zoonotic relevance. Since there are no previous studies determining the frequency of Ehrlichia canis and Rickettsia rickettsii infection in three neighborhoods of the city of Chihuahua, Mexico, using molecular detection techniques, the objective of the present study was to detect, by nested polymerase chain reaction (PCR), a fragment of the gp36 gene of E. canis and the ompA gene of R. rickettsii in tick-infested dogs captured at the canine control center of the city of Chihuahua, and to phylogenetically analyze the genotypes present. Blood samples were collected from 123 tick-infested dogs. DNA was extracted from peripheral blood leukocytes and used in nested PCR protocols. The results showed a positivity frequency of 16.2% (20/123) for E. canis and 3.2% (4/123) for R. rickettsii. Six sequenced samples corresponded to E. canis and four to R. rickettsii. Phylogenetic analysis showed a close relationship with sequences previously described in the United States. This is the first molecular identification confirming E. canis and R. rickettsii infection in tick-infested dogs from some neighborhoods of the Chihuahua city, Mexico.",
-      "categories": [
-        "internalMedicine"
       ]
     },
     {

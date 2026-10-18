@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T23:10:42.685Z",
+  "updated_at": "2026-10-18T23:15:40.836Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -6975,6 +6975,38 @@
       "title": "Clinical Characteristics of Hair Cycle Arrest in Toy Poodles: A Retrospective Comparison With Pomeranians.",
       "journal": "Veterinary Dermatology",
       "generated_at": "2026-10-16T23:37:37.098Z",
+      "model": "gpt-5-mini"
+    },
+    "42889477": {
+      "brief_summary": "대한민국에서 방사성 요오드 치료(RAIT)를 위해 내원한 갑상선기능항진증 고양이 152두의 의무기록을 후향적으로 분석했다. 중앙연령은 12세였고 30.3%는 우연히 진단되었으며, RAIT 선택은 소유주 주도(59.9%)가 많았다. 편측병변이 우세(50.7%)했고, 총 티록신(tT4) ≥19.4 μg/dl의 중증군은 10.5%였다. 인간용/제네릭 메티마졸 사용이 더 흔했고(84.0% vs. 수의사용 18.1%), 인간용/제네릭에서 소양증 발생이 더 잦았다(p=0.047).",
+      "detailed_summary": "본 연구는 대한민국에서 RAIT(방사성 요오드 치료)를 위해 내원한 갑상선기능항진증 고양이 152두의 의무기록을 후향적으로 횡단면 분석한 것이다. 대상의 중앙 진단 연령은 12세였고, 30.3%는 우연히 진단되었으며 질환의 중앙 지속기간은 5개월이었고 2년 초과는 4.6%에 불과했다. 방사선신티그래피상 편측 병변이 50.7%로 우세했고, 총 티록신 ≥19.4 μg/dl로 정의한 중증은 10.5%였다. 치료 선택에서는 수의사의 권고에 따른 경우가 40.1%였고 소유주 주도가 59.9%였으며, 메티마졸은 인간용 또는 제네릭 제제가 수의사용 제제보다 더 자주 사용되었다(84.0% vs. 18.1%). 인간용/제네릭 메티마졸에서 소양증 발생이 더 빈번했다고 보고되었고(p=0.047), 모든 대상은 실내 사육이었으며 지역 분포는 전국 소유묘 분포와 유의하게 달랐고(p=0.016) 제주도 출신은 없었다(p=0.0004). 질환 지속기간이 길수록 혈청 갑상선호르몬 수치·신티그래픽 활동성 상승, 양측성 병변 증가 및 항갑상선제에 대한 난치성 반응 증가가 관찰되었다(모두 p ≤ 0.001). 본 연구는 대한민국에서 RAIT 대상으로 내원한 갑상선기능항진증 고양이를 처음으로 기술하며, 이러한 역학적·임상적 특성은 국내 임상적 의사결정에 참고가 될 수 있다.",
+      "title": "Cross-sectional analysis of 152 hyperthyroid cats presented for radioactive iodine therapy in South Korea.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-10-18T23:15:40.824Z",
+      "model": "gpt-5-mini"
+    },
+    "42890363": {
+      "brief_summary": "본 연구는 성체 수컷 Wistar 랫드의 대퇴골 골절 모델에서 자유 징기베렌(zingiberene)과 징기베렌-셀레늄 나노입자(zingiberene-SeNP) 제형의 치료 효과를 35일간 비교했다. 두 처치 모두 골절로 인한 미네랄, 산화스트레스, 염증 및 골대사 지표를 개선했으며, 나노제형은 MDA, GSH, ALP, PGE2, TNF-α, IL-1β, NF-κB, CTX-I, 칼시토닌, 오스테오칼신, OPG, BMP-1 등 일부 지표에서 자유 징기베렌보다 더 큰 효과를 보였다. 방사선 및 H&E 조직소견도 골유합반 조직화와 골성숙의 개선을 시사했다. 임상적 의의는 골절 치유에서 산화·염증 조절과 골형성 촉진 가능성을 제시하지만 결과는 랫드 모델에 한정된다.",
+      "detailed_summary": "총 24마리의 성체 수컷 Wistar 랫드를 intact 대조군, 골절 대조군, 골절+징기베렌(10 mg/kg/일), 골절+징기베렌-SeNP 제형(0.5 mg/kg/일, 투여된 제형 총질량 기준)의 4군으로 나누어 35일간 평가했다. 측정 항목은 혈청 칼슘·인·마그네슘·알칼리성 인산분해효소(ALP), 산화스트레스 지표(MDA, NO, GSH, SOD, CAT), 염증 관련 마커(CRP, COX-2, PGE2, MPO, TNF-α, IL-1β, NF-κB) 및 골대사 지표(CTX-I, 칼시토닌, 오스테오칼신, OPG, BMP-1), 그리고 방사선학적·H&E 조직학적 소견이었다. 골절은 미네랄·산화·염증 및 골대사 프로파일을 교란시켰고, 양 처치 모두 골절 대조군에 비해 여러 생화학적 및 염증 지표를 개선했다. 징기베렌-SeNP 제형은 자유 징기베렌보다 MDA, GSH, ALP, PGE2, TNF-α, IL-1β, NF-κB, CTX-I, 칼시토닌, 오스테오칼신, OPG, BMP-1 등 선택된 지표에서 더 강한 영향을 보였다. 방사선 및 조직학적 소견은 두 처치군에서 유합반 조직화와 골성숙 개선을 시사했다. 결론적으로 두 처치 모두 골절 치유와 관련된 산화·염증·골형성 반응을 유리하게 조절했으며, 일부 지표에서 나노제형이 더 큰 효과를 보였지만 해당 결과는 랫드 모델에 기반하므로 임상 적용에는 한계가 있다.",
+      "title": "A zingiberene-selenium nanoparticle formulation modulates oxidative, inflammatory, and osteogenic responses during femoral fracture healing in rats.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-10-18T23:15:21.883Z",
+      "model": "gpt-5-mini"
+    },
+    "42891877": {
+      "brief_summary": "브라질에서 채취한 야생 고양잇과의 혈액 및 조직 샘플을 대상으로 Bartonella spp.의 분자적 검출과 특성 규명을 수행했다. 전체 291개 DNA 시료(혈액 211, 비장 77, 간 3) 중 Quantitative Real-Time PCR(qPCR, nuoG gene)에서 3.09% (9/291)가 양성으로 확인되었으며, 양성은 Leopardus pardalis 1/44, Leopardus geoffroyi 3/61, Panthera onca 1/66, Herpailurus yagouaroundi 1/3, Leopardus wiedii 3/32에서 검출되었다. 계통분석에서 L. wiedii의 gltA 서열은 Bartonella henselae와 군집을 이루었고, L. geoffroyi에서 검출된 gltA 및 ftsZ는 야생 설치류 및 관련 벼룩에서 보고된 Bartonella sp.와 같은 아계통에 속해 포식 등을 통한 우발적 숙주화 가능성을 시사한다.",
+      "detailed_summary": "본 연구는 브라질에서 채취한 야생 고양잇과 표본의 혈액 및 조직에서 Bartonella spp.를 분자적으로 검출·특성화한 연구이다. 총 291개의 DNA 시료(혈액 211, 비장 77, 간 3)를 대상으로 nuoG 유전자 기반의 정량 실시간 PCR(Quantitative Real-Time PCR, qPCR)을 시행하였다. 전체에서 3.09% (9/291)가 qPCR 양성으로 확인되었고, 종별 분포는 Leopardus pardalis 1/44, Leopardus geoffroyi 3/61, Panthera onca 1/66, Herpailurus yagouaroundi 1/3, Leopardus wiedii 3/32였다. 양성 샘플에 대해 gltA 및 ftsZ 유전자 서열을 이용한 계통분석을 수행한 결과, L. wiedii의 gltA는 Bartonella henselae와 군집을 이루었고 L. geoffroyi의 gltA·ftsZ는 야생 설치류 및 관련 벼룩에서 보고된 Bartonella sp.와 같은 아계통에 속했다. 이 결과는 야생 고양잇과가 고양이 관련 Bartonella뿐 아니라 야생 소형 포유류 관련 Bartonella의 우발적 숙주가 될 수 있음을 시사하며, 이는 포식과 같은 생태적 상호작용의 결과일 가능성이 있다고 기술한다. 보고 자체가 적은 상황에서 본 연구는 야생 고양잇과의 Bartonella 존재에 대한 분자적 근거를 제시한다.",
+      "title": "Molecular evidence of Bartonella spp. in wild felids from Brazil.",
+      "journal": "Veterinary Research Communications",
+      "generated_at": "2026-10-18T23:15:01.262Z",
+      "model": "gpt-5-mini"
+    },
+    "42892694": {
+      "brief_summary": "알제리의 반려견·반려묘 암 자료를 파악하기 위해 수행한 이중원천 기술연구로, 조직병리 기반 증례와 현장 수의사 설문을 병행했다. 조직병리 제출 86건(81마리)에서는 유선종양이 43건(50.0%)으로 가장 많고 피부·피하종양이 20건(23.3%)이었으며, 전체 종양의 93.0%가 악성으로 분류되었다. 설문(162명 응답, 주동물군 선택자 111명)에서는 유선·피부종양이 각각 빈번히 보고됐고 진단 자원은 90.0%가 '불충분' 혹은 '전혀 만족스럽지 않다'고 응답해 임상 인식과 조직병리 확인·기록 사이에 격차가 있음을 시사한다.",
+      "detailed_summary": "본 연구는 두 독립 구성요소를 결합한 기술연구로, 2022년 3월~2025년 3월 조직병리 제출증례(86건, 81마리)를 기술한 사례연속집단과 2024년 10월~2025년 5월 시행한 알제리 수의사 대상 횡단 설문(총 162응답)을 분석했다. 조직병리군에서는 유선종양 43/86(50.0%), 피부·피하종양 20/86(23.3%)으로 가장 흔했고 총 80종양(93.0%)이 악성으로 분류되었다. 설문 응답자 중 111명은 주동물군으로 '개·고양이'를 선택했으며, 유선종양을 109명(98.2%), 피부·피하종양을 79명(71.2%), 개 전염성 성기종양(CTVT)을 54명(48.6%)이 보고했다. 자기평가된 준비도는 '중간 수준(Moderately prepared)'이 가장 많았고(52/111; 46.8%), 진단 자원 만족도는 110명 유효응답 중 99명(90.0%)이 '불충분' 또는 '전혀 만족스럽지 않음'으로 응답했다. 두 자료원은 유선 및 피부·피하종양이 1·2위를 차지해 부분적 일치를 보였으나, 표본의 모집단·단위·분모·진단 경로가 달라 비교는 탐색적 기술평가에 한정되었고 인구 수준 발생 차이를 입증하는 근거로 해석하지 않았다. 연구는 임상 인식과 조직병리 확증 및 체계적 기록 사이의 잠재적 공백을 지적하며, 표준화된 제출·코딩 절차, 검체 운송 및 병리 의뢰 경로 개선, 지리적 참여 확대, 반려동물 암 등록의 점진적 도입 필요성을 제시한다.",
+      "title": "Spontaneous tumors in dogs and cats in Algeria: a dual-source descriptive study of practitioner-reported patterns and histopathology-submitted cases.",
+      "journal": "BMC Veterinary Research",
+      "generated_at": "2026-10-18T23:14:46.098Z",
       "model": "gpt-5-mini"
     }
   }
