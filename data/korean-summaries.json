@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T00:22:11.972Z",
+  "updated_at": "2026-10-20T23:55:13.643Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -7015,6 +7015,38 @@
       "title": "Doxorubicin-induced Cardiotoxicity in Dogs: A Narrative Review.",
       "journal": "Veterinary and Comparative Oncology",
       "generated_at": "2026-10-20T00:22:11.958Z",
+      "model": "gpt-5-mini"
+    },
+    "42896600": {
+      "brief_summary": "건강한 수컷 고양이 8마리를 대상으로 propofol을 target-controlled infusion (TCI)로 혈중 목표농도 7 µg/mL로 45분간 투여하면서 혈청 중성지방(triglyceride) 농도를 평가했다. Propofol 투여 직후부터 중성지방이 급격히 상승하여 마취 중 75%에서 기준범위를 초과했다. 누적 propofol 용량과 중성지방 농도 간에는 유의한 상관관계가 관찰되지 않았다. 단기 마취에서도 혈중 중성지방 상승이 발생할 수 있으므로 지질 또는 대사 이상을 가진 환자에서 주의가 필요하다.",
+      "detailed_summary": "연구에서는 건강한 수컷 고양이 8마리를 대상으로 선택적 거세(orchiectomy) 동안 propofol을 target-controlled infusion (TCI)으로 혈중 목표농도 7 µg/mL로 45분간 투여했다. 혈액은 기저, 진정 전, 유도 직후, 주입 후 20분 및 40분에 채취해 혈청 중성지방(triglyceride) 농도를 측정했다. 중성지방 중앙값은 기저 41 mg/dL(범위 31–75), 진정 후 32 mg/dL(20–99), 유도 직후 128 mg/dL(72–215), 20분 132 mg/dL(106–227), 40분 143 mg/dL(57–230)로 유도 직후부터 뚜렷한 증가를 보였다. 마취 중 75%의 동물에서 중성지방이 참고치 범위를 초과했다. 누적 propofol 용량과 중성지방 농도 사이에는 유의한 상관관계가 관찰되지 않았다. 초록에는 추가적인 제한점이나 장기적 영향에 관한 기술은 없어, 결과 해석 시 이 점을 고려해야 한다.",
+      "title": "Target-controlled infusion of propofol induces rapid hypertriglyceridemia in healthy cats.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-10-20T23:55:13.628Z",
+      "model": "gpt-5-mini"
+    },
+    "42897632": {
+      "brief_summary": "본 연구는 크로모그라닌 A(CgA) 에피토프인 바소스타틴(vasostatin)과 카테스타틴(catestatin)을 방사면역측정법(RIA)으로 측정해 카테콜아민 분비 종양과 부신피질 종양을 구분할 수 있는지 평가했다. 조직학적으로 확진된 카테콜아민 분비 종양(11 pheochromocytoma[PCC], 1 extra-adrenal sympathetic paraganglioma[PGL], 총 12마리)군은 부신피질 종양 12마리보다 혈장 바소스타틴 중앙값이 유의하게 높았고(0.82 nmol/L vs 0.50 nmol/L, P=0.0374) 일부(5/12)에서 높은 값이 관찰되었다. 카테스타틴은 두 군 간 차이가 없었고, 바소스타틴은 일부 증례에서 수술 후 수치가 수치상 감소했으나 통계적 유의성은 없었다는 점에서 바소스타틴은 일부 카테콜아민 분비 종양의 바이오마커로서 가능성을 보였다.",
+      "detailed_summary": "후향적으로 조직학적 확진을 받은 카테콜아민 분비 종양(11 PCC, 1 PGL, n=12)과 부신피질 종양(n=12)으로 구성된 총 24마리의 개를 대상으로, 혈장 CgA 에피토프 바소스타틴과 카테스타틴 농도를 RIA로 측정하여 비교했다. 측정은 수술 전 23마리에서 이루어졌고 카테콜아민 분비 종양군 중 6마리에서는 수술 후 측정도 시행되었다. 주요 결과로 카테콜아민 분비 종양군의 바소스타틴 중앙값은 0.82 nmol/L(사분위범위 0.52–1.60)로 부신피질 종양군의 중앙값 0.50 nmol/L(0.34–0.59)보다 유의하게 높았다(P=0.0374). 연구에서 12마리 중 5마리는 수술 전 바소스타틴이 상승해 있었고, 수술 후 이들에서 수치는 수치상 감소했으나 통계적 유의성은 확보되지 않았다. 카테스타틴 농도는 두 군 간 차이를 보이지 않았다. 결론적으로 혈장 바소스타틴은 일부 카테콜아민 분비 종양에서 바이오마커로의 가능성을 시사하나, 표본 수가 적고 상승이 모든 증례에서 관찰되지 않았으며 수술 후 변화가 통계적으로 유의하지 않았다는 중요한 제한점이 있다.",
+      "title": "Use of plasma chromogranin a epitopes vasostatin and catestatin as biomarkers for catecholamine-producing tumours in dogs.",
+      "journal": "BMC Veterinary Research",
+      "generated_at": "2026-10-20T23:54:57.170Z",
+      "model": "gpt-5-mini"
+    },
+    "42898197": {
+      "brief_summary": "건강한 수컷 비글 8마리(각 군 n=4)를 대상으로, 비마약성 진통제 opiranserin 연속 주입이 개 중성화 시의 수술 중 추가 진통제 사용과 수술 후 통증을 줄이는지 평가한 예비 무작위 연구다. Opiranserin 투여군은 수술 중 구제(구조) 진통제 사용 빈도가 유의하게 적었고(중앙값 2 vs 6.5, p=0.021), 수술 직후 특정 시점(T1)에서 Glasgow Composite Measure Pain Scale-Short Form(GCMPS-SF) 점수가 낮았다(보정후 p=0.012). 결과는 opiranserin이 수술 중 추가 진통제 요구를 줄이고 수술 후 통증을 일부 완화할 가능성을 시사하지만, 표본수가 작아 추가 대규모 연구가 필요하다.",
+      "detailed_summary": "무작위로 배정된 8마리의 건강한 수컷 비글을 대상으로 opiranserin 연속 정주(5 mg·kg⁻¹·h⁻¹을 유도 1시간 전 1시간, 이후 0.33 mg·kg⁻¹·h⁻¹ 9시간; n=4)와 생리식염수 대조(n=4)를 비교한 파일럿 연구다. 모든 개는 알팩살론으로 유도하고 이소플루란(호기말 1.5%)으로 유지하였으며, 멜록시캄과 세파졸린을 수술 전 투여했고 국소/신경 차단은 시행하지 않았다. 수술 중 혈역학적 반응(ΔMAP, ΔHR)이 모두 기준치(기저치 대비 ≥20% 상승) 이상일 때 레미펜타닐 구제 투여를 시행했고, 수술 후 통증은 30분 후(T0)부터 T7까지 GCMPS-SF로 평가(점수 ≥5 시 구제 진통)하였다. 주요 결과로 opiranserin군은 수술 중 구제 진통 개입 수가 유의하게 적었고(중앙값 2 [2–2] vs 6.5 [3–9], p=0.021), GCMPS-SF에서는 전체적으로 군 효과(p=0.030), 시간 효과(p=0.047), 군×시간 상호작용(p=0.034)이 관찰되며 T1에서만 유의하게 낮은 점수(보정후 p=0.012)를 보였다. 보조 결과로 ΔMAP와 ΔHR에 대해 군 전체 효과가 유의했으나(각 p=0.011, p=0.048) 개별 수술 이벤트별 차이는 보정 후 유의하지 않았다. 누적 수술 후 구제 진통제 소모량과 이상반응 발생률은 두 군 간 차이가 없었고, 저자들은 opiranserin의 유익 가능성을 제시하면서도 작은 표본수와 예비적 성격으로 인해 결론을 신중히 해석하고 대규모 연구로 확인해야 한다고 결론지었다.",
+      "title": "Perioperative analgesic effects of opiranserin in canine castration: a pilot study.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-10-20T23:54:44.821Z",
+      "model": "gpt-5-mini"
+    },
+    "42898732": {
+      "brief_summary": "본 연구는 Cryptocarya alba와 Laureliopsis philippiana 에센셜 오일(EO)을 탑재한 전분 기반 건식 샴푸 프로토타입을 개발하여 개의 표재성 피부염 보조 국소 관리용으로 평가했다. 전기화학적·물리적 특성, 9개월 안정성, Staphylococcus pseudintermedius에 대한 in vitro 항균성, BALB/c 마우스의 피부 안전성, 그리고 32마리의 반려견을 대상으로 한 21일 탐색적 임상시험을 수행했다. MgS(마그네슘 스테아레이트)가 분말 동질성 및 유동성을 개선했고, 저장 중 질감·유동성·응집성·향에 점진적 변화가 관찰되었으며 항균 반응은 시험법에 따라 달랐고 임상적 효능 결론은 제한적이다.",
+      "detailed_summary": "시험 제품은 옥수수·타피오카 전분 또는 혼합물을 기초로 C. alba 또는 L. philippiana EO를 탑재한 건식 샴푸 프로토타입으로 개발되었고 MgS를 기능성 부형제로 평가하며 두 가지 혼합 프로토콜을 비교하였다. 최적화된 조성은 물리화학적 특성·열적·기계적 검사 및 9개월 안정성 평가를 거쳤고 MgS와 선정된 혼합법이 분말 성능(동질성·유동성·응집 감소)을 개선했다. 저장 중에는 질감, 유동성, 응집 경향 및 향에 점진적 변화가 관찰되어 물리적 안정성에는 한계가 있었다. 항균성 평가는 S. pseudintermedius 대상에서 이루어졌으며 한천 확산법에서는 억제환이 관찰되지 않았으나 희석법과 생균수 계수법에서는 농도 의존적 세균 회복 감소가 나타났고 일부 효과는 차량(베이스)와도 연관되었다. 전임상 피부 안전성 평가에서는 BALB/c 마우스에서 육안 및 조직학적 자극 소견이 없었고 체중 변동도 관찰되지 않았다. 임상시험은 무작위·대조·맹검의 4개군 병렬 디자인으로 반려견 32마리를 21일간 SLP, SCA, 차량, 클로르헥시딘 기반 기준치료군에 할당하여 평가했으며 제품은 허용성이 양호했고 미생물학적 결과는 군 간 수치상 차이는 있었으나 통계적으로 유의하지 않았다. 결론적으로 C. alba와 L. philippiana EO를 전분 기반 건식 샴푸에 적용하는 것은 실현 가능하고 내피 피부 안전성은 양호했으나 항균 반응의 시험법 의존성, 알칼리성 pH, 배치 복제의 제한, 탐색적 임상 설계 등으로 임상적 효능을 입증하기에는 추가 연구가 필요하다.",
+      "title": "Stability and dermatological safety assessment of Cryptocarya alba (Peumo) and Laureliopsis philippiana (Tepa) essential oil-carrying dry shampoo formulations for dermal use in dogs.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-10-20T23:54:30.570Z",
       "model": "gpt-5-mini"
     }
   }

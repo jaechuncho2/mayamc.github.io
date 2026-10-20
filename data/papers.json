@@ -1,6 +1,55 @@
 {
-  "updated_at": "2026-10-20T00:21:57.006Z",
+  "updated_at": "2026-10-20T23:54:04.480Z",
   "papers": [
+    {
+      "pmid": "42898732",
+      "title": "Stability and dermatological safety assessment of Cryptocarya alba (Peumo) and Laureliopsis philippiana (Tepa) essential oil-carrying dry shampoo formulations for dermal use in dogs.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Varas M, Jacobs M, Rojas N, Ramos P, Bruna F, Valenzuela-Barra G, Correa O, D&#xed;az-Parra A, Ahumada M, Maturana G, Mart&#xed;nez I, Abusleme F, Rivera B, Bargsted MO, Siel D, Bravo J",
+      "date": "2026 10 20",
+      "dateObject": "2026 10 20",
+      "abstract": "Antibiotic resistance is a major concern in human and veterinary medicine, supporting the development of alternative topical products for companion animals. This study aimed to develop and evaluate essential oil (EO)-based dry shampoo formulations incorporating EOs from Cryptocarya alba and Laureliopsis philippiana as potential veterinary dermocosmetic platforms for canine skin care and complementary management of superficial pyoderma. Starch-based dry shampoo prototypes containing C. alba or L. philippiana EOs were developed using corn starch, tapioca starch, or their mixtures. Magnesium stearate (MgS) was evaluated as a functional excipient, and two mixing protocols were compared. Optimized formulations were subjected to physicochemical characterization, thermal, mechanical, and 9-month stability assessments, and in vitro antibacterial testing against Staphylococcus pseudintermedius . Preclinical dermal safety was evaluated in BALB/c mice through macroscopic irritation scoring, body weight monitoring, and histological analysis. Subsequently, an exploratory, randomized, controlled, blinded, four-arm parallel-group study was conducted in 32 client-owned dogs with superficial pyoderma allocated to receive SLP, SCA, vehicle shampoo, or a chlorhexidine-based reference treatment for 21 days. MgS improved formulation homogeneity, fluidity, and reduced agglomeration, while the selected mixing protocol enhanced overall powder performance. The optimized formulations showed preliminary physical stability, although progressive changes in texture, fluidity, agglomeration tendency, and aroma were observed during storage. In vitro antibacterial activity was assay-dependent: no measurable inhibition zones were observed by agar diffusion, whereas serial dilution and viable-count assays showed concentration-dependent reductions in bacterial recovery, including effects associated with the vehicle formulation. No macroscopic or histological signs of dermal irritation were observed in mice. In dogs, the formulations were well tolerated under the evaluated conditions. Microbiological outcomes differed numerically among groups but not significantly; among the EO-containing formulations, SCA showed the most favorable exploratory profile, including culture negativity in 3/8 dogs and the highest proportion of dogs reaching a non-significant bacterial burden. These findings support the feasibility of incorporating C. alba and L. philippiana EOs into starch-based dry shampoo prototypes and provide preliminary evidence of physical stability and dermal tolerability. However, the assay-dependent antibacterial response, alkaline formulation pH, limited batch replication, and exploratory clinical design preclude conclusions regarding clinical efficacy. Further studies should include formulation optimization, quantitative chemical stability assessment, dermal permeation studies, and larger randomized controlled clinical trials.",
+      "categories": [
+        "internalMedicine",
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42898197",
+      "title": "Perioperative analgesic effects of opiranserin in canine castration: a pilot study.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Lee S, Oh S, Lee I, Son WG",
+      "date": "2026 10 20",
+      "dateObject": "2026 10 20",
+      "abstract": "Opiranserin, a non-opioid analgesic acting as a glycine transporter 2 inhibitor and 5-HT2A receptor antagonist, was evaluated for reducing intraoperative rescue analgesia and postoperative pain in dogs undergoing castration under isoflurane anesthesia. Eight healthy male Beagle dogs were randomized to receive a continuous rate infusion of opiranserin (5 mg&#xb7;kg -1 &#xb7;h -1 for 1 h before induction, then 0.33 mg&#xb7;kg -1 &#xb7;h -1 for 9 h; n = 4) or 0.9% saline ( n = 4). Anesthesia was induced with alfaxalone and maintained with isoflurane (1.5% end-tidal); all dogs received meloxicam and cefazolin preoperatively, without locoregional analgesia. Hemodynamic responses (&#x394;MAP, &#x394;HR) were recorded across 11 surgical events; rescue remifentanil was given when both increased &#x2265;20% from baseline. Postoperative pain was scored with the Glasgow Composite Measure Pain Scale-Short Form (GCMPS-SF) from 30 min after extubation (T0) through T7, with rescue analgesia at scores &#x2265;5. Primary outcomes were intraoperative rescue analgesia frequency and postoperative GCMPS-SF scores; secondary outcomes were intraoperative hemodynamic responses, postoperative rescue consumption, and adverse effects. Data were analyzed with Mann-Whitney U tests and linear mixed models with Bonferroni-adjusted comparisons. The opiranserin group required fewer intraoperative rescue interventions than the normal saline group (median 2 [2-2] vs. 6.5 [3-9]; p = 0.021). GCMPS-SF scores showed significant effects of group ( p = 0.030), time ( p = 0.047), and group &#xd7; time interaction ( p = 0.034), with lower scores in the opiranserin group at T1 (adjusted p = 0.012) but not at other time points. Among secondary outcomes, significant overall effects of group were found for &#x394;MAP ( p = 0.011) and &#x394;HR ( p = 0.048), and of surgical event for both ( p < 0.001 and p = 0.008), with no group &#xd7; event interaction; no individual event differed significantly after correction. Cumulative postoperative rescue analgesic consumption and the incidence of adverse effects did not differ between groups. These preliminary findings suggest that opiranserin may reduce intraoperative rescue analgesia requirements and attenuate postoperative pain in dogs, warranting confirmation in larger trials. The absence of significant adverse effects is reassuring but should be interpreted cautiously given the small sample size.",
+      "categories": [
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42897632",
+      "title": "Use of plasma chromogranin a epitopes vasostatin and catestatin as biomarkers for catecholamine-producing tumours in dogs.",
+      "journal": "BMC Veterinary Research",
+      "authors": "Prabert J, Hanson J, Ishigaki K, Asano K, H&#xf6;glund K, Stridsberg M, H&#xf6;glund OV",
+      "date": "2026 10 20",
+      "dateObject": "2026 10 20",
+      "abstract": "Differentiation of catecholamine-producing tumours from other adrenal tumours remains difficult. Chromogranin A (CgA) is a marker for catecholamine secretion in the body. An assay for quantification of the CgA epitopes vasostatin and catestatin has been validated for use in dogs but not yet evaluated in dogs with catecholamine-producing tumours. The aims were to evaluate the assays foranalysis of plasma concentrations of the CgA epitopes vasostatin and catestatin in dogs with adrenal tumours and to compare concentrations between catecholamine-producing tumours and adrenocortical tumours in dogs that were subjected to adrenalectomy. Twelve dogs with histopathologically confirmed catecholamine-secreting tumours (eleven pheochromocytomas (PCCs), one extra-adrenal sympathetic paraganglioma (PGL)) and twelve with adrenocortical tumours were included in the study. Plasma concentrations of the CgA epitopes vasostatin and catestatin were determined byradioimmunoassay (RIA), before adrenalectomy in 23 out of 24 dogs and after adrenalectomy in six of the dogs with catecholamine-secreting tumours (five PCC, one PGL). Tumour diagnosis was made by histopathology in all cases. Overall, median plasma concentration of the CgA epitopevasostatin in dogs with catecholamine-secreting tumours was 0.82 nmol/L (interquartile range (IQR) 0.52 to 1.60 nmol/L), which was significantly higher(Wilcoxon rank sum exact test, P= 0.0374) than the vasostatin concentration in adrenocortical tumours (median 0.50; IQR 0.34 to 0.59 nmol/L). A subsetof dogs (5/12) with catecholamine-secreting tumours had elevated plasma vasostatin concentrations preoperatively. After successful surgery, thepreoperatively elevated plasma vasostatin concentrations decreased numerically, however without reaching statistical significance. Catestatin concentrationdid not differ between tumour types. Elevated plasma concentration of the CgA epitope vasostatin showed potential as a biomarker for asubset of catecholamine-secreting tumours.",
+      "categories": [
+        "internalMedicine",
+        "oncology",
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42896600",
+      "title": "Target-controlled infusion of propofol induces rapid hypertriglyceridemia in healthy cats.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Arboit F, Mangini LT, Gasparotto JC, Griebeler LB, Oliveira JO, Vieira LS, Ohashi GS, Cadi&#xf1;anos VDS, Paraguass&#xfa; AO, Oberbeck EV, de Souza LB, Freitas GC, Floriano BP, Soares AV",
+      "date": "2026 10 19",
+      "dateObject": "2026 10 19",
+      "abstract": "To evaluate serum triglyceride concentrations during target-controlled infusion (TCI) of propofol in healthy cats undergoing elective orchiectomy and to investigate the relationship between cumulative propofol dose and triglyceride concentrations. 8 healthy male cats were anesthetized using propofol administered via a TCI system targeting a plasma concentration of 7 &#xb5;g/mL for 45 minutes. Blood samples were collected at baseline, after premedication, immediately after induction, and at 20 and 40 minutes of infusion for determination of serum triglyceride concentrations. Serum triglycerides increased significantly following propofol administration, with elevations detectable immediately after induction. Median concentrations were 41 mg/dL (range, 31 to 75) at baseline, 32 mg/dL (range, 20 to 99) after premedication, 128 mg/dL (range, 72 to 215) immediately after induction, 132 mg/dL (range, 106 to 227) at 20 minutes of infusion, and 143 mg/dL (range, 57 to 230) at 40 minutes of infusion. During anesthesia, 75% of the animals exceeded the reference interval for triglycerides. No significant correlation was observed between propofol cumulative doses and triglyceride concentrations. Target-controlled propofol infusion is associated with a rapid increase in serum triglyceride concentrations in cats even during short anesthetic procedures. Given the use of prolonged propofol infusions in veterinary anesthesia, these findings highlight the importance of considering potential changes in serum triglyceride concentrations, particularly in patients with underlying lipid or metabolic dysfunction.",
+      "categories": []
+    },
     {
       "pmid": "42892694",
       "title": "Spontaneous tumors in dogs and cats in Algeria: a dual-source descriptive study of practitioner-reported patterns and histopathology-submitted cases.",
@@ -803,20 +852,6 @@
       "categories": []
     },
     {
-      "pmid": "42443886",
-      "title": "Serum insulin-like growth factor-1 concentrations are not reduced in Pomeranian dogs with Alopecia X: a case-control study.",
-      "journal": "BMC Veterinary Research",
-      "authors": "Halajian Z, Khoshnegah J, Parham A",
-      "date": "2026 10 09",
-      "dateObject": "2026 10 09",
-      "abstract": "Alopecia X (AX)-also referred to as hair cycle arrest or Alopecia X-like syndrome-is a non-inflammatory disorder common in Pomeranians, though it frequently affects other breeds such as Alaskan Malamutes, Chow Chows, Schipperkes, and Poodles. Historically known by various names including growth hormone-responsive alopecia, castration-responsive alopecia and congenital adrenal hyperplasia-like syndrome, this condition represents a complex follicular arrest of \"plush-coated\" breeds. The etiopathogenesis remains unclear, and reliable, minimally invasive diagnostic biomarkers are lacking. Insulin-like growth factor-1 (IGF-1) is essential for hair follicle cycling, and systemic deficiency has been hypothesized to contribute to canine alopecia. This study aimed to determine if serum IGF-1 concentrations differ between Pomeranian dogs with AX and healthy controls, and to evaluate the effect of neuter status on IGF-1 levels. Thirty client-owned Pomeranian dogs (11 AX, 19 healthy controls) were enrolled. Serum IGF-1 concentrations were measured via a human competitive ELISA kit validated in-house for canine samples. Data were non-normally distributed and analyzed via Mann-Whitney U tests. No significant difference in serum IGF-1 was detected between alopecic (median: 62.0 ng/mL; range: 7.31-151) and healthy dogs (median: 51.8 ng/mL; range: 7.43-209.76) (U&#x2009;=&#x2009;74, p&#x2009;=&#x2009;0.200). Neuter status was significantly imbalanced between groups (63.6% of cases neutered vs. 10.5% of controls, p&#x2009;=&#x2009;0.002). While neutered dogs exhibited numerically higher mean IGF-1 values than intact dogs within the alopecic group, this difference was not statistically significant (p&#x2009;=&#x2009;0.412). No correlation was found between IGF-1 and age or body weight. Serum IGF-1 concentrations are not reduced in Pomeranian dogs with Alopecia X compared to healthy controls. Routine measurement of serum IGF-1 is not recommended as a diagnostic test for AX. The role of gonadectomy in modulating the GH/IGF-1 axis in this breed requires further investigation with larger, balanced cohorts.",
-      "categories": [
-        "internalMedicine",
-        "surgery",
-        "dermatology"
-      ]
-    },
-    {
       "pmid": "42853324",
       "title": "Management of volumetric muscle loss in a dog using bioactive glass-alginate-cellulose composite and a transpositional flap: a case report.",
       "journal": "Veterinary Research Communications",
@@ -866,26 +901,6 @@
         "surgery",
         "neurology"
       ]
-    },
-    {
-      "pmid": "42846393",
-      "title": "Corridor-based relative severity assessment of the canine anaesthetic course.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Kschonek JD, K&#xe4;stner SBR, Ohland PLS, Lutscher S, Volk HA, Talbot SR",
-      "date": "2026 10 08",
-      "dateObject": "2026 10 08",
-      "abstract": "The Relative Severity Assessment (RELSA) score grades welfare severity based on the magnitude of multivariate deviations from a reference value. Many variables monitored during anaesthesia are homeostatic and become harmful when they leave the normal range in either direction. Building on the corridor concept of the PVS from human intensive care, we conducted a feasibility study to assess the application and behaviour of a corridor extension of RELSA in two canine anaesthesia datasets. Each homeostatic variable was given a normal band, and only its deviation was folded into the standard RELSA algorithm. Severity in this report denotes the number this algorithm returns, and that number has not been shown to represent clinical severity. We obtained two Beagle datasets, including one four-arm within-subject study, allowing a paired between-protocol comparison. This is an exploratory secondary analysis of existing data, with no a priori power calculation. Under the selected bands, the calculated score changed across the recorded anaesthetic course: low while awake, rising at the documented propofol induction, maintained, and resolving on recovery. The dominant departures were hypotension, hypothermia, and mild hypercapnia, sometimes coinciding with a single animal, though their magnitudes are band-dependent. Corridor RELSA produced a number that changed across the recorded anaesthetic course and represented bidirectional departures as a single continuous score. The between-protocol comparison is not interpreted as evidence about the protocols because the verdict it returns depends on the variable panel being scored. The approach is a domain extension and a small refinement of the human-ICU corridor concept.",
-      "categories": []
-    },
-    {
-      "pmid": "42846344",
-      "title": "Beyond population size: long-term changes in free-roaming cat population structure during TNR implementation in Seoul.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Cho Y, Byun JH, Hwang BR, Lee Y",
-      "date": "2026 10 08",
-      "dateObject": "2026 10 08",
-      "abstract": "Free-roaming cats ( Felis catus ) in urban environments are commonly managed through trap-neuter-return (TNR) programs, yet the long-term population effects of these measures remain inconsistently evaluated, particularly when considering both population size and structural dynamics. This study aimed to assess long-term changes in free-roaming cat populations and population-structure patterns observed in the context of public TNR program in Seoul, Republic of Korea, using multiple demographic and structural indicators, specifically neutering rate, kitten proportion, and apparent retention. A longitudinal observational study was conducted across 17 fixed survey sites from 2017 to 2025. Repeated field surveys were performed biennially, with at least five visits per site. Population size, neutering rate, kitten proportion, and apparent retention were calculated via non-invasive photographic individual identification. Negative binomial and binomial mixed-effects models evaluated temporal trends and land-use differences. A logistic mixed effects model assessed apparent retention by baseline neutering status, and within-year encounter histories were used to estimate detection probability. Overall population size and density showed a decreasing temporal pattern, while neutering rates generally increased and kitten proportions generally decreased. At the survey-year level, higher neutering rates coincided with lower kitten proportions. After adjustment for covariates and site-level clustering, cats neutered at baseline had significantly higher odds of apparent retention than non-neutered cats (OR = 3.06, 95% CI: 2.07-4.53). The pooled single-visit detection probability was 0.299, indicating that apparent retention remained subject to imperfect detection. In exploratory site-level comparisons, sites maintaining high neutering rates showed patterns consistent with lower kitten proportions and higher apparent retention, whereas sites with declining neutering rates showed patterns consistent with greater apparent turnover and higher kitten proportions. These findings describe population-structure patterns observed during implementation of Seoul's public TNR program, including reduced kitten counts and increased neutering probability over time. Given the observational nature of the study and the absence of untreated controls, these findings cannot demonstrate the causal effects of TNR. Nevertheless, structural indicators may complement simple procedure counts to identify sites requiring further intervention in urban cat management.",
-      "categories": []
     },
     {
       "pmid": "42848107",
@@ -1322,18 +1337,6 @@
       "abstract": "To evaluate vertebral heart size (VHS) and vertebral left atrial size (VLAS) reference intervals in 8 dog breeds: Australian Cattle Dogs, Shih Tzus, Maltese, Dachshunds, Greyhounds, French Bulldogs, Norwich Terriers, and Brittany Spaniels. Dogs were included if they had 2- or 3-view thoracic radiographs performed and no cardiopulmonary or systemic disease. The same board-certified cardiologist performed the VHS and VLAS measurements in all dogs. The reference interval for Australian Cattle Dogs was 9.1v to 11.2v for VHS and 1.7v to 2.4v for VLAS. The reference interval for Shih Tzus was 8.4v to 10.5v for VHS and 1.6v to 2.4v for VLAS. The reference interval for Maltese was 8.7v to 10.7v for VHS and 1.7v to 2.5v for VLAS. The reference interval for Dachshunds was 8.8v to 10.7v for VHS and 1.6v to 2.2v for VLAS. The reference interval for Greyhounds was 9.4v to 11.5v for VHS and 1.9v to 2.6v for VLAS. The reference interval for French Bulldogs was 9.9v to 13.0v for VHS and 1.7v to 2.6v for VLAS. The reference interval for Norwich Terriers was 9.6v to 11.7v for VHS and 1.7v to 2.3v for VLAS. The reference interval for Brittany Spaniels was 9.4v to 11.5v for VHS and 1.9v to 2.6v for VLAS. The investigators report breed-specific VHS and VLAS reference intervals for 8 canine breeds. Clinicians should be aware of these results to accurately diagnose radiographic cardiomegaly in these breeds.",
       "categories": [
         "cardiology"
-      ]
-    },
-    {
-      "pmid": "42413564",
-      "title": "Estimation of a reference interval for eye temperature in dogs.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Rostami S, Woodruff KA, McBride A, Smith DR",
-      "date": "2026 10 01",
-      "dateObject": "2026 10 01",
-      "abstract": "To estimate a reference interval (RI) for eye temperature (ET) in apparently healthy shelter dogs and to provide a comparative RI for rectal temperature (RT). This cross-sectional study was conducted at a municipal shelter over a 2-month period. We included apparently healthy dogs and excluded those with illness history, respiratory symptoms, or ocular discharge. Using a handheld thermal camera, ET was obtained under standardized procedures. Rectal temperature measurements were obtained from the same dogs. The central 95% RI was estimated using a robust statistical method with bootstrap-derived 90% CIs for the limits, an approach recommended for datasets with 40 &#x2264; n < 120 observations. Utilizing data from 78 dogs, the estimated 95% RI for ET was 35.0 to 38.5 &#xb0;C, with 90% CIs of 34.7 to 35.4 &#xb0;C (lower limit) and 38.2 to 38.8 &#xb0;C (upper limit). The 95% RI for RT was 37.5 to 39.7 &#xb0;C, with 90% CIs of 37.3 to 37.8 &#xb0;C (lower limit) and 39.5 to 39.9 &#xb0;C (upper limit). These findings provide baseline ET screening limits from a moderate sample size. Instead of replacing established veterinary guidelines, our calculated RT interval validates the normal temperature status of our population. Temperatures outside these borders justify individual medical evaluation. Population-based RIs for ETs and RTs of dogs are needed to assist veterinarians and researchers in interpreting ET and RT measurements and identifying dogs that might require further clinical examination. Furthermore, eye thermography might provide a practical, fast, and low-stress method for temperature evaluations.",
-      "categories": [
-        "internalMedicine"
       ]
     },
     {
