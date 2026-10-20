@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T23:15:40.836Z",
+  "updated_at": "2026-10-20T00:22:11.972Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -7007,6 +7007,14 @@
       "title": "Spontaneous tumors in dogs and cats in Algeria: a dual-source descriptive study of practitioner-reported patterns and histopathology-submitted cases.",
       "journal": "BMC Veterinary Research",
       "generated_at": "2026-10-18T23:14:46.098Z",
+      "model": "gpt-5-mini"
+    },
+    "42893846": {
+      "brief_summary": "이 논문은 개에서 항암제 도옥소루비신(doxorubicin)에 의해 발생하는 심독성(cardiotoxicity)을 서사적 리뷰 방식으로 정리한 것이다. 도옥소루비신은 림프종, 육종, 암종 등에서 유효하지만 급성·만성 심장 부작용(부정맥, 울혈성 심부전 등)을 유발할 수 있으며 기전으로는 산화적 스트레스, 미토콘드리아 기능장애, topoisomerase IIβ에 의한 DNA 손상, 염증 및 apoptosis·pyroptosis·ferroptosis 같은 세포사멸 경로가 제시된다. 임상적으로는 누적 용량 증가, 특발성 확장성 심근병증에 취약한 품종, 체중 증가 등이 위험요인으로 보고되며, 심장 바이오마커·심전도(ECG)·심초음파 및 고급 영상이 무증상 상태의 변화도 감지할 수 있어 모니터링 필요성이 강조된다.",
+      "detailed_summary": "이 논문은 개에서의 도옥소루비신 유발 심독성에 대해 실험 및 후향적 연구 결과를 중심으로 서술한 리뷰이다. 저자들은 심독성이 급성 또는 만성으로 나타날 수 있고, 임상적으로는 부정맥과 울혈성 심부전으로 발전할 수 있음을 정리했다. 기전 측면에서는 산화적 스트레스, 미토콘드리아 기능장애, topoisomerase IIβ에 의한 DNA 손상, 염증반응 및 apoptosis·pyroptosis·ferroptosis 등의 세포사멸 경로가 복합적으로 관여한다고 설명한다. 알려진 위험요인으로는 높은 누적 용량, 특발성 확장성 심근병증에 취약한 품종, 높은 체중 등이 제시되었다. 진단·모니터링 도구로는 심장 바이오마커, 심전도(ECG), 심초음파 및 기타 고급 영상기법이 사용되며, 이러한 검사들이 임상 증상 없이도 심변화를 감지할 수 있다고 보고한다. 그러나 현재 근거는 주로 실험적·후향적 연구에 기반해 있어 대규모 전향적 임상연구가 부족하다는 점을 중요한 제한점으로 지적하고, 개별 감수성 규명과 아형화된 진행 경로 규명이 필요하다고 결론짓는다. 또한 고급 심초음파, 마이크로RNA, 단백질체 바이오마커 및 약동학 모델링과 같은 새로운 접근이 조기 탐지와 개별화된 투약에 기여할 가능성을 제시한다.",
+      "title": "Doxorubicin-induced Cardiotoxicity in Dogs: A Narrative Review.",
+      "journal": "Veterinary and Comparative Oncology",
+      "generated_at": "2026-10-20T00:22:11.958Z",
       "model": "gpt-5-mini"
     }
   }
