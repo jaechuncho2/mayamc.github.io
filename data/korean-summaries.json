@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T23:55:13.643Z",
+  "updated_at": "2026-10-22T00:01:20.484Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -7047,6 +7047,14 @@
       "title": "Stability and dermatological safety assessment of Cryptocarya alba (Peumo) and Laureliopsis philippiana (Tepa) essential oil-carrying dry shampoo formulations for dermal use in dogs.",
       "journal": "Frontiers in Veterinary Science",
       "generated_at": "2026-10-20T23:54:30.570Z",
+      "model": "gpt-5-mini"
+    },
+    "42901211": {
+      "brief_summary": "건강한 수컷 고양이 8마리를 대상으로 propofol을 목표혈중농도(target-controlled infusion, TCI) 7 µg/mL로 45분간 투여한 결과, 혈청 중성지방(triglyceride) 농도가 빠르게 상승하여 유도 직후부터 증가가 관찰되었다. 중성지방 중앙값은 기저 41 mg/dL에서 유도 직후 128 mg/dL, 주입 40분에 143 mg/dL로 증가하였고, 마취 중 75%가 기준치 초과를 보였다. 누적 propofol 투여량과 중성지방 농도 사이에는 유의한 상관관계가 관찰되지 않았다. 임상적으로는 지질 이상이나 대사성 질환이 있는 환자나 장기간 propofol 주입 시 혈중 중성지방 변화를 고려할 필요가 있다.",
+      "detailed_summary": "연구는 elective orchiectomy를 받는 건강한 수컷 고양이 8마리를 대상으로 propofol을 TCI(목표혈중농도 7 µg/mL)로 45분간 투여하면서 혈청 중성지방 농도를 측정한 관찰 연구이다. 혈액은 기저, 진정 전, 유도 직후, 주입 20분 및 40분에 채취되었다. 중성지방 중앙값(범위)은 기저 41 mg/dL (31–75), 진정 후 32 mg/dL (20–99), 유도 직후 128 mg/dL (72–215), 주입 20분 132 mg/dL (106–227), 주입 40분 143 mg/dL (57–230)로 보고되었다. 마취 중 75%의 동물이 참조구간을 초과했으며, 누적 propofol 투여량과 중성지방 농도 간에는 통계적으로 유의한 상관관계가 없었다. 저자들은 TCI 방식의 propofol 주입이 짧은 마취 중에도 혈청 중성지방을 빠르게 증가시킨다고 결론지었고, 특히 지질 또는 대사 이상이 있는 환자나 장기간 주입 시 주의를 권고하였다. 연구는 건강한 수컷 고양이만을 대상으로 단기간 마취 상황에서 관찰되었으므로(표본수 8마리), 다른 환자군이나 장기간 주입 상황으로의 일반화에는 주의가 필요하다.",
+      "title": "Target-controlled infusion of propofol induces rapid hypertriglyceridemia in healthy cats.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-10-22T00:01:20.465Z",
       "model": "gpt-5-mini"
     }
   }

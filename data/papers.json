@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-10-20T23:54:04.480Z",
+  "updated_at": "2026-10-22T00:01:01.730Z",
   "papers": [
+    {
+      "pmid": "42901211",
+      "title": "Target-controlled infusion of propofol induces rapid hypertriglyceridemia in healthy cats.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Arboit F, Mangini LT, Gasparotto JC, Griebeler LB, Oliveira JO, Vieira LS, Ohashi GS, Cadi&#xf1;anos VDS, Paraguass&#xfa; AO, Oberbeck EV, de Souza LB, Freitas GC, Floriano BP, Soares AV",
+      "date": "2026 10 20",
+      "dateObject": "2026 10 20",
+      "abstract": "To evaluate serum triglyceride concentrations during target-controlled infusion (TCI) of propofol in healthy cats undergoing elective orchiectomy and to investigate the relationship between cumulative propofol dose and triglyceride concentrations. 8 healthy male cats were anesthetized using propofol administered via a TCI system targeting a plasma concentration of 7 &#xb5;g/mL for 45 minutes. Blood samples were collected at baseline, after premedication, immediately after induction, and at 20 and 40 minutes of infusion for determination of serum triglyceride concentrations. Serum triglycerides increased significantly following propofol administration, with elevations detectable immediately after induction. Median concentrations were 41 mg/dL (range, 31 to 75) at baseline, 32 mg/dL (range, 20 to 99) after premedication, 128 mg/dL (range, 72 to 215) immediately after induction, 132 mg/dL (range, 106 to 227) at 20 minutes of infusion, and 143 mg/dL (range, 57 to 230) at 40 minutes of infusion. During anesthesia, 75% of the animals exceeded the reference interval for triglycerides. No significant correlation was observed between propofol cumulative doses and triglyceride concentrations. Target-controlled propofol infusion is associated with a rapid increase in serum triglyceride concentrations in cats even during short anesthetic procedures. Given the use of prolonged propofol infusions in veterinary anesthesia, these findings highlight the importance of considering potential changes in serum triglyceride concentrations, particularly in patients with underlying lipid or metabolic dysfunction.",
+      "categories": []
+    },
     {
       "pmid": "42898732",
       "title": "Stability and dermatological safety assessment of Cryptocarya alba (Peumo) and Laureliopsis philippiana (Tepa) essential oil-carrying dry shampoo formulations for dermal use in dogs.",
@@ -1325,18 +1335,6 @@
       "abstract": "To evaluate the accuracy of computer-assisted navigation compared with a freehand technique for bicortical lumbar vertebral body drilling in canine cadavers. This was a randomized cadaveric experimental study using canine lumbar spines (n = 9). Two surgeons performed bicortical lumbar vertebral body drilling with navigated and freehand techniques on randomly assigned cadavers. Drill trajectories were independently assessed by 4 blinded veterinary surgeons using the modified Zdichavsky classification, where grade I represented optimal placement and grade &#x2265; III indicated clinically relevant cortical breach. A total of 108 lumbar vertebral body drill trajectories were evaluated: 54 navigated and 54 freehand. Navigated drilling resulted in a significantly higher proportion of optimal trajectories compared with freehand drilling (92.6% vs 42.6%; OR, 16.85; 95% CI, 5.68 to 47.22; P < .0001). Clinically relevant breaches occurred significantly less frequently with navigation (3.7% vs 35.2%; OR, 0.071; 95% CI, 0.016 to 0.283; P < .0001), representing an 89% relative reduction. Statistically significant improvements in accuracy were observed in both small (< 15 kg) and large (15 to 30 kg) dogs. Computer-assisted navigation significantly improves the accuracy of bicortical lumbar vertebral body drilling in canine cadavers and markedly reduces the incidence of clinically relevant cortical breaches compared with a freehand technique. Computer-assisted navigation can enhance safety during canine spinal procedures, particularly bicortical drilling. Improved accuracy observed across body sizes suggests that navigation may be beneficial in canine patients where the vertebral body corridor is narrow and the margin for error is limited.",
       "categories": [
         "neurology"
-      ]
-    },
-    {
-      "pmid": "42431230",
-      "title": "Vertebral heart size and vertebral left atrial size reference intervals in 8 canine breeds.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Rowland AJ, Zepeda CI, Murphy LA, Tansey C, Piscitelli N, Gentile-Solomon J, Szlosek D, Nakamura RK",
-      "date": "2026 10 01",
-      "dateObject": "2026 10 01",
-      "abstract": "To evaluate vertebral heart size (VHS) and vertebral left atrial size (VLAS) reference intervals in 8 dog breeds: Australian Cattle Dogs, Shih Tzus, Maltese, Dachshunds, Greyhounds, French Bulldogs, Norwich Terriers, and Brittany Spaniels. Dogs were included if they had 2- or 3-view thoracic radiographs performed and no cardiopulmonary or systemic disease. The same board-certified cardiologist performed the VHS and VLAS measurements in all dogs. The reference interval for Australian Cattle Dogs was 9.1v to 11.2v for VHS and 1.7v to 2.4v for VLAS. The reference interval for Shih Tzus was 8.4v to 10.5v for VHS and 1.6v to 2.4v for VLAS. The reference interval for Maltese was 8.7v to 10.7v for VHS and 1.7v to 2.5v for VLAS. The reference interval for Dachshunds was 8.8v to 10.7v for VHS and 1.6v to 2.2v for VLAS. The reference interval for Greyhounds was 9.4v to 11.5v for VHS and 1.9v to 2.6v for VLAS. The reference interval for French Bulldogs was 9.9v to 13.0v for VHS and 1.7v to 2.6v for VLAS. The reference interval for Norwich Terriers was 9.6v to 11.7v for VHS and 1.7v to 2.3v for VLAS. The reference interval for Brittany Spaniels was 9.4v to 11.5v for VHS and 1.9v to 2.6v for VLAS. The investigators report breed-specific VHS and VLAS reference intervals for 8 canine breeds. Clinicians should be aware of these results to accurately diagnose radiographic cardiomegaly in these breeds.",
-      "categories": [
-        "cardiology"
       ]
     },
     {
