@@ -1,6 +1,69 @@
 {
-  "updated_at": "2026-10-22T00:01:01.730Z",
+  "updated_at": "2026-10-22T23:59:32.545Z",
   "papers": [
+    {
+      "pmid": "42904074",
+      "title": "Case Report: Long term multimodality treatment of canine hepatocellular carcinoma with serial monitoring of serum alpha-fetoprotein.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Dan TJ, Yang CH, Kim YJ, Kang MH, Kang MA, Lee KS, Park HM",
+      "date": "2026 10 22",
+      "dateObject": "2026 10 22",
+      "abstract": "A 13-year-old spayed female Shih Tzu presented with a several-month history of progressively increasing liver enzyme activities concurrent with managed hyperadrenocorticism. Diagnostic imaging revealed a solitary hepatic mass originating from the caudate process of the caudate lobe adhering to the caudal vena cava. Hepatocellular carcinoma (HCC) was confirmed via histopathological examination of an ultrasound-guided tru-cut biopsy, accompanied by a markedly elevated serum alpha-fetoprotein (AFP) concentration. Molecular targeted therapy with olaparib was initiated since complete surgical resection was unachievable due to tumor adherence to the caudal vena cava and conventional chemotherapy has limited efficacy for canine HCC, based on genomic profiling. Following objective tumor progression and worsening mass effect after 2&#x202f;months, cytoreductive surgery was performed. Postoperatively, olaparib and canine interleukin-15 (cIL-15) immunotherapy were instituted to control potential micrometastases. The patient achieved clinical and radiographic stability for a 10-month follow-up period, accompanied by a significant drop in serum AFP levels. However, following the discontinuation of cIL-15 and subsequent reduction of olaparib dosage because of suspected adverse effects, serum AFP levels rebounded progressively, and tumor recurrence was confirmed via ultrasonography. The patient died 20&#x202f;months after the initial detection of the mass. This case describes the clinical course of canine HCC managed with a multimodal therapeutic approach and highlights the potential utility of serum AFP as an adjunctive biomarker for disease monitoring.",
+      "categories": [
+        "internalMedicine",
+        "oncology",
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42903212",
+      "title": "Epidemiology of voluntarily reported dog and cat bite incidents in a large-scale, multi-site veterinary network in the UK and Ireland.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Malkani R, Singleton D, Martin D, Vinke M, Playforth L, Collis M, Oxley JA",
+      "date": "2026 10 22",
+      "dateObject": "2026 10 22",
+      "abstract": "Dog and cat bites are an occupational risk within veterinary practise. Despite this, there is minimal research exploring the occurrence and details surrounding such incidents. The aim of this study was to use a large veterinary group's existing incident and near miss reporting system in the UK to explore the incidence of dog and cat bite reporting and surrounding details of such incidents. Dog and cat bite incidents were identified from January 2024 to October 2025 covering all clinics in the UK and Ireland (>1,000). A total of 2,327 dog (1,239; 53.24%) and cat (1,088; 46.76%) bites were reported. The most common anatomical bite location was reported to be the hands and fingers for both dog (63.0%) and cat (80.6%) bites. The majority of bites for cats (77.96%) and dogs (80.60%) occurred between 9 a.m. and 6 p.m. Location of in-clinic bites differed between staff, with the veterinarians most commonly bitten in the consult room and non-veterinarians most often bitten in the preparation area. Regarding perceived behaviour, the term 'aggression' was most frequently used in reports. In conclusion, this report highlights the common occurrence of dog and cat bite related injuries, providing insights into surrounding factors. Factors need to be considered to reduce bites such as low stress handling, environment adaption and encouraging advancement of knowledge of animal behaviour. More needs to be done to help the reporting of incidents, incorporate human behaviour change approach and education to prevent bite incidents.",
+      "categories": []
+    },
+    {
+      "pmid": "42903197",
+      "title": "Manganese dioxide nanozyme alleviates PEDV GIIc-associated growth retardation in neonatal piglets by improving antioxidant status, intestinal morphology, and manganese homeostasis.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Wang J, Lai X, Hu M, Liang S, Wu T, Fan X, Luo Y, He J, Che L, Chen D, Wu A",
+      "date": "2026 10 22",
+      "dateObject": "2026 10 22",
+      "abstract": "Porcine epidemic diarrhea virus (PEDV) infection threatens swine production, and growth retardation in neonatal piglets born to infected sows requires practical intervention. This study evaluated the effects of oral manganese dioxide (MnO 2 ) nanozyme supplementation on growth and physiological indices in these piglets. In this study, 16 litters from PEDV GIIc-infected sows were assigned to four treatment groups according to body condition and PEDV RT-qPCR Ct value, with four litters from uninfected sows used as the negative control (NC). From 3 d of age to 21 d of age, piglets from PEDV-infected sows received oral MnO 2 nanozyme at different concentrations every other day. Compared with NC group, PEDV-positive control (PC) group had lower average daily gain and jejunal villus height ( P < 0.05), decreased serum CAT activity and serum GSH concentration, reduced jejunal GSH concentration, altered manganese transporter expression in the duodenum, and increased hepatic manganese accumulation. In piglets, oral MnO 2 nanozyme restored average daily gain to normal levels, improved jejunal villus height, and maintained GSH concentrations in serum, jejunum, and liver at levels not different from NC. MnO 2 nanozyme administration also increased duodenal DMT1 expression, decreased hepatic expression of transporters such as ZIP8, tended to increase duodenal manganese content, reduced hepatic manganese-transporter expression relative to the PC group, and alleviated hepatic manganese accumulation. In rectal fecal samples from piglets, MnO 2 nanozyme increased the relative abundance of beneficial bacterial genera, including Prevotella and Bifidobacterium . Oral MnO 2 nanozyme supplementation was associated with alleviation of PEDV GIIc-associated growth retardation and changes in intestinal morphology, antioxidant status, and manganese-related indices. The 5 mg/L group showed a favorable growth response at the lowest tested concentration. Baseline body-weight differences should be considered when interpreting these findings, and further controlled studies are needed to establish the underlying mechanisms and optimal administration regimen.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42903056",
+      "title": "Assessment of radiographic healing after tibial plateau leveling osteotomy in young and older dogs using the modified RUST scoring system.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Anderson BL, Frederick SW, Popovitch C",
+      "date": "2026 10 22",
+      "dateObject": "2026 10 22",
+      "abstract": "To compare radiographic osteotomy healing scores after tibial plateau leveling osteotomy (TPLO) in young (2-5&#x202f;years) and old (8-12&#x202f;years) dogs using the modified Radiographic Union Score for Tibial fractures (mRUST) system, and to evaluate agreement between large language model-assisted interpretation (LLM), surgeon, and surgical resident scoring. Client-owned, 20-40&#x202f;kg dogs treated with unilateral TPLO at ages 2-5 or 8-12&#x202f;years between 2023 and 2025 were retrospectively identified. Dogs with endocrinopathy or atypical TPLO or recovery were excluded. Dogs were assigned to Group 1 (2-5&#x202f;years) or Group 2 (8-12&#x202f;years). 8-week postoperative radiographs were scored independently by an LLM, a surgeon, and a surgical resident using the 4-point mRUST system. Scores were compared between age groups using the Wilcoxon rank-sum test, and interrater agreement was assessed using an intraclass correlation coefficient (ICC). Group 1 had 49 dogs; Group 2 had 51 dogs. Group 1 had a mean (SD) age of 3.82 (1.11) years, while Group 2 had a mean (SD) age of 9.24 (0.99) years. mRUST scores did not differ between age groups across LLM ( p &#x202f;=&#x202f;0.352), surgeon ( p &#x202f;=&#x202f;0.908), or resident assessments ( p &#x202f;=&#x202f;0.588). LLM, surgeon, and resident scores had only fair agreement (ICC&#x202f;=&#x202f;0.4504, p &#x202f;<&#x202f;0.001). Chronological age was not associated with mRUST score following TPLO at the 8-week postoperative evaluation. The mRUST system demonstrated moderate agreement between human observers. LLM scoring showed promise; further refinement is needed for clinical application.",
+      "categories": [
+        "internalMedicine",
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42903052",
+      "title": "Outcomes and prognostic factors in dogs with subcutaneous and intramuscular hemangiosarcoma treated with hypofractionated radiation therapy and chemotherapy.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Rebelo AP, Furtado A, Sellon R, Roberts GD, Fidel J",
+      "date": "2026 10 22",
+      "dateObject": "2026 10 22",
+      "abstract": "Subcutaneous (SC) and intramuscular (IM) hemangiosarcoma (HSA) in dogs are aggressive malignancies with high rates of recurrence and metastasis. Surgery is the primary treatment, but incomplete excision is common, and the role of radiation therapy (RT) remains unclear. This single-institution retrospective study evaluated outcomes and toxicities in dogs with SC and IM HSA treated with hypofractionated RT using either 24 Gy in three 8-Gy fractions (days 0, 7, and 21) or 30 Gy in five 6-Gy fractions every other day, with or without surgery and chemotherapy. Fifty-three dogs were included: 27/53 (51%) SC HSA and 26/53 (49%) IM HSA; 35/53 (66%) had macroscopic disease at RT. Overall, 47/53 (89%) received chemotherapy, of which 42/47 (89%) received doxorubicin; 35/42 (83%) received it concurrently with the first RT fraction. Among 30 evaluable dogs, the RT objective response rate (ORR) was 93% (37% complete, 56% partial). Local progression or recurrence (LPR) occurred in 11/36 (30%) dogs after a median of 128 days, predominantly with macroscopic disease (10/11). Median time to progression (TTP) was not reached (95% CI, 621 days-not reached). In an exploratory multivariable Cox analysis, metastasis was associated with increased hazard of LPR (HR, 14.95; 95% CI, 2.84-78.72; p &#x202f;=&#x202f;0.0014), whereas surgery was associated with a lower hazard, but not significantly (HR, 0.15; 95% CI, 0.018-1.24; p &#x202f;=&#x202f;0.079). Overall median survival time (MST) was 306 days (95% CI, 284-875). On univariable analysis, anemia, absence of surgery, macroscopic disease at RT, metastasis, and tumor size at diagnosis >6 cm were associated with shorter survival. Dogs undergoing surgery prior to RT had longer survival (MST, 2059 vs. 287 days; p = 0.007). In multivariable analysis, anemia remained independently associated with increased hazard of death (HR, 3.20; 95% CI, 1.38-7.45; p &#x202f;=&#x202f;0.0069), whereas metastasis, surgery, and tumor size were not independently associated with survival. Chemotherapy was not associated with survival. Radiation-associated adverse events were generally mild. Hypofractionated RT, as part of multimodal treatment in most dogs, was associated with a high ORR and may provide durable local control in dogs with non-visceral HSA.",
+      "categories": [
+        "internalMedicine",
+        "oncology",
+        "surgery"
+      ]
+    },
     {
       "pmid": "42901211",
       "title": "Target-controlled infusion of propofol induces rapid hypertriglyceridemia in healthy cats.",
@@ -739,41 +802,6 @@
       "categories": []
     },
     {
-      "pmid": "42857564",
-      "title": "Dog-mediated active-leisure engagement and organised canine sport: a cross-sectional analysis of Hungarian dog owners.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "M&#xfc;ller A, Lengyel A, Mez&#x151; K, B&#xe1;ba &#xc9;B, Bend&#xed;kov&#xe1; E, P&#xe1;link&#xe1;s R, Uvinha R, Mez&#x151; F",
-      "date": "2026 10 10",
-      "dateObject": "2026 10 10",
-      "abstract": "Companion dogs are widely seen as a route to physical activity, yet owners differ greatly in how actively they engage their animals, and average owner-non-owner comparisons obscure this variation. We asked how strongly an owner's dog-mediated active-leisure engagement is associated with organised physical activity, and whether that engagement is patterned by place of residence and by the economic priority owners assign to their dog's health. Cross-sectional survey data from 954 Hungarian adult dog owners were analysed. Engagement was measured as the mean of ten five-point items spanning affective, dispositional, and behavioural facets (Cronbach's &#x3b1; =&#x202f;0.84; McDonald's &#x3c9; =&#x202f;0.84). Lifetime participation in organised canine sport was modelled in binary logistic regression with engagement (per standard deviation), gender, capital-city residence, and age as predictors; the breadth of participation, residence, and relative health-related expenditure were examined as further outcomes. Non-linearity of the engagement effect was tested, and a latent profile analysis is reported as a supplementary comparison. Engagement was approximately normally distributed ( M =&#x202f;2.99, SD&#x202f;=&#x202f;0.83) and essentially unidimensional. Owners who had taken part in canine sport scored 0.79 standard deviations higher on engagement than those who had not. In the adjusted model, each standard deviation of engagement was associated with 2.27 times the odds of lifetime canine sport participation [95% CI (1.94, 2.64)]; the predicted probability rose from 26% one standard deviation below the mean to 65% one standard deviation above it, with a plateau above roughly 3.5 on the 1-5 scale. Capital-city residence predicted participation on its own (OR&#x202f;=&#x202f;1.89) but not once engagement was included [OR&#x202f;=&#x202f;1.36, 95% CI (0.87, 2.10)]. Engagement was higher in the capital than elsewhere and was positively associated with prioritising the dog's health in household spending. Among participants, the number of distinct sports undertaken was only weakly related to engagement. Among owners, engagement rather than ownership distinguishes the physically active from the inactive, and the association is continuous across the full range of the scale rather than confined to a distinct subgroup. The potential for promoting active living through dogs therefore lies in shifting the large mid-range of the engagement distribution, where organised canine activity is still uncommon.",
-      "categories": []
-    },
-    {
-      "pmid": "42857113",
-      "title": "Case Report: Computed tomographic diagnosis of asymmetric bilateral uterine horn torsion secondary to benign uterine leiomyomas in a non-gravid dog.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Jeong E, Kim J, Kim Y, Eom K, Kim J",
-      "date": "2026 10 10",
-      "dateObject": "2026 10 10",
-      "abstract": "Uterine torsion is uncommon in dogs and most commonly involves a single uterine horn. An 11-year-old intact female Pomeranian was presented with a 2- to 3-day history of abdominal distension, dyspnea, anorexia, vomiting, and oliguria. Clinicopathologic findings indicated renal compromise, electrolyte abnormalities, tissue injury, and marked systemic inflammation. Radiography and ultrasonography revealed large bilateral abdominal masses with peritoneal effusion, although the organ of origin could not be determined. Contrast-enhanced computed tomography (CT) demonstrated masses arising from both uterine horns, with absent central enhancement on the right, minimal central enhancement on the left, and thin peripheral rim enhancement of both masses, suggesting vascular compromise and ischemic injury. Both ovaries showed preserved contrast enhancement, and spiral twisting of both uterine horns and bilateral whirl signs were identified, with the changes being markedly more pronounced on the right. These findings permitted a preoperative diagnosis of asymmetric bilateral uterine horn torsion. Exploratory laparotomy confirmed approximately 1,080&#xb0; rotation of the right horn around the left horn and 270&#xb0; rotation of the left horn around its own axis, without gross rupture of the broad ligament. En bloc ovariohysterectomy without prior detorsion and excision of the vaginal mass were performed. Histopathologic examination confirmed leiomyomas of both uterine horns and of the vaginal mass, with extensive hemorrhage and necrosis of the right horn. The dog recovered uneventfully and remained clinically well 9&#x202f;months after surgery. To the authors' knowledge, this is the first report of bilateral uterine torsion associated with benign leiomyomas in a dog and the first description of bilateral whirl signs on CT in canine uterine torsion.",
-      "categories": [
-        "internalMedicine",
-        "surgery"
-      ]
-    },
-    {
-      "pmid": "42857385",
-      "title": "Erythrocyte membrane lipidomic signatures in canine lymphoma: immunophenotype-specific alterations and prognostic associations.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Rinaldi V, Bel&#xe0; B, Porreca A, Fusaro I, Luciani A, Scipioni G, Ferreri C, Gramenzi A, Boari A, Crisi PE",
-      "date": "2026 10 10",
-      "dateObject": "2026 10 10",
-      "abstract": "Lipid metabolic dysregulation is increasingly recognized as a hallmark of cancer. Erythrocyte membrane fatty-acid (FA) profiling may reflect systemic metabolic alterations and provide non-invasive biomarkers of tumor biology. This prospective study investigated the erythrocyte membrane lipidomic profile of dogs with lymphoma and its potential prognostic relevance. Thirty-nine dogs with newly diagnosed lymphoma were enrolled. Clinical staging, flow-cytometric immunophenotyping, and erythrocyte membrane FA analysis were performed at diagnosis. Individual FAs, FA classes, and lipid-derived indices were compared between B-cell and T-cell lymphomas. Lymphoma-specific survival (LSS) was evaluated using Kaplan-Meier analysis and exploratory univariate Cox proportional hazards models. Twenty-five dogs had B-cell lymphoma, and 14 had T-cell lymphoma. T-cell lymphomas were more frequently extranodal, whereas B-cell lymphomas were predominantly multicentric. Palmitoleic acid was significantly lower in T-cell than in B-cell lymphoma. Correlation analysis revealed distinct lipidomic interaction patterns in dogs with lymphoma compared with healthy controls, particularly involving polyunsaturated fatty acids, omega-6 fatty acids, arachidonic acid, and the unsaturation index. The estimated LSS probability was approximately 50% at 180 days. Exploratory Cox analyses identified nominal associations between mixed diet and a lower hazard of lymphoma-related death, higher oleic acid concentrations and a lower hazard, and higher cis-vaccenic acid concentrations and a higher hazard . These findings should be interpreted with caution given the limited sample size, multiple comparisons, and lack of multivariable adjustment. Overall, erythrocyte membrane FA profiling identified immunophenotype-related differences and exploratory associations with outcome, supporting further investigation of lipidomics as a potential prognostic tool in canine lymphoma.",
-      "categories": [
-        "oncology"
-      ]
-    },
-    {
       "pmid": "42859172",
       "title": "Morpho-molecular assessment of nanomaterials in teleost fish wound healing: a systematic review.",
       "journal": "BMC Veterinary Research",
@@ -885,31 +913,6 @@
         "cardiology",
         "internalMedicine",
         "oncology"
-      ]
-    },
-    {
-      "pmid": "42846899",
-      "title": "Chronic renal disease detection developments with future potential to improve veterinary clinical practice.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Arevalo Turrubiarte M, Rideout H, Whetton AD, Geifman N, Armstrong SK",
-      "date": "2026 10 08",
-      "dateObject": "2026 10 08",
-      "abstract": "Chronic Kidney Disease (CKD) is a major global human and veterinary health concern. Novel blood and urine biomarkers currently offer significant opportunities to advance early diagnosis, prognosis, and clinical outcomes. Adopting a translational medicine approach, we summarise research performed to date on CKD biomarkers in humans and relate these findings to companion animal CKD biomarker research. Emerging candidates, including microRNAs and multiprotein measurements for diagnostic signatures, are also considered. We discuss the potential complementarity offered by multi-omic approaches and Artificial Intelligence (AI) driven diagnostic algorithm generation for the understanding of CKD pathogenesis in dogs and cats.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42846857",
-      "title": "Analgesic effect of methadone constant rate infusion is not superior to fentanyl constant rate infusion in dogs after spinal surgery: a prospective, randomized, blinded, clinical trial.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Sch&#xfc;tter AF, K&#xe4;stner SBR, Prause B, T&#xfc;nsmeier J",
-      "date": "2026 10 08",
-      "dateObject": "2026 10 08",
-      "abstract": "This study aimed to compare the analgesic efficacy of methadone and fentanyl infusions at a 50:1 dose rate in dogs after spinal surgery. In a prospective, randomized, blinded clinical trial, 42 dogs with intervertebral disk disease were evaluated at 1, 2, 4, 18, 24, 42, 48, 66, 72, 90, and 96&#x202f;h after extubation. Based on the treatment groups, the dogs received a presurgical bolus of 0.25&#x202f;mg/kg methadone or 5&#x202f;&#x3bc;g/kg fentanyl, followed by an intraoperative and postoperative opioid infusion. In the methadone (M) treatment group, the dogs received 0.2&#x202f;mg/kg/h methadone, which was reduced stepwise to 0.05&#x202f;mg/kg/h. In the fentanyl (F) treatment group, the initial dose of 5&#x202f;&#x3bc;g/kg/h was reduced stepwise to 1&#x202f;&#x3bc;g/kg/h. Assessments at each time point included a simple sedation score, vital parameters, pain scoring using the Glasgow Composite Measure Pain Scale (CMPS-SF), and sensory testing with von Frey filaments. Multiple Mann-Whitney tests were used for the analysis of CMPS-SF scores and sedation scores. Vital parameters, between and within the groups, were analyzed using mixed-effects analysis and Dunnett's multiple comparison test. The need for rescue analgesia was assessed via survival analysis. The level of significance was set to &#x3b1;&#x202f;=&#x202f;5%. In the postoperative period, six dogs in group M and four dogs in group F required rescue analgesia. CMPS-SF scores were not different between the groups M and F and did not change significantly over time within the treatment groups. Tactile sensory thresholds were not different between the groups M and F. Under the dosing regimens investigated, methadone did not provide superior postoperative analgesia compared to fentanyl. From a clinical perspective, both drugs provided effective postoperative analgesia in this heterogeneous cohort of dogs following spinal surgery.",
-      "categories": [
-        "surgery",
-        "neurology"
       ]
     },
     {

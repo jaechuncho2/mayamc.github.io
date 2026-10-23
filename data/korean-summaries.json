@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T00:01:20.484Z",
+  "updated_at": "2026-10-23T00:00:42.435Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -7055,6 +7055,46 @@
       "title": "Target-controlled infusion of propofol induces rapid hypertriglyceridemia in healthy cats.",
       "journal": "American Journal of Veterinary Research",
       "generated_at": "2026-10-22T00:01:20.465Z",
+      "model": "gpt-5-mini"
+    },
+    "42903052": {
+      "brief_summary": "본 단일 기관 후향적 연구는 피하(SC) 및 근내(IM) 혈관육종(hemangiosarcoma, HSA) 개 53마리를 대상으로 저분할 방사선치료(hypofractionated radiation therapy, RT)와 수술·항암요법 병행 시 결과와 독성을 평가했다. 30예 평가에서 방사선 반응률(ORR)은 93%(완전 관해 37%, 부분 관해 56%)였고 전체 중앙 생존기간(MST)은 306일이었다. 수술을 시행한 군은 수술 전 RT를 받은 개에서 생존 기간이 유의하게 길었고(중앙값 2059 vs. 287일, p=0.007), 빈혈은 다변량 분석에서 사망 위험 증가(HR 3.20, p=0.0069)와 독립적으로 연관되었다. 방사선 관련 이상반응은 대체로 경미했다.",
+      "detailed_summary": "단일 기관의 후향적 연구로 SC HSA 27마리, IM HSA 26마리 등 총 53마리를 포함했으며 35/53(66%)에서 방사선치료 시 육안적 종양(macroscopic disease)이 존재했다. 사용된 저분할 RT는 24 Gy(8 Gy×3회, D0/7/21) 또는 30 Gy(6 Gy×5회, 격일)였고 47/53(89%)가 항암화학요법을 받았으며 그중 42/47는 독소루비신(doxorubicin)을 투여했고 35/42는 첫 회 방사선과 동시 투여했다. 30예에서 평가 가능한 방사선 반응률(ORR)은 93%(완전관해 37%, 부분관해 56%)였고 국소 진행/재발(LPR)은 36예 중 11예(30%)에서 중앙 128일에 발생해 주로 육안적 종양에서 나타났다. 무진행기간(TTP)은 중앙값에 도달하지 않았고(95% CI 621일–not reached), 전체 중앙 생존기간(MST)은 306일(95% CI 284–875)이었다. 단변량 분석에서 빈혈, 수술 미시행, 방사선 시 육안적 질환, 전이, 진단 시 종양 크기>6 cm가 짧은 생존과 연관되었고 다변량 분석에서는 빈혈만이 사망 위험을 독립적으로 증가시켰다(HR 3.20, p=0.0069). 탐색적 다변량 분석에서는 전이가 국소 진행 위험을 유의하게 증가시켰고(HR 14.95, p=0.0014) 수술은 LPR 위험을 낮추는 경향을 보였으나 통계적 유의성은 없었으며 항암화학요법은 생존과 연관되지 않았다. 방사선 관련 이상반응은 전반적으로 경미했고 저분할 RT는 대부분의 증례에서 다학제적 치료의 일부로 높은 국소 반응을 보이며 비내장성(non-visceral) HSA에서 국소 조절을 제공할 수 있음을 시사했다.",
+      "title": "Outcomes and prognostic factors in dogs with subcutaneous and intramuscular hemangiosarcoma treated with hypofractionated radiation therapy and chemotherapy.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-10-23T00:00:42.422Z",
+      "model": "gpt-5-mini"
+    },
+    "42903056": {
+      "brief_summary": "2023–2025년에 시행된 일측 경골고원 평형 절골술(TPLO) 후 8주 방사선 사진에서 수정 RUST(mRUST) 점수를 젊은 개(2–5세, n=49)와 고령 개(8–12세, n=51)에서 비교한 후향적 연구이다. LLM(대형 언어 모델), 외과 수의사, 외과 전공의가 4점 mRUST로 독립 평가하였고 연령대에 따른 mRUST 점수 차이는 LLM(p=0.352), 외과의(p=0.908), 전공의(p=0.588) 모두에서 유의하지 않았다. 저자들은 8주 시점에서 연령이 방사선학적 골유합(mRUST)과 연관되지 않았고, LLM 기반 판독은 가능성을 보이나 임상 적용을 위해 추가 개선이 필요하다고 결론지었다.",
+      "detailed_summary": "대상은 2023–2025년 사이에 체중 20–40 kg의 반려견으로 일측 TPLO를 받은 환자 중 내분비 질환이나 비정형 TPLO·회복을 보인 증례를 제외하고 후향적으로 선정하였다. 개체는 2–5세(Group 1, n=49, 평균 3.82±1.11세)와 8–12세(Group 2, n=51, 평균 9.24±0.99세)로 분류되었다. 8주 후 촬영한 방사선 사진을 4점 척도의 수정 RUST(mRUST)로 LLM, 외과 수의사, 외과 전공의가 독립적으로 채점하였다. 연령군 간 점수 비교는 Wilcoxon rank-sum 검정을 사용하였고 LLM(p=0.352), 외과의(p=0.908), 전공의(p=0.588) 모두에서 유의한 차이를 보이지 않았다. 평가자 간 일치도는 ICC=0.4504(p<0.001)로 보고되어 연구에서는 'only fair' 수준의 일치도를 보였다고 기술하였다. 결론적으로 8주 시점의 mRUST로 평가한 방사선학적 골유합은 연령과 연관성이 없었고, mRUST는 인간 관찰자 간 어느 정도의 일치도를 보였으며 LLM 판독은 잠재력을 보였으나 임상 적용 전 추가 개선이 필요하다고 보고하였다.",
+      "title": "Assessment of radiographic healing after tibial plateau leveling osteotomy in young and older dogs using the modified RUST scoring system.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-10-23T00:00:27.399Z",
+      "model": "gpt-5-mini"
+    },
+    "42903197": {
+      "brief_summary": "신생자돈(돼지 유행성 설사 바이러스(PEDV) GIIc에 노출된 자돈)을 대상으로 경구 망간 이산화물(MnO2) 나노자임 보충이 성장과 생리지표에 미치는 영향을 평가했다. MnO2 나노자임 투여군은 평균 일일 증체량(ADG)과 공장(jejunum) 유모(villus) 높이가 정상 수준으로 회복되고 혈청·장·간의 GSH 및 CAT 등 항산화 지표가 음성대조군(NC)과 유사하게 유지되었다. 또한 장내 DMT1 발현 증가, 간의 ZIP8 등 수송체 발현 감소와 간 내 망간 축적 완화, 배변 미생물에서 Prevotella 및 Bifidobacterium 상대적 증가가 관찰되어 PEDV 관련 성장지연 완화와 연관이 있었다(최저 유효농도: 5 mg/L).",
+      "detailed_summary": "연구는 PEDV GIIc에 감염된 모돈으로부터 태어난 16개 분만군(리터)을 체중 및 PEDV RT-qPCR Ct 값에 따라 네 개 처리군으로 배정하고, 비감염 모돈의 4개 분만군을 음성대조(NC)로 사용했다. 자돈은 생후 3일에서 21일 사이에 격일로 서로 다른 농도의 경구 MnO2 나노자임을 투여받았다. 주요 평가 항목은 평균 일일 증체량(ADG), 공장 유모 높이, 혈청 및 조직의 항산화 지표(CAT, GSH), 소장·간의 망간 수송체 발현과 간 내 망간 축적, 그리고 직장 분변의 미생물 구성이었다. PEDV 양성 대조군(PC)은 NC에 비해 ADG와 공장 유모 높이가 유의하게 낮았고(P < 0.05), 혈청 CAT 활성 및 GSH 농도, 공장 내 GSH가 감소했으며 소장 수송체 발현 변화와 간 내 망간 축적 증가가 관찰되었다. MnO2 나노자임 투여는 ADG를 NC 수준으로 회복시키고 공장 유모 높이를 개선했으며 혈청·공장·간의 GSH를 NC와 유사한 수준으로 유지했다. 또한 투여군에서는 소장 DMT1 발현이 증가하고 간의 ZIP8 등 수송체 발현이 감소하면서 간 내 망간 축적이 완화되었고, 분변에서 Prevotella 및 Bifidobacterium의 상대적 풍부도가 증가하였다. 연구자들은 5 mg/L 군에서 최저 농도에서도 유리한 성장 반응을 보였다고 보고했으며, 기저 체중 차이가 결과 해석에 영향을 줄 수 있으므로 향후 통제된 추가 연구를 통해 최적 용법과 기전을 확립해야 한다고 결론지었다.",
+      "title": "Manganese dioxide nanozyme alleviates PEDV GIIc-associated growth retardation in neonatal piglets by improving antioxidant status, intestinal morphology, and manganese homeostasis.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-10-23T00:00:13.724Z",
+      "model": "gpt-5-mini"
+    },
+    "42903212": {
+      "brief_summary": "본 연구는 영국 및 아일랜드의 대규모 다기관 수의 네트워크(>1,000개 클리닉)의 자발적 사고·근접사고 보고 시스템을 이용해 2024년 1월~2025년 10월 사이 보고된 개·고양이 물림 사건의 발생 양상과 특징을 분석했다. 총 2,327건(개 1,239건·53.24%, 고양이 1,088건·46.76%)이 보고되었고, 가장 흔한 물림 부위는 손과 손가락(개 63.0%, 고양이 80.6%)이었다. 임상적으로는 저스트레스 핸들링, 환경 조정 및 동물 행동 지식 향상을 통해 물림 사고를 줄이는 노력이 필요하다고 결론지었다.",
+      "detailed_summary": "연구는 대형 수의 그룹의 기존 자발적 사고·근접사고 보고 데이터를 사용한 관찰적 분석이다. 대상은 2024년 1월부터 2025년 10월까지 영국 및 아일랜드의 >1,000개 클리닉에서 자발적으로 보고된 개·고양이 물림 사건으로 총 2,327건(개 1,239건·53.24%, 고양이 1,088건·46.76%)을 포함했다. 주요 평가항목은 해부학적 물림 부위, 발생 시간대, 발생 장소(직종별 차이) 및 보고서에 기재된 행동 표현이었다. 결과는 손·손가락이 가장 흔한 부위(개 63.0%, 고양이 80.6%)였고, 사건의 대부분은 오전 9시~오후 6시 사이에 발생(개 80.60%, 고양이 77.96%)했다. 수의사는 주로 진료실에서 물림을 보고한 반면 비수의사는 준비 구역에서의 물림 보고가 더 많았다. 보고서에서는 'aggression'이라는 표현이 가장 빈번하게 사용되었고, 연구진은 저스트레스 핸들링, 환경 적응, 동물 행동 교육과 함께 사건 보고 개선 및 인간 행동 변화 접근의 필요성을 제시했다. 데이터가 해당 네트워크의 자발적 보고 시스템에 의존한다는 점이 결과 해석과 적용에 있어 중요한 고려사항으로 제시되어 있다.",
+      "title": "Epidemiology of voluntarily reported dog and cat bite incidents in a large-scale, multi-site veterinary network in the UK and Ireland.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-10-22T23:59:56.224Z",
+      "model": "gpt-5-mini"
+    },
+    "42904074": {
+      "brief_summary": "13세 스피츠 믹스(중성화 암컷, 샤이 추이 독) 한 마리를 대상으로 한 증례보고로, 간우세포암종(hepatocellular carcinoma, HCC) 진단 후 절제 불가 상황에서 유전체 프로파일링에 기반한 올라파립(olaparib)과 절제술 및 개 인터루킨-15(cIL-15) 면역치료를 포함한 다중모달 치료를 시행하고 혈청 알파태아단백(alpha-fetoprotein, AFP)을 연속적으로 모니터링한 임상 경과를 보고했다. 치료 후 10개월간 임상 및 영상학적 안정과 유의한 AFP 감소를 보였으나, cIL-15 중단과 올라파립 용량 감소 이후 AFP가 재상승하고 초음파상 종양 재발이 확인되었으며 최초 발견 후 20개월에 사망하였다. 이 증례는 혈청 AFP가 질병 모니터링의 보조적 바이오마커로서 잠재적 유용성을 가질 수 있음을 시사한다는 임상적 함의를 제시한다.",
+      "detailed_summary": "단일 증례보고로, 13세 스파이드(중성화 암컷) 시추(Shih Tzu)에서 수개월간 간 효소 상승을 보이는 가운데 진단영상에서 꼬리엽(caudate lobe) 꼬리돌기(caudate process)에서 발생하여 꼬리대정맥(caudal vena cava)에 유착된 단일 간종괴가 확인되었다. 초음파 유도 트루컷(tru-cut) 생검으로 조직병리학적 검사에서 HCC가 확인되었고 혈청 AFP 농도는 현저히 상승해 있었다. 완전 외과적 절제가 꼬리대정맥에 유착되어 불가능했고, 개 HCC에 대한 기존 화학요법의 효능이 제한적이라는 점 및 유전체 프로파일링 결과를 근거로 올라파립 치료를 시작했다. 2개월 후 종양 진행 및 질량 효과 악화가 관찰되어 감량적(세포감소) 수술을 시행했고, 수술 후 잠재적 미세전이를 통제하기 위해 올라파립과 cIL-15 면역치료를 병행했다. 치료 경과로 10개월간 임상·영상적 안정과 함께 혈청 AFP가 유의하게 감소했으나, cIL-15 중단과 올라파립 용량 감소 이후 AFP가 점진적으로 반등했고 초음파로 종양 재발이 확인되었으며, 환자는 최초 종괴 발견 20개월 후 사망했다. 이 증례는 연속적인 혈청 AFP 측정이 추적관찰에 보조적으로 유용할 수 있음을 제시하지만 단일 증례라는 한계로 인해 일반화하거나 인과관계를 확정할 수 없음을 명시한다.",
+      "title": "Case Report: Long term multimodality treatment of canine hepatocellular carcinoma with serial monitoring of serum alpha-fetoprotein.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-10-22T23:59:42.747Z",
       "model": "gpt-5-mini"
     }
   }
