@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T00:00:42.435Z",
+  "updated_at": "2026-10-23T23:54:32.233Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -7095,6 +7095,118 @@
       "title": "Case Report: Long term multimodality treatment of canine hepatocellular carcinoma with serial monitoring of serum alpha-fetoprotein.",
       "journal": "Frontiers in Veterinary Science",
       "generated_at": "2026-10-22T23:59:42.747Z",
+      "model": "gpt-5-mini"
+    },
+    "42906589": {
+      "brief_summary": "이 후향적 관찰 연구는 2019년 1월~2025년 12월 간절제술을 받은 개들을 대상으로 수술 후 저인산혈증 발생을 기술하고 절제 범위와의 연관성을 평가했다. 총 42마리 중 7마리(16.7%)가 수술 후 저인산혈증을 보였고, 모두 대분절(division) 간절제술을 받은 개(7/23, 30.4%)였다. 연구자는 간절제술 후 특히 대분절 절제에서 인(P) 농도가 감소하므로 수술 후 인 농도 모니터링을 고려할 것을 제안했다.",
+      "detailed_summary": "연구는 2019-01-01부터 2025-12-15까지 간절제술을 받은 개로, 수술 전과 수술 후 72시간 이내에 혈청 인(phosphorus) 농도 기록이 있는 증례를 후향적으로 관찰했다. 심각한 영향을 줄 수 있는 동반질환 또는 합병증이 있는 개는 제외되었고, 최종 포함 수는 42마리(대분절 간절제 23마리, 소분절(subdivisional) 간절제 19마리)였다. 주요 평가항목은 수술 전후 인 농도 변화(ΔP)와 수술 후 저인산혈증 발생 유무였고, 통계검정은 Mann–Whitney 검정과 Fisher의 정확검정을 사용했다. 전체 중앙 ΔP는 -0.8 mg/dL(범위 -3.8~3.4)였고, 대분절군의 중앙 ΔP는 -0.9 mg/dL(범위 -3.8~3.4), 소분절군은 -0.5 mg/dL(범위 -1.7~1.2)로 보고되었다. 7마리(16.7%)가 수술 후 저인산혈증을 보였고(발생 시점 중앙 20시간, 범위 16~43시간), 이들 모두 대분절 간절제 환자였으며(대분절군 7/23, 30.4%), 3마리는 정맥내(IV) 칼륨 인산염으로 치료받았다. 소분절 간절제군에서는 저인산혈증이 기록된 증례가 없었다(0/19). 결론적으로 수술 후 저인산혈증은 간절제술 후 발생할 수 있으며 특히 대분절 절제에서 더 흔했으므로 수술 후 인 농도 평가를 고려할 수 있다. 연구는 후향적 관찰 연구로 수행되었으며, 초록에는 별도의 제한점이 구체적으로 기술되어 있지 않다.",
+      "title": "Acute postoperative hypophosphatemia is a potential sequela following hepatectomy in dogs.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-10-23T23:53:15.017Z",
+      "model": "gpt-5-mini"
+    },
+    "42906593": {
+      "brief_summary": "건강한 성견 12마리(대조군 n=6, 역전군 n=6)를 대상으로 rocuronium으로 유발한 중등도 신경근 차단(NMB)을 sugammadex 2 mg/kg로 역전시키는 효과와 재발(recurarization)을 평가한 연구다. T1 재현 시 sugammadex 2 mg/kg 투여군은 정규화된 TOF비율(TOFR) ≥0.9까지의 회복 시간이 중간값 1.3분(범위 0.8–3.0)으로 대조군의 18.6분(12.3–35.5)보다 유의하게 짧았다. 60분간의 추적 동안 재발은 관찰되지 않아 임상적으로 빠르고 지속적인 회복을 제공할 수 있음을 시사한다. 객관적 신경근 모니터링은 여전히 회복 판단에 필수적이라고 결론지었다.",
+      "detailed_summary": "전향적 비무작위·비맹검 실험 연구로, 12마리의 건강한 혼혈 성견을 전신마취(유도: propofol, 유지: isoflurane, 무진정제)하에 평가하였다. 신경근 기능은 train-of-four(TOF) 가속근전도(TOF acceleromyography)로 모니터링하였고, 중등도 NMB는 TOF 카운트 1–3으로 정의했다. rocuronium 0.6 mg/kg IV 투여 후, 역전군에는 T1 재현 시 sugammadex 2 mg/kg IV를 투여하였고 완전 회복은 정규화된 TOF비율(TOFR, 측정 TOFR/기저 TOFR) ≥0.9로 정의하였다. 회복 시간은 T1 재현부터 TOFR ≥0.9까지로 측정했으며, 역전군의 중앙값은 1.3분(0.8–3.0)으로 대조군의 18.6분(12.3–35.5)보다 유의하게 짧았다. 역전 후 60분간 관찰에서 재발(recurarization)은 관찰되지 않았다. 결론적으로 sugammadex 2 mg/kg은 등마취(isoflurane) 하의 중등도 rocuronium 유발 NMB를 T1 재현에서 빠르고 지속적으로 역전시켰으나, 연구가 비무작위·비맹검 설계였고 관찰 기간이 60분으로 제한된 점을 고려해야 한다.",
+      "title": "Sugammadex at 2 mg/kg provides rapid and sustained reversal of moderate rocuronium-induced neuromuscular blockade in isoflurane-anesthetized dogs.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-10-23T23:53:01.005Z",
+      "model": "gpt-5-mini"
+    },
+    "42906618": {
+      "brief_summary": "단일 기관의 전향적 임상연구에서 컴퓨터단층촬영(CT)으로 확인된 견(개) 주관절 골관절염(OA) 환견에 대해 관절내(IA) 1 mL의 2.5% 주입형 폴리아크릴아미드 하이드로겔(iPAAG)을 투여한 결과, 통증 및 기능 지표에서 3~12개월까지 유의한 개선을 보였다. 주요 평가도구인 Canine Brief Pain Inventory(CBPI)의 통증 심도 및 간섭 점수, 수정 Glasgow 통합 통증 척도, Numerical Rating Score 등에서 개선이 관찰되었고 혈액검사상 임상적으로 의미 있는 변화는 없었다. 이상반응은 경미하고 일과성으로 보고되어 2.5% iPAAG는 견 주관절 OA의 국소 관절내 치료로서 안전하고 잘 견딜 수 있는 치료법으로 보인다.",
+      "detailed_summary": "연구는 2023년 10월~2024년 10월에 단일 기관에서 실시된 전향적 임상연구로, CT로 확진된 주관절 OA를 가진 보호자 소유 견 18마리를 치료했고 16마리가 연구를 완료했다. 각 관절에 1 mL의 2.5% 주입형 폴리아크릴아미드 하이드로겔(iPAAG)을 단회 관절내(IA) 주입했으며 평가 시점은 기초(0일) 및 2주, 1개월, 3개월, 6개월, 12개월이었다. 주요 평가항목은 Canine Brief Pain Inventory(CBPI) 통증 심도 및 통증 간섭 점수, 수정 Glasgow 통합 통증 척도, Numerical Rating Score, 주관절 굴곡·신전 각도(고니오메트리), 흉지지골(흉지지?)의 근지름(흉지부 사지 둘레), 관절 삼출 및 기초와 3개월 시점의 전혈구검사 및 혈액생화학이었다. 기초 대비 3~12개월 사이에 모든 지표에서 유의한 개선이 있었고, 효과크기(effect size)는 CBPI 통증 심도 0.44, 통증 간섭 0.53, 수정 Glasgow 0.69, Numerical Rating Score 0.63, 주관절 굴곡 0.31, 신전 0.64, 흉지부 사지 둘레 0.53, 관절 삼출 0.64였다. 이상반응은 경미하고 일시적이었고 혈액검사에서 임상적으로 유의한 변화는 관찰되지 않았다. 연구자는 2.5% iPAAG가 안전하고 효과적일 가능성이 있음을 결론지었으나 표본 수가 적고 대조군 부재라는 중요한 제한점이 있으며 조직학적 영향 평가는 이루어지지 않아 추가 연구가 필요하다고 보고했다.",
+      "title": "Intra-articular 2.5% polyacrylamide hydrogel provides sustained clinical improvement over 1 year in canine elbow osteoarthritis.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-10-23T23:53:24.689Z",
+      "model": "gpt-5-mini"
+    },
+    "42906717": {
+      "brief_summary": "본 연구는 심장 질환 소견이 없는 소(10마리), 고양이(10마리), 수컷 조랑말(5마리)의 동방결절(SAN)과 방실결절(AVN)을 조직학 및 면역조직화학으로 계량학적 특성화한 것이다. SAN은 모든 종에서 타원형이었고 직경은 고양이 888.58 ± 6.36 μm, 조랑말 2143.17 ± 199.13 μm, 소 2033.28 ± 939.44 μm로 보고되었다. 결절 밀도는 조랑말이 소보다 유의하게 높았고(p=0.011), AVN의 페이스메이커(P) 세포는 우제류(소·조랑말)에서 고양이보다 더 컸다(p<0.001). 모든 소에서 심장뼈(os cordis)가 확인되었고 조랑말 전수에서, 고양이의 60%에서는 연골화가 관찰되었으며 이는 고양이의 AVN 크기와 세포성 감소와 연관되었다; 기능적 평가 부재와 표본 수가 적다는 제한이 있어 추가 기능 연구가 필요하다.",
+      "detailed_summary": "연구는 심장 질환 증거가 없는 소(10), 고양이(10), 수컷 조랑말(5)의 심장을 대상으로 전통적 조직학 및 면역조직화학 기법으로 수행되었으며, 다양한 확대 배율에서 결절과 구성 세포의 형태계량학적 지표를 정량화했다. SAN은 모든 종에서 타원형을 보였고 직경은 고양이 888.58 ± 6.36 μm, 조랑말 2143.17 ± 199.13 μm, 소 2033.28 ± 939.44 μm로 보고되었다. 결절의 평균 밀도는 조랑말이 소보다 유의하게 높았으며(p=0.011), AVN의 페이스메이커(P) 세포 크기는 우제류(소·조랑말)에서 고양이보다 유의하게 컸다(p<0.001). 모든 소 심장에서 os cordis가 확인되었고 그 조직은 치밀골과 골수의 전형적 소견을 보였으며, 조랑말 전수와 고양이의 60%에서 연골화(연골화형성)가 관찰되었다. 고양이에서 관찰된 연골화는 AVN 크기와 세포성 감소와 연관되어 보고되었다. 저자들은 이와 같은 종간 구조 차이가 수의학적 심전도·전도병리 이해에 기여할 수 있으나 본 연구에는 기능적 심장 평가의 부재와 표본 수가 적다는 중요한 제한점이 있다고 결론지었다. 따라서 이 구조적 소견의 기능적 의미를 확인하기 위한 추가 연구가 필요하다.",
+      "title": "Histomorphometric characterization of cardiac nodes in cattle, ponies, and cats.",
+      "journal": "Topics in Companion Animal Medicine",
+      "generated_at": "2026-10-23T23:53:48.543Z",
+      "model": "gpt-5-mini"
+    },
+    "42907999": {
+      "brief_summary": "본 탐색적 파일럿 연구는 편측 유선절제술을 받은 암컷 개 9마리에서 냉대기 플라즈마(CAP)와 광생체조절(PBM)을 연속 적용한 부위와 대측 대조 부위를 비교하였다. 치료 부위는 육안 평가(Modified Hollander Scar Scale, Modified Draize Scoring System)와 초음파 소견에서 유의하게 더 좋은 초기 치유 지표를 보였고(예: Modified Hollander p<0.001, Modified Draize p=0.001, 초음파 반정량 p=0.029, 피하 두께 p=0.034), 적외선 열화상에서는 유의한 차이가 없었다. 결론적으로 CAP+PBM 병합 치료는 초기 상처 치유 지표와 관련이 있었으나 예비적 결과이므로 더 큰 규모의 무작위 연구로 확인이 필요하다.",
+      "detailed_summary": "연구는 전향적·무작위·맹검·개체 내 대조(intra-individual controlled) 방식의 임상 연구로, 유선 종양으로 편측 유선절제술을 받은 암컷 개 9마리를 대상으로 했다. 각 개에서 수술창의 한쪽 절제가 무작위로 CAP(Cold Atmospheric Plasma)와 PBM(Photobiomodulation) 연속 치료를 받고, 반대쪽은 치료 없이 대조로 유지되었다. 평가 시점은 수술 후 3, 7, 14일(D3, D7, D14)이며, 육안 점수(Modified Hollander Scar Scale, Modified Draize Scoring System), 초음파 검사, 적외선 열화상으로 평가했고 조직 형태계측(히스토모르포메트릭)은 D7에만 시행했다. 치료된 부위는 Modified Hollander 흉터 척도에서 p<0.001, Modified Draize 점수에서 p=0.001로 유의하게 낮은(호전된) 점수를 보였다. 초음파에서는 반정량 점수(p=0.029)와 피하 두께(p=0.034)가 감소하여 초기 회복에서의 이점이 관찰되었다. 적외선 열화상 결과는 그룹 간 유의한 차이가 없었고, 조직학적 재상피화는 수치상 치료군이 더 높았으나 통계적 유의성은 없었다(p>0.05). 저자들은 CAP+PBM 병합이 초기 육안 및 초음파 치유 지표와 관련이 있다고 결론지었으나, 표본 수가 작고 탐색적 파일럿 연구라는 중요한 제한이 있어 대규모·충분 검정력을 갖춘 무작위 연구로 추가 검증이 필요하다고 밝혔다.",
+      "title": "Combined cold atmospheric plasma and photobiomodulation is associated with improved early macroscopic and ultrasonographic wound-healing parameters after unilateral mastectomy in female dogs: an exploratory randomized intra-individual controlled clinical study.",
+      "journal": "BMC Veterinary Research",
+      "generated_at": "2026-10-23T23:53:36.997Z",
+      "model": "gpt-5-mini"
+    },
+    "42908191": {
+      "brief_summary": "이 연구는 소셜미디어로 모집된 성인 비수의사(반려묘 소유) 편의표본을 대상으로 근거 기반의 동료 검토 교육용 소셜미디어 캠페인이 고양이 골관절염(osteoarthritis, OA)에 대한 소유자 인식과 지식을 개선하는지 평가했다. 53명이 사전·사후 검증된 온라인 설문에 응답했으며 총 지식점수는 19.9±3.1에서 23.6±2.8로 유의하게 증가(p<0.001)했다. OA의 비가역성 인식, 고령묘 한정 오인 감소, 중성화 연령·야외 출입 등 위험요인 및 환경 개선(스크래칭 포스트 등)에 대한 인식이 모두 유의하게 향상되었고 참가자 대다수가 자료를 유용하다고 평가했다.",
+      "detailed_summary": "전향적 중재연구로, 소셜미디어를 통해 모집된 성인 비수의사(고양이 소유) 편의표본을 대상으로 했다. 참가자(총 53명)는 소개, 임상 징후, 진단, 관리의 4개 영역을 다루는 근거 기반 소셜미디어 캠페인(중재)을 보고 사전·사후에 검증된 온라인 설문을 완료했다. 주 평가변수는 총 지식점수와 개별 지식 항목 및 리커트 척도 태도 항목으로, 사전·사후를 짝검정 비모수검정으로 비교했다. 주요 결과로 총지식점수는 19.9±3.1에서 23.6±2.8로 증가(p<0.001)했으며, OA가 비치료성임을 올바로 인식한 비율(49.1%→83.0%, p<0.001)과 ‘고령묘에만 발생’이라는 오인의 감소(13.2%→0%, p=0.02), 위험요인 인식(6개월 이후 중성화: 9.4%→60.4%, 야외 출입: 28.3%→73.6%, 각각 p<0.001) 및 환경 개선 옵션(스크래칭 포스트: 24.5%→60.3%, p<0.001)이 모두 유의하게 향상되었다. 소유자의 진단 기여 자신감(Hodges–Lehmann shift +0.99, p=0.04)과 환경적 관리 지식(+1.49, p<0.001)은 증가했고, 평생 관리에 대한 스트레스는 감소(-0.99, p=0.01)했다. 참가자의 ≥91%가 자료를 즐겁고 유용하다고 응답했으며 96%는 콘텐츠를 공유하겠다고 답했다. 초록에는 별도의 제한점 기술이 없어 연구의 한계에 대한 자세한 언급은 제공되지 않았다.",
+      "title": "EXPRESS: Assessment of an educational social media campaign on improving feline osteoarthritis pain awareness and knowledge among cat owners.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "generated_at": "2026-10-23T23:54:19.054Z",
+      "model": "gpt-5-mini"
+    },
+    "42908201": {
+      "brief_summary": "본 연구는 만성 신부전(Chronic Kidney Disease, CKD) 관리에서 중요시되는 식이 인(phosphorus) 제한과 관련해 일부 고양이 퓨레형 간식의 인 및 칼슘 함량을 정량화하고자 했다. 상용 Inaba Churu 4종과 Weruva 저인(低磷) 3종을 편의표본으로 분석한 결과, 인은 제품별로 1포당 9–36 mg(64–600 mg/100 kcal)로 크게 달랐고, Churu 계열이 29–36 mg/포로 Weruva(9–10 mg/포)보다 높았다. 칼슘은 0.14–4.06 mg/포(2.3–67.7 mg/100 kcal)였고 Ca:P 비율은 0.004–0.119 범위로 다양해 CKD 고양이의 전체 식이 관리 시 간식의 기여를 고려해야 함을 시사한다.",
+      "detailed_summary": "연구는 일부 상용 고양이 퓨레형 간식의 인(phosphorus) 및 칼슘(calcium) 함량을 정량화하는 것을 목적으로 했다. 편의표본으로 Inaba Churu 4가지 맛과 Weruva 저인(低磷) 3가지 맛을 선택해 분석했으며, 인 및 칼슘 농도는 유도결합플라스마-광학방출분광법(inductively coupled plasma–optical emission spectrometry, ICP-OES)으로 측정했다. 결과는 제품 간 차이가 컸고, 인은 1포당 9–36 mg(단위 환산 시 64–600 mg/100 kcal), 칼슘은 0.14–4.06 mg/포(2.3–67.7 mg/100 kcal)를 보였다. 평가된 Churu 간식들은 인 함량이 29–36 mg/포로 Weruva 저인 제형(9–10 mg/포)보다 높았다. Ca:P 비율은 0.004–0.119로 제품별로 상당한 차이가 있었으며, 이러한 차이는 CKD 고양이의 전체 일일 인·칼슘 섭취 평가 시 고려되어야 한다. 본 연구는 특정 제품의 함량을 기술한 편의표본 분석으로, 조사 대상 제품 외의 다른 간식에 일반화할 수 없고 임상적 결과(예: 혈중 인 변화나 신기능 지표)에 대한 평가는 포함하지 않았다.",
+      "title": "EXPRESS: Mineral Analysis of Feline Treats: Unrecognized Sources of Phosphorus and Calcium in the Management of Chronic Kidney Disease.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "generated_at": "2026-10-23T23:54:06.523Z",
+      "model": "gpt-5-mini"
+    },
+    "42908207": {
+      "brief_summary": "본 연구는 고양이 적혈구 항원 6 (FEA 6)의 면역원성을 평가하기 위해 수혈 경험이 없는 FEA 6 음성 고양이에게 FEA 6 양성 적혈구(RBC)를 수혈하여 항-FEA 6 동종항체 생성 여부를 확인한 전향적 연구다. 연구에서 두 명의 수혈-미경험 FEA 6 음성 수혜자 모두 항-FEA 6 동종항체를 형성했으며 최고 역가는 1:8, 항체는 각각 372일 및 200일까지 검출되었다. 결과는 FEA 6이 면역원성이 있어 임상에서 설명되지 않는 수혈 후 동종항체 형성에 기여할 가능성이 있음을 시사하며, 생성된 다클론 항체는 FEA 6 타이핑과 연구에 도움이 될 수 있으나 더 내구성 있는 시약이 필요하다고 결론지었다.",
+      "detailed_summary": "연구는 전향적으로 진행되었고 AB형 및 FEA 1–6 타이핑, 자연발생 동종항체(NOAb) 검사와 적합성 검사를 포함해 53마리의 고양이를 평가하여 공여자-수혜자 쌍을 선정했다. FEA 6의 유병률은 타입 A 고양이 82마리 중 75.6% (62/82)로 보고되었고, 선별된 타입 A 고양이에서는 NOAb가 10.3%에서 검출되었으나 이들은 FEA 6을 표적으로 하지 않았다. 연구 개입으로 수혈-미경험 FEA 6 음성 고양이 2마리가 FEA 6 양성, 그 외 적합한 적혈구 수혈을 받았고 항-FEA 6 동종항체는 겔 칼럼 응집법으로 모니터링되었다. 두 수혜자 모두 항체를 형성했는데, 수혜자 1은 두 차례 감작 후, 수혜자 2는 단일 수혈 후에 반응했고 최고 역가는 1:8이었다; 항체는 각각 372일과 200일까지 검출되었다. 수혜자 유래 항-FEA 6 항체는 기준 항체와 상당한 일치(κ = 0.64–0.78, P < .001)를 보였고, 수혜자 간 비교에서는 거의 완전한 일치(κ = 0.87, P < .001)를 보였다. 결론적으로 FEA 6 양성 적혈구 수혈은 FEA 6 음성 수혜자에서 항체 형성을 일관되게 유도해 FEA 6의 면역원성을 지지하며, 생성된 다클론 항체는 타이핑 및 연구 목적으로 사용될 수 있으나 더 내구성 있는 시약이 필요하다고 저자는 제시했다.",
+      "title": "EXPRESS: Experimental Evaluation of the Immunogenicity of Feline Erythrocyte Antigen 6 (FEA 6) in Transfusion-Naive FEA 6-Negative Cats.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "generated_at": "2026-10-23T23:53:59.012Z",
+      "model": "gpt-5-mini"
+    },
+    "42908490": {
+      "brief_summary": "경증~중등도 개 아토피 피부염(canine atopic dermatitis, cAD) 개 32마리를 대상으로 동종 지방유래 중간엽 기질세포(MSC) 제제 PK/CM-1의 효능과 안전성을 로키벳맙(lokivetmab)과 비교한 단일눈가림 무작위 연구이다. D28(주 평가시점)에 양군 모두 CADESI-04 및 소양증 PVAS 점수가 기저치보다 유의하게 감소했으며 군간 유의차는 관찰되지 않았다(p=0.696, p=0.088). 결론적으로 PK/CM-1은 3개월 추적기간 동안 로키벳맙과 대체로 유사한 효능과 안전성을 보였으며, 정맥주사 투여 시 주의 깊은 모니터링이 권고된다.",
+      "detailed_summary": "연구는 단일눈가림, 무작위 배정(2:1 비율)으로 수행되었으며 실험군은 단회 정맥투여 PK/CM-1, 대조군은 매월 피하주사로 3회 로키벳맙을 투여받았다. 총 32마리의 경증~중등도 cAD 개가 포함되었고 주요 평가항목은 CADESI-04 및 소양증 평가를 위한 PVAS였으며 주 평가시점은 D28이었다(추가 평가 D7, D56, D84). D28에 양군 모두에서 CADESI-04와 PVAS가 기저치 대비 통계적으로 유의하게 감소했으나 그룹 간 유의차는 없었다(CADESI-04 p=0.696, PVAS p=0.088). 임상적 호전은 D84까지 지속되었고, 실험군에서는 D84에서 D28보다 CADESI-04 및 PVAS가 더 낮아지는 경향을 보였다(CADESI-04 p=0.0074, PVAS p=0.0015). 안전성에서는 PK/CM-1 투여 중 2건의 이상반응(중증 1건, 경증 1건)이 보고되었으나 D84 혈액학·생화학 검사에서는 임상적으로 의미 있는 이상 소견은 관찰되지 않았다. 연구 결론은 PK/CM-1이 3개월 동안 로키벳맙과 비교해 대체로 유사한 효능 및 안전성을 보였다는 것이며, 정맥주사 방식의 투여 시 주의 깊은 모니터링이 필요하다는 점이 중요하다.",
+      "title": "Efficacy and Safety of Allogeneic Mesenchymal Stromal Cells Versus Lokivetmab in Mild-To-Moderate Canine Atopic Dermatitis: A Single-Blind Randomised Study.",
+      "journal": "Veterinary Dermatology",
+      "generated_at": "2026-10-23T23:54:32.206Z",
+      "model": "gpt-5-mini"
+    },
+    "42908898": {
+      "brief_summary": "3개월 된 수컷 한국 너구리(Nyctereutes procyonoides koreensis)의 증례보고로, 입원 시 피로와 탈수, 피부병변과 함께 심잡음과 심비대가 관찰되었다. 심초음파에서 심실중격결손(VSD)과 폐동맥 협착(PS), 폐내 동정맥 아나스토모시스(IPAVAs)가 동시 존재함이 확인되었고, PS 진행과 함께 VSD의 좌→우에서 양방향(우→좌 성분 포함)으로의 전환이 관찰되었다. 산소공급 시 IPAVAs에 의한 좌심 진입 미세기포가 감소했고, 부검에서 주변막(perimembranous) VSD와 합쳐진 폐동맥 판막(형태적 type A PS)이 확인되어 PS 진행이 VSD 션트 역전과 관련될 수 있음을 시사한다.",
+      "detailed_summary": "단일 증례보고로 3개월령 중성화되지 않은 수컷 한국 너구리가 무기력, 탈수 및 Sarcoptes scabiei 의심 피부병변으로 입원하였다. 초기 검사에서 IV/VI 수축기 잡음과 방사선상 전반적 심비대가 관찰되었고, 심초음파에서는 주변막(perimembranous) 심실중격결손(VSD)과 좌→우 션트가 확인되었다. 폐동맥 판막의 명확한 구조적 이상은 초기에 보이지 않았으나 폐동맥 유속 3.87 m/s, 경미한 폐역류 속도 1.68 m/s 및 주동맥의 후협착 확장(post‑stenotic dilation)이 PS를 시사하였다. 교반 생리식염수(agitated saline) 대비 심초음파에서 네 번째 심주기 후 좌심에서 미세기포가 확인되어 폐내 동정맥 아나스토모시스(IPAVAs)가 진단되었고, 산소 보충 시 이 션트는 감소하였다. 5주 후 추적에서 흉부 방사선상 심음영은 감소했으나 심비대는 지속되었고, 심초음파는 VSD가 양방향 션트로 진행되었으며 폐동맥 판막의 수축기 돔핑과 함께 폐동맥 유속 4.39 m/s, 폐역류 속도 2.07 m/s로 PS가 악화됨을 보였다. 재검사된 교반 대비 초음파에서는 네 심주기 이내에 좌심 및 복부 대동맥에서 미세기포가 관찰되어 우→좌 성분을 포함한 션트가 확인되었고, 이 역시 산소공급 후 약화되었다. 환자는 추가 영상검사 위한 마취 유도 중 사망하였고, 부검에서 주변막 VSD와 판막 첨부융합을 보이는 type A 폐동맥 판막성 PS 및 우심실 비대·확장과 심간격 두꺼워짐이 확인되었다. 이 보고는 단일 증례로서 일반화할 수 없으나, 진행성 PS가 VSD 션트의 역전에 기여할 수 있음을 제시한다.",
+      "title": "Case Report: Concurrent ventricular septal defect, pulmonic stenosis, and intrapulmonary arteriovenous anastomoses in a Korean raccoon dog ( Nyctereutes procyonoides koreensis ).",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-10-23T23:52:42.571Z",
+      "model": "gpt-5-mini"
+    },
+    "42909056": {
+      "brief_summary": "9세 암컷 포메라니안에서 급성 신손상 이후 발생한 중증 만성 신장 질환(CKD)에 대해 동종(allo-) 지방유래 중간엽 줄기세포(AD‑MSCs)를 정맥 주입해 단기적인 임상 개선과 내약성을 평가한 증례보고이다. 3×10^6 cells/kg를 2주 간격으로 총 4회 정맥주입(덱사메타손 프리메디케이션) 후 혈청 크레아티닌 및 인 수치 감소, BUN의 하향 경향과 체중·체형점수·식욕·정신상태 개선이 관찰되었고 이상반응은 보고되지 않았다. 본 증례는 동종 AD‑MSCs의 적용 가능성과 단기 내약성을 시사하지만 단일 증례이므로 일반화할 수 없다.",
+      "detailed_summary": "증례보고로, 기존의 보존적 치료에 반응하지 않은 9세 암컷 포메라니안의 중증 CKD에 대해 동종 지방유래 중간엽 줄기세포(AD‑MSCs)를 사용해 임상 양상과 단기 내약성을 평가했다. AD‑MSCs는 건강한 기증견으로부터 무균 수집·분리·배양·특성평가 및 미생물학적 안전성 검사를 거쳐 준비되었다. 치료는 덱사메타손 프리메디케이션 후 정맥주입으로 3×10^6 cells/kg를 2주 간격으로 총 4회 시행하였고, 치료 기간 동안 기존의 보존적 관리는 지속되었다. 주요 관찰 소견으로 혈청 크레아티닌과 인의 감소, 혈중 요소질소(BUN)의 하향 경향이 보고되었고 체중, 체형점수(BCS), 식욕 및 정신상태의 호전이 관찰되었다. 치료와 추적 동안 보고된 이상반응은 없었다. 저자들은 이 증례가 동종 AD‑MSCs의 임상적 적용 가능성과 단기 내약성에 대한 근거를 제공한다고 결론지었으나, 단일 증례 연구이며 장기적 효과와 안전성에 대한 데이터는 없다는 중요한 제한점을 명시하고 있다.",
+      "title": "Case Report: Allogeneic adipose-derived mesenchymal stem cells for severe chronic kidney disease in a dog.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-10-23T23:52:31.207Z",
+      "model": "gpt-5-mini"
+    },
+    "42910107": {
+      "brief_summary": "본 증례 시리즈는 인간의 nevus lipomatosus cutaneous superficialis (NLCS)와 형태가 유사한 진피 내 지방집합을 보이는 새로운 피부 병변을 개 5례, 고양이 1례(총 6례, 1.5년간)에서 보고하였다. 모든 증례에서 진피에 피하조직과 연결되지 않은 잘 분화된 지방세포 집합이 관찰되었고, 저자들은 임상·조직학적으로 인간 NLCS와 유사하다고 판단하였다. 기존에 반려동물에서 보고된 바 없으므로 'superficial lipomatous hamartoma'라는 명칭을 제안하며, 진단 인지에 대한 임상적 유용성을 시사한다.",
+      "detailed_summary": "연구는 지난 1년 반 동안 수집된 임상 증례 6례(개 5, 고양이 1)를 대상으로 한 증례 보고이다. 목적은 인간의 NLCS(nevus lipomatosus cutaneous superficialis)와 유사한 피부 병변의 거시적 소견, 조직병리학, 성별·연령 분포를 비교하는 것이었다. 모든 사례에서 진피 내부에 피하조직과 연결이 없는 잘 분화된 지방세포 집단이 관찰되어 조직학적으로 NLCS와 유사한 소견을 보였다. 저자들은 수의학적 용어에서 'nevus' 사용의 혼동 가능성과 색소 병변과의 오인 우려를 들어 기존 명칭 대신 'superficial lipomatous hamartoma'를 제안하였다. 본 보고는 해당 병변이 반려동물에서 이전에 보고된 적이 없음을 강조하지만, 증례 수가 적고 증례보고 형식이므로 유병률·원인·예후 등에 대한 일반화는 불가능하다. 추가 연구로 병변의 임상적 경과, 진단 기준 및 분자병리학적 특성 검토가 필요함을 시사한다.",
+      "title": "Case series: Superficial lipomatous hamartoma in dogs and cats is a previously unreported NLCS-like dermal lesion.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-10-23T23:52:21.152Z",
+      "model": "gpt-5-mini"
+    },
+    "42911314": {
+      "brief_summary": "말레이시아 반도 북부 국경의 면역 벨트에서 소유 개 154마리를 대상으로 현장 광견병 예방접종 전·후 혈청학적 반응을 평가했다. 예방접종 후 중화항체역가(Virus-neutralising antibody, IU/mL 기준)가 유의하게 증가하여 기준치(≥0.5 IU/mL)를 만족하는 비율이 72.7%에서 98.1%로 상승했다. 대다수 개에서 추적 시점에도 기준을 충족했으나 표본과 측정 한계로 인해 모집단 면역이나 임상적 유효성 추정은 불가능하다고 결론지었다.",
+      "detailed_summary": "연구는 현장 프로그램의 루틴 데이터를 이용해 소유 개 154마리를 접종 직전과 접종 후 30~83일(중앙값 43일)에 채혈하여 분석한 환자-대조(쌍) 설계다. 광견병 바이러스 중화항체는 형광항체 바이러스 중화검사(FAVN)를 사용해 IU/mL로 측정했고, 쌍별 수치는 Wilcoxon signed-rank 검정으로, 기준치 비율 비교는 정확한 McNemar 검정으로 분석했다. 예방접종 전 ≥0.5 IU/mL 비율은 72.7% (112/154, 95% CI 65.2–79.1%)에서 접종 후 98.1% (151/154, 95% CI 94.4–99.3%; p<0.001)로 증가했다. 중앙값은 1.98 IU/mL (IQR 0.38–5.92)에서 13.5 IU/mL (IQR 4.5–13.5)로 증가했으며, 쌍별 중앙 증가량은 5.45 IU/mL (부트스트랩 95% CI 3.31–7.25; p<0.001)였다. 측정값은 128마리에서 증가, 19마리에서 변화 없음, 7마리에서 감소했으며 추적값 8건이 데이터셋 상한값(13.5 IU/mL)에 해당해 상한 검출 제한이 의심된다. 연구자는 이전 접종력이 기록된 개가 99마리, 첫 예방접종으로 기록된 개가 7마리여서 이들 간 비교가 제한적이며, 편의 표집·불완전한 추적·측정 한계로 인해 본 코호트로만 해석해야 하고 모집단 수준의 면역률이나 임상적 효과성 추정은 불가하다고 보고했다.",
+      "title": "Serological response to field rabies vaccination in owned dogs in the immune belt of Peninsular Malaysia.",
+      "journal": "Veterinary Research Communications",
+      "generated_at": "2026-10-23T23:52:51.571Z",
+      "model": "gpt-5-mini"
+    },
+    "42912657": {
+      "brief_summary": "본 연구는 냉장 보관 혈소판(CSP)을 이용해 출혈성 혈소판 감소증(thrombocytopenia) 개에서 지혈 효과와 안전성을 평가한 후향적 코호트 연구이다. 총 24마리의 개에서 27회의 CSP(4°C, 최대 21일 보관) 수혈을 시행한 결과, 혈소판 수치는 유의한 증가가 없었으나(D0 평균 23 × 10^3/µL → D0 후 28 × 10^3/µL, P = .84), 수정된 일일 개 출혈 평가 도구(DOGiBAT) 점수는 4시간 후 유의하게 감소하였다(3.15 ± 2.4 → 2.21 ± 2.1; 평균 변화 −0.94; P = .002). 임상적 개선은 27회 수혈 중 19회(70%)에서 관찰되었고, 수혈반응은 보고되지 않았으며 24마리 중 19마리(79%)가 퇴원했다는 점에서 CSP는 임상적 지혈 보조제로서 실용적일 수 있음을 시사한다.",
+      "detailed_summary": "본 연구는 2022년 3월부터 2024년 10월까지 수의대 임상군에서 CSP를 투여받은 혈소판 감소증 개 24마리(총 27회 수혈)를 후향적으로 분석한 코호트 연구이다. 사용된 혈소판제제는 4°C에서 최대 21일간 보관된 CSP였고, 출혈 정도는 수정된 일일 개 출혈 평가 도구(DOGiBAT)로 수혈 전과 수혈 1시간·4시간 후에 평가하였다. 주요 평가항목은 출혈 점수 변화, 임상 반응, 수혈반응 유무 및 퇴원 생존율이었다. 평균 수혈 전 혈소판 수는 23 × 10^3/µL(범위 2–107 × 10^3/µL), 수혈 후 평균은 28 × 10^3/µL(범위 2–100 × 10^3/µL)로 통계적 유의성은 없었다(P = .84). 반면 DOGiBAT 점수는 기저 3.15 ± 2.4에서 4시간 후 2.21 ± 2.1로 유의하게 감소하여(평균 변화 −0.94; P = .002) 출혈 중증도는 호전 양상을 보였다. 임상적 개선은 27회 중 19회(70%)에서 관찰되었고 수혈 관련 이상반응은 문서상 보고되지 않았으며, 대상 개 중 19마리(79%)가 퇴원하였다. 결론적으로 본 데이터는 CSP가 관찰 기간 내에 잘 견디며 출혈 중증도 감소와 연관되어 임상적 지혈 보조 옵션으로 고려될 수 있음을 제시하나, 연구는 후향적 코호트 설계임을 명시한다.",
+      "title": "The use of cold-stored platelets to provide hemostasis in dogs with thrombocytopenia.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-10-23T23:52:14.262Z",
       "model": "gpt-5-mini"
     }
   }
