@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T23:52:01.541Z",
+  "updated_at": "2026-10-24T23:17:03.207Z",
   "papers": [
     {
       "pmid": "42912657",
@@ -11,6 +11,28 @@
       "abstract": "Platelet transfusion can be lifesaving in dogs with severe thrombocytopenia and hemorrhage, but platelet products are limited by short shelf life and contamination risk. Cold-stored platelets (CSP) may provide a practical alternative, but in vivo hemostatic efficacy in dogs is unknown. Evaluate the clinical hemostatic efficacy and safety of CSP transfusions in thrombocytopenic dogs. Twenty-four thrombocytopenic dogs from a veterinary teaching hospital population that received CSP transfusions between March 2022 and October 2024. Retrospective cohort study. Medical records of dogs receiving platelet concentrate stored at 4&#xa0;&#xb0;C for up to 21&#xa0;days were reviewed. Hemorrhage severity was assessed using a modified Daily Canine Bleeding Assessment Tool (DOGiBAT) score before transfusion and at 1 and 4&#xa0;h post-transfusion. Primary outcomes included change in bleeding score, clinical response, transfusion reactions, and survival to discharge. Twenty-four dogs received 27 CSP transfusions. Mean pre-transfusion platelet count was 23&#xa0;&#xd7;&#xa0;103/&#x3bc;L (range, 2-107&#xa0;&#xd7;&#xa0;103/&#x3bc;L) and mean post-transfusion count was 28&#xa0;&#xd7;&#xa0;103/&#x3bc;L (range, 2-100&#xa0;&#xd7;&#xa0;103/&#x3bc;L; P&#xa0;=&#xa0;.84). Mean DOGiBAT score decreased from 3.15&#xa0;&#xb1;&#xa0;2.4 at baseline to 2.21&#xa0;&#xb1;&#xa0;2.1 at 4&#xa0;(mean change, -0.94; P&#xa0;=&#xa0;.002). Clinical improvement occurred in 19 of 27 transfusions (70%). No transfusion reactions were documented. Nineteen of 24 dogs (79%) survived to discharge. Cold-stored platelets were well-tolerated and associated with decreased bleeding severity in thrombocytopenic dogs, supporting CSP as a practical platelet transfusion option for clinical hemostatic support.",
       "categories": [
         "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42915569",
+      "title": "Tablet crushing, but not splitting, alters the pharmacokinetics of extended-release levetiracetam in dogs.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Mondino A, Nettifee JA, Simon KE, Papich MG, Mu&#xf1;ana KR",
+      "date": "2026 10 23",
+      "dateObject": "2026 10 23",
+      "abstract": "To compare the pharmacokinetics of intact, split, and crushed levetiracetam (LEV) extended-release (LEV-XR) tablets in dogs. We hypothesized that splitting produces a pharmacokinetic profile similar to intact tablets, whereas crushing results in earlier and higher maximum concentrations. Healthy research dogs were administered 500 mg LEV-XR orally as intact, split, or crushed tablets in a randomized crossover design. Plasma LEV concentrations were measured over 12 hours by high-pressure liquid chromatography. Pharmacokinetic parameters were estimated using noncompartmental analysis and supplementary compartmental analysis and compared using linear mixed-effects models. The study utilized 7 Beagles. Compared with intact tablets, crushed tablets resulted in higher maximum concentration (Cmax) values (61.5 vs 46.0 &#xb5;g/mL; geometric mean ratio, 1.34; 95% CI, 1.08 to 1.65) and lower 8- to 12-hour exposure (30.0 vs 49.8 &#xb5;g&#xb7;h/mL; geometric mean ratio, 0.60; 95% CI, 0.47 to 0.77). Duration above the targeted concentration of 10 &#xb5;g/mL was longer with intact than crushed tablets (10.9 vs 8.5 hours; mean difference, 2.37 hours; 95% CI, 1.02 to 3.72). Exploratory compartmental analysis estimated an earlier time to maximum concentration (Tmax) for crushed compared with intact tablets. No statistically significant differences were observed between intact and split tablets. Splitting LEV-XR tablets did not significantly alter the evaluated pharmacokinetic parameters, whereas crushing resulted in a higher Cmax, an earlier model-estimated Tmax, and reduced late exposure. Splitting LEV-XR tablets may provide a practical option for dose adjustment in smaller dogs. Crushed LEV-XR warrants further evaluation as adjunct therapy during cluster seizures when immediate-release LEV is unavailable.",
+      "categories": []
+    },
+    {
+      "pmid": "42915570",
+      "title": "New World screwworm in livestock production systems: biosecurity, economic considerations, and management for cattle, sheep, goat, horse, and swine producers.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Campagnolo ER",
+      "date": "2026 10 23",
+      "dateObject": "2026 10 23",
+      "abstract": "New World screwworm (Cochliomyia hominivorax) is a transboundary obligate myiasis-causing parasite that poses serious threats to livestock production through infestation of living tissue, rapid lesion progression, animal suffering, and substantial economic loss. Between June 3 and June 16, 2026, the US confirmed 12 cases of New World screwworm in domestic animals across Texas and New Mexico, marking the first detections in production livestock in the continental US since 1966. Cases have involved cattle, sheep, goats, and a dog across multiple counties, with all 12 classified as active and no wild fly trap detections recorded as of the manuscript preparation date. This narrative review synthesizes current producer-facing evidence on production-level risk factors, herd and flock biosecurity, species-specific vulnerabilities, surveillance and reporting pathways, and the economic and trade implications of an active outbreak. Practical prevention measures examined include timing invasive husbandry procedures to low-risk periods, strengthening wound prevention and inspection protocols, and improving sanitation for vehicles, equipment, and personnel. Population-level control strategies (principally the sterile insect technique, now deployed via aerial and ground releases in and around the detection zone) and current regulatory responses, including multiple FDA emergency-use authorizations for animal drugs, are summarized to support preparedness planning across livestock systems. The principal contribution of this review is to reframe the producer and veterinary response to screwworm from individual-animal treatment to production-system prevention, consolidating 2023 to 2026 guidance from USDA, FDA, AVMA, and cooperative extension programs into a practical roadmap for reducing risk, preserving animal welfare, and protecting market access at the herd and flock level.",
+      "categories": [
+        "dermatology"
       ]
     },
     {
@@ -84,6 +106,19 @@
       "categories": []
     },
     {
+      "pmid": "42918624",
+      "title": "Retrospective Application of the Current International Myeloma Working Group Disease Definitions in 20 Cats With Immunoglobulin Secreting Neoplasms.",
+      "journal": "Veterinary and Comparative Oncology",
+      "authors": "Jeffries CM, Harris RA, Vickery K, Avery PR, Rao S, Moore AR",
+      "date": "2026 10 23",
+      "dateObject": "2026 10 23",
+      "abstract": "Studies describing feline myeloma related diseases (MRD) are limited and reported prognostic indicators are inconsistent. Cats more commonly exhibit visceral plasma cell tumours (PCTs) than marrow-predominant disease, suggesting that diagnostic approaches adapted from the International Myeloma Working Group (IMWG) criteria, incorporating extramedullary involvement and myeloma defining events (MDEs), may better capture clinically relevant disease. We sought to evaluate cats with serum protein electrophoresis (SPE) and immunofixation (IF) confirmed M-proteins using IMWG-adapted criteria, determine how often cases satisfy IMWG-adapted versus classic multiple myeloma (MM) definitions, compare outcomes, characterize clinical and laboratory findings and assess prognostic indicators. A retrospective cohort of 20 cats with SPE/IF-confirmed M-proteins and clinical data was included in the study applying IMWG-adapted and classic MM criteria using available clinical records, laboratory data and cytologic or histologic findings. Survival was evaluated using the log-rank test. 14/20 cats met IMWG-adapted MM criteria, whereas 7 cats met classic criteria. Median survival time did not differ between classic MM (226.5&#x2009;days) and IMWG-reclassified MM (141&#x2009;days; p&#x2009;=&#x2009;0.99). Visceral organ involvement was common; splenic PCTs occurred in 71.4% (10/14) and hepatic PCTs in 87.5% (7/8) of sampled organs. Lytic bone lesions were infrequent (3/14). IgG M-proteins predominated (71.4%). No clinicopathologic variable was significantly associated with survival. IMWG-adapted criteria reclassified MM without altering survival, supporting their diagnostic utility in feline MRD. The predominance of visceral PCTs and infrequent bone involvement highlights species-specific disease patterns and the diagnostic value of extramedullary sampling. Larger prospective studies should refine feline-specific biomarkers and validate MDEs.",
+      "categories": [
+        "internalMedicine",
+        "oncology"
+      ]
+    },
+    {
       "pmid": "42906597",
       "title": "Advances in detection canine science at Auburn University.",
       "journal": "American Journal of Veterinary Research",
@@ -117,16 +152,6 @@
         "internalMedicine",
         "surgery"
       ]
-    },
-    {
-      "pmid": "42906618",
-      "title": "Intra-articular 2.5% polyacrylamide hydrogel provides sustained clinical improvement over 1 year in canine elbow osteoarthritis.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Corral JA, Levine D, Barnhard JA, Tringali AA, Green MM, Brunke MW",
-      "date": "2026 10 22",
-      "dateObject": "2026 10 22",
-      "abstract": "To evaluate the efficacy, safety, and tolerability of IA 2.5% injectable polyacrylamide hydrogel (iPAAG) in dogs with elbow osteoarthritis (OA). We hypothesized that treatment would improve pain and function, with minimal adverse events. This prospective single-site clinical study enrolled client-owned dogs from October 2023 to October 2024. Dogs with elbow OA confirmed by CT received unilateral or bilateral IA injections with 1 mL of 2.5% iPAAG. Assessments were conducted on day 0 (baseline) and at 2 weeks, 1 month, 3 months, 6 months, and 12 months after injection using the Canine Brief Pain Inventory (CBPI) Pain Severity Score, CBPI Pain Interference Score, modified Glasgow Composite Pain Scale, Numerical Rating Score, elbow goniometry, thoracic limb girth, and joint effusion. Complete blood count and serum biochemistry were performed at baseline and 3 months after injection. 18 dogs were treated; 16 completed the study. There were significant improvements in all measures between baseline and 3 to 12 months. The CBPI Pain Severity Score, CBPI Pain Interference Score, modified Glasgow Composite Pain Scale, Numerical Rating Score, elbow flexion, elbow extension, thoracic limb girth, and joint effusion had an overall effect size of 0.44, 0.53, 0.69, 0.63, 0.31, 0.64, 0.53, and 0.64, respectively. There were minimal, self-limiting adverse events and no clinically significant changes in blood work. 2.5% iPAAG appears to be well tolerated, safe, and effective for the IA treatment of canine elbow OA. Study limitations included a small sample size and lack of control group. These findings support 2.5% iPAAG as a targeted therapy for canine elbow OA. Further research is warranted to evaluate histological effects.",
-      "categories": []
     },
     {
       "pmid": "42904074",
@@ -1421,19 +1446,6 @@
       "abstract": "To characterize the torsional mechanical properties of the canine crus, determine the contribution of the fibula to crus stiffness and strength under torsional loading, and describe the associated failure pattern. This ex vivo study was conducted from December 2021 through June 2022 and included 13 pelvic limbs from skeletally mature Beagles. Specimens were assigned to 2 groups: intact tibia and fibula (n = 7) and tibia with proximal fibular ostectomy (6). Crura were potted proximally and distally. Torsional loading was applied under quasi-static conditions until failure. Torque and twist angle at failure, torsional stiffness, and rotation relative to working length were recorded. All specimens sustained mid-diaphyseal oblique/spiral tibial fractures. Mean torque to failure was 17.33 &#xb1; 2.95 Nm in intact crura, 18.45 &#xb1; 3.36 Nm following fibular ostectomy, and 1.13 &#xb1; 0.6 Nm for isolated fibula. No significant differences were detected between groups for any measured variable. Following tibial fracture, the isolated fibula exhibited minimal torsional stiffness and sustained 6.5% of the torque at failure of the intact crus. The fibula contributes minimally to the torsional stiffness and strength of the canine crus under torsional loading. The torsional mechanical properties of the canine crus were primarily determined by the tibia, and failure was consistently characterized by tibial fracture preceding fibular failure. Fibular integrity appears to have limited influence on torsional stability in canine tibial fractures, although it may remain important for maintaining limb alignment and fracture management.",
       "categories": [
         "surgery"
-      ]
-    },
-    {
-      "pmid": "42456760",
-      "title": "Clinical findings and outcomes in canine ischemic neuromyopathy: neurologic status is associated with survival, and recovery is possible.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Atkins C, Maeso Ord&#xe1;s C, Phillips K, Krekis A, Freeman P, Gon&#xe7;alves R, Faller K",
-      "date": "2026 10 01",
-      "dateObject": "2026 10 01",
-      "abstract": "To describe the clinical findings and outcomes in dogs diagnosed with thoracic or pelvic limb ischemic neuromyopathy (INM) in a referral practice. This was a retrospective, multicenter study of client-owned dogs diagnosed with thoracic or pelvic limb INM at 5 referral hospitals (July 2013 to June 2023). Medical records were reviewed for clinical findings, comorbidities, treatments, and outcomes. The primary outcome was survival to discharge. Long-term outcomes were summarized when follow-up was available. 42 dogs met the inclusion criteria: 4 of 42 (9.5%) had thoracic limb INM, and 38 of 42 (90.5%) had pelvic limb INM. Comorbidities were documented in 35 of 42 (83.3%), most commonly protein-losing nephropathy (21 of 42 [50.0%]). All thoracic limb cases were ambulatory at presentation but were euthanized shortly after diagnosis at the owner's discretion. Among pelvic limb cases, 22 of 38 (57.9%) were ambulatory at presentation, 27 of 38 (71.1%) retained nociception, and 15 of 38 (39.5%) had onset of clinical signs > 24 hours. Nineteen of 38 (50.0%) survived to discharge. Among dogs with long-term outcome available, 7 of 28 (25.0%) fully recovered, including 2 of 16 (12.5%) initially nonambulatory dogs. In dogs with pelvic limb INM, ambulatory status, presence of nociception, and more gradual progression to maximal clinical severity were associated with survival to discharge. Complete recovery occurred in a subset of initially nonambulatory dogs, indicating that recovery is possible despite more severe neurologic deficits at presentation. Prognostic indicators such as ambulatory status and nociception should be used to inform clinical decision-making but should not be used in isolation when considering prognosis, as recovery may occur even in more severely affected dogs.",
-      "categories": [
-        "internalMedicine",
-        "neurology"
       ]
     },
     {
@@ -2846,18 +2858,6 @@
       "date": "2026 08 10",
       "dateObject": "2026 08 10",
       "abstract": "Canine large-cell alimentary lymphoma (LCAL) is an aggressive malignancy with limited effective treatment options and a poor prognosis. In a preliminary drug screening study using three canine LCAL cell lines (CLC, Ema, and Nody-1), the taxane cabazitaxel (CBZ) was identified as a promising candidate drug. This study aimed to evaluate the antitumour effects of CBZ in&#xa0;vitro and in&#xa0;vivo and determine its potential as a novel therapeutic candidate for canine LCAL. Cell viability, tubulin polymerisation, cell cycle distribution, and apoptosis were assessed in CLC, Ema, and Nody-1 cells following treatment with CBZ or vehicle control. In addition, the effect of CBZ was evaluated in a xenotransplantation mouse model established using CLC cells. CBZ reduced cell viability across all cell lines in a dose-dependent manner, with sub-nanomolar half-maximal inhibitory concentrations. A tubulin polymerisation assay demonstrated that CBZ increased polymerised tubulin levels, indicating microtubule stabilisation. CBZ treatment induced G2/M cell cycle arrest and significantly increased apoptotic cell populations, accompanied by decreased procaspase-3 levels and increased cleaved caspase-3 expression. In&#xa0;vivo, CBZ treatment reduced ascites accumulation and significantly prolonged survival relative to the vehicle control. These findings suggest that CBZ induces G2/M cell cycle arrest and caspase-dependent apoptosis through tubulin stabilisation and suppresses tumour progression in&#xa0;vivo. CBZ represents a promising therapeutic candidate for canine LCAL.",
-      "categories": [
-        "oncology"
-      ]
-    },
-    {
-      "pmid": "42206498",
-      "title": "Messenger RNA From Canine Cytology Lymph Node Specimens Can Be Utilised for Gene Expression Profiling Using Digital RNA Counting.",
-      "journal": "Veterinary and Comparative Oncology",
-      "authors": "Olsen M, Rout E, Hughes K, Yoshimoto J, Avery A, Harris RA",
-      "date": "2026 08 10",
-      "dateObject": "2026 08 10",
-      "abstract": "Gene expression profiling (GEP) is being used with increasing frequency to characterise canine tumours, but canine samples are often not collected in a medium to preserve RNA. Cytology samples from human tumours have been shown to provide adequate RNA for GEP using NanoString nCounter technology, suggesting a similar approach might be viable for canine samples. Determine the quantity and quality of RNA extracted from canine cytology slides, evaluate the time frame for RNA integrity and assess the utility of performing GEP with extracted RNA. Cytological specimens were derived from reactive lymph nodes (n&#x2009;=&#x2009;10) and lymphoma cases (n&#x2009;=&#x2009;34) and characterised via flow cytometry or PCR for antigen receptor rearrangements. RNA was extracted from stained and unstained lymph node cytology slides using a RNeasy Mini Kit and subsequently evaluated for quality and quantity. GEP was carried out using nCounter technology with the NanoString Canine IO Panel. Extracted RNA from lymphoma and reactive cytology samples generated concentrations ranging from 27.5 to 543.9&#x2009;ng/&#x3bc;L (median: 168.5&#x2009;ng/&#x3bc;L; interquartile range (IQR): 108.15-275.95&#x2009;ng/&#x3bc;L). RNA integrity numbers (RINs) ranged from 1.0 to 7.2 (median: 2.9; IQR: 2.10-4.45) and DV200 values ranged from 50.5% to 93.2% (median: 81.65%; IQR: 71.95%-87.85%). RIN and DV200 values were highest for extractions within 7&#x2009;days of sample collection. GEP revealed overexpression of 17 genes in lymphoma samples such as MYC, TERT and BRCA2. Canine lymph node cytologic specimens provide sufficient RNA quality for GEP. The nCounter Canine IO Panel demonstrates the utility of cytology specimens for evaluating gene expression.",
       "categories": [
         "oncology"
       ]

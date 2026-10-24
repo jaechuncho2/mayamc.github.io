@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T23:54:32.233Z",
+  "updated_at": "2026-10-24T23:17:52.380Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -7207,6 +7207,30 @@
       "title": "The use of cold-stored platelets to provide hemostasis in dogs with thrombocytopenia.",
       "journal": "Journal of Veterinary Internal Medicine",
       "generated_at": "2026-10-23T23:52:14.262Z",
+      "model": "gpt-5-mini"
+    },
+    "42915569": {
+      "brief_summary": "건강한 비글 7마리를 대상으로 500 mg 연장형 레베티라세탐(levetiracetam, LEV-XR)을 온전투여, 분할, 분쇄해 경구 투여했을 때 약동학을 비교한 연구이다. 분쇄한 경우 최고혈중농도(Cmax)는 증가(분쇄 61.5 µg/mL vs 온전 46.0 µg/mL)하고 8–12시간 구간의 노출(30.0 vs 49.8 µg·h/mL)은 감소했으며, 목표 농도 10 µg/mL 이상 지속시간은 온전 투여가 더 길었다(10.9 vs 8.5시간). 정제 분할은 온전 정제와 유의한 차이를 보이지 않아 소형견의 용량 조정에 실용적일 수 있고, 분쇄한 LEV-XR는 즉시형(instant-release) LEV가 없을 때 보조요법으로 추가 평가가 필요하다.",
+      "detailed_summary": "무작위 교차설계로 건강한 연구용 비글 7마리에 500 mg LEV-XR을 온전, 분할, 분쇄 형태로 경구 투여했고 혈중 LEV 농도를 12시간 동안 HPLC로 측정했다. 약동학 파라미터는 비구획법으로 추정하고 보조로 구획모형 분석을 시행했으며, 비교는 선형 혼합효과 모델로 수행했다. 분쇄군은 온전군에 비해 Cmax가 더 높았고(분쇄 61.5 µg/mL vs 온전 46.0 µg/mL; 기하평균비 1.34, 95% CI 1.08–1.65), 8–12시간 구간 노출은 감소했다(분쇄 30.0 vs 온전 49.8 µg·h/mL; 기하평균비 0.60, 95% CI 0.47–0.77). 온전 투여는 목표 농도 10 µg/mL 이상을 더 오래 유지했으며(10.9 vs 8.5시간; 평균차 2.37시간, 95% CI 1.02–3.72), 구획모형 분석에서는 분쇄 시 Tmax가 더 빨랐던 것으로 추정되었다. 온전과 분할 간에는 통계적으로 유의한 차이가 관찰되지 않았다. 결론적으로 분할은 LEV-XR의 평가된 약동학적 파라미터를 크게 변경하지 않아 소형견 용량 조정에 실용적일 수 있으며, 분쇄는 Cmax 상승과 후기 노출 감소를 초래해 즉시형 약제가 없을 때의 보조요법으로는 추가 연구가 필요함을 시사한다.",
+      "title": "Tablet crushing, but not splitting, alters the pharmacokinetics of extended-release levetiracetam in dogs.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-10-24T23:17:14.961Z",
+      "model": "gpt-5-mini"
+    },
+    "42915570": {
+      "brief_summary": "본 논문은 New World screwworm(Cochliomyia hominivorax)에 대한 생산자 대상의 증거를 종합한 서술형 리뷰로, 가축 사육 시스템에서의 위험요인, 생물안전성, 감시·보고 및 경제·무역 영향을 다룬다. 2026년 6월 3일부터 16일까지 텍사스와 뉴멕시코에서 소·양·염소와 개 등 가축·반려동물에서 총 12건이 확인되었으며 이는 1966년 이후 대륙 내 생산가축에서 처음 검출된 사례이고 12건 모두 활성 사례로 분류되었으며 야생 파리 덫에서는 탐지되지 않았다(원고 준비 시점). 임상적·현장적 함의로는 개체 치료 중심의 대응에서 벗어나 사육단위 수준의 예방(상처관리, 시술 시기 조정, 차량·장비 위생 등)과 집단 차원의 방제(불임 방출기법, SIT) 및 규제적 조치(FDA 긴급사용 승인 등)를 강화할 것을 권고한다.",
+      "detailed_summary": "본 논문은 서술형(narrative) 리뷰로, 2023–2026년 USDA, FDA, AVMA 및 협력 확장 프로그램의 지침을 생산자 관점에서 종합하였다. 보고된 발생은 2026년 6월 3일부터 16일 사이 미국 텍사스와 뉴멕시코에서 확인된 12건으로, 대상 종은 소(cattle), 양(sheep), 염소(goat) 및 개(dog)이며 대륙 내 생산가축에서의 최초 검출(1966년 이후)으로 기술되었다. 모든 12건은 활성 사례로 분류되었고, 원고 준비 시점에서는 야생 파리 덫에서의 검출은 없었다는 점을 명시한다. 리뷰는 생산 수준의 위험요인, 군집(herd)·군(ﬂock) 생물안전성, 종별 취약성, 감시·보고 경로, 그리고 유행 발생 시 경제·무역 영향 등을 정리하였다. 실무적 예방책으로는 침습적 사육 행위(예: 시술) 시기를 저위험기로 조정, 상처 예방 및 검진 강화, 차량·장비·인력의 위생 관리 개선 등이 제시되었다. 집단 방제 전략으로는 불임 곤충 기법(sterile insect technique, SIT)을 항공·지상 방출 형태로 검출 지역 및 주변에 배치한 사례를 정리하였고, 규제적 대응으로는 동물용 의약품에 대한 다수의 FDA 긴급사용 승인(EUA)이 언급되었다. 결론적으로 저자들은 대응 패러다임을 개체 치료에서 생산시스템 차원의 예방으로 전환할 것을 제안하였으며, 본문 성격이 서술형 리뷰임을 고려할 때 합성된 지침과 권고를 제공하는 목적임을 밝히고 있다.",
+      "title": "New World screwworm in livestock production systems: biosecurity, economic considerations, and management for cattle, sheep, goat, horse, and swine producers.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-10-24T23:17:34.706Z",
+      "model": "gpt-5-mini"
+    },
+    "42918624": {
+      "brief_summary": "후향적 코호트 연구로 혈청 단백질 전기영동(SPE) 및 면역고정(IF)으로 확인된 M-단백질을 가진 고양이 20마리를 국제 골수종 작업그룹(IMWG) 기준을 고양이용으로 적용해 재분류했다. 20마리 중 14마리가 IMWG-adapted 다발성 골수종(MM) 기준을 만족했고 고전적 MM 기준을 만족한 경우는 7마리였다. 재분류 전후 생존기간에 유의한 차이는 없었으며(고전적 MM 중앙생존 226.5일 vs IMWG 재분류 MM 141일, p=0.99), 비장·간 등 내장성 성형질세포종(PCT)이 흔하고 용해성 골 병변은 드물었다. 연구진은 IMWG-adapted 기준이 고양이 MRD(골수종 관련 질환, MRD) 진단에 유용하다고 제시하며 추가적인 전향적 연구와 고양이 특이 바이오마커 검증을 권고한다.",
+      "detailed_summary": "본 연구는 후향적 코호트로서 SPE 및 IF로 확인된 M-단백질 보유 고양이 20마리를 대상으로 국제 골수종 작업그룹(IMWG) 기준을 고양이 상황에 맞게 적용(IMWG-adapted)하고 기존의 고전적 다발성 골수종(MM) 정의와 비교했다. 사용 가능한 임상기록, 검사실 데이터 및 세포학·병리 소견을 바탕으로 두 가지 기준을 적용해 분류하였고 생존분석은 로그-랭크 검정으로 평가했다. 결과적으로 14/20 마리는 IMWG-adapted MM 기준을 충족했고 고전적 MM 기준을 충족한 경우는 7마리였으며 중앙생존기간은 고전적 MM에서 226.5일, IMWG 재분류군에서 141일로 유의차는 없었다(p=0.99). 내장성 병소가 흔했으며 비장 PCT는 71.4%(10/14), 간 PCT는 샘플링된 기관 중 87.5%(7/8)로 보고되었고 용해성 골 병변은 드물게 관찰되었다(3/14). IgG 유형의 M-단백질이 우세했으며(71.4%) 어떤 임상병리 지표도 생존과 유의하게 연관되지 않았다. 결론적으로 IMWG-adapted 기준은 일부 사례를 재분류했으나 생존에는 영향을 미치지 않아 고양이 MRD 진단에 진단적 가치를 제공할 수 있음을 시사한다. 연구는 후향적이고 표본 수가 제한적이므로 고양이 특이 바이오마커와 골수종 정의 사건(MDEs)의 검증을 위한 더 큰 전향적 연구가 필요하다고 제언한다.",
+      "title": "Retrospective Application of the Current International Myeloma Working Group Disease Definitions in 20 Cats With Immunoglobulin Secreting Neoplasms.",
+      "journal": "Veterinary and Comparative Oncology",
+      "generated_at": "2026-10-24T23:17:52.367Z",
       "model": "gpt-5-mini"
     }
   }
