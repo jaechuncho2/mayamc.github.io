@@ -1,6 +1,171 @@
 {
-  "updated_at": "2026-10-24T23:17:03.207Z",
+  "updated_at": "2026-10-25T23:17:21.417Z",
   "papers": [
+    {
+      "pmid": "42454743",
+      "title": "Factors associated with antimicrobial drug prescription in cats receiving outpatient care at a veterinary teaching hospital.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "authors": "Thane K, Kwong M, DeStefano I, Sweigart B, Beaulac K, Doron S, Fellman CL",
+      "date": "2026 10 25",
+      "dateObject": "2026 10 25",
+      "abstract": "ObjectivesInvestigations of factors associated with antimicrobial drug prescription(s) (ADP) in cats receiving outpatient care are lacking, which limits antimicrobial stewardship efforts and benchmarking of veterinary antimicrobial use. This study aimed to identify factors associated with ADP in cats receiving outpatient care at a veterinary teaching hospital.MethodsA retrospective analysis of electronic medical record data from cats receiving outpatient care at a veterinary teaching hospital in 2022 was performed. Subjects included 2245 cats with 3973 outpatient visits. The primary study outcome was receipt of at least one systemic ADP during or immediately after an outpatient visit; an exploratory outcome was receipt of a 'Watch' or 'Reserve' (WR) ADP using the World Health Organization (WHO) Access-Watch-Reserve (AWaRe) classification adapted to include veterinary agents. Independent variables, including patient demographics, hospital service and owner sociodemographic factors, were identified for model fitting using univariable logistic regression; multivariable models were built using generalized estimating equations.ResultsOf outpatient visit records, 367/3973 (9.2%) were associated with one or more ADP. Factors significantly associated with receipt of ADP included patient sex, hospital service visited, veterinarian training status, visit duration and urine culture performed. Among patients receiving any antimicrobial drugs, factors associated with receipt of WHO-WR ADP included hospital service, visit date, receipt of more than one ADP and history of a visit to any hospital service within the prior month.Conclusions and relevanceThese findings expand our understanding of antimicrobial usage in cats. This knowledge of identifying factors associated with antimicrobial use can be used to refine local prescribing practices and supports the development of veterinary and One Health antimicrobial stewardship initiatives and veterinary antimicrobial use benchmarking metrics. A study of health record data in cats receiving outpatient veterinary care that evaluates whether measurable characteristics related to the patients, pet owners and hospital are associated with higher or lower odds of receiving an antimicrobial drug during the veterinary care visit Pet cats receive routine veterinary care, which sometimes includes receiving antimicrobial prescriptions (sometimes referred to as antibiotics) to treat bacterial infections. The use of antibiotics can be necessary to treat bacterial infections in pets. However, when antibiotics are not used appropriately, it can cause problems for the pets receiving treatment and can reduce how well those antibiotics work in the future to effectively treat disease in humans and animals. The amount of information about cats receiving antibiotics is very limited. Knowing more about how antibiotics are used in cats will help veterinarians improve treatment options for patients and will provide important information about how antibiotics are used in the hospital setting. We studied the medical records of cats who received outpatient care (day appointments, in which the patient did not need to be admitted to the hospital for additional care) and analyzed information that is routinely collected in the medical record to try to identify patterns associated with which feline outpatients had higher odds of receiving antibiotics. In our study population, approximately 9% of cats receiving outpatient care received an antibiotic. We found that patient sex, hospital service visited, training status of the care provider, how long the visit took and whether a urine culture was performed all significantly affected the odds of a patient receiving an antibiotic. We also identified some factors associated with higher odds of receiving an antibiotic with greater importance to human healthcare. These findings help us better understand how antibiotics are used in cats receiving outpatient veterinary care and help researchers and hospital teams develop ways to monitor and optimize ongoing antibiotic use in cats.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42921832",
+      "title": "Prospective evaluation of the prevalence and characteristics of heart murmurs and gallop sounds in anemic cats.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Robertson A, Boswood A, Luis Fuentes V, Lo EJY, Humm K",
+      "date": "2026 10 24",
+      "dateObject": "2026 10 24",
+      "abstract": "Heart murmurs and gallop sounds are common in anemic cats; however, their association with underlying cardiac disease is unclear. Determine the prevalence of murmurs and gallops in anemic cats. Investigate the association of auscultatory abnormalities with anemia severity and heart disease. Investigate whether change in anemia severity affects the audibility of murmurs and gallop sounds. Sixty-four anemic cats (packed cell volume [PCV] below 30%) presenting to a referral hospital. Single-center prospective observational study. On presentation, cats were examined and had PCV measurement. Each cat underwent echocardiography. Cats had PCV checks and daily auscultation to document heart sounds. Fifty-eight percent (37/64) had a murmur and 23% (15/64) had a gallop. Mean PCV at enrollment was 18% (&#xb1;6). Lower PCV was associated with the presence of a murmur (P&#xa0;=&#xa0;.03) and gallop (P&#xa0;=&#xa0;.016). Cardiac disease was present in 34% (22/64) of cats. After adjusting for anemia severity, murmur presence showed no statistically significant association with cardiac disease (P&#xa0;=&#xa0;.636 (OR: 1.31, 95% CI, 0.43-3.95)). A gallop sound was associated with greater odds of cardiac disease (P&#xa0;=&#xa0;.037 (OR: 3.97, 95% CI, 1.09-14.5)). Murmur intensity (P&#xa0;=&#xa0;.001) and likelihood of a gallop sound (P&#xa0;=&#xa0;.022) were lower in individuals when their PCVs increased. Murmurs and gallop sounds are common in anemic cats with and without cardiac disease. Anemic cats with gallops are more likely to have underlying cardiac disease than anemic cats without gallops. Abnormal heart sounds, known as heart murmurs and gallop sounds, can occur frequently in cats with a low red blood cell count (anemia). Murmurs and gallops are also common in cats with heart disease. Whether the abnormal heart sounds are due to anemia or if anemic cats have underlying heart disease causing the murmur or gallop is unknown. This study aimed to determine how many anemic cats had abnormal heart sounds, if murmurs or gallops were associated with heart disease or red blood cell count, and if change in red blood cell count over time affected the presence of abnormal heart sounds. In this study abnormal heart sounds were common in anemic cats. Lower red blood cell count was associated with having a murmur or gallop. Heart disease was frequently present in our cats. Having a heart murmur was not associated with having heart disease, but a gallop sound was associated with having heart disease. When individual cats&#x2019; red blood cell count increased, the severity of their heart murmur and likelihood of a gallop sound were lower.",
+      "categories": [
+        "cardiology",
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42921406",
+      "title": "Clinical reasoning in canine meningoencephalitis of unknown origin and glioma: the role of signalment, history and neurological examination.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Spohn F, Abani S, Dickinson PJ, Vernau KM, Toedebusch CM, Woolard KD, Beineke A, Volk HA, Nessler JN",
+      "date": "2026 10 24",
+      "dateObject": "2026 10 24",
+      "abstract": "Meningoencephalitis of unknown origin (MUO) is a group of presumed immune-mediated inflammatory diseases of the central nervous system (CNS) in dogs. Differentiating MUO from intracranial diseases such as glioma can be challenging based on magnetic resonance imaging (MRI) and cerebrospinal fluid (CSF) analysis. Because glioma represents an important differential diagnosis in dogs clinically suspected to have MUO, distinguishing these diseases is relevant for diagnostic reasoning, therapeutic planning, and owner communication. This study assessed whether readily available clinical variables contribute to clinical reasoning in dogs with histopathologically confirmed MUO or glioma. This retrospective multicenter study included 138 dogs with histopathologically confirmed MUO or glioma. Medical history, signalment, and neurological examination findings were compared between groups. Binary logistic regression was used to identify clinical variables associated with diagnosis. Seventy dogs were diagnosed with MUO and 68 dogs with glioma. Dogs with MUO had a lower median body weight (10.50 kg vs. 23.90 kg; p = 0.0007) and age (5.00 years vs. 7.04 years; p = 0.0007) than dogs with glioma. In the final multivariable model, disease onset was associated with the distinction between MUO and glioma ( p = 0.0282), while lower body weight and head tilt were associated with MUO. Increasing body weight was associated with lower odds of MUO (OR: 0.910; 95% CI: 0.861 - 0.961; p = 0.0007). Dogs without head tilt were less likely to be diagnosed with MUO than dogs with head tilt (OR: 0.249; 95% CI: 0.062 - 0.998; p = 0.0497). An exploratory, cohort specific body weight cut-off of &#x2264; 7.70 kg yielded 40.6% sensitivity and 95.6% specificity for MUO. Readily available clinical variables may provide supportive information when MUO and glioma are differential diagnoses, particularly when MRI and CSF findings are equivocal. However, overlap between groups and limited discriminatory performance of individual variables indicate that these findings should not be used as standalone criteria. Instead, signalment, history, and neurological examination findings should be interpreted as part of an integrated assessment together with MRI, CSF analysis, and infectious testing.",
+      "categories": [
+        "internalMedicine",
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "42921401",
+      "title": "Case Report: Surgical treatment of feline pituitary apoplexy in 3 cases.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "van Schaik MA, van Stee LL, Grinwis GCM, Meij BP",
+      "date": "2026 10 24",
+      "dateObject": "2026 10 24",
+      "abstract": "Surgical treatment of feline pituitary apoplexy has not been previously described. To describe the clinical course and follow-up of 3 cases of feline pituitary apoplexy. Cases were selected based on histopathological confirmation of pituitary masses with haemorrhagic lesions, following transsphenoidal hypophysectomy. Details of physical examination, diagnostic test results, treatment and follow-up course were retrospectively acquired by review of medical and imaging records. Two cats were presented with acute onset of neurologic signs (case 1 and 2), and one cat showed subacute endocrinological dysfunction (case 3). All cases underwent successful transsphenoidal hypophysectomy, followed by intensive care hospitalization and successful discharge. Pituitary apoplexy was identified by histopathological examination of the excised pituitary glands in cases 1, 2, and 3. Imaging findings compatible with pituitary apoplexy were present in all 3 cases, although only case 3 was imaged with a hemorrhage-sensitive sequence, providing unequivocal evidence of intralesional hemorrhage. Case 1 had a survival time at least 716 days, underwent a second transsphenoidal surgery because of tumor recurrence and was subsequently lost to follow-up. Case 2 had a survival time of at least 1,098 days and is still alive at the time of writing this manuscript. In case 3, tumor recurrence was identified radiologically (MRI) at 365 days, and it died during a course of radiation therapy 612 days after transsphenoidal hypophysectomy. Pituitary apoplexy is a rare condition that also affects cats with large pituitary adenomas. Overall, the cats experienced acceptable clinical recovery and postoperative survival, supporting the feasibility of transsphenoidal hypophysectomy as a therapeutic option for cats with pituitary tumors affected by apoplexy. Notably, a favorable outcome was observed even in the presence of remnant pituitary tissue, as illustrated by the cat that later developed pituitary tumor recurrence.",
+      "categories": [
+        "internalMedicine",
+        "oncology",
+        "surgery",
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "42921373",
+      "title": "Short-course letrozole restores fertility in aged azoospermic dogs.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Liu B, Zhang L, Zhu F, Jin X, Liu T",
+      "date": "2026 10 24",
+      "dateObject": "2026 10 24",
+      "abstract": "Age-related azoospermia is a clinically important cause of male infertility in dogs, yet effective pharmacological treatments for aged males remain limited. Whether transient aromatase inhibition can restore fertility in aged azoospermic dogs without prolonged exposure is unclear. This study evaluated whether a 1-week course of letrozole, an aromatase inhibitor, could restore spermatogenesis and fertility in aged azoospermic male dogs. Untreated aged azoospermic and young fertile dogs served as comparison groups, and a separate cohort of five aged dogs received 3 months of letrozole for safety assessment. Serum testosterone, semen parameters, testicular histology, fertilization-related transcripts, spermatogonia, seminal plasma metabolites, and serum biochemical markers of liver, kidney, and bone metabolism were assessed before and after treatment over a 6-month follow-up. Serum testosterone increased within 1 week and peaked at approximately 2 weeks. Spermatozoa reappeared in ejaculates approximately 3 months after treatment and persisted for more than 6 months; treated males subsequently achieved pregnancies with healthy offspring, although litter size remained smaller than that of young fertile dogs. Compared with 3-month administration, 1-week treatment was not associated with detectable changes in serum alkaline phosphatase (ALP). These findings indicate that a 1-week letrozole course can restore spermatogenesis and fertility in aged azoospermic dogs, supporting its further evaluation as a low-exposure therapeutic strategy; larger, breed-stratified studies with extended safety profiling are recommended before clinical adoption.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42921341",
+      "title": "Fluid balance, electrolyte, and neurohormonal responses to isotonic vs. hypotonic maintenance crystalloids in healthy Beagle dogs.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Her J, Gordon D, Kim K, Wallinger J, Langston C",
+      "date": "2026 10 24",
+      "dateObject": "2026 10 24",
+      "abstract": "To compare the effects of isotonic vs. hypotonic maintenance crystalloid therapy on fluid balance, urine output, and electrolyte homeostasis in healthy Beagles. In this 2-phase clinical study, nine healthy Beagles received intravenous isotonic (lactated Ringer's solution with 5% dextrose plus 26 mEq/L KCl) and hypotonic (Normosol-M and 5% dextrose plus 17 mEq/L KCl) crystalloids at an allometric maintenance rate for 48 h, with a 10-day washout between treatments from July 3 to September 29, 2021. Variables of interests were assessed every 12 h during treatment, and results were analyzed with baseline-adjusted linear mixed-effects models. A p -value < 0.05 was considered statistically significant. Timepoint-specific comparisons were exploratory and unadjusted for multiplicity. In exploratory timepoint-specific analyses, calculated fluid balance was greater with isotonic crystalloids only at T36 [estimated marginal mean (EMM) difference, 356 ml (95% CI, 105-606)]. The overall treatment-by-time interaction for calculated fluid balance was not significant. Urine output did not differ, whereas cumulative urine output was higher with isotonic crystalloids only at T12 (back-transformed EMMs, 125.3 ml for isotonic vs. 81.2 ml for hypotonic). Isotonic crystalloids were associated with significantly higher urinary sodium and chloride at all time points than hypotonic crystalloids. Serum sodium was lower with hypotonic fluids at T24. Individual concentrations fell modestly below the lower reference limit during both phases, with a lowest recorded value of 137 mEq/L and a maximum interval-averaged rate of decline of 0.58 mEq/L/h, and recovered toward baseline by T48. In this exploratory study, isotonic maintenance crystalloids were associated with a transient, relatively more positive calculated fluid balance and consistently greater urinary sodium and chloride excretion than hypotonic crystalloids. In healthy Beagles, the two maintenance crystalloid formulations produced distinct patterns of renal sodium, chloride, and electrolyte-free water handling, while the hypotonic crystalloid did not cause a rapid or clinically important decline in serum sodium.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42921323",
+      "title": "A proposed framework for practical multimodal management of osteoarthritis in adult dogs.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Marcellin-Little DJ, Huntingford J, Grubb T, Pechette Markley A, Brunke MW, Hulse DA, Frank B",
+      "date": "2026 10 24",
+      "dateObject": "2026 10 24",
+      "abstract": "Osteoarthritis (OA) affects nearly half of adult dogs and has physiological, physical, and functional consequences. The physiological impact of OA includes joint inflammation, progressive cartilage degeneration, and pain. Physically, OA changes commonly result in reduced limb strength, muscle atrophy, and, in some cases, decreased joint range of motion. Functionally, OA manifests as diminished willingness or ability to climb stairs, jump, play, exercise, or perform routine activities. These functional losses negatively impact quality of life for both dogs and their caregivers. Effective OA management requires a comprehensive and multimodal approach. Therapeutic options include nutrition, nutritional supplementation, medications, lifestyle changes, electrophysical modalities, manual therapy, therapeutic exercise, ergonomic support, and surgery. Because OA is a chronic and progressive condition, management strategies must be practical, individualized, and sustainable over the long term. Protocols should be streamlined to minimize caregiver burden while maximizing clinical benefit. Foundational management includes nutritional strategies to optimize metabolic health and maintain ideal body condition. Nutritional supplements may provide safe and practical adjunctive support to decrease joint inflammation and pain. When joint pain is identified, non-steroidal anti-inflammatory drugs remain a predictably effective first-line pharmacologic therapy. Additional or alternative therapeutic interventions should be added when initial therapy is inadequate or when safety considerations limit use. Sustained and structured client communication is critical to setting expectations, monitoring response to therapy, and adapting management plans over time. Successful OA management depends not only on therapeutic selection but also on long-term adherence, reassessment, and individualized adjustment. A consensus-driven, multimodal framework provides clinicians with a practical and sustainable strategy to optimize outcomes for adult dogs with OA.",
+      "categories": [
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42921062",
+      "title": "Canine atopic dermatitis clinical trials: study design and methodological considerations.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Klotsman M, Sagiv SK, Anderson WH, Santoro D",
+      "date": "2026 10 24",
+      "dateObject": "2026 10 24",
+      "abstract": "Canine atopic dermatitis (AD) is a chronic inflammatory and pruritic skin disease affecting up to 15% of dogs, with clinical expression shaped by genetic, environmental, and microbial factors. Although the International Committee for Allergic Diseases of Animals (ICADA) established COSCAD as a core outcome set providing standardized outcome measures for evaluating treatment efficacy, comparatively little attention has been given to the upstream methodological considerations that determine the validity and interpretability of trial results. This narrative review uses a structured methodological framework to examine key sources of random error, bias, confounding, and effect modification that can compromise randomized controlled trials (RCTs) in canine AD. We identify critical parameters requiring careful control in trial design, including food and environmental allergen exposures, seasonality, flea infestation, concurrent bacterial and fungal infections, concomitant therapies, and washout period determination. Historical study protocols, conducted primarily in treatment-na&#xef;ve dogs with mild-to-moderate disease, are analyzed to illustrate how pivotal registration trials mitigated these sources of error through strict case definitions, medication-specific washout intervals, concomitant therapy restrictions, and rigorous blinding and randomization. We further examine the trade-offs between internal validity and external generalizability, and the growing tension between traditional explanatory trial designs and real-world feasibility in an evolving therapeutic landscape. Synthesizing perspectives from a panel of veterinary dermatology experts, we highlight how disease severity, treatment history, and therapeutic modality should inform eligibility criteria, endpoint selection, and assessment timing. Based on these assessments, we highlight the limitations of applying standardized study design methodologies to such a heterogeneous disease. Applying uniform methodologies to such a heterogeneous syndrome risks obscuring clinically meaningful differences in disease presentation and treatment response. Progress requires flexible, fit-for-purpose study designs that align key methodological elements with the phenotype under investigation, enabling accurate interpretation of treatment effects and more effective therapeutic development.",
+      "categories": [
+        "internalMedicine",
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42925450",
+      "title": "Hemodynamic responses to clinical dosages of dopamine and dobutamine in dogs with hypotension under isoflurane anesthesia.",
+      "journal": "Veterinary Research Communications",
+      "authors": "Seki D, Kusu H, Fujimoto T, Kitagawa H, Goya S, Yamaya Y, Teshima K",
+      "date": "2026 10 24",
+      "dateObject": "2026 10 24",
+      "abstract": "While dopamine and dobutamine are widely used in anesthetized dogs, clinical evidence supporting their use remains limited. We aimed to compare the hemodynamic responses to clinical dosages of dopamine and dobutamine in dogs with hypotension undergoing elective orthopedic surgery under fentanyl-isoflurane anesthesia. The pressor effects at clinical dosages (2-8&#xa0;&#xb5;g/kg/min) of dopamine (n&#x2009;=&#x2009;15) and dobutamine (n&#x2009;=&#x2009;15) for hypotension were compared and confirmed using the ramped-rate infusion protocol in 30 dogs. The following hemodynamic parameters measured by invasive arterial blood pressure and transesophageal echocardiographic monitoring were analyzed: heart rate (HR), systolic (SAP), mean (MAP), diastolic arterial pressure (DAP), stroke volume index (SVI), cardiac index (CI), and systemic vascular resistance index (SVRI). The proportion of dogs that achieved the treatment goal (MAP: 70-89&#xa0;mmHg) was 93% (dopamine responders, 14/15 dogs) in the dopamine group and 53% (dobutamine responders, 8/15 dogs) in the dobutamine group, with a significantly higher probability in the dopamine group (P&#x2009;=&#x2009;0.035, a risk difference of 40% [95% confidence interval: 8.2-63.9%]). In dopamine responders, significant increases were observed in SAP, MAP, DAP, SVI and CI, whereas no significant changes were observed in HR and SVRI. In conclusion, the pressor effect was more likely to be observed at the clinical dosage of dopamine than that of dobutamine for treating hypotension in isoflurane anesthetized dogs. This study was approved by the Nihon University Animal Medical Center Research and Trial Ethics Committee (approval number: 1-007; approval date: September 29, 2022).",
+      "categories": [
+        "cardiology",
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42925354",
+      "title": "Demographic and environmental factors associated with canine cutaneous squamous cell carcinoma development in Australia: a retrospective matched case-control analysis.",
+      "journal": "Veterinary Research Communications",
+      "authors": "Zhang JJ, Dejene H, Granados-Soler JL, Henning J, Allavena R",
+      "date": "2026 10 24",
+      "dateObject": "2026 10 24",
+      "abstract": "Cutaneous squamous cell carcinoma (cSCC) is a common canine skin tumour that occurs more frequently in high ultraviolet (UV) environments. Despite Australia's consistently high UV exposure, large-scale epidemiological studies on canine cSCC are limited. This study investigates the frequency of canine cSCC in Australia, its geographic patterns relative to UV index, and its association with animal-level risk factors. A matched case-control study was conducted using records from the VetCompass database from 1st January 2014 to 31st December 2023. In total, 295 histopathologically confirmed cSCC cases and 1,180 matched controls were included. Frequency statistics of cSCC and animal-level risk factors associated with cSCC were analysed and spatial patterns were mapped. The highest proportions of cases were recorded in Queensland (39.7%) and New South Wales (39.3%), with increased frequency along coastal areas of both states. cSCC cases occurred most frequently on body regions caudal to the thorax (54.9%), in senior dogs (58.6%), in desexed males (45.1%), and in dogs with white mixed coat colour (43.7%). In the final multivariable model, senior (seven to 11 years old) and geriatric (12&#x2009;+&#x2009;years old) dogs had significantly higher odds of cSCC than mature (two to six years old) dogs (odds ratio&#x2009;=&#x2009;7.4 and 4.8, respectively; p&#x2009;&#x2264;&#x2009;0.001). Risk was also markedly elevated in Dalmatians, bulldogs, Staffordshire terriers, and schnauzers compared with mixed breeds. Dogs with white or white mixed coats had higher odds of cSCC than dark-coated dogs (p&#x2009;&#x2264;&#x2009;0.001). cSCC demonstrated anatomical and geographic patterns consistent with chronic UV exposure, with age, breed, and coat pigmentation emerging as risk factors.",
+      "categories": [
+        "oncology",
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42906717",
+      "title": "Histomorphometric characterization of cardiac nodes in cattle, ponies, and cats.",
+      "journal": "Topics in Companion Animal Medicine",
+      "authors": "G&#xf3;mez-Torres F, Ballesteros-Acu&#xf1;a L, Ru&#xed;z-Saur&#xed; A",
+      "date": "2026 10 24",
+      "dateObject": "2026 10 24",
+      "abstract": "The sinoatrial node (SAN) and atrioventricular node (AVN) are essential components of the cardiac conduction system and play a critical role in initiating and propagating the electrical impulse. To characterize these cardiac nodes across different species, we examined the hearts of ten cattle, ten cats, and five male ponies without evidence of cardiac disease using conventional histological and immunohistochemical techniques. Morphometric parameters of the nodes and their constituent cells were quantified at different magnifications. The SAN displayed an oval morphology in all species. Its diameter was 888.58&#x202f;&#xb1;&#x202f;6.36&#x202f;&#x3bc;m in cats, 2143.17&#x202f;&#xb1;&#x202f;199.13&#x202f;&#x3bc;m in ponies, and 2033.28&#x202f;&#xb1;&#x202f;939.44&#x202f;&#x3bc;m in cattle. Mean nodal density was significantly higher in ponies than in cattle (p&#x202f;=&#x202f;0.011). Pacemaker (P) cells of the AVN were significantly larger in ungulate species than in cats (p&#x202f;<&#x202f;0.001). Heart bone (os cordis) was identified in all ten cattle hearts and in one cat heart, showing typical features of compact bone and bone marrow. Cartilaginous metaplasia was observed in all pony hearts and in 60% of cat hearts and was associated with reduced AVN size and cellularity in cats. These findings highlight important interspecies differences and contribute to the understanding of conduction system pathology in veterinary cardiology. The structural changes in the cardiac nodes in these species warrant more in-depth functional research, given the lack of functional cardiac assessment and the small sample size.",
+      "categories": [
+        "cardiology"
+      ]
+    },
+    {
+      "pmid": "42920847",
+      "title": "Echocardiographic description of pulmonary vein stenosis in a cat with atrioventricular septal defect.",
+      "journal": "JFMS Open Reports",
+      "authors": "Seyednejad F, Locquet L, Ardehali P, Astaraki N",
+      "date": "2026 10 24",
+      "dateObject": "2026 10 24",
+      "abstract": "A 2.5-year-old, intact female British Shorthair cat was referred for cardiology evaluation owing to intermittent panting and a heart murmur identified on cardiac auscultation before elective surgery. Physical examination revealed a left parasternal grade II/VI systolic murmur without arrhythmia. Thoracic radiographs showed cardiomegaly without pulmonary infiltration. The echocardiography was prompted by auscultation, history and radiological findings. Transthoracic echocardiography demonstrated marked right atrial enlargement and eccentric hypertrophy of the right ventricle. Echocardiography revealed a partial atrioventricular septal defect characterised by a large ostium primum defect (0.79&#x2009;cm) and an anterior mitral valve cleft, resulting in a left-to-right shunt (estimated Qp:Qs&#x2009;&#x2248;&#x2009;2.2). Doppler interrogation of the left pulmonary vein entering the lateral wall of the left atrium demonstrated focal turbulence and increased peak velocity (1.08&#x2009;m/s), corresponding to a pressure gradient of approximately 4.7&#x2009;mmHg, findings consistent with suspected unilateral pulmonary vein stenosis. Tricuspid regurgitation velocity (2.2&#x2009;m/s) did not reflect increased afterload. Elective surgery was postponed owing to uncertainty regarding peri-anaesthetic haemodynamic risk. Medical treatment with enalapril and clopidogrel was initiated. At the 9-month follow-up, the cat remained clinically stable and echocardiographic findings were unchanged. Pulmonary vein stenosis is rarely reported in cats. This report describes the concurrent presence of partial atrioventricular septal defect and suspected unilateral pulmonary vein stenosis. These findings highlight the detection of a congenital heart defect in a young cat, despite the low-grade murmur. A rare congenital heart condition in a British Shorthair cat A 2.5-year-old, female British Shorthair cat was referred for a heart check after intermittent panting and a heart murmur were noticed before planned elective surgery. Examination confirmed a mild heart murmur and chest radiography showed an enlarged heart. Heart ultrasound revealed a congenital heart defect called a partial atrioventricular septal defect. This means there was an abnormal opening between the upper chambers of the heart, together with an abnormality of the mitral valve. These changes caused increased blood flow from the left side of the heart to the right side, leading to enlargement of the right side of the heart. The ultrasound also showed abnormal blood flow in one of the pulmonary veins, raising suspicion of narrowing of that vein. Because of the heart findings and possible anaesthetic risk, the planned surgery was postponed. The cat was started on medical treatment and remained stable after 9 months, with no worsening of the heart ultrasound findings. This case is important because pulmonary vein stenosis is rarely reported in cats, especially alongside this type of congenital heart disease. It also shows that even a mild heart murmur in a young cat can be associated with significant underlying heart abnormalities.",
+      "categories": [
+        "cardiology",
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42925095",
+      "title": "Development and Validation of a New Online Tool for Monitoring Clinical Signs of Canine Atopic Dermatitis.",
+      "journal": "Veterinary Dermatology",
+      "authors": "Harvey N, Watson A, Laxalde J, England G, Gow D",
+      "date": "2026 10 24",
+      "dateObject": "2026 10 24",
+      "abstract": "The aim of the study was to develop a simple, reliable and validated patient-reported outcome tool for use in monitoring the severity of clinical signs in dogs with confirmed or suspected atopic allergies and recurrent otitis externa. The tool is called the Dog-Orientated Severity of Atopy Scale (DOSAS). The human Patient-Oriented Eczema Measure (POEM) was adapted for relevance to the owner-observable clinical signs of canine atopic dermatitis (cAD). Refinements were made via consultation with dog owners and veterinary surgeons to ensure applicability and ease of use. Relevant features of reliability (including internal consistency, intrarater reliability and test-retest reliability) were evaluated. The tool was then tested by owners and clinicians for performance against established clinical sign assessment methods. The DOSAS was shown to be both reliable and valid with psychometric properties above acceptable guidelines for the development of such tools. Guidelines are presented for score creation and stratification of the score to enable interpretation. When compared to how severity assessment scores from Canine Atopic Dermatitis Extent and Severity Index, 4th iteration (CADESI-04) and pruritus Visual Assessment Scale (PVAS) responded to change, the DOSAS performed particularly strongly, although it performed less well when compared to the 0-3 Otitis Index Score (OTIS-3). The DOSAS is presented as a supplementary tool for use in veterinary practice and clinical research programmes alongside existing clinical measurements such as CADESI-04, providing a focus on the disease as it is experienced by the dog and their owner. Unlike clinical measurement, the DOSAS is accessible and interpretable for dog owners, which is important for the management of chronic pruritic conditions, and will enable dog owners to be more actively involved with their dog's disease management.",
+      "categories": [
+        "dermatology"
+      ]
+    },
     {
       "pmid": "42912657",
       "title": "The use of cold-stored platelets to provide hemostasis in dogs with thrombocytopenia.",
@@ -228,18 +393,6 @@
         "oncology",
         "surgery",
         "dermatology"
-      ]
-    },
-    {
-      "pmid": "42906717",
-      "title": "Histomorphometric characterization of cardiac nodes in cattle, ponies, and cats.",
-      "journal": "Topics in Companion Animal Medicine",
-      "authors": "G&#xf3;mez-Torres F, Ballesteros-Acu&#xf1;a L, Ru&#xed;z-Saur&#xed; A",
-      "date": "2026 10 22",
-      "dateObject": "2026 10 22",
-      "abstract": "The sinoatrial node (SAN) and atrioventricular node (AVN) are essential components of the cardiac conduction system and play a critical role in initiating and propagating the electrical impulse. To characterise these cardiac nodes across different species, we examined the hearts of ten cattle, ten cats, and five male ponies without evidence of cardiac disease using conventional histological and immunohistochemical techniques. Morphometric parameters of the nodes and their constituent cells were quantified at different magnifications. The SAN displayed an oval morphology in all species. Its diameter was 888.58 &#xb1; 6.36 &#x3bc;m in cats, 2143.17 &#xb1; 199.13 &#x3bc;m in ponies, and 2033.28 &#xb1; 939.44 &#x3bc;m in cattle. Mean nodal density was significantly higher in ponies than in cattle (p&#x202f;=&#x202f;0.011). Pacemaker (P) cells of the AVN were significantly larger in ungulate species than in cats (p < 0.001). Heart bone (os cordis) was identified in all ten cattle hearts and in one cat heart, showing typical features of compact bone and bone marrow. Cartilaginous metaplasia was observed in all pony hearts and in 60% of cat hearts and was associated with reduced AVN size and cellularity in cats. These findings highlight important interspecies differences and contribute to the understanding of conduction system pathology in veterinary cardiology. The structural changes in the cardiac nodes in these species warrant more in-depth functional research, given the lack of functional cardiac assessment and the small sample size.",
-      "categories": [
-        "cardiology"
       ]
     },
     {
@@ -743,31 +896,6 @@
       ]
     },
     {
-      "pmid": "42877635",
-      "title": "Assessment of the hepatoprotective effect of a multi-component preparation containing phospholipids, selected amino acids, betaine, and milk thistle extract in dogs with asymptomatic elevation of liver parameters: a pilot study.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Nieradka R, Jank M, Otto S, Kurosad A",
-      "date": "2026 10 15",
-      "dateObject": "2026 10 15",
-      "abstract": "Liver diseases in dogs are often diagnosed at advanced stages due to the organ's high functional reserve. Early supportive therapy with hepatoprotective nutraceuticals may help slow disease progression in dogs with asymptomatic elevation of liver parameters. The aim of this pilot study was to evaluate the hepatoprotective effect of a multi-component preparation containing phospholipids, selected amino acids, betaine, and milk thistle extract in client-owned dogs with asymptomatic elevation of liver parameters. Seventeen dogs were included in the open-label study. The animals received Hepatiale Forte Advanced (Vet Expert) for 8&#x202f;weeks at the manufacturer's recommended dose. Liver enzyme activities (ALT, AST, ALP, GGT), total bilirubin, serum bile acids, hematological parameters, and abdominal ultrasonography were assessed at baseline and after 8&#x202f;weeks. Supplementation resulted in statistically significant reductions in ALT ( p &#x202f;=&#x202f;0.004), AST ( p &#x202f;=&#x202f;0.004), ALP ( p &#x202f;=&#x202f;0.001), total bilirubin ( p &#x202f;=&#x202f;0.001) and serum bile acids ( p &#x202f;=&#x202f;0.007). A trend toward a decrease was observed for GGT ( p &#x202f;=&#x202f;0.052). Hematological parameters remained stable, and the preparation was well tolerated with no adverse effects reported. Ultrasonographic findings were mostly stable or improved (resolution of biliary sludge in some cases). Eight-week supplementation with the multi-component hepatoprotective preparation was associated with significant improvement in liver biochemical parameters in dogs with asymptomatic elevation of liver parameters. The results support further research in a randomized, placebo-controlled trial.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42876514",
-      "title": "Case Report: Epitheliotropic cutaneous presentation of multicentric diffuse large B-cell lymphoma in a dog.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Kim GH, Ko BG, Kim SH, Seo KW, Youn HY, Ryu MO",
-      "date": "2026 10 15",
-      "dateObject": "2026 10 15",
-      "abstract": "Diffuse large B-cell lymphoma (DLBCL) is the most common histological subtype of canine multicentric lymphoma, whereas epitheliotropism is classically associated with cutaneous T-cell lymphoma. A 9-year-old neutered male Chihuahua was diagnosed with stage IVb multicentric lymphoma and achieved complete remission with a UW-25 L-CHOP protocol. However, an upper lip mass, cytologically consistent with lymphoma, developed during remission. Electrochemotherapy was performed for local control and resulted in marked reduction of the lesion. The dog later developed recurrent peripheral lymphadenopathy and multiple progressive cutaneous masses despite various chemotherapy protocols and was euthanized at week 59 because of progressive clinical deterioration. Histopathology confirmed diffuse large cell lymphoma in the submandibular lymph node, whereas the cutaneous lesions showed neoplastic lymphoid infiltration with multifocal epidermal invasion, mimicking epitheliotropic T-cell lymphoma. Immunohistochemistry (IHC) confirmed diffuse CD20 expression in both sites, with CD3 labeling limited to scattered background lymphocytes. These findings supported the interpretation of secondary cutaneous involvement of DLBCL with a highly unusual epitheliotropic pattern and emphasize the importance of IHC for accurate immunophenotypic classification of cutaneous lymphoma lesions.",
-      "categories": [
-        "oncology",
-        "dermatology"
-      ]
-    },
-    {
       "pmid": "42876319",
       "title": "A New Application of 64 CuCl 2 PET/CT: Imaging of Cats With Mammary Carcinoma.",
       "journal": "Veterinary and Comparative Oncology",
@@ -815,19 +943,6 @@
       "abstract": "To perform a partial validation of a point-of-care assay (Vcheck cardiac troponin I [VC-cTnI; cTnI]) for measurement of cTnI in canine serum and to perform a method comparison between the VC-cTnI and an established chemiluminescent assay (ADVIA Centaur XP High-Sensitivity Troponin I [AC-cTnI-HS]). From September 4, 2024, through August 21, 2025, surplus canine serum was collected from a diagnostic laboratory, and within-day variability, dilutional parallelism, spiking recovery, and the effect of common interferents (hemolysis, icterus, and lipemia) were analyzed for the VC-cTnI assay. A method comparison of the VC-cTnI and AC-cTnI-HS assays was performed with 121 canine serum samples. The within-day coefficient of variation ranged from 8.1% to 43.8%, decreasing as cTnI concentrations increased. Dilutional parallelism and spiking recovery assessments had mean &#xb1; SD observed-to-expected ratios of 80.5 &#xb1; 33.2% (range, 21.1% to 122.2%) and 112.8 &#xb1; 35.6% (range, 46.0% to 173.9%), respectively. There was no interference from icterus, hemolysis, or lipemia. There was a positive correlation between the VC-cTnI and AC-cTnI-HS assays (Spearman &#x3c1;, 0.742), though 16 of 121 samples (13.2%) were below the VC-cTnI detectable limit. The VC-cTnI assay lacked precision for measurement of concentrations below 0.2 ng/mL, but within-day variability was acceptable for higher concentrations. The VC-cTnI assay is more precise when measuring higher cTnI concentrations and can detect myocardial injury in dogs. Results in the normal and equivocal range of the manufacturer's reference interval may be more challenging to interpret because of suboptimal precision in this range.",
       "categories": [
         "cardiology"
-      ]
-    },
-    {
-      "pmid": "42871677",
-      "title": "Case Report: Therapeutic plasma exchange for systemic centipede envenomation in a 2-kg Chihuahua dog.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Tang W, Li Y, Sun G, Zheng C, Gao Z, Li S",
-      "date": "2026 10 14",
-      "dateObject": "2026 10 14",
-      "abstract": "A 2-kg, 8-year-old neutered male Chihuahua was presented after a centipede sting to the interdigital region of the right forepaw, followed by lameness and red urine. Wound care and intravenous fluid therapy were provided at the referring clinic; however, pigmenturia persisted and systemic manifestations developed, prompting referral. On admission, the dog had icteric mucous membranes, mild dehydration, and clinicopathologic evidence of systemic inflammation, tissue injury, hepatocellular damage, and suspected hemolysis. Because of the acute systemic manifestations following envenomation and persistence of clinical abnormalities despite initial medical management, membrane-based therapeutic plasma exchange (TPE) was performed. Estimated plasma volume was 96&#x202f;mL, and the prescribed exchange volume was 134&#x202f;mL (1.4 plasma volumes). Approximately 1,080&#x202f;mL of whole blood was processed over 3&#x202f;h. The 68-mL extracorporeal circuit was primed with whole blood, anticoagulation was achieved with heparin, and fresh frozen canine plasma was used as the replacement fluid. TPE was completed over 3&#x202f;h at a whole blood flow rate of 6&#x202f;mL/min; transient asymptomatic ionized hypocalcemia was detected and treated with calcium gluconate. After treatment, C-reactive protein decreased from 8.9 to 1.5&#x202f;mg/dL and appetite returned, although depression initially persisted. The dog subsequently improved during hospitalization and was discharged after 7&#x202f;days. In this dog, membrane-based TPE was well tolerated despite the small body size and was temporally associated with improvement in clinical signs.",
-      "categories": [
-        "internalMedicine",
-        "dermatology"
       ]
     },
     {
@@ -895,38 +1010,6 @@
       "categories": [
         "surgery"
       ]
-    },
-    {
-      "pmid": "42866544",
-      "title": "Effects of quercetin supplementation on the quality and metabolomic characteristics of sex-sorted frozen semen from Australian Wagyu bulls.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Yuan C, Yin Y, Wang X, Yu B, Wu J, Zhao Y, Liu J, Zhang K, Zhou W, Zhu Y, Xu L",
-      "date": "2026 10 13",
-      "dateObject": "2026 10 13",
-      "abstract": "This study aimed to evaluate the effects of different concentrations of quercetin on the post-thaw sperm quality of sex-sorted frozen semen from Australian Wagyu bulls and to investigate the underlying metabolic regulatory mechanisms using untargeted metabolomics. Sex-sorted frozen semen from Australian Wagyu bulls was treated with 0, 10, 50, 100, 150, and 200 &#x3bc;M quercetin. Sperm motility parameters, plasma membrane integrity, acrosome integrity, mitochondrial membrane potential, DNA integrity, reactive oxygen species (ROS) levels, and antioxidant-related indices were assessed. Metabolomic profiling was further performed to compare the 50 &#x3bc;M quercetin-treated group with the control group. The results showed that the 50 &#x3bc;M quercetin group exhibited better sperm viability, motility, straight-line velocity (VSL), curvilinear velocity (VCL), and average path velocity (VAP), together with reduced ROS levels and increased activities of antioxidant enzymes, including SOD, CAT, and GSH-Px. High concentrations of quercetin (&#x2265;150 &#x3bc;M) adversely affected sperm motility and several functional parameters. Metabolomic analysis revealed clear metabolic differences between the 50 &#x3bc;M quercetin-treated group and the control group, with 131 upregulated and 395 downregulated differential metabolites identified. KEGG enrichment analysis indicated that these differential metabolites were mainly involved in lipid-related pathways, including glycerophospholipid metabolism and arachidonic acid metabolism. These results suggest that an appropriate concentration of quercetin may improve the post-thaw quality of sex-sorted frozen semen from Australian Wagyu bulls by alleviating oxidative stress and regulating lipid metabolism. This study provides experimental evidence and metabolomic insights for optimizing cryoprotectant formulations for bovine sex-sorted frozen semen.",
-      "categories": []
-    },
-    {
-      "pmid": "42866543",
-      "title": "Long-term CT and US imaging of canine prostatic carcinoma after prostatic artery embolization: a 900-day follow-up case report.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Isshiki S, Tsuji-Kawahara S, Ogata M, Hisamoto S, Hashimoto M, Hasegawa T, Tsunoda I",
-      "date": "2026 10 13",
-      "dateObject": "2026 10 13",
-      "abstract": "Canine prostatic carcinoma is a highly aggressive malignancy with a poor prognosis and limited long-term treatment options. Prostatic artery embolization (PAE) has emerged as a minimally invasive alternative, but long-term intraprostatic imaging changes after PAE in dogs remain poorly documented. We performed PAE on a 13-year-old neutered male Chihuahua with prostatic carcinoma. Designating PAE as Day 0, we monitored the prostate, bladder, and lungs with computed tomography (CT), ultrasonography (US), and thoracic radiography for approximately 900 days. Clinical signs remained well controlled; the dog survived until Day 918. CT showed intraprostatic hypoattenuating lesions (Day 33) that enlarged with gas accumulation (Day 173); US showed hypoechoic lesions (Day 271) that became scattered hyperechoic foci (Day 678). Following PAE, the prostatic parenchymal volume decreased by approximately 33% and remained stable until Day 481. No serious PAE-related complications were observed. These findings suggest that PAE induced sustained ischemic, cavitary, and chronic remodeling changes within the prostate, which may have contributed to the prolonged local disease control observed in this dog. To our knowledge, this represents the longest time-course imaging reported after PAE in a dog with prostatic carcinoma and illustrates the potential of PAE as a feasible, minimally invasive treatment option in general veterinary practice.",
-      "categories": [
-        "oncology"
-      ]
-    },
-    {
-      "pmid": "42866536",
-      "title": "Correction: Statistical shape modeling of the geometric morphology of the canine femur, tibia, and patella.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Huart J, Pozzi A, Bleedorn J, Lu TW, Knell S, Park B",
-      "date": "2026 10 13",
-      "dateObject": "2026 10 13",
-      "abstract": "[This corrects the article DOI: 10.3389/fvets.2024.1366827.].",
-      "categories": []
     },
     {
       "pmid": "42572226",
@@ -1359,18 +1442,6 @@
         "oncology",
         "surgery",
         "dermatology"
-      ]
-    },
-    {
-      "pmid": "42823068",
-      "title": "Phenotypic characterization of presumptive propriospinal myoclonus in young dogs (2013-2025).",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Polidoro D, Bhatti SFM, Santens P, Mandigers P, Santifort KM, Kanazono S, Lu D, S&#xe1;nchez-Masi&#xe1;n D, de Stefani A, Shafie INF, &#xc1;lvarez P, Meyerhoff N, Jeroncic T, Lai SR, Dutil GF, Rohdin C, Marchand A, Thomovsky S, Liatis T",
-      "date": "2026 10 01",
-      "dateObject": "2026 10 01",
-      "abstract": "Propriospinal myoclonus (PSM) is characterized by repetitive, brief jerks of the trunk, hips, and knees in humans and has not been reported in dogs. To describe phenotype, diagnostic findings, treatment, and outcomes in presumptive PSM in dogs. Twenty-seven dogs with presumptive PSM. Multicenter, retrospective study of dogs with myoclonus affecting the limbs and trunk without head involvement, identified through online calls for suspected cases. Median age at onset was 9&#xa0;months (range, 2-44&#xa0;months). Propriospinal myoclonus involved pelvic limbs in all dogs, thoracic limbs in 14/27 (52%), and trunk in 9/27 (33%). Pelvic limb myoclonus was extensor in all dogs, whereas thoracic limb involvement was extensor in 12/27 (44%) and flexor in 3/27 (11%) dogs. Episodes were observed in a non-weight-bearing posture in all dogs, mainly lateral (25/27; 93%) and sternal (12/27; 44%) recumbency. Neurological examination was normal in all dogs. Abnormalities were not detected on magnetic resonance imaging of the spinal cord (4/6) or brain (6/6) in 5/6 dogs; in the remaining dog, findings were unrelated to the presumptive PSM. Follow-up information was available for 26/27 (96%) dogs. Sixteen dogs (59%) received no treatment, of which 9/16 (56%) showed spontaneous reduction in PSM frequency. Treatment with various antiseizure medications was started in 11/27 (41%) dogs, of which 5/11 (45%) improved. Presumptive PSM affected young dogs and is likely idiopathic. The condition is characterized by extensor myoclonus predominantly affecting pelvic limbs during recumbency, with preserved mentation. Spontaneous improvement seems common. Achtergrond: Propriospinale myoclonus (PSM) wordt bij mens gekenmerkt door repetitieve, schokbewegingen van de romp, heupen en knie&#xeb;n. Tot op heden is deze aandoening niet beschreven bij honden.Doelstelling; Het beschrijven van het fenotype, diagnostische bevindingen, behandeling en klinische uitkomst.Dieren: Zevenentwintig honden met vermoedelijke PSM. Methoden-Multicentrische retrospectieve studie bij honden met myoclonus waarbij de ledematen waren betrokken, ge&#xef;dentificeerd via online meldingen van vermoedelijke gevallen.Resultaten: De mediane leeftijd bij aanvang van de symptomen bedroeg 9 maanden (spreiding: 2-44 maanden). Bij alle honden was PSM aanwezig in de achterpoten, bij 14/27 (52%) in de voorpoten en bij 9/27 (33%) in de romp. De myoclonus van de achterpoten was bij alle honden in extensie. Ter hoogte van de voorpoten was de myoclonus in extensie (12/27 (44%) en in flexie (3/27 (11%). De episoden traden voornamelijk op in zijligging (25/27; 93%) en sternale (12/27; 44%). Neurologisch onderzoek was bij alle honden normaal. Magnetische resonantiebeeldvorming van ruggenmerg (4/6) en hersenen (6/6) was bij 5/6 honden normaal. Follow-upinformatie was beschikbaar voor 26/27 (96%) honden. Zestien honden (59%) kregen geen behandeling, waarvan 9/16 (56%) een spontane afname van de frequentie van de PSM vertoonden. Bij 11/27 (41%) honden werd een behandeling met aanvalswerende medicijnen gestart, waarbij 5/11 (45%) een verbetering vertoonden.Conclusies en klinische relevantie: Vermoedelijke PSM lijkt voornamelijk voor te komen bij jonge honden en is waarschijnlijk idiopathisch. Het klinisch beeld wordt gekenmerkt door een myoclonus in extensie van voornamelijk de achterpoten tijdens het liggen. Een spontane verbetering lijkt vaak voor te komen. The aim of this study was to investigate a pattern of repeated muscle jerks in dogs similar to propriospinal myoclonus seen in humans. The condition mainly affected young dogs, involved the hind limbs in all cases and the front limbs in some, and was most often seen when they were lying down. No underlying cause was identified. Although several medications were used, some dogs improved without treatment.",
-      "categories": [
-        "neurology"
       ]
     },
     {
@@ -1989,18 +2060,6 @@
       ]
     },
     {
-      "pmid": "42751918",
-      "title": "EXPRESS: Radiographic findings of the femora and tibiae in cats affected by patella fracture and dental anomaly syndrome.",
-      "journal": "Journal of Feline Medicine and Surgery",
-      "authors": "Boulton SJ, Hernon T, Dancer S, Dirrig H, Major AC, Bourbos A, Piola V, Salg&#xfc;ero R, Guerin S, Langley-Hobbs SJ",
-      "date": "2026 09 17",
-      "dateObject": "2026 09 17",
-      "abstract": "The objective of the study was to describe radiographic skeletal changes in cats affected by patella fracture and dental anomaly syndrome (PADS), with particular focus on the femora and tibiae including bone density alterations, evidence of stress fractures and femoral morphology. Cats were retrospectively selected from a database of PADS affected cats. Radiographs were independently evaluated by five veterinary radiologists and three orthopaedic surgeons for cortical thickening, medullary opacity changes, the presence of osteopetrosis, degenerative joint disease and additional fractures and subjective assessment of the femoral shape. One hundred and twenty&#x2011;six cats met the inclusion criteria. All had patellar fractures and 22.2% (n=28) had additional fractures, most commonly involving the proximal tibia in 13.5% of cases (n=17), proximal fibula in 11.9% of cases (n=15) and pelvis. Four cats showed an incomplete radiolucent line in the cranioproximal tibia with surrounding sclerosis, consistent with developing stress fractures. Medullary opacity changes in the femora and/or tibiae were present in 8.7% (11/126) of cats, more often patchy than diffuse in appearance. In 4.0% of cases (n=5), a generalised increase in bone opacity compatible with osteopetrosis was identified. Femoral shape was assessed in 74 cats, with 35% (n=26) having a normal morphology, and 9.5% (n=7) and 2.7% (n=2) having a stovepipe or champagne-fluted morphology respectively. Consensus was not reached in 52.7% (n=39) cases. Most PADS&#x2011;affected femora and tibiae appeared radiographically normal, however, a subset of cats demonstrated radiographic features of osteopetrosis, altered femoral morphology and proximal tibial fissure lines suggestive of early stress fractures. These findings suggest that specific structural and morphological changes in the long bones may be present, or predispose, cats to the insufficiency fractures characteristic of PADS and emphasise the importance of clinicians recognising these subtle radiographic features to aid earlier diagnosis and appropriate case management.",
-      "categories": [
-        "surgery"
-      ]
-    },
-    {
       "pmid": "42749338",
       "title": "Multiple Modelling Methods Suggest That Grain-Free Diets Are Not Predictive of New Owner-Reported Cardiac Diagnoses Over Two Years in the Dog Aging Project, Despite Owner Misclassification of Diet.",
       "journal": "Veterinary Medicine and Science",
@@ -2259,18 +2318,6 @@
       "abstract": "Faecal microbiota transplantation (FMT) is an established therapy for gastrointestinal disease, yet its role in canine atopic dermatitis (cAD) remains unclear. We hypothesised that adjunctive FMT improves clinical severity and reduces symptomatic medication use in dogs with cAD. The objective was to evaluate efficacy and safety versus placebo. Forty-six client-owned dogs with naturally occurring cAD were enrolled from a referral hospital population; 40 completed the study (FMT n&#x2009;=&#x2009;20, placebo n&#x2009;=&#x2009;20). Prospective, randomised, placebo-controlled, double-blinded clinical trial. Dogs received daily oral lyophilised FMT capsules for 90&#x2009;days plus three monthly rectal FMT administrations (Day [D]0, D30, D60) or placebo capsules with sham handling. Concomitant symptomatic therapies were permitted. Outcomes included Canine Atopic Dermatitis Extent and Severity Index, fourth iteration (CADESI-04), pruritus Visual Analog Scale (PVAS), Medication Score (D0-90) and Owner Global Assessment of Treatment Efficacy (OGATE, D90). CADESI-04 scores were lower with FMT at month (M) 2 (7&#x2009;&#xb1;&#x2009;6 vs. 16&#x2009;&#xb1;&#x2009;12; p&#x2009;=&#x2009;0.006) and month 3 (8&#x2009;&#xb1;&#x2009;6 vs. 15&#x2009;&#xb1;&#x2009;12; p&#x2009;=&#x2009;0.020). Sustained responders (&#x2265;&#x2009;50% CADESI-04 improvement at M2 and M3) were more frequent with FMT (35% vs. 5%; p&#x2009;=&#x2009;0.044). In the FMT group, the medication scores were lower at M2 (16&#x2009;&#xb1;&#x2009;10 vs. 23&#x2009;&#xb1;&#x2009;11; p&#x2009;=&#x2009;0.033) and M3 (13&#x2009;&#xb1;&#x2009;10 vs. 24&#x2009;&#xb1;&#x2009;15; p&#x2009;=&#x2009;0.007) compared to placebo. PVAS decreased in both groups without between-group differences. OGATE favoured FMT (p&#x2009;=&#x2009;0.028). FMT was well tolerated. Adjunctive FMT reduced lesion severity and medication requirements, supporting its use as a safe microbiome-based add-on therapy in cAD.",
       "categories": [
         "internalMedicine",
-        "dermatology"
-      ]
-    },
-    {
-      "pmid": "42272113",
-      "title": "Treatment Choices for Acute Canine Otitis Externa in Sweden, Finland and Norway: A Comparative Study With a Focus on Antibiotic Use.",
-      "journal": "Veterinary Dermatology",
-      "authors": "Saarinen K, Ljungquist D, Sepp&#xe4;nen R, Kaimio M, Andersson AM",
-      "date": "2026 09 11",
-      "dateObject": "2026 09 11",
-      "abstract": "Canine otitis externa (COE) is one of the most frequently recorded disorders in veterinary practices, making it an important focus for antibiotic stewardship. To investigate and compare treatment regimens for acute COE in Finland, Norway and Sweden, with a focus on antibiotic use. 1060 dogs with acute COE lasting for &#x2264;&#x2009;4&#x2009;weeks. This was a multicentre cross-sectional study based on a point prevalence survey conducted among Swedish, Finnish and Norwegian veterinary surgeons within a corporate group during spring 2024. In the survey, each practice had been asked to include the first 20 consecutive cases of acute COE and register information about their diagnostic and therapeutic management. Overall, antibiotic treatment was used in 18% of cases (190 of 1060 dogs), predominantly topical, with systemic use only reported in six cases. Antibiotic use was significantly higher in Norway (28%) and Finland (29%) than in Sweden (2%; p&#x2009;<&#x2009;0.001). The most frequently used antibiotic was polymyxin B. Antibiotic treatment was more strongly associated with cytological findings, especially the presence of neutrophils and rods, than with clinical presentation. Overall, glucocorticoid treatment was used in 94% and ear cleaner in 89% of cases, with some differences between countries. In this study, most acute COE cases were managed with glucocorticoids and ear cleaners without antibiotics. Swedish practices stood out with a notably low antibiotic use of 2%. Our results provide valuable information on antibiotic use for acute COE in three Nordic countries, inspiring future antibiotic stewardship efforts.",
-      "categories": [
         "dermatology"
       ]
     },
@@ -2876,28 +2923,6 @@
       ]
     },
     {
-      "pmid": "42566137",
-      "title": "Advances in biomarker discovery for canine cognitive dysfunction: a comprehensive structured narrative review and future perspectives.",
-      "journal": "Veterinary Research Communications",
-      "authors": "Barbosa KA, Ribeiro HM, Benevenuto LGD, Maiorka PC, Cominetti MR, Amorim RM, Cagnini DQ",
-      "date": "2026 08 07",
-      "dateObject": "2026 08 07",
-      "abstract": "Canine Cognitive Dysfunction (CCD) is a naturally occurring neurodegenerative syndrome in aging dogs that shares clinical and neuropathological parallels with Alzheimer's disease (AD). As the demand for objective diagnostic tools grows, identifying reliable biofluid biomarkers is essential for clinical staging and therapeutic monitoring. This review synthesizes evidence on cerebrospinal fluid (CSF) and blood-based biomarkers (BBM) of CCD, focusing on amyloid-&#x3b2; (A&#x3b2;), neurofilament light chain (NfL), tau, and glial fibrillary acidic protein (GFAP). Evidence shows that A&#x3b2;42 and A&#x3b2;42/A&#x3b2;40 ratios exhibit stage-dependent, non-linear alterations resembling early compensatory phases in human AD. In contrast, tau pathology in CCD consists mainly of pre-tangle synaptic hyperphosphorylation rather than abundant neurofibrillary tangles, limiting its current diagnostic utility. GFAP, a marker of astroglial activation, shows inconsistent associations with cognitive decline and remains exploratory. Conversely, NfL has emerged as the most robust biomarker; CSF and plasma NfL levels consistently increase with age, correlate with cognitive impairment, and reflect central axonal pathology, making it the leading candidate for staging and monitoring disease progression. Overall, the CCD biomarker landscape supports a multimodal approach integrating A&#x3b2; dysregulation, axonal injury, and glial activation. Advancing this field requires harmonized diagnostic criteria, standardized sampling, and longitudinal studies. Such efforts will strengthen the translational value of CCD as a model for human dementia, accelerating discovery and therapeutic development across species.",
-      "categories": [
-        "neurology"
-      ]
-    },
-    {
-      "pmid": "42566096",
-      "title": "Post-thaw quality of donkey (Equus asinus) spermatozoa exposed to different concentrations of curcumin with respect to oxidative status and nitric oxide.",
-      "journal": "Veterinary Research Communications",
-      "authors": "Abdelnaby EA, Alhaider AK, Al Qarnin HS, Fadl AM, Emam IA",
-      "date": "2026 08 07",
-      "dateObject": "2026 08 07",
-      "abstract": "Donkey sperm cryopreservation is a critical tool for preserving male fertility. But freezing and thawing could adversely affect sperm quality. There is limited information available regarding curcumin supplementation with different doses in sperm cryopreservation in donkeys. This study aimed to determine the alterations in post-thaw motility, viability, DNA integrity, acrosome integrity, and sperm kinematic parameters in relation to enzymatic leakage and nitric oxide levels in response to the addition of different doses of curcumin to the extender in male donkeys. Ejaculates were collected after semen collection from six male donkeys and then pooled. Samples were diluted with Tris-egg yolk glycerol extender. After centrifugation, pellet was diluted with an extender and divided into the five main groups containing curcumin at different concentrations, as C0 (control; 0 mM), C1 (0.125 mM), C2 (0.25 mM), C3 (0.5 mM), and C4 (0.75 mM). Semen quality was measured after thawing via CASA kinematic assessment and enzymatic leakage, such as alanine and aspartate aminotransferase levels (ALT and AST). Malondialdehyde (MDA), nitric oxide (NO), and catalase (CAT) levels were measured. Results revealed a significant elevation in motility, viability, DNA integrity, acrosome integrity, and CASA parameters with a linearity and straightness of sperm when curcumin was added at a concentration of 0.5 mM compared to others. AST, ALT, MDA, and NO levels were significantly declined at 0.5 mM of curcumin, with an elevation of CAT levels. The addition of curcumin improved sperm motility, kinematic parameters, viability, acrosome integrity, DNA integrity, antioxidant activity (CAT), and reduced both oxidative stress-related markers (MDA and NO), and cellular leakage markers (ALT and AST). Greatest improvements were observed at a curcumin concentration of 0.5 mM with a Tris-egg yolk glycerol extender of frozen-thawed donkey spermatozoa.",
-      "categories": []
-    },
-    {
       "pmid": "42548827",
       "title": "Rare occurrence of an intumescent cataract in a diabetic domestic longhair cat.",
       "journal": "JFMS Open Reports",
@@ -3159,21 +3184,6 @@
       "abstract": "A 4-year-old, female spayed domestic shorthair cat was presented to the Michigan State University emergency service for evaluation of vomiting 4 days after exposure to vitamin D supplements. On intake, the patient was found to have ionized hypercalcemia and azotemia. The patient was hospitalized for calciuresis therapy including fluid diuresis, diuretics, steroids, bisphosphonates and a nasogastric feeding tube. She was discharged and presented for a recheck evaluation and was then hospitalized a second time for the same therapy as her first hospitalization. Eventually the patient was discharged for at-home care with subcutaneous fluids and oral medications because of financial constraints. Approximately 52 days after exposure, the cat was noted to have persistently normal ionized calcium and all medications were discontinued. This case provides a unique example of acute vitamin D toxicosis in a cat and a financially conservative approach in treating a toxicity with a significant half-life.",
       "categories": [
         "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42245518",
-      "title": "Successful response to cabergoline treatment in a non-diabetic cat with hypersomatotropism and pituitary macroadenoma.",
-      "journal": "JFMS Open Reports",
-      "authors": "M&#xe1;rquez Conde CA, Miceli DD",
-      "date": "2026 06 05",
-      "dateObject": "2026 06 05",
-      "abstract": "A 12-year-old male neutered domestic shorthair cat was referred with severe polyphagia, polydipsia, polyuria, weight gain and signs of neurologic disease, including blindness, head tilt, and ataxia. Magnetic resonance imaging (MRI) identified a suprasellar mass consistent with a pituitary macroadenoma. Hypersomatotropism (HST) was diagnosed based on phenotypic changes compatible with acromegaly and an abnormally high serum insulin-like growth factor 1 (IGF-1) concentration (1253&#x2009;ng/ml). Medical treatment with cabergoline monotherapy (10&#x2009;&#x3bc;g/kg PO q24h) was prescribed. Progressive improvement of clinical signs was observed, accompanied by a gradual decrease in serum IGF-1 concentrations. Based on clinical and hormonal response, the dosing interval was sequentially extended to q48h and subsequently to q72h. By week 16 of treatment, signs of neurologic disease had resolved and serum IGF-1 concentrations decreased to values within the reference interval (749&#x2009;ng/ml), while visual deficits persisted. By week 30, signs of neurologic disease remained absent, serum IGF-1 concentration was maintained within the reference interval, and diabetes mellitus did not develop. Cabergoline was well tolerated, with mild gastrointestinal signs reported early in the course of treatment. This report describes a non-diabetic cat with HST secondary to a pituitary macroadenoma achieving sustained clinical and biochemical control with cabergoline monotherapy. This case demonstrates that a dopamine agonist might be an effective medical option in selected non-diabetic cats with HST, even in the presence of a large pituitary mass and signs of neurologic disease. A medication improved hormone levels and clinical signs in a cat with a brain tumor causing excess growth hormone This report describes a cat with a condition caused by a tumor in the pituitary gland, a small structure at the base of the brain. This tumor leads to the body producing too much growth hormone, which can cause increased appetite, excessive drinking and urination, weight gain, and neurologic problems such as balance issues or vision loss. This condition is usually treated with surgery or radiation therapy, but these options were not possible in this case due to limited availability and cost. Instead, the cat was treated with a medication called cabergoline, which is commonly used for other hormonal diseases and is increasingly being explored as a treatment option in cats with this condition. After starting treatment, the cat showed clear improvement. The excessive appetite, drinking and urination decreased, and the neurologic signs resolved over time. Blood tests also showed a marked decrease in the hormone levels associated with the disease. The medication was well tolerated, with only mild and temporary digestive side effects. Although follow-up imaging was not performed, so changes in tumor size could not be confirmed, the clinical and hormonal improvements were maintained over several months. The cat also did not develop diabetes, which is a common complication of this condition. These findings suggest that cabergoline may be a useful treatment option for some cats with this disease, especially when other therapies are not available. More research is needed to understand how this treatment works and which patients are most likely to benefit.",
-      "categories": [
-        "internalMedicine",
-        "oncology",
-        "surgery",
-        "neurology"
       ]
     },
     {
