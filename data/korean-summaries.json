@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T23:20:01.100Z",
+  "updated_at": "2026-10-27T00:28:28.290Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -7319,6 +7319,54 @@
       "title": "Hemodynamic responses to clinical dosages of dopamine and dobutamine in dogs with hypotension under isoflurane anesthesia.",
       "journal": "Veterinary Research Communications",
       "generated_at": "2026-10-25T23:19:12.100Z",
+      "model": "gpt-5-mini"
+    },
+    "42928309": {
+      "brief_summary": "본 연구는 돼지 서큘로바이러스 유사 바이러스 P1의 8개 ORF와 보존된 6염기 모티프(GGATCC)의 기능적 중요성을 평가하기 위해 rpSK-2P1 감염성 클론을 바탕으로 점돌연변이체를 제작해 PK-15 세포에서 네 차례 계대배양하며 분석한 실험적 연구이다. 모든 돌연변이체에서 바이러스 게놈 복제와 RNA 전사가 관찰되었으나, 4차 계대배양에서는 다수의 변이 부위가 선택적으로 야생형으로 되돌아가는 재배열이 확인되어 야생형 서열이 복제 우위를 제공함을 시사했다. 특히 캡시드 단백질을 암호화하는 ORF1 변이체(Y1)는 초기 복제가 저하되었으나 계대배양을 거치며 빠르게 되돌아와 Cap 발현과 적합성(fitness)이 회복되었다는 점은 P1의 복제 효율과 유전적 안정성 이해에 임상적·역학적 시사점을 준다.",
+      "detailed_summary": "연구진은 P1의 rpSK-2P1 감염성 클론을 기초로 8개 ORF 및 보존된 헥사누클레오타이드 모티프(GGATCC)에 대한 표적 점돌연변이주들을 제작했다. 이들 변이체를 PK-15 세포에 전사(트랜스펙션)한 후 네 차례 연속 계대배양을 수행했고, 바이러스 복제능과 유전자 안정성은 PCR, 정량 PCR(qPCR), 산거(생거) 염기서열분석(Sanger sequencing)으로 평가했다. 분석 결과 모든 돌연변이체에서 게놈 복제와 바이러스 RNA 전사가 유지되었지만, 4차 계대배양에서 회수된 게놈 서열들은 여러 변이 부위에서 선택적 역회복(야생형으로의 재돌연변이)을 보였다. 특히 ORF1(캡시드 단백질, Cap)에 변이가 있는 Y1은 초기에는 복제 저하를 보였으나 빠르게 야생형 서열로 되돌아오며 Cap 발현과 복제 적합성이 회복되었다. 저자들은 이 결과를 통해 해당 ORF들과 특정 뉴클레오타이드 사이트가 P1의 완전한 복제를 차단하지는 않지만 복제 효율과 유전적 안정성 조절에 핵심적 역할을 하며, P1은 제한된 유전적 변화는 허용하되 야생형 서열을 유지하려는 강한 선택압을 받는다고 결론지었다. 초록에는 구체적 임상시험이나 in vivo 검증에 대한 언급은 없으므로, 이 결과들의 임상적 적용과 역학적 의미를 확정하려면 추가 연구가 필요하다.",
+      "title": "Effects of transcription units and a specific hexanucleotide motif of porcine circovirus-like virus P1 on viral DNA synthesis, viral protein expression, and progeny virus production.",
+      "journal": "BMC Veterinary Research",
+      "generated_at": "2026-10-27T00:28:03.960Z",
+      "model": "gpt-5-mini"
+    },
+    "42928418": {
+      "brief_summary": "본 연구는 개 구강 악성 점막 흑색종에서 상피형과 간엽형 표본 간 DNA 메틸화 상태 차이를 비교하여 상피-간엽 전이(EMT)와의 연관성을 평가했다. 총 24개 표본(상피형 16, 간엽형 8)을 E-cadherin 발현(면역조직화학·웨스턴 블롯)으로 분류하고 46,673개 CpG 사이트의 메틸화 정도를 분석했다. CpG 섬 프로모터(3,089 사이트) 분석에서 상피형에서 17개, 간엽형에서 6개의 과메틸화 부위를 확인했고, 23개 유의부위 중 10개는 de novo 과메틸화였으며 NEUROG1과 ITGAV(세포 부착 관련)가 상피형에서 과메틸화되어 DNA 메틸화가 EMT에 영향을 미칠 가능성을 시사한다.",
+      "detailed_summary": "연구는 개 구강 악성 점막 흑색종 표본 24개를 대상으로 수행되었으며, 표본은 E-cadherin 발현을 기준으로 상피형(16)과 간엽형(8)으로 분류되었다(면역조직화학 IHC 또는 웨스턴 블롯 WB 사용). 전체 46,673개의 CpG 사이트에 대한 DNA 메틸화 수준을 측정했고, 특히 CpG 섬 프로모터 영역의 3,089개 사이트에서 각 사이트별 평균 메틸화 수준을 비교하였다. 비교 결과 상피형에서 17개, 간엽형에서 6개의 프로모터 부위가 과메틸화된 것으로 확인되었고, 총 23개 유의부위 중 10개는 de novo 과메틸화 패턴을 보였다. 그 중 NEUROG1과 ITGAV 유전자가 상피형에서 과메틸화되어 있으며, 두 유전자는 세포 부착과 관련되어 있다고 보고되었다. 저자들은 이러한 결과가 개 악성 점막 흑색종에서 DNA 메틸화가 EMT와 연관될 가능성을 제시한다고 결론지었다. 초록에서는 연구의 제한점이나 추가 검증 필요성에 대한 구체적 언급은 없었다.",
+      "title": "Differences in DNA Methylation Status Between Epithelial and Mesenchymal Phenotypes in Canine Malignant Mucosal Melanoma.",
+      "journal": "Veterinary and Comparative Oncology",
+      "generated_at": "2026-10-27T00:28:28.270Z",
+      "model": "gpt-5-mini"
+    },
+    "42928650": {
+      "brief_summary": "고양이 중간~대형 세포 림프종을 대상으로 COP와 CHOP 화학요법의 효과를 비교한 체계적 검토 및 탐색적 메타분석으로, 21개 연구의 1054마리 고양이를 포함했다. 전체 통합 객관적 반응률(ORR)은 81.0%였고, 하위분석에서 COP와 CHOP 간 ORR(83.0% vs 77.0%, p=0.360), 완전반응(CR, 57.0% vs 49.0%, p=0.350), 부분반응(PR, 28.0% vs 22.0%, p=0.468)에서 통계적으로 유의한 차이를 검출하지 못했다. 그러나 높은 이질성(I2 = 85.4%–89.6%)과 방법학적 한계로 장기 생존 이점 여부는 결론내기 어려우며, 표준화된 전향 무작위 연구가 필요하다.",
+      "detailed_summary": "본 연구는 2000–2024년 PubMed, Scopus, CAB Abstracts를 검색한 체계적 검토 및 탐색적 랜덤효과 메타분석으로, 최종적으로 21개 연구의 총 1054마리 고양이를 포함했다. 평가 항목은 전체 객관적 반응률(ORR), 완전반응(CR), 부분반응(PR)이며, 추정은 Restricted Maximum Likelihood(REML) 방법을 사용한 랜덤효과 모델로 수행되었다. 통합된 전체 ORR은 81.0%였고, COP와 CHOP 간의 ORR(83.0% vs 77.0%), CR(57.0% vs 49.0%), PR(28.0% vs 22.0%) 모두 통계적 유의차가 관찰되지 않았다(p값 각각 0.360, 0.350, 0.468). 분석 전반에 걸쳐 I2 = 85.4%–89.6%의 높은 이질성이 존재했으며, 이는 해부학적 아형의 혼재와 고양이 백혈병 바이러스(FeLV) 상태에 대한 통제되지 않은 교란에 주로 기인했다. 생존기간에 대한 공식적 메타분석은 분산 보고 부족과 VCOG-RECIST 등의 표준화된 반응 기준 결여로 불가능했으며, 기술적 보고에서는 COP의 중앙생존기간 108–610일, CHOP 62–973일로 폭이 넓고 명확한 CHOP 우위는 없었다. 저자들은 맞춤형 위험도 평가에서 문헌 전반에 걸친 심각한 방법학적 결함을 확인했으며, 결론적으로 반응률 측면에서 CHOP가 COP보다 우수하다는 증거는 없지만 이질성과 후향적 선택 편향으로 인해 장기 생존에 대한 확정적 판단은 불가능하므로 동질적이고 전향적 무작위 연구 및 표준 보고 지침의 적용을 강조하고 있다.",
+      "title": "Comparative Effectiveness of COP and CHOP Chemotherapy Protocols in Feline Intermediate- to Large-Cell Lymphoma: A Systematic Review and Meta-Analysis.",
+      "journal": "Veterinary and Comparative Oncology",
+      "generated_at": "2026-10-27T00:28:13.593Z",
+      "model": "gpt-5-mini"
+    },
+    "42932825": {
+      "brief_summary": "관심사는 소셜미디어 리스닝(SML)을 이용한 관찰적 회고 연구로, 반려견 주인이 보고한 음식 관련 건강 증상(ORHS)을 온라인 게시글에서 파악하는 것이다. 2025-01-01~2025-07-03 기간에 Pulsar Platform™으로 수집한 게시글 중 KC(kibble/canned) 21,896건과 FD(raw/fresh) 2,336건(>96%가 Reddit)에서 전처리 및 LLM 기반 필터링을 거쳐 최종 8,040 KC·924 FD 게시글을 분석했다. 주요 결과는 위장관(GI) 및 알레르기/불내성 관련 증상이 각각 많이 보고되었고(예: KC의 GI 2,286/8,040, 28.4%; FD의 GI 282/924, 30.5%; KC의 알레르기/불내성 1,932/8,040, 24.0%; FD 194/924, 21.0%), 해당 방법이 SML-LLM 보조분석으로 실현 가능함을 보였으나 임상적으로 확인된 결과가 아니라는 점에서 제한된다.",
+      "detailed_summary": "연구는 관찰적 회고 디자인으로, Pulsar Platform™을 통해 2025-01-01부터 2025-07-03까지 수집된 KC(키블/캔) 21,896건과 FD(로우·휴먼그레이드·저열조리·가정조리) 2,336건의 온라인 게시글을 사용했다. 수집 후 전처리와 대형언어모델(LLM) 기반 제로-샷 필터링을 통해 KC 8,040건과 FD 924건을 최종 분석 대상으로 삼았다. 분석 방법은 LLM 보조 주제모델링(주제수 k: KC=7, Cv=0.58; FD=6, Cv=0.44)과 사전 기반 ORHS(주인 보고 건강 징후) 정량화였다. 소유자들은 식이를 질병의 원인 또는 관리 전략으로 언급했으며 위장관, 피부·피모, 알레르기/불내성, 식욕, 체형(체중) 관련 ORHS와 의사결정의 불확실성을 논의했다. 주요 수치로는 KC 게시글에서 GI 2,286/8,040(28.4%), 알레르기/불내성 1,932/8,040(24.0%)이며 FD 게시글에서는 GI 282/924(30.5%), 알레르기/불내성 194/924(21.0%)이었고, 알레르기/불내성은 피부/피모와 자주 공기(reported co‑occurrence: 478/918, 52.1% 및 57/114, 50.0%), GI는 알레르기/불내성과도 공기(476/1,932, 24.6%; 68/194, 35.1%)하는 양상을 보였다. 결론적으로 SML-LLM 보조 분석은 온라인 견주 담론에서 식이 관련 ORHS를 포착하는 데 유용했으나 본 연구는 소유자 인식만을 반영하며 임상적으로 검증된 결과가 아니므로 향후 연구에서는 ORHS를 임상적 유효성 지표와 연계해 수의영양 상담과 소유자 의사결정 지원에 기여해야 한다.",
+      "title": "An observational retrospective study of online owner perceptions of diet-related health signs in dogs using social media listening.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-10-27T00:27:48.585Z",
+      "model": "gpt-5-mini"
+    },
+    "42932826": {
+      "brief_summary": "SAVSNET 전자의무기록(EHR)과 전문의 설문을 이용한 후향적 조사로, 사이클로포스파미드 투여 개에서 무균성 출혈성 방광염(SHC) 예방을 위해 푸로세마이드(furosemide)가 얼마나 사용되는지 조사했다. 2014–2024년 EHR에서 사이클로포스파미드 투여 개 106마리 중 기준에 맞는 72마리 분석 결과, 푸로세마이드는 32%에서 처방되었고 전체 의심 SHC 빈도는 15% (11/72)였으나 푸로세마이드를 받은 개에서는 의심 SHC가 보고되지 않았다(P = .013). 전문의 설문에서는 MTDC에서는 88%, 메트로노믹(MC)에서는 55%가 예방적 푸로세마이드를 권고하였고, 일차 진료(FOP)에서의 처방은 일관성이 없었다. 저자들은 예방 지침의 표준화와 권고사항 전파가 필요하다고 결론지었다.",
+      "detailed_summary": "연구는 두 부분으로 구성된 후향적 관찰연구 및 설문조사이다. 첫째, SAVSNET 데이터베이스의 EHR 검토(2014–2024)에서 사이클로포스파미드 투여 개 106마리 중 72마리가 포함되어 용량, 동시처방 약물, 예방조치 및 의심 SHC 발생 여부를 수집했다. 치료 방식은 최대내약용량(MTDC)이 53%, 메트로노믹(MC)이 47%로 분포했고, 푸로세마이드는 전체의 32%에서 처방되었으며 주로 MTDC와 함께 사용되었다(53%). 의심 SHC의 전체 빈도는 15% (11/72)였고, 푸로세마이드를 받은 개에서는 의심 SHC 사례가 보고되지 않아 통계적으로 유의한 차이를 보였다(P = .013). 둘째, 2023–2024년 시행된 전문의 및 교육자 설문에서 MTDC의 88%, MC의 55%가 예방적 푸로세마이드 사용을 권고하는 것으로 보고되었다. 결론은 일차 진료에서 예방적 이뇨제 병용이 일관되지 않아 전문의 권고와 차이가 있으며, 개 안전성 최적화를 위해 예방 지침의 표준화 및 권고사항 보급이 필요하다는 것이다. 연구는 제한점이 있음을 명시하고 있어, 푸로세마이드 투여와 SHC 미발생 간의 인과 관계를 확정하지는 못한다.",
+      "title": "Prophylactic strategies to reduce cyclophosphamide-induced sterile hemorrhagic cystitis in dogs: a first-opinion practice retrospective study and a referral survey.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-10-27T00:27:34.047Z",
+      "model": "gpt-5-mini"
+    },
+    "42932827": {
+      "brief_summary": "16세 보더콜리에서 비부비동 아스페르길루스증(SNA)이 원인이 된 수막내 기종이 발생한 증례를 보고한다. 영상검사와 비내시경·qPCR로 Aspergillus spp.를 확인하고 전신 항진균제 투여와 내시경적 기계적 제거, 국소 항진균제를 병행한 치료 후 3주에 MRI상 기종이 완전 소실되었다. 이 증례는 SNA에 의해 발생한 수막내 기종이 가역적일 수 있으며 기종 존재만으로 항진균 치료를 배제해서는 안 된다는 임상적 시사점을 제공한다.",
+      "detailed_summary": "증례보고로, 16세 보더콜리가 급성 무기력과 만성 비루로 의뢰되었고 2주 전 촬영한 CT에서 좌측 비강과 전두동의 심한 비중격(터비네이트) 파괴 및 점막 비후가 SNA를 시사했다. 내원 시 MRI는 수막내 기종, 수막염, 전두동염 및 전두골의 배측 국소 골용해를 확인했고 뇌척수액 검사는 특이소견이 없었다. 비내시경에서 진균 플라크가 확인되었고 qPCR에서 Aspergillus spp.가 검출되어 SNA 진단이 확정되었다. 치료로 전신 항진균제와 내시경적 제거(데브리드먼트)를 시행하고, 전두골 용해가 있음에도 국소 항진균제 도포를 추가하였다. 3주 추적 MRI에서 수막내 기종은 완전 소실되었고 최종 영상에서는 결손 주위 흉터화와 활동성 감염 소견이 없었다. 결론적으로 SNA 관련 수막내 기종은 가역적일 수 있으며 항진균 치료와 내시경적 중재가 완전 회복을 가능하게 할 수 있으나, 단일 증례 보고이므로 일반화에는 제한이 있다.",
+      "title": "Sinonasal aspergillosis-associated pneumocephalus in a dog: recovery after endoscopic interventional debridement and antifungal treatment.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-10-27T00:27:18.348Z",
       "model": "gpt-5-mini"
     }
   }
