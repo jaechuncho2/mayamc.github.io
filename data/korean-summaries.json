@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T00:37:39.801Z",
+  "updated_at": "2026-10-29T01:03:21.062Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -7583,6 +7583,118 @@
       "title": "Diagnostic and stewardship considerations in fungal lower urinary tract infections of dogs and cats.",
       "journal": "Journal of Veterinary Internal Medicine",
       "generated_at": "2026-10-28T00:32:13.067Z",
+      "model": "gpt-5-mini"
+    },
+    "42947099": {
+      "brief_summary": "본 연구는 시리아 햄스터(Mesocricetus auratus) 24마리를 대상으로 방사선 및 해부학적 방법으로 vertebral heart size(VHS)와 심장 위치를 조사하였다. 평균 방사선 VHS는 8.9척추마디, 해부학적 VHS는 6.69척추마디로 방사선 값이 유의하게 더 컸고(P ≤ 0.001) 방사선 VHS는 암컷이 수컷보다 컸다. 이 결과는 성별 변이를 고려할 때 임상·실험적 심장 크기 평가를 위한 첫 기준값을 제시한다.",
+      "detailed_summary": "연구는 건강한 성체 시리아 햄스터 24마리(방사선 및 심장 지형 평가 22마리, 해부학적 심장 측정 18구)를 포함한 관찰 연구이다. 주요 평가항목은 방사선 및 해부학적 VHS, 심장 윤곽의 흉곽 내 위치와 좌우 방향성, 성별·체중·체장과의 상관관계였다. 심장 윤곽은 주로 제1 늑간에서 제4 늑골 사이에 위치했고 대부분 정중면의 좌측으로 치우쳐 있었다. 평균 방사선 VHS는 8.9척추마디, 평균 해부학적 VHS는 6.69척추마디였으며 방사선 값이 해부학적 값보다 유의하게 더 컸다(P ≤ 0.001), 이는 방사선상 심장의 확대가 척추보다 더 크게 관찰되었음을 의미한다. 방사선 VHS는 암컷이 수컷보다 유의하게 컸고 관찰자 간 방사선 VHS 측정에 통계적 차이가 있었으며, 방사선·해부학적 VHS는 체중이나 체장과 유의한 상관관계를 보이지 않았다. 연구는 시리아 햄스터의 VHS에 대한 첫 기초 참고값을 제공하며 성별 차이를 고려할 경우 방사선 촬영이 심장 크기 평가에 신뢰할 수 있는 도구임을 시사하지만, 관찰자 간 변이 및 방사선상 확대 효과는 해석 시 유의해야 한다.",
+      "title": "Vertebral cardiac size and heart location of the Syrian hamster (Mesocricetus auratus) in radiographs and in situ gross dissections.",
+      "journal": "BMC Veterinary Research",
+      "generated_at": "2026-10-29T01:02:53.295Z",
+      "model": "gpt-5-mini"
+    },
+    "42947131": {
+      "brief_summary": "2022–2025년 동북(허베이 동부·랴오닝 남부) 농장 라쿤도그 폐사·폐렴 증례 159건을 대상으로 병원체를 동정한 결과, Escherichia coli가 109균주로 가장 흔하게 분리되었다. 분리된 E. coli는 폐를 포함한 다장기 침범과 마우스 비강접종 모델에서 폐렴 유발 능력을 보였고, 다양한 독성인자(예: ompR, phoU, tonB, fimH 등)를 다수 보유했다. 항균감수성검사(AST)에서 모든 임상 E. coli 균주가 날리디식산(nalidixic acid)과 암피실린에 내성을 보였고 다제내성(MDR)이 심각해 임상적 항생제 선택과 방역 전략 수립에 중요한 기초자료를 제공한다.",
+      "detailed_summary": "연구는 2022–2025년 사이에 폐렴이 의심된 농장 라쿤도그 159건을 수집해 세균 분리·동정 및 병원성·유전자·항생제 감수성 검사를 수행했다. 분리 결과 E. coli 109균주, Pseudomonas aeruginosa 37균주, Klebsiella pneumoniae 13균주로 E. coli가 가장 흔했다. 분리된 E. coli는 폐에서 가장 중증의 병변을 보였고 간·비장·신장·혈액에서도 검출되어 전신적 확산 가능성을 시사했다. 마우스 비강접종 모델에서 해당 E. coli 균주들은 폐렴 증상을 재현하여 병원성이 확인되었다. 모든 E. coli 균주는 최소 5개 이상의 독성 유전자를 보유했으며 ompR·phoU·tonB는 각각 94.5%, 94.5%, 93.58% 검출, fimH 84.4%, fimC 77.98%, Ecs3737 60.55%의 검출률을 보였다. 항균감수성검사에서는 모든 임상 E. coli 균주가 날리디식산과 암피실린에 내성을 보였고 단일 항생제로 모든 균주에 효과적인 약물은 없었으며, 전반적으로 다제내성(MDR)이 심각했다. 퀴놀론 관련 염색체 표적 유전자·플라스미드 매개 퀴놀론 내성(PMQR) 유전자 및 인테그론 관련 이동 유전요소는 ≥80%로 높은 검출률을 보였고, 아미노글리코사이드·설폰아미드·폴리펩타이드 관련 내성 유전자는 30–70%, 아민페니콜·β-락탐·마크로라이드·테트라사이클린 관련 유전자는 3–30% 범위의 검출률을 보였다. 지역(허베이 동부 vs 랴오닝 남부)에 따른 내성 프로파일 차이가 있었으며, 결과는 라쿤도그 농장에서의 임상 항생제 선택과 방역 대책 마련에 기초 자료로 활용될 수 있다.",
+      "title": "High prevalence of virulent and multidrug-resistant Escherichia coli as the most frequently isolated bacterium associated with bacterial pneumonia in farmed raccoon dogs.",
+      "journal": "BMC Veterinary Research",
+      "generated_at": "2026-10-29T01:02:33.244Z",
+      "model": "gpt-5-mini"
+    },
+    "42947187": {
+      "brief_summary": "이 논문은 개와 고양이의 신우신염(pyelonephritis, PN)에 대한 문헌을 정리한 scoping review이다. 영어·독일어로 된 176편의 원저를 대상으로 정의와 진단기준, 항균제 요법, 보고된 결과를 수집했고 조직학적 진단, 임상적 진단, 신우농양(pyonephrosis)의 세 유형이 문헌에서 식별되었음을 보고했다. 저자들은 보편적 임상 진단 기준과 항균제 또는 기타 치료에 대한 임상시험이 없고 단기·장기 예후 데이터가 부족하여 임상적 근거가 매우 제한적이라고 결론지었다.",
+      "detailed_summary": "연구는 scoping review 설계로 Biosis, CAB Abstracts, Medline, Web of Science Core Collection, Scopus 등 데이터베이스를 체계적으로 검색하여 176편의 원저를 포함했다. 포함 논문은 개와 고양이의 자연발생 신우신염(PN)에 관한 위험인자, 신상정보(signalment), 병력, 임상 소견, 진단기준, 치료, 예후 및 결과를 보고한 연구들이었다. 문헌에서 보고된 PN의 유형은 조직학적으로 진단된 PN, 임상적으로 진단된 PN, 그리고 신우농양(pyonephrosis)의 세 가지로 분류되었다. 검토 결과 임상적 진단을 위한 보편적 합의 기준이 존재하지 않았고, 항균제나 기타 치료법을 평가한 임상시험은 전혀 없었다. 단기 결과에 관한 정보는 드물었고 장기 결과에 대한 데이터는 전혀 보고되지 않았다. 이에 따라 임상적 진단·치료·예후에 관한 다수의 지식 공백이 확인되었다. 연구 프로토콜은 2023년에 사전 등록되었다(https://syreaf.org/protocols/).",
+      "title": "Pyelonephritis in cats and dogs - a scoping review.",
+      "journal": "BMC Veterinary Research",
+      "generated_at": "2026-10-29T01:02:13.275Z",
+      "model": "gpt-5-mini"
+    },
+    "42947398": {
+      "brief_summary": "12마리의 내원 환자견을 대상으로 열사멸 Lactobacillus plantarum L-137(HK L-137) 경구 보충제의 개 아토피 피부염(cAD) 관리 효과를 무작위·위약대조·이중맹검 교차시험으로 평가했다. 소유자 평가 소양증(PVAS)은 양군에서 경미하게 호전되었고 HK L-137군에서 감소폭이 더 컸으나 통계적 유의성은 없었다. 혈청 CCL17은 HK L-137군에서 유의하게 감소(p=0.01)했으며, 대조군에서는 C-반응성 단백질(CRP)이 유의하게 증가(p=0.02)해 HK L-137이 부가적 치료로 잠재적 이점을 가질 수 있음을 시사한다.",
+      "detailed_summary": "연구는 12마리의 내원 개를 두 그룹(각 6마리)으로 나누어 HK L-137 또는 위약을 12주간 하루 1회 투여한 뒤 2주간 세척 후 상호 교차 투여한 무작위·위약대조·이중맹검 교차시험이다. 연구 기간 동안 경구 oclacitinib(0.4–0.6 mg/kg, 1일 1회) 사용은 허용되었고 평가는 0, 12, 14, 26주에 시행되었다. 주요 임상 평가로는 CADESI-04(피부 병변 지수), 소유자 평가 소양증(PVAS), 대변 점수 및 0·12·14·26주에 혈청 CRP, IL-4, IFN-γ, CCL17과 혈액·생화학 검사를 측정했다. 분변 미생물 조성은 12주와 26주에 유전체 DNA 기반으로 분석했다. 결과는 PVAS가 양군에서 경미히 개선되었고 HK L-137군의 감소폭이 더 컸으나 통계적 유의성은 없었다; CADESI-04, IL-4, IFN-γ, 대변 점수 및 대변 미생물 다양성·구성에는 유의한 변화가 없었다. 혈청에서는 HK L-137군의 CCL17이 유의하게 감소(p=0.01)했고 대조군에서는 CRP가 유의하게 증가(p=0.02)했다. 연구진은 HK L-137을 잘 견디는 부가적 치료 옵션으로 제시하였으나 oclacitinib 병용 등 변수가 있어 변수가 적은 추가 연구가 필요하다고 결론지었다.",
+      "title": "Efficacy of Heat-Killed Lactobacillus plantarum L-137 Supplementation in Treatment of Canine Atopic Dermatitis.",
+      "journal": "Veterinary Dermatology",
+      "generated_at": "2026-10-29T01:03:21.044Z",
+      "model": "gpt-5-mini"
+    },
+    "42948017": {
+      "brief_summary": "개 사체를 대상으로 제9흉추(T9) 가로돌기 배측외측 가장자리(DLETP)에서 초음파 유도 척추기립근 평면(ESP) 차단의 횡단법(TV)과 종축법(LNG)을 비교한 연구로, 목적은 주입물의 확산 양상과 신경 염색 분포를 평가하는 것이다. 두 접근법은 T9에서 유사한 종축(크리오카우달) 확산과 신경 염색 범위를 보였고, 양쪽 모두에서 두드러진 두부(cranial) 분포를 보였다. TV 접근법은 주입물의 오위치(misplacement)를 줄였고(모든 TV는 DLETP 위에 위치, LNG는 18.75%에서 외측 오위치), 양 접근법 모두에서 경막외와 교감신경줄기 확산이 관찰되었다. 해부학적으로 DLETP는 T10 이하에서 주로 결손되거나 가로돌기보다 작았으며(p < 0.001), T11보다 앞쪽에서 일관되게 확인되었다.",
+      "detailed_summary": "이중맹검 실험으로 23마리의 개 사체를 사용하여 T9에서 초음파 유도 ESP 차단을 횡단법(TV) 또는 종축법(LNG)으로 시행하고 컴퓨터단층촬영(CT) 및 해부 분해를 통해 염색·대조제 확산을 평가했다. 각 측면에 0.6 mL/kg의 염색제/조영제를 주입하였고, 5구는 해부 분석에서 제외되었다. 양 군의 크리오카우달 확산 중앙값은 TV에서 8 (범위 5–14)척추, LNG에서 8.5 (4–13)척추로 유사했으며, 두 군 모두에서 두부 방향 확산이 꼬리 방향보다 유의하게 많았다(TV 두부 4.5 vs 꼬리 3.5 vertebrae, p=0.027; LNG 두부 5 vs 꼬리 3, p=0.004). 등쪽 신경의 내측가지(MBDR) 염색 중앙값은 TV 5 (4–8), LNG 5 (0–6)였고 두부 염색이 우세했으며(p=0.003, p<0.001), 외측가지(LBDR)도 두부 우세를 보였다(p=0.019, p=0.034). 복측가지 염색은 TV에서 10/16, LNG에서 11/16에서 관찰되었고, 경막외 및 교감신경줄기 확산은 양쪽에서 나타났으며 LNG에서 한 건의 혈관내 주입이 있었다. 전반적으로 두 접근법 간 유의한 차이는 없었으나 TV는 주입물 오위치 비율을 낮추었다(모든 TV는 DLETP 위에 위치함, LNG는 18.75% 외측 오위치). 중요한 제한점으로는 본 연구가 사체를 대상으로 한 해부학적·영상학적 평가라는 점이다.",
+      "title": "Cadaveric study of the ultrasound-guided erector spinae plane block over the dorsolateral edge of the transverse process of the ninth thoracic vertebra in dogs: transverse vs. longitudinal approach.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-10-29T01:01:59.158Z",
+      "model": "gpt-5-mini"
+    },
+    "42948200": {
+      "brief_summary": "본 연구는 전기화학요법(ECT)으로 치료받은 고양이 피부 편평상피세포암(cSCC)에서 EGFR-1과 VEGF-A의 면역발현을 평가하여 예후적 연관성을 확인하고자 했다. 총 33마리(전향 24, 후향 9)의 종양 샘플에서 EGFR-1은 78.8%(26/33), VEGF-A는 71.9%(23/32)에서 검출되었으며, EGFR-1 발현은 전체생존기간(OST) 단축 및 신경주위 침윤(PNI), 강한 염증침윤과 유의하게 연관되었다. VEGF-A 발현은 과거 cSCC 병력, PNI, 피하 지방을 넘는 종양 침범과 연관되어 공격적 행동과 관련된 예후 표지자로서의 가능성을 시사하며, 더 큰 코호트에서 추가 검증이 필요하다.",
+      "detailed_summary": "연구는 전향적(n=24) 및 후향적(n=9)으로 모집된 총 33마리의 고양이 cSCC 종양 표본에 대해 면역조직화학으로 EGFR-1과 VEGF-A 발현을 평가했다. 면역발현 점수와 임상병리학적 변수, 전체생존기간(OST), 무병간격(DFI), 진행까지의 시간(TTP) 사이의 연관성을 적절한 통계검정으로 분석했다. 결과에서 EGFR-1은 26/33(78.8%)에서 양성으로 확인되었고, EGFR-1 발현은 OST 단축, 신경주위 침윤(PNI) 및 강한 염증세포 침윤과 유의하게 연관되었다. VEGF-A는 23/32(71.9%)에서 발현되었고, 과거 cSCC 병력, PNI 및 피하 지방을 넘는 종양 침윤과 유의한 연관성이 관찰되었다. 저자들은 EGFR-1과 VEGF-A의 면역발현이 공격적 종양 행동과 연관된 임상병리 변수들과 관련이 있어 고양이 cSCC에서 잠재적 예후 표지자가 될 수 있음을 제시했다. 다만 표본수가 제한적이므로(총 33건), 이러한 결과는 보다 큰 코호트에서 추가적인 검증이 필요하다고 결론지었다.",
+      "title": "Prognostic significance of EGFR-1 and VEGF-A expression in feline cutaneous squamous cell carcinoma.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-10-29T01:01:36.931Z",
+      "model": "gpt-5-mini"
+    },
+    "42948224": {
+      "brief_summary": "후향적 설문조사 연구로 영어 스프링어 스패니얼(English Springer Spaniel, ESS)과 잉글리시 코커 스패니얼(English Cocker Spaniel, ECS)의 특발성 간질(idiopathic epilepsy, IE) 표현형을 소유주 작성의 검증된 다국어 온라인 설문으로 비교하였다. 최종 포함은 ESS 16두, ECS 14두로, 발작 시작 중앙값은 두 품종 모두 2.5세였고 다수에서 군발발작(cluster) 및 발작 지속(status epilepticus)을 경험했다. ECS는 항발작 약물 투여 후 발작 중증도가 현저히 감소한 비율이 ESS보다 유의하게 높았(p = 0.009)고, 전체적으로 두 품종 모두 중등도~중증의 경과를 보였으며 ESS가 약물 반응이 더 불량했다. 또한 조사 대상의 43.3%에서 친족에 유사 증상이 보고되어 유전적 요소 가능성을 시사한다.",
+      "detailed_summary": "연구는 소유주가 작성한 검증된 다국어 온라인 설문을 이용한 후향적 관찰 연구로, 설문을 제출한 49두 중 불완전·일관성 결여 또는 IE 기준 미충족을 제외하고 ESS 16두와 ECS 14두가 분석에 포함되었다. 조사 시점에 대상의 43.3%가 사망했으며 이 중 5두는 간질과 관련해 사망한 것으로 보고되었다. 발작 시작 중앙값은 ESS와 ECS 모두 2.5세(범위 0.5–9세, IQR 2.0–4.0세)였고, 양 품종에서 ≥1회의 군발발작 및 ≥1회의 발작 지속 경험 비율이 높았다. 치료 반응에서 ECS는 항발작 약물 투여 후 발작 중증도가 현저히 감소한 비율이 ESS보다 유의하게 높았고(p = 0.009), 전반적으로 두 품종은 중등도에서 중증의 질병 경과를 보였으나 ESS가 상대적으로 항발작 약물에 대한 반응이 더 불량했다. 설문에 따른 보고에서 대상의 43.3%가 친족에 유사 증상을 가진 사례가 있어 유전성 가능성이 제기되었다. 제한점으로는 후향적 설문 기반의 소유주 보고자료라는 점과 일부 설문이 불완전·비일관성으로 제외된 점이 있다.",
+      "title": "Phenotypic comparison of idiopathic epilepsy in English Springer Spaniels and Cocker Spaniels using a validated owner-completed questionnaire.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-10-29T01:01:22.381Z",
+      "model": "gpt-5-mini"
+    },
+    "42948248": {
+      "brief_summary": "본 연구는 May-Grünwald Giemsa 염색된 개 세포진 전장 슬라이드(WSI)를 대상으로 ImageNet 사전학습된 Inception-v3 컨볼루션 신경망(CNN)을 미세조정하여 7종의 흔한 개 종양(암종, 조직구종, 림프종, 비만세포종, 흑색종, 형질세포종, 연부조직육종)과 배경을 자동 분류하는 가능성을 평가했다. 타일(tile) 수준 평균 정확도는 86.3%였고, 평균 매크로 균형 정확도는 92.0%, 매크로 F1 점수는 85.6%로 높은 성능을 보였다. 관심영역(ROI) 기반 주의(attention)-유도 추론에서는 Top1 정확도 100%(28/28), 전체 슬라이드 수준의 자동 추론에서는 Top1 정확도 92.9%(26/28)로 임상적 보조 도구 및 자동 판독의 실현 가능성을 시사한다.",
+      "detailed_summary": "연구는 단일 기관에서 선정한 91건의 May-Grünwald Giemsa 염색 개 세포진 사례를 포함했으며, 대상은 7종의 종양과 배경 클래스였다. 슬라이드는 512×512 픽셀의 22,577개 타일로 분할하여 수작업 라벨링을 수행했고, 데이터 누설을 방지하기 위해 증례 단위 3-폴드 교차검증(case-wise 3-fold)을 적용했다. ImageNet 사전학습된 Inception-v3를 8-클래스 분류로 미세조정(fine-tuning)했으며, 타일 수준에서 평균 테스트 정확도는 86.3%, 매크로 균형 정확도는 92.0%, 매크로 F1 점수는 85.6%였다. Grad-CAM 해석 결과 모델의 주의(attention)는 주로 세포학적으로 의미 있는 세포 영역에 집중되는 것으로 나타났다. ROI 수준의 attention-guided 추론에서는 Top1 정확도 100%(28/28)를 달성했고, 전체 슬라이드 수준의 attention-free whole-slide 추론에서는 Top1 정확도 92.9%(26/28)였으며 모든 사례에서 정답이 Top3에 포함되었다. 저자들은 AI 보조의 ROI 기반 의사결정 지원과 완전 자동화된 슬라이드 판독 모두에서 실현 가능성을 제시했으나, 이는 전형적이고 잘 분화된 증례로 구성된 단일 기관의 큐레이션된 코호트에 대한 개념증명(proof-of-concept) 결과이며, 실제 임상 적용 전에는 진단적으로 어려운 증례와 외부 코호트에 대한 추가 검증이 필요하다고 결론지었다.",
+      "title": "Application of a convolutional neural network for automatic cytological diagnosis of 7 common canine tumors on whole slide images: a proof-of-concept.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-10-29T01:00:57.455Z",
+      "model": "gpt-5-mini"
+    },
+    "42948389": {
+      "brief_summary": "5세 수컷 요크셔테리어 1마리의 식이반응성 장병증(FRE) 및 담낭 슬러지에 대해 Tenebrio molitor 유충 분말을 35% 포함한 사료로 전환한 증례보고이다. 임상 지표(CIBDAI 9→0, CCECAI 11→2)는 3주 내 '임상적으로 무의미' 수준으로 호전되어 24개월간 관해가 유지되었고 체중(5.4→4.0 kg) 정상화 및 담낭 슬러지 소실이 관찰되었다. 한차례 식단 중단 시 증상과 슬러지가 재발했고, 유충 분말 재도입 후 양호하게 회복되었다. 이 증례는 곤충 단백질이 개의 제거식이(hypoallergenic) 대안이 될 수 있음을 시사하나 단일 증례이므로 일반화할 수는 없다.",
+      "detailed_summary": "본 연구는 만성 식이반응성 장병증(FRE)과 담낭 슬러지를 가진 5세 수컷 요크셔테리어 한 마리를 대상으로 한 증례 보고이다. 중재는 사료에 Tenebrio molitor(노랑거저리) 유충 분말을 35% 포함한 식단으로의 전환이었다. 주요 평가 항목은 임상 지수(CIBDAI 및 CCECAI), 체중, 초음파상 담낭 소견, 혈액·혈청 생화학 검사였다. 임상 지수는 CIBDAI 9에서 0으로, CCECAI 11에서 2로 3주 내 급격히 개선되어 '임상적으로 무의미' 단계에 도달했고 이 상태는 24개월간 유지되었다. 체중은 5.4 kg에서 4.0 kg으로 '정상화'되었고 초음파에서 담낭 슬러지가 소실되었으며, 혈액 및 혈청 생화학 수치는 참고 범위 내에 머물렀다. 식단을 잠시 중단했을 때 증상과 담낭 슬러지가 재발했으나 유충 분말 식단을 다시 도입하자 재차 호전되었다. 결론적으로 본 증례에서는 유충 기반 단백질 식이가 장관 증상과 담낭 슬러지 개선에 부작용 없이 기여한 것으로 보고되나, 단일 증례라는 중요한 제한점이 있어 추가 연구 없이 일반화할 수는 없다.",
+      "title": "Case report: long-term clinical remission of food-responsive enteropathy in a dog fed a yellow mealworm-based diet.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-10-29T01:00:39.370Z",
+      "model": "gpt-5-mini"
+    },
+    "42948621": {
+      "brief_summary": "6,996마리의 클라이언트 소유 개를 대상으로 50명의 심장학 훈련 수의사가 참여한 전향적 다기관 연구로, 청진에서의 최대음점(PMI) 분포와 승모판 변성성 질환(MMVD) 및 확장성 심근병증(DCM)에서의 잡음 강도와 병기 연관을 평가했다. MMVD와 DCM은 주로 좌측 심첨부(좌심첨) PMI를 보였고, 선천성 대동맥유출로 질환과 동맥관개존증(PDA)은 좌측 기저부(좌심기저) PMI와 연관되었으며, 삼첨판 역류(TR)와 심실중격결손(VSD)은 각각 우측 심첨 및 우측 심기저 PMI와 더 흔히 연관되었다. MMVD에서는 잡음 강도가 병기 진행에 따라 증가(p < 0.001)했으며, 'soft'보다 큰 잡음은 B1보다 B2 또는 C/D에 속할 오즈비가 유의하게 높았으나(OR 35.9, 95% CI 27.6–46.6), DCM에서는 25.8%가 무잡음이었고 잡음 강도로는 일관된 병기 관련 증가를 보이지 않아 청진만으로는 제한적임을 시사했다.",
+      "detailed_summary": "이 연구는 국제 다기관 전향 관찰연구로, 50명의 심장학 훈련 수의사가 동일 내원에서 네 가지 미리 정해진 흉부 위치에서 표준화된 심음 청진과 흉부 경유 심초음파(트랜스토라식 에코)를 시행한 6,996마리의 클라이언트 소유 개를 포함했다. 연구 목적은 각 심장 질환별로 임상의가 기록한 PMI 위치 패턴을 기술하고, MMVD와 DCM에서 잡음 등급과 질병 병기 간 연관성을 평가하는 것이었다. 결과적으로 MMVD와 DCM은 주로 좌심첨 PMI를 보였고, 선천적 대동맥 유출로 질환 및 PDA는 좌심기저 PMI와 주로 연관되었으며 TR과 VSD는 각각 우심첨·우심기저 PMI와 더 흔히 관찰되었다. MMVD에서 잡음 강도는 병기 진행과 유의하게 증가(p < 0.001)했고, 소음보다 큰 잡음은 B2 또는 C/D에 속할 오즈가 B1보다 현저히 높았다(OR 35.9, 95% CI 27.6–46.6). DCM에서는 25.8%가 청진상 잡음이 없었고 잡음 등급 분포는 병기별 차이가 있었으나(p = 0.03) 강도가 일관된 병기 관련 증가를 보이지 않았다. 저자들은 임상의가 기록한 4지점 청진으로 여러 심장질환에서 특징적인 지역적 PMI 패턴을 확인할 수 있음을 보였으나, MMVD에서는 잡음 등급이 병기 판단에 유용했으나 DCM에서는 제한적이라고 결론지었고, 확진과 병기 판단을 위해서는 심초음파가 여전히 필수적이라고 강조했다.",
+      "title": "Prospective multicenter study of murmur localization and stage-associated murmur grading in dogs with echocardiographically diagnosed cardiac diseases: the LISTEN study.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-10-29T01:00:18.799Z",
+      "model": "gpt-5-mini"
+    },
+    "42948632": {
+      "brief_summary": "자연감염된 개 44마리에 단회 국소투여한 fipronil, permethrin, piperonyl butoxide 및 pyriproxyfen(PROTECH)의 투여 후 벼룩·진드기 감염과 임상 징후의 시간적 변화를 기술한 탐색적 무대조 현장연구이다. 벼룩 단독군(18마리)은 Day0의 18/18에서 Days15·30에 0/18로 감소했고, 진드기 단독군(11마리)은 11/11에서 Days15·30에 0/11·1/11로 감소했으며 혼합감염군(15마리)도 15/15에서 3/15·2/15로 감소했다. 피부 병변 및 가려움 점수도 평균적으로 감소하고 부작용은 관찰되지 않았으나, 무대조·비검증 점수 사용으로 인과관계나 비교효과는 확증되지 않는다.",
+      "detailed_summary": "설계는 멕시코 Yucatán주 Tahdziú의 민간 소유 개 44마리를 등록한 전향적·무대조 탐색적 현장연구이다. 모든 개는 Day0에 단회 국소투여를 받고 Day15와 Day30에 재평가되었고, 약 5분간의 전신 검사로 벼룩·진드기 존재 여부를 기록했다. 주요 평가항목은 벼룩·진드기 양성 여부와 현장에서 기록한 피부 병변 및 가려움 수치였다. 결과는 벼룩 단독군(18마리)이 Day0의 18/18에서 Days15·30에 0/18로, 진드기 단독군(11마리)은 11/11에서 0/11·1/11로, 혼합감염군(15마리)은 15/15에서 3/15·2/15로 긍정률이 감소했고, 평균 피부 병변 및 가려움 점수도 모든 하위군에서 감소했다. 연구 기간 중 보고된 이상반응은 없었다. 연구진은 비교군 부재와 비검증 임상 점수 사용을 중요한 제한점으로 명시하며, 결과는 기술적·탐색적 성격으로 인과관계나 약물의 비교적 효능을 확증하지 못한다고 결론지었다.",
+      "title": "Changes in flea and tick infestation following topical fipronil, permethrin, piperonyl butoxide, and pyriproxyfen in naturally infested dogs: an exploratory uncontrolled field study.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-10-29T00:59:54.613Z",
+      "model": "gpt-5-mini"
+    },
+    "42948884": {
+      "brief_summary": "중국의 피부과 전문 병원에 내원한 외이도염(OE) 환자 중 진균성 외이도염(FOE)으로 배양 양성이 확인된 17증례(개 4, 고양이 13)를 후향적으로 분석하여 임상 양상과 치료를 기술했다. Aspergillus spp.가 13증례(개 3, 고양이 10)에서 검출되었고 Microsporum canis는 개 1·고양이 2에서 확인되었으며 한 예는 좌측 M. canis·우측 Aspergillus의 혼합감염이었다. 과도한 귀지와 가려움이 흔한 임상소견이었고, 16증례 중 13증례는 경구+국소 병용 항진균 치료를, 3증례는 경구 단독 치료를 받았다; 외이도의 만성·재발성 병변에서 Aspergillus spp.나 피부사상균을 배제하지 말아야 하며 세포검사와 균 배양이 진단에 유용하다고 결론지었다.",
+      "detailed_summary": "연구는 2022–2024년 중국의 피부과 전문 병원에 내원한 진균성 외이도염(FOE)으로 균 배양 양성이 확인된 의무기록을 후향적으로 검토한 증례집단 연구이다. 총 17증례(개 4, 고양이 13)를 포함하였고 포함기준은 외이 분비물의 진균 배양 양성 결과였다. 분리 결과는 Aspergillus spp. 13증례(개 3, 고양이 10), Microsporum canis 3증례(개 1, 고양이 2), 그리고 한 고양이에서 좌측 M. canis·우측 Aspergillus 혼합감염이었다. 주요 임상 징후로는 과도한 귀지(cerumen)와 가려움(pruritus)이 가장 흔했고 진단적 검사로 세포학적 검사와 균 배양을 권장하였다. 치료는 16증례가 항진균 치료를 받았으며 이 중 13증례는 경구 및 국소 병용 요법을, 3증례는 경구 단독 요법을 받았다. 저자들은 Aspergillus spp.나 피부사상균 감염이 만성·재발성 외이도염에서 간과되어서는 안 된다고 강조하였고, 위험인자와 적절한 치료법을 규명하기 위해 더 큰 규모의 전향적 연구가 필요하다고 결론지었다. 본 연구는 후향적 증례집단이라는 한계로 일반화에 제한이 있음을 명시하고 있다.",
+      "title": "Seventeen Cases of Fungal Otitis Externa in Dogs and Cats.",
+      "journal": "Veterinary Dermatology",
+      "generated_at": "2026-10-29T01:03:04.190Z",
+      "model": "gpt-5-mini"
+    },
+    "42949438": {
+      "brief_summary": "전향적 파일럿 연구로, 안구 또는 신경학적 증상이 없는 자연발생 고양이 전염성 복막염(FIP) 환자 19마에게 몰누피라비르를 경구(PO)로 q12h 투여하여 42일 치료의 임상적 효과를 평가했다. 중앙값 용량은 11.5 mg/kg (IQR 10.2–12.5 mg/kg)이었다. 의도치료분석에서는 19마리 중 14마리(74%)가 최소 6개월 지속 관해를 보였고, 42일까지 치료를 완료한 17마리 중 14마리(82%)가 6개월 관해를 유지했다. 세 마리는 치료 종료 후 재발했으나 동일 용량으로 84일간 재치료 시 모두 반응했다는 점에서 선택된 증례에서 42일 요법이 실현 가능함을 시사한다.",
+      "detailed_summary": "연구는 전향적 파일럿 디자인으로, 안구 또는 신경계 침범이 있는 고양이는 제외하고 자연발생 FIP로 진단된 19마리를 등록하였다. 치료는 몰누피라비르를 경구로 q12h, 중앙값 11.5 mg/kg (IQR 10.2–12.5 mg/kg)로 42일간 시행하였다. 주요 평가는 치료 중 및 중단 후 6개월간의 임상 관해 여부였고, 의도치료분석에서는 19마리 중 14마리(74%; 95% CI 49–91)가 지속 관해를 달성했다. 초기 치료를 완주한 17마리 중 14마리(82%; 95% CI 57–96)는 최소 6개월 관해를 유지했으며, 2마리는 치료 초기에(각각 치료일 5일, 10일) 사망 또는 지속적 증상으로 치료를 완료하지 못해 치료기간 비교 질문에 정보를 제공하지 못했다. 치료 종료 후 3마리가 재발했으나 모두 동일 용량으로 84일간 재치료에 반응하였다. 저자들은 비안구·비신경학적 FIP 증례에서는 42일 요법이 가능할 수 있다고 결론내리지만, 표본 크기가 작고 42일과 84일을 직접 비교한 무작위 연구가 아니며 선택된 증례에 국한된 결과임을 한계로 제시하고 있다.",
+      "title": "Outcomes of a 42-day course of molnupiravir in cats with feline infectious peritonitis: a prospective descriptive study.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-10-29T00:59:26.085Z",
+      "model": "gpt-5-mini"
+    },
+    "42949439": {
+      "brief_summary": "23마리의 임상(클라이언트 소유) 개에서 발작성 무도증(paroxysmal dyskinesia, PD)에 대해 글루텐-프리 가수분해 식이(GFHD)를 180일간 투여한 전향적 코호트 연구다. 중앙값 발작 횟수는 기저(T0)에서 6회(범위 2–60)였으나 180일(T2)에는 2회(0–10)로 유의하게 감소(P = .0003)했고, 17/23마리가 반응자(완전 관해 5마리, ≥50% 감소 12마리)였다. 위장관 증상은 15/23에서 6/23으로 감소했고 구토 및 설사 감소가 유의(P = .01)했으나 항-글리아딘 펩타이드 IgG(AGA IgG) 및 항-트랜스글루타미나제-2 IgA(TG-2 IgA) 혈중 농도는 에피소드 빈도와 상관없었고 시간 경과에 따라 유의한 변화가 없어 예측 바이오마커로서의 가치는 제한적이었다.",
+      "detailed_summary": "연구 설계는 기저(T0), 90일(T1), 180일(T2)의 3시점 평가를 포함한 전향적 코호트이며 대상은 PD로 진단된 23마리의 클라이언트 소유 개이다. 모든 개에 GFHD를 투여하고 발작 빈도, 위장관(GI) 증상 및 혈청 AGA IgG와 TG-2 IgA 항체를 각 시점에서 측정했다. 중앙값 발작 횟수는 T0의 6회(범위 2–60)에서 T2의 2회(0–10)로 유의하게 감소(P = .0003)했다. T2 시점에서 17/23마리가 반응을 보여 5마리는 발작이 소실(‘excellent’), 12마리는 ≥50% 감소(‘good’)로 분류되었다. GI 증상은 T0에서 15/23마리였으나 T2에서 6/23마리로 줄었고, 구토와 설사의 감소가 통계적으로 유의했다(P = .01). 그러나 에피소드 빈도와 AGA IgG 또는 TG-2 IgA 항체 농도 간에는 어떤 시점에서도 유의한 상관관계가 관찰되지 않았고, 항체 수치 자체도 T0에서 T2까지 유의하게 변하지 않았다. 결론적으로 GFHD는 대부분의 개에서 PD 빈도와 GI 증상 감소와 연관되었으나 AGA IgG와 TG-2 IgA는 식이 반응을 예측하는 데 제한적임을 시사한다.",
+      "title": "Effects of a gluten-free hydrolyzed diet in dogs with paroxysmal dyskinesia: a prospective cohort study.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-10-29T00:59:12.561Z",
       "model": "gpt-5-mini"
     }
   }
