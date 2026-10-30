@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T01:03:21.062Z",
+  "updated_at": "2026-10-30T01:05:45.598Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -7695,6 +7695,86 @@
       "title": "Effects of a gluten-free hydrolyzed diet in dogs with paroxysmal dyskinesia: a prospective cohort study.",
       "journal": "Journal of Veterinary Internal Medicine",
       "generated_at": "2026-10-29T00:59:12.561Z",
+      "model": "gpt-5-mini"
+    },
+    "42950426": {
+      "brief_summary": "후향적 의무기록 검토에서 원위 경골에 단일 피질(모노코티칼) 락킹 나사를 사용한 티타늄 합금 콘형 락킹 TPLO(둔부 평면화 절골술) 후 경사각(TPA) 유지와 골유합을 평가했다. 총 117두에서 중앙값 TPA 변화는 2.15°(95% CI 1.70°–2.65°)였고, 수정 방사선 유합 점수(modified Radiographic Union Scale for Tibial Fractures) 중앙값은 10(범위 4–12)으로 평균 43일 추적 시 만족스러운 방사선학적 유합을 보였다. 합병증률은 8.5%, 감염률은 2.6%로 보고되었고, 저자들은 이 고정법이 제조사 권고 범위 내에서 TPA 유지와 골유합을 지원할 수 있음을 시사한다고 결론지었다.",
+      "detailed_summary": "연구는 2021년 12월 8일부터 2024년 2월 23일까지 단일 반려동물 의뢰병원의 의무기록을 후향적으로 검토한 연구이다. 포함 기준은 전방 십자인대 불완전성으로 TPLO(무릎도수술)를 시행하고 원위 경골에 단일 피질(모노코티칼) 락킹 나사를 사용하며 완전한 방사선학적 추적이 가능한 증례로 총 117두가 포함되었다. 주요 평가는 수술 후와 추적 방사선에서의 경사각(TPA) 변화 및 수정 Radiographic Union Scale for Tibial Fractures 점수로 골유합을 평가한 것이다. 중앙값 TPA 변화는 2.15°(95% CI 1.70°–2.65°)였고, 분석된 변수들 중 TPA 변화와 연관된 요인은 관찰되지 않았다. 골유합 평가에서 중앙값 점수는 10(범위 4–12)으로 평균 추적기간 43일에 만족스러운 방사선학적 유합 소견을 보였다. 전체 합병증률은 8.5%였고, 감염률은 2.6%였다. 저자들은 원위 경골에 단일 피질 락킹 나사를 사용하는 이 티타늄 합금 콘형 락킹 TPLO 시스템이 제조사 권고범위 내에서 TPA 유지 및 골유합을 지원할 수 있음을 보고했으나, 다양한 락킹 시스템·환자 체구·나사 조합 및 장기 추적을 평가하는 추가 연구가 필요하다고 결론지었다.",
+      "title": "Monocortical locking screws in the tibial diaphysis maintain tibial plateau angle and support osteotomy union after tibial plateau leveling osteotomy in dogs.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-10-30T01:05:45.583Z",
+      "model": "gpt-5-mini"
+    },
+    "42950428": {
+      "brief_summary": "2018–2024년 한국의 임상에서 분리된 3세대 세팔로스포린·세파마이신 저항성 Proteus mirabilis의 항생제 내성 및 분자역학적 특성을 조사한 연구로, 총 667균주를 분석하였다. 27.3%가 다제내성(MDR)을 보였고, 38균주(5.7%)는 ESBL/AmpC β-락타마제를 보유했으며 blaCMY-2가 65.8%로 우세하고 blaCTX-M 계열(예: blaCTX-M-65, -15, -90)도 확인되었다. 다중주형분석(MLST)에서 ST135(39.5%)와 ST212(21.1%)가 주류였고 특히 ST135 중심의 군집이 강한 MDR 표현형과 연관되어 반려견이 One Health 관점에서 잠재적 저장소임을 시사하므로 지속적 감시가 필요하다.",
+      "detailed_summary": "한국 전역의 임상병원에서 2018–2024년 동안 피부/외이, 분변, 비뇨·생식계에서 분리된 Proteus mirabilis를 대상으로 broth microdilution(액체 희석법)으로 항생제 감수성을 평가하고 PCR과 MLST로 분자특성을 규명하였다. 전체 667균주 중 27.3%가 다제내성(MDR) 페노타입을 보였고, 확장스펙트럼 β-락타마제(ESBL)/AmpC β-락타마제를 보유한 균주는 38균주(5.7%)였다. 이들 38균주에서는 cephamycinase-2 유전자 blaCMY-2가 65.8%로 가장 흔했고, blaCTX-M 계열 변이들(blaCTX-M-65, blaCTX-M-15, blaCTX-M-90)도 확인되었다. MLST 결과 총 16개의 서열형(ST)이 확인되었고 ST135(39.5%)와 ST212(21.1%)가 우세하였으며 계통수 분석에서는 ST135를 중심으로 한 군집(31균주, 81.6%)과 ST292 중심의 군집(7균주, 18.4%)으로 나뉘었다. 특히 ST135 중심 군집이 강한 MDR 표현형과 연관되어 있으며, 저자들은 반려견 집단 내에서 ST135가 주요 진화 축 및 고위험 풍토성 클론일 수 있음을 지적하였다. 초록은 구체적 제한점을 제시하지 않았지만 연구 결과는 반려동물이 사람과의 교차전파 관점에서 감시가 필요한 잠재적 저장소임을 강조하며 지속적인 One Health 차원의 모니터링 필요성을 제시한다.",
+      "title": "Antimicrobial resistance and molecular characterization of extended-spectrum &#x3b2;-lactamase/AmpC &#x3b2;-lactamase-producing Proteus mirabilis isolates from companion dogs in South Korea (2018-2024).",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-10-30T01:05:23.186Z",
+      "model": "gpt-5-mini"
+    },
+    "42952494": {
+      "brief_summary": "건강한 20마리의 고양이를 대상으로 한 전향적 블라인드 교차(single‑center crossover) 실험으로, 30 mL/kg/10분 Hartman 용액 투여(혈관내 용적 과부하)와 무처치 대조를 7일 세척기간을 두고 비교하였다. 식도 아래(sublingual) sidestream dark field 비디오현미경과 GlycoCheck™ 소프트웨어로 내피 당질막(estimated endothelial glycocalyx) 두께의 역지표인 PBR(perfused boundary region)을 측정했다. 결과적으로 전체적으로 PBR(5–25, 5–9, 10–19 μm)이 시간 경과에 따라 증가하여 T2에서 유의하였으나, 군×시간 상호작용에서는 용적 과부하군에서 PBR 5–9 μm가 T2와 T3에서 감소했고, 혈구용적비(PCV)의 감소는 PBR 증가와 유의하게 연관되어 있어(PCV 관련 p 값 있음) 일시적 용적 과부하가 내피 당질막 두께 감소를 입증하지는 못했다; 마취 영향과 PCV 변화가 GlycoCheck 측정에 영향을 줄 수 있음을 시사한다.",
+      "detailed_summary": "본 연구는 단일기관 전향적 블라인드 교차 설계로 건강한 20마리의 고양이를 대상(무작위 배정)으로 하였고, 실험군은 Hartman 용액 30 mL/kg을 10분간 정주, 대조군은 무처치로 하여 7일 세척기간을 두었다. 모든 영상은 프로포폴(propofol) 마취 하에 T0(기저), T1(중재 직후), T2(중재 종료 3시간 후), T3(중재 종료 24시간 후)에 설측(sublingual) 점막에서 sidestream dark field 비디오현미경으로 촬영하고 GlycoCheck™로 PBR을 자동 산출하였으며, 각 시점당 세 번 측정하였다. 주요 평가변수는 PBR(혈관 직경 5–25, 5–9, 10–19, 20–25 μm)와 PCV(packed cell volume)였고, 선형 혼합효과 회귀모형으로 분석하였다. 결과는 PBR 5–25 μm, 5–9 μm, 10–19 μm가 시간 경과에 따라 증가하여 T2에서 각각 p=0.001, p=0.017, p=0.008로 유의했고, 군×시간 상호작용에서는 PBR 5–9 μm가 용적 과부하군에서 T2(p=0.028)와 T3(p=0.010)에 감소하는 양상을 보였다. 또한 PCV의 감소는 PBR 5–25 μm(p=0.003) 및 PBR 10–19 μm(p=0.001)의 증가와 유의하게 연관되었다. 결론적으로 일시적 정맥내 용적 과부하는 건강한 마취 고양이에서 추정된 내피 당질막 두께 감소를 입증하지 못했으며, 관찰된 PBR의 시간적 증가는 마취 영향 가능성과 PCV 변화가 GlycoCheck 측정에 미치는 영향을 고려해야 함을 의미하므로, 고양이의 체액역학(용적 동역학)을 반영한 추가 연구가 필요하다.",
+      "title": "Effects of transient intravascular volume overload on endothelial glycocalyx thickness in healthy anesthetized cats.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-10-30T01:04:49.950Z",
+      "model": "gpt-5-mini"
+    },
+    "42952495": {
+      "brief_summary": "증례보고: 10세 중성화 암컷 혼합견이 발작과 급성 진행성 뇌증상으로 내원했으며, 검사에서 혈소판 9×10^3/µL(미세응집 없음) 및 평균혈소판부피(MPV) 증가로 원발 면역매개성 혈소판감소증(primary immune-mediated thrombocytopenia, ITP)으로 진단되었다. 뇌 MRI에서는 양측 초승달 모양의 경막하 액체 축적과 T1/T2 고신호 및 T2*-가중 GRE에서 주변성 취약성 소견으로 후기 아급성(subacute) 경막하 두개내 출혈로 판단되었다. 초기 회복 후 급격한 신경학적 악화와 심폐정지로 이어져 치명적 결과를 초래했으며, ITP가 드물게 생명을 위협하는 두개내 출혈을 일으킬 수 있음을 시사한다. 급성 진행성 신경증상에서 혈소판 수치가 확인될 때까지 ITP를 감별진단에 포함할 것을 권고한다.",
+      "detailed_summary": "본 논문은 단일 증례보고로, 10세 암컷 중성화 혼합견이 발작 및 다초점성 뇌병증 소견으로 내원한 사례를 기술한다. 임상검사에서 점상출혈(petechiae), 반점출혈(ecchymoses) 및 양안 망막출혈이 관찰되었고, 혈소판 수치는 9×10^3/µL로 중증 혈소판감소증을 보였으며 평균혈소판부피(MPV)는 증가했다. 응고 검사(activated partial thromboplastin time, aPTT 및 prothrombin time, PT)와 섬유소분해 지표(D-dimer, 정량적 피브리노겐), 감염성 질환 검사 및 흉복부 영상은 정상 범위였고, 이를 근거로 원발 면역매개성 혈소판감소증(ITP)이 진단되었다. 뇌 MRI에서는 양측 대뇌 반구를 덮는 얇게 확장된 초승달형의 경막하 외축성 액체가 관찰되었고, T1·T2 고신호 및 T2*-가중 GRE의 주변 취약성 소견으로 후기 아급성 경막하 출혈로 판정되었다. 수술이나 추가 중재에 관한 언급 없이, 술후 초기 회복은 괜찮았으나 환자는 급성 신경학적 악화와 심폐정지로 사망하였고 저자들은 지속 출혈 또는 뇌허혈(herniation)을 원인으로 추정한다. 이 증례는 개의 원발 ITP가 드물게 생명을 위협하는 두개내 출혈을 초래할 수 있음을 보여주나, 단일 증례이므로 일반화는 제한된다.",
+      "title": "Case Report: Presumptive subdural hemorrhage as a rare neurological manifestation of primary immune-mediated thrombocytopenia in a dog.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-10-30T01:04:29.827Z",
+      "model": "gpt-5-mini"
+    },
+    "42955157": {
+      "brief_summary": "100마리의 개를 대상으로 Kalazar Detect™ Canine Rapid Test(신속진단검사, RDT)를 혈액, 혈청, 타액으로 시행하고 림프절 PCR과 비교하여 개장내 리슈만편모충병(CVL) 진단 성능을 평가한 연구다. RDT의 혈액·혈청 양성률은 21%, 타액은 17%였고 림프절 PCR 양성률은 46%였다. 혈청·혈액 기반 RDT의 민감도는 0.39, 특이도는 0.94이며 타액 RDT의 민감도는 0.33, 특이도는 0.96으로 낮은 민감도로 추가 진단법 병행이 필요함을 시사했고, 타액은 채취가 쉬워 RDT 샘플로 사용 가능성이 있다고 제시했다.",
+      "detailed_summary": "본 연구는 100마리의 개에서 Kalazar Detect™ Canine Rapid Test의 혈액, 혈청, 타액 샘플별 성능을 평가하고 림프절에서 시행한 PCR을 기준검사로 비교한 진단성능 연구다. RDT로 탐지된 유병률은 혈액·혈청에서 21%, 타액에서 17%였으며 림프절 PCR에서의 유병률은 46%였다. 혈청과 혈액 기반 RDT 간 일치는 100%였고, 혈청/혈액과 타액 간의 비교에서는 카파 지수 0.87로 거의 완전한 일치를 보였다. PCR을 기준으로 했을 때 혈청·혈액 RDT의 민감도는 0.39, 특이도는 0.94였고 타액 RDT의 민감도는 0.33, 특이도는 0.96이었다. 저자들은 현재 국가 리슈마니아증 프로그램에서 사용되는 RDT가 민감도가 낮아 유행지역의 CVL 감시에는 추가적인 진단방법의 도입이 필요하다고 결론지었다. 또한 타액은 채취가 쉽고 비용·침습성이 낮아 Kalazar Detect RDT의 샘플로 적합할 수 있음을 제시했으며, 본 연구가 해당 RDT를 타액으로 평가한 첫 연구라고 밝히고 있다.",
+      "title": "Rapid test performance for the diagnosis of canine visceral leishmaniasis using blood, serum, and saliva.",
+      "journal": "Veterinary Research Communications",
+      "generated_at": "2026-10-30T01:05:08.243Z",
+      "model": "gpt-5-mini"
+    },
+    "42955822": {
+      "brief_summary": "후향적 단면연구로 만성 신질환이 명확하지 않은 MMVD(점액변성 승모판 질환) 개 42마리를 대상으로 혈청 FGF-23 농도가 MMVD 중증도와 관련되는지 평가했다. ACVIM 단계 C·D의 개들이 B1·B2보다 혈청 FGF-23 농도가 유의하게 높았고(P < .05), FGF-23은 VLAS(rs=0.500, P < .01), ANP(rs=0.455, P < .01), LA/Ao(rs=0.384, P < .05), E-vel(rs=0.372, P < .05), NT-proBNP(rs=0.366, P < .05)와 양의 상관을 보였다. 혈청 크레아티닌(Cr)과 루프 이뇨제 사용을 보정한 다변량 회귀에서 ACVIM 단계는 여전히 FGF-23과 유의하게 연관되어 있었다. 따라서 MMVD가 혈청 FGF-23 증가 해석에 영향을 미칠 수 있음을 임상에서 고려해야 한다.",
+      "detailed_summary": "연구는 후향적 단면설계이며, 클라이언트 소유의 MMVD 개 42마리(명시된 신질환 없음)를 대상으로 수행되었다. 측정 항목은 혈청 FGF-23, NT-proBNP, ANP, BUN, 크레아티닌(Cr), SDMA와 흉부 영상 지표인 VHS, VLAS, LA/Ao, 정규화된 LVIDDN, 이완기 E파 속도(E-vel)였다. 군 간 차이는 Kruskal-Wallis 검정과 Bonferroni 보정된 사후검정으로 분석했으며 상관은 Spearman 상관계수로 평가했고, FGF-23과 관련된 인자는 다변량 선형회귀로 확인했다. 결과적으로 ACVIM 단계 C·D의 개들이 B1·B2보다 혈청 FGF-23이 유의하게 높았고(P < .05), FGF-23은 VLAS(rs=0.500, P < .01), ANP(rs=0.455, P < .01), LA/Ao(rs=0.384, P < .05), E-vel(rs=0.372, P < .05), NT-proBNP(rs=0.366, P < .05)와 양의 상관을 보였다. 다변량 분석에서 ACVIM 단계는 혈청 Cr 농도와 루프 이뇨제 사용을 보정한 후에도 FGF-23과 유의하게 연관되어 있었다. 저자들은 MMVD 상태가 증가한 순환 FGF-23 농도 해석에 영향을 줄 수 있음을 강조하고 있다.",
+      "title": "Serum fibroblast growth factor-23 concentration in dogs with myxomatous mitral valve disease.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-10-30T01:04:06.637Z",
+      "model": "gpt-5-mini"
+    },
+    "42955823": {
+      "brief_summary": "후향적 다기관 관찰연구로 뇌하수체 의존성 과다 코르티솔혈증(PDH) 개 70마리(미세선종 n=30, 거대선종 n=40)를 대상으로 혈중 ACTH/코르티솔 비율이 종양 크기(미세 vs 거대)를 구분하고 뇌하수체 크기와 상관하는지 평가했다. 거대선종에서 ACTH/코르티솔 비율이 유의하게 높았고(중앙값 9.12 vs 4.90, P<.001), 이 비율은 종양 크기와 중등도 양의 상관관계(스피어만 ρ=0.48) 및 거대선종 분류와 독립적으로 연관됐다(OR 1.19). 수치 기반 컷오프(>5.69: 민감도 85%, 특이도 60%; >11.74: 특이도 90%, 민감도 35%)로 진단적 도움을 줄 수 있어, 고급영상이 불가한 상황에서 위험층화에 활용될 수 있다.",
+      "detailed_summary": "연구는 후향적 다기관 관찰연구로, 치료 전 동일 시점에 측정한 내인성 ACTH와 코르티솔 농도를 이용해 ACTH/코르티솔 비율을 계산했다. 대상은 PDH 진단을 받은 개 70마리로 미세선종 30마리, 거대선종 40마리이며 뇌하수체 크기는 pituitary-to-brain(P/B) 비율로 분류했다. 거대선종 그룹의 ACTH/코르티솔 비율 중앙값은 9.12(IQR 6.46–14.28), 미세선종은 4.90(IQR 3.08–8.10)로 유의한 차이가 있었고(P<.001) 이 비율은 P/B 비율과 중등도 양의 상관관계(스피어만 ρ = 0.48; 95% CI 0.26–0.64; P<.001)를 보였다. 수용자 조작 특성(ROC) 분석에서 AUC는 0.77(95% CI 0.66–0.89)로 중간 정도의 판별력을 보였으며, 컷오프 >5.69는 민감도 85%/특이도 60%(양성우도비 2.13), 컷오프 >11.74는 특이도 90%/민감도 35%(양성우도비 3.50)를 보였다. 다변량 분석에서 ACTH/코르티솔 비율은 거대선종 분류와 독립적으로 연관(OR 1.19; 95% CI 1.05–1.40)되었다. 결론적으로 ACTH/코르티솔 비율은 PDH 개의 뇌하수체 종양 크기와 연관되어 고급영상이 불가한 상황에서 위험층화에 도움이 될 수 있다. 초록에서는 별도의 제한점이 구체적으로 기술되지는 않았다.",
+      "title": "Utility of the ACTH/cortisol ratio for differentiating pituitary microadenomas from macroadenomas in dogs with pituitary-dependent hypercortisolism.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-10-30T01:03:46.427Z",
+      "model": "gpt-5-mini"
+    },
+    "42955824": {
+      "brief_summary": "214마리의 신규 진단 개를 대상으로 폐형(148마리)과 파종성(66마리) 코치디오이데스증(coccidioidomycosis)을 비교한 후향적 연구다. 목적은 임상 및 혈청학적 변수와 파종성 연관성 확인 및 감염 부위별 항체 정도 차이 평가였다. EIA IgG 농도와 AGID IgG 역가가 파종성과 독립적으로 연관되었고(EIA AUC 0.81), 혈청학이 진단 보조에 유용할 수 있으나 결과 중첩으로 인해 임상 소견 및 추가 검사와 함께 해석해야 한다.",
+      "detailed_summary": "후향적 연구로 총 214마리의 신규 진단 개를 분석했으며 질환은 폐형 148마리(69%)와 파종성 66마리(31%)로 분류되었다. 항-Coccidioides spp. IgG는 기준검사실에서 효소면역측정법(EIA)과 한천겔면역확산법(AGID)으로 측정했다. EIA IgG 농도와 AGID IgG 역가가 파종성과 독립적으로 연관됐고, EIA는 파종성 판별에서 AUC 0.81(95% CI 0.74–0.87), AGID는 AUC 0.74(95% CI 0.67–0.82)을 보였으며 검사 성능 간 통계적 차이는 없었다(P = .65). 탐색적 판정점으로 EIA 37 단위(민감도 86%, 특이도 63%)와 AGID ≥1:32(민감도 48%, 특이도 86%)가 제시됐다. 저자들은 혈청학이 임상적 보조정보를 제공할 수 있으나 항체 결과가 폐형과 파종성 간 중첩되어 있어 혈청학만으로 병변 범위를 결정할 수 없고, 또한 혈청학이 사례 분류에 기여했으므로 EIA의 AUC 추정치는 상한값일 수 있다고 보았다. 계절성으로는 폐형 진단이 봄에 가장 적고 늦가을·겨울에 가장 많았다.",
+      "title": "Clinical and serologic variables associated with dissemination and seasonal presentation in dogs with newly diagnosed coccidioidomycosis.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-10-30T01:03:14.404Z",
+      "model": "gpt-5-mini"
+    },
+    "42955826": {
+      "brief_summary": "1세 암컷 중성화 혼합견에서 T3-L3 신경병변을 보인 척수 Spirocerca lupi 감염 증례를 보고한다. 방사선, MRI, 횡격막경유 초음파 및 CT 등 다중 영상에서 종격동 종괴의 척추관 침범, T5-T6 경막외 압박, T5·T9의 척수내 T2 고신호, 식도 압박·확장 및 대동맥류성 확장이 확인되었고 기생충학적으로 Spirocerca lupi가 확인되었다. 우측 T5-T8 헤미라미노토미 후 이버멕틴(ivermectin) 400 mcg/kg SC q24h로 3일간 투여한 뒤 주1회로 6주간, 프레드니손 0.7 mg/kg/day, 클린다마이신 10.7 mg/kg PO q12h 병용 치료를 시행하여 2개월 만에 독립 보행이 회복되었고 CT에서 종격동·식도 결절은 소실되었으나 대동맥류성 확장은 진행하였다. 다중 영상검사가 본 증례의 진단 및 치료 관리에 필수적이었다.",
+      "detailed_summary": "증례보고로, 1세 암컷 중성화 혼합견이 하반신 편마비(paraparesis), 고유수용성 실조, 골반지지의 의식적 고유수용감각 소실 및 T3-L3 신경병변 소견으로 내원하였다. 흉부 방사선에서 후중격 종괴, 기흉 및 흉수가 관찰되었고 MRI에서는 종격동 종괴의 척추관 확장, T5-T6의 경막외 압박, T5와 T9의 척수내 T2 고신호, 식도 압박·확장 및 대동맥류성 확장이 확인되었다. 횡격막경유 초음파 소견이 기생충 관여를 시사하여 우측 T5-T8 헤미라미노토미를 시행하였고 기생충학적 검사로 Spirocerca lupi가 확인되었다. 치료로 이버멕틴(ivermectin) 400 mcg/kg SC를 q24h로 3일간 투여한 뒤 주1회로 6주간 유지하였고 프레드니손 0.7 mg/kg/day 및 클린다마이신 10.7 mg/kg PO q12h를 병용하였다. 치료 후 2개월에 독립 보행이 회복되었고 CT에서는 종격동 및 식도 결절이 소실되었으나 대동맥류성 확장은 진행 소견을 보였다. 본 연구는 단일 증례로, 다중 영상(방사선, MRI, 초음파, CT)이 척추 스피로세르카증의 진단과 관리에 중요했음을 보여주지만 증례보고라는 점에서 일반화에는 제한이 있다.",
+      "title": "Multimodal imaging characteristics and case management of intraspinal Spirocerca lupi infection in a dog.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-10-30T01:02:42.936Z",
+      "model": "gpt-5-mini"
+    },
+    "42955828": {
+      "brief_summary": "비디오투시 연하검사(VFSS)를 이용해 건강한 성체 고양이(n=13)와 개(n=12)의 삼킴 지표를 비교한 전향적 교차단면 연구이다. 고양이는 개에 비해 삼킴 간 간격이 길고 인두 통과 시간이 짧으며 일차 연동운동을 유발하기 위해 더 많은 인두 삼킴을 보였고, 식도 내 체적 축적 및 원위부 식도 통과 지연이 더 흔했다. VFSS 해석 시 종(species) 차이를 고려해야 하며, 임상 증상 없이도 고양이에서 기도 흡인(P-A score 7)이 관찰될 수 있다.",
+      "detailed_summary": "연구는 임상 증상이 없는 건강한 성체 고양이(13마리)와 개(12마리)를 대상으로 표준화된 VFSS를 시행하고 16개 객관적 지표를 비교한 전향적 교차단면 연구이다. 통계 분석은 Mann-Whitney-U, T-검정, Fisher's exact test를 사용했으며 유의수준은 P<.05로 설정되었다. 고양이는 개에 비해 연속 삼킴 간 간격(inter-swallow interval)이 유의하게 길었고 인두 통과 시간(pharyngeal transit time)은 유의하게 짧았으며 일차 연동(primary peristalsis)을 유발하기 위해 더 많은 인두 삼킴을 보였다(P<.05). 또한 고양이에서 식도 내 체적 축적(esophageal volume accumulation)과 원위부 식도 통과 지연(distal esophageal transit time slowing)이 개보다 유의하게 더 흔했다(P<.05). 생리적 역류(physiologic reflux)는 고양이 2마리(15.4%), 개 6마리(50%)에서 관찰되었고, 임상 증상 없이 병적 침투-흡인(pathologic penetration-aspiration, P-A score 7)이 고양이 1마리에서 확인되었다. 결론적으로 VFSS 해석 시 종 간 생리적 차이를 고려해야 한다는 점이 강조되며, 본 결과는 증상이 없는 성체 동물의 표준값 비교라는 설계 범위 내에서 해석되어야 한다.",
+      "title": "A species comparison of videofloroscopic metrics of swallowing in healthy dogs and cats.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-10-30T01:02:05.294Z",
       "model": "gpt-5-mini"
     }
   }

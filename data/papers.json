@@ -1,6 +1,115 @@
 {
-  "updated_at": "2026-10-29T00:58:56.112Z",
+  "updated_at": "2026-10-30T01:01:42.922Z",
   "papers": [
+    {
+      "pmid": "42955828",
+      "title": "A species comparison of videofloroscopic metrics of swallowing in healthy dogs and cats.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Grobman M, Luciani E, Reinero C",
+      "date": "2026 10 29",
+      "dateObject": "2026 10 29",
+      "abstract": "Videofluoroscopic swallow studies (VFSS) are the criterion standard for diagnosing dysphagia in veterinary species. However, a lack of normative swallowing variables in cats hinders assessment of cats with potential aerodigestive disease. Species variation in swallowing could lead to over- and under-interpretation of findings on VFSS, resulting in misdiagnosis. Compare differences in objective swallowing metrics between cats and dogs using VFSS. We hypothesize that cats will show differences in objective swallowing metrics on VFSS compared with dogs. Healthy adult cats (n&#xa0;=&#xa0;13) and dogs (n&#xa0;=&#xa0;12) without clinical signs (CS) of respiratory or alimentary disease. Prospective, cross-sectional study. Cats and dogs underwent standardized VFSS. All were evaluated according to 16 objective metrics and compared between species. Between group comparisons were made using Mann-Whitney-U, T-test, or Fischer's exact test with a P&#xa0;<&#xa0;.05 significance level for all comparisons. Cats had significantly longer inter-swallow intervals, shorter pharyngeal transit times, and more pharyngeal swallows to generate primary peristalsis compared with dogs (P&#xa0;<&#xa0;.05). Cats were also more likely to have esophageal volume accumulation and slowing of distal esophageal transit time compared with dogs (P&#xa0;<&#xa0;.05). Physiologic reflux was identified in 2 (15.4%) cats vs 6 (50%) dogs. Pathologic penetration-aspiration (P-A score: 7; aspiration without attempt to cough) was found in 1 cat despite a lack of respiratory or alimentary CS. Species variation should be considered when interpreting VFSS. In 1 cat, occult tracheal aspiration of contrast (P-A score 7) was detected without accompanying cough.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42955826",
+      "title": "Multimodal imaging characteristics and case management of intraspinal Spirocerca lupi infection in a dog.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Carrillo AJ, Grosso FRV, Walden HDS, Alas O, Garcia GA",
+      "date": "2026 10 29",
+      "dateObject": "2026 10 29",
+      "abstract": "A 1-year-old female spayed mixed breed dog was ambulatory with paraparesis and proprioceptive ataxia, absent conscious proprioception in pelvic limbs, and spinal pain with a T3-L3 neurolocalization on presentation. Thoracic radiographs revealed caudal mediastinal mass, pneumothorax, and pleural effusion. Magnetic resonance imaging revealed multiple mediastinal masses with vertebral canal extension, extradural compression at T5-T6, intramedullary T2 hyperintensities at T5 and T9, esophageal compression and dilation, and aortic aneurysmal dilation. Transdiaphragmatic ultrasonography was suggestive of parasitic involvement. A right T5-T8 hemilaminectomy and parasitology confirmed Spirocerca lupi. Treatment with ivermectin (400 mcg/kg SC q24h for 3&#xa0;days followed by once a week for 6&#xa0;weeks), prednisone (0.7&#xa0;mg/kg/day), and clindamycin (10.7&#xa0;mg/kg PO q12h) was initiated. Recovery of independent ambulation occurred 2 months after treatment. Computed tomography revealed resolution of mediastinal and esophageal nodules with progressive aortic aneurysmal dilation. Multimodal imaging was essential for the management of spinal spirocercosis.",
+      "categories": [
+        "cardiology",
+        "internalMedicine",
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "42955824",
+      "title": "Clinical and serologic variables associated with dissemination and seasonal presentation in dogs with newly diagnosed coccidioidomycosis.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Chittick L, Jaffey JA, Hanzlicek AS, Kreisler R, Rayhel LH, Balaban J, Alcott C, Adams C, Gould AG",
+      "date": "2026 10 29",
+      "dateObject": "2026 10 29",
+      "abstract": "Disseminated coccidioidomycosis in dogs is associated with substantial morbidity, yet distinguishing pulmonary from disseminated disease can be clinically challenging. Antibody serology might assist in predicting dissemination, but its performance across disease sites requires clarification. To identify clinical and serologic variables associated with disseminated coccidioidomycosis and to evaluate differences in antibody magnitude among common sites of infection. Two hundred fourteen client-owned dogs with newly diagnosed coccidioidomycosis. Retrospective study. Anti-Coccidioides spp. immunoglobulin (Ig)G was measured by enzyme immunoassay (EIA) and agar gel immunodiffusion (AGID) at a reference laboratory. Disease was classified as pulmonary in 148/214 (69%) and disseminated in 66/214 (31%). Higher EIA IgG concentration and AGID IgG titer were independently associated with dissemination. Enzyme immunoassay discriminated disseminated from pulmonary disease well (area under the curve [AUC]: 0.81; 95% confidence interval [CI], 0.74-0.87), estimate likely representing an upper bound because serology contributed to case classification. Agar gel immunodiffusion performance was not statistically distinguishable (AUC: 0.74; 95% CI, 0.67-0.82; P&#xa0;=&#xa0;.65). Exploratory cutpoints included an EIA IgG threshold of 37 enzyme immunoassay units (sensitivity 86%, specificity 63%) and an AGID IgG threshold of &#x2265;1:32 (sensitivity 48%, specificity 86%). Pulmonary diagnoses were least common in spring and peaked in late fall and winter. Coccidioidal IgG serology might provide clinically useful adjunctive information when assessing dogs for disseminated coccidioidomycosis. However, overlap in serologic results between disease phenotypes precludes the use of serology alone to determine disease extent. Serologic results should therefore be interpreted alongside clinical findings and appropriate diagnostic evaluation.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42955823",
+      "title": "Utility of the ACTH/cortisol ratio for differentiating pituitary microadenomas from macroadenomas in dogs with pituitary-dependent hypercortisolism.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Stylianou G, Vassallo F, Nishii N, Diana A, Tardo AM, Del Baldo F, Fracassi F",
+      "date": "2026 10 29",
+      "dateObject": "2026 10 29",
+      "abstract": "No simple, blood-based biomarker to estimate tumor size in dogs with pituitary-dependent hypercortisolism (PDH) has been evaluated. Determine whether the adrenocorticotropic hormone (ACTH)/cortisol ratio differentiates pituitary microadenomas from macroadenomas in dogs with PDH and correlates with pituitary size. Seventy privately-owned dogs with PDH (microadenomas, n&#xa0;=&#xa0;30; macroadenomas, n&#xa0;=&#xa0;40). Retrospective multicenter observational study. Endogenous ACTH and cortisol concentrations obtained at the same time point before treatment were used to calculate the ACTH/cortisol ratio. Pituitary tumor size was classified using the pituitary-to-brain (P/B) ratio. Diagnostic performance was evaluated using receiver operating characteristic analysis and multivariable logistic regression. Dogs with macroadenomas had significantly higher ACTH/cortisol ratios than dogs with microadenomas (median, 9.12; IQR, 6.46-14.28 vs median, 4.90; IQR, 3.08-8.10; P&#xa0;<&#xa0;.001). The ratio showed moderate discrimination for differentiating macroadenomas from microadenomas with an area under the curve of 0.77 (95% CI, 0.66-0.89; P&#xa0;<&#xa0;.001). A cutoff >5.69 yielded 85% sensitivity and 60% specificity (positive likelihood ratio 2.13), whereas a higher ratio&#xa0;>11.74 achieved 90% specificity and 35% sensitivity (positive likelihood ratio 3.50). The ACTH/cortisol ratio showed moderate positive correlation with pituitary size (Spearman's &#x3c1;&#xa0;=&#xa0;0.48; 95% CI, 0.26-0.64; P&#xa0;<&#xa0;.001) and remained independently associated with macroadenoma classification in multivariable analysis (OR, 1.19; 95% CI, 1.05-1.40). The ACTH/cortisol ratio is associated with pituitary tumor size in dogs with PDH and may support clinical risk stratification, particularly when advanced imaging is unavailable.",
+      "categories": [
+        "oncology",
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "42955822",
+      "title": "Serum fibroblast growth factor-23 concentration in dogs with myxomatous mitral valve disease.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Iwasa N, Shimizu M, Okamoto T, Kosuga H, Morikita N, Kawabe M, Iwata M, Watanabe K, Kobatake Y, Takashima S, Nishii N",
+      "date": "2026 10 29",
+      "dateObject": "2026 10 29",
+      "abstract": "Circulating fibroblast growth factor-23 (FGF-23) is primarily a kidney-related biomarker, but also may be influenced by cardiovascular remodeling and hemodynamic load. Verify whether serum FGF-23 concentration increases with myxomatous mitral valve disease (MMVD) severity. Forty-two client-owned dogs with MMVD without overt kidney disease. Retrospective cross-sectional study to evaluate serum FGF-23, N-terminal pro-B-type natriuretic peptide (NT-proBNP), atrial natriuretic peptide (ANP), blood urea nitrogen (BUN), creatinine (Cr), and symmetric dimethylarginine (SDMA) concentrations. Imaging variables included vertebral heart score (VHS), vertebral left atrial size (VLAS), left atrial-to-aortic root ratio (LA/Ao), normalized left-ventricular internal diameter in diastole (LVIDDN), and diastolic transmitral E-wave velocity (E-vel). Differences among American College of Veterinary Internal Medicine stages were analyzed using the Kruskal-Wallis test with Bonferroni-adjusted pairwise comparisons. Correlations were analyzed using Spearman's correlation. Multivariable linear regression analysis was performed to identify factors associated with serum FGF-23 concentration. Dogs with ACVIM stages C and D had higher serum FGF-23 concentrations than those with stages B1 and B2 (P&#xa0;<&#xa0;.05). Serum FGF-23 concentrations were positively correlated with VLAS (rs&#xa0;=&#xa0;0.500, P&#xa0;<&#xa0;.01), ANP (rs&#xa0;=&#xa0;0.455, P&#xa0;<&#xa0;.01), LA/Ao (rs&#xa0;=&#xa0;0.384, P&#xa0;<&#xa0;.05), E-vel (rs&#xa0;=&#xa0;0.372, P&#xa0;<&#xa0;.05), and NT-proBNP (rs&#xa0;=&#xa0;0.366, P&#xa0;<&#xa0;.05). ACVIM stage was significantly associated with serum FGF-23 concentration after adjustment for serum Cr concentration and loop diuretic use. The potential influence of MMVD should be considered when interpreting increased circulating FGF-23 concentrations in dogs with MMVD.",
+      "categories": [
+        "cardiology",
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42949437",
+      "title": "Letter regarding \"Pancreatic lymphangioma and concurrent intestinal lymphangiectasia in a dog:\" long-term follow-up and necropsy findings.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Hifumi T, Ishikawa T, Kozuma C, Kozuma M, Kuramoto T, Takahashi M, Miura N, Miyoshi N",
+      "date": "2026 10 29",
+      "dateObject": "2026 10 29",
+      "abstract": "",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42952495",
+      "title": "Case Report: Presumptive subdural hemorrhage as a rare neurological manifestation of primary immune-mediated thrombocytopenia in a dog.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Hong HP, Kei TG, Gagnon NA, Scrivani PV",
+      "date": "2026 10 29",
+      "dateObject": "2026 10 29",
+      "abstract": "A 10-year-old female spayed mixed-breed dog was presented with a history of seizures and acute progressive intracranial signs. The neurological examination was consistent with multifocal brain disease. Clinical examination revealed ecchymoses, petechiae, and bilateral retinal hemorrhage. Clinicopathological evaluation identified severe thrombocytopenia [a platelet count of 9&#x202f;&#xd7;&#x202f;10 3 /&#x3bc;L without clumps on manual smear evaluation] with an increased mean platelet volume. Coagulation testing (activated partial thromboplastin time and prothrombin time) and fibrinolysis markers (D-dimers, quantitative fibrinogen), infectious disease screening, and thoracic and abdominal imaging were within normal limits, establishing a diagnosis of primary immune-mediated thrombocytopenia (ITP). Magnetic resonance imaging (MRI) of the brain showed minimally expanded, bilateral crescent-shaped, extra-axial fluid accumulations overlying both cerebral hemispheres. Based on T1-weighted and T2-weighted hyperintensities and peripheral susceptibility artifact on T2*-weighted gradient-recalled echo (GRE) imaging, a late subacute subdural intracranial hemorrhage was diagnosed. Despite initial uneventful anesthesia and recovery, the dog experienced acute neurological deterioration and suffered cardiopulmonary arrest, suspected due to ongoing hemorrhage or brain herniation. This report describes a rare neurological manifestation of primary ITP in a dog. While canine ITP generally carries a favorable prognosis, life-threatening secondary intracranial hemorrhage can occur. Primary ITP should be considered as a differential diagnosis for an acute, progressive neurological presentation until a normal platelet count is confirmed.",
+      "categories": [
+        "internalMedicine",
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "42952494",
+      "title": "Effects of transient intravascular volume overload on endothelial glycocalyx thickness in healthy anesthetized cats.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Yozova ID, Thomson N, Irie M, Owen R, Munday JS",
+      "date": "2026 10 29",
+      "dateObject": "2026 10 29",
+      "abstract": "Previous studies suggest that the endothelial glycocalyx is damaged by volume overload. This study assessed the effects of transient intravascular volume overload on estimated endothelial glycocalyx thickness in healthy cats, using sidestream dark field videomicroscopy and the Glycocheck&#x2122; software. This was a prospective blinded cross-over single-center experimental study on twenty healthy cats. Cats were randomized to either receive 30&#x202f;mL/kg/10&#x202f;min of Hartman's solution (volume overload group) or no fluids (control) with a washout of 7&#x202f;days. Sublingual mucosa videomicroscopy images were acquired at T0 (baseline), T1 (immediately after intervention), T2 (3&#x202f;h after end of intervention) and T3 (24&#x202f;h after end of intervention) with three measurements performed per timepoint under propofol anesthesia. The perfused boundary region (PBR), an inverse estimate for endothelial glycocalyx thickness, for vessels with diameter of 5-25, 5-9, 10-19 and 20-25&#x202f;&#x3bc;m, respectively, was then automatically calculated with the Glycocheck&#x2122; software. Packed cell volume (PCV) was measured at each timepoint. Data normality was assessed using the Shapiro-Wilk test and visual inspection. Linear mixed-effects regression modelling, with cat as a random effect, analyzed interactions between GlycoCheck&#x2122; and other parameters. PBR 5-25&#x202f;&#x3bc;m, 5-9&#x202f;&#x3bc;m and 10-19&#x202f;&#x3bc;m increased over time, reaching significance at T2 ( p&#x202f;=&#x202f;0.001 , p&#x202f;=&#x202f;0.017 and p&#x202f;=&#x202f;0.008 , respectively). A significant group x timepoint interaction was identified for PBR 5-9 with decreased values at T2 ( p&#x202f;=&#x202f;0.028 ) and T3 ( p&#x202f;=&#x202f;0.010 ) in the volume overload group. Decreases in PCV were significantly associated with increases in PBR 5-25&#x202f;&#x3bc;m ( p&#x202f;=&#x202f;0.003 ) and PBR 10-19&#x202f;&#x3bc;m ( p&#x202f;=&#x202f;0.001 ). This study did not demonstrate decreases in estimated endothelial glycocalyx thickness after transient volume overload in healthy cats. The PBR did increase over time, suggesting potential anesthetic effects. Changes in PCV affected GlycoCheck&#x2122; parameters and this finding should be further explored. Further studies designed with understanding of feline volume kinetics are required to investigate the effects of IV fluids on the feline endothelial glycocalyx.",
+      "categories": []
+    },
+    {
+      "pmid": "42955157",
+      "title": "Rapid test performance for the diagnosis of canine visceral leishmaniasis using blood, serum, and saliva.",
+      "journal": "Veterinary Research Communications",
+      "authors": "Lamattina D, S&#xe1;nchez-Fern&#xe1;ndez C, Depasquino AF, Lai&#xf1;o MA, Siccardi FM, Salom&#xf3;n OD",
+      "date": "2026 10 29",
+      "dateObject": "2026 10 29",
+      "abstract": "A key aspect of controlling canine visceral leishmaniasis (CVL) is the availability of accurate diagnostic tools capable of reaching most of the population. In endemic areas with socially vulnerable populations, facilitating rapid CVL diagnosis by reducing sampling difficulties and diagnostic costs could provide substantial benefits. This study evaluated the performance of the Kalazar Detect&#x2122; Canine Rapid Test for CVL diagnosis using blood, serum, and saliva samples, and compared the results among sample types and with PCR detection in lymph nodes. Samples were collected from 100 dogs. Prevalence detected by the rapid diagnostic tests (RDT) was 21% using blood and serum and 17% using saliva, whereas PCR detected a prevalence of 46%. Agreement between serum and blood-based RDTs was 100%, while comparison between serum/blood and saliva showed a kappa index of 0.87, indicating almost perfect agreement. Using PCR as the reference standard, RDTs on serum and blood showed a sensitivity of 0.39 and specificity of 0.94, whereas saliva-based RDT showed a sensitivity of 0.33 and specificity of 0.96. The low sensitivity of the RDTs currently used by the National Leishmaniasis Program indicate that an additional diagnostic method should be incorporated into CVL surveillance in endemic areas. Nevertheless, our results suggest that saliva may be a suitable sample for the Kalazar Detect Canine Rapid Test, as it is easy to collect, less expensive, and less invasive. To our knowledge, this is the first study to evaluate the performance of this RDT for CVL diagnosis using saliva samples.",
+      "categories": []
+    },
     {
       "pmid": "42949439",
       "title": "Effects of a gluten-free hydrolyzed diet in dogs with paroxysmal dyskinesia: a prospective cohort study.",
@@ -27,15 +136,28 @@
       ]
     },
     {
-      "pmid": "42949437",
-      "title": "Letter regarding \"Pancreatic lymphangioma and concurrent intestinal lymphangiectasia in a dog:\" long-term follow-up and necropsy findings.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Hifumi T, Ishikawa T, Kozuma C, Kozuma M, Kuramoto T, Takahashi M, Miura N, Miyoshi N",
+      "pmid": "42950428",
+      "title": "Antimicrobial resistance and molecular characterization of extended-spectrum &#x3b2;-lactamase/AmpC &#x3b2;-lactamase-producing Proteus mirabilis isolates from companion dogs in South Korea (2018-2024).",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Hwang YJ, Lee YH, Ali MS, Choi JH, Park SC, Moon BY, Lim SK",
       "date": "2026 10 28",
       "dateObject": "2026 10 28",
-      "abstract": "",
+      "abstract": "To investigate antimicrobial resistance profiles and molecular characteristics of third-generation cephalosporin- and cephamycin-resistant Proteus mirabilis isolated from clinically ill dogs across South Korea from 2018 through 2024. Antimicrobial susceptibility of isolates was assessed by broth microdilution. Molecular characteristics were determined by polymerase chain reaction and multilocus sequence typing. In total, 667 P mirabilis were isolated from skin/ear, feces, and urine/reproductive systems of companion dogs. Among them, 27.3% of isolates exhibited a multidrug-resistant (MDR) phenotype. Molecular characterization of 38 extended-spectrum &#x3b2;-lactamase (5.7%)/AmpC &#x3b2;-lactamase-carrying strains revealed a high prevalence of &#x3b2;-lactamase cephamycinase-2 gene blaCMY-2 (65.8%) and &#x3b2;-lactamase cefotaximase gene blaCTX-M variants, including blaCTX-M-65, blaCTX-M-15, and blaCTX-M-90. Multilocus sequence typing identified 16 distinct sequence types (STs), with ST135 (39.5%) and ST212 (21.1%) emerging as the most prevalent lineages. Phylogenetic analysis revealed that the first major cluster contains 31 isolates (81.6%) across 10 STs centered around ST135, whereas the second cluster comprises 7 isolates (18.4%) across 6 STs centered on ST292. Notably, the ST135-centered cluster was associated with robust MDR phenotypes. These findings indicate that companion dogs harboring MDR P mirabilis are among several potential reservoirs within the One Health context. Especially, clone ST135 may serve as a primary evolutionary axis and a high-risk endemic clone within the Korean canine population. Our study highlights the critical role of dominant lineages in dissemination of extended-spectrum &#x3b2;-lactamase/AmpC &#x3b2;-lactamase genes and emphasizes the urgent need for continuous One Health surveillance to monitor potential transmission of these clones between companion animals and humans.",
       "categories": [
-        "internalMedicine"
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42950426",
+      "title": "Monocortical locking screws in the tibial diaphysis maintain tibial plateau angle and support osteotomy union after tibial plateau leveling osteotomy in dogs.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Wong N, Eckart LH, Yu J, Bleakley S, Jermyn K, Michelsen J, Sul R, Iversen J, Chong WL",
+      "date": "2026 10 28",
+      "dateObject": "2026 10 28",
+      "abstract": "To evaluate the effect of distal monocortical locking screw fixation on construct stability and bone healing following tibial plateau leveling osteotomy (TPLO) in dogs. We hypothesized that monocortical fixation would result in acceptable maintenance of tibial plateau angle (TPA) of < 5&#xb0; and satisfactory osteotomy union. Medical records from a companion animal referral hospital between December 8, 2021, and February 23, 2024, were retrospectively reviewed. Dogs were included if TPLO was performed for cranial cruciate ligament insufficiency using monocortical screws in the distal tibial segment and complete radiographic follow-up was available. Change in TPA between postoperative and follow-up radiographs were recorded. Bone healing was assessed using the modified Radiographic Union Scale for Tibial Fractures. Associations between outcomes and clinical variables were evaluated with linear regression models. A total of 117 dogs met the inclusion criteria. Median change in TPA during healing was 2.15&#xb0; (95% CI, 1.70&#xb0; to 2.65&#xb0;), and no evaluated variables were associated with TPA change. Median modified Radiographic Union Scale for Tibial Fractures score was 10 (range, 4 to 12), consistent with satisfactory radiographic union at a mean follow-up time of 43 days. The overall complication rate was 8.5%, including an infection rate of 2.6%. Use of monocortical distal tibial screws within a titanium alloy conical locking TPLO system was associated with acceptable maintenance of TPA and satisfactory radiographic union scores. Monocortical distal tibial fixation may provide sufficient stability to support osteotomy healing per manufacturer recommendations. Additional studies are needed to evaluate outcomes for different locking systems, patient size categories, screw combination, and longer-term follow-up periods.",
+      "categories": [
+        "internalMedicine",
+        "surgery"
       ]
     },
     {
@@ -813,18 +935,6 @@
       "categories": []
     },
     {
-      "pmid": "42915570",
-      "title": "New World screwworm in livestock production systems: biosecurity, economic considerations, and management for cattle, sheep, goat, horse, and swine producers.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Campagnolo ER",
-      "date": "2026 10 23",
-      "dateObject": "2026 10 23",
-      "abstract": "New World screwworm (Cochliomyia hominivorax) is a transboundary obligate myiasis-causing parasite that poses serious threats to livestock production through infestation of living tissue, rapid lesion progression, animal suffering, and substantial economic loss. Between June 3 and June 16, 2026, the US confirmed 12 cases of New World screwworm in domestic animals across Texas and New Mexico, marking the first detections in production livestock in the continental US since 1966. Cases have involved cattle, sheep, goats, and a dog across multiple counties, with all 12 classified as active and no wild fly trap detections recorded as of the manuscript preparation date. This narrative review synthesizes current producer-facing evidence on production-level risk factors, herd and flock biosecurity, species-specific vulnerabilities, surveillance and reporting pathways, and the economic and trade implications of an active outbreak. Practical prevention measures examined include timing invasive husbandry procedures to low-risk periods, strengthening wound prevention and inspection protocols, and improving sanitation for vehicles, equipment, and personnel. Population-level control strategies (principally the sterile insect technique, now deployed via aerial and ground releases in and around the detection zone) and current regulatory responses, including multiple FDA emergency-use authorizations for animal drugs, are summarized to support preparedness planning across livestock systems. The principal contribution of this review is to reframe the producer and veterinary response to screwworm from individual-animal treatment to production-system prevention, consolidating 2023 to 2026 guidance from USDA, FDA, AVMA, and cooperative extension programs into a practical roadmap for reducing risk, preserving animal welfare, and protecting market access at the herd and flock level.",
-      "categories": [
-        "dermatology"
-      ]
-    },
-    {
       "pmid": "42910107",
       "title": "Case series: Superficial lipomatous hamartoma in dogs and cats is a previously unreported NLCS-like dermal lesion.",
       "journal": "Frontiers in Veterinary Science",
@@ -941,30 +1051,6 @@
         "internalMedicine",
         "surgery"
       ]
-    },
-    {
-      "pmid": "42904074",
-      "title": "Case Report: Long term multimodality treatment of canine hepatocellular carcinoma with serial monitoring of serum alpha-fetoprotein.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Dan TJ, Yang CH, Kim YJ, Kang MH, Kang MA, Lee KS, Park HM",
-      "date": "2026 10 22",
-      "dateObject": "2026 10 22",
-      "abstract": "A 13-year-old spayed female Shih Tzu presented with a several-month history of progressively increasing liver enzyme activities concurrent with managed hyperadrenocorticism. Diagnostic imaging revealed a solitary hepatic mass originating from the caudate process of the caudate lobe adhering to the caudal vena cava. Hepatocellular carcinoma (HCC) was confirmed via histopathological examination of an ultrasound-guided tru-cut biopsy, accompanied by a markedly elevated serum alpha-fetoprotein (AFP) concentration. Molecular targeted therapy with olaparib was initiated since complete surgical resection was unachievable due to tumor adherence to the caudal vena cava and conventional chemotherapy has limited efficacy for canine HCC, based on genomic profiling. Following objective tumor progression and worsening mass effect after 2&#x202f;months, cytoreductive surgery was performed. Postoperatively, olaparib and canine interleukin-15 (cIL-15) immunotherapy were instituted to control potential micrometastases. The patient achieved clinical and radiographic stability for a 10-month follow-up period, accompanied by a significant drop in serum AFP levels. However, following the discontinuation of cIL-15 and subsequent reduction of olaparib dosage because of suspected adverse effects, serum AFP levels rebounded progressively, and tumor recurrence was confirmed via ultrasonography. The patient died 20&#x202f;months after the initial detection of the mass. This case describes the clinical course of canine HCC managed with a multimodal therapeutic approach and highlights the potential utility of serum AFP as an adjunctive biomarker for disease monitoring.",
-      "categories": [
-        "internalMedicine",
-        "oncology",
-        "surgery"
-      ]
-    },
-    {
-      "pmid": "42903212",
-      "title": "Epidemiology of voluntarily reported dog and cat bite incidents in a large-scale, multi-site veterinary network in the UK and Ireland.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Malkani R, Singleton D, Martin D, Vinke M, Playforth L, Collis M, Oxley JA",
-      "date": "2026 10 22",
-      "dateObject": "2026 10 22",
-      "abstract": "Dog and cat bites are an occupational risk within veterinary practise. Despite this, there is minimal research exploring the occurrence and details surrounding such incidents. The aim of this study was to use a large veterinary group's existing incident and near miss reporting system in the UK to explore the incidence of dog and cat bite reporting and surrounding details of such incidents. Dog and cat bite incidents were identified from January 2024 to October 2025 covering all clinics in the UK and Ireland (>1,000). A total of 2,327 dog (1,239; 53.24%) and cat (1,088; 46.76%) bites were reported. The most common anatomical bite location was reported to be the hands and fingers for both dog (63.0%) and cat (80.6%) bites. The majority of bites for cats (77.96%) and dogs (80.60%) occurred between 9 a.m. and 6 p.m. Location of in-clinic bites differed between staff, with the veterinarians most commonly bitten in the consult room and non-veterinarians most often bitten in the preparation area. Regarding perceived behaviour, the term 'aggression' was most frequently used in reports. In conclusion, this report highlights the common occurrence of dog and cat bite related injuries, providing insights into surrounding factors. Factors need to be considered to reduce bites such as low stress handling, environment adaption and encouraging advancement of knowledge of animal behaviour. More needs to be done to help the reporting of incidents, incorporate human behaviour change approach and education to prevent bite incidents.",
-      "categories": []
     },
     {
       "pmid": "42907999",
@@ -1520,42 +1606,6 @@
       ]
     },
     {
-      "pmid": "42858362",
-      "title": "Prevalence and potential risk factors associated with idiopathic epilepsy in Golden Retrievers.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Winnerby M, Rohdin C, Strandberg E, Gredal H",
-      "date": "2026 10 10",
-      "dateObject": "2026 10 10",
-      "abstract": "Idiopathic epilepsy (IE) in Golden Retrievers (GRs) has a suspected genetic basis with several endogenous risk factors potentially affecting the disease, including sex, breed subtypes, and chronic comorbidities. A subdivision into working (W-GRs) and show (S-GRs) Golden Retrievers presents a unique opportunity to investigate possible line-related risk factors. Define prevalence and investigate risk factors for IE in a population of Swedish GRs. We hypothesized a high prevalence of IE in GRs characterized by frequent cluster seizures, with the following representing potential risk factors for IE: subtype W-GR, male, and gastrointestinal or dermatologic signs or both. Twenty-nine client-owned GRs with IE and 714 controls. Prospective questionnaire-based study exploring the dog's health status, living conditions, and possible seizures, including questions regarding seizure characteristics, treatments, and clinical outcomes in affected dogs. Data was analyzed using descriptive and inferential statistics and a logistic regression model was used to estimate the effect of potential risk factors on the probability of IE. The prevalence of IE in GRs was 3.9%, with 48.2% presenting with cluster seizures. A significant difference in prevalence of IE between W-GRs and S-GRs was not found. Being male, showing signs of gastrointestinal disease, and cereal-free diets were associated with increased risk of IE. Golden retrievers have an increased risk of IE, often presenting with cluster seizures. The association between IE and gastrointestinal disease might lead to new therapeutic strategies, but further investigations are needed.",
-      "categories": [
-        "internalMedicine",
-        "neurology",
-        "dermatology"
-      ]
-    },
-    {
-      "pmid": "42858360",
-      "title": "Global longitudinal strain assessment of systolic dysfunction in Doberman Pinschers with ventricular arrhythmias and normal echocardiographic measurements.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Hofmeister K, Friederich J, Sch&#xf6;bel J, Hertzsch S, Eberhard J, Sch&#xfc;ttpelz R, Wess G",
-      "date": "2026 10 10",
-      "dateObject": "2026 10 10",
-      "abstract": "Dilated cardiomyopathy (DCM) in Doberman Pinschers (DPs) often initially manifests as ventricular arrhythmias (stage B1) without echocardiographic evidence of cardiac remodeling (stage B2). Global longitudinal strain (GLS) is a sensitive echocardiographic variable for detecting early systolic dysfunction. To assess whether GLS detects systolic dysfunction in DPs with arrhythmogenic stage B1 and to evaluate the association between arrhythmic burden and GLS. Sixty-three DPs with arrhythmogenic stage B1 DCM and 63 control DPs. Retrospective case-control study. Stage B1 was defined as &#x2265;300 ventricular premature complexes (VPCs) within 24&#xa0;h or >50 VPCs on two 24-h Holter recordings within 1&#xa0;year, with otherwise normal echocardiographic measurements. Forty-three dogs had \"last-normal\" (LN) examinations 6-12&#xa0;months before arrhythmia onset. GLS was measured using 2-dimensional speckle-tracking echocardiography (STE) from left apical 2-, 3-, and 4-chamber views. Stage B1 dogs were subclassified into low-grade (LGvpc) and high-grade (HGvpc) groups based on arrhythmic burden. GLS was lower in stage B1 dogs (mean&#xa0;&#xb1;&#xa0;SD, -16.80%&#xa0;&#xb1;&#xa0;2.71%) compared to controls (-20.22%&#xa0;&#xb1;&#xa0;1.90%; P&#xa0;=&#xa0;.044). Stage B1 dogs had lower GLS compared to their LN examinations (mean difference, -2.45%; 95% CI, -3.67% to -1.24%; P&#xa0;<&#xa0;.001). Dogs in the HGvpc group had lower GLS (-15.45%&#xa0;&#xb1;&#xa0;2.79%) than LGvpc dogs (-18.39%&#xa0;&#xb1;&#xa0;1.51%; mean difference, -2.94%; 95% CI, -4.28% to -1.60%; P&#xa0;<&#xa0;.001). GLS detects systolic dysfunction in DPs with arrhythmogenic stage B1 DCM despite normal conventional echocardiographic measurements. Higher arrhythmic burden is associated with more severe systolic dysfunction. Doberman Pinschers (DPs) are prone to dilated cardiomyopathy. This heart disease can cause abnormal heart rhythms, weakening and enlargement of the heart, heart failure, or sudden death. In some dogs, abnormal rhythms begin before a standard ultrasound scan shows changes in heart size or pumping ability. We studied whether an advanced echocardiographic method, named global longitudinal strain (GLS) could detect early weakening of the heart muscle. This measurement uses ultrasonographic images to assess how much the heart muscle shortens with each beat. The study included 63 DPs with abnormal rhythms arising from the lower chambers of the heart but normal standard ultrasonographic findings. We compared them with 63 healthy DPs. Earlier examinations before abnormal rhythms developed were available for 43 affected dogs. Dogs with abnormal rhythms had weaker heart muscle contraction than healthy dogs. Weakening was most pronounced in dogs with faster or more complex rhythms. These dogs were also more likely to later develop reduced pumping ability and heart enlargement. GLS might add useful information to screening, especially in dogs with more serious abnormal rhythms. It should be used alongside standard ultrasonographic scans and 24-h heart rhythm recordings, not as a replacement. Die dilatative Kardiomyopathie (DCM) beginnt bei Doberm&#xe4;nnern h&#xe4;ufig mit ventrikul&#xe4;ren Arrhythmien (Stadium B1), bevor strukturelle Ver&#xe4;nderungen echokardiographisch erkennbar sind (Stadium B2). Der globale longitudinale Strain (GLS) k&#xf6;nnte eine fr&#xfc;he systolische Dysfunktion erfassen. Untersuchung, ob GLS bei Doberm&#xe4;nnern im arrhythmogenen Stadium B1 eine systolische Dysfunktion erkennt und mit der Arrhythmielast zusammenh&#xe4;ngt. Dreiundsechzig Doberm&#xe4;nner im arrhythmogenen Stadium B1 und 63 gesunde Kontrollhunde. Retrospektive Fall-Kontroll-Studie. Stadium B1 war definiert als &#x2265;300 ventrikul&#xe4;re Extrasystolen (VPCs)/24 Stunden oder >&#x2009;50 VPCs in zwei 24-Stunden-Holter-Aufzeichnungen innerhalb eines Jahres bei normalen echokardiographischen Messwerten. Bei 43 Hunden lagen 6-12 Monate vor Arrhythmiebeginn &#x201e;last-normal&#x201c;-Untersuchungen (LN) vor. GLS wurde mittels zweidimensionaler Speckle-Tracking-Echokardiographie aus drei linksapikalen Ansichten bestimmt. Stadium-B1-Hunde wurden anhand der Arrhythmielast in LGvpc- und HGvpc-Gruppen eingeteilt. GLS war bei Stadium-B1-Hunden vermindert (Mittelwert &#xb1; Standardabweichung: &#x2212;16,80&#xa0;&#xb1;&#xa0;2,71 % gegen&#xfc;ber &#x2212;20,22&#xa0;&#xb1;&#xa0;1,90 % bei Kontrollhunden; P &#xa0;=&#xa0;0,044). Gegen&#xfc;ber den LN-Untersuchungen war GLS ebenfalls vermindert (mittlere Differenz: &#x2212;2,45 %; 95%-Konfidenzintervall: &#x2212;3,67 bis &#x2212;1,24 %; P &#xa0;<&#xa0;0,001). Hunde der HGvpc-Gruppe hatten einen st&#xe4;rker verminderten GLS als Hunde der LGvpc-Gruppe (&#x2212;15,45&#xa0;&#xb1;&#xa0;2,79 % gegen&#xfc;ber &#x2212;18,39&#xa0;&#xb1;&#xa0;1,51 %; mittlere Differenz: &#x2212;2,94 %; 95%-Konfidenzintervall: &#x2212;4,28 bis &#x2212;1,60 %; P &#xa0;<&#xa0;0,001). GLS erkennt bei Doberm&#xe4;nnern im arrhythmogenen Stadium B1 trotz normaler konventioneller Echokardiographie eine systolische Dysfunktion. Eine h&#xf6;here Arrhythmielast ist mit einer st&#xe4;rkeren Dysfunktion verbunden.",
-      "categories": [
-        "cardiology"
-      ]
-    },
-    {
-      "pmid": "42858358",
-      "title": "Primary hyperparathyroidism in a 4-month-old German Shepherd mixed breed dog.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Aires-Serrano J, Shimali J, Renard J, Bird F, Hrovat A",
-      "date": "2026 10 10",
-      "dateObject": "2026 10 10",
-      "abstract": "A 4-month-old female-intact German Shepherd mixed breed dog was evaluated for polyuria, polydipsia, oral discomfort, tachypnea, and pyrexia. Blood testing documented total and ionized hypercalcemia with an increased parathyroid hormone concentration. Computed tomography identified bone abnormalities of the mandibule and mild, diffuse pulmonary changes. Ultrasonography of the neck documented one mildly enlarged parathyroid gland that was surgically removed. Histopathology indicated diffuse chief cell hyperplasia. The ionized calcium concentration normalized within 7 days postoperatively.",
-      "categories": []
-    },
-    {
       "pmid": "42859172",
       "title": "Morpho-molecular assessment of nanomaterials in teleost fish wound healing: a systematic review.",
       "journal": "BMC Veterinary Research",
@@ -1566,31 +1616,6 @@
       "categories": [
         "internalMedicine",
         "dermatology"
-      ]
-    },
-    {
-      "pmid": "42855437",
-      "title": "Presumptive paroxysmal dyskinesia in 41 dogs: is the diet change enough?",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Reyes HM, Galli G, Burbait&#xe8; E, Cocchetto A, Fiorentino E, Menchetti M",
-      "date": "2026 10 09",
-      "dateObject": "2026 10 09",
-      "abstract": "Paroxysmal dyskinesia (PD) in dogs comprises episodic, involuntary, nonepileptic movement disorders. Recent evidence suggests that PD may be associated with gluten sensitivity, paralleling human gluten-related neurologic syndromes. Characterize clinical features, gastrointestinal comorbidities, gluten-related serology, and response to a gluten-free diet (GFD) in dogs with presumptive gluten-sensitive PD. We hypothesized that dietary modification would decrease episode frequency, particularly in dogs with gastrointestinal signs, seropositivity for anti-gliadin and anti-transglutaminase-2 immunoglobulin A antibodies or both. Forty-one client-owned dogs with presumptive PD. Retrospective review of dogs diagnosed with presumptive PD at a single institution between 2019 and 2023. Inclusion criteria included >&#x2009;1 episode, video-documented episodes, normal interictal neurologic examination, serum gluten-related antibody titers, and&#xa0;&#x2265;&#xa0;6&#xa0;months of follow-up after transition to GFD. Gastrointestinal signs were reported in 33/41 (80.5%) dogs; 21/41 (51.2%) had at least 1 positive antibody titer. After dietary change, 24/41 (58.5%) dogs achieved complete resolution, 15/41 (36.6%) showed partial response, and 2/41 (4.9%) remained unchanged, regardless of antibody status. All owners reported gastrointestinal improvement. Nine dogs relapsed after initial response: 6 after gluten ingestion, 1 associated with stress, and 2 despite strict GFD. Response to GFD was not significantly associated with gastrointestinal signs or antibody status. Although dietary response was not significantly associated with antibody status or gastrointestinal signs, GFD led to substantial clinical improvement in most dogs with PD across multiple breeds, supporting a potential link between gluten sensitivity and PD, and a possible role of the gut-brain axis in disease pathogenesis.",
-      "categories": [
-        "internalMedicine",
-        "neurology"
-      ]
-    },
-    {
-      "pmid": "42855436",
-      "title": "ClotPro viscoelastic testing in coagulation disorders in dogs: a retrospective analysis.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Doulidis PG, Frizzo-Ramos C, Prankch LJ, R&#xfc;tgen B, Burgener IA, Luckschander-Zeller N",
-      "date": "2026 10 09",
-      "dateObject": "2026 10 09",
-      "abstract": "Viscoelastic testing provides whole-blood assessment of coagulation, but clinical data on the performance of the ClotPro in dogs with naturally occurring diseases are limited. To evaluate pathway coherence of ClotPro variables with routine coagulation tests and to explore disease-associated viscoelastic phenotypes, fibrinolysis, and hypercoagulability. Eighty-four client-owned dogs admitted to a university hospital. Retrospective cohort study. ClotPro variables (clotting time, amplitude at 10&#xa0;min, maximum clot firmness, maximum lysis across extrinsic pathway test [EX], intrinsic pathway test [IN], fibrinogen test channel, aprotinin test [AP] channels) were compared with prothrombin time (PT), activated partial thromboplastin time (aPTT), platelet count (PLT), and D-dimer using Spearman correlation with Benjamini-Hochberg adjustment. Group differences were assessed with Kruskal-Wallis and Dunn's post hoc. Hyperfibrinolysis (HF) was defined using paired EX-AP. A hypercoagulability index (HCI) and platelet/fibrin-adjusted residual firmness were derived. PT correlated with clotting time in EX channel (&#x3c1;&#xa0;=&#xa0;0.48, q&#xa0;=&#xa0;0.002) and aPTT with clotting time in IN channel (&#x3c1;&#xa0;=&#xa0;0.42, q&#xa0;=&#xa0;0.007). PLT correlated with maximum clot firmness in EX channel (EX_MCF) (&#x3c1;&#xa0;=&#xa0;0.50, q&#xa0;=&#xa0;0.001). maximum clot firmness in FIB channel correlated with EX_MCF (&#x3c1;&#xa0;=&#xa0;0.58, q&#xa0;<&#xa0;0.001) and maximum clot firmness in IN channel (&#x3c1;&#xa0;=&#xa0;0.47, q&#xa0;=&#xa0;0.003). maximum lysis in EX channel (EX_ML) correlated inversely with EX_MCF (&#x3c1;&#xa0;=&#xa0;-0.35, q&#xa0;=&#xa0;0.028). D-dimer correlated with EX_ML (&#x3c1;&#xa0;=&#xa0;0.30, q&#xa0;=&#xa0;0.049). Group-level distributions overlapped substantially. HF was infrequent among cases (33% in dogs with hepatopathy and 21% in dogs with hemorrhagic diarrhea). The HCI differed across diseases (P&#xa0;=&#xa0;.0002), whereas platelet/fibrin-adjusted residual firmness did not. ClotPro variables demonstrated pathway-specific coherence with routine coagulation testing and consistent fibrinolysis patterns. Disease states did not define discrete viscoelastic phenotypes, supporting case-level interpretation.",
-      "categories": [
-        "internalMedicine"
       ]
     },
     {
@@ -1871,18 +1896,6 @@
       "categories": [
         "internalMedicine",
         "oncology",
-        "surgery"
-      ]
-    },
-    {
-      "pmid": "42462778",
-      "title": "The fibula contributes minimally to torsional stiffness and strength of the canine crus in an ex vivo study in Beagles.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Picavet PP, Balligand M",
-      "date": "2026 10 01",
-      "dateObject": "2026 10 01",
-      "abstract": "To characterize the torsional mechanical properties of the canine crus, determine the contribution of the fibula to crus stiffness and strength under torsional loading, and describe the associated failure pattern. This ex vivo study was conducted from December 2021 through June 2022 and included 13 pelvic limbs from skeletally mature Beagles. Specimens were assigned to 2 groups: intact tibia and fibula (n = 7) and tibia with proximal fibular ostectomy (6). Crura were potted proximally and distally. Torsional loading was applied under quasi-static conditions until failure. Torque and twist angle at failure, torsional stiffness, and rotation relative to working length were recorded. All specimens sustained mid-diaphyseal oblique/spiral tibial fractures. Mean torque to failure was 17.33 &#xb1; 2.95 Nm in intact crura, 18.45 &#xb1; 3.36 Nm following fibular ostectomy, and 1.13 &#xb1; 0.6 Nm for isolated fibula. No significant differences were detected between groups for any measured variable. Following tibial fracture, the isolated fibula exhibited minimal torsional stiffness and sustained 6.5% of the torque at failure of the intact crus. The fibula contributes minimally to the torsional stiffness and strength of the canine crus under torsional loading. The torsional mechanical properties of the canine crus were primarily determined by the tibia, and failure was consistently characterized by tibial fracture preceding fibular failure. Fibular integrity appears to have limited influence on torsional stability in canine tibial fractures, although it may remain important for maintaining limb alignment and fracture management.",
-      "categories": [
         "surgery"
       ]
     },
@@ -2846,16 +2859,6 @@
       "categories": [
         "internalMedicine"
       ]
-    },
-    {
-      "pmid": "42584747",
-      "title": "Radiographic reference values for canine baculum length: association with body-weight category in dogs aged at least 1 year.",
-      "journal": "Veterinary Research Communications",
-      "authors": "Fuertes-Recuero M, L&#xf3;pez-Cubillo L, Ortiz-D&#xed;ez G, Salg&#xfc;ero R",
-      "date": "2026 08 13",
-      "dateObject": "2026 08 13",
-      "abstract": "The canine baculum is routinely visible on abdominal and pelvic radiographs, yet radiographic reference data for its length are scarce. This retrospective single-centre study aimed to characterise radiographic baculum length in male dogs aged at least 1 year and to determine whether baculum length was associated with body-weight category, age, neuter status or mixed-breed status. Lateral radiographs from 62 dogs were reviewed, and baculum length was measured on a single optimal projection. Mean&#x2009;&#xb1;&#x2009;SD baculum length increased from 68.4&#x2009;&#xb1;&#x2009;9.1&#xa0;mm in dogs&#x2009;<&#x2009;10&#xa0;kg to 105.9&#x2009;&#xb1;&#x2009;26.7&#xa0;mm in dogs 10-30&#xa0;kg and 131.2&#x2009;&#xb1;&#x2009;18.6&#xa0;mm in dogs&#x2009;>&#x2009;30&#xa0;kg (Kruskal-Wallis P&#x2009;<&#x2009;0.001). In multivariable ordinary least-squares linear regression, body-weight category remained strongly associated with baculum length after adjustment for age, neuter status and mixed-breed status (robust F(2,56)&#x2009;=&#x2009;67.65, P&#x2009;<&#x2009;0.001; adjusted R&#xb2; = 0.609). No evidence of association was detected for age, neuter status or mixed-breed status. These descriptive data may support radiographic interpretation of the canine baculum but should not be used as diagnostic thresholds.",
-      "categories": []
     },
     {
       "pmid": "42454670",
