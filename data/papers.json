@@ -1,6 +1,66 @@
 {
-  "updated_at": "2026-10-30T01:01:42.922Z",
+  "updated_at": "2026-10-31T00:48:11.682Z",
   "papers": [
+    {
+      "pmid": "42960979",
+      "title": "Novel liquid biopsy based on comprehensive small RNA profiling for screening of cancer in dogs utilizing machine learning.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Harako S, Yuki M, Noguchi S, Ohno T, Nozaki N, Nishida R, Hojo H, Horikawa R, Kawata D, Noda Y, Miura N, Mizuno T, Momoi Y",
+      "date": "2026 10 30",
+      "dateObject": "2026 10 30",
+      "abstract": "Recent investigations have demonstrated the relevance in cancer of a variety of small RNAs, beyond microRNAs (miRNAs). However, the comprehensive application of these RNAs to cancer detection in dogs remains unexplored. We investigated whether combining miRNAs and other small RNAs using a custom database improves the accuracy of machine learning cancer screening in dogs compared with models using only miRNAs. A total of 389 dogs were enrolled: 85 with cancer, 77 with nonmalignant diseases, and 227 healthy controls. Small RNAs in blood samples were sequenced, and miRNAs (via miRBase) and other small RNAs (via a custom database) were profiled. Based on these profiles, 2 datasets were prepared: one with only miRNAs and another combining miRNAs with other small RNAs. For each dataset, 12 classification models were constructed using identical methods to enable paired comparisons of performance, with 5-fold cross-validation and area under the receiver operating characteristic curve (AUC) as the primary metrics. The model that integrated both miRNAs and other small RNAs yielded a significantly higher AUC compared with the miRNA-only model (median AUC: 0.926 [95% CI, 0.911-0.944] vs 0.881 [0.860-0.897]; Wilcoxon signed-rank test, P&#xa0;<&#xa0;.001), indicating enhanced capability in discriminating malignant tumors in dogs. We investigated the comprehensive integration of diverse small RNA species, beyond miRNAs, using a machine learning approach for cancer screening in dogs. Although further prospective validation in independent cohorts is needed, our results indicate that this strategy improves the performance of cancer classification models in dogs.",
+      "categories": [
+        "oncology"
+      ]
+    },
+    {
+      "pmid": "42949437",
+      "title": "Letter regarding \"Pancreatic lymphangioma and concurrent intestinal lymphangiectasia in a dog:\" long-term follow-up and necropsy findings.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Hifumi T, Ishikawa T, Kozuma C, Kozuma M, Kuramoto T, Takahashi M, Miura N, Miyoshi N",
+      "date": "2026 10 30",
+      "dateObject": "2026 10 30",
+      "abstract": "",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42959708",
+      "title": "A clinical case series evaluation of cross-linked gelatin foam to treat naturally occurring periodontal pockets and furcation defects in dogs.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Stepaniuk KS, Sievers AM, Lalonde AA",
+      "date": "2026 10 30",
+      "dateObject": "2026 10 30",
+      "abstract": "This clinical case series evaluated periodontal debridement and the application of a biodegradable liquid scaffold composed of a porcine-derived crosslinked gelatin foam for the treatment of naturally occurring furcation defects and combined suprabony and infrabony defects in client-owned dogs. A total of 21 treated sites in 9 client-owned dogs were evaluated. Periodontal probing, intraoral computed radiography (CR), and cone beam computed tomography (CBCT) under general anesthesia were performed. Full-mouth periodontal treatment and closed (13 sites) or open (8 sites) root planing were performed before the application of the flowable scaffold. The mean duration between treatment and recheck was 169 days (with a range of 101-388 days and a median of 167 days). The mean decrease in periodontal pocket depth was 1.9 mm. The mean furcation stage decreased by 1.4, and the treated tooth periodontal stage was reduced by a mean of 0.8.",
+      "categories": []
+    },
+    {
+      "pmid": "42959543",
+      "title": "Clinical outcome and implant accuracy in cervical fractures stabilization using 3D-printed patient-specific drill guides for placement of bicortical screws in 16 dogs.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Manzanedo-Delgado A, Oxley B, Behr S",
+      "date": "2026 10 30",
+      "dateObject": "2026 10 30",
+      "abstract": "To describe the clinical outcome of dogs with cervical fractures undergoing spinal stabilization surgery using 3D-printed patient-specific drill guides, and to evaluate the accuracy of pedicle screw placement with this technique. Retrospective descriptive study. Sixteen dogs. Medical records were searched between August 2015 and January 2025 for dogs with traumatic spinal fracture via CT scan causing signs of cervical myelopathy that underwent spinal stabilization surgery using 3D-printed patient-specific drill guides followed by a postoperative CT scan. Neurological status was graded retrospectively with the Modified Frankel Score (MFS) on presentation, preoperatory on the day of the surgery, postoperatively on the first day after surgery, at hospital discharge and at the follow-up examination performed 4&#x2013;6&#x202f;weeks after surgery, when available. A telephone questionnaire was obtained for the long-term outcome. Sixteen dogs met the inclusion criteria (3/16 grade 2 MFS, 5/16 grade 3 MFS, 7/16 grade 4 MFS and 1/16 grade 5 MFS). Two dogs showed mild minor transient intraoperative complications. Optimal pedicle screw placement was achieved in 85/90 (94.4%) of screws. Twenty-four hours after surgery, the neurological grade remained unchanged in 10/16 dogs, improved in 5/16, and transiently deteriorated in 1/16 dog, which recovered by discharge. Postoperative complications occurred in 10/16 dogs and resolved with medical management in 9/10 cases. Short term follow-up revealed a static stable (6/14) or improved (8/14) neurological grade since discharge. Among the 12 dogs with owner-reported long-term follow-up, all were reported by their owners to be ambulatory and to have improved neurologically. Long-term quality-of-life (5&#x202f;=&#x202f;excellent; 1&#x202f;=&#x202f;poor) was scored by the owners 5/5 in 11/12 (91.7%) dogs and 4/5 in 1/12 (8.3%) dogs. Dogs in this study overall had an improved neurological status and favorable long-term outcomes when follow-up information was available. However, postoperative adverse events, including complications, should be considered when interpreting overall clinical outcome.",
+      "categories": [
+        "surgery",
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "42599030",
+      "title": "Myocardial injury in cats with acute blunt trauma: Prevalence and prognostic implications.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "authors": "Dossi G, Carnevale L, Mismetti M, Borromeo V, Pocar P, Locatelli C",
+      "date": "2026 10 30",
+      "dateObject": "2026 10 30",
+      "abstract": "The aim of the present study was to determine the prevalence of increased serum high-sensitivity cardiac troponin I (hs-cTnI) concentrations in cats with acute blunt trauma and assess associations with trauma severity, clinicopathological variables, echocardiographic findings, and short-term outcome. A total of 39 cats presenting within 48&#x2009;h of blunt trauma were prospectively enrolled. All cats underwent physical examination, Animal Trauma Triage scoring, thoracic radiography, electrocardiography, echocardiography, complete blood count, serum biochemistry, N-terminal pro B-type natriuretic peptide testing, and hs-cTnI measurement. Associations between hs-cTnI concentrations and clinical, laboratory, echocardiographic, and outcome variables were assessed. Receiver operating characteristic (ROC) analysis was performed as an exploratory assessment of prognostic performance. Increased hs-cTnI concentrations were detected in 34/39 (87%) cats (95% confidence interval 72-96). A significant ordinal association was identified between trauma severity and hs-cTnI class (linear-by-linear association, P &#x2009;=&#x2009;0.036), although the overall Fisher-Freeman-Halton test was not significant ( P &#x2009;=&#x2009;0.088). Hs-cTnI concentrations correlated positively with urea, creatinine, neutrophil count, alanine aminotransferase, neutrophil:lymphocyte ratio, blood glucose, end-diastolic interventricular septal, and posterior wall thicknesses, and negatively with end-diastolic left ventricular internal diameter. Increased left ventricular wall thickness was identified in 10/39 cats and was associated with higher hs-cTnI concentrations ( P &#x2009;=&#x2009;0.033). No traumatic cardiac rupture, pericardial effusion, or pleural effusion were observed. Electrocardiographic abnormalities were detected in 6/39 cats and were not associated with hs-cTnI concentrations. Seven cats (18%) died during hospitalization. Increased urea concentration, white blood cell count, and neutrophil count were associated with non-survival. ROC analyses were considered exploratory because of the limited number of outcome events. Increased hs-cTnI concentrations were common in cats with acute blunt trauma and were associated with leukocyte variables, renal function markers, and subtle echocardiographic abnormalities. These findings suggest that hs-cTnI may reflect a multifactorial biological response involving myocardial stress or injury, systemic disease severity, altered renal handling, and possible underlying subclinical cardiac disease. Further studies are needed to clarify the relative contribution and clinical significance of these mechanisms. What happens to the heart after blunt trauma in cats? Cats who experience blunt trauma may develop damage affecting multiple organs, including the heart. Detecting heart involvement can be challenging because clinical signs are often non-specific and may be masked by other traumatic injuries. Cardiac troponin I is a protein released into the bloodstream when heart muscle cells are damaged. High-sensitivity cardiac troponin I (hs-cTnI) tests can detect even small increases in this biomarker and may help identify cardiac involvement in injured cats. This study investigated hs-cTnI concentrations in 39 cats examined within 48&#x2009;h of blunt trauma. Each cat underwent blood testing, electrocardiography, thoracic radiography, and echocardiography. The aim was to determine how commonly hs-cTnI concentrations were increased and whether these increases were associated with injury severity, laboratory findings, heart imaging results, or short-term survival. Increased hs-cTnI concentrations were found in most cats (87%). Higher hs-cTnI concentrations were associated with more severe trauma and with several blood test abnormalities, including leukocyte-related variables and markers of kidney dysfunction. Cats with increased thickness of the left ventricular wall also had higher hs-cTnI concentrations. Severe traumatic cardiac lesions (cardiac rupture or fluid accumulation around the heart) were not detected. Electrocardiographic abnormalities were uncommon and not associated with hs-cTnI concentrations. These findings suggest that increased hs-cTnI concentrations in traumatized cats may be influenced by multiple factors, including myocardial injury, the severity of systemic illness, altered renal handling of the biomarker, and possible pre-existing heart disease. Because baseline cardiac status before trauma was unknown, the relative contribution of these factors could not be determined. Further studies are needed to clarify the causes and clinical significance of increased hs-cTnI concentrations in cats after trauma.",
+      "categories": [
+        "cardiology",
+        "internalMedicine"
+      ]
+    },
     {
       "pmid": "42955828",
       "title": "A species comparison of videofloroscopic metrics of swallowing in healthy dogs and cats.",
@@ -66,15 +126,15 @@
       ]
     },
     {
-      "pmid": "42949437",
-      "title": "Letter regarding \"Pancreatic lymphangioma and concurrent intestinal lymphangiectasia in a dog:\" long-term follow-up and necropsy findings.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Hifumi T, Ishikawa T, Kozuma C, Kozuma M, Kuramoto T, Takahashi M, Miura N, Miyoshi N",
+      "pmid": "42950428",
+      "title": "Antimicrobial resistance and molecular characterization of extended-spectrum &#x3b2;-lactamase/AmpC &#x3b2;-lactamase-producing Proteus mirabilis isolates from companion dogs in South Korea (2018-2024).",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Hwang YJ, Lee YH, Ali MS, Choi JH, Park SC, Moon BY, Lim SK",
       "date": "2026 10 29",
       "dateObject": "2026 10 29",
-      "abstract": "",
+      "abstract": "To investigate antimicrobial resistance profiles and molecular characteristics of third-generation cephalosporin- and cephamycin-resistant Proteus mirabilis isolated from clinically ill dogs across South Korea from 2018 through 2024. Antimicrobial susceptibility of isolates was assessed by broth microdilution. Molecular characteristics were determined by polymerase chain reaction and multilocus sequence typing. In total, 667 P mirabilis were isolated from skin/ear, feces, and urine/reproductive systems of companion dogs. Among them, 27.3% of isolates exhibited a multidrug-resistant (MDR) phenotype. Molecular characterization of 38 extended-spectrum &#x3b2;-lactamase (5.7%)/AmpC &#x3b2;-lactamase-carrying strains revealed a high prevalence of &#x3b2;-lactamase cephamycinase-2 gene blaCMY-2 (65.8%) and &#x3b2;-lactamase cefotaximase gene blaCTX-M variants, including blaCTX-M-65, blaCTX-M-15, and blaCTX-M-90. Multilocus sequence typing identified 16 distinct sequence types (STs), with ST135 (39.5%) and ST212 (21.1%) emerging as the most prevalent lineages. Phylogenetic analysis revealed that the first major cluster contains 31 isolates (81.6%) across 10 STs centered around ST135, whereas the second cluster comprises 7 isolates (18.4%) across 6 STs centered on ST292. Notably, the ST135-centered cluster was associated with robust MDR phenotypes. These findings indicate that companion dogs harboring MDR P mirabilis are among several potential reservoirs within the One Health context. Especially, clone ST135 may serve as a primary evolutionary axis and a high-risk endemic clone within the Korean canine population. Our study highlights the critical role of dominant lineages in dissemination of extended-spectrum &#x3b2;-lactamase/AmpC &#x3b2;-lactamase genes and emphasizes the urgent need for continuous One Health surveillance to monitor potential transmission of these clones between companion animals and humans.",
       "categories": [
-        "internalMedicine"
+        "dermatology"
       ]
     },
     {
@@ -111,6 +171,19 @@
       "categories": []
     },
     {
+      "pmid": "42957413",
+      "title": "Medial Tympanic Membrane Displacement in Five Dogs Resembling Tympanic Membrane Retraction in Humans.",
+      "journal": "Veterinary Dermatology",
+      "authors": "Botelho CB, Ferreira TS, Gmyterco VC, Alves C, Nuttall T, de Farias MR, Fernandes JI",
+      "date": "2026 10 29",
+      "dateObject": "2026 10 29",
+      "abstract": "Five dogs with head tilt, ataxia, incoordination or deafness without a history of otitis externa (OE) were diagnosed with otitis media by computed tomography (CT) or magnetic resonance imaging (MRI). Otoendoscopy showed possible tympanic membrane retraction with opaque, fibrotic membranes and advanced imaging showed middle ear involvement. The clinical significance requires further investigation.",
+      "categories": [
+        "neurology",
+        "dermatology"
+      ]
+    },
+    {
       "pmid": "42949439",
       "title": "Effects of a gluten-free hydrolyzed diet in dogs with paroxysmal dyskinesia: a prospective cohort study.",
       "journal": "Journal of Veterinary Internal Medicine",
@@ -133,18 +206,6 @@
       "categories": [
         "internalMedicine",
         "neurology"
-      ]
-    },
-    {
-      "pmid": "42950428",
-      "title": "Antimicrobial resistance and molecular characterization of extended-spectrum &#x3b2;-lactamase/AmpC &#x3b2;-lactamase-producing Proteus mirabilis isolates from companion dogs in South Korea (2018-2024).",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Hwang YJ, Lee YH, Ali MS, Choi JH, Park SC, Moon BY, Lim SK",
-      "date": "2026 10 28",
-      "dateObject": "2026 10 28",
-      "abstract": "To investigate antimicrobial resistance profiles and molecular characteristics of third-generation cephalosporin- and cephamycin-resistant Proteus mirabilis isolated from clinically ill dogs across South Korea from 2018 through 2024. Antimicrobial susceptibility of isolates was assessed by broth microdilution. Molecular characteristics were determined by polymerase chain reaction and multilocus sequence typing. In total, 667 P mirabilis were isolated from skin/ear, feces, and urine/reproductive systems of companion dogs. Among them, 27.3% of isolates exhibited a multidrug-resistant (MDR) phenotype. Molecular characterization of 38 extended-spectrum &#x3b2;-lactamase (5.7%)/AmpC &#x3b2;-lactamase-carrying strains revealed a high prevalence of &#x3b2;-lactamase cephamycinase-2 gene blaCMY-2 (65.8%) and &#x3b2;-lactamase cefotaximase gene blaCTX-M variants, including blaCTX-M-65, blaCTX-M-15, and blaCTX-M-90. Multilocus sequence typing identified 16 distinct sequence types (STs), with ST135 (39.5%) and ST212 (21.1%) emerging as the most prevalent lineages. Phylogenetic analysis revealed that the first major cluster contains 31 isolates (81.6%) across 10 STs centered around ST135, whereas the second cluster comprises 7 isolates (18.4%) across 6 STs centered on ST292. Notably, the ST135-centered cluster was associated with robust MDR phenotypes. These findings indicate that companion dogs harboring MDR P mirabilis are among several potential reservoirs within the One Health context. Especially, clone ST135 may serve as a primary evolutionary axis and a high-risk endemic clone within the Korean canine population. Our study highlights the critical role of dominant lineages in dissemination of extended-spectrum &#x3b2;-lactamase/AmpC &#x3b2;-lactamase genes and emphasizes the urgent need for continuous One Health surveillance to monitor potential transmission of these clones between companion animals and humans.",
-      "categories": [
-        "dermatology"
       ]
     },
     {
@@ -947,32 +1008,6 @@
       ]
     },
     {
-      "pmid": "42909056",
-      "title": "Case Report: Allogeneic adipose-derived mesenchymal stem cells for severe chronic kidney disease in a dog.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Yu Y, Lv X, Zhou X, Ma Y, Li H, Wang W, Song Y",
-      "date": "2026 10 23",
-      "dateObject": "2026 10 23",
-      "abstract": "This case report explored the clinical improvement and short-term tolerability of allogeneic adipose-derived mesenchymal stem cells (AD-MSCs) in the treatment of severe chronic kidney disease (CKD) in dogs. A 9-year-old female Pomeranian was diagnosed with chronic kidney disease (CKD) caused by acute kidney injury and, after conventional treatment failed, received intravenous infusion of AD-MSCs from healthy donor dogs. The AD-MSCs were aseptically collected, isolated, cultured, characterized, and subjected to microbiological safety testing, and were then administered intravenously at a dose of 3&#x202f;&#xd7;&#x202f;10 6 cells/kg every 2&#x202f;weeks for a total of four infusions, with dexamethasone premedication to reduce the risk of adverse reactions. Following AD-MSC administration and continued conventional care, reductions in serum creatinine and phosphorus and a downward trend in blood urea nitrogen were observed, along with improvements in body weight, body condition score, appetite, and mental status; no adverse events were observed. The results of this case suggest the feasibility and short-term tolerability of allogeneic AD-MSCs for severe CKD in dogs and provide a reference for clinical research on cell-based therapy for canine CKD.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42908898",
-      "title": "Case Report: Concurrent ventricular septal defect, pulmonic stenosis, and intrapulmonary arteriovenous anastomoses in a Korean raccoon dog ( Nyctereutes procyonoides koreensis ).",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Kim S, Kim M, Han JI, Lee K, Yoon H",
-      "date": "2026 10 23",
-      "dateObject": "2026 10 23",
-      "abstract": "A 3-month-old intact male Korean raccoon dog ( Nyctereutes procyonoides koreensis ) was rescued and admitted to the Jeonbuk Wildlife Rescue Center with lethargy, dehydration, and dermatologic lesions consistent with Sarcoptes scabiei infestation. Physical examination detected a grade IV/VI systolic murmur, and thoracic radiography revealed generalized cardiomegaly. Transthoracic echocardiography identified a perimembranous ventricular septal defect (VSD) with left-to-right shunting. Although no distinct structural abnormalities of the pulmonic valve were observed, increased pulmonic flow velocity (3.87&#x202f;m/s), mild pulmonic regurgitation (1.68&#x202f;m/s), and post-stenotic dilation of the main pulmonary artery supported a diagnosis of pulmonic stenosis (PS). Agitated saline contrast echocardiography demonstrated intrapulmonary arteriovenous anastomoses (IPAVAs), with microbubbles appearing in the left heart after the fourth cardiac cycle; this shunting decreased following oxygen supplementation. Five weeks later, thoracic radiography demonstrated a reduction in cardiac silhouette size, although cardiomegaly persisted. Echocardiography demonstrated progression of the VSD to bidirectional shunting. Systolic doming of the pulmonic valve, together with increased pulmonic flow velocity (4.39&#x202f;m/s) and pulmonic regurgitation velocity (2.07&#x202f;m/s), indicated worsening PS. Repeat agitated saline contrast echocardiography revealed microbubbles in the left heart within four cardiac cycles and in the abdominal aorta, indicating a right-to-left shunt component consistent with bidirectional shunting. These findings were attenuated after oxygen supplementation. The Korean raccoon dog subsequently died during anesthetic induction for further diagnostic imaging. Postmortem examination confirmed a perimembranous VSD and type A valvular PS characterized by fused commissures, with concurrent right ventricular hypertrophy, dilation, and interventricular septal thickening. To our knowledge, this case report is the first to describe the concurrence of VSD, PS, and IPAVAs in a Korean raccoon dog. It suggests that progressive PS may contribute to reversal of shunting across a VSD.",
-      "categories": [
-        "cardiology",
-        "surgery",
-        "dermatology"
-      ]
-    },
-    {
       "pmid": "42911314",
       "title": "Serological response to field rabies vaccination in owned dogs in the immune belt of Peninsular Malaysia.",
       "journal": "Veterinary Research Communications",
@@ -1479,18 +1514,6 @@
       ]
     },
     {
-      "pmid": "42867938",
-      "title": "Letter regarding \"ACVIM-endorsed statement: consensus statement and systematic review on guidelines for the diagnosis and treatment of chronic inflammatory enteropathy in dogs\".",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Jablonski SA, Tolbert MK",
-      "date": "2026 10 15",
-      "dateObject": "2026 10 15",
-      "abstract": "",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
       "pmid": "42876319",
       "title": "A New Application of 64 CuCl 2 PET/CT: Imaging of Cats With Mammary Carcinoma.",
       "journal": "Veterinary and Comparative Oncology",
@@ -1959,18 +1982,6 @@
       ]
     },
     {
-      "pmid": "42803120",
-      "title": "EXPRESS: Echocardiographic prevalence and attachment-site patterns of left ventricular bands in cats.",
-      "journal": "Journal of Feline Medicine and Surgery",
-      "authors": "Van den Noortgate G, Zablotski Y, Wess G",
-      "date": "2026 09 28",
-      "dateObject": "2026 09 28",
-      "abstract": "ObjectivesTo determine the echocardiographic prevalence and attachment-site patterns of left ventricular bands (LVBs) in cats and assess whether LVB counts differed by sex, sedation status, or echocardiographic group.MethodsIn this prospective observational study, 200 cats undergoing complete transthoracic echocardiographic examination were evaluated for the presence, number, and attachment-site patterns of LVBs. LVBs were defined as discrete intracavitary linear structures connecting two myocardial structures within the left ventricle without insertion into the mitral valve leaflets. Each visible connection was classified according to predefined attachment-site categories. For the phenotype comparison, cats with normal LV wall thickness or focal insertion-site thickening (n = 89) were compared with cats with a hypertrophic cardiomyopathy (HCM) phenotype (n = 86).ResultsA total of 884 LVBs were identified. At least one LVB was detected in 199/200 cats, yielding an echocardiographic prevalence of 99.5%. The median number was 4 LVBs per cat (range 0-10). The most frequently observed attachment patterns involved the interventricular septum and papillary muscle or accessory papillary muscle-like structures. Overall, 51.9% of LVBs had at least one septal attachment, and 94.3% involved a papillary muscle or accessory papillary muscle-like structure. LVB counts did not differ by sex (P = 0.47), sedation status (P = 0.26), or between the normal/focal insertion-site thickening and HCM phenotype groups (P = 0.98).Conclusions and relevanceLeft ventricular bands were identified in nearly all cats examined and represent a common echocardiographic finding. Most involved septal and papillary muscle-related attachment sites. Sex and sedation status were not significantly associated with LVB number, and no significant difference was identified between the combined normal/focal insertion-site thickening group and the HCM phenotype group. These findings provide a reference framework for the echocardiographic recognition and classification of LVBs in cats under clinical imaging conditions.",
-      "categories": [
-        "cardiology"
-      ]
-    },
-    {
       "pmid": "42767337",
       "title": "De Ritis ratio and L-FABP as supportive biomarkers of hepatic involvement in cats with effusive FIP.",
       "journal": "Topics in Companion Animal Medicine",
@@ -2356,18 +2367,6 @@
       "abstract": "Otitis externa (OE) represents a common clinical problem in dogs. Allergic dogs exhibit reduced diversity of the otic microbiota, and inflammation-induced changes in the ear canal microenvironment result in a further decline in microbial biodiversity. Probiotics have demonstrated efficacy in certain dermatological conditions, including atopic dermatitis, which is, in turn, the leading primary cause of OE in dogs. To evaluate the efficacy of probiotic-based ear drops in controlling clinical signs related to erythroceruminous non-infected OE in dogs. Thirty-seven privately owned dogs with non-infected OE. Dogs received probiotic-based ear drops topically every 48 h for 28&#x2009;days, in accordance with the manufacturer's instructions. Assessments were performed at enrolment (Day [D]0), D14 and D28, including cytological evaluation of ear discharge, pruritus intensity (PVAS, pruritis Visual Analogue Scale), severity of otic lesions (OTIS3, 0-3 Otitis Index Score) and a quality-of-life survey (QoL). At enrolment (D0), mean OTIS3 and PVAS scores for all included animals were 5.11 &#xb1;&#x2009;1.20 and 4.93 &#xb1;&#x2009;1.51, respectively. Both scores decreased significantly by D28, to 1.66 &#xb1;&#x2009;1.75 and 2.09 &#xb1;&#x2009;2.03, respectively. Clinical improvement was evident regardless of concomitant medication use or the type of micro-organism's overgrowth observed during the initial cytological assessment. Owner-reported QoL improved in 80% of the dogs. These probiotic-based ear drops may be a useful adjunctive therapy in cases of canine non-infectious erythroceruminous OE.",
       "categories": [
         "internalMedicine",
-        "dermatology"
-      ]
-    },
-    {
-      "pmid": "42311196",
-      "title": "Therapeutic Outcomes and Owner Assessment in Canine Sebaceous Adenitis Across Breeds: A Multicentre Retrospective Analysis and Owner Survey.",
-      "journal": "Veterinary Dermatology",
-      "authors": "Batt H, Griffin J, Daniels MW, Miller J",
-      "date": "2026 09 11",
-      "dateObject": "2026 09 11",
-      "abstract": "Sebaceous adenitis (SA) is an idiopathic dermatological condition with numerous treatment modalities and variable clinical outcomes. No studies have compared breed response to therapies or evaluated owner perception of the disease. Goals of this retrospective analysis were to evaluate response to therapy in dogs with SA, identify if breed or treatment modality impacted therapeutic outcome and assess owner perception of response to implemented therapies. Medical records over a 10-year period from a multicentre veterinary dermatology group were evaluated and an owner survey was conducted. Response to therapy was based on percentage reduction in medication scores at the start of treatment compared to maintenance and the number of flares after attaining maintenance. Time to maintenance was calculated for each treatment modality category. Owner survey responses were compared to objective clinical response categories. One hundred and twenty-two dogs with SA were included; 35 respondents completed the survey. The number of cases in objective clinical response categories were as follows: excellent in 23 cases (18.9%), good in 36 (29.5%), fair in 26 (21.3%), no improvement in 13 (10.7%) and progressive in 23 (18.9%). Medication score differences by breed were not statistically significant (p-value 0.114). Dogs treated with multimodal therapy achieved maintenance the fastest. Thirty-nine percent of dogs experienced a flare after reaching maintenance. Owner perceptions did not align significantly with objective response categories. In SA, therapeutic outcomes cannot be predicted based on breed or treatment modality, confirming the need for tailored case management and medication adjustments based on individual treatment response.",
-      "categories": [
         "dermatology"
       ]
     },

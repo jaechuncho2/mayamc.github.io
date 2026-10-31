@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T01:05:45.598Z",
+  "updated_at": "2026-10-31T00:49:19.846Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -7775,6 +7775,38 @@
       "title": "A species comparison of videofloroscopic metrics of swallowing in healthy dogs and cats.",
       "journal": "Journal of Veterinary Internal Medicine",
       "generated_at": "2026-10-30T01:02:05.294Z",
+      "model": "gpt-5-mini"
+    },
+    "42957413": {
+      "brief_summary": "OE(otitis externa) 병력이 없는 머리 기울기, 운동실조, 비조화 또는 청력장애를 보인 5마리의 개에서 CT 또는 MRI로 중이염(otitis media, OM)이 진단되었다. Otoendoscopy에서는 고막(tympanic membrane, TM)의 내측 함몰(유사한 재흡수 소견)로 보이는 불투명·섬유화된 막이 관찰되었다. 고급 영상검사에서 중이 침범이 확인되었으며 소견이 인간의 고막 함몰(tympanic membrane retraction)과 유사함을 보고한다. 이러한 소견의 임상적 의의는 추가 연구가 필요하다.",
+      "detailed_summary": "본 논문은 OE 병력이 없는 증상 있는 개 5마리를 대상으로 한 증례 보고로, 주요 임상징후는 머리 기울기, 운동실조, 비조화 또는 청력장애였다. 진단은 컴퓨터단층촬영(CT) 또는 자기공명영상(MRI)을 통해 이루어졌고, 영상에서 중이 침범 소견이 확인되어 중이염으로 진단되었다. Otoendoscopy 검사에서는 고막(Tympanic membrane, TM)이 내측으로 함몰된 것처럼 보이는 소견과 함께 불투명하고 섬유화된 막이 관찰되었다. 핵심 결과는 5건 모두에서 영상 및 내시경 소견이 인간의 고막 재흡수(tympanic membrane retraction)와 유사하게 나타났다는 점이다. 저자들은 이러한 소견이 중이 침범과 관련됨을 제시하지만, 증례 수가 적고 연구 설계상 한계로 인해 인과관계나 일반화는 할 수 없다고 명시한다. 따라서 이 소견의 임상적 중요성과 병태생리는 추가적인 연구로 규명해야 한다.",
+      "title": "Medial Tympanic Membrane Displacement in Five Dogs Resembling Tympanic Membrane Retraction in Humans.",
+      "journal": "Veterinary Dermatology",
+      "generated_at": "2026-10-31T00:49:19.822Z",
+      "model": "gpt-5-mini"
+    },
+    "42959543": {
+      "brief_summary": "본 후향적 서술연구는 2015–2025년 사이 외상성 경추 골절로 CT에서 확인된 16마리 개를 대상으로 3D 프린팅 환자 맞춤 드릴 가이드를 이용해 양피질(bicortical) 페디클 스크류를 삽입한 척추 고정술의 임상경과와 스크류 삽입 정확도를 평가했다. 총 90개 스크류 중 85개(94.4%)가 최적 위치였고, 수술 24시간 후 신경학적 상태는 10/16에서 변함없음, 5/16에서 호전, 1/16에서 일시적 악화(퇴원 시 회복)였다. 단기 및 장기 추적에서 대부분 신경학적 호전 또는 안정이 관찰되었고, 장기 소유주 보고(12마리)에서는 모두 보행 가능 및 호전으로 보고되며 삶의 질 평가는 11/12에서 5/5였다. 다만 수술 후 합병증은 10/16에서 발생했고 대부분(9/10)은 보존적(약물) 치료로 해결되어 합병증 가능성을 고려해야 한다.",
+      "detailed_summary": "연구는 2015년 8월부터 2025년 1월까지 외상성 경추 골절로 CT상 신경증상을 보인 개들을 대상으로 한 후향적 서술연구로, 16마리(Modified Frankel Score, MFS 기준: grade 2 n=3, grade 3 n=5, grade 4 n=7, grade 5 n=1)가 포함되었다. 수술에는 3D 프린팅 환자 맞춤 드릴 가이드를 사용하여 양피질(bicortical) 페딜클/페디클 스크류를 삽입하였고, 삽입 정확도 평가는 수술 후 CT로 시행되었다. 총 90개 스크류 중 85개(94.4%)가 ‘최적’ 위치로 평가되었고, 수술 중에는 2마리에서 경미하고 일시적인 합병증이 보고되었다. 수술 24시간 후 신경학적 평가는 10/16에서 변함없음, 5/16에서 호전, 1/16에서 일시적 악화를 보였으나 이 개체는 퇴원 시 회복되었다. 수술 후 합병증은 10/16에서 발생했으며 이 중 9/10은 약물치료 등 보존적 처치로 해결되었다. 단기 추적(4–6주)에서는 14마리 중 6마리가 안정적, 8마리가 호전되었고, 장기 소유주 보고가 가능한 12마리 모두 보행 가능하며 신경학적 호전이 보고되었고 삶의 질 평가는 11/12가 5/5, 1/12가 4/5로 평가되었다. 결론적으로 추적 정보가 있는 개들에서는 전반적으로 신경학적 호전 및 양호한 장기 결과가 관찰되었으나, 연구는 후향적 서술연구이고 장기 결과의 일부는 소유주 보고에 의존한다는 점과 수술 후 합병증 발생을 함께 고려해야 한다.",
+      "title": "Clinical outcome and implant accuracy in cervical fractures stabilization using 3D-printed patient-specific drill guides for placement of bicortical screws in 16 dogs.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-10-31T00:49:10.368Z",
+      "model": "gpt-5-mini"
+    },
+    "42959708": {
+      "brief_summary": "이 증례 시리즈는 자연 발생한 치근분기부(furcation) 결손 및 상부·하부 혼합 치주낭을 가진 반려견에서 돼지 유래 교차결합 젤라틴 폼(유동성 생체지지체)을 치주 제거술 후 적용해 평가했다. 총 9마리의 클라이언트 소유 개에서 21개 부위를 치료했으며 평균 재검 간격은 169일(범위 101–388일)이었다. 평균 치주낭 깊이는 1.9 mm 감소했고, 치근분기부 단계는 평균 1.4단계, 치료치의 치주 단계는 평균 0.8단계 감소했다. 증례군에서 치료 후 구조적 개선이 관찰되었으나 증례 시리즈라는 점을 고려해야 한다.",
+      "detailed_summary": "연구는 클라이언트 소유 개 9마리, 총 21개 치료 부위를 대상으로 한 임상 증례 시리즈이다. 전신마취 하에 치주 탐침(probing), 구강 내 방사선(Computed Radiography, CR) 및 콘빔 CT(CBCT)를 이용해 평가했고, 전구강 치주 치료와 함께 폐쇄형 루트플래닝 13개 부위 및 개방형 루트플래닝 8개 부위를 시행한 뒤 돼지 유래 교차결합 젤라틴 폼(유동성 생체지지체)을 적용했다. 재검은 평균 169일(중앙값 167일, 범위 101–388일) 후에 이루어졌고 주요 결과는 치주낭 깊이 평균 1.9 mm 감소, 치근분기부 단계 평균 1.4단계 감소, 치료치 치주 단계 평균 0.8단계 감소로 보고되었다. 연구는 치료 후 치주 상태의 개선 방향을 제시하지만 무작위대조나 대조군이 없는 증례 시리즈라는 설계적 한계가 있다. 표본 수가 9마리(21부위)로 제한적이며 초록에 제시된 결과만으로 일반화할 수 없다는 점을 명확히 해야 한다. 임상적으로는 본 술식이 자연 발생 치근분기부 및 혼합성 치주 결손에서 적용 가능성을 보였으나 추가적인 대규모·비교 연구가 필요하다.",
+      "title": "A clinical case series evaluation of cross-linked gelatin foam to treat naturally occurring periodontal pockets and furcation defects in dogs.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-10-31T00:48:47.790Z",
+      "model": "gpt-5-mini"
+    },
+    "42960979": {
+      "brief_summary": "본 연구는 개 389마리(암 85, 비악성 질환 77, 건강 대조 227)를 대상으로 혈액 내 소형 RNA를 시퀀싱해 miRNA와 기타 소형 RNA를 결합한 기계학습 기반 암 선별 성능을 평가했다. miRNA만 사용한 모델에 비해 miRNA와 기타 소형 RNA를 통합한 모델이 중앙값 AUC(0.926, 95% CI 0.911–0.944)로 더 높은 성능을 보였고(miRNA만 모델 AUC 0.881, 95% CI 0.860–0.897; Wilcoxon P < .001) 암 판별 능력이 향상되었음을 시사한다. 임상적으로는 다양한 소형 RNA를 통합한 액체생검 접근이 개 암 스크리닝 모델의 성능을 개선할 잠재력이 있으나 독립 코호트의 전향적 검증이 필요하다.",
+      "detailed_summary": "연구진은 혈액 샘플에서 소형 RNA를 시퀀싱하고 miRBase를 통한 miRNA 프로파일과 사용자 정의 데이터베이스(custom database)를 통한 기타 소형 RNA 프로파일을 작성했다. 총 389마리의 개(암 85, 비악성 질환 77, 건강 227)를 대상으로 두 가지 데이터셋(① miRNA만, ② miRNA+기타 소형 RNA)을 준비했다. 각 데이터셋별로 동일한 방법으로 12개의 분류 모델을 구성하고 5-겹 교차검증을 적용해 성능을 비교했다. 주요 평가지표는 수신자 조작 특성 곡선 아래 면적(AUC)을 사용했다. miRNA와 기타 소형 RNA를 통합한 모델의 중앙값 AUC는 0.926(95% CI 0.911–0.944)로, miRNA만 모델의 중앙값 AUC 0.881(95% CI 0.860–0.897)보다 유의하게 높았으며(Wilcoxon 서명순위검정 P < .001) 이는 통합 프로파일이 악성 종양 분류 능력을 향상시켰음을 나타낸다. 결론적으로 다양한 소형 RNA 종의 통합은 개의 암 스크리닝용 기계학습 모델 성능을 개선할 수 있음을 시사하나, 저자들은 독립 코호트에서의 전향적 검증이 추가로 필요하다고 명시했다.",
+      "title": "Novel liquid biopsy based on comprehensive small RNA profiling for screening of cancer in dogs utilizing machine learning.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-10-31T00:48:31.635Z",
       "model": "gpt-5-mini"
     }
   }
