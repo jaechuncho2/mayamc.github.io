@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T00:49:19.846Z",
+  "updated_at": "2026-11-01T00:10:41.847Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -3265,6 +3265,14 @@
       "generated_at": "2026-08-02T07:16:39.386Z",
       "model": "gpt-5-mini"
     },
+    "42542129": {
+      "brief_summary": "본 연구는 2023년 1~6월에 Michigan State University 진단검사실에 제출된 잔여 혈청을 이용한 후향적 연구로, 유윤견(euthyroid), 자가면역 갑상선염(갑상선글로불린 자가항체, TgAA 양성) 및 갑상선저하증 개에서 혈청의 총 요오드 및 무기 요오드 농도를 규명하는 것을 목적으로 했다. 총요오드와 무기요오드 농도는 유윤견과 비교했을 때 자가면역 갑상선염 또는 갑상선저하증에서 증가하지 않았고 전체 농도 분포는 넓게 나타났다. 연구 결과는 혈청 내 요오드 농도 단독으로는 개의 갑상선 질환 마커로 사용되기 어렵다는 임상적 시사점을 제공한다.",
+      "detailed_summary": "후향적 연구로, 2023년 1~6월 제출된 잔여 혈청 샘플을 활용하여 검사하였다. 대상은 자가면역 갑상선염(갑상선글로불린 자가항체로 판정, n = 101), 갑상선저하증(n = 97), 유윤견(n = 86)이었다. 총요오드 및 무기요오드 농도는 유도 결합 플라즈마 질량분석기(inductively coupled plasma–mass spectrometer, ICP-MS)로 측정되었다. 유윤견 결과를 바탕으로 무기 및 총요오드의 추정 참고구간을 산출하였다. 전체적으로 혈청 요오드 농도는 넓게 분포했으나, 자가면역 갑상선염이나 갑상선저하증에서 유윤견보다 농도가 증가하지는 않았다. 또한 총요오드와 무기요오드 모두에서 자가면역 갑상선염군과 갑상선저하증군 간에는 통계적으로 유의한 차이가 있었으나, 요오드 농도만으로는 갑상선 질환을 판별할 수 없다는 결론을 제시하였다.",
+      "title": "Serum iodine concentrations in euthyroid dogs and dogs with autoimmune thyroiditis and hypothyroidism.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-11-01T00:10:14.555Z",
+      "model": "gpt-5-mini"
+    },
     "42542130": {
       "brief_summary": "전고관절 치환술(THR)을 받은 개에서 보철주위 대퇴골 골절(PFF) 및 대전자 절골술(GTO)을 락킹 근위 대퇴 해부학적 플레이트로 고정한 결과를 의무기록으로 검토했다. 총 11마리(골절 8마리, GTO 3마리)가 포함되어 모든 PFF에서 방사선학적 골유합과 완전 기능 회복이 관찰되었고, GTO에서는 2건 완전 치유, 1건 지연유합(12주에 안정적)으로 모두 기능적 결과가 양호했다. 단일 대퇴골군의 주요 합병증 1건은 더 큰 플레이트로 재수술하여 해결되었으며, 연구결론은 해당 플레이트가 적절한 고정을 제공했다는 것이다.",
       "detailed_summary": "연구진은 2023년 8월부터 2026년 2월까지 THR을 받은 개 중 PFF 또는 예정된 GTO를 락킹 근위 대퇴 해부학적 골판으로 고정한 증례의 의무기록과 방사선 영상을 후향적으로 검토했다. 두 번째 플레이트를 사용한 경우, 기존 수술 부위 감염이 있거나 수술 시 THR 임플란트를 제거한 경우는 제외되었다. 총 11마리(8마리 PFF, 3마리 GTO)가 포함되었고, PFF군의 중앙연령은 7.5세(범위 2–12.5세), GTO군은 중앙연령 2세(범위 1–9세)였다. PFF 중 3건은 수술 중 발생했고 5건은 수술 후 30일 미만에 발생했다. 치료 결과는 모든 PFF에서 방사선적 골유합과 완전한 기능 회복을 보였고, GTO는 2건 완전 치유, 1건은 12주 시점에 지연유합이었으나 안정적이었으며 모두 완전 또는 수용 가능한 기능을 보였다. 주요 합병증은 PFF군에서 1건 발생하여 더 큰 플레이트로 재수술하였고 성공적으로 해결되었다. 저자들은 락킹 근위 대퇴 해부학적 골판이 본 증례들에서 충분한 고정과 성공적 결과를 제공했다고 결론지었으나, 표본 수가 적은 증례군임을 고려해야 한다.",
@@ -3279,6 +3287,14 @@
       "title": "Reference intervals for myocardial T1, T2, and extracellular volume in clinically normal dogs and cats at 3-Tesla magnetic resonance imaging: a single-center study.",
       "journal": "American Journal of Veterinary Research",
       "generated_at": "2026-08-04T06:42:19.291Z",
+      "model": "gpt-5-mini"
+    },
+    "42542133": {
+      "brief_summary": "이 검토논문은 반려동물에서의 카바페넴분해효소 생성 카바페넴내성 엔테로박테리아속(CP-CRE)의 임상·분자 역학을 종합하고, 진단·감시·수의학적 감염예방·통제(IPC) 분야의 주요 공백과 연구 우선순위를 제시한다. 저자들은 CP-CRE 감염이 반려동물에서는 비교적 드물지만 수의병원 내 집단 발생이 증가하고 사람과 동물 간 전파를 시사하는 근거가 있다고 보고했다. 임상적 의미로는 진단·감시체계의 단편화와 IPC 시행의 구조적·문화적 장벽으로 인해 반려동물에서의 조기 탐지와 통제가 어렵고, 이를 보완하기 위한 연구와 인프라 개선이 시급하다고 결론지었다.",
+      "detailed_summary": "이 논문은 문헌 검토를 통해 반려동물에서의 CP-CRE의 임상 및 분자 역학을 종합했다. 저자들은 CP-CRE 감염이 반려동물에서 상대적으로 드물지만 수의병원에서의 집단 발생 보고가 증가하고 있으며, 사례보고와 역학 연구가 사람–동물 간 전파 가능성을 지지한다고 밝혔다. 주요 지식 공백으로는 반려동물의 실제 보균률(prevalence) 미확인, 보균의 종적(longitudinal) 동태 미정의, 병원 및 지역사회에서의 획득 위험요인 불충분한 규명이 포함된다. 수의학적 IPC 시행에는 구조적·문화적 제약이 존재하고, 수의 환경에 특화된 근거기반 최선실무가 부족하다고 지적했다. 진단·감시 인프라는 단편화되어 카바페넴분해효소 검사 가용성이 일관되지 않고 의무보고가 제한적이며 집단발생을 신속히 탐지·대응할 역량이 미흡하다고 보고되었다. 결론적으로 논문은 진단·감시·IPC에서의 공백을 메우기 위한 연구 우선순위를 제시하며 반려동물 내 CP-CRE 관리를 강화하는 것이 One Health 차원에서 필요하다고 강조한다. 또한 동반 저널 글(Granick 등, JAVMA, 2026)은 임상적 함의와 수의사가 확산을 줄이기 위한 실무 전략을 다루고 있다.",
+      "title": "Improvements in knowledge and detection of carbapenemase-producing Enterobacterales transmission in companion animals will strengthen prevention across the One Health spectrum.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-11-01T00:09:56.390Z",
       "model": "gpt-5-mini"
     },
     "42542763": {
@@ -7807,6 +7823,30 @@
       "title": "Novel liquid biopsy based on comprehensive small RNA profiling for screening of cancer in dogs utilizing machine learning.",
       "journal": "Journal of Veterinary Internal Medicine",
       "generated_at": "2026-10-31T00:48:31.635Z",
+      "model": "gpt-5-mini"
+    },
+    "42963125": {
+      "brief_summary": "자연감염된 Lynxacarus radovskyi(모낭 진드기)에 감염된 반려묘 20마리를 대상으로 경구용 lotilaner의 기생충학적·임상적 효능을 평가한 연구이다. 처치군(10마리)은 D0과 D30에 lotilaner를 투여했으며, D7부터 기생충 점수가 유의하게 감소했고(p=0.0033) 미트 수는 D35에 98.0%, D42 이후 100% 감소했다. 가려움과 피부병변 점수도 유의하게 개선되어(p=0.0117) 두 차례 투여로 빠른 기생충 제거와 임상적 호전이 관찰되었다.",
+      "detailed_summary": "전향적·종적 병렬군 연구로 총 20마리의 자연감염 반려묘를 처치군(n=10)과 비처치 대조군(n=10)으로 배정하여 실시했다. 처치군은 D0과 D30에 경구 lotilaner를 투여했으며 D0부터 D63까지 7일 간격으로 세 부위에서 시행한 털도말(trichogram)과 반정량적 척도로 기생충학적 평가를 수행했다. 처치군은 D7부터 기생충 점수가 유의하게 감소했고(p=0.0033) 비처치군은 지속적으로 감염 상태가 유지되었다. 미트 수 감소율은 D35에 98.0%에 도달했으며 D42 이후에는 100%로 보고되었다. 임상적 지표인 가려움 및 피부 병변 점수도 기저치 대비 유의하게 감소하였다(p=0.0117). 초록에는 연구의 제한점이 명시되어 있지 않다.",
+      "title": "Efficacy of Oral Lotilaner in Controlling Clinical Signs in Cats Naturally Infested With Lynxacarus radovskyi.",
+      "journal": "Veterinary Dermatology",
+      "generated_at": "2026-11-01T00:10:41.830Z",
+      "model": "gpt-5-mini"
+    },
+    "42963937": {
+      "brief_summary": "본 연구는 개 구강 흑색종(canine oral melanoma) 환자에서 얻은 저패시지(patient‑derived) 이질적 세포배양주를 확립하고 방사선 반응을 평가한 증명적 연구이다. 배양주는 형태학적 이질성과 줄기세포 관련 표지자(CD133+CD44+: 50.53% ± 5.05%, CD133−CD44+: 30.93% ± 7.21%)를 보였고, xenograft 모델에서 종양원성이 확인되었다. 10 Gy 조사에서는 0 Gy 대비 세포 생존성·증식·이동성이 유의하게 감소하고 조기 apoptosis 및 DNA 손상이 유의하게 증가(p<0.006)했으며, 클로노제닉 생존곡선은 선형‑이차(Linear‑Quadratic) 모델에서 벗어나 비전형적 방사선 반응을 시사했다. 이 배양주는 개 구강 흑색종의 in vitro 방사선 연구에 유용할 수 있으나 추가 환자유래 배양주 및 임상 반응과의 비교 검증이 필요하다.",
+      "detailed_summary": "연구 설계는 환자 유래 종양조직으로부터 저패시지(patient‑derived) 이질적 세포배양을 확립하고 0, 2, 10 Gy의 방사선 조건에서 다양한 in vitro 반응을 평가한 증명적 연구이다. 대상은 개 구강 흑색종 환자에서 얻은 단일 종양조직 유래 배양주로, 형태학적 이질성과 줄기세포 관련 표지자 발현(CD133+CD44+: 50.53% ± 5.05%, CD133−CD44+: 30.93% ± 7.21%)이 확인되었다. 종양원성은 xenograft(이종이식) 모델에서 검증되었다. 평가 항목은 클로노제닉 생존, 세포 생존성, 증식, 조기 apoptosis, DNA 손상, 이동 및 침윤 등이다. 결과는 10 Gy가 0 Gy에 비해 세포 생존성·증식·이동을 유의하게 감소시키고 조기 apoptosis와 DNA 손상을 유의하게 증가시켰으며(모두 p<0.006), 이러한 효과는 일반적으로 2 Gy보다 10 Gy에서 더 뚜렷했다. 한편 클로노제닉 생존곡선은 선형‑이차(Linear‑Quadratic) 모델에서 벗어나 이질적 세포집단에서 비전형적 방사선 반응을 시사하였다. 결론적으로 저패시지 환자유래 이질 배양주는 개 구강 흑색종의 방사선 반응 연구에 실용적이고 생물학적 정보를 제공할 수 있으나, 추가 환자유래 배양주와 실제 임상 방사선 반응과의 비교를 통한 검증이 필요하다는 중요한 제한점이 있다.",
+      "title": "Characterization and in Vitro Radiation Response Analysis of Patient-Derived Heterogeneous Cells From Canine Oral Melanoma.",
+      "journal": "Veterinary and Comparative Oncology",
+      "generated_at": "2026-11-01T00:09:28.640Z",
+      "model": "gpt-5-mini"
+    },
+    "42964095": {
+      "brief_summary": "10세 중성화 수컷 몰티즈에서 발생한 apocrine gland anal sac adenocarcinoma (AGASACA)의 증례보고로, 18F-FDG PET/CT를 이용한 영상 소견과 SUVmax를 보고하였다. 전산화단층촬영 포함 양전자방출단층촬영(18F-FDG PET/CT)에서 원발종양(SUVmax 7.3)과 내부장골 림프절(SUVmax 6.35), 요추 대동맥 림프절(SUVmax 4.3)의 FDG 섭취 증가가 관찰되어 원격 전이는 없었고 병기는 IIIa로 분류되었다. 수술적 림프절 절제 및 우측 항낭 절제 후 조직검사에서 원발부와 절제된 림프절에서 전이가 확인되어 PET/CT가 수술 전 림프절 병기 설정에 보완적 대사 정보를 제공할 수 있음을 시사한다.",
+      "detailed_summary": "본 연구는 10세 중성화 수컷 몰티즈 한 마리를 대상으로 한 AGASACA 증례보고이다. 수술 전 18F-FDG PET/CT 검사에서 원발 항낭 종괴는 SUVmax 7.3, 내부장골 림프절은 SUVmax 6.35, 요추 대동맥 림프절은 SUVmax 4.3로 FDG 섭취 증가를 보였고 원격 전이는 관찰되지 않아 병기는 IIIa로 판정되었다. 영상 소견을 근거로 복강내 림프절 절제술과 우측 항낭 절제술을 시행하였다. 조직검사에서 원발 부위는 AGASACA로 확인되었고, 절제된 림프절에서도 형태학적으로 유사한 전이성 선암종이 확인되었다. 저자들은 AGASACA에서 조직학적 확증이 있는 림프절 전이가 확인된 상태에서 18F-FDG PET/CT 소견과 SUVmax 수치를 보고한 최초의 사례라고 명시하였다. 이 증례는 PET/CT가 수술 전 림프절 병기 설정에 보완적 대사 정보를 제공할 수 있음을 시사하지만, 단일 증례라는 점에서 일반화에는 제한이 있다.",
+      "title": "Case Report: 18 F-FDG PET/CT findings and SUVmax characterization in a dog with apocrine gland anal sac adenocarcinoma.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-11-01T00:09:01.377Z",
       "model": "gpt-5-mini"
     }
   }
