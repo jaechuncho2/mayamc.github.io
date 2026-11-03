@@ -1,6 +1,94 @@
 {
-  "updated_at": "2026-11-02T00:45:58.380Z",
+  "updated_at": "2026-11-03T02:55:42.913Z",
   "papers": [
+    {
+      "pmid": "42969556",
+      "title": "Bendamustine induces peripheral lymphodepletion in dogs with relapsed lymphoma.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Lenz JA, Upton L, Ma J, Talone MM, Peng B, Jiang L, Ghanian A, Didehvar D, Yang E, Fraietta JA, Atherton MJ",
+      "date": "2026 11 02",
+      "dateObject": "2026 11 02",
+      "abstract": "Chimeric antigen receptor (CAR) T-cell therapy has improved outcomes for many human patients with B-cell lymphoma and provides a rational template for analogous canine patients. To date, the expansion, persistence, and activity of CAR T cells in dogs have been limited. Lymphodepletion supports CAR T-cell engraftment and antitumor activity. In human medical oncology, bendamustine has emerged as a well-tolerated lymphodepleting agent. However, prospective use of bendamustine for dogs with lymphoma has not been characterized. To determine the lymphodepleting activity and tolerability of bendamustine in dogs with relapsed lymphoma. Secondary objectives included monitoring serum cytokines and short-term changes in peripheral tumor burden. Eleven client-owned dogs with relapsed lymphoma. Luminescent assays were used to assess the direct cytotoxic activity of bendamustine against canine lymphoid cell lines. A prospective rapid dose-escalation pilot trial was undertaken in 11 dogs with relapsed lymphoma to evaluate tolerability while tracking peripheral lymphocyte counts, serum cytokine concentrations, and lymph node measurements. Bendamustine induced concentration-dependent cytotoxicity in all cell lines tested. Two-dose bendamustine regimens up to 90&#xa0;mg/m2 were generally well tolerated, with no dose-limiting toxicities observed, and resulted in peripheral lymphodepletion (pretreatment median, 880 cells/&#x3bc;L; posttreatment median, 310 cells/&#x3bc;L), an exploratory decrease in circulating interleukin-6 (pretreatment median, 5.32&#xa0;pg/mL; posttreatment median, 1.33&#xa0;pg/mL), and a short-term decrease in peripheral nodal burden in 8 of 11 dogs. Bendamustine was generally well tolerated and induced lymphodepletion in our cohort. These findings support further evaluation of bendamustine as a preconditioning agent before autologous canine CAR T-cell infusion.",
+      "categories": [
+        "internalMedicine",
+        "oncology"
+      ]
+    },
+    {
+      "pmid": "42968181",
+      "title": "First detection of Leishmania infantum in dogs and wild-caught Culicoides oxystoma in Hainan Province, Southern China.",
+      "journal": "BMC Veterinary Research",
+      "authors": "Manathunga T, Carbonara M, Bezerra-Santos MA, Jimale KA, Mendoza-Roldan JA, Lia RP, Yu H, Chen P, Han Q, Otranto D, Barrs VR",
+      "date": "2026 11 01",
+      "dateObject": "2026 11 01",
+      "abstract": "Leishmaniases are neglected parasitic diseases expanding globally. In China, Leishmania infantum, which isendemic in the west, has reemerged and spread to the central part of the country, raising concerns about further potential expansion. Given limited data from southern China, this study investigated the presence of Leishmania spp. infection in dogs and potential vectors in Haikou, Hainan, China's southernmost Province. Blood, conjunctival swabs, and lymph node aspirates were collected from 52 dogs at two shelters, where an entomological survey using CDC light traps was also performed. Leishmania DNA was amplified by kDNA and ITS1 PCR. A commercial rapid test (SNAP &#xae; Leish 4Dx &#xae; ; IDEXX, USA) and immunofluorescence antibody test (IFAT) were used to detect antibodies against L. infantum. Insects were morphologically and molecularly identified, and tested for Leishmania by ITS1 PCR and sequencing. Phylogenetic relationships were inferred using maximum likelihood and neighbour-joining trees constructed in MEGA X. Overall, 4 of 52 dogs (7.7%) tested serologically (n&#x2009;=&#x2009;3) or molecularly (n&#x2009;=&#x2009;1, conjunctival swab by kDNA PCR) positive for Leishmania species. Two dogs tested positive for antibodies on the commercial rapid test, including one with generalized lymphadenomegaly, and a third dog was IFAT positive (1:160). No sand flies and 1568 Culicoides were captured. Leishmania DNA sequences (10 L. infantum, 1 L. tarentolae) were detected in 11/224 non-engorged female Culicoides oxystoma and clustered within their corresponding phylogenetic clades. This study provides the first evidence of Leishmania spp. DNA and antibodies in dogs and L. infantum and L. tarentolae DNA in biting midges from Hainan Province. Ongoing surveillance of competent vectors and dogs in this region is advocated.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42968180",
+      "title": "Intraoperative indocyanine green fluorescence in canine meningioma: macroscopic visualization, immediate MRI correlation, and clinical outcomes : a case series.",
+      "journal": "BMC Veterinary Research",
+      "authors": "Kim Y, Choi M, Kim Y, Kim HY",
+      "date": "2026 11 01",
+      "dateObject": "2026 11 01",
+      "abstract": "Meningioma is the most common primary intracranial neoplasm in dogs, frequently presenting with seizures and focal neurological deficits. While indocyanine green (ICG) near-infrared (NIR) fluorescence is increasingly used in human neurosurgery, systematic data regarding the macroscopic fluorescence emitted by accumulated ICG in canine meningiomas remain scarce. This case series aimed to evaluate the fluorescent signals emitted from the tumors, correlate intraoperative findings using immediate post-operative contrast-enhanced magnetic resonance imaging (MRI), and report the clinical outcomes and post-operative management following fluorescence-guided surgery (FGS). Six client-owned dogs (median age: 13 years) with histologically confirmed meningiomas were evaluated. ICG was administered intravenously (2.5-5.0&#xa0;mg/kg, median dose: 4.5&#xa0;mg/kg) 6 to 24&#xa0;h prior to surgery. FGS was performed using an ultrasonic aspirator and a dedicated fluorescence imaging system. Distinct margin fluorescence was observed in all 6 cases (100%), allowing for real-time differentiation between tumor tissue and grossly normal brain parenchyma during resection. Immediate post-operative T1-weighted contrast-enhanced MRI demonstrated 100% concordance with intraoperative wound bed fluorescence assessments when thin reactive rims (&#x2264;&#x2009;1-2&#xa0;mm) were appropriately excluded. No adverse reactions were associated with ICG. The median follow-up was 14 months (range: 6.6 to 31.0 months), with favorable neurological control. Utilizing a second-window approach with dynamic working distance control, ICG effectively demarcated macroscopic canine meningiomas in this small cohort. Immediate post-operative MRI correlated well with surgeon's intraoperative assessments. Ultimately, FGS may serve as a viable surgical option to help minimize damage to grossly normal brain tissue and potentially improve surgical outcomes in canine meningioma.",
+      "categories": [
+        "oncology",
+        "surgery",
+        "neurology",
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42968085",
+      "title": "Determinants of rabies knowledge, attitudes, and practices among secondary and vocational school students in Maha Sarakham Province, Thailand.",
+      "journal": "BMC Veterinary Research",
+      "authors": "Suwannarong K, Thammasutti K, Promsatit S, Amonsin A, Lajaunie C, Pumipuntu N",
+      "date": "2026 11 01",
+      "dateObject": "2026 11 01",
+      "abstract": "Rabies is a critical zoonotic disease that is found throughout the world, particularly in Africa, Asia, and Latin America. Once a clinical sign appears, the fatality rate rises to 100% globally. In Thailand, children under the age of 15 had the highest annual reported exposure rate to rabies infection. One of the most significant barriers to disease prevention and control is a lack of public awareness about rabies, particularly among children and young people. The study's goal was to determine knowledge, attitude, and preventive practice (KAP) about rabies and associated factors among secondary and vocational students in Maha Sarakham, Thailand, in 2023. An analytic cross-sectional survey was carried out from January to May 2023, with a total of 628 study participants. Data was collected through online and on-site questionnaires. Descriptive analysis was carried out. Inferential statistics analysis was also performed to identify factors associated with rabies KAP among the target participants.Most participants demonstrated a moderate level of knowledge (55.89%), neutral attitudes (81.37%), and moderate preventive practices (72.77%) toward rabies. Students who had experience raising animals, had previously studied zoonotic diseases, had a history of animal bites or scratches, or had received rabies vaccination showed significantly higher knowledge and practice scores (p&#x2009;<&#x2009;0.05). Knowledge and attitudes were positively correlated with preventive practices (r&#x2009;=&#x2009;0.14 and r&#x2009;=&#x2009;0.28, respectively; p&#x2009;<&#x2009;0.05). The findings suggest a significant need for rabies awareness programs targeting school and college students within the community. The materials designed to promote KAP regarding rabies should address specific topics, including the risk of rabies, modes of transmission, the significance of first aid, health-seeking behavior following dog bites or cat scratches, and preventive measures for both pets and community dogs and cats.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42968222",
+      "title": "EXPRESS: Hyperammonemia in cats with acute (on chronic) kidney disease: associations with urea cycle amino acids, azotemia and acid-base status.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "authors": "McFadden K, Labato MA, Linder DE, Webster CR",
+      "date": "2026 11 01",
+      "dateObject": "2026 11 01",
+      "abstract": "ObjectivesHyperammonemia occurs in cats with kidney disease although the pathophysiology is poorly understood. The objective of this study was to determine if hyperammonemia in cats with kidney disease is associated with decreased concentrations of plasma amino acids involved in the urea cycle and more severe acid-base derangements.MethodsTwenty cats presenting with acute kidney injury (AKI) and acute on chronic kidney disease (AoCKD) were prospectively enrolled. Fasting blood samples were analyzed for ammonia, pH, anion gap, electrolytes, lactate, blood urea nitrogen (BUN), creatinine and phosphorus. Plasma was frozen at -80 o C and shipped for amino acid analysis.ResultsFive of 20 cats had an AKI and 15/20 had AoCKD. Median age and weight were 12 years (range 3-14) and 4.5 kg (range 3-5.6), respectively. Seven cats were hyperammonemic (median 252 &#xb5;mol/l, range 113-886) and 13 were not (median 23 &#xb5;mol/l, range 11-49). Creatinine, BUN and phosphorus were significantly higher in hyperammonemic cats. BUN and phosphorus correlated with ammonia. Fifteen of 20 cats (75%) were acidotic but there was no difference in lactate or blood and urine pH between the cats with and without hyperammonemia. The anion gap was higher (29.6, range 27-40 vs 25.1, range 11-34) and serum bicarbonate lower (9 mEq/L, range 4.8-13.5 vs 11.9, range 8-24.2) in hyperammonemic cats. Median plasma citrulline (47 nMol/mL, range 31-128 vs 22, range 12-37) and ornithine (20 nMol/mL, range 12-33 vs 10, range 7-35) but not arginine concentrations were significantly higher in hyperammonemic cats (p<0.05). Plasma citrulline concentrations were positively correlated with serum creatinine (r = 0.621, p = 0.003).Conclusions and relevanceHyperammonemic cats with AKI/AoCKD do not have deficiencies in urea cycle amino acid concentrations but do have more severe azotemia with accompanying high anion gap metabolic acidosis. Increases in citrulline may reflect decreased kidney function.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42968221",
+      "title": "EXPRESS: Elbow luxation treatment in cats using external fixation.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "authors": "Yener K, Hurma MS, Karada&#x11f; MS, Dikmen Ilgino&#x11f;lu K, H&#xfc;nerli H, Bayir &#xd6;Y, Yavuz &#xdc;, Hayat A",
+      "date": "2026 11 01",
+      "dateObject": "2026 11 01",
+      "abstract": "ObjectivesTo describe outcomes and complications of open reduction, collateral ligament repair and temporary epoxy resin Type Ia transarticular external skeletal fixation (TaESF) in cats with traumatic lateral elbow luxation after failed closed treatment.MethodsTen cats were referred 3-4 days after injury. Closed reduction failed in four cats and reluxation occurred in six after reduction and Robert Jones bandaging. All underwent open reduction, apposition of identifiable collateral ligament ends and four-pin epoxy resin Type Ia TaESF. Clinical and orthogonal radiographic examinations were performed weekly until frame removal at 3 weeks and at 6 weeks. Lameness was graded 0-3, and Campbell's test was performed after frame removal and at 6 weeks. At 6 months, three cats underwent orthopaedic examination and seven were assessed by structured owner telephone interview. Complications were classified according to Cook et al.ResultsReduction was maintained in all cats through 6 weeks. Grade 0/1 lameness was recorded in seven/three cats at 3 weeks and eight/two cats at 6 weeks (Cases 3 and 9). Functional outcome was full in eight cats (80%) and acceptable in two (20%). A contralateral proximal ulnar fracture contributed to residual lameness in Case 3. Case 1 required unplanned intervention for proximal humeral pin migration and seroma. The pin was repositioned under sedation without replacement or additional epoxy resin. Radiolucency and periosteal reaction surrounded the distal ulnar pin. The seroma resolved without recurrence, and the frame was removed as scheduled. No comparable pin-site radiographic abnormalities were identified in the other cats. At 6 months, all cats had normal owner-reported walking, running and jumping without observable lameness.Conclusions and relevanceIn this small retrospective series, open reduction and collateral ligament repair protected by epoxy resin Type Ia TaESF maintained reduction and yielded satisfactory short-term outcomes after failed closed treatment. One cat required unplanned intervention for a pin-related complication. Comparative studies with objective long-term clinical and radiographic follow-up are warranted.",
+      "categories": [
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42968215",
+      "title": "EXPRESS: Feline granulocytic anaplasmosis in Europe: anamnesis, clinicopathological abnormalities, bacterial DNA load, treatment, and outcome.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "authors": "Meyer L, Moritz A, Baneth G, Strube C, Jindal K, M&#xfc;ller E, Sch&#xe4;fer I",
+      "date": "2026 11 01",
+      "dateObject": "2026 11 01",
+      "abstract": "Feline granulocytic anaplasmosis (FGA) is caused by Anaplasma ( A. ) phagocytophilum . Fever and thrombocytopenia are the most common clinicopathological abnormalities.ObjectivesThe aim was to investigate regionality, seasonality, clinicopathological parameters, treatment, and outcomes in cats with FGA.MethodsThe database of a commercial laboratory was retrospectively screened for A. phagocytophilum -polymerase chain (PCR)-results on EDTA-blood submitted by European veterinarians from 01/2022 to 12/2025. Hematological data and bacterial DNA loads quantified by digital droplet-PCR were analyzed. Questionnaires were sent to the veterinarians asking for underlying diseases, anamnesis, clinicopathological abnormalities, treatment, and outcome in cats with FGA.Results43/702 cats (6.1%) tested positive by A. phagocytophilum -PCR in Europe. Questionnaires were available for 29/43 cats (67.4%), all of which had outdoor access. Lethargy (23/29; 79.3%), anorexia (22/29, 75.9%), and fever (>39.5&#xb0;C, 18/29, 62.0%) were the most reported findings. Thrombocytopenia was detected in 14/18 cats (77.8%) without concurrent diseases, anemia and leukopenia in 2/20 cats each (10.0%), eosinopenia in 10/17 (58.8%), and lymphopenia in 8/17 cats (47.1%). The bacterial DNA load was available for 27/43 cats (25 x 10 2 -87 x 10 6 , median 124 x 10 5 /ml EDTA-blood), revealing no significant correlation with hematological parameters. 20/21 cats (95.2%) were treated with doxycycline and one (4.8%) with enrofloxacin. Uncomplicated course of disease was reported in 19/21 cats (90.5%). In one cat treated with doxycycline for 10 days, another positive PCR was recorded one month later. Clinical signs recurred immediately in another cat treated with doxycycline for five days only.Conclusions and relevanceFGA should be considered in cats with outdoor access, lethargy, inappetence, and most often mild thrombocytopenia and/or anemia, regardless of fever. Infected cats usually responded well to doxycycline with individual relapses if treated for 10 days or shorter. Treatment for 14 days to clear the infection, and PCR monitoring after finishing treatment are recommended.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
     {
       "pmid": "42963907",
       "title": "Intraoperative Indocyanine Green Fluorescence for Assessment of Suspected Venous Invasion in a Dog With Thyroid Carcinoma.",
@@ -1109,18 +1197,6 @@
       ]
     },
     {
-      "pmid": "42454743",
-      "title": "Factors associated with antimicrobial drug prescription in cats receiving outpatient care at a veterinary teaching hospital.",
-      "journal": "Journal of Feline Medicine and Surgery",
-      "authors": "Thane K, Kwong M, DeStefano I, Sweigart B, Beaulac K, Doron S, Fellman CL",
-      "date": "2026 10 25",
-      "dateObject": "2026 10 25",
-      "abstract": "ObjectivesInvestigations of factors associated with antimicrobial drug prescription(s) (ADP) in cats receiving outpatient care are lacking, which limits antimicrobial stewardship efforts and benchmarking of veterinary antimicrobial use. This study aimed to identify factors associated with ADP in cats receiving outpatient care at a veterinary teaching hospital.MethodsA retrospective analysis of electronic medical record data from cats receiving outpatient care at a veterinary teaching hospital in 2022 was performed. Subjects included 2245 cats with 3973 outpatient visits. The primary study outcome was receipt of at least one systemic ADP during or immediately after an outpatient visit; an exploratory outcome was receipt of a 'Watch' or 'Reserve' (WR) ADP using the World Health Organization (WHO) Access-Watch-Reserve (AWaRe) classification adapted to include veterinary agents. Independent variables, including patient demographics, hospital service and owner sociodemographic factors, were identified for model fitting using univariable logistic regression; multivariable models were built using generalized estimating equations.ResultsOf outpatient visit records, 367/3973 (9.2%) were associated with one or more ADP. Factors significantly associated with receipt of ADP included patient sex, hospital service visited, veterinarian training status, visit duration and urine culture performed. Among patients receiving any antimicrobial drugs, factors associated with receipt of WHO-WR ADP included hospital service, visit date, receipt of more than one ADP and history of a visit to any hospital service within the prior month.Conclusions and relevanceThese findings expand our understanding of antimicrobial usage in cats. This knowledge of identifying factors associated with antimicrobial use can be used to refine local prescribing practices and supports the development of veterinary and One Health antimicrobial stewardship initiatives and veterinary antimicrobial use benchmarking metrics. A study of health record data in cats receiving outpatient veterinary care that evaluates whether measurable characteristics related to the patients, pet owners and hospital are associated with higher or lower odds of receiving an antimicrobial drug during the veterinary care visit Pet cats receive routine veterinary care, which sometimes includes receiving antimicrobial prescriptions (sometimes referred to as antibiotics) to treat bacterial infections. The use of antibiotics can be necessary to treat bacterial infections in pets. However, when antibiotics are not used appropriately, it can cause problems for the pets receiving treatment and can reduce how well those antibiotics work in the future to effectively treat disease in humans and animals. The amount of information about cats receiving antibiotics is very limited. Knowing more about how antibiotics are used in cats will help veterinarians improve treatment options for patients and will provide important information about how antibiotics are used in the hospital setting. We studied the medical records of cats who received outpatient care (day appointments, in which the patient did not need to be admitted to the hospital for additional care) and analyzed information that is routinely collected in the medical record to try to identify patterns associated with which feline outpatients had higher odds of receiving antibiotics. In our study population, approximately 9% of cats receiving outpatient care received an antibiotic. We found that patient sex, hospital service visited, training status of the care provider, how long the visit took and whether a urine culture was performed all significantly affected the odds of a patient receiving an antibiotic. We also identified some factors associated with higher odds of receiving an antibiotic with greater importance to human healthcare. These findings help us better understand how antibiotics are used in cats receiving outpatient veterinary care and help researchers and hospital teams develop ways to monitor and optimize ongoing antibiotic use in cats.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
       "pmid": "42921832",
       "title": "Prospective evaluation of the prevalence and characteristics of heart murmurs and gallop sounds in anemic cats.",
       "journal": "Journal of Veterinary Internal Medicine",
@@ -1318,16 +1394,6 @@
       ]
     },
     {
-      "pmid": "42415333",
-      "title": "Feline stress through owners' eyes: comparing perceptions in veterinary clinics with and without designated cat-only areas or hours.",
-      "journal": "Journal of Feline Medicine and Surgery",
-      "authors": "Baltz A",
-      "date": "2026 10 23",
-      "dateObject": "2026 10 23",
-      "abstract": "ObjectivesThis study compared veterinary clinics with and without designated cat-only areas or hours across four domains: feline stress during visits, handling and restraint techniques, owner education on preventive care and common diseases, and overall client satisfaction.MethodsA cross-sectional questionnaire study was conducted across eight clinics in Greater Lisbon, Portugal (between November 2015 and January 2016). In total, 204 cat owners completed a 37-question survey evaluating clinic experience, feline stress, owner education and service quality. Respondents were divided based on whether their clinic offered feline-segregated areas or hours (n&#x2009;=&#x2009;96) or not (n&#x2009;=&#x2009;108). Data were analysed using &#x3c7; 2 and Mann-Whitney U-tests ( P &#x2009;<0.05), with effect sizes calculated via Cram&#xe9;r's V and rank-biserial correlation.ResultsOwners at non-segregated clinics reported greater difficulty removing cats from carriers ( P &#x2009;=&#x2009;0.034) and administering home medication ( P &#x2009;=&#x2009;0.040). Their cats were more frequently scruffed (18.4% vs 7.4%) or sedated (10.3% vs 2.5%; P &#x2009;=&#x2009;0.046; Cram&#xe9;r's V&#x2009;=&#x2009;0.24), with the presence of other species increasing perceived stress ( P &#x2009;=&#x2009;0.004; r &#x2009;=&#x2009;0.21). Non-segregated clinic owners also received significantly less information regarding feline leukaemia virus (42.6% vs 17.7% uninformed; P &#x2009;<0.001), feline immunodeficiency virus (40.7% vs 15.6%; P &#x2009;<0.001), flea prevention (27.8% vs 7.3%; P &#x2009;<0.001) and deworming (21.3% vs 5.2%; P &#x2009;=&#x2009;0.001). Satisfaction with staff and veterinarians was higher in the segregated group ( P &#x2009;=&#x2009;0.001 for both).Conclusions and relevanceClinics utilising designated cat-only spaces or hours demonstrated superior outcomes across all evaluated domains. These findings provide quantitative support for cat-friendly principles, suggesting that investing in species segregation, staff training and client education yields tangible improvements in animal welfare, client relationships and veterinary practice quality.",
-      "categories": []
-    },
-    {
       "pmid": "42918624",
       "title": "Retrospective Application of the Current International Myeloma Working Group Disease Definitions in 20 Cats With Immunoglobulin Secreting Neoplasms.",
       "journal": "Veterinary and Comparative Oncology",
@@ -1359,20 +1425,6 @@
       "dateObject": "2026 10 22",
       "abstract": "Allergic otitis externa is common in dogs and recurrence may lead to repeated consultations and antimicrobial use. Long-term data on proactive topical corticosteroid maintenance are limited. To describe 12-month relapse frequency in dogs with allergic otitis externa receiving proactive hydrocortisone aceponate maintenance therapy and compare consecutive-day and non-consecutive-day schedules. Medical records of client-owned dogs prescribed hydrocortisone aceponate ear spray were retrospectively reviewed. Maintenance started after clinical and cytological remission. Only dogs with confirmed continuation, stable concomitant allergy management and complete 12-month outcome data were included. Relapse was defined as recurrent otitis externa requiring veterinary examination, cytology and additional otic treatment. Dogs were grouped by schedule: Protocol 1, two consecutive days; and Protocol 2, two non-consecutive days weekly. Outcomes were compared using Fisher exact and Mann-Whitney U tests. Seventy-one dogs were included; 36 in Protocol 1 and 35 received Protocol 2. During 12 months, 50/71 dogs (70.4%) had no relapse, 12/71 (16.9%) had one relapse and 9/71 (12.7%) had multiple relapses. At least one relapse occurred in 9/36 dogs (25.0%) in Protocol 1 and 12/35 (34.3%) receiving Protocol 2 (p = 0.443). Multiple relapses occurred in 2/36 (5.6%) and 7/35 (20.0%) dogs, respectively (p = 0.085). Relapse counts did not differ significantly between protocols (p = 0.290). Most dogs had no relapse or only one relapse during proactive hydrocortisone aceponate maintenance. No statistically significant difference was detected between schedules, but equivalence or non-inferiority cannot be concluded.",
       "categories": [
-        "dermatology"
-      ]
-    },
-    {
-      "pmid": "42907999",
-      "title": "Combined cold atmospheric plasma and photobiomodulation is associated with improved early macroscopic and ultrasonographic wound-healing parameters after unilateral mastectomy in female dogs: an exploratory randomized intra-individual controlled clinical study.",
-      "journal": "BMC Veterinary Research",
-      "authors": "da Silva GRV, de Oliveira Filho MS, de Fran&#xe7;a Silvestre SF, Carneiro GA, de Lucena RBM, Costa CMR, Facundo PLD, Silva FLC, de Paula Antunes JMA, de Castro Demoner L, de Paula VV, Carvalho AT, Barboza CAG, J&#xfa;nior CA, de Oliveira MF, de Almeida Amorim MM, de Moura CEB",
-      "date": "2026 10 22",
-      "dateObject": "2026 10 22",
-      "abstract": "Postmastectomy complications remain relevant in veterinary surgery. Although cold atmospheric plasma (CAP) and photobiomodulation (PBM) may improve tissue repair, evidence on their combined use is limited. This exploratory pilot study evaluated CAP-PBM therapy in nine female dogs undergoing unilateral mastectomy. A prospective, randomized, blinded, intra-individual controlled clinical study was conducted in nine female dogs with mammary neoplasia undergoing clinically indicated unilateral mastectomy. In each dog, one half of the surgical wound was randomly assigned to receive sequential CAP and PBM therapy, while the contralateral half remained untreated and served as an intra-individual control. Evaluations were performed on postoperative days 3, 7, and 14 (D3, D7, and D14) using macroscopic scoring systems, ultrasonography, and infrared thermography; histomorphometric analysis was performed only on D7. Treated regions showed significantly lower Modified Hollander Scar Scale (p&#x2009;<&#x2009;0.001) and Modified Draize Scoring System (p&#x2009;=&#x2009;0.001) scores. Ultrasonographic assessment demonstrated lower semiquantitative scores (p&#x2009;=&#x2009;0.029) and reduced subcutaneous thickness (p&#x2009;=&#x2009;0.034), especially during the early postoperative period. Thermographic findings did not differ significantly between groups. Histological analysis revealed numerically greater re-epithelialization in treated areas, although without statistical significance (p&#x2009;>&#x2009;0.05). In this exploratory pilot study, combined CAP&#x2009;+&#x2009;PBM therapy was associated with improved early macroscopic and ultrasonographic healing parameters after mastectomy in female dogs. These preliminary findings support further investigation of CAP&#x2009;+&#x2009;PBM as a promising non-invasive adjuvant strategy for postoperative wound management, pending confirmation in larger, adequately powered randomized studies.",
-      "categories": [
-        "oncology",
-        "surgery",
         "dermatology"
       ]
     },
@@ -1844,21 +1896,6 @@
       ]
     },
     {
-      "pmid": "42867939",
-      "title": "Myoclonus as a neurologic manifestation of hypoglycemia in dogs.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Polidoro D, Liatis T, &#xc1;lvarez P, Bhatti SFM",
-      "date": "2026 10 13",
-      "dateObject": "2026 10 13",
-      "abstract": "Myoclonus consists of brief, shock-like jerks and is not reported in dogs as a neurological manifestation of hypoglycemia. To describe hypoglycemia-associated myoclonus in dogs and report diagnostic findings, treatment, and outcome. Ten dogs presenting myoclonus and concurrent hypoglycemia. Multicenter, retrospective study of dogs presenting hypoglycemia-related myoclonus. All dogs presented with myoclonus. Neurological examination was abnormal in 5/10 (50%). Myoclonus was generalized in 8/10 (80%) dogs and focal (head) in 2/10 (20%), with progression to generalized tonic-clonic epileptic seizures in 5/10 (50%). Hypoglycemia (<3.3&#xa0;mmol/L) was observed in all dogs (median, 2.07&#xa0;mmol/L) during the myoclonic episodes. Insulinoma was a suspected (n&#xa0;=&#xa0;1), presumptive (n&#xa0;=&#xa0;5), or definitive (n&#xa0;=&#xa0;3) diagnosis in 9/10 (90%) dogs. One dog (10%) developed iatrogenic hypoglycemia after IV administration of fast-acting human insulin and myoclonic episodes resolved after dose reduction. Among dogs with suspected, presumptive or confirmed insulinoma, 5/9 (56%) received medical treatment alone, 3/9 (33%) combined medical and surgical treatment, and 1/9 (11%) was not treated. Medical treatment included, prednisolone (n&#xa0;=&#xa0;6), diazoxide (n&#xa0;=&#xa0;3) and therapeutic diet (n&#xa0;=&#xa0;6). Surgical treatment consisted of pancreatic mass resection. Medical or surgical treatment resulted in short-term improvement in myoclonus frequency in all dogs, however, four were later euthanized due to recurrence of hypoglycemia and myoclonus. Myoclonus might represent an underrecognized neurological manifestation of hypoglycemia in dogs. Measurement of blood glucose concentrations is a fundamental diagnostic approach for identifying hypoglycemia-related myoclonus. Treatment can lead to clinical improvement, but prognosis is dependent on the underlying cause. The aim of this study was to describe muscle jerks in dogs with low blood sugar. Ten dogs were affected, and most had muscle jerks throughout the body, with some developing seizures during periods of low blood sugar. Most dogs were suspected of having a tumor of the pancreas, which might cause low blood sugar. Treatment with medication, surgery to remove the tumor, or both helped reduce the muscle jerks in all dogs at first, although some later had to be put to sleep because the low blood sugar and muscle jerks returned. Myoclonus wordt gekenmerkt door korte, schokachtige spiercontracties en werd bij honden niet eerder beschreven als neurologische manifestatie van hypoglycemie. Beschrijven van hypoglycemie-geassocieerde myoclonus bij honden en diagnostische bevindingen, behandeling en klinische uitkomst rapporteren. Tien honden met myoclonus en hypoglycemie. Multicentrisch retrospectief onderzoek bij honden met hypoglycemie-geassocieerde myoclonus. Alle honden presenteerden myoclonus. Bij 5/10 (50%) honden was het neurologisch onderzoek afwijkend. Myoclonus was gegeneraliseerd bij 8/10 (80%) honden en focaal (hoofd) bij 2/10 (20%). Bij 5/10 (50%) honden trad progressie op naar gegeneraliseerde epilepsieaanvallen. Bij alle honden werd tijdens de myoclonische episoden hypoglycemie (<3,3&#xa0;mmol/L; mediane 2.07&#xa0;mmol/L) vastgesteld. Insulinoma was de vermoedelijke ( n &#xa0;=&#xa0;1), waarschijnlijke ( n &#xa0;=&#xa0;5) of definitieve ( n &#xa0;=&#xa0;3) diagnose bij 9/10 (90%) honden. Een hond (10%) ontwikkelde iatrogene hypoglycemie na intraveneuze toediening van humane insuline. Van de 9 honden met vermoedelijke of bevestigde diagnose van insulinoma werden 5/9 (56%) medicamenteus behandeld, 3/9 (33%) kregen een combinatie van medicamenteuze en chirurgische behandeling en 1/9 (11%) werd niet behandeld. Medicamenteuze behandeling bestond uit prednisolone ( n &#xa0;=&#xa0;6), diazoxide ( n &#xa0;=&#xa0;3) en therapeutisch dieet ( n &#xa0;=&#xa0;6). Chirurgische behandeling bestond uit pancreasmassa resectie. Medicamenteuze en chirurgische behandeling resulteerde bij alle honden verbetering op korte termijn van de myoclonus frequentie. Vier honden werden later ge&#xeb;uthanaseerd wegens recidief van hypoglycemie en myoclonus. Myoclonus kan een onderkende neurologische uiting van hypoglycemie bij honden zijn. Het bepalen van de bloedglucoseconcentratie vormt een essenti&#xeb;le diagnostische stap. Behandeling van hypoglycemie kan leiden tot klinische verbetering, maar prognose is afhankelijk van de onderliggende oorzaak.",
-      "categories": [
-        "internalMedicine",
-        "oncology",
-        "surgery",
-        "neurology"
-      ]
-    },
-    {
       "pmid": "42572226",
       "title": "Flow cytometry-based direct antiglobulin test for suspected feline immune-mediated thrombocytopenia: Assay development and demographic factors associated with direct antiglobulin test positivity.",
       "journal": "Journal of Feline Medicine and Surgery",
@@ -2176,18 +2213,6 @@
       ]
     },
     {
-      "pmid": "42803121",
-      "title": "EXPRESS: Modified transcanal perendoscopic myringotomy and septotomy technique for cats with otitis media - a retrospective study of 38 cats.",
-      "journal": "Journal of Feline Medicine and Surgery",
-      "authors": "Wetzels BN, Pickee E, Passon M, Den Hertog E, Ter Haar G",
-      "date": "2026 09 28",
-      "dateObject": "2026 09 28",
-      "abstract": "ObjectivesThis study solely aims to describe a convenient minimally invasive technique for access to the ventromedial compartment of the middle ear in cats with polypoid or non-polypoid otitis media.MethodsPatients' records were retrospectively retrieved from cats with otic symptoms. Cats were included based on the presence of fluid/soft tissue within the tympanic cavity on CT imaging, abnormal tympanic membranes on oto-endoscopy and/or abnormal auditory tube openings upon nasopharyngoscopy.ResultsA total of 38 cats with uni- or bilateral bulla effusion and endoscopic abnormalities were included and 43 ears were treated. On CT, all treated ears had effusion of both dorsolateral and ventromedial compartments. Otoscopy revealed an abnormal tympanic membrane in 93% (discoloration in 28%, bulging in 28%, rupture in 16% and a protruding polyp in 21%). On normograde nasopharyngoscopy, the ipsilateral auditory tube was visibly open in 81% and partly or completely obstructed with discharge or polypous material in 19%. A transcanal perendoscopic myringotomy and septotomy using a 1-mm rigid Frazier suction tube was performed in all cases. During treatment, inflammation of the mucosal lining in the bulla was seen in all ears, with intracavital polyp formation in 33%, which was subsequently perendoscopically debrided. All cats were treated with a 7-day course of doxycycline and a tapering course of prednisolone. No procedure-related complications were seen intra- or postoperatively to discharge.Conclusion and relevanceTranscanal perendoscopic myringotomy and septotomy in cats is a rapid, minimally invasive and apparently safe technique which allows access to both compartments of the feline middle ear. Short- and long-term outcome have to be evaluated in future research.",
-      "categories": [
-        "dermatology"
-      ]
-    },
-    {
       "pmid": "42767337",
       "title": "De Ritis ratio and L-FABP as supportive biomarkers of hepatic involvement in cats with effusive FIP.",
       "journal": "Topics in Companion Animal Medicine",
@@ -2325,18 +2350,6 @@
       "categories": [
         "internalMedicine",
         "oncology"
-      ]
-    },
-    {
-      "pmid": "42750033",
-      "title": "Microbiological investigation of conjunctivitis in cats and dogs from Kars, T&#xfc;rkiye (2024-2025): culture- and MALDI-TOF MS-based identification and antimicrobial susceptibility testing of bacterial isolates.",
-      "journal": "BMC Veterinary Research",
-      "authors": "Tarhane S, B&#xfc;y&#xfc;k F",
-      "date": "2026 09 17",
-      "dateObject": "2026 09 17",
-      "abstract": "Conjunctivitis is a common clinical disorder in cats and dogs, frequently associated with bacterial and fungal infections. Accurate identification of pathogens and evaluation of their antimicrobial resistance profiles are essential for effective treatment. Bacterial and fungal agents were analyzed using cultural and MALDI-TOF MS methods in conjunctival swab samples taken from 59 domestic animals (53 cats and 6 dogs) diagnosed with conjunctivitis and presented to veterinary clinics in &#xc7;ank&#x131;r&#x131;, T&#xfc;rkiye, during the period from 2024 to 2025. Among the 59 conjunctival swab samples collected from cats and dogs with conjunctivitis, 20 (33.9%) were positive for bacterial culture. Of these, 17 positive cultures were detected in 53 cat samples (32.08%), whereas 3 were detected in 6 dog samples (50.0%). No growth was observed in cultures for anaerobic and Mycoplasma agents, and no evidence of fungal agents was found. Multiple bacterial isolates were isolated in six (10.17%) animals [5 cats (9.43%), 1 dog (16.67%)]. Species identification by MALDI-TOF MS revealed a total of 16 different bacterial species with high confidence scores (&#x2265;2.0) across both animal species. The most frequently isolated strains were Staphylococcus epidermidis (n= 7), Corynebacterium mucifaciens (n= 5), Psychrobacter spp. (n= 5), and Streptococcus lutetiensis (n= 4). Rare strains such as Brachybacterium muris (n= 1), Micrococcus luteus (n= 1), and Pseudomonas aeruginosa (n= 1) were also detected. In cats, S. epidermidis, Corynebacterium spp., Psychrobacter spp., and Streptococcus hyovaginalis were the most frequently isolated strains. In dogs, Streptococcus canis, Enterococcus durans, Corynebacterium mucifaciens, Micrococcus luteus, and Staphylococcus hominis ssp. hominis were detected. Antibiotic susceptibility of the isolates was evaluated according to EUCAST and CLSI criteria and interpreted based on the inhibition zone diameter. Of the 37 bacterial isolates recovered, 32 (86.49%) exhibited multidrug-resistant (MDR) profiles. Particularly noteworthy were the extensive MDR patterns observed in Enterococcus durans, Enterococcus faecium, Psychrobacter sanguinis, Streptococcus hyovaginalis, Escherichia coli, and Pseudomonas aeruginosa isolates, which showed resistance to 10-12 antimicrobial agents from multiple classes, including penicillins, tetracyclines, and cephalosporins. Although no fungal agents were recovered, the study demonstrates that the bacterial species isolated from cats and dogs with conjunctivitis are highly diverse and that multidrug-resistant (MDR) isolates are common. The antimicrobial susceptibility results provide valuable information on the resistance profiles of microorganisms associated with conjunctivitis cases in the study population. In addition, the detection of certain microorganisms with zoonotic potential underscores the importance of ongoing surveillance from a veterinary public health perspective.",
-      "categories": [
-        "internalMedicine"
       ]
     },
     {
@@ -2973,19 +2986,6 @@
       "categories": [
         "internalMedicine",
         "oncology"
-      ]
-    },
-    {
-      "pmid": "42502160",
-      "title": "Subcutaneous platelet-rich plasma and topical graphitic carbon nitride in a lanolin carrier enhance healing of surgically induced cutaneous wounds in dogs.",
-      "journal": "BMC Veterinary Research",
-      "authors": "Wafy MN, Hassan EA, Saeed S, Khattab MS, AbuBakr HO, Abu-Seida AM",
-      "date": "2026 07 25",
-      "dateObject": "2026 07 25",
-      "abstract": "Graphitic carbon nitride nanoparticles (g-C3N4) are a promising material in wound healing; however, their effects and potential synergy with PRP (platelet-rich plasma) remain unexplored. This study evaluates the single and synergistic effects of PRP injection and g-C3N4 nanoparticle ointment on wound healing in dogs. Six full-thick skin wounds per group (a total of 6 groups) were surgically created on the chest region of six adult mongrel dogs, with each dog having three bilateral chest wounds. Wounds were treated with either normal saline, lanolin dressings, PRP infiltration, PRP infiltration combined with lanolin dressings, g-C3N4 NPs ointment, or PRP infiltration with g-C3N4 NPs application. Healing progression was monitored, with the evaluation of epithelialization and wound contraction. Total antioxidant capacity (TAC), malondialdehyde (MDA), and PDGF&#x3b2; concentration were measured in wound fluid. Matrix extracellular phosphoglycoprotien (MEPE) and transforming growth factor beta (TGF-&#x3b2;) gene expressions were assessed in skin biopsies at 0, 5, 10 and 20 days. Wound histopathology and tumor necrosis factor alpha (TNF-&#x3b1;) immunohistochemistry (IHC) were performed. Both PRP and PRP-g-C3N4 nanoparticles significantly enhanced healing. PRP alone greatly improved regeneration, yet with increased oxidative stress. These included maximal healing, epithelialization, high levels of gene expression, efficient inflammation control and well-organised granulation tissue and collagen bundles. PRP-g-C3N4 NPs offered a more balanced profile, exhibiting minimal lipid peroxidation, superior antioxidant preservation, and moderate but sustained regeneration. Although PRP is excellent for quick tissue repair, PRP-g-C3N4 NPs might be better suited for situations requiring oxidative stability and controlled inflammation.",
-      "categories": [
-        "oncology",
-        "dermatology"
       ]
     },
     {
