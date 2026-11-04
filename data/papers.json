@@ -1,6 +1,96 @@
 {
-  "updated_at": "2026-11-03T02:55:42.913Z",
+  "updated_at": "2026-11-04T01:23:47.095Z",
   "papers": [
+    {
+      "pmid": "42974042",
+      "title": "Partners or tools? Ethical framings shape welfare research on dogs and horses in animal-assisted services.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Zenker F, Thodberg K, Sand&#xf8;e P",
+      "date": "2026 11 03",
+      "dateObject": "2026 11 03",
+      "abstract": "The welfare of dogs and horses involved in animal-assisted services (AAS) has received increasing scholarly attention, reflecting growing recognition of the ethical complexity of human-animal interactions in these settings. However, ethical framings of animal welfare in research on AAS vary substantially, ranging from an emphasis on avoiding harm to animals while pursuing human benefit to the view that AAS should create mutual benefits for both humans and animals. This critical review examines how ethical framings shape AAS welfare research and aims to make underlying assumptions more transparent to support more consistent research and policy. To this end, we analyzed 116 peer-reviewed papers (2000-2025), focusing on conceptual frameworks (e.g., One Health) and their implications for the interpretation of results and conclusions. Included papers covered direct welfare measures in dogs and/or horses, indirect welfare assessments, and conceptual welfare analyses. We identified three key findings. First, ethical frameworks in AAS welfare research are highly diverse and at times insufficiently specified. Second, studies may combine multiple ethical framings, reflecting a pluralism of ethical perspectives. Conceptual conflation may arise, however, when positive and negative welfare perspectives are combined without acknowledging their fundamentally different understandings of welfare. Third, a recurring pattern across the literature is a relational framing of ethical considerations, highlighting the need for greater attention to different understandings of good or justified human-animal relationships. Overall, greater transparency about ethical framing is needed to improve the interpretation, comparability, and communication of welfare findings.",
+      "categories": []
+    },
+    {
+      "pmid": "42973850",
+      "title": "Development of a sandwich ELISA for recombinant feline GM-CSF and determination of its serum half-life.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Yu C, Wang M, Chen L, Wang T, Zhao Y, Song H, Jin M",
+      "date": "2026 11 03",
+      "dateObject": "2026 11 03",
+      "abstract": "Feline granulocyte-macrophage colony-stimulating factor (GM-CSF) is a key cytokine involved in the regulation of myeloid immune responses and represents an important therapeutic target for leukopenia. However, the rapid in vivo clearance of native GM-CSF requires frequent administration, which limits its clinical translation. To overcome this limitation, a recombinant GM-CSF-Fc protein was constructed using Fc fusion technology. Pharmacokinetic evaluation of GM-CSF-Fc, however, is constrained by the lack of analytical approaches capable of simultaneously quantifying differently engineered forms of recombinant GM-CSF. In this study, recombinant feline GM-CSF was expressed in a CHO eukaryotic expression system and used to immunize rabbits to generate high-affinity polyclonal antibodies. Based on these antibodies, a sandwich ELISA was established. The assay exhibited excellent linearity within 7.8-2000 pg/mL (R 2 &#x202f;=&#x202f;0.993), and its validated quantitative range was 50-2000 pg/mL, covering the expected concentration fluctuations of recombinant GM-CSF under physiological and immune-activated conditions in cats. The assay demonstrated good precision and accuracy, and no cross-reactivity with related feline cytokines (IL-3, IL-5, M-CSF, and G-CSF) was observed. Notably, the system efficiently quantified differently engineered forms of recombinant feline GM-CSF (His-tagged and Fc-fused) with comparable recovery, overcoming the limitations of conventional assays optimized for a single protein format. Pharmacokinetic analysis following subcutaneous administration in cats showed that Fc fusion substantially prolonged the apparent terminal elimination half-life of immunoreactive GM-CSF from 5.05 &#xb1; 0.91 h to 40.89 &#xb1; 3.41 h, supporting the improved pharmacokinetic profile of the Fc-fused construct. In conclusion, this study provides a versatile and sensitive analytical platform for the preclinical evaluation of Fc-fused feline GM-CSF formulations and serves as an important methodological reference for the quantitative assessment of Fc-fused veterinary biologicals.",
+      "categories": []
+    },
+    {
+      "pmid": "42972575",
+      "title": "Clinically relevant hypomagnesemia during recovery from severe leptospirosis-associated acute kidney injury in a dog treated with continuous renal replacement therapy: a case report.",
+      "journal": "BMC Veterinary Research",
+      "authors": "Cho J, Kang S, Kim S, Kim M, Park C",
+      "date": "2026 11 03",
+      "dateObject": "2026 11 03",
+      "abstract": "Leptospirosis is an important cause of acute kidney injury (AKI) in dogs and commonly induces renal tubular dysfunction. Although electrolyte abnormalities are frequently recognized during the course of leptospirosis, clinically relevant hypomagnesemia associated with neurological manifestations has rarely been reported in dogs. This report describes a dog that developed severe symptomatic hypomagnesemia during recovery from severe leptospirosis-associated AKI treated with continuous renal replacement therapy (CRRT). A 9 year old, 12&#xa0;kg spayed female mixed-breed dog was referred for severe leptospirosis-associated AKI complicated by anuria, hyperbilirubinemia, thrombocytopenia, and pulmonary involvement. Blood and urine polymerase chain reaction assays confirmed Leptospira spp. Because of persistent anuria and progressive azotemia despite intensive medical management, the dog underwent two continuous renal replacement therapy sessions approximately 15 and 18&#xa0;h, respectively. Urine production subsequently recovered, and the dog entered a polyuric recovery phase with progressive improvement in azotemia. On day 13 after admission, generalized tremors, hypersalivation, and altered mentation developed concurrently with severe hypomagnesemia (ionized magnesium, 0.24 mmol/L; total magnesium, 1.4&#xa0;mg/dL). Fractional excretion of magnesium (FEMG) was markedly increased (38.8%), suggesting inappropriate renal magnesium loss despite improving renal function. Intravenous magnesium sulfate administered as a bolus followed by continuous rate infusion resulted in rapid resolution of the neurological signs. At follow-up evaluations performed 11 and 23 days after the hypomagnesemic episode, fractional excretion of magnesium remained increased at 30.2% and 28.4%, respectively, despite improvement in serum creatinine concentration, supporting persistent impairment of renal tubular magnesium handling during recovery. This case demonstrates that clinically significant hypomagnesemia may develop during the polyuric recovery phase of severe leptospirosis-associated AKI in dogs, even after apparent improvement in renal function. Serial measurements of fractional excretion of magnesium supported continued renal magnesium loss during recovery and emphasized the importance of monitoring magnesium concentrations in dogs with leptospirosis, particularly when neurological abnormalities develop.",
+      "categories": [
+        "internalMedicine",
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "42972342",
+      "title": "Monitoring of oxidative stress and acute phase proteins following testes exposure with ultrasound waves in cats.",
+      "journal": "BMC Veterinary Research",
+      "authors": "Hashempur Z, Mogheiseh A, Nazifi S, Divar M, Ahmadi N, Derakhshandeh N, Ahmadi E, Bastani M, Shaikhzadeh A, Hassani A",
+      "date": "2026 11 03",
+      "dateObject": "2026 11 03",
+      "abstract": "Ultrasonic therapy has harmfully effects on the structure and function of the testis. Various mechanisms are involved in the impact of ultrasound waves on testes tissue. This study aimed to investigate the effects of ultrasound exposure on cat`s testes by monitoring acute phase proteins, oxidative stress indices, histopathology, and epididymal sperm evaluation over a period of 60 days. Ten adult domestic short hair (DSH) male cats were divided into two equal groups: one exposed to ultrasound and one control groups. The testes were exposed to ultrasonic therapy using 1&#xa0;MHz, 1.5&#xa0;W/cm 2 , three times with a 48-hour interval. Blood samples were taken before treatment and at days 1, 3, and 6 after treatment. Histopathology of the testes and epididymal sperm evaluation were performed at day 60. The results showed that acute phase proteins, serum amyloid (SAA), C-reactive protein (CRP), and alpha-1 glycoprotein (AGP), significantly increased in the first three days after treatment and decreased significantly by day 6 in the treatment group. The increase in acute phase proteins was significantly higher in the treatment group compared to the control group. Malondialdehyde (MDA) and total antioxidant capacity (TAC) did not show significant change in the first week after treatment in the ultrasound exposure group compared to the control group. Testosterone concentration was significantly decreased in the ultrasound exposure group compared to the control group. The epididymal sperm and histopathology evaluation indicated no harmful effect of ultrasound in the treatment group compared to the control group. Ultrasound exposure of cat`s testes induced an acute phase inflammatory response and decreased testosterone concentration in the first week after treatment, but it did not have harmful effect on testis tissue and epididymal sperm quality.",
+      "categories": []
+    },
+    {
+      "pmid": "42972163",
+      "title": "Dose-response effects of dietary luteolin-loaded chitosan nanoparticles on growth and physiological responses of post-weaning rabbits reared under summer heat stress.",
+      "journal": "Veterinary Research Communications",
+      "authors": "Thagfan FA, Al-Hoshani N, Mohamed RAEH, Ahmed KAE, Abdelnour SA, Abd-Elkarim MM",
+      "date": "2026 11 03",
+      "dateObject": "2026 11 03",
+      "abstract": "Applying nanotechnology to promote sustainable livestock production and mitigate the adverse impacts of rising global temperatures on animal health has received critical attention. In the existing research, we synthesized luteolin-loaded chitosan nanoparticles (NLU) and evaluated their efficacy in mitigating heat stress (HS) in growing rabbits by investigating growth performance, immune response, oxidative stress, tissues integrity, antioxidant defenses, inflammatory markers, and apoptotic cascades. A total of 120 weaned growing rabbits (New Zealand white breed) were randomly assigned to four experimental groups (30 rabbits per group, with 30 replicates per group) and raised under summer condition during a 9 weeks trial. Treatments consisted of a basal control diet (HS group) or the basal diet fortified with 25 (NLU25), 50 (NLU50), or 100 (NLU100) mg/kg of NLU. The temperature-humidity index (THI) was 30.65, calculated from ambient temperature and relative humidity, confirming that the rabbits experienced severe HS. The prepared NLU nanoparticles exhibited a mean hydrodynamic diameter of 138.5&#xa0;nm, a polydispersity index of 0.380, and a positive zeta potential of +&#x2009;54.5 mV. Dietary NLU supplementation exhibited a significant quadratic dose-response effect on growth performance (P&#x2009;<&#x2009;0.05), with the NLU50 and NLU100 treatments eliciting the most pronounced protective effects relative to the HS group. Dietary NLU supplementation significantly decreased serum lipid profiles, liver enzymes, and renal function markers (P&#x2009;<&#x2009;0.05). Specifically, NLU quadratically increased glutathione peroxidase (GPx), catalase (CAT) levels, and total antioxidant capacity (TAC, linear effect), alongside immunoglobulin concentrations (IgM and IgG) (P&#x2009;<&#x2009;0.05). Conversely, oxidative stress indicators (myeloperoxidase and MDA) and cell death biomarkers (caspase-3 and CK-18) were markedly reduced (P&#x2009;<&#x2009;0.001) in quadratic manner. Furthermore, NLU supplementation quadratically attenuated the inflammatory response by decreasing the serum inflammatory makers including nuclear factor-kappa B (NF-&#x3ba;B), tumor necrosis factor-alpha (TNF-&#x3b1;), interleukin-4 (IL-4), interleukin-1 beta (IL-1&#x3b2;), and interleukin-8 (IL-8) alongside significant increase of nitric oxide levels (P&#x2009;<&#x2009;0.001). Consequently, dietary NLU effectively preserved the histoarchitectural integrity of both hepatic and intestinal tissues under heat-stress conditions. Overall, dietary inclusion of 50 or 100&#xa0;mg/kg NLU effectively showed beneficial effects on growth indices in rabbits exposed to heat stress by preserving tissue histoarchitecture, remodeling metabolic and redox homeostasis, boosting immune competence, and suppressing inflammatory and apoptotic signaling cascades.",
+      "categories": [
+        "internalMedicine",
+        "oncology"
+      ]
+    },
+    {
+      "pmid": "42581418",
+      "title": "Prevalence and clinical relevance of hypocobalaminaemia and hypercobalaminaemia in cats.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "authors": "Casas C, Dye C",
+      "date": "2026 11 03",
+      "dateObject": "2026 11 03",
+      "abstract": "The aim of the present study was to investigate the prevalence of hypo- and hypercobalaminaemia in a cohort of cats with diverse disease pathologies and to assess associations with signalment and disease characteristics. Residual blood from cats presented to a large veterinary referral hospital during a 24-month period was used for serum B12 quantification. All cats requiring blood collection as part of diagnostic investigations were eligible for inclusion regardless of clinical presentation. Serum B12 concentration was assessed according to signalment, body weight, body condition score, primary affected body system and type of disease pathology as derived from the clinical notes. A total of 229 cats were enrolled:&#x2009;128 male&#x2009;(119 neutered, 9 entire) and&#x2009;101 female&#x2009;(88 neutered, 13 entire).&#x2009;Of these, 176 were domestic shorthair or longhair, and 53 were purebred. The median age was 9.9 years and median body weight 4.1&#x2009;kg. Of the 229 cats, 80 (34.9%) had high serum B12, 86 (37.6%) had normal, 18 (7.9%) had borderline and 45 (19.7%) had low serum B12. Median serum B12 concentration was higher in cats aged <8.0 years than &#x2a7e;8.0 years, and there was a&#x2009;weak but significant&#x2009;negative correlation between age and serum B12. Median serum B12 concentration was lower in cats weighing <3.0&#x2009;kg than in those &#x2a7e;3.0&#x2009;kg, and a&#x2009;weak but significant&#x2009;positive correlation was found between body weight and serum B12 concentration. No associations were found between serum B12 and sex, breed, body condition score, affected body system or pathology type. Vitamin B12 aberrations were common in this cohort of cats, with approximately one-third and one-fifth having abnormally high and low serum concentrations, respectively. Serum vitamin B12 concentration declined with advancing age, and hypocobalaminaemia was more prevalent in cats with body weights <3.0&#x2009;kg. Hypo- and hypercobalaminaemia were documented in cats with a wide variety of clinical presentations, and no specific disease associations were elucidated.",
+      "categories": []
+    },
+    {
+      "pmid": "42973744",
+      "title": "A case of pseudo-obstruction in a cat associated with amebiasis.",
+      "journal": "JFMS Open Reports",
+      "authors": "de Sousa Filho RP, Lopes Neto BE, Ferreira CB, Sampaio KO",
+      "date": "2026 11 03",
+      "dateObject": "2026 11 03",
+      "abstract": "This report describes a 9-year-old, spayed female domestic shorthair cat presenting with a 7-day history of anorexia and previous chronic constipation. Clinical examination revealed abdominal distension and discomfort. Radiographic and ultrasonographic imaging showed severe, generalized gaseous distension of the entire gastrointestinal tract without evidence of mechanical obstruction. An exploratory celiotomy confirmed severe, non-obstructive dilation of the stomach and intestines, with aperistalsis of the ileum and large intestine. Histopathological analysis of intestinal biopsies revealed neuritis and necrosis of the myenteric plexus, along with the presence of protozoan trophozoites consistent with Entamoeba histolytica . These findings led to a diagnosis of intestinal pseudo-obstruction secondary to amebiasis-associated ganglionitis. Treatment was initiated with pyridostigmine, an acetylcholinesterase inhibitor, and metronidazole. The cat responded favorably, with resolution of clinical signs and normalization of defecation. This case documents a rare instance of intestinal pseudo-obstruction in a cat, uniquely associating it with amebiasis and demonstrating a successful therapeutic outcome with pyridostigmine. To our knowledge, this is the first report of intestinal pseudo-obstruction associated with amebiasis in a feline patient. Furthermore, it adds to the limited literature on the successful use of pyridostigmine for treating severe gastrointestinal dysmotility in cats, offering a potential therapeutic option for this challenging condition.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42974710",
+      "title": "Feasibility of Shallow Whole-Genome Sequencing-Based Circulating Tumour DNA Analysis in Canine Multicentric Lymphoma: A Pilot Study.",
+      "journal": "Veterinary and Comparative Oncology",
+      "authors": "Kim GH, Jang JH, Kim SH, Ryu MO, Kwon CH, Seo KW",
+      "date": "2026 11 03",
+      "dateObject": "2026 11 03",
+      "abstract": "Lymphoma is a common canine malignancy with high morbidity and variable prognosis. Circulating tumour DNA (ctDNA) has emerged as a minimally invasive biomarker for tumour burden, treatment response and prognosis in human lymphoma. However, the feasibility of applying shallow whole-genome sequencing (sWGS)-based ctDNA analysis to canine lymphoma remains unclear. In this pilot study, plasma cell-free DNA (cfDNA) was quantitatively assessed and additional genomic features were evaluated using sWGS in dogs with multicentric lymphoma. cfDNA concentration was significantly higher in dogs with lymphoma (n&#x2009;=&#x2009;13) compared with healthy controls (n&#x2009;=&#x2009;24) (median 3.18 vs. 0.25&#x2009;ng/mL; Mann-Whitney U test, p&#x2009;=&#x2009;0.004). However, total cfDNA concentration was not significantly associated with time to progression (TTP) (p&#x2009;=&#x2009;0.055). Tumour fraction (TF), a surrogate for ctDNA, showed preliminary association with clinical outcome, with a shorter median TTP in the high-TF group than in the low-TF group (77 vs. 302&#x2009;days; p&#x2009;=&#x2009;0.006). Genomic analysis further revealed copy number aberrations (CNAs); notably, gains on chromosome 13 containing the MYC locus were identified in three dogs, all of which belonged to the high-TF group. Dogs with lymphoma also displayed distinct cfDNA fragmentation profiles, characterized by an enrichment of shorter fragments within the analysed size range and a shift in the highest mean-profile peak compared with healthy controls. These findings demonstrate the feasibility of sWGS-based cfDNA analysis in canine lymphoma and suggest that TF may provide clinically relevant information beyond total cfDNA concentration. Validation in a substantially larger, independent cohort is warranted.",
+      "categories": [
+        "oncology"
+      ]
+    },
     {
       "pmid": "42969556",
       "title": "Bendamustine induces peripheral lymphodepletion in dogs with relapsed lymphoma.",
@@ -708,18 +798,6 @@
       ]
     },
     {
-      "pmid": "42947099",
-      "title": "Vertebral cardiac size and heart location of the Syrian hamster (Mesocricetus auratus) in radiographs and in situ gross dissections.",
-      "journal": "BMC Veterinary Research",
-      "authors": "Nourinezhad J, Molaei A, Moarabi A, Borujeni MP, Sabiza S, Janeczek M",
-      "date": "2026 10 28",
-      "dateObject": "2026 10 28",
-      "abstract": "Syrian hamsters (SHs) are a widely used translational cardiovascular research model and popular pets in which cardiac disease has been reported. However, despite their relevance, no information on vertebral heart size (VHS) and cardiac location in this species has been published. This study aimed to examine the hearts of SHs using radiographic and anatomical methods, focusing on VHS and cardiac location, along with the effects of sex, body weight, and body length. Twenty-four healthy adult Syrian hamsters were included in this study. Evaluation of the cardiac silhouette, its radiographic measurements, and cardiac topography was performed in 22 animals, while anatomical cardiac measurements were obtained from 18 suitable cadavers. The cardiac silhouette was typically located between the first intercostal space and the fourth rib, with the majority of the cardiac silhouette oriented to the left side of the median plane. Radiographic VHS values were significantly greater in females than in males A statistically significant inter-observer variation in the radiographic VHS was noted. No significant correlation was found between radiographic or anatomic VHS and body weight or body length. The mean radiographic and anatomic VHS were 8.9 and 6.69 vertebrae, respectively, with the former being significantly higher than the latter (P&#x2009;&#x2264;&#x2009;0.001), indicating that the magnification of the heart was greater than the magnification of the vertebrae. Although the cardiac silhouette orientation in SHs was similar to that in rats, mice, and chinchillas, its position differed from that in mice, rats, guinea pigs, agoutis, and rabbits. The mean radiographic VHS in this study was larger than values reported for rabbits, rats, guinea pigs, agoutis, and prairie dogs, but smaller than those of chinchillas and mice. This study provides the first baseline reference values for VHS in Syrian hamsters and suggests that radiography, considering sex-related variations, is a reliable tool for cardiac size assessment. These findings provide useful data for both clinical and experimental cardiology in this species.",
-      "categories": [
-        "cardiology"
-      ]
-    },
-    {
       "pmid": "42948884",
       "title": "Seventeen Cases of Fungal Otitis Externa in Dogs and Cats.",
       "journal": "Veterinary Dermatology",
@@ -1263,30 +1341,6 @@
       ]
     },
     {
-      "pmid": "42921341",
-      "title": "Fluid balance, electrolyte, and neurohormonal responses to isotonic vs. hypotonic maintenance crystalloids in healthy Beagle dogs.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Her J, Gordon D, Kim K, Wallinger J, Langston C",
-      "date": "2026 10 24",
-      "dateObject": "2026 10 24",
-      "abstract": "To compare the effects of isotonic vs. hypotonic maintenance crystalloid therapy on fluid balance, urine output, and electrolyte homeostasis in healthy Beagles. In this 2-phase clinical study, nine healthy Beagles received intravenous isotonic (lactated Ringer's solution with 5% dextrose plus 26 mEq/L KCl) and hypotonic (Normosol-M and 5% dextrose plus 17 mEq/L KCl) crystalloids at an allometric maintenance rate for 48 h, with a 10-day washout between treatments from July 3 to September 29, 2021. Variables of interests were assessed every 12 h during treatment, and results were analyzed with baseline-adjusted linear mixed-effects models. A p -value < 0.05 was considered statistically significant. Timepoint-specific comparisons were exploratory and unadjusted for multiplicity. In exploratory timepoint-specific analyses, calculated fluid balance was greater with isotonic crystalloids only at T36 [estimated marginal mean (EMM) difference, 356 ml (95% CI, 105-606)]. The overall treatment-by-time interaction for calculated fluid balance was not significant. Urine output did not differ, whereas cumulative urine output was higher with isotonic crystalloids only at T12 (back-transformed EMMs, 125.3 ml for isotonic vs. 81.2 ml for hypotonic). Isotonic crystalloids were associated with significantly higher urinary sodium and chloride at all time points than hypotonic crystalloids. Serum sodium was lower with hypotonic fluids at T24. Individual concentrations fell modestly below the lower reference limit during both phases, with a lowest recorded value of 137 mEq/L and a maximum interval-averaged rate of decline of 0.58 mEq/L/h, and recovered toward baseline by T48. In this exploratory study, isotonic maintenance crystalloids were associated with a transient, relatively more positive calculated fluid balance and consistently greater urinary sodium and chloride excretion than hypotonic crystalloids. In healthy Beagles, the two maintenance crystalloid formulations produced distinct patterns of renal sodium, chloride, and electrolyte-free water handling, while the hypotonic crystalloid did not cause a rapid or clinically important decline in serum sodium.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42921323",
-      "title": "A proposed framework for practical multimodal management of osteoarthritis in adult dogs.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Marcellin-Little DJ, Huntingford J, Grubb T, Pechette Markley A, Brunke MW, Hulse DA, Frank B",
-      "date": "2026 10 24",
-      "dateObject": "2026 10 24",
-      "abstract": "Osteoarthritis (OA) affects nearly half of adult dogs and has physiological, physical, and functional consequences. The physiological impact of OA includes joint inflammation, progressive cartilage degeneration, and pain. Physically, OA changes commonly result in reduced limb strength, muscle atrophy, and, in some cases, decreased joint range of motion. Functionally, OA manifests as diminished willingness or ability to climb stairs, jump, play, exercise, or perform routine activities. These functional losses negatively impact quality of life for both dogs and their caregivers. Effective OA management requires a comprehensive and multimodal approach. Therapeutic options include nutrition, nutritional supplementation, medications, lifestyle changes, electrophysical modalities, manual therapy, therapeutic exercise, ergonomic support, and surgery. Because OA is a chronic and progressive condition, management strategies must be practical, individualized, and sustainable over the long term. Protocols should be streamlined to minimize caregiver burden while maximizing clinical benefit. Foundational management includes nutritional strategies to optimize metabolic health and maintain ideal body condition. Nutritional supplements may provide safe and practical adjunctive support to decrease joint inflammation and pain. When joint pain is identified, non-steroidal anti-inflammatory drugs remain a predictably effective first-line pharmacologic therapy. Additional or alternative therapeutic interventions should be added when initial therapy is inadequate or when safety considerations limit use. Sustained and structured client communication is critical to setting expectations, monitoring response to therapy, and adapting management plans over time. Successful OA management depends not only on therapeutic selection but also on long-term adherence, reassessment, and individualized adjustment. A consensus-driven, multimodal framework provides clinicians with a practical and sustainable strategy to optimize outcomes for adult dogs with OA.",
-      "categories": [
-        "surgery"
-      ]
-    },
-    {
       "pmid": "42925450",
       "title": "Hemodynamic responses to clinical dosages of dopamine and dobutamine in dogs with hypotension under isoflurane anesthesia.",
       "journal": "Veterinary Research Communications",
@@ -1531,18 +1585,6 @@
         "cardiology",
         "internalMedicine",
         "oncology"
-      ]
-    },
-    {
-      "pmid": "42544949",
-      "title": "Evaluation of the clinical course of immune-mediated polyneuropathy in cats after treatment with human intravenous immunoglobulins.",
-      "journal": "Journal of Feline Medicine and Surgery",
-      "authors": "Schmitz AK, Sablotni Aguilera AP, Buhmann G, van Renen J, Parzefall B, Matiasek K, Matiasek LA, Fischer A",
-      "date": "2026 10 17",
-      "dateObject": "2026 10 17",
-      "abstract": "Immune-mediated polyneuropathy (IMPN) manifests with generalised lower motor neuron (LMN) weakness and a remittent or relapsing clinical course. Evidence-based treatment recommendations for severely or chronically affected cats are limited. The objective of this study was to evaluate the clinical course and outcome of cats with IMPN after treatment with human intravenous immunoglobulins (hIVIg). Medical records from two veterinary referral hospitals were reviewed (2018-2025) for cats with IMPN treated with hIVIg. Cats were treated with 1-2&#x2009;g/kg hIVIg divided over 2-4 days (0.5&#x2009;g/kg/day). Clinical information, diagnostic findings, treatment details, and short- and long-term follow-up were evaluated retrospectively. Follow-up information was obtained from medical records and owner communication. Minimum follow-up duration was 8 months (range 8-51; median 17). Clinical course (partial and complete recovery, relapses) was compared between cats with acute/recent onset (four cats) or chronic presentation (five cats). Of nine cats, eight exhibited clinical improvement after hIVIg administration, achieving ambulatory status (walking >5 steps) within a median of 4 days (range 2-8). One cat failed to respond to hIVIg but improved after subsequent prednisolone therapy. For the overall cohort, the median time to complete recovery was 20 days, while the median time to partial recovery was 14 days. Relapses occurred in four cats, but weakness was less severe, and all cats recovered again. The remaining five cats remained relapse-free. Human IVIg was well tolerated in this small cohort, and rapid clinical improvement was observed in most treated cats. These findings suggest that hIVIg may be considered as a treatment option in selected cats with IMPN, including those with acute and chronic presentations. Larger prospective studies, including comparison with no treatment or corticosteroids, are warranted to further assess its efficacy.",
-      "categories": [
-        "internalMedicine"
       ]
     },
     {
@@ -2577,18 +2619,6 @@
       ]
     },
     {
-      "pmid": "42717346",
-      "title": "Isolation of feline-derived scFvs against the VP1-CDE region of feline calicivirus from a phage display library and characterization of their antigen-binding and antiviral potential in vitro.",
-      "journal": "BMC Veterinary Research",
-      "authors": "Wei Y, Wang H, Han Z, Gou H, Sun D, Liu Y",
-      "date": "2026 09 10",
-      "dateObject": "2026 09 10",
-      "abstract": "Feline calicivirus (FCV) is a significant causative pathogen of upper respiratory tract disease and virulent systemic infection in feline populations, yet specific targeted antiviral agents for FCV infection remain unavailable. A feline-derived single-chain variable fragment (scFv) phage display library targeting the VP1-CDE neutralizing region of FCV was constructed using peripheral blood mononuclear cells isolated from cats immunized with recombinant VP1-CDE protein. Positive scFv clones were screened via three rounds of affinity panning and phage ELISA. The scFv-Fc fusion proteins were expressed in eukaryotic cells, and their antigen-binding properties and antiviral potential were characterized through Western blotting, bio-layer interferometry, immunofluorescence assay and viral neutralization assay. The constructed library reached a size of 2.1&#x2009;&#xd7;&#x2009;10 8 independent phages with favorable sequence diversity. Five unique scFv clones, designated 3A5, 3B8, 3H5, 2H5, and 2I5, were identified. All five clones could specifically bind to both recombinant VP1-CDE protein and FCV-infected F81 feline kidney cells. Viral neutralization assays demonstrated that scFv-Fc-3A5 exhibited the most potent neutralizing activity against the genogroup II FCV LZ2023 isolate (IC 50 = 1.862&#xa0;&#xb5;g/mL), scFv-Fc-2H5 showed weak neutralization (IC 50 = 6.168&#xa0;&#xb5;g/mL), and the remaining three clones had no appreciable neutralizing capacity. scFv-Fc-3A5 and scFv-Fc-2H5 are promising candidate molecules for the development of diagnostic reagents and antiviral therapeutics targeting genogroup II FCV.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
       "pmid": "42720853",
       "title": "Genetic variants of Ehrlichia canis detected in two dogs in Japan.",
       "journal": "Veterinary Research Communications",
@@ -2846,20 +2876,6 @@
       ]
     },
     {
-      "pmid": "42663853",
-      "title": "Interventional tracheoscopy for management of intratracheal plasmacytoma in a dog.",
-      "journal": "Veterinary Research Communications",
-      "authors": "Malheiro JIO, da Silva KB, de Jesus IS, de Ara&#xfa;jo AVN, Bezerra J&#xfa;nior PS, da Silva SF, de Oliveira Monteiro FD, Crivelaro RM, Thiesen R, Teixeira PPM",
-      "date": "2026 08 28",
-      "dateObject": "2026 08 28",
-      "abstract": "Intraoperative haemorrhage during interventional tracheoscopy for intratracheal masses can pose a life-threatening challenge. This report emphasizes the technical management of severe bleeding during endoscopic excision of a rare tracheal plasmacytoma in a dog, highlighting the importance of immediate replacement of the endoscope with a larger-calibre device and use of bipolar electrosurgical forceps placed parallel to the endoscope. An 8-year-old male Standard Poodle presented with a two-month history of nonproductive cough and exertional dyspnea. Cervical radiography revealed a nodular mass (1.21&#x2009;&#xd7;&#x2009;1.13&#xa0;cm) attached to the dorsal wall of the cervical trachea. During anesthetic induction for diagnostic and therapeutic tracheoscopy, the endotracheal tube inadvertently compressed the mass, causing substantial haemorrhage with imminent risk of blood aspiration and airway obstruction. The endoscope was immediately replaced with a larger-calibre (5.9&#xa0;mm) device to improve lavage and suction. After removing the endotracheal tube to permit parallel instrument placement, initial attempted resection using a polypectomy snare failed due to recurrent bleeding. Bipolar electrosurgical forceps were then introduced parallel to the endoscope, directly grasping and coagulating the tumour base, which achieved hemostasis and enabled gross endoscopic excision (macroscopic removal of the visible tumour). The dog recovered without respiratory distress and was discharged the same day. Histopathology and immunohistochemistry confirmed extramedullary plasmacytoma. Gross endoscopic excision was achieved; histological margins were not assessable due to cautery artefact. The dog remained free of respiratory signs and tumour recurrence at 12-month follow-up.",
-      "categories": [
-        "internalMedicine",
-        "oncology",
-        "surgery"
-      ]
-    },
-    {
       "pmid": "42618917",
       "title": "Morphometric assessment of the femoral trochlea, patella and patellar ligament in small breed dogs with and without grade II medial patellar luxation.",
       "journal": "BMC Veterinary Research",
@@ -2907,19 +2923,6 @@
       "abstract": "Canine mammary gland tumours (MGT) represent a common malignancy in intact female dogs, with a high metastasis rate approaching 50% and a poor prognosis. However, metastasis-related genes remain largely unelucidated. Accordingly, we aimed to identify differentially expressed mRNAs and miRNAs in primary canine MGT tissues from dogs with or without confirmed metastasis. We compared mRNA and microRNA (miRNA) expression profiles between malignant MGT tissue samples with and without metastasis. Differentially expressed genes and miRNAs were identified using next-generation sequencing and analysed using the Empirical Analysis of DEGs tool within CLC Genomics Workbench. We identified 119 genes and eight miRNAs as differentially expressed in primary MGTs from dogs with confirmed metastasis. The RIPPLY1 gene was significantly downregulated in primary MGT samples with confirmed metastasis and this result was validated by RT-qPCR. The Cancer Genome Atlas (TCGA) database showed decreased RIPPLY1 expression in human breast cancer, supporting its possible relevance to tumour biology. In silico analysis (miRWalk) revealed that miR-187 is a predicted candidate miRNA that may interact with RIPPLY1 and both NGS data and RT-qPCR showed increased cfa-miR-187 expression in primary tumour samples from dogs with confirmed metastasis. The inverse expression pattern of RIPPLY1 and cfa-miR-187, together with RNAhybrid binding prediction, suggests a possible candidate miRNA-mRNA relationship. STRING analysis suggested a possible pathway context involving beta-catenin/TCF-related proteins, but this computational result requires further validation. Based on these findings, we identified RIPPLY1 and cfa-miR-187 as potential candidate transcripts associated with primary canine MGTs from dogs with confirmed metastasis but functional validation is required.",
       "categories": [
         "oncology"
-      ]
-    },
-    {
-      "pmid": "42337642",
-      "title": "Raman Spectroscopy for Differentiating High- and Low-Grade Canine Cutaneous Mast Cell Tumours.",
-      "journal": "Veterinary and Comparative Oncology",
-      "authors": "Catarino J, Silva S, Novais S, Santos J, Payan-Carreira R, Fa&#xed;sca P, Reis J",
-      "date": "2026 08 10",
-      "dateObject": "2026 08 10",
-      "abstract": "Canine cutaneous mast cell tumours (MCTs) demonstrate variable clinical behaviour. Histological grading remains the primary prognostic approach, but some low-grade tumours behave aggressively, and interobserver variability persists. This underscores the need for complementary and objective biomarkers. Raman spectroscopy (RS) is a non-destructive optical technique based on the inelastic scattering of monochromatic light capable of detecting subtle biochemical changes in tissues. This exploratory study evaluates whether RS could differentiate low-grade from high-grade cutaneous MCTs based on characteristic vibrational signatures. Eighteen canine cutaneous mast cell tumours were graded according to the Kiupel two-tier system, comprising 10 low-grade and 8 high-grade cases. Formalin-fixed tumour samples were analysed, yielding a total of 68 Raman spectra. Spectra were acquired with a 785&#x2009;nm laser, pre-processed using baseline correction, and normalized to the 1007&#x2009;cm -1 phenylalanine band. Data normality was tested with the Shapiro-Wilk test, and group comparisons used the Mann-Whitney U test (&#x3b1;&#x2009;=&#x2009;0.05). The 1007&#x2009;cm -1 band showed no significant difference between Low- and High-Grade tumours (p&#x2009;=&#x2009;0.068), validating its use for normalization. Conversely, the 860&#x2009;cm -1 tyrosine-associated band was significantly higher in high-grade tumours (p&#x2009;=&#x2009;0.033). Ratios normalized to the 1007&#x2009;cm -1 peak consistently discriminated between grades, with significantly higher values in low-grade tumours across multiple spectral regions-particularly 1007/1299 and 1007/1301-1320 (all p&#x2009;<&#x2009;0.05). Overall, RS identified distinct biochemical fingerprints between tumour grades in canine cutaneous MCTs, especially in spectral regions associated with amino acids, lipids, and nucleic acids. These findings support the potential of RS as a complementary tool for MCT characterization and encourage further validation in larger cohorts with clinical outcome data.",
-      "categories": [
-        "oncology",
-        "dermatology"
       ]
     },
     {
@@ -3159,18 +3162,6 @@
       "categories": [
         "oncology",
         "surgery"
-      ]
-    },
-    {
-      "pmid": "42256055",
-      "title": "Acute vitamin D toxicosis in an adult cat.",
-      "journal": "JFMS Open Reports",
-      "authors": "Chasnick IR, Levy NA",
-      "date": "2026 06 08",
-      "dateObject": "2026 06 08",
-      "abstract": "A 4-year-old, female spayed domestic shorthair cat was presented to the Michigan State University emergency service for evaluation of vomiting 4 days after exposure to vitamin D supplements. On intake, the patient was found to have ionized hypercalcemia and azotemia. The patient was hospitalized for calciuresis therapy including fluid diuresis, diuretics, steroids, bisphosphonates and a nasogastric feeding tube. She was discharged and presented for a recheck evaluation and was then hospitalized a second time for the same therapy as her first hospitalization. Eventually the patient was discharged for at-home care with subcutaneous fluids and oral medications because of financial constraints. Approximately 52 days after exposure, the cat was noted to have persistently normal ionized calcium and all medications were discontinued. This case provides a unique example of acute vitamin D toxicosis in a cat and a financially conservative approach in treating a toxicity with a significant half-life.",
-      "categories": [
-        "internalMedicine"
       ]
     },
     {
