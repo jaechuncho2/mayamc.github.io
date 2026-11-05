@@ -1,6 +1,88 @@
 {
-  "updated_at": "2026-11-04T01:23:47.095Z",
+  "updated_at": "2026-11-05T01:28:06.868Z",
   "papers": [
+    {
+      "pmid": "42979989",
+      "title": "Survival time and prognostic factors in cats with suspected acute pyelonephritis.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Fletcher JR, Gal A, Dill-Macky E, Cook EK, Harris LM, Mackie JT, Malikides N",
+      "date": "2026 11 04",
+      "dateObject": "2026 11 04",
+      "abstract": "Although acute pyelonephritis (APN) is considered to have a better prognosis than other causes of acute kidney injury (AKI) in cats, survival time and prognostic factors are poorly defined. To determine survival time and prognostic factors influencing survival time in cats suspected of APN. Fifty-four client-owned cats with suspected APN. A retrospective cohort study was designed to review medical records between June 2017 and December 2025 for clinical data and survival time. Overall survival time was assessed using Kaplan-Meier analysis. Cox proportional hazard regression univariable screening then multivariable modeling identified factors associated with survival. Clinical features of survivors and non-survivors to 30-days after presentation were compared. Median survival time (MST) was 390&#xa0;days (95% CI, 153-774&#xa0;days). Cats that experienced less than 50% reduction or any increase in percentage change in serum creatinine concentration between hospital admission and discharge or euthanasia (sCr&#x394;%) had significantly higher hazards of death than cats experiencing greater than 50% reduction in sCr&#x394;%, after adjusting for International Renal Interest Society (IRIS) AKI grade and admission temperature (adjusted hazard ratios [HRs], 8.4&#xa0;&#xd7;&#xa0;104-1.1&#xa0;&#xd7;&#xa0;106; 95% CIs, 4.9&#xa0;&#xd7;&#xa0;102-3.1&#xa0;&#xd7;&#xa0;108; P&#xa0;<&#xa0;.001). No other factors, including pre-existing chronic kidney disease, infecting bacterial isolate, or antimicrobial regimen used, were independently associated with overall survival time. Cats suspected of APN have favorable long-term prognosis. Less reduction or any increase in sCr&#x394;% was associated with shorter survival time, with the prognostic effect strongly influenced by IRIS AKI grade and temperature at admission. Acute pyelonephritis (APN), a bacterial infection of the kidneys, is an important cause of acute kidney injury (AKI) in cats. Although APN is generally considered to have a better prognosis than other causes of AKI, the prognosis and factors associated with survival time in cats are poorly defined. This study followed 54 cats with suspected APN to evaluate survival time and factors associated with survival time. MST was 390&#xa0;days, although individual survival times varied. Cats whose kidney function improved less or worsened during hospitalization had shorter survival times than cats with a greater improvement in kidney function. The severity of AKI and body temperature at admission influenced this association. In contrast, pre-existing chronic kidney disease, type of bacteria implicated in the infection, and the antimicrobial treatment used were not independently associated with survival time. Therefore, less improvement in kidney function, higher AKI grade, and decreased body temperature during hospitalization together indicate a less favorable prognosis in cats suspected of APN and may offer pet owners a stronger decision-making foundation.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42979426",
+      "title": "Functional peptide therapeutics for veterinary osteoarthritis: mechanisms, delivery systems, and translational priorities.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Choi SC, Song MG, Yi SY, Lee SH, Lee IA",
+      "date": "2026 11 04",
+      "dateObject": "2026 11 04",
+      "abstract": "Veterinary osteoarthritis (OA) is a chronic whole-joint disorder that causes pain, gait impairment, reduced activity, and diminished quality of life in companion and performance animals. Current multimodal management includes weight control, rehabilitation, non-steroidal anti-inflammatory drugs, prostaglandin E2 EP4 receptor antagonists, anti-nerve growth factor monoclonal antibodies, intra-articular therapies, and nutraceuticals. Although these interventions improve pain and function, they generally do not restore the cartilage extracellular matrix or provide sustained disease modification. Functional peptides have emerged as promising candidates because of their potential to suppress inflammation, inhibit matrix degradation, promote chondrogenesis, target damaged cartilage, and support sustained or targeted delivery. This narrative review evaluated the pathobiological rationale, veterinary evidence, peptide classes, delivery technologies, pharmacological requirements, and translational barriers relevant to veterinary OA. Targeted literature searches and qualitative evidence appraisal focused on clinical relevance, peptide mechanisms, delivery strategies, species-specific limitations, and the distinction between nutritional collagen hydrolysates and sequence-defined therapeutic peptides. Oral bioactive collagen peptides currently provide the most direct clinical evidence in naturally occurring canine and equine OA. However, the principal canine trial was limited by modest sample size and duration, predominantly symptomatic rather than structural outcomes, and manufacturer support. Thus, the available evidence supports potential adjunctive clinical benefit rather than a disease-modifying claim. Sequence-defined hyaluronan-binding, bone morphogenetic protein receptor-mimetic, collagen-binding, collagen-hybridizing, and cartilage-targeting peptides have demonstrated mechanistic or delivery advantages in cell, tissue, rodent, and selected large-animal studies, but target-species pharmacokinetic and clinical validation remains limited. A credible development pathway should integrate target-specific activity, protease stability, immunogenicity, manufacturability, species-appropriate delivery, joint exposure, repeated-dose safety, objective gait and activity outcomes, and structural endpoints. Functional peptides are unlikely to replace multimodal care in the near term but may become valuable adjunctive platforms and contribute to future disease-modifying strategies when biological activity is supported by demonstrated joint exposure, structural protection, and rigorous comparative trials.",
+      "categories": []
+    },
+    {
+      "pmid": "42979075",
+      "title": "Clinical leptospirosis in a cat presenting with severe hypokalaemia and glucosuria.",
+      "journal": "JFMS Open Reports",
+      "authors": "Jagdhane R, Cattin R",
+      "date": "2026 11 04",
+      "dateObject": "2026 11 04",
+      "abstract": "A 1.5-year-old, female spayed domestic mediumhair cat presented for lethargy, inappetence, weight loss, polyuria, polydipsia and severe generalised muscle weakness with cervical ventroflexion. She was noted to be severely hypokalaemic and to have severe glucosuria without significant hyperglycaemia. PCR and serological tests suggested a diagnosis of leptospirosis serovar Pomona. The cat was treated with doxycycline, potassium supplementation and spironolactone, after which the hypokalaemia improved and glucosuria resolved when assessed 2 weeks later. Cats are generally considered to be resistant to clinical infection with leptospirosis, and reports of clinical disease are rare. To the authors' knowledge, there have been no reports of hypokalaemia or severe glucosuria in clinically affected cats. In addition, this report highlights the importance of considering leptospirosis as a differential diagnosis in cats who are exposed to various risk factors reported for this disease.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42976480",
+      "title": "Long-term, longitudinal companion dog research at a nationwide scale.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Creevy K",
+      "date": "2026 11 03",
+      "dateObject": "2026 11 03",
+      "abstract": "",
+      "categories": []
+    },
+    {
+      "pmid": "42977705",
+      "title": "Primary Erythrocytosis (Polycythaemia) in a Neutered Male Dog Presenting With Right Hindlimb Lameness.",
+      "journal": "Veterinary Medicine and Science",
+      "authors": "Belch R, Henry P, Ferreira M, Padros AA, Munoz ML, Lloyd-Bradley B, Isaac I, Llewellyn E, Nagendran A",
+      "date": "2026 11 03",
+      "dateObject": "2026 11 03",
+      "abstract": "A 2-year-old male entire Cocker Spaniel was referred for investigation of progressive right hindlimb lameness and polyuria and polydipsia. Investigations conducted by the primary care veterinary surgeon revealed erythrocytosis (haematocrit of 78%, reference interval: 37%-55%) and urine concentration consistent with polyuria and polydipsia (specific gravity 1.014). Upon referral, physical examination revealed a dark red oral mucosa and right hindlimb lameness, characterised by intermittent non-weight bearing of the limb when standing. Neurological examination only revealed a mild short-strided gait, and orthopaedic examination was unremarkable. Secondary causes of erythrocytosis were excluded by normal arterial blood gas, low erythropoietin levels and normal thoracic and abdominal imaging, resulting in a diagnosis of primary erythrocytosis (PE). Focal ultrasonography identified a right external iliac venous thrombus, suspected to be the cause of the right hindlimb lameness and presumed to be associated with the PE. Initial management involved repeated phlebotomies, followed by long-term treatment with hydroxyurea (31&#xa0;mg/kg twice weekly) and rivaroxaban (2&#xa0;mg/kg once daily). At the 5-month recheck, the dog was asymptomatic, with resolution of the iliac thrombus and a normal haematocrit. This case highlights an unusual presentation of PE in a dog, not previously described in the veterinary literature, and re-examines the discussion on the optimal management of this rare condition, with a focus on the necessity of antithrombotic therapy.",
+      "categories": [
+        "surgery",
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "42977701",
+      "title": "Surgical Site Infection and Antimicrobial Resistance After Mastectomy in Dogs and Cats: A 615-Case Multicentre Cohort and Infection-Control Audit.",
+      "journal": "Veterinary Medicine and Science",
+      "authors": "Hedayatinia M, Gorjian F, Pato M, Maadi MA, Ahmadi R, Abdous A",
+      "date": "2026 11 03",
+      "dateObject": "2026 11 03",
+      "abstract": "Surgical site infection (SSI) is an important complication after mastectomy and antimicrobial resistance may complicate treatment. To estimate 30-day SSI incidence after mastectomy in dogs (Canis lupus familiaris Linnaeus, 1758) and cats (Felis catus Linnaeus, 1758), evaluate patient- and procedure-related factors, describe perioperative antimicrobial use and microbiology and assess clinic infection-control practices. This multicentre retrospective cohort included 615 mastectomy procedures from 12 veterinary clinics in Tehran Province, Iran, between 2020 and 2025. SSI-positive records were independently re-reviewed by two investigators using contemporary veterinary SSI terminology. Clinic-stratified conditional logistic regression evaluated seven clinically selected predictors. SSI occurred after 54/615 procedures (8.8%; 95% CI, 6.8%-11.3%); 50 infections were superficial and four deep. Surgical duration per 30 min (aOR, 2.37; 95% CI, 1.61-3.49), intraoperative hypothermia (aOR, 3.66; 95% CI, 1.39-9.62), body condition score per point (aOR, 1.60; 95% CI, 1.05-2.42) and previous major surgery (aOR, 3.57; 95% CI, 1.49-8.55) were associated with SSI. An MDR isolate was identified in 16/33 cultured SSI cases and antimicrobial-isolate discordance was present in 15/30 assessable comparisons. Mean clinic infection-control audit score was 4.6 &#xb1; 1.7/10. Longer surgery, intraoperative hypothermia, higher body condition score and previous major surgery were associated with SSI in this predominantly canine cohort of intact animals undergoing mastectomy without concurrent ovariohysterectomy. These associations were not independently demonstrated in cats. The findings support standardised surveillance, perioperative risk reduction, culture-guided treatment and antimicrobial stewardship. Not applicable. This was a retrospective observational study and clinic-level audit and was not a clinical trial.",
+      "categories": [
+        "internalMedicine",
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42977694",
+      "title": "Toxoplasma gondii in Ethiopia: A Systematic Review and Meta-Analysis of Infection Prevalence and Associated Risk Factors in Humans and Animals.",
+      "journal": "Veterinary Medicine and Science",
+      "authors": "Wubaye AM, Shitu BF, Delie AM, Haimanot AB, Ayicheh YW, Mulugeta AM, Enawgaw AS, Ambaw YG, Bitewa MD, Wondie SG, Kassie TD, Mengie ZA, Kallu SA, Tafere BA, Mekonnen TS, Molla MG, Eshetu DM, Yewodiaw TK",
+      "date": "2026 11 03",
+      "dateObject": "2026 11 03",
+      "abstract": "Toxoplasma gondii is a protozoan parasite with significant animal and public health implications. The aim of this systematic review and meta-analysis was to estimate the pooled prevalence of toxoplasmosis in ruminants and humans in Ethiopia and to determine the major risk factors associated with the disease. Five databases were used to search for all articles published between 2012 and 2025. The pooled prevalence of toxoplasmosis was calculated using a random-effects model. I 2 statistics were used to assess heterogeneity among the included studies. Publication bias was assessed through a meta-analysis Egger regression asymmetry test. The overall pooled prevalence of T. gondii was 42.0% (95% CI: 35.0%-49.0%) in ruminants and 61.0% (95% CI: 49.0%-74.0%) in humans. Female animals have higher odds of acquiring T. gondii (OR = 1.76; 95% CI: 1.56-2.00) than males. Similarly, adult animals were more likely to be exposed to the disease (OR = 2.39; 95% CI: 2.10-2.74) than young age groups. In humans, rural residence (OR = 1.23; 95% CI: 1.07-1.42) and cat ownership (OR = 2.04; 95% CI: 1.79-2.32) were significantly associated with T. gondii seropositivity. These results highlight the necessity of targeted monitoring and preventative measures to reduce T. gondii exposure in both animal and human populations in Ethiopia.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
     {
       "pmid": "42974042",
       "title": "Partners or tools? Ethical framings shape welfare research on dogs and horses in animal-assisted services.",
@@ -32,6 +114,18 @@
       "categories": [
         "internalMedicine",
         "neurology"
+      ]
+    },
+    {
+      "pmid": "42977943",
+      "title": "Isolation, identification and antifungal resistance profile of toxigenic Aspergillus species from marketed dog foods in Ibadan, Nigeria.",
+      "journal": "BMC Veterinary Research",
+      "authors": "Adeyemo IA, Ahmed AO, Isola TO, Aremu A, Odetokun IA, Raufu IA, Raji MA",
+      "date": "2026 11 03",
+      "dateObject": "2026 11 03",
+      "abstract": "Mycotoxin-producing fungi that contaminate dog food have effects on the feed's nutritional value, organoleptic characteristics, and overall quality. Animals and humans may experience both short-term and long-term harmful effects by consuming fungi and mycotoxin-contaminated feeds. In dogs, high morbidity and mortality are observed as a result of immunosuppressive, hepatotoxic, nephrotoxic, and carcinogenic effects from the mycotoxins. This study investigated the occurrence, antimicrobial resistance profile and mycotoxins produced by toxigenic Aspergillus species, with the potential aim of providing baseline information on the quality and safety of commercial dog feeds. Eighteen brands/types of dog food samples were obtained from pet and veterinary stores in Ibadan, Oyo State. Two main species of presumptive toxigenic Aspergillus were isolated and identified by using both macroscopic examination and standard microbiological procedures. Antifungal susceptibility test (AFST) was carried out using the disc diffusion method to determine resistance profiles of these presumptive isolates (n=14). The GC-MS analytical method was used to screen 10 selected dog foods for 16 different mycotoxins. Sixteen (88.9%) samples were presumptively positive for Aspergillus species. All (100%) crunchies (imported), noodles and mash types of dog food samples were positive for Aspergillus species. While two out of the three local crunchies and one out of the spaghetti types of the dog food were positive for Aspergillus species. Seven (39%) and 16 (89%) isolation rates were recorded for presumptive Aspergillus parasiticus and Aspergillus flavus, respectively. A varying degree of resistance was observed among the selected isolates to Miconazole, Ketoconazole, Clotrimazole and Nystatin. However, 100% of the 14 isolates showed resistance to Flucytosine and Fluconazole, while 100% of the selected isolates were sensitive to Econazole. Seven different resistance patterns were observed for the 14 isolates of both Aspergillus parasiticus and Aspergillus flavus, with 85.7 % Multiple drugs resistance (MDR). Nine mycotoxins (Aflatoxins B1, G1, G2, M1, M2, Fumonisin B2, Ochratoxin A, T2-toxin and H2-toxin) were detected and higher levels for seven of the mycotoxins (Aflatoxins B1, G1, G2, M1, M2, Ochratoxin A and T2-toxin) were observed. This study isolated toxigenic Aspergillus spp that are resistant to standard antifungal drugs with high mycotoxin contamination in dog foods marketed in Ibadan.",
+      "categories": [
+        "internalMedicine"
       ]
     },
     {
@@ -1225,18 +1319,6 @@
       ]
     },
     {
-      "pmid": "42928309",
-      "title": "Effects of transcription units and a specific hexanucleotide motif of porcine circovirus-like virus P1 on viral DNA synthesis, viral protein expression, and progeny virus production.",
-      "journal": "BMC Veterinary Research",
-      "authors": "Song J, Li Z, Li N, Xie J, Zhu H, Lai H, Xiang Z, Zhong Y, Sun H, He K, Suolang S, Wen L, Xiao Q",
-      "date": "2026 10 26",
-      "dateObject": "2026 10 26",
-      "abstract": "Porcine circovirus-like virus P1 has a broad host range and is known to cause post-weaning multisystemic wasting syndrome in pigs, as well as infect and propagate in cattle, goats, dogs, cats, yaks, and rabbits. To investigate the functional importance of its eight open reading frames (ORFs) and the conserved hexanucleotide motif (GGATCC), we generated a panel of site-directed mutants based on the P1 infectious clone rpSK-2P1. These mutants were transfected into PK-15 cells and serially passaged four times. Viral replication capacity and genetic stability were assessed using polymerase chain reaction (PCR), quantitative PCR, and Sanger sequencing. All the mutant viruses retained the ability to replicate their genomes and transcribe viral RNA. However, sequencing of viral genomes recovered at the fourth passage revealed selective reversion at multiple mutated sites, indicating a strong replicative advantage conferred by wild-type sequences during sustained propagation. Notably, mutant Y1, which harbored a mutation in ORF1 that encoded the capsid protein (Cap), initially exhibited reduced replication but rapidly reverted upon passaging, restoring Cap expression and fitness. These findings demonstrate that although these ORFs and nucleotide sites do not abolish P1 replication, their native sequences play pivotal roles in modulating replication efficiency and maintaining genetic stability, thereby providing key insights into the molecular mechanisms governing P1 replication. Thus, P1 tolerates limited genetic change but is under intense pressure to maintain its wild-type sequence, offering critical insight into the replication strategy and evolutionary constraints of this compact, broad-host-range DNA virus.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
       "pmid": "42665890",
       "title": "Efficacy and tolerability of a sequential COP and doxorubicin chemotherapy protocol for treatment of high-grade lymphoma in cats.",
       "journal": "Journal of Feline Medicine and Surgery",
@@ -1326,18 +1408,6 @@
         "oncology",
         "surgery",
         "neurology"
-      ]
-    },
-    {
-      "pmid": "42921373",
-      "title": "Short-course letrozole restores fertility in aged azoospermic dogs.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Liu B, Zhang L, Zhu F, Jin X, Liu T",
-      "date": "2026 10 24",
-      "dateObject": "2026 10 24",
-      "abstract": "Age-related azoospermia is a clinically important cause of male infertility in dogs, yet effective pharmacological treatments for aged males remain limited. Whether transient aromatase inhibition can restore fertility in aged azoospermic dogs without prolonged exposure is unclear. This study evaluated whether a 1-week course of letrozole, an aromatase inhibitor, could restore spermatogenesis and fertility in aged azoospermic male dogs. Untreated aged azoospermic and young fertile dogs served as comparison groups, and a separate cohort of five aged dogs received 3 months of letrozole for safety assessment. Serum testosterone, semen parameters, testicular histology, fertilization-related transcripts, spermatogonia, seminal plasma metabolites, and serum biochemical markers of liver, kidney, and bone metabolism were assessed before and after treatment over a 6-month follow-up. Serum testosterone increased within 1 week and peaked at approximately 2 weeks. Spermatozoa reappeared in ejaculates approximately 3 months after treatment and persisted for more than 6 months; treated males subsequently achieved pregnancies with healthy offspring, although litter size remained smaller than that of young fertile dogs. Compared with 3-month administration, 1-week treatment was not associated with detectable changes in serum alkaline phosphatase (ALP). These findings indicate that a 1-week letrozole course can restore spermatogenesis and fertility in aged azoospermic dogs, supporting its further evaluation as a low-exposure therapeutic strategy; larger, breed-stratified studies with extended safety profiling are recommended before clinical adoption.",
-      "categories": [
-        "internalMedicine"
       ]
     },
     {
@@ -1461,16 +1531,6 @@
       ]
     },
     {
-      "pmid": "42906597",
-      "title": "Advances in detection canine science at Auburn University.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Chester E, Lazarowski L, Wang X, Bartol FF, Johnson CM",
-      "date": "2026 10 22",
-      "dateObject": "2026 10 22",
-      "abstract": "",
-      "categories": []
-    },
-    {
       "pmid": "42904785",
       "title": "Proactive Treatment of Canine Allergic Otitis Externa With Hydrocortisone Aceponate: A Retrospective Observational Study.",
       "journal": "Veterinary Medicine and Science",
@@ -1585,18 +1645,6 @@
         "cardiology",
         "internalMedicine",
         "oncology"
-      ]
-    },
-    {
-      "pmid": "42870559",
-      "title": "Reply to letter regarding \"ACVIM-endorsed statement: consensus statement and systematic review on guidelines for the diagnosis and treatment of chronic inflammatory enteropathy in dogs\".",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Heilmann RM, Jergens AE, Kathrani A, Allenspach K, Schmitz SS, Priestnall SL, Dandrieux JRS, O'Connor AM",
-      "date": "2026 10 16",
-      "dateObject": "2026 10 16",
-      "abstract": "",
-      "categories": [
-        "internalMedicine"
       ]
     },
     {
@@ -2342,21 +2390,6 @@
       ]
     },
     {
-      "pmid": "42777784",
-      "title": "Palliative Debulking of an Aortic Body Tumour With Right Atrial Invasion in a Dog Under Partial Cardiopulmonary Bypass.",
-      "journal": "Veterinary Medicine and Science",
-      "authors": "Suzuki S, Tanaka S, Kanno N, Yogo T, Harada Y, Michishita M, Hara Y",
-      "date": "2026 09 23",
-      "dateObject": "2026 09 23",
-      "abstract": "Aortic body tumours are uncommon heart-base neoplasms in dogs, and intracardiac extension causing clinically significant right atrial obstruction is rarely described. A 7-year-1-month-old, 15.2-kg, castrated male French Bulldog was evaluated for 2 weeks of lethargy, hyporexia, exercise intolerance, abdominal distension, and polydipsia. Transthoracic echocardiography revealed severe right-sided cardiac enlargement and a heterogeneous right atrial intracavitary mass (3.2 &#xd7; 3.1 cm) suspected to arise from the heart base, with tricuspid regurgitation (maximal velocity 4.03 m/s). Abdominal ultrasonography showed hepatic venous congestion and marked ascites; fluid was a modified transudate. Medical therapy failed to resolve ascites, and surgical debulking was performed on Day 7 under partial cardiopulmonary bypass. The mass was firmly adherent to the atrial septal aspect and could not be completely excised. Postoperatively, ascites and clinical signs resolved, right-sided cardiac enlargement decreased, and tricuspid regurgitation was no longer detectable; the dog was discharged on Day 14. A recurrent right atrial mass was documented on Day 360 without recurrence of right-sided heart failure. The dog died on Day 390 from pancreatitis-associated biliary obstruction and multiple organ failure. Necropsy confirmed an aortic body tumour with intracardiac extension into the right atrium and pulmonary metastasis with tumour emboli. Partial cardiopulmonary bypass-assisted palliative debulking may temporarily relieve life-limiting intracardiac obstruction in carefully selected dogs; however, this approach is high-risk and non-curative, and its contribution to long-term survival remains uncertain because postoperative toceranib therapy and the natural behaviour of the tumour may also have influenced the clinical course.",
-      "categories": [
-        "cardiology",
-        "internalMedicine",
-        "oncology",
-        "surgery"
-      ]
-    },
-    {
       "pmid": "42773435",
       "title": "Evaluation of urinary biomarkers for detection of renal tubular injury in Vipera berus-envenomated and critically ill dogs with and without clinically apparent acute kidney injury.",
       "journal": "BMC Veterinary Research",
@@ -2365,19 +2398,6 @@
       "dateObject": "2026 09 23",
       "abstract": "Acute kidney injury (AKI) in dogs has high mortality and early diagnosis is essential, but traditional markers are not sensitive enough to detect renal injury in the absence of decreased glomerular filtration rate. The objective of this study was to compare urinary cystatin C (uCysC), N-acetyl-&#x3b2;-D-glucosaminidase (uNAG), and glucose (uGlu) among dogs hospitalised because of envenomation by Vipera berus (EVB) or admitted for intensive care without (IC) or with (AKI APP ) clinically apparent AKI, and 30 healthy dogs. Urine and serum samples were collected on days 1 and 2, and urine samples on days 7 and 14. Urinary CysC, NAG, and glucose concentrations were measured with an automated chemistry analyser, normalised to urinary creatinine concentration (uCr) and compared among groups. Ninety-seven dogs were included (30 HC, 28 EVB, 14 AKI APP and 25 IC dogs). Age, bodyweight, and sex did not differ among groups. On day 1, median [IQR] uCysC/uCr (10 -3 ) and uGlu/uCr were higher (p&#x2009;<&#x2009;0.008) in EVB (0.05 [0.03-0.11], 0.04 [0.03-0.06)]), IC (0.06 [0.03-0.4], 0.05 [0.03-0.09]), and AKI APP (4.4 [0.13-30.0], 0.12 [0.05-0.45]) groups, compared to healthy dogs (0.02 [0.01-0.03], 0.03 [0.02-0.04]). Urinary markers decreased over two weeks post hospitalisation in all groups except AKI APP . Initial levels of uCysC/uCr were higher (p&#x2009;<&#x2009;0.002) and remained elevated in non-survivors compared to survivors of AKI APP , suggesting potential prognostic value. Urinary CysC/uCr and Glu/uCr are potential markers of tubular injury in early stages of AKI in dogs.",
       "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42772772",
-      "title": "Safety Assessment of Mefepronic Acid in Sheep.",
-      "journal": "Veterinary Medicine and Science",
-      "authors": "Canbar R, Parlak TM, Uslu M, Yazar E",
-      "date": "2026 09 22",
-      "dateObject": "2026 09 22",
-      "abstract": "Mefepronic acid is used as a choleretic agent in different animal species. Although mefepronic acid is used extra-label in sheep, information on its safety in this species is limited. The aim of this study was to determine the effects of mefepronic acid on serum oxidative stress, lipid metabolism and organ function parameters in sheep. Mefepronic acid was administered to 10 sheep at a dose of 10&#xa0;mg/kg (intramuscular, once daily, 3 days). Blood samples were taken at 0 and at 24, 48 and 72 h. 8-OHdG, MDA, SOD, GPX, CAT, CK-MB isoenzyme, troponin I, serum ALP, AST, ALT, total bilirubin, BUN, creatinine, cholesterol, triglycerides, LDL and HDL levels were measured. Mefepronic acid administration resulted in a transient increase in 8-OHdG levels (p < 0.05) and a decrease in CAT levels (p < 0.05), a transient increase in CK-MB isoenzyme levels (p < 0.05), and a decrease in BUN, HDL and LDL levels (p < 0.05), but no effect on other parameters (p > 0.05). Administration of mefepronic acid to sheep may cause transient changes in oxidative stress parameters and CK-MB isoenzyme levels. However, these changes were not associated with an increase in troponin I levels or clinically significant myocardial damage. Mefepronic acid did not cause clinically significant adverse effects on liver or kidney function parameters.",
-      "categories": [
-        "cardiology",
         "internalMedicine"
       ]
     },
@@ -2404,18 +2424,6 @@
       "abstract": "This study evaluated the effects of dietary corn husk meal (CHM) on growth, digestive enzyme activity, intestinal morphology, immune- and antioxidant-related gene expression, and ammonia-stress tolerance in biofloc-cultured koi carp. A total of 300 fish (initial weight, 32.20&#x2009;&#xb1;&#x2009;0.03&#xa0;g) were fed diets containing 0, 5, 10, 20, or 30&#xa0;g/kg CHM for eight weeks. Survival remained high across treatments (>&#x2009;95%), while fish fed CHM-10 showed significantly improved growth and a lower feed conversion ratio than the control (p&#x2009;<&#x2009;0.05). Polynomial regression estimated a modeled optimum CHM inclusion level of approximately 14.4-14.9&#xa0;g/kg, which was not directly tested in the feeding trial. Serum total protein was unaffected, whereas digestive enzyme activities increased at moderate CHM levels, peaked at 10&#xa0;g/kg and declined at higher inclusion levels. Fish fed 10&#xa0;g/kg CHM also exhibited improved intestinal morphometry, whereas higher inclusion levels produced less favorable villus characteristics. CHM supplementation at 10&#xa0;g/kg significantly upregulated tlr4, tnf-&#x3b1;, il-8, tgf-&#x3b2;, il-10, gpx, sod, gst, and lyz, while nf-&#x3ba;B and cat were not significantly affected. During ammonia exposure, the CHM-10 and CHM-20 groups showed significantly higher survival than the control. Overall, CHM-10 was the best-performing experimentally tested inclusion level, improving growth, digestive function, intestinal morphology, selected immune- and antioxidant-related gene expression, and ammonia-stress resilience in koi carp, while the regression analysis suggested a higher modeled optimum of approximately 14.4-14.9&#xa0;g/kg. These findings support the sustainable use of agricultural by-products as dietary ingredients for aquaculture.",
       "categories": [
         "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42749338",
-      "title": "Multiple Modelling Methods Suggest That Grain-Free Diets Are Not Predictive of New Owner-Reported Cardiac Diagnoses Over Two Years in the Dog Aging Project, Despite Owner Misclassification of Diet.",
-      "journal": "Veterinary Medicine and Science",
-      "authors": "O'Brien J, Bishop M, Dog Aging Project Consortium, Tolbert MK, Ruple A",
-      "date": "2026 09 16",
-      "dateObject": "2026 09 16",
-      "abstract": "Grain-free diets have been potentially linked to dilated cardiomyopathy (DCM) in several studies in dogs, although the underlying mechanisms for this potential link, if present, are unclear. Additionally, some studies have found no association between grain-free diets and DCM in dogs. Unfortunately, many of these studies were limited by the validity of owner-reported diet information. Furthermore, the effect of grain-free diets on other cardiac conditions in dogs is even less studied. To assess the validity of owner-reported grain-free diet status information, and to model the potential effect of grain-free diet exposures over the first several years of Dog Aging Project data collection. The validity of owner-reported grain-free status of the diet was evaluated by comparing owner-reported grain-free diet status to the ingredients. Several regression analyses were performed, accounting for likely confounding factors identified with a directed acyclic graph (DAG), to measure the effect of owner-reported grain-free diet status on all cardiac diagnoses. General linear mixed-effects models and general linear regression models were used with similar results. There was a large misclassification error in the diets reported to be grain-free. In spite of this, modelling methods anticipate that any bias introduced into an effect estimate would be very small. Several modelling methods failed to find a statistically significant association between grain-free status of the diet and any cardiac diagnosis. When including incident-only cases in a linear model with confounders, the odds ratio for the effect of grain-free diet status on any new cardiac diagnosis was 1.05 (0.91-1.21, p value 0.52), suggesting no effect. The findings suggested that the potential effect of grain-free feeding on all owner-reported new diagnoses of any cardiac disease within this dataset is likely minimal or absent.",
-      "categories": [
-        "cardiology"
       ]
     },
     {
@@ -3175,19 +3183,6 @@
       "categories": [
         "surgery",
         "dermatology"
-      ]
-    },
-    {
-      "pmid": "42146261",
-      "title": "Video-assisted thoracic surgery of a caudal mediastinal paraoesophageal abscess in a cat with recurrent pyothorax.",
-      "journal": "JFMS Open Reports",
-      "authors": "Zhong M, Basa R, Podadera JM, Krockenberger MB, Courtman N, Thompson MF, Olive M",
-      "date": "2026 05 18",
-      "dateObject": "2026 05 18",
-      "abstract": "A 6-year-old spayed female domestic shorthair cat was presented with acute respiratory distress and lethargy. Three months prior, the cat had been medically managed for a bacterial pyothorax. Initial stabilisation included oxygen supplementation, and a point-of-care ultrasound (POCUS) revealed bilateral pleural effusion. A thoracostomy tube was placed and pleural fluid was aseptically collected. Cytological evaluation of the pleural fluid was consistent with a septic neutrophilic exudate, with Fusobacterium russii , Bacteriodes pyogenes and Porphyromonas gingivalis isolated on anaerobic bacterial culture. A CT scan of the thorax revealed a caudal mediastinal paraoesophageal mass, with no gross mucosal abnormalities or foreign material apparent on oesophagoscopy. Lack of response to medical management promoted video-assisted thoracic surgery (VATS), with partial conversion to a thoracoscopic-assisted approach to improve visualisation. Histopathology of the mass was consistent with an abscess, and F russii and B pyogenes were isolated. No primary cause for the caudal mediastinal paraoesophageal abscess (CMPA) was identified. The cat was discharged with metronidazole after thoracostomy tube removal 4 days postoperatively. There was no recurrence of clinical signs and pleural effusion on POCUS at the 3-month follow-up. CMPAs are rarely described in cats. This case outlines the clinical features, diagnostic investigations, treatment and outcome of a cat with a CMPA. The case reinforces the importance of repeat diagnostic imaging in cats with recurrent pyothorax and highlights the feasibility and challenges of VATS for CMPA removal, which has not been previously described in cats. Video-assisted surgical removal of an abscess in the chest cavity of a cat with recurrent pyothorax A 6-year-old, spayed female domestic shorthair cat was presented with difficulty breathing and lethargy. Three months prior, the cat was medically managed for an accumulation of fluid that contained bacteria and pus in the chest cavity (pyothorax). The cat was stabilised with oxygen supplementation, and ultrasound of the chest revealed an accumulation of fluid in the space around the lungs. A tube was placed into the chest to drain the fluid for therapeutic and diagnostic purposes. On drainage of the fluid from the chest, through placement of a thoracostomy tube, the fluid was found to be a recurrent pyothorax and bacteria was isolated on culture. A CT scan revealed a mass located towards the back and middle area of the chest, immediately next to the oesophagus (caudal mediastinal paraoesophageal region). There were no abnormalities of the inner lining of the oesophagus or foreign material apparent on endoscopy. As medical management had already been attempted previously, minimally invasive video-assisted surgery that required modification to improve visualisation was performed to remove the mass. The mass was consistent with an abscess, with bacteria isolated on culture. No cause of the caudal mediastinal paraoesophageal abscess was identified. The cat was discharged with metronidazole after chest tube removal 4 days after surgery. There was no recurrence of clinical signs or fluid in the space around the lungs on ultrasound at the 3-month follow-up.",
-      "categories": [
-        "internalMedicine",
-        "surgery"
       ]
     }
   ]
