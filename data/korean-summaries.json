@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T01:30:35.234Z",
+  "updated_at": "2026-11-06T01:38:57.802Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -8135,6 +8135,134 @@
       "title": "Survival time and prognostic factors in cats with suspected acute pyelonephritis.",
       "journal": "Journal of Veterinary Internal Medicine",
       "generated_at": "2026-11-05T01:28:27.320Z",
+      "model": "gpt-5-mini"
+    },
+    "42981710": {
+      "brief_summary": "본 연구는 Zenalpha(메데토미딘 medetomidine + 바티녹산 vatinoxan)를 근육주사(IM)와 구강점막경구(OTM)로 투여했을 때의 진정효과와 약동학을 비교했다. 8마리의 건강한 성견 비글을 대상으로 ZIM 20 µg/kg과 ZOTM 80 µg/kg를 투여했으며, 양쪽 모두 기초치에 비해 진정, 불안완화 및 취급 용이성 점수가 유의하게 향상되었다. 약동학적으로 메데토미딘 OTM의 최대농도 도달시간(Tmax)은 86분(IM 6분), 상대생체이용률 26.4%였고 바티녹산 OTM은 Tmax 216분(IM 15분), 상대생체이용률 55.2%였다. 연구는 OTM 투여(더 높은 용량)가 IM과 유사한 진정 및 취급 개선을 제공할 수 있음을 시사했다.",
+      "detailed_summary": "무작위 대비 등 구체적 배정 방법은 초록에 명시되지 않았으나, 연구는 Zenalpha(메데토미딘+바티녹산)를 IM(20 µg/kg) 또는 OTM(80 µg/kg)으로 투여한 후 진정·불안완화·취급 점수와 생리학적 변수 및 혈중 약물 농도를 시간대별로 측정하는 비교·약동학 연구였다. 총 8마리의 건강한 성견 비글이 참여했고, 혈중 농도 분석은 LC-MS-MS로 수행되었다. ZIM과 ZOTM 모두 기초 대비 진정, 불안완화 및 취급 점수가 유의하게 증가했고, ZOTM(80 µg/kg)은 ZIM(20 µg/kg)과 비교해 임상적 진정 효과가 유사했다. 약동학 결과는 메데토미딘의 OTM Tmax가 86분(IM 6분), 상대생체이용률 26.4%였고, 바티녹산의 OTM Tmax는 216분(IM 15분), 상대생체이용률 55.2%임을 보였다. 결론적으로 고용량의 OTM 투여는 IM 주사의 대안이 될 수 있음을 제시하지만, 연구 대상은 8마리의 건강한 성견 비글에 한정되어 있다는 점을 고려해야 한다.",
+      "title": "Comparison of the pharmacokinetics and sedative effects of Zenalpha (medetomidine and vatinoxan) administered intramuscularly and oral transmucosally in dogs.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-11-06T01:38:07.076Z",
+      "model": "gpt-5-mini"
+    },
+    "42981717": {
+      "brief_summary": "두 개의 학술 수의과대학 병원에서 탄소 혈액관류(cHP, carbon hemoperfusion)로 치료한 NSAID 중독 개 19마리(이부프로펜 10, 카르프로펜 5, 나프록센 4)를 대상으로 cHP 동안의 약물 제거 동역학을 평가했다. 치료 중 혈중 NSAID 총 농도는 중앙값 58%(IQR 51–80) 감소했고, cHP 중 반감기는 2지점법으로 중앙값 1.3시간(IQR 1.1–1.8)으로 측정되어 치료용 반감기보다 약 3.7-, 5.4-, 52.0배 빠르게 제거되었다. 대부분의 농도 감소는 세션 초기에 일어났고, 추적 검사 가능 증례에서는 1마리(나프록센)에서 재상승이 관찰되었다. 임상적으로 cHP는 중증 NSAID 중독 환자에서 혈중 농도를 신속히 낮추는 데 유의미했으나 치료 프로토콜 최적화를 위한 추가 연구가 필요하다.",
+      "detailed_summary": "목적은 cHP 동안 NSAID(이부프로펜, 카르프로펜, 나프록센)의 제거 속도상수, 반감기 및 혈장 감소율을 기술하는 것이었다. 연구 대상은 2022-11-30부터 2024-07-07까지 두 곳의 대학병원에서 cHP로 치료된 클라이언트 소유 개 19마리(중앙값 연령 2.5년, 중앙체중 22kg)로, 추정 최대 섭취량은 이부프로펜 720 mg/kg, 카르프로펜 200 mg/kg, 나프록센 325 mg/kg(중앙값)였고 cHP 시작까지의 중앙 시간 간격은 6.8시간이었다. 혈장 농도는 치료 중(및 가능하면 치료 후) 직렬 채혈로 LC-MS-MS로 측정했고, 총 혈장 감소의 중앙값은 58%(IQR 51–80)였다. cHP 중 전체 반감기는 2지점법으로 중앙값 1.3시간(IQR 1.1–1.8)으로 회귀분석 결과(1.4시간)와 일치했으며, 이는 대응하는 치료용 반감기보다 약 3.7배(이부프로펜), 5.4배(카르프로펜), 52.0배(나프록센) 더 짧았다. 5마리에서 치료 후 샘플을 얻은 경우 중 1마리(나프록센)에서 혈중 농도 재상승이 있었고, cHP 관련 제거 속도상수는 일부(4/5)에서 내인적 속도상수보다 11–40배 컸다. 결론적으로 cHP는 중증 NSAID 중독 개에서 혈중 농도를 상당히 빠르게 감소시켰고 감소는 주로 세션 초기에 발생했으나, 치료 프로토콜 최적화를 위해 추가 연구가 필요하다는 제한점이 보고되었다.",
+      "title": "Elimination kinetics of nonsteroidal anti-inflammatory drugs during carbon hemoperfusion in 19 dogs with toxicosis.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-11-06T01:37:49.982Z",
+      "model": "gpt-5-mini"
+    },
+    "42981718": {
+      "brief_summary": "후향적 다기관 관찰연구로 2003–2024년 7개 전원 병원에서 후두마비(laryngeal paralysis, LP)로 진단된 고양이 72마리를 분석하여 원인, 치료 및 생존에 미치는 인자를 평가했다. 원인으로는 특발성 LP가 49마리(68%)로 가장 흔했으며, 폐종양 등으로 인한 이차성 LP도 17마리(24%)로 빈번했다. 아리테노이드 측방 고정술(arytenoid lateralization)은 53마리(74%)에 시행되어 장기 생존률이 양호했으나, 주요 수술 합병증이 발생한 경우 생존이 현저히 감소하였다(HR 99.42; 95% CI 8.50–1,161.77). 임상적으로는 후두마비 환자에서 종양 등 기저 원인에 대한 철저한 평가가 권고되며, 치료 결정은 후두마비의 측측성(laterality)보다 임상 중증도에 따라 이루어져야 하고, 수술 관련 중대한 합병증 위험에 대해 보호자에게 설명해야 한다.",
+      "detailed_summary": "연구는 이탈리아, 영국, 미국의 7개 전원 병원 의무기록을 후향적으로 검토한 다기관 관찰 연구로 2003–2024년 사이 LP 진단 고양이 72마위를 포함했다. 진단 분포는 특발성 LP 49마리(68%), 이차성 LP 17마리(24%; 주로 폐종양, 외상, 수술 관련), 인과관계 불확실한 동반질환 6마리(8%)였다. 후두마비의 양측성은 44마리(61%), 일측성은 26마리(36%)로 보고되었고, 아리테노이드 측방 고정술은 전체의 53마리(74%)에 시행되었다(양측성의 93%, 일측성의 38.5%가 수술받음). 수술 후 합병증은 13마리(24%)에서 발생했고 그중 주요 합병증은 8마리(15%)였으며 흡인성 폐렴으로 인한 사망이 3건 보고되었다. 수술 후 추정 생존율은 1년 88%, 2년 85%, 3년 85%였고, Kaplan–Meier와 Cox 회귀 분석에서 주요 수술 합병증만이 유의한 생존 감소 독립 예측인자(HR 99.42; 95% CI 8.50–1,161.77)로 확인되었다. 연구 결과는 특발성 LP가 가장 흔하지만 종양과 같은 이차적 원인이 자주 동반되므로 원인 규명을 위한 철저한 검사와 임상 중증도에 따른 치료 결정, 수술 시 심각한 합병증 위험에 대한 보호자 설명이 필요함을 시사한다.",
+      "title": "Laryngeal paralysis in 72 cats: a multicenter study on epidemiology and treatment.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-11-06T01:38:44.126Z",
+      "model": "gpt-5-mini"
+    },
+    "42981719": {
+      "brief_summary": "후향적 케이스-케이스-대조군 연구로 2009–2023년 Cornell University Hospital for Animals에 내원한 고양이를 대상으로 cefovecin 투여가 3세대 세팔로스포린(3GC) 내성 Escherichia coli(E. coli) 감염 위험을 높이는지 평가했다. 연구에서 3GC 내성 사례는 cefovecin 투여 비율이 21%로 민감성 사례(3%) 및 대조군(6%)보다 높았으나, 전체 증례 수가 적어 연관성 판단은 불가능했다. 임상적으로는 경구 약물이 불가한 경우에 한해 감수성 검사로 뒷받침되는 경우에만 cefovecin 사용을 제한하고, 라벨 권장 용량인 8 mg/kg을 준수할 것을 권고한다.",
+      "detailed_summary": "후향적 케이스-케이스-대조군 설계로 2009–2023년 Cornell University Hospital for Animals에서 3GC에 감수성 또는 내성을 보인 E. coli 감염 고양이 사례와 같은 기간 무작위 선정된 대조군을 대상으로 했다. 사례 수는 3GC 민감성 사례 36마리(cefovecin 투여 3%), 3GC 내성 사례 14마리(cefovecin 투여 21%), 대조군 72마리(cefovecin 투여 6%)였다. 노출 정보는 의무기록 검토로 수집했고, 직접 비순환 그래프(DAG) 기반의 다변량 회귀모형을 각 사례-대조군 그룹별로 구축해 분석을 시도했다. 내성 사례에서 cefovecin 투여 비율이 상대적으로 높았으나 증례 수가 적어 cefovecin 사용과 3GC 내성 간의 통계적 연관성 여부를 평가할 수 없었다. 연구에서 cefovecin 전체 투여 빈도는 7%로 이전 연구들보다 낮았고, cefovecin을 투여한 고양이의 75%는 라벨 권장 용량보다 저용량으로 투여되었다. 주요 제한점은 표본 크기 부족으로 인과관계나 유의한 연관성을 결론내릴 수 없다는 점이며, 연구자는 항생제 내성 선택을 피하기 위해 경구 치료가 불가능한 경우에만 감수성 검사로 뒷받침되는 상황에서 cefovecin 사용을 제한하고 라벨 권장량(8 mg/kg)을 준수할 것을 권고하고 있다.",
+      "title": "A case-case-control study of cefovecin use and third-generation cephalosporin-resistant Escherichia coli infections in cats.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-11-06T01:38:25.856Z",
+      "model": "gpt-5-mini"
+    },
+    "42982910": {
+      "brief_summary": "알제리 북서부 Tiaret 지역의 비예방접종 사냥·경비견 82두를 대상으로 한 횡단연구로, 개에서의 렙토스피라 항체 혈청유병률을 추정하고 위험요인을 확인하려는 목적이다. 국제 표준 혈청학적 검사인 Microscopic Agglutination Test(MAT)를 적용한 결과 전체 혈청유병률은 29.3%(95% CI: 20.5–39.9)였고, Patoc(8.5%), Bratislava(8.5%), Autumnalis·Copenhageni(각 7.3%) 등 다수 혈청형에 대한 반응이 관찰되었다. 개체의 66.7%는 단일 혈청형에만 반응했고 33.3%는 2~3개 혈청형에 반응해 다양한 렙토스피라 항원 노출을 시사했다. 이는 견주 등 사람과 밀접 접촉하는 집단에 잠재적 인수공통감염(zoonotic) 위험이 있음을 의미한다.",
+      "detailed_summary": "연구는 2022년 1월~12월 동안 Tiaret 주의 비예방접종된 사냥견·경비견 82두를 대상으로 실시한 횡단연구이다. 대상 개들은 성별·연령(6개월~10세) 모두 포함되었고 일반 임상검진을 통해 전반적 건강상태(양호/불량)와 렙토스피라 의심 임상증상(무력화, 황달, 호흡곤란, 혈뇨)의 부재를 기록하였다. 혈청검사는 국제참고법인 Microscopic Agglutination Test(MAT)로 시행되었으며 전체 혈청유병률은 29.3%(95% CI: 20.5–39.9)로 보고되었다. 주로 반응한 혈청형은 Patoc·Bratislava(각 8.5%, 7/82), Autumnalis·Copenhageni(각 7.3%, 6/82), Icterohaemorrhagiae(6.1%, 5/82), Canicola(4.9%, 4/82), Pyrogenes(1.2%, 1/82)였다. 양성 개 중 66.7%(95% CI: 46.7–82.0)는 단일 혈청형에만 반응했고 33.3%(95% CI: 18.0–53.3)는 2~3개 혈청형에 동시 반응을 보여 다양한 항원노출 양상을 보였다. 성별, 연령, 품종군, 기능(사냥 vs. 경비), 지리적 구역, 건강상태 등 조사된 변수들은 모두 혈청양성과 유의한 연관성이 없었다(p > 0.05). 초록에는 별도의 연구 제한점이 구체적으로 명시되어 있지 않으며, 결과는 Tiaret 지역의 비예방접종 사냥·경비견 집단에서의 과거 노출을 보여주어 사람과의 접촉이 있는 집단에 대한 인수공통감염 위험을 제시한다.",
+      "title": "Seroprevalence of anti-Leptospira antibodies in unvaccinated hunting and guard dogs from Tiaret, northwestern Algeria: a cross-sectional study.",
+      "journal": "Veterinary Research Communications",
+      "generated_at": "2026-11-06T01:38:57.785Z",
+      "model": "gpt-5-mini"
+    },
+    "42983102": {
+      "brief_summary": "본 논문은 반려동물(개·고양이)에서 항균 펩타이드(AMPs)의 연구 동향과 임상 적용 가능성을 정리한 리뷰이다. AMPs는 항균 및 면역조절 작용을 동시에 가지며 저항성 선택압이 낮아 전통적 항생제의 유망한 대안으로 제시되고, 항종양 가능성도 보고되고 있다. 다만 대부분의 증거는 시험관(in vitro) 및 전임상 동물 실험에 국한되며 잘 설계된 임상연구는 드물어 임상 적용 전 해결해야 할 전이(translation) 과제가 존재한다는 점을 강조한다.",
+      "detailed_summary": "본 논문은 반려동물용 항균 펩타이드(AMPs)에 대한 최근 연구성과를 종합적으로 고찰한 리뷰이다. 저자는 AMPs가 숙주의 선천면역에서 항균 및 면역조절 이중 기능을 수행하며 다중 기전(pleiotropic mechanisms)으로 작용해 내성 발생 압력이 낮다는 점을 정리했다. 또한 항감염 치료 외에 항종양 효과 가능성도 누적된 증거로 제시하고 있다. 검토된 근거는 주로 시험관(in vitro) 연구와 전임상(in vivo) 실험에 기반하며, 잘 통제된 임상 연구는 드물다고 보고한다. 논문은 이러한 근거 기반의 한계와 AMPs 개발 및 임상 전환에서의 주요 도전 과제를 논의하고 향후 연구 방향을 제시한다. 결론적으로 AMPs는 반려동물 임상에 도입될 경우 동물 건강 개선과 항균제 내성(AMR) 완화에 기여할 잠재력이 있으나, 임상 적용을 위해서는 더 많은 임상시험과 개발적 검증이 필요하다고 강조한다.",
+      "title": "Antimicrobial peptides for companion animals: research advances, translational challenges, and opportunities.",
+      "journal": "Veterinary Research Communications",
+      "generated_at": "2026-11-06T01:37:25.354Z",
+      "model": "gpt-5-mini"
+    },
+    "42983112": {
+      "brief_summary": "본 연구는 Nile tilapia (Oreochromis niloticus)를 대상으로 60일간 식이 타우린(10 g kg⁻¹, TA)이 수중 비소 삼산화물(As2O3; 10 µg L⁻¹, 이하 AS) 만성 노출 독성을 완화하는지 평가했다. AS 노출은 성장, 사료효율, 소화효소 활성, 장 건강, 혈액학적 지표, 선천면역 및 항산화 반응을 저하시켰고 생존율을 70.0%로 감소시켰다(대조군 98.33%). TA 보급은 AS 노출군에서 성장·사료전환 개선, 장 융모 구조 보존, 대부분의 혈액·생화학·면역·항산화 지표 회복을 유도하고 MDA, DNA 단편화 및 염증·스트레스·세포사멸 관련 유전자 발현을 낮춰 대조군 수준에 근접하게 만들었다. 임상적 시사점은 식이 타우린이 장 기능과 산화환원-면역 균형을 지지하여 만성 수중 As2O3 스트레스에 대한 생리적 저항성을 향상시킬 수 있다는 것이다.",
+      "detailed_summary": "연구는 2×2 요인 설계로 TA 투여 유무와 AS 노출 유무를 교차해 60일간 수행했으며, 처리당 어항 4개와 어항당 15마리(총 표본 수는 초록에 명시된 각 처리의 어항·개체수 기준)를 사용했다. AS(명목 농도 10 µg L⁻¹) 노출은 성장률과 사료 효율 저하, 소화효소 활성이 감소하고 장 조직 손상 및 융모 구조 악화를 초래했으며 혈액학적·생화학적 지표와 선천면역 및 항산화(예: SOD, CAT, GPx) 반응이 약화되었다. 또한 AS는 간신장 스트레스 지표 증가, 지질과산화(MDA) 증가, 조직 DNA 단편화 증가 및 IL-1β, HSP70, Casp3 등의 염증·스트레스·세포사멸 관련 유전자 발현 증가를 유발했으며(통계적 유의성 P<0.05), 관찰 생존율은 AS군에서 70.00%로 대조군(98.33%)보다 낮았다. 식이 TA(10 g kg⁻¹)는 AS 노출군에서 성장과 사료전환을 개선하고 융모 구조를 보존했으며 대부분의 혈액·생화학·면역·항산화 지표를 회복시켰다. TA는 SOD, CAT, GPx 및 Nrf2 전사 수준을 증가시키고 MDA, DNA 단편화 및 염증·스트레스·아폽토시스 관련 유전자 발현을 낮춰 AS 단독 노출군과 비교해 유의한 상호작용(AS×TA)을 보였고, TA 첨가군의 많은 지표가 대조군 값에 근접했다. 결론적으로 저자들은 식이 타우린이 장 기능 유지와 레독스-면역 균형 지원을 통해 Nile tilapia의 만성 수중 As2O3 노출에 대한 생리적 회복력을 향상시킨다고 보고했다.",
+      "title": "Dietary taurine mitigates waterborne arsenic trioxide toxicity in Nile tilapia: effects on growth performance, intestinal health, stress biomarkers, and immune-related genes.",
+      "journal": "Veterinary Research Communications",
+      "generated_at": "2026-11-06T01:37:11.545Z",
+      "model": "gpt-5-mini"
+    },
+    "42983423": {
+      "brief_summary": "본 연구는 28마리의 원발성 부신기능저하증 개에서 desoxycorticosterone pivalate(DOCP) 치료 중 혈장 레닌 활성도(PRA)를 모니터링 지표로 평가했다. 52회의 측정에서 중간값 PRA는 1.6 ng/mL/h(범위 0–19.2)였고, PRA는 전해질(칼륨, 나트륨, Na/K 비율) 및 DOCP 투여량과 중등도 상관을 보였으며 동반질환이 있는 방문에서 증가한 PRA가 더 자주 관찰되었다. 연구자는 PRA가 추가 정보를 제공할 수 있지만 전해질 결과와 일치하지 않는 경우가 많고 다른 질환의 영향을 받을 수 있으므로 임상적 맥락에서 보조적으로 해석해야 한다고 결론지었다.",
+      "detailed_summary": "후향적 관찰로서 모든 대상은 최소 5개월 이상 DOCP 및 프레드니솔론을 투여받은 원발성 부신기능저하증 개 28마리로, 예정된 DOCP 방문에서 총 52회의 PRA(angiotensin I을 검출하는 ELISA) 측정을 수행했다. 전체에서 중간 PRA는 1.6 ng/mL/h(범위 0–19.2)였으며, 기준치보다 높은 값이 19회, 정상 범위 17회, 낮은 값이 16회로 나뉘었다. PRA는 칼륨(양의 상관, p=0.009), 나트륨(음의 상관, p=0.02), Na/K 비율(음의 상관, p=0.006) 및 DOCP 투여량(음의 상관, p=0.02)과 중등도 상관을 보였고, 요비중은 DOCP 투여량과 상관하였다(p=0.01). 동반질환이 있는 방문에서 증가한 PRA가 더 자주 관찰되었고(p=0.005), 동반질환은 크레아티닌 상승(p=0.023) 및 낮은 DOCP 용량(p=0.004)과 연관됐다. 하위분석에서 만성 장 질환은 더 높은 칼륨, 낮은 Na/K 비율 및 더 높은 DOCP 용량과 연관되었고, 만성 신장질환(만성 신장질환, CKD)은 더 높은 크레아티닌과 더 낮은 DOCP 용량과 연관되었다. 임상적 평가와 PRA 상태의 일치율은 48%였으며, 저자들은 PRA가 모니터링에 보조적 정보를 줄 수 있으나 전해질 결과와 불일치하거나 다른 질환의 영향으로 해석이 어렵기 때문에 임상적 맥락에서 보조 지표로 사용해야 한다고 결론지었다.",
+      "title": "Evaluating plasma renin activity as a monitoring parameter for mineralocorticoid treatment in dogs with primary hypoadrenocorticism.",
+      "journal": "BMC Veterinary Research",
+      "generated_at": "2026-11-06T01:36:41.333Z",
+      "model": "gpt-5-mini"
+    },
+    "42983507": {
+      "brief_summary": "9세 중성화 수컷 잡종견 한 마리가 만성 설사와 구토로 내원하였고, 복부 초음파에서 공장(jejunum)에 종괴가 발견되어 외과적으로 절제되었다. 조직병리와 면역조직화학검사로 염증성 마이오파이브로블라스틱 종양(Inflammatory myofibroblastic tumor, IMT)으로 확진되었다. 이 증례는 개에서 IMT의 임상 양상과 진단 과정, 수술적 치료를 다루며 임상 수의사에게 해당 질환을 감별진단으로 고려할 필요성을 제시한다.",
+      "detailed_summary": "단증례 보고로서 연구 설계는 증례 보고(case report)이며 대상은 9세 중성화 수컷 혼혈견 한 마리이다. 주호소는 만성 설사와 구토였고 평가 방법으로 복부 초음파검사에서 공장 부위의 종괴를 확인한 후 외과적 절제를 시행하였다. 확진은 절제된 병변에 대한 조직병리검사와 면역조직화학검사로 이루어졌으며 진단명은 염증성 마이오파이브로블라스틱 종양(IMT)이었다. 핵심 결과는 영상검사로 종괴를 확인하고 조직학적·면역학적 검사로 IMT를 확진한 점이다. 저자들은 증례를 통해 IMT의 임상적 제시와 진단·관리 과정을 논의하였으나 단일 증례라는 점에서 일반화는 불가능하다고 명시할 필요가 있다. 따라서 이 보고는 유사 증상을 보이는 개에서 IMT를 감별진단으로 고려할 근거를 제공하지만 추가 연구와 다수 증례의 축적이 필요하다.",
+      "title": "Inflammatory myofibroblastic tumor in a 9-year-old male neutered mixed-breed dog with gastrointestinal signs; a case report.",
+      "journal": "BMC Veterinary Research",
+      "generated_at": "2026-11-06T01:36:49.832Z",
+      "model": "gpt-5-mini"
+    },
+    "42983514": {
+      "brief_summary": "이 연구는 이란에서 2021–2024년에 사람의 요로감염(UTI), 가금의 콜리박실로시스, 반려동물의 대변에서 분리한 총 360개의 Escherichia coli를 대상으로 ST131의 유병률·내성·유전형을 비교했다. ST131은 전체 21/360(5.8%)였고 사람 UTI에서 19/120(15.8%)로 유의하게 높았으며 모든 ST131는 계통군 B2에 속하고 다약제내성을 보였다(시프로플록사신 85.7%, 세포탁심 95.2%, 암피실린 100%). 임상적 의미로는 사람 요로감염에서의 다약제내성 및 ESBL 산출(61.9%)이 치료와 감시의 중요성을 강조한다.",
+      "detailed_summary": "연구 설계는 2021–2024년 수집된 총 360개의 E. coli(사람 UTI 120, 가금 120, 반려동물 대변 120)를 대상으로 분자형별 동정과 항생제 감수성(Clinical and Laboratory Standards Institute 디스크 확산법), 주요 저항유전자(예: blaCTX-M, blaOXA, aac(6')-Ib-cr) 및 플라스미드 복제형을 분석한 횡단적 비교연구이다. 전체에서 ST131은 21/360(5.8%)였고, 사람 샘플에서 19/120(15.8%)로 가금 및 반려동물(각 1/120, 0.83%)보다 유의하게 높았다(p < 0.001). 사람 유래 ST131의 94.7% (18/19)는 O25b 클론이었고 O16는 5.3%였으며, 동물 유래 ST131 2건도 모두 O25b였다. 모든 ST131(21/21)은 계통군 B2에 속했고 다약제내성을 보였으며 주요 내성률은 시프로플록사신 18/21(85.7%), 세포탁심 20/21(95.2%), 암피실린 21/21(100%)이었다. ESBL 유전자는 ST131의 61.9%에서 검출되었고, 사람 요로감염 균주에서는 blaCTX-M-15가 47.4%로 확인되었으며 UTI 균주 9/19(47.4%)는 blaCTX-M-15, blaOXA, aac(6')-Ib-cr를 동시에 보유했다. 플라스미드 분포는 사람 유래에서 IncFIA(78.9%)·IncFIB(73.6%)가 우세했고 비인간원에서는 HI2 복제형이 2/2(100%)로 나타났으며(개 1건, 가금 1건) 본 연구는 이란에서 가금 및 반려동물에서의 ST131 최초 보고를 제시하여 향후 종간 전달과 저항성 진화를 위한 비교유전체 연구의 기초 자료를 제공한다.",
+      "title": "Comparative epidemiology of multidrug-resistant Escherichia coli ST131 across human, poultry, and companion animal hosts in Iran.",
+      "journal": "BMC Veterinary Research",
+      "generated_at": "2026-11-06T01:36:30.249Z",
+      "model": "gpt-5-mini"
+    },
+    "42983717": {
+      "brief_summary": "본 연구는 Lacaune 품종의 건강한 양에서 혈청 대칭 디메틸아르기닌(SDMA)의 참조구간을 설정하고 SDMA의 신장 질환 민감도를 평가했다. 건강한 143마리를 대상으로 ELISA로 측정하여 전체 0.59–1.72 μmol/l(성체 0.59–1.56, 유년 0.59–1.83)를 제시했고, 유년에서 농도가 유의하게 높았다(p<0.001). 사후 조직병리학적 신장 손상이 심한 51마리에서는 SDMA가 유의하게 상승( p=0.005)했고 크레아티닌은 유의한 차이를 보이지 않아 특히 허약·마름 개체에서 SDMA가 더 민감할 수 있음을 시사한다.",
+      "detailed_summary": "참조군으로 임상적으로 건강하고 체형점수 및 혈청 크레아티닌을 기준으로 선별한 Lacaune 양 143마리(유년 <1년, 성체 ≥1년)를 대상으로 단면 연구를 실시했다. 혈청 SDMA는 고양이·개용으로 검증된 ELISA로 정량하였고 전체 참조구간은 0.59–1.72 μmol/l, 성체 0.59–1.56 μmol/l, 유년 0.59–1.83 μmol/l로 보고되었다. 유년 개체가 성체보다 SDMA 농도가 유의하게 높았으며(p<0.001) 성별에 따른 차이는 관찰되지 않았다. 추가로 사후 조직병리로 신장 상태를 평가한 51마리의 후향적 분석에서, 신장 병변이 심한 그룹에서 SDMA가 유의하게 높았고( p=0.005) 크레아티닌은 유의한 차이를 보이지 않았다. 특히 체조건이 나쁜 개체에서는 SDMA가 심한 신장 병변을 식별하는 데 유효했으나 크레아티닌은 참고구간 내 또는 낮은 값을 보였다. 결론적으로 SDMA는 양에서 크레아티닌보다 신기능 장애를 더 민감하게 반영할 가능성이 있으며 제시된 참조구간은 임상 적용의 기초를 제공한다. 연구의 제한점으로는 검사 비용의 실무적 타당성 문제와 SDMA 측정에 사용된 ELISA가 고양이·개용으로 검증된 점이 명시되어 있다.",
+      "title": "Determination of reference intervals for symmetric dimethylarginine (SDMA) in Lacaune sheep.",
+      "journal": "BMC Veterinary Research",
+      "generated_at": "2026-11-06T01:36:14.997Z",
+      "model": "gpt-5-mini"
+    },
+    "42984630": {
+      "brief_summary": "건강한 성견 87마리(404개 발치 부위)를 대상으로 한 전향적 임상연구로, 수술 전·후 항생제나 소독제를 사용하지 않은 상태에서 발치 창상 합병증을 평가했다. 발치 후 봉합부 열개(dehiscence)는 개 단위로 19.5%(17/87), 부위 단위로 4.2%(17/404)로 가장 흔했으나 대부분 경증(76.5%, 13/17)이며 모두 1개월 이내에 이차 치유(second intention)로 치유되었다. 체중 증가(kg당 오즈비 13% 증가), 치조골 50% 이상 제거, 앞쪽 하악 구역 발치 및 삼각형(triangular) 박리창 사용, 외상성 치아치조 손상 등이 열개와 유의하게 연관되어 보이며, 비수술적 보존적 관리가 저위험 환자에서 타당함을 시사한다.",
+      "detailed_summary": "본 연구는 임상적으로 적응증이 있어 폐쇄식 또는 개방식 발치를 받은 클라이언트 소유의 건강한 성견 87마리(총 404발치 부위)를 전향적으로 관찰했다. 모든 개에서 perioperative 및 즉시 postoperative 항생제·소독제는 사용하지 않았고, 술후 진통 처치만 시행한 뒤 동일일 퇴원했으며 비진정 상태의 일상 추적검사를 10일째 시행했다. 불완전 상피화 및 창연 분리를 '열개(dehiscence)'로 정의하고 주간 대면 또는 원격 추적을 통해 완전 치유 시까지 관찰했다. 열개는 개 기준 19.5%(17/87), 부위 기준 4.2%(17/404)로 확인되었고, 대부분 기능치아에서 발생했으며 경증이 76.5%(13/17)를 차지했다. 추가 외과적 재수술을 요한 경우는 없었고 23.5%(4/17)만 항생제 및/또는 추가 진통제를 필요로 했으며 모든 열개 부위는 한 달 이내에 이차 치유로 회복되었다. 통계적으로 체중 증가(kg당 오즈비 13% 증가), 치조골의 ≥50% 제거, 앞쪽 하악부 발치, 개방식에서의 삼각형 박리창 사용 및 발치 적응증 중 외상성 치아치조 손상 등이 열개 발생과 유의하게 연관되어 보고되었다. 연구 결론은 개별 부위 수준에서는 드물지만 개 단위로는 임상적으로 유의한 합병증이며, 합병증이 복잡하지 않은 경우 보존적(비수술적) 관리가 적절하다는 점을 시사한다.",
+      "title": "Wound healing complications after tooth extraction in dogs.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-11-06T01:35:49.022Z",
+      "model": "gpt-5-mini"
+    },
+    "42984832": {
+      "brief_summary": "연구 콜로니의 21마리 고양이를 1세부터 11세까지 매년 추적해 혈장 및 분변의 대사체(metabolome)와 지질체(lipidome)를 질량분석법(mass spectrometry, MS)으로 분석하여 노화 관련 대사 변화를 규명하려는 종적 연구이다. 두 가지 대사 궤적(선형 변화와 U자형 변화)이 관찰되었고, 전반적으로 혈장의 albumin:globulin 비율(A:G ratio) 감소 및 분변 염증성 매개체 증가로 나타나는 '염증성 노화(inflammaging)', 장쇄 인지질의 선형적 증가 등에서 시사되는 미토콘드리아 기능 저하, 트립토판 대사 경로 변화(혈장 키뉴레닌 증가 대 분변 안트라닐산 감소) 등이 핵심 결과다. 6–8세 사이에서 뚜렷한 대사 전환이 관찰되어 조기 중재가 건강한 노화 궤적을 지지할 가능성을示唆한다.",
+      "detailed_summary": "본 연구는 연구 콜로니 소속의 21마리 고양이를 대상으로 1세부터 11세까지 매년 혈장과 분변 샘플을 수집하여 종적 분석을 수행했다. 혈청 임상 바이오마커를 측정하고, 혈장 및 분변의 대사체와 지질체는 질량분석법(MS)으로 분석했으며 데이터는 반복측정 ANOVA 기반 Simultaneous Component Analysis로 처리했다. 분석 결과 두 가지 대사 궤적이 확인되었는데 하나는 나이에 따라 점진적으로 변화하는 선형 패턴, 다른 하나는 U자형으로 시간이 지남에 따라 복합적으로 변화하는 패턴이었다. 주요 주제는 (1) inflammaging: 혈장 albumin:globulin 비율(A:G ratio) 선형 감소 및 분변 내 염증성 매개체 증가, (2) 미토콘드리아 기능 저하 관련 신호: 혈장 장쇄 phosphatidylcholine의 선형적 증가, 혈장 hydroxy-butyric 산과 젖산의 U자형 변화, 분변 CoQ의 역U자형 변화, (3) 장내 미생물대사와 연관된 트립토판 경로 변화: 혈장 키뉴레닌의 선형적 증가와 분변 안트라닐산의 감소였다. 전반적인 해석은 고양이에서도 inflammaging과 미토콘드리아 관련 대사 변화, 장내 미생물 대사의 변화 가능성을 시사하며 특히 6–8세 사이에 뚜렷한 대사 전환이 관찰되어 조기 중재의 필요성을 제기한다. 한계로는 대상이 연구 콜로니의 21마리로 표본 수와 집단 특성이 제한적이라는 점이 있어 결과의 일반화에는 주의가 필요하다.",
+      "title": "Metabolomic and lipidomic signatures of aging in cats reveal shifts in energy metabolism and inflammation: an 11-year longitudinal study.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-11-06T01:35:34.098Z",
+      "model": "gpt-5-mini"
+    },
+    "42985006": {
+      "brief_summary": "이 논문은 반려견과 반려묘의 영양관리에 대해 '정밀 영양(precision nutrition)'이라는 반응 기반 프레임워크를 개념적으로 정리한 리뷰다. 비만, 만성장질환(chronic enteropathy, CE), 만성신장질환(chronic kidney disease, CKD), 요결석(urolithiasis)을 사례로 들어 개별 특성 및 모니터링 결과에 따라 식단을 반복적으로 조정하는 접근법과 임상적 적용 가능성을 논의했다. 임상적으로는 표현형 평가, 식이력, 일상 임상·생화학 검사와 장기 모니터링이 현재 구현에 주로 사용되며, 혈청 인(serum phosphate)과 같은 바이오마커는 특정 상황에서 직접적 지침을 제공한다고 결론지었다.",
+      "detailed_summary": "본 논문은 반려견과 반려묘를 대상으로 한 개념적·전략적 검토로, 정밀 영양의 프레임워크와 숙주 결정인자(host determinants), 임상 응용, 번역적 과제를 살펴보았다. 검토에서는 비만, 만성장질환(CE), 만성신장질환(CKD), 요결석을 대표적 임상 모델로 제시하여 식이 중재를 측정 가능한 결과에 연계하고 개별 반응에 따라 조정하는 방법을 논의했다. 현재 임상 구현은 주로 표현형 평가, 식이력, 일상 임상·생화학 지표 및 종적(장기) 모니터링에 근거하고 있으며, 혈청 인(serum phosphate) 같은 일부 바이오마커는 특정 상황에서 직접적인 임상적 지침을 제공한다고 보고했다. 마이크로바이옴과 메타볼로믹 프로파일, 선택적 분자 바이오마커 및 스마트 피더·활동 모니터 같은 디지털 도구는 보완 정보로서 잠재력이 있으나, 멀티오믹스 통합과 AI 기반 예측은 아직 탐색 단계에 머물러 있다고 기술했다. 저자들은 향후 진전에는 종별 표준화된 데이터셋, 예측 바이오마커의 전향적 검증, 신뢰할 수 있는 디지털 측정법, 그리고 기존 임상 평가를 넘는 부가가치를 입증하는 외부 검증된 해석 가능한 모델이 필요하다고 지적했다. 결론적으로 정밀 영양은 개별 특성 및 모니터링된 결과가 시간이 흐르며 식단 선택과 조정을 안내하는 반복적·반응지향적(framework) 접근이라고 정리하였다.",
+      "title": "Precision nutrition in companion animals: a response-based framework linking dietary strategies, metabolic function, and measurable clinical outcomes.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-11-06T01:35:16.044Z",
+      "model": "gpt-5-mini"
+    },
+    "42985444": {
+      "brief_summary": "개 마취·응급 처치 시 적절한 기관내삽관관(endotracheal tube, ETT) 선택을 표준화하기 위해 체중(BW)과 흉쇄입구에서 방사선으로 측정한 기관내지름(internal tracheal diameter, ITD)을 포함한 해부학적 지표로 의사결정나무(decision tree) 모델을 개발한 후향적 연구이다. 결과적으로 BW와 ITD가 주요 예측인자로 확인되었고, 같은 체중에서 비단두·중간두(그룹 DM)에 비해 단두(그룹 B)에서 더 작은 ETT 내경(ID)이 필요했다. 임상적으로는 예측치에서 ±0.5 mm 내의 튜브를 준비하면 표준화된 기도관리가 가능하다고 제시했다.",
+      "detailed_summary": "치앙마이대학교 NOVEL CMU의 2024년 1–12월 마취·응급 처치 기록을 후향적으로 분석하여 개의 ETT 내경(ID)과 체중(BW), 성별, 연령, 품종(돌리코·메조체형을 포함하는 그룹 DM vs 단두형 그룹 B), 흉쇄입구에서 방사선으로 측정한 기관내지름(ITD) 간의 관계를 조사하였다. 의사결정나무 분석을 통해 ETT 선택 알고리즘을 도출하였고, 변수중요도 분석에서 BW와 ITD가 두 그룹 모두에서 주요 예측인자로 나타났다. 반면 성별과 연령은 예측에 거의 기여하지 않아 유의한 인자로 확인되지 않았다. 연구 결과 동일 체중의 경우 단두형(그룹 B)에서 비단두·중간두(그룹 DM)보다 유의하게 작은 ETT ID가 필요하다는 방향성이 관찰되었다. 개발된 의사결정나무는 그룹별로 구분된 알고리즘 경로를 제공하여 비침습적이고 실무에서 ETT 크기 표준화에 활용할 수 있음을 제안한다. 임상 적용 지침으로는 예측되는 사이즈에 대해 ±0.5 mm 범위 내의 튜브를 준비할 것을 권고하며, 본 연구는 후향적 분석임을 밝힌다.",
+      "title": "Decision tree models to guide endotracheal tube selection in dogs.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-11-06T01:34:56.370Z",
+      "model": "gpt-5-mini"
+    },
+    "42985581": {
+      "brief_summary": "본 연구는 32마리의 성견 비글을 대상으로 마로피탄 주사제에서 벤질알코올(BAF)과 메타크레졸(MCF) 보존제가 주사 통증 및 내약성에 미치는 영향을 비교하기 위해 시행한 무작위, 맹검 교차 연구이다. BAF는 VAS(visual analog scale)와 SDS(simple descriptive scale) 점수에서 MCF보다 유의하게 낮았고(P < 0.0001), SDS 상승의 오즈비는 MCF에서 최대 10.32배로 증가했다. 결론적으로 벤질알코올 보존 마로피탄 제제는 메타크레졸 함유 제제(Cerenia® 포함)에 비해 주사 부위 통증 및 자극 면에서 임상적으로 더 잘 견디는 것으로 보인다.",
+      "detailed_summary": "연구는 무작위, 맹검 교차 디자인으로 각 개체가 냉장(4°C) 및 실온(25°C) 상태에서 보존제를 달리한 마로피탄을 피하 투여받았다. 대상은 건강한 성견 비글 32마리였고, Cerenia®는 메타크레졸 기반 제제로, 벤질알코올 제제는 ZyVet(USA)에서 제공되었다. 통증 평가는 두 명의 독립 평가자가 VAS(visual analog scale), SDS(simple descriptive scale) 및 임상 관찰로 수행했으며 관찰자 간 일치도는 우수하였다. 로그 VAS 값은 BAF에서 25°C: 1.94 ± 0.14, 4°C: 2.33 ± 0.14였고 MCF에서는 25°C: 3.43 ± 0.11, 4°C: 3.38 ± 0.11로 보고되었다(모두 P < 0.0001). MCF는 SDS 상승의 오즈를 최대 10.32배 증가시켰고, 불안정 행동(안절부절)과 머리 흔들기가 MCF에서 더 자주 관찰되었다. 초록에는 별도의 제한점 명시가 없었으며, 연구 결과는 벤질알코올 보존 제제가 메타크레졸 기반 제제보다 주사 통증·자극 측면에서 내약성이 더 우수함을 시사한다.",
+      "title": "Comparative assessment of benzyl alcohol and m-cresol as preservatives in maropitant injectable formulation: implications for pain & tolerability.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-11-06T01:34:36.512Z",
       "model": "gpt-5-mini"
     }
   }

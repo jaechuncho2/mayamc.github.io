@@ -1,6 +1,136 @@
 {
-  "updated_at": "2026-11-05T01:28:06.868Z",
+  "updated_at": "2026-11-06T01:34:13.916Z",
   "papers": [
+    {
+      "pmid": "42985581",
+      "title": "Comparative assessment of benzyl alcohol and m-cresol as preservatives in maropitant injectable formulation: implications for pain & tolerability.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Pawar V, Trivedi J, Muchhara J, Dharvadiya N, Patel S, Patel R, Shah M, Sundar R, Kannan ME, Ukawala M, Laddha R, Jain M",
+      "date": "2026 11 05",
+      "dateObject": "2026 11 05",
+      "abstract": "The selection of an optimal preservative in multi-dose injectable veterinary formulations requires antimicrobial efficacy with local tissue compatibility. While m-cresol provides potent broad-spectrum efficacy in multi-dose veterinary injectables, subcutaneous administration causes acute injection-site pain and distress, compromising compliance despite recommended low-temperature management. We hypothesized that a benzyl alcohol-preserved maropitant formulation (BAF) would result in lower acute injection-site pain scores than a m-cresol preserved formulation (MCF), regardless of storage temperature. Thirty-two adult healthy beagle dogs were enrolled in this study. Under blinded, randomized crossover design, each dog received subcutaneous maropitant using both formulations maintained at refrigerated and room temperature conditions. Pain was assessed by two independent assessors using a visual analog scale, simple descriptive scale, and clinical observation. Cerenia &#xae; was used as a meta-cresol-based formulation and benzyl-alcohol formulation was provided by ZyVet, USA. The BAF produced significantly lower Visual Analog Scale (VAS) and Simple Descriptive Scale (SDS) scores than the MCF ( P < 0.0001). Log VAS values for BAF were 1.94 &#xb1; 0.14 at 25 &#xb0;C and 2.33 &#xb1; 0.14 at 4 &#xb0;C, vs. 3.43 &#xb1; 0.11 at 25 &#xb0;C and 3.38 &#xb1; 0.11 at 4 &#xb0;C for MCF. Treatment with MCF increased the odds of elevated SDS scores up to 10.32-fold compared with BAF ( P < 0.0001). Observer agreement was excellent. Restlessness and head shaking occurred more frequently with the m-cresol formulation. The benzyl alcohol-based maropitant formulation appears better-tolerated than meta-cresol containing formulation in terms of injection-site pain and irritation.",
+      "categories": []
+    },
+    {
+      "pmid": "42985444",
+      "title": "Decision tree models to guide endotracheal tube selection in dogs.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Ngamlertwong N, Punyapornwithaya V, Siriyakhun S, Seymour C, Seki S",
+      "date": "2026 11 05",
+      "dateObject": "2026 11 05",
+      "abstract": "Choosing an endotracheal tube (ETT) of an appropriate size is critical for effective airway management in dogs undergoing anesthesia or emergency care. Conventional methods often rely on body weight (BW), palpation of external tracheal diameter, nasal septum width, or subjective clinician experience. However, these approaches are frequently imprecise and lack well-established guidelines. Therefore, this study aimed to develop a machine learning-based decision tree model to standardize ETT size using measurable anatomical parameters in dolichocephalic, mesocephalic, and brachycephalic breeds. A retrospective analysis was conducted on data from dogs undergoing anesthesia or emergency care at the Northern Regional Veterinary Healthcare and Learning Center, Faculty of Veterinary Medicine, Chiang Mai University, (NOVEL CMU) Thailand between January and December 2024. We investigated the relationship between the internal diameter (ID) of the ETT used and multiple patient variables, including BW, sex, age, breed, and internal tracheal diameter (ITD) measured at the thoracic inlet on radiographs. Decision tree analysis was used to determine the ETT selection. We hypothesized that a decision tree model integrating BW and ITD would accurately predict appropriate ETT sizing in dogs, but that upper airway anatomical differences would necessitate separate models for non-brachycephalic breeds (Group DM, including dolichocephalic and mesocephalic conformation) and brachycephalic breeds (Group B). The results demonstrated that Group B required ETTs with a significantly smaller ID compared to Group DM of the same BW. Variable importance analysis identified BW and ITD as the primary predictors of ETT size in both groups. Conversely, sex and age demonstrated negligible predictive value and were not significant factors in the selection process. Hence, the decision tree model successfully generated distinct algorithmic pathways for Group DM and Group B. The developed decision tree models offer a practical, non-invasive method for standardizing ETT sizes in clinical practice, thereby enhancing skilled veterinary human capital. This algorithmic approach accounts for individual anatomical variations in the respiratory tract, particularly in brachycephalic dogs. For clinical application, clinicians should prepare tubes within &#xb1;0.5 mm of the predicted size to ensure optimal airway management and patient safety.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42985006",
+      "title": "Precision nutrition in companion animals: a response-based framework linking dietary strategies, metabolic function, and measurable clinical outcomes.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Du X, Zhang H, Tian W, Chen J, Wen M, Fan W",
+      "date": "2026 11 05",
+      "dateObject": "2026 11 05",
+      "abstract": "Population-level nutrient recommendations provide the foundation for complete and balanced diets in dogs and cats, but they do not fully account for inter-individual variation in nutritional requirements, metabolic phenotypes, and dietary responses. Precision nutrition provides a response-guided framework that integrates individual characteristics with monitored dietary responses to refine nutritional management through repeated reassessment. This review examines the conceptual framework, host determinants, clinical applications, and translational challenges of precision nutrition in companion animals. Obesity, chronic enteropathy, chronic kidney disease, and urolithiasis are discussed as representative clinical models in which dietary interventions can be linked to measurable outcomes and adjusted according to individual response. Current clinical implementation is informed primarily by phenotypic assessment, dietary history, routine clinical and biochemical measures, and longitudinal monitoring, with biomarkers such as serum phosphate providing direct guidance in specific clinical contexts. Microbiome and metabolomic profiles, selected molecular biomarkers, and digital monitoring tools, such as smart feeders and activity monitors, may provide complementary information, whereas multi-omics integration and AI-assisted prediction remain largely exploratory. Further progress will require standardized species-specific datasets, prospective validation of predictive biomarkers, reliable digital measurements, and externally validated, interpretable models that demonstrate added value beyond established clinical assessment. Overall, precision nutrition represents an iterative, response-guided framework in which individual characteristics and monitored outcomes inform dietary selection and adjustment over time.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42984832",
+      "title": "Metabolomic and lipidomic signatures of aging in cats reveal shifts in energy metabolism and inflammation: an 11-year longitudinal study.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Hartvigsson O, Ross AB, Moesta A, Heiser A, Lee E, Butowski CF, Thomas DG, Laxalde J, Bermingham EN, Moniot D",
+      "date": "2026 11 05",
+      "dateObject": "2026 11 05",
+      "abstract": "Aging encompasses multiple biochemical changes, some of which may be associated with the development of age-related diseases. The dynamics of aging in relation to metabolism in cats has not been established and understanding this could identify targets for early intervention. The aim of this longitudinal study was to identify changes in the plasma and fecal metabolome and lipidome of cats from 1 to 11 years of age. Twenty-one cats from a research colony had plasma and fecal samples collected yearly between one and 11&#x202f;years of age. Clinical biomarkers were measured in serum, while plasma and fecal metabolomics and lipidomics were measured using mass spectrometry. Data were analyzed using repeated measures-ANOVA Simultaneous Component Analysis. Two metabolic trajectories were observed: one linear, suggestive of progressive accumulation of metabolic alterations with aging, and a U-shape, suggestive of more complex metabolic changes over time. Three themes emerged: inflammaging (linear decrease of plasma albumin:globulin ratio, increase in fecal inflammatory mediators), mitochondrial dysfunction (linear increase of plasma long-chain phosphatidylcholines, U-shape for plasma hydroxy-butyric acids and lactic acid, inverse U-shape for fecal coenzyme Q), and a possible link to an aging gut microbiome (tryptophan pathway with linear increase of plasma kynurenine versus decrease of fecal anthranilic acids). Metabolic changes in plasma and feces support the inflammaging hypothesis for cats, alongside mitochondrial dysfunction, and possible changes to gut microbial metabolism. Clear metabolic shifts between 6 and 8&#x202f;years of age suggest that early intervention could help to support a healthy aging trajectory in cats.",
+      "categories": []
+    },
+    {
+      "pmid": "42984630",
+      "title": "Wound healing complications after tooth extraction in dogs.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "&#x160;para&#x161; L, Pavlica M, Lukanc B, Nemec A",
+      "date": "2026 11 05",
+      "dateObject": "2026 11 05",
+      "abstract": "This prospective clinical study aimed to assess incidence of wound healing complications associated with extraction sites following permanent tooth extractions in healthy dogs. Eighty-seven client-owned healthy adult dogs undergoing clinically indicated closed or open dental extractions, comprising 404 extraction sites, were included in the study. No perioperative and immediate postoperative antibiotics or antiseptics were used in any of the dogs. All dogs were discharged on the day of the procedure with pain management as clinically indicated and underwent a routine (non-sedated) follow-up examination 10&#x202f;days later. Sites with incomplete epithelial healing and wound edge separation were classified as dehisced. Weekly in-person or telemedicine follow-up examinations were performed until complete healing was confirmed. Dehiscence was the most common postoperative complication, diagnosed in 19.5% (17/87) of the dogs and 4.2% (17/404) of the extraction sites within 10&#x202f;days after the procedure. Most affected sites involved large, functionally important teeth, and 76.5% (13/17) of cases were mild. None of the dehisced sites required surgical revision, and only 23.5% (4/17) dogs required additional medical management with antibiotics and/or analgesia. All dehisced sites healed by second intention within one month. Increasing body weight was associated with higher odds of dehiscence, with a 13% increase in odds for each additional kilogram of body weight. Removal of at least 50% of the alveolar bone, extraction in the rostral mandibular region, and the use of triangular flaps during open extraction were also significantly associated with increased odds of dehiscence. Traumatic dentoalveolar injury was the only indication for tooth extraction significantly associated with increased odds of dehiscence. Extraction wound dehiscence was uncommon at the individual-site level, but remained a clinically relevant postoperative complication when assessed per treated dog. Most affected sites healed uneventfully by second intention within one month, without surgical revision or prolonged medical management. This finding supports conservative management of extraction wound dehiscence in uncomplicated cases.",
+      "categories": [
+        "surgery",
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42983717",
+      "title": "Determination of reference intervals for symmetric dimethylarginine (SDMA) in Lacaune sheep.",
+      "journal": "BMC Veterinary Research",
+      "authors": "Kiene F, Wagener MG, R&#xf6;hrig P, Ganter M",
+      "date": "2026 11 05",
+      "dateObject": "2026 11 05",
+      "abstract": "Traditional biomarkers such as serum creatinine and urea often fail to reflect early renal dysfunction, particularly in emaciated animals, as they depend on muscle mass or dietary protein intake. Symmetric dimethylarginine (SDMA), a novel renal biomarker, has shown promise in other species for earlier and more sensitive detection of kidney disease. However, reference intervals for SDMA in ovine species remain undocumented. This study aimed to establish reference intervals for serum SDMA in clinically healthy Lacaune sheep. A reference population of 143 healthy sheep, stratified by age (juvenile&#x2009;<&#x2009;1&#xa0;year, adult&#x2009;&#x2265;&#x2009;1&#xa0;year), was selected based on clinical health, body condition score, and serum creatinine concentration. Serum SDMA was quantified using an ELISA validated for cats and dogs. Reference intervals were calculated as 0.59-1.72&#xa0;&#xb5;mol/l for all sheep, 0.59-1.56&#xa0;&#xb5;mol/l for adults, and 0.59-1.83&#xa0;&#xb5;mol/l for juveniles, with juveniles exhibiting significantly higher concentrations (p&#x2009;<&#x2009;0.001). No sex-related differences were observed. In a retrospective analysis of 51 deceased sheep with histopathological renal assessments, SDMA concentrations were significantly elevated in animals with severe renal lesions compared to those with no, mild or moderate lesions (p&#x2009;=&#x2009;0.005). Creatinine by contrast did not show significant differences. Notably, in animals with poor body condition, SDMA remained effective in identifying individuals with severe renal lesions, whereas creatinine levels remained within or below the reference interval. These findings suggest that SDMA is a more sensitive indicator of renal dysfunction in sheep than creatinine, particularly in emaciated individuals. The established reference intervals provide a foundation for clinical application. The economic feasibility of SDMA testing remains a limitation, but its potential to improve early diagnosis of renal disease in sheep justifies further investigation.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42983514",
+      "title": "Comparative epidemiology of multidrug-resistant Escherichia coli ST131 across human, poultry, and companion animal hosts in Iran.",
+      "journal": "BMC Veterinary Research",
+      "authors": "Hafiz M, Askari Badouei M, Hashemi Tabar G, Nemati A",
+      "date": "2026 11 05",
+      "dateObject": "2026 11 05",
+      "abstract": "Escherichia coli ST131 is a globally prevalent multidrug-resistant pathogen, mainly linked to human infections but increasingly found in animals. Its spread is largely driven by the O25b-ST131 sublineage carrying the CTX-M-15 ESBL. However, limited data exist on its prevalence, transmission, resistance, and genetics in Iran. A total of 360 E. coli isolates from human urinary tract infections (UTIs), poultry colibacillosis, and fecal samples from companion animals were collected (2021-2024). Molecular typing identified ST131 clones and determined phylogenetic groups. Antimicrobial agent susceptibility was tested using the CLSI disk diffusion method. Key resistance genes (e.g., bla CTX-M , bla OXA , aac(6')-Ib-cr) and plasmid replicon types were investigated. Among 360 isolates, 21 (5.8%) were identified as ST131, with significantly higher prevalence in human UTIs 19/120 (15.8%) compared to poultry 1/120 (0.83%) and companion animal 1/120 (0.83%) sources (p&#x2009;<&#x2009;0.001). Among ST131 isolates, 94.7% (18/19) from human sources belonged to the O25b clonal group, while 5.3% (1/19) were O16. Both animal-derived ST131 isolates 2/2 (100%) were O25b clonal group. All ST131 isolates 21/21 (100%) belonged to phylogroup B2 and demonstrated multidrug resistance. High resistance rates were observed against ciprofloxacin 18/21 (85.7%), cefotaxime 20/21 (95.2%), and ampicillin 21/21 (100%). ESBL genes were detected in 61.9% of ST131 isolates, and bla CTX-M-15 was identified in 47.4% of urinary strains. Half of the UTI isolates 9/19 (47.4) harbored bla CTX-M-15 , bla OXA , and aac(6')-Ib-cr simultaneously. IncFIA (78.9%) and IncFIB (73.6%) plasmids were predominant in human isolates, while HI2 replicon was more common in non-human sources 2/2 (100%), including one dog sample and one poultry sample. ST131 poses a significant public health concern in Iran, particularly in human UTIs, due to its multidrug resistance and ESBL production. The predominance of O25b clonal group and differential resistance patterns between human and animal sources suggest distinct evolutionary pressures. Importantly, this study provides the first report of ST131 in poultry and companion animals in Iran (representing a critical surveillance gap previously undocumented in the Iranian veterinary literature), thereby establishing a foundational baseline for future comparative genomic studies to elucidate interspecies transmission dynamics and resistance evolution.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42983423",
+      "title": "Evaluating plasma renin activity as a monitoring parameter for mineralocorticoid treatment in dogs with primary hypoadrenocorticism.",
+      "journal": "BMC Veterinary Research",
+      "authors": "Arrigoni S, Harburger LA, Neubert E, Riond B, Evans H, Unterer S, Boretti FS, Sieber-Ruckstuhl N",
+      "date": "2026 11 05",
+      "dateObject": "2026 11 05",
+      "abstract": "In human medicine, plasma renin activity (PRA) is used to assess mineralocorticoid treatment adequacy in hypoadrenocorticism, with elevated levels indicating under-replacement and suppressed levels over-replacement. In dogs with primary hypoadrenocorticism, PRA is increased before treatment and decreases with treatment, but its value as a monitoring parameter remains uncertain. The objective of this study was to evaluate PRA as a marker to guide mineralocorticoid dosing in dogs with primary hypoadrenocorticism. A total of 52 PRA measurements were collected from 28 dogs during scheduled desoxycorticosterone pivalate (DOCP) treatment visits. All dogs had received DOCP and prednisolone for at least five months. PRA was measured by ELISA detecting angiotensin I. Median PRA was 1.6 ng/mL/h (range, 0-19.2), with 19 values above, 17 within, and 16 below the reference interval. PRA showed moderate correlations with potassium (p&#x2009;=&#x2009;0.009, &#x1d6d2; = 0.36), sodium (p&#x2009;=&#x2009;0.02, &#x1d6d2; = -0.33), the sodium-to-potassium (Na/K) ratio (p&#x2009;=&#x2009;0.006, &#x1d6d2; = -0.38), and DOCP dose (p&#x2009;=&#x2009;0.02, &#x1d6d2; = -0.34), while urine specific gravity correlated with DOCP dose (p&#x2009;=&#x2009;0.01, &#x1d6d2; = -0.50). Compared with visits with decreased PRA, visits with increased PRA had a significantly lower Na/K ratio (p&#x2009;=&#x2009;0.048). Increased PRA occurred more frequently during visits with concurrent disease (p&#x2009;=&#x2009;0.005); concurrent disease was also associated with higher creatinine concentrations (p&#x2009;=&#x2009;0.023) and lower DOCP doses (p&#x2009;=&#x2009;0.004). In subgroup analyses, chronic enteropathy was associated with higher potassium concentrations (p&#x2009;=&#x2009;0.003), lower Na/K ratios (p&#x2009;=&#x2009;0.009), and higher DOCP doses (p&#x2009;<&#x2009;0.001), whereas chronic kidney disease was associated with higher creatinine concentrations (p&#x2009;<&#x2009;0.001) and lower DOCP doses (p&#x2009;<&#x2009;0.001). Clinical assessment and PRA status were concordant in 48% of visits. PRA may provide additional information for monitoring mineralocorticoid treatment in dogs with hypoadrenocorticism treated with DOCP. However, its interpretation can be challenging, as it often does not match electrolyte results and both PRA and electrolytes may be affected by other diseases. Therefore, PRA should be interpreted as a supportive parameter within the clinical context.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42983507",
+      "title": "Inflammatory myofibroblastic tumor in a 9-year-old male neutered mixed-breed dog with gastrointestinal signs; a case report.",
+      "journal": "BMC Veterinary Research",
+      "authors": "Vafaei R, Nassiri SM, Mirani AH",
+      "date": "2026 11 05",
+      "dateObject": "2026 11 05",
+      "abstract": "A 9-year-old male neutered mixed-breed dog was presented with chronic diarrhea and vomiting. Abdominal ultrasonography revealed a mass in the jejunum, which was surgically excised. Histopathological examination and immunohistochemistry confirmed the diagnosis of an inflammatory myofibroblastic tumor (IMT). This case report discusses the clinical presentation, diagnostic approach, and management of IMT in this dog.",
+      "categories": [
+        "internalMedicine",
+        "oncology"
+      ]
+    },
+    {
+      "pmid": "42983112",
+      "title": "Dietary taurine mitigates waterborne arsenic trioxide toxicity in Nile tilapia: effects on growth performance, intestinal health, stress biomarkers, and immune-related genes.",
+      "journal": "Veterinary Research Communications",
+      "authors": "Radwan M, Ragab AM, Bashar MAE, Al Malki JS, Al-Megrin WAI, Moussa MA",
+      "date": "2026 11 05",
+      "dateObject": "2026 11 05",
+      "abstract": "Chronic arsenic contamination can compromise fish performance and health, yet practical nutritional approaches to limit its effects remain poorly defined. This 60-day study tested whether dietary taurine (TA; 10&#xa0;g kg&#x207b;&#xb9; diet) mitigates waterborne arsenic trioxide (As&#x2082;O&#x2083;; AS; 10&#xa0;&#xb5;g L&#x207b;&#xb9;, nominal) toxicity in Nile tilapia (Oreochromis niloticus) using a 2&#x2009;&#xd7;&#x2009;2 factorial design (with or without AS and TA; four aquaria per treatment, 15 fish per aquarium). AS exposure significantly reduced growth, feed efficiency, digestive enzyme activities, intestinal health, blood indices, innate immunity, and antioxidant responses, while increasing markers of hepatorenal stress, lipid peroxidation, intestinal injury, tissue DNA fragmentation, and IL-1&#x3b2;, HSP70, and Casp3 gene expression (P&#x2009;<&#x2009;0.05). Observed survival was 70.00% in the AS group compared with 98.33% in the control group. In AS-exposed fish, TA improved growth and feed conversion, preserved villus architecture, restored most haematological, biochemical, immune, and antioxidant variables, enhanced SOD, CAT, GPx, and Nrf2 transcript abundance, and lowered MDA, DNA fragmentation, and inflammatory, stress, and apoptotic gene expression. Most responses in the AS&#x2009;+&#x2009;TA group approached control values. Significant AS &#xd7; TA interactions for most statistically analysed variables indicated that TA conferred marked benefits during the AS challenge. In conclusion, dietary TA improved the physiological resilience of Nile tilapia to chronic exposure to waterborne As&#x2082;O&#x2083; by supporting intestinal function and redox-immune balance.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42983102",
+      "title": "Antimicrobial peptides for companion animals: research advances, translational challenges, and opportunities.",
+      "journal": "Veterinary Research Communications",
+      "authors": "Pan S, Wei Y, Sun M, Yu H, He P, Zhang G, Qiao S, Wu Y, Yang Q",
+      "date": "2026 11 05",
+      "dateObject": "2026 11 05",
+      "abstract": "Antimicrobial resistance (AMR) represents a growing global threat to public health, necessitating the development of novel antimicrobial strategies. Companion animals, particularly dogs and cats, are increasingly integrated into human lives, and their close interactions with humans facilitate the transmission of antimicrobial-resistant pathogens. Therefore, the use of contemporary antimicrobials in these animals raises significant concerns for both animal and human health. Antimicrobial peptides (AMPs), a class of naturally occurring peptides, play a critical role in host innate immunity through dual antimicrobial and immunomodulatory activities. Due to their pleiotropic mechanisms of action and lower selective pressure for resistance, AMPs are emerging as promising alternative candidates to conventional antimicrobials. Notably, accumulating evidence has also highlighted the promising antitumor capacity of AMPs, expanding their therapeutic potential beyond microbial infection control. Despite their potential, research on AMPs in companion animals remains limited, with most available evidence derived from in vitro assays and pre&#x2011;clinical in vivo experiments, while well&#x2011;controlled clinical studies are sparse. This review overviews recent advances in AMP research in dogs and cats, discusses major challenges in their development, and outlines future directions for their application in veterinary medicine. The adoption of AMPs in small animal practice has the potential to improve animal health while contributing to the mitigation of AMR. Collectively, this review offers new insights into the development of multifunctional novel therapeutic strategies in companion animals.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
     {
       "pmid": "42979989",
       "title": "Survival time and prognostic factors in cats with suspected acute pyelonephritis.",
@@ -14,6 +144,55 @@
       ]
     },
     {
+      "pmid": "42981717",
+      "title": "Elimination kinetics of nonsteroidal anti-inflammatory drugs during carbon hemoperfusion in 19 dogs with toxicosis.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Her J, Labato MA, Langston CE, Butty EM",
+      "date": "2026 11 04",
+      "dateObject": "2026 11 04",
+      "abstract": "To describe the elimination kinetics of NSAIDs during carbon hemoperfusion (cHP) in dogs with toxicosis, specifically the apparent elimination rate constant, half-life, and plasma reduction. 19 client-owned dogs (median age, 2.5 years; median body weight, 22 kg) with ibuprofen (n = 10), carprofen (5), or naproxen (4) toxicosis treated with cHP at 2 academic veterinary teaching hospitals from November 30, 2022, through July 7, 2024. Dogs were presented after known or suspected ingestion at median estimated maximum doses of 720, 200, and 325 mg/kg for ibuprofen, carprofen, and naproxen, respectively. The median interval from ingestion to cHP was 6.8 hours. Plasma concentrations were measured by LC-MS-MS in-serial samples collected during and, when available, after cHP. The median total plasma reduction was 58% (IQR, 51 to 80). The overall half-life during cHP was 1.3 hours (IQR, 1.1 to 1.8) by the 2-point method, concordant by regression (1.4 hours), and approximately 3.7-, 5.4-, and 52.0-fold shorter than respective therapeutic-dose half-lives. Among 5 dogs with posttreatment samples, plasma concentration rebounded after cHP in 1 naproxen-treated dog. The cHP-associated rate constant exceeded the intrinsic rate constant 11- to 40-fold in 4 of 5 dogs. Carbon hemoperfusion was associated with substantial reductions in plasma NSAID concentrations during treatment in dogs with severe ibuprofen, carprofen, or naproxen toxicosis. Most of the decline occurred early in the session. Further studies are warranted to optimize treatment protocols. Carbon hemoperfusion markedly shortened NSAID elimination half-lives in dogs with severe toxicosis, accelerating removal well beyond endogenous elimination.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42981710",
+      "title": "Comparison of the pharmacokinetics and sedative effects of Zenalpha (medetomidine and vatinoxan) administered intramuscularly and oral transmucosally in dogs.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Lathan AW, Smith CK, Kleine SA, Smith JS, Ng Z, Hampton CE, Bussieres G, Sun X, Rust MR, Knych H, Seddighi R",
+      "date": "2026 11 04",
+      "dateObject": "2026 11 04",
+      "abstract": "To evaluate the sedative effects and pharmacokinetic profile of medetomidine and vatinoxan (Zenalpha) administered via the oral transmucosal (OTM) route. We hypothesized that sedation scores obtained from Zenalpha OTM (ZOTM) would not differ from Zenalpha IM (ZIM). Dogs received 20 &#xb5;g/kg ZIM or 80 &#xb5;g/kg ZOTM. Sedation, anxiolytic, and handling scores were collected at 0, 15, 30, 30, 45, 60, 75, 90, 120, 150, and 180 minutes after administration of Zenalpha. Normality was tested using the Shapiro-Wilk test, and data were presented as median and range. Physiologic data were collected at 0, 5, 10, 15, 30, 45, 60, 90, 120, 240, 360, and 480 minutes. Plasma samples were collected at 0, 3, 5, 8, 8, 10, 15, 30, 45, 60, 90, 120, 240, 360, 480, 720, and 1,440 minutes and analyzed for concentration of medetomidine and vatinoxan using LC-MS-MS. 8 healthy adult Beagles participated in this study. Dogs in ZIM and ZOTM showed significant increases in sedation, anxiolysis, and handling scores compared to baselines. Medetomidine OTM was associated with a time to maximum concentration and relative bioavailability of 86 minutes (6 minutes ZIM) and 26.4%, respectively. Vatinoxan OTM was associated with a time to maximum concentration and relative bioavailability of 216 minutes (15 minutes ZIM) and 55.2%, respectively. ZOTM (80 &#x3bc;g/kg) provided effective sedation, anxiolysis, and improved handling in healthy dogs comparable to ZIM (20 &#x3bc;g/kg) administration. Zenalpha administered OTM, at higher doses, may provide an attractive alternative to IM injection to achieve similar sedation.",
+      "categories": []
+    },
+    {
+      "pmid": "42981719",
+      "title": "A case-case-control study of cefovecin use and third-generation cephalosporin-resistant Escherichia coli infections in cats.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Frye A, Kim H, Rosenthal C, Angel CC, Chikara Y, Cummings KJ, Guarino CMB, Cazer CL",
+      "date": "2026 11 04",
+      "dateObject": "2026 11 04",
+      "abstract": "To determine if cefovecin administration increased the risk of third-generation cephalosporin (3GC)-resistant Escherichia coli infections in cats. In this retrospective case-case-control study, cases were cats with 3GC-susceptible or 3GC-resistant E coli infections at the Cornell University Hospital for Animals from 2009 to 2023; controls were randomly selected from all feline patients seen during the study period. Exposure data were collected via review of medical records. Direct acyclic graph-driven multivariable regression models of each potential exposure were built for each case-control grouping. 36 susceptible cases (3% cefovecin treated), 14 resistant cases (21% cefovecin treated), and 72 controls (6% cefovecin treated) were identified. Resistant cases had a higher proportion of cefovecin use (21%) than susceptible cases (3%) and controls (6%), but case numbers were too low to evaluate whether cefovecin use was associated with either infection type. Most of the cats that received cefovecin (75%) were underdosed. The overall frequency of cefovecin administration was low (7%) compared to previous studies. Cefovecin use was less frequent than previously reported, resulting in too few cases to determine whether cefovecin use is associated with 3GC-resistant E coli infections in cats. The sample size was too small to evaluate association between cefovecin and 3CG resistance. Based on prudent antimicrobial stewardship, veterinarians should limit cefovecin use to cases where oral antimicrobial treatment is impossible and, ideally, its use is supported by antimicrobial susceptibility testing to avoid selecting for antimicrobial resistance in treated cats. When using cefovecin, veterinarians should ensure they are administering the label-recommended 8-mg/kg dose.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42981718",
+      "title": "Laryngeal paralysis in 72 cats: a multicenter study on epidemiology and treatment.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Gobbetti M, Rossanese M, Tremolada G, Pisani G, Cinti F, Montinaro V, Cantatore M",
+      "date": "2026 11 04",
+      "dateObject": "2026 11 04",
+      "abstract": "To describe the etiology, treatment, and outcomes of cats with laryngeal paralysis (LP) and identify factors associated with survival. Retrospective, multicenter, observational study. Medical records from 7 referral hospitals (Italy, UK, US) were reviewed to identify cats with LP (2003 to 2024). Survival was assessed using Kaplan-Meier and Cox regression analyses. 72 cats were included. Primary idiopathic LP was diagnosed in 49 cats (68%) and secondary LP in 17 (24%), most commonly associated with pulmonary neoplasia, trauma, or surgery. Six cats (8%) had comorbidities without a confirmed causal relationship. Bilateral LP was diagnosed in 44 cats (61%), and unilateral LP was diagnosed in 26 cats (36%). Arytenoid lateralization was performed in 53 cats (74%); 93% of cats with bilateral LP and 38.5% of cats with unilateral LP underwent surgery. Complications occurred in 13 cats (24%), including 8 major complications (15%) and 3 deaths from aspiration pneumonia. Estimated 1-, 2-, and 3-year postoperative survival rates were 88%, 85%, and 85%, respectively. Major postoperative complications were the only independent predictor of decreased survival (hazard ratio, 99.42; 95% CI, 8.50 to 1,161.77). Primary idiopathic LP was the most common diagnosis, although secondary causes, particularly neoplasia, were frequent. Unilateral LP may require surgical treatment. Arytenoid lateralization provided good long-term outcomes, although major complications markedly reduced survival. Thorough investigation should be considered in cats with LP to identify underlying neoplasia. Treatment decisions should be based on clinical severity rather than laterality, and owners should be informed of the risk of serious postoperative complications.",
+      "categories": [
+        "internalMedicine",
+        "oncology",
+        "surgery",
+        "neurology"
+      ]
+    },
+    {
       "pmid": "42979426",
       "title": "Functional peptide therapeutics for veterinary osteoarthritis: mechanisms, delivery systems, and translational priorities.",
       "journal": "Frontiers in Veterinary Science",
@@ -22,6 +201,18 @@
       "dateObject": "2026 11 04",
       "abstract": "Veterinary osteoarthritis (OA) is a chronic whole-joint disorder that causes pain, gait impairment, reduced activity, and diminished quality of life in companion and performance animals. Current multimodal management includes weight control, rehabilitation, non-steroidal anti-inflammatory drugs, prostaglandin E2 EP4 receptor antagonists, anti-nerve growth factor monoclonal antibodies, intra-articular therapies, and nutraceuticals. Although these interventions improve pain and function, they generally do not restore the cartilage extracellular matrix or provide sustained disease modification. Functional peptides have emerged as promising candidates because of their potential to suppress inflammation, inhibit matrix degradation, promote chondrogenesis, target damaged cartilage, and support sustained or targeted delivery. This narrative review evaluated the pathobiological rationale, veterinary evidence, peptide classes, delivery technologies, pharmacological requirements, and translational barriers relevant to veterinary OA. Targeted literature searches and qualitative evidence appraisal focused on clinical relevance, peptide mechanisms, delivery strategies, species-specific limitations, and the distinction between nutritional collagen hydrolysates and sequence-defined therapeutic peptides. Oral bioactive collagen peptides currently provide the most direct clinical evidence in naturally occurring canine and equine OA. However, the principal canine trial was limited by modest sample size and duration, predominantly symptomatic rather than structural outcomes, and manufacturer support. Thus, the available evidence supports potential adjunctive clinical benefit rather than a disease-modifying claim. Sequence-defined hyaluronan-binding, bone morphogenetic protein receptor-mimetic, collagen-binding, collagen-hybridizing, and cartilage-targeting peptides have demonstrated mechanistic or delivery advantages in cell, tissue, rodent, and selected large-animal studies, but target-species pharmacokinetic and clinical validation remains limited. A credible development pathway should integrate target-specific activity, protease stability, immunogenicity, manufacturability, species-appropriate delivery, joint exposure, repeated-dose safety, objective gait and activity outcomes, and structural endpoints. Functional peptides are unlikely to replace multimodal care in the near term but may become valuable adjunctive platforms and contribute to future disease-modifying strategies when biological activity is supported by demonstrated joint exposure, structural protection, and rigorous comparative trials.",
       "categories": []
+    },
+    {
+      "pmid": "42982910",
+      "title": "Seroprevalence of anti-Leptospira antibodies in unvaccinated hunting and guard dogs from Tiaret, northwestern Algeria: a cross-sectional study.",
+      "journal": "Veterinary Research Communications",
+      "authors": "Bia T, Korba AA, Slimani KM, Villanueva-Saz S, Manseur H, Mekhloufi OA, Degui D, Khames M, Lafri I, Gy&#xf6;rke A, Benameur Q",
+      "date": "2026 11 04",
+      "dateObject": "2026 11 04",
+      "abstract": "Leptospirosis is a globally important zoonotic disease caused by pathogenic Leptospira species and represents a public health concern, particularly for people in close contact with infected companion animals. As the seroprevalence of canine leptospirosis in Algeria remains unknown, this study aimed to estimate seroprevalence and identify potential risk factors in dogs from Tiaret Province. A total of 82 dogs of both sexes, aged 6 months to 10 years, were sampled between January and December 2022 and underwent a general clinical examination, general health status was recorded as good or poor, and the absence of clinical signs compatible with leptospirosis ( collapse, jaundice, difficulty breathing, heamaturia) was noted. Serum samples were tested using the Microscopic Agglutination Test, the international reference serological method. Overall seroprevalence was 29.3% (95% confidence interval (CI): 20.5-39.9). The most frequently detected reactions were to Patoc (8.5%; 95% CI:4.2-16.6; 7/82), Bratislava (8.5%; 95% CI:4.2-16.6; 7/82), Autumnalis and Copenhageni (7.3% each; 95% CI: 3.4-15.1; 6/82), Icterohaemorrhagiae (6.1%; 95% CI:2.6-13.5; 5/82), Canicola (4.9%; 95% CI:1.9-11.9; 4/82), and Pyrogenes (1.2%; 95% CI:0.2-6.6; 1/82). Among the 24 seropositive dogs, 66.7% (95% CI: 46.7-82.0) reacted to a single serovar, whereas 33.3% (95% CI: 18.0-53.3) reacted to two or three serovars, indicating exposure to diverse leptospiral antigens. Two dogs reacted simultaneously to Copenhageni and Icterohaemorrhagiae, both belonging to the Icterohaemorrhagiae serogroup. None of the investigated variables - sex, age, breed group, function (hunting vs. guard), geographical area, or health status - was significantly associated with leptospiral seropositivity (p&#x2009;>&#x2009;0.05). These findings demonstrate a previous exposure to multiple Leptospira serovars among unvaccinated hunting and guard dogs in Tiaret and highlight a potential zoonotic risk to humans, particularly dog owners and other individuals in close contact with dogs.",
+      "categories": [
+        "internalMedicine"
+      ]
     },
     {
       "pmid": "42979075",
@@ -196,45 +387,6 @@
       "categories": [
         "internalMedicine",
         "oncology"
-      ]
-    },
-    {
-      "pmid": "42968181",
-      "title": "First detection of Leishmania infantum in dogs and wild-caught Culicoides oxystoma in Hainan Province, Southern China.",
-      "journal": "BMC Veterinary Research",
-      "authors": "Manathunga T, Carbonara M, Bezerra-Santos MA, Jimale KA, Mendoza-Roldan JA, Lia RP, Yu H, Chen P, Han Q, Otranto D, Barrs VR",
-      "date": "2026 11 01",
-      "dateObject": "2026 11 01",
-      "abstract": "Leishmaniases are neglected parasitic diseases expanding globally. In China, Leishmania infantum, which isendemic in the west, has reemerged and spread to the central part of the country, raising concerns about further potential expansion. Given limited data from southern China, this study investigated the presence of Leishmania spp. infection in dogs and potential vectors in Haikou, Hainan, China's southernmost Province. Blood, conjunctival swabs, and lymph node aspirates were collected from 52 dogs at two shelters, where an entomological survey using CDC light traps was also performed. Leishmania DNA was amplified by kDNA and ITS1 PCR. A commercial rapid test (SNAP &#xae; Leish 4Dx &#xae; ; IDEXX, USA) and immunofluorescence antibody test (IFAT) were used to detect antibodies against L. infantum. Insects were morphologically and molecularly identified, and tested for Leishmania by ITS1 PCR and sequencing. Phylogenetic relationships were inferred using maximum likelihood and neighbour-joining trees constructed in MEGA X. Overall, 4 of 52 dogs (7.7%) tested serologically (n&#x2009;=&#x2009;3) or molecularly (n&#x2009;=&#x2009;1, conjunctival swab by kDNA PCR) positive for Leishmania species. Two dogs tested positive for antibodies on the commercial rapid test, including one with generalized lymphadenomegaly, and a third dog was IFAT positive (1:160). No sand flies and 1568 Culicoides were captured. Leishmania DNA sequences (10 L. infantum, 1 L. tarentolae) were detected in 11/224 non-engorged female Culicoides oxystoma and clustered within their corresponding phylogenetic clades. This study provides the first evidence of Leishmania spp. DNA and antibodies in dogs and L. infantum and L. tarentolae DNA in biting midges from Hainan Province. Ongoing surveillance of competent vectors and dogs in this region is advocated.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42968180",
-      "title": "Intraoperative indocyanine green fluorescence in canine meningioma: macroscopic visualization, immediate MRI correlation, and clinical outcomes : a case series.",
-      "journal": "BMC Veterinary Research",
-      "authors": "Kim Y, Choi M, Kim Y, Kim HY",
-      "date": "2026 11 01",
-      "dateObject": "2026 11 01",
-      "abstract": "Meningioma is the most common primary intracranial neoplasm in dogs, frequently presenting with seizures and focal neurological deficits. While indocyanine green (ICG) near-infrared (NIR) fluorescence is increasingly used in human neurosurgery, systematic data regarding the macroscopic fluorescence emitted by accumulated ICG in canine meningiomas remain scarce. This case series aimed to evaluate the fluorescent signals emitted from the tumors, correlate intraoperative findings using immediate post-operative contrast-enhanced magnetic resonance imaging (MRI), and report the clinical outcomes and post-operative management following fluorescence-guided surgery (FGS). Six client-owned dogs (median age: 13 years) with histologically confirmed meningiomas were evaluated. ICG was administered intravenously (2.5-5.0&#xa0;mg/kg, median dose: 4.5&#xa0;mg/kg) 6 to 24&#xa0;h prior to surgery. FGS was performed using an ultrasonic aspirator and a dedicated fluorescence imaging system. Distinct margin fluorescence was observed in all 6 cases (100%), allowing for real-time differentiation between tumor tissue and grossly normal brain parenchyma during resection. Immediate post-operative T1-weighted contrast-enhanced MRI demonstrated 100% concordance with intraoperative wound bed fluorescence assessments when thin reactive rims (&#x2264;&#x2009;1-2&#xa0;mm) were appropriately excluded. No adverse reactions were associated with ICG. The median follow-up was 14 months (range: 6.6 to 31.0 months), with favorable neurological control. Utilizing a second-window approach with dynamic working distance control, ICG effectively demarcated macroscopic canine meningiomas in this small cohort. Immediate post-operative MRI correlated well with surgeon's intraoperative assessments. Ultimately, FGS may serve as a viable surgical option to help minimize damage to grossly normal brain tissue and potentially improve surgical outcomes in canine meningioma.",
-      "categories": [
-        "oncology",
-        "surgery",
-        "neurology",
-        "dermatology"
-      ]
-    },
-    {
-      "pmid": "42968085",
-      "title": "Determinants of rabies knowledge, attitudes, and practices among secondary and vocational school students in Maha Sarakham Province, Thailand.",
-      "journal": "BMC Veterinary Research",
-      "authors": "Suwannarong K, Thammasutti K, Promsatit S, Amonsin A, Lajaunie C, Pumipuntu N",
-      "date": "2026 11 01",
-      "dateObject": "2026 11 01",
-      "abstract": "Rabies is a critical zoonotic disease that is found throughout the world, particularly in Africa, Asia, and Latin America. Once a clinical sign appears, the fatality rate rises to 100% globally. In Thailand, children under the age of 15 had the highest annual reported exposure rate to rabies infection. One of the most significant barriers to disease prevention and control is a lack of public awareness about rabies, particularly among children and young people. The study's goal was to determine knowledge, attitude, and preventive practice (KAP) about rabies and associated factors among secondary and vocational students in Maha Sarakham, Thailand, in 2023. An analytic cross-sectional survey was carried out from January to May 2023, with a total of 628 study participants. Data was collected through online and on-site questionnaires. Descriptive analysis was carried out. Inferential statistics analysis was also performed to identify factors associated with rabies KAP among the target participants.Most participants demonstrated a moderate level of knowledge (55.89%), neutral attitudes (81.37%), and moderate preventive practices (72.77%) toward rabies. Students who had experience raising animals, had previously studied zoonotic diseases, had a history of animal bites or scratches, or had received rabies vaccination showed significantly higher knowledge and practice scores (p&#x2009;<&#x2009;0.05). Knowledge and attitudes were positively correlated with preventive practices (r&#x2009;=&#x2009;0.14 and r&#x2009;=&#x2009;0.28, respectively; p&#x2009;<&#x2009;0.05). The findings suggest a significant need for rabies awareness programs targeting school and college students within the community. The materials designed to promote KAP regarding rabies should address specific topics, including the risk of rabies, modes of transmission, the significance of first aid, health-seeking behavior following dog bites or cat scratches, and preventive measures for both pets and community dogs and cats.",
-      "categories": [
-        "internalMedicine"
       ]
     },
     {
@@ -699,18 +851,6 @@
       ]
     },
     {
-      "pmid": "42950428",
-      "title": "Antimicrobial resistance and molecular characterization of extended-spectrum &#x3b2;-lactamase/AmpC &#x3b2;-lactamase-producing Proteus mirabilis isolates from companion dogs in South Korea (2018-2024).",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Hwang YJ, Lee YH, Ali MS, Choi JH, Park SC, Moon BY, Lim SK",
-      "date": "2026 10 29",
-      "dateObject": "2026 10 29",
-      "abstract": "To investigate antimicrobial resistance profiles and molecular characteristics of third-generation cephalosporin- and cephamycin-resistant Proteus mirabilis isolated from clinically ill dogs across South Korea from 2018 through 2024. Antimicrobial susceptibility of isolates was assessed by broth microdilution. Molecular characteristics were determined by polymerase chain reaction and multilocus sequence typing. In total, 667 P mirabilis were isolated from skin/ear, feces, and urine/reproductive systems of companion dogs. Among them, 27.3% of isolates exhibited a multidrug-resistant (MDR) phenotype. Molecular characterization of 38 extended-spectrum &#x3b2;-lactamase (5.7%)/AmpC &#x3b2;-lactamase-carrying strains revealed a high prevalence of &#x3b2;-lactamase cephamycinase-2 gene blaCMY-2 (65.8%) and &#x3b2;-lactamase cefotaximase gene blaCTX-M variants, including blaCTX-M-65, blaCTX-M-15, and blaCTX-M-90. Multilocus sequence typing identified 16 distinct sequence types (STs), with ST135 (39.5%) and ST212 (21.1%) emerging as the most prevalent lineages. Phylogenetic analysis revealed that the first major cluster contains 31 isolates (81.6%) across 10 STs centered around ST135, whereas the second cluster comprises 7 isolates (18.4%) across 6 STs centered on ST292. Notably, the ST135-centered cluster was associated with robust MDR phenotypes. These findings indicate that companion dogs harboring MDR P mirabilis are among several potential reservoirs within the One Health context. Especially, clone ST135 may serve as a primary evolutionary axis and a high-risk endemic clone within the Korean canine population. Our study highlights the critical role of dominant lineages in dissemination of extended-spectrum &#x3b2;-lactamase/AmpC &#x3b2;-lactamase genes and emphasizes the urgent need for continuous One Health surveillance to monitor potential transmission of these clones between companion animals and humans.",
-      "categories": [
-        "dermatology"
-      ]
-    },
-    {
       "pmid": "42952495",
       "title": "Case Report: Presumptive subdural hemorrhage as a rare neurological manifestation of primary immune-mediated thrombocytopenia in a dog.",
       "journal": "Frontiers in Veterinary Science",
@@ -856,18 +996,6 @@
       ]
     },
     {
-      "pmid": "42948017",
-      "title": "Cadaveric study of the ultrasound-guided erector spinae plane block over the dorsolateral edge of the transverse process of the ninth thoracic vertebra in dogs: transverse vs. longitudinal approach.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Herrera-Linares ME, Sanchis-Mora S, Zamora-Perarnau C, Fern&#xe1;ndez-Salesa N, Rico-P&#xe9;rez B, Herrera-Guti&#xe9;rrez ME, Serra-Aguado CI, Fern&#xe1;ndez-Parra R",
-      "date": "2026 10 28",
-      "dateObject": "2026 10 28",
-      "abstract": "Studies of the ultrasound-guided thoracic erector spinae plane (ESP) blocks in dogs are limited. This study aimed to describe a transverse (TV) ultrasound-guided ESP approach at the dorsolateral edge of the transverse process (DLETP) of T9, compare its distribution with a longitudinal (LNG) approach, and analyze the thoracic transverse process anatomy. Twenty-three canine cadavers were used in this double-blinded experimental study. An ESP injection using 0.6 mL/kg of dye/contrast was performed on each lateral of 21 cadavers with a TV or LNG approach at T9, followed by computed tomography and dissection. Five cadavers were excluded from dissection analysis. All TV injections were placed over the DLETP, whereas 18.75% of LNG injections were misplaced laterally. Both approaches produced craniocaudal spread within the ESP, with median (range) spreads of 8 (5-14) and 8.5 (4-13) vertebrae for the TV and LNG groups, respectively. Cranial spread exceeded caudal in the TV group, with 4.5 (2-6) vs. 3.5 (0-7) vertebrae ( p = 0.027), and LNG, with 5 (3-7) vs. 3 (0-6) ( p = 0.004). Staining of the medial branches of the dorsal rami (MBDR) of the spinal nerves showed median (range) values of 5 (4-8) and 5 (0-6) in TV and LNG. Cranial MBDR staining predominated in TV, with 4.5 (1-6) over caudal with 1 (0-3) ( p = 0.003), and LNG, with 4 (0-6) vs. 0 (0-3) ( p < 0.001). Lateral branches (LBDR) staining showed 4 (1-9) and 4 (2-12) in TV and LNG. Cranial LBDR staining exceeded caudal in TV, with 3 (0-6) vs. 1 (0-3) ( p = 0.019), and LNG, with 3 (1-8) vs. 1 (0-5) ( p = 0.034). Ventral branches staining occurred in 10/16 TV injections (62.5%) and 11/16 (68.75%) LNG. Both approaches showed epidural and sympathetic trunk spread while one intravascular injection occurred in LNG. No significant differences were found between approaches. The DLETP was predominantly absent caudal to T10 and smaller than the transverse process ( p < 0.001). The TV and LNG approaches produced comparable nerve staining and ESP spread at T9 in dogs, with preferential cranial distribution. The TV approach reduced injectate misplacement. The DLETP was smaller than the transverse process and consistently identified cranial to T11.",
-      "categories": [
-        "neurology"
-      ]
-    },
-    {
       "pmid": "42947187",
       "title": "Pyelonephritis in cats and dogs - a scoping review.",
       "journal": "BMC Veterinary Research",
@@ -875,18 +1003,6 @@
       "date": "2026 10 28",
       "dateObject": "2026 10 28",
       "abstract": "There is a lack of consensus regarding the diagnosis and treatment of bacterial pyelonephritis (PN) in dogs and cats. The aim of this scoping review was to increase knowledge by describing published scientific literature on the subject, specifically to collate definitions and diagnostic criteria, antimicrobial regimens, reported outcomes, and to identify knowledge gaps. A structured search was performed of the bibliographic databases Biosis, CAB Abstracts, Medline, Web of Science Core Collection and Scopus. We included 176 original studies written in English or German that reported on any aspect of spontaneous PN (risk factors, signalment, history, clinical findings, diagnostic criteria, treatment, prognosis, and outcome) in cats or dogs. Three types of PN were identified in the literature: histologically diagnosed PN, clinically diagnosed PN, and pyonephrosis. Multiple information gaps regarding clinical aspects of PN in dogs and cats were detected. There were no universally accepted clinical criteria for clinical diagnosis of PN and no clinical trials evaluating antimicrobial or other treatment options. Information about short-term outcomes for dogs and cats with PN was scarce, and there were no data regarding long-term outcomes. More information regarding all aspects of clinical PN in dogs and cats is needed.The study protocol was registered prospectively in 2023 ( https://syreaf.org/protocols/ ).",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42947131",
-      "title": "High prevalence of virulent and multidrug-resistant Escherichia coli as the most frequently isolated bacterium associated with bacterial pneumonia in farmed raccoon dogs.",
-      "journal": "BMC Veterinary Research",
-      "authors": "Li H, Li C, Zhu X, Zhu Z, Chen G, Ren C, Zhu S, Wu T, Chen L, Li Y, Shi Q, Zhang Z",
-      "date": "2026 10 28",
-      "dateObject": "2026 10 28",
-      "abstract": "Bacterial pneumonia is a leading cause of mortality in fur-bearing animals, representing a significant challenge for the industry. Bacterial pneumonia is caused by a variety of pathogens, making its prevention and control difficult. This study aims to identify the primary etiological agents of bacterial pneumonia in farmed raccoon dogs in eastern Hebei and southern Liaoning provinces. To this end, we collected 159 pneumonic raccoon dogs between 2022 and 2025 for bacterial isolation and identification. We isolated 109 strains of Escherichia coli, 37 strains of Pseudomonas aeruginosa, and 13 strains of Klebsiella pneumoniae, identifying E. coli as the most frequently isolated bacterium. Further investigations revealed that E. coli caused multisystemic infection in raccoon dogs: the bacterium was detected in the liver, spleen, kidney, and blood, with the most severe lesions observed in the lungs, suggesting potential systemic dissemination. Histopathological examination results revealed multi-organ damage consistent with bacterial infection, which correlates with the isolation of E. coli from affected tissues. Pathogenicity assays demonstrated that the isolated E. coli strains exhibited notable pathogenic potential in a mouse model, capable of reproducing typical pneumonia symptoms via intranasal inoculation. Virulence gene profiling of the isolates showed that all strains harbored at least 5 virulence genes. Among these, the virulence genes ompR, phoU, tonB, fimH, fimC, and Ecs3737 exhibited high detection rates, at 94.5%, 94.5%, 93.58%, 84.4%, 77.98%, and 60.55%, respectively. Antimicrobial susceptibility testing (AST) results revealed severe multidrug resistance (MDR) among the clinical E. coli isolates. The isolates showed universal resistance to nalidixic acid and ampicillin, and no single antimicrobial agent was fully effective against all strains. The resistance profiles of the E. coli isolates varied significantly between the two geographic regions studied. Resistance gene detection showed extremely high detection rates (&#x2265;&#x2009;80%) for quinolone resistance-associated chromosomal target genes and plasmid-mediated quinolone resistance (PMQR) genes, as well as integron-associated mobile elements. The detection rates of aminoglycoside, sulfonamide, and polypeptide resistance genes ranged from 30% to 70%, while those of amphenicol, &#x3b2;-lactam, macrolide, and tetracycline resistance genes were between 3% and 30%. Taken together, these data indicate that E. coli is the most frequently isolated bacterium associated with bacterial pneumonia in sampled farmed raccoon dogs in eastern Hebei and southern Liaoning, with notable pathogenic potential in mouse models and a high prevalence of complex multidrug resistance. These findings provide critical baseline data for guiding clinical antimicrobial use and developing disease control strategies in raccoon dog farming.",
       "categories": [
         "internalMedicine"
       ]
@@ -954,30 +1070,6 @@
       "categories": [
         "surgery"
       ]
-    },
-    {
-      "pmid": "42936481",
-      "title": "Fibrostenotic intestinal stenosis associated with chronic enteropathy in two cats: case report.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Choi J, Yang S, Lee Y, Sung Y, Chae Y, Yun T, Kang BT, Kim S, Lee S, Kim H",
-      "date": "2026 10 27",
-      "dateObject": "2026 10 27",
-      "abstract": "Two cats presented with acute progressive vomiting. One cat (Case 1) received prednisolone for suspected chronic inflammatory enteropathy for 14&#x202f;months. The cat showed hypoalbuminemia, hypocobalaminemia, small intestinal thickening, and focal jejunal stricture with severe proximal dilation on ultrasonography. Exploratory laparotomy confirmed the stricture, and histopathology revealed submucosal fibroplasia with mild lymphoplasmacytic enteritis. The cat died on postoperative day 12. Another cat (Case 2) showed proximal small intestinal obstruction on ultrasonography. A wide-margin resection of the obstructed lesion was performed. Histopathology revealed mild intestinal wall fibrosis with mesenteric inflammation. Masson's trichrome staining showed submucosal collagen bundles. Immunohistochemistry and clonality analysis by PCR for antigen receptor rearrangement supported the diagnosis of low-grade intestinal T-cell lymphoma. The cat recovered uneventfully and remained restenosis-free during prednisolone treatment for 12&#x202f;months after surgery. Intestinal stenoses were identified during long-term medical management of chronic enteropathy. This suggests that the extent of the lesion and the surgical resection strategy could be relevant factors for management and prognosis.",
-      "categories": [
-        "internalMedicine",
-        "oncology",
-        "surgery"
-      ]
-    },
-    {
-      "pmid": "42936201",
-      "title": "A comparative study of diet choice and feeding management among UK pet and child caregivers.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Lumbis RH, Yam PS, Reilly JJ, Fontaine SJ",
-      "date": "2026 10 27",
-      "dateObject": "2026 10 27",
-      "abstract": "Caregivers play a central role in shaping the dietary habits and nutritional health of dependents. However, the diversity of available diets and feeding advice can complicate everyday food decisions. This qualitative study explored how caregivers make feeding decisions for their children and pets, focusing on factors influencing diet choice, feeding practices, perceptions of nutrition, and emotional attachment to dependents. UK-based caregivers aged 18 years or older, responsible for at least one child aged up to 10 years and a cat and/or dog, were recruited between July and November 2024. Semi-structured online interviews were conducted with 17 participants. Audio recordings were transcribed and analyzed thematically using an interpretive approach. Ethical approval was granted. Four key themes emerged. First, participants framed nutrition as a moral responsibility across both children and pets, positioning feeding as central to health and wellbeing and shaped by knowledge, identity, emotional attachment, habits, and practical realities. Second, diet choice and feeding practices were shaped by psychosocial determinants, with caregivers' knowledge, beliefs, routines, emotional motivations, and social norms influencing feeding decisions across both children and pets. Third, feeding dynamics differed between contexts. Children's diets involved negotiation and bidirectional relationships shaped by preferences, routines, and agency, whereas pet feeding was more caregiver-directed, routine-based, and influenced by trust in nutritional adequacy and pet-specific needs. Fourth, feeding practices reflected relational attachment and emotional bonds. Although pets were considered valued family members, their feeding needs were generally prioritized below those of children. Across both contexts, caregivers relied on observable cues, emotional responses, and socially shared norms to assess appropriate feeding. Caregiving beliefs and feeding philosophies transfer across contexts in complex ways, highlighting opportunities for family-focused interventions that support evidence-based nutrition for both people and animals.",
-      "categories": []
     },
     {
       "pmid": "42944944",
@@ -1383,34 +1475,6 @@
       ]
     },
     {
-      "pmid": "42921406",
-      "title": "Clinical reasoning in canine meningoencephalitis of unknown origin and glioma: the role of signalment, history and neurological examination.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Spohn F, Abani S, Dickinson PJ, Vernau KM, Toedebusch CM, Woolard KD, Beineke A, Volk HA, Nessler JN",
-      "date": "2026 10 24",
-      "dateObject": "2026 10 24",
-      "abstract": "Meningoencephalitis of unknown origin (MUO) is a group of presumed immune-mediated inflammatory diseases of the central nervous system (CNS) in dogs. Differentiating MUO from intracranial diseases such as glioma can be challenging based on magnetic resonance imaging (MRI) and cerebrospinal fluid (CSF) analysis. Because glioma represents an important differential diagnosis in dogs clinically suspected to have MUO, distinguishing these diseases is relevant for diagnostic reasoning, therapeutic planning, and owner communication. This study assessed whether readily available clinical variables contribute to clinical reasoning in dogs with histopathologically confirmed MUO or glioma. This retrospective multicenter study included 138 dogs with histopathologically confirmed MUO or glioma. Medical history, signalment, and neurological examination findings were compared between groups. Binary logistic regression was used to identify clinical variables associated with diagnosis. Seventy dogs were diagnosed with MUO and 68 dogs with glioma. Dogs with MUO had a lower median body weight (10.50 kg vs. 23.90 kg; p = 0.0007) and age (5.00 years vs. 7.04 years; p = 0.0007) than dogs with glioma. In the final multivariable model, disease onset was associated with the distinction between MUO and glioma ( p = 0.0282), while lower body weight and head tilt were associated with MUO. Increasing body weight was associated with lower odds of MUO (OR: 0.910; 95% CI: 0.861 - 0.961; p = 0.0007). Dogs without head tilt were less likely to be diagnosed with MUO than dogs with head tilt (OR: 0.249; 95% CI: 0.062 - 0.998; p = 0.0497). An exploratory, cohort specific body weight cut-off of &#x2264; 7.70 kg yielded 40.6% sensitivity and 95.6% specificity for MUO. Readily available clinical variables may provide supportive information when MUO and glioma are differential diagnoses, particularly when MRI and CSF findings are equivocal. However, overlap between groups and limited discriminatory performance of individual variables indicate that these findings should not be used as standalone criteria. Instead, signalment, history, and neurological examination findings should be interpreted as part of an integrated assessment together with MRI, CSF analysis, and infectious testing.",
-      "categories": [
-        "internalMedicine",
-        "neurology"
-      ]
-    },
-    {
-      "pmid": "42921401",
-      "title": "Case Report: Surgical treatment of feline pituitary apoplexy in 3 cases.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "van Schaik MA, van Stee LL, Grinwis GCM, Meij BP",
-      "date": "2026 10 24",
-      "dateObject": "2026 10 24",
-      "abstract": "Surgical treatment of feline pituitary apoplexy has not been previously described. To describe the clinical course and follow-up of 3 cases of feline pituitary apoplexy. Cases were selected based on histopathological confirmation of pituitary masses with haemorrhagic lesions, following transsphenoidal hypophysectomy. Details of physical examination, diagnostic test results, treatment and follow-up course were retrospectively acquired by review of medical and imaging records. Two cats were presented with acute onset of neurologic signs (case 1 and 2), and one cat showed subacute endocrinological dysfunction (case 3). All cases underwent successful transsphenoidal hypophysectomy, followed by intensive care hospitalization and successful discharge. Pituitary apoplexy was identified by histopathological examination of the excised pituitary glands in cases 1, 2, and 3. Imaging findings compatible with pituitary apoplexy were present in all 3 cases, although only case 3 was imaged with a hemorrhage-sensitive sequence, providing unequivocal evidence of intralesional hemorrhage. Case 1 had a survival time at least 716 days, underwent a second transsphenoidal surgery because of tumor recurrence and was subsequently lost to follow-up. Case 2 had a survival time of at least 1,098 days and is still alive at the time of writing this manuscript. In case 3, tumor recurrence was identified radiologically (MRI) at 365 days, and it died during a course of radiation therapy 612 days after transsphenoidal hypophysectomy. Pituitary apoplexy is a rare condition that also affects cats with large pituitary adenomas. Overall, the cats experienced acceptable clinical recovery and postoperative survival, supporting the feasibility of transsphenoidal hypophysectomy as a therapeutic option for cats with pituitary tumors affected by apoplexy. Notably, a favorable outcome was observed even in the presence of remnant pituitary tissue, as illustrated by the cat that later developed pituitary tumor recurrence.",
-      "categories": [
-        "internalMedicine",
-        "oncology",
-        "surgery",
-        "neurology"
-      ]
-    },
-    {
       "pmid": "42925450",
       "title": "Hemodynamic responses to clinical dosages of dopamine and dobutamine in dogs with hypotension under isoflurane anesthesia.",
       "journal": "Veterinary Research Communications",
@@ -1484,16 +1548,6 @@
       "categories": [
         "internalMedicine"
       ]
-    },
-    {
-      "pmid": "42915569",
-      "title": "Tablet crushing, but not splitting, alters the pharmacokinetics of extended-release levetiracetam in dogs.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Mondino A, Nettifee JA, Simon KE, Papich MG, Mu&#xf1;ana KR",
-      "date": "2026 10 23",
-      "dateObject": "2026 10 23",
-      "abstract": "To compare the pharmacokinetics of intact, split, and crushed levetiracetam (LEV) extended-release (LEV-XR) tablets in dogs. We hypothesized that splitting produces a pharmacokinetic profile similar to intact tablets, whereas crushing results in earlier and higher maximum concentrations. Healthy research dogs were administered 500 mg LEV-XR orally as intact, split, or crushed tablets in a randomized crossover design. Plasma LEV concentrations were measured over 12 hours by high-pressure liquid chromatography. Pharmacokinetic parameters were estimated using noncompartmental analysis and supplementary compartmental analysis and compared using linear mixed-effects models. The study utilized 7 Beagles. Compared with intact tablets, crushed tablets resulted in higher maximum concentration (Cmax) values (61.5 vs 46.0 &#xb5;g/mL; geometric mean ratio, 1.34; 95% CI, 1.08 to 1.65) and lower 8- to 12-hour exposure (30.0 vs 49.8 &#xb5;g&#xb7;h/mL; geometric mean ratio, 0.60; 95% CI, 0.47 to 0.77). Duration above the targeted concentration of 10 &#xb5;g/mL was longer with intact than crushed tablets (10.9 vs 8.5 hours; mean difference, 2.37 hours; 95% CI, 1.02 to 3.72). Exploratory compartmental analysis estimated an earlier time to maximum concentration (Tmax) for crushed compared with intact tablets. No statistically significant differences were observed between intact and split tablets. Splitting LEV-XR tablets did not significantly alter the evaluated pharmacokinetic parameters, whereas crushing resulted in a higher Cmax, an earlier model-estimated Tmax, and reduced late exposure. Splitting LEV-XR tablets may provide a practical option for dose adjustment in smaller dogs. Crushed LEV-XR warrants further evaluation as adjunct therapy during cluster seizures when immediate-release LEV is unavailable.",
-      "categories": []
     },
     {
       "pmid": "42911314",
@@ -1844,31 +1898,6 @@
         "internalMedicine",
         "oncology",
         "surgery"
-      ]
-    },
-    {
-      "pmid": "42269679",
-      "title": "Measurement of abdominal fluid bilirubin concentration frequently fails to detect biliary tract rupture in dogs with gallbladder mucocele.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Aicher KM, Gookin JL, Mathews KG, Stowe DM",
-      "date": "2026 10 16",
-      "dateObject": "2026 10 16",
-      "abstract": "To evaluate the diagnostic utility of abdominal fluid bilirubin concentration-to-serum bilirubin concentration ratio (AFB:SB) measurement in detecting biliary tract rupture or leakage in dogs with gallbladder mucocele (GBM; GBM group) versus no GBM (non-GBM group). For this retrospective cross-sectional study, a search of medical records identified dogs with concurrent measurements of abdominal fluid bilirubin and serum bilirubin concentrations prior to surgery or postmortem examination for biliary tract rupture or leakage between July 1, 2007, and January 31, 2022. Results for AFB:SB and other variables of interest were compared between the GBM versus non-GBM group and those with versus without biliary tract rupture or leakage. 29 dogs were included (GBM group, n = 12; non-GBM, n = 17). Eleven GBM dogs and 7 non-GBM dogs had biliary tract rupture or leakage. The AFB:SB was > 2 for 2 of 11 (18%) GBM dogs with rupture, 6 of 7 (86%) non-GBM dogs with biliary tract rupture or leakage, and 2 non-GBM dogs without identified rupture/leakage. Abdominal fluid cytology confirmed the presence of bile in all dogs with a ruptured GBM. The use of AFB:SB alone frequently fails to detect biliary tract rupture or leakage in dogs with GBM; however, cytological analysis of abdominal fluid is valuable in helping to detect potential GBM rupture. It is essential that primary care and emergency veterinarians be aware that an AFB:SB > 2 can be indicative of biliary tract rupture or leakage in dogs; however, the ratio may not be > 2 in dogs with ruptured GBM.",
-      "categories": [
-        "internalMedicine",
-        "surgery"
-      ]
-    },
-    {
-      "pmid": "42242287",
-      "title": "Respiratory distress in a newly diagnosed diabetic cat.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Biedak N, Mahony O, Rozanski E, Remolina P R, McCobb E",
-      "date": "2026 10 16",
-      "dateObject": "2026 10 16",
-      "abstract": "",
-      "categories": [
-        "internalMedicine"
       ]
     },
     {
@@ -2698,43 +2727,6 @@
       "abstract": "Canine cancer imposes substantial emotional, financial and decisional burden on owners navigating complex referral pathways and treatment options. Understanding how owners experience and interpret these pathways is essential to improving care delivery. We conducted a retrospective social media listening study using Pulsar Platform to retrieve public Anglophone posts relating to canine cancer across multiple platforms. After cleaning, de-duplication and zero-shot large language model relevance filtering (accuracy 88%-99%, F1 93%-98%, with precision up to 99% on Reddit), 11&#x2009;878 posts were analyzed (of those that could be geolocated, most originated from the USA). Sentiment and emotion classification, thematic extraction and non-negative matrix factorization topic modelling were applied. Pre-specified subsets examined cost-focused (n&#x2009;=&#x2009;2008), referral-focused (n&#x2009;=&#x2009;341) and steroid-focused (n&#x2009;=&#x2009;438) discourse. Overall, negative sentiment predominated (66%), with sadness the most frequent emotion (64%). Across platforms, quality of life (QoL) functioned as the primary decision-making framework, operationalized through appetite, mobility, comfort, engagement and \"good days\". Referral narratives highlighted delays, diagnostic sequencing uncertainty, travel burden and perceived gatekeeping within referral pathways. Financial constraint frequently shaped treatment feasibility, influencing decisions regarding chemotherapy, surgery, steroid-only palliation and euthanasia. Steroids were often described as a palliative bridge or cost-constrained alternative when advanced oncology care was inaccessible. General practise (GP) veterinarians were consistently referenced as trusted information anchors, influencing referral uptake and treatment trajectories. Topic modelling suggests a cancer-care pathway experienced as structurally constrained despite strong owner willingness to pursue treatment. QoL consistently supersedes cure as the dominant evaluative metric. Earlier cost transparency, clearer shared-care communication and strengthened GP-oncologist coordination may reduce decisional distress and help mitigate avoidable barriers to specialist care.",
       "categories": [
         "oncology",
-        "surgery"
-      ]
-    },
-    {
-      "pmid": "42696223",
-      "title": "Noninvasive malignant mammary adenomyoepithelioma in a male cat.",
-      "journal": "Veterinary Research Communications",
-      "authors": "Pastor FM, Ferreira E, Taborda DYO, da Silva Martinez NT, Cassali GD, Serakides R, Ocarino NM",
-      "date": "2026 09 04",
-      "dateObject": "2026 09 04",
-      "abstract": "This report describes the histopathological and immunohistochemical findings of a noninvasive malignant mammary adenomyoepithelioma in a seven-year-old neutered male mixed-breed cat. The animal was euthanized due to an extensive mandibular fracture caused by squamous cell carcinoma. Macroscopically, a 3&#x2009;&#xd7;&#x2009;1.5&#xa0;cm, elevated, well-defined, ulcerated, lobulated, reddish-white, solid - occasionally cystic - and firm nodule was observed in the right inguinal mammary gland. Microscopically, an expansive neoplastic proliferation composed of myoepithelial and epithelial cells arranged predominantly in a papillary pattern was observed. Immunohistochemistry was performed for the markers C-Kit, pan-cytokeratin (CK-AE1/AE3), cytokeratin 7 (CK7), P63, estrogen receptor (ER), progesterone receptor (PR), Ki67, cyclooxygenase-2 (Cox-2), and GATA3. The neoplastic cells were positive for CK AE1/AE3 and 7 (epithelial cells), P63 (myoepithelial cells), Cox-2 (epithelial and myoepithelial cells), and PR (epithelial cells). Positive results for CK-AE1/AE3, CK7, and P63 confirmed the epithelial and myoepithelial nature of the tumor, the mitotic index and elevated Ki-67 expression supported the interpretation of a malignant proliferative phenotype and contributed to the classification of the lesion as a noninvasive malignant adenomyoepithelioma. Based on the macroscopic, microscopic, and immunohistochemical findings, a diagnosis of noninvasive malignant mammary adenomyoepithelioma was established.",
-      "categories": [
-        "oncology",
-        "surgery"
-      ]
-    },
-    {
-      "pmid": "42696055",
-      "title": "First case of Brucella suis biovar 1 infection in a dog in Switzerland.",
-      "journal": "Veterinary Research Communications",
-      "authors": "Akdesir E, Sp&#xf6;rri M, Gross N, Schneider P, Brodard I, Feyer S, Overesch G, Kittl S",
-      "date": "2026 09 04",
-      "dateObject": "2026 09 04",
-      "abstract": "As one of the most common zoonoses globally, brucellosis threatens not only animals but also humans with Brucella (B.) melitensis, B. abortus and B. suis biovar 1&3, being more virulent for humans than B. canis, B. ovis and B. suis biovar 2. Canine brucellosis is caused mainly by B. canis, however, B. suis infections in dogs have been reported sporadically in Europe and more frequently in Australia. B. suis infection in dogs is mainly associated with hunting or wild-animal exposure and rarely with consumption of commercial raw meat products. In Switzerland, B. canis is sporadically diagnosed in dogs and B. suis biovar 2 is present in wild boar and brown hare. We report a case of brucellosis in a dog from Switzerland, neither having a history of hunting nor travel-associated risk of exposure. The intact male dog showed clinical signs (fever and epididymitis) consistent with brucellosis, which was confirmed by culture and molecular methods in urine and by serological methods. Culture and subsequent whole genome sequencing revealed the isolate as B. suis biovar 1, ST-14. The most closely related strain was shown to be a strain isolated in 2021 from a dog in Germany. Based on the lack of any previous report, infection by B. suis in dogs has not previously been diagnosed in Switzerland. This case highlights the need for vigilance regarding this less expected pathogen of high zoonotic importance in dogs.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42690268",
-      "title": "Comparison of 30&#xb0; and 70&#xb0; arthroscopes in canine hip arthroscopy: a 3D-printed model study.",
-      "journal": "Veterinary Research Communications",
-      "authors": "Tr&#x119;bacz P, Pawlik M, Czopowicz M, Barteczko A, Kurkowska A, Pi&#x105;tek A",
-      "date": "2026 09 03",
-      "dateObject": "2026 09 03",
-      "abstract": "Hip arthroscopy is a valuable diagnostic and surgical tool in veterinary medicine; however, the optimal arthroscope viewing angle for the canine coxofemoral joint has not been established. We hypothesised that a 70&#xb0; arthroscope would provide superior visualisation of the hip joint cavity compared to the standard 30&#xb0; arthroscope when inserted via a dorso-lateral approach. To test this hypothesis, five 3D-printed canine hip joint models were developed using computed tomography (CT) scans of large-breed dogs. The articular surfaces were embossed with a 1&#x2009;&#xd7;&#x2009;1&#xa0;mm checkerboard pattern to enable objective quantification of the visible area. Arthroscopy was performed with 2.7-mm-diameter 30&#xb0; and 70&#xb0; arthroscopes at four positions (3, 6, 9, and 12 o'clock), and the visible area was calculated by counting visible tiles. Statistical analysis was performed using a mixed-effect general linear model. There was no significant overall difference in the visible area between the two arthroscope viewing angles (P&#x2009;=&#x2009;0.977). However, arthroscope position significantly affected the visible area (P&#x2009;<&#x2009;0.001), and a significant interaction between viewing angle and position was identified (P&#x2009;=&#x2009;0.001). Notably, the visible area produced by the 70&#xb0; arthroscope was significantly smaller than that produced by the 30&#xb0; arthroscope at the 12 o'clock position (P&#x2009;=&#x2009;0.026). However, at the 3 o'clock position, the visible area produced by the 70&#xb0; arthroscope appeared to be larger than that produced by the 30&#xb0; arthroscope. Nevertheless, this difference was not significant (P&#x2009;=&#x2009;0.085). The results suggest that, in this experimental model, the 70&#xb0; arthroscope provided a comparable overall visible area of the artificial hip joint surface to the 30&#xb0; arthroscope during dorso-lateral canine hip arthroscopy. Further comparative studies, particularly on calibrated cadaveric hip joints, are required.",
-      "categories": [
         "surgery"
       ]
     },
