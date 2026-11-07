@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T01:38:57.802Z",
+  "updated_at": "2026-11-07T00:59:19.847Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -8263,6 +8263,110 @@
       "title": "Comparative assessment of benzyl alcohol and m-cresol as preservatives in maropitant injectable formulation: implications for pain & tolerability.",
       "journal": "Frontiers in Veterinary Science",
       "generated_at": "2026-11-06T01:34:36.512Z",
+      "model": "gpt-5-mini"
+    },
+    "42987508": {
+      "brief_summary": "이 연구는 2020년 7월부터 2023년 2월까지 진단된 클라이언트 소유 심장사상충증(heartworm disease) 개 44마음을 대상으로 심초음파에서 관찰되는 우심장 및 폐동맥 리모델링 소견을 비교·특성화하려는 목적이었다. 임상 등급이 고급(3–4등급, n=21)인 개는 경미(1–2등급, n=23)인 개보다 우심방(RA)·우심실(RV) 비대, 우폐동맥 탄력 저하, 폐동맥 가속시간 단축, 주폐동맥-대동맥 비율 증가 및 RV 수축기능 저하를 보였다. 정상화된 우심방 직경은 고급 병변을 판별하는 성능이 가장 높았고(AUC 0.95; 95% CI 0.88–1.00), 임상적으로 심초음파 평가가 심장사상충증 중증도와 중요 폐심혈관 관여를 식별하는 데 도움이 될 수 있음을 시사한다.",
+      "detailed_summary": "후향적으로 의무기록을 검색하여 심장사상충 감염 진단을 받은 클라이언트 소유 개 44마리를 포함했다. 연구는 임상 등급(1–2등급 vs 3–4등급), 폐고혈압(PH) 확률(낮음·중간 vs 높음), 삼첨판 역류 압력 구배(TRPG)의 정도(경증·중등도·중증)에 따라 심초음파 변수들을 비교하였다. 주요 결과는 고급 병변군에서 우심방 및 우심실의 현저한 확대, 우폐동맥(distensibility)의 감소, 폐동맥 가속시간의 단축, 주폐동맥-대동맥 비율의 상승 및 RV 수축기능 저하가 관찰된 점이다. 폐고혈압 확률이 높은 군에서도 유사한 소견이 확인되었고, 정상화된 우심방 직경이 고급 병변 판별에서 AUC 0.95(95% CI 0.88–1.00)로 가장 우수했다. 캐벌 증후군(caval syndrome)으로 심장사상충을 제거한 8마리에서는 우심방 크기가 제거 후 유의하게 감소했다는 결과가 보고되었다. 초록에서는 구체적인 제한점이나 외삽 가능성에 대한 기술이 명시되어 있지 않으므로, 연구 결과는 본 자료의 후향적 관찰적 설계를 감안해 해석해야 한다.",
+      "title": "Advanced heartworm disease in dogs is associated with marked right heart and pulmonary artery remodeling.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-11-07T00:58:50.312Z",
+      "model": "gpt-5-mini"
+    },
+    "42987509": {
+      "brief_summary": "본 연구는 heat-inactivated Bifidobacterium adolescentis LA-20(HT-LA20)가 도옥소루비신(DOX)에 의해 유도된 고양이 장 상피세포(FIECs)의 노화 및 장 장벽 손상을 완화하는지 평가한 in vitro 연구이다. HT-LA20는 DOX로 인한 세포 생존도 감소와 세포 노화 지표를 되돌리고, 틈새연접 단백질과 뮤신(MUC1, MUC2)을 상향 조절했으며 IL-1β, TNF-α, IL-8, MCP-1, MMP1의 분비를 억제하고 VEGF와 bFGF 분비는 촉진했다. 이러한 결과는 HT-LA20가 장 상피 장벽 기능 회복과 염증성 노화 억제를 통해 DOX 유발 손상을 완화할 수 있음을 시사하지만, 동물 및 임상 적용을 위해서는 추가 검증이 필요하다.",
+      "detailed_summary": "연구는 2025년 11월 1일부터 2026년 8월 31일까지 수행된 in vitro 실험으로, 임상 환자나 동물은 포함되지 않았고 대상은 오직 고양이 장 상피세포(FIECs)였다. DOX로 유도한 손상·노화 모델에서 HT-LA20의 효과를 평가했으며, 세포 노화 관련 β-갈락토시다아제 염색, 세포 생존도 검사, ELISA를 포함한 세포 기반 분석을 수행했고 전사체 및 비표적 대사체 분석을 통합했다. 모든 세포 기반 실험과 오믹스 분석은 군당 독립적 생물학적 반복 4회로 수행되었다. 주요 결과로 HT-LA20는 DOX로 인한 세포 생존도 감소와 노화 표지의 악화를 역전시켰고, 장벽 관련 단백질(조밀연접·긴밀연접 등)과 MUC1·MUC2를 증가시켰다. 또한 염증성 사이토카인 및 분해효소(IL-1β, TNF-α, IL-8, MCP-1, MMP1)의 분비를 억제하고, 혈관내피성장인자(VEGF)와 기본섬유아세포성장인자(bFGF)는 촉진했다. 통합 오믹스 기반 KEGG 분석에서는 레티놀 대사-세로토닌성 시냅스-장 점액성 면역(IgA) 네트워크 축 및 NF-κB·TLR 신호 등 염증 경로 조절이 중심 기전으로 제시되었다. 결론적으로 HT-LA20는 FIECs에서 DOX 유발 손상을 완화했으나 본 연구는 in vitro에 한정되며 임상 적용을 위해서는 추가적인 동물 실험 및 임상 연구가 필요하다는 중요한 제한점이 있다.",
+      "title": "Heat-inactivated Bifidobacterium adolescentis LA20 alleviates doxorubicin-induced senescence and barrier dysfunction in feline intestinal epithelial cells.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-11-07T00:58:40.486Z",
+      "model": "gpt-5-mini"
+    },
+    "42988773": {
+      "brief_summary": "본 증례는 9세 중성화 암컷 테리어에서 복부 대동맥(aortic) 삼지점(aortic trifurcation)에서 발생한 chemodectoma(화학수용체종양)를 보고한다. 영상검사에서 경계가 뚜렷하고 고혈관성인 단일 복부 종괴가 확인되었고, 출혈 위험으로 세침흡인검사(FNA)가 불가하여 탐복술 중 절제가 불가능해 안락사되었다. 조직병리에서는 저분열·괴사 및 출혈 소견 없는 신경내분비세포종이 확인되었고 면역조직화학은 synaptophysin 강한 양성, neuron-specific enolase(NSE) 부분 양성, chromogranin A와 S100 음성으로 면역표현형의 다양성을 보였으며, 이는 비심장성 부위의 chemodectoma 진단과 치료가 복잡함을 시사한다.",
+      "detailed_summary": "단일 증례보고로, 9세 스페이드 암컷 테리어가 지속적 헐떡임, 이전 쇠약 후 최근 비만, 다뇨·다음증(polyuria/polydipsia) 및 피부화농(pyoderma) 등을 주소로 내원하였다. 혈액검사 및 생화학검사에서 재생성 빈혈, 백혈구증가증과 함께 콜레스테이시스를 시사하는 생화학적 소견 및 내분비장애 가능성이 관찰되었다. 고급 영상검사에서는 대동맥 삼지점에 근접한 단일의 경계명확하고 고혈관성인 복부 종괴가 확인되었다. 출혈 위험으로 인해 세침흡인검사가 시행되지 않았고, 탐복술에서 종괴는 해부학적 위치와 심한 혈관성으로 인해 절제 불가로 판단되어 안락사가 선택되었다. 조직병리학적으로는 소엽성 구조의 다형성 신경내분비세포로 구성된 종양이며, 분열상은 낮고 괴사나 출혈 소견은 없었다. 면역조직화학에서 synaptophysin은 강하고 확산성 양성, NSE는 국소적 양성, chromogranin A와 S100은 음성으로 나타나 면역표현형의 변이를 보여주었다. 본 보고는 비심장성 부위(대동맥 삼지점)에서 발생한 chemodectoma의 임상·병리 스펙트럼을 확장하고 진단 및 치료의 다학제적 접근 필요성을 강조하나, CT 미사용 및 수술 후 추적 관찰 부재 등 제한점이 있으며 단일 증례이므로 일반화할 수 없다.",
+      "title": "Chemodectoma Arising From the Abdominal Aorta in a 9-Year-Old Female Dog: Clinical, Histopathological and Immunohistochemstric Study.",
+      "journal": "Veterinary Medicine and Science",
+      "generated_at": "2026-11-07T00:59:03.712Z",
+      "model": "gpt-5-mini"
+    },
+    "42988999": {
+      "brief_summary": "이 연구는 부분적 하반신 마비(paraparesis)와 동반된 신우신염(pyelonephritis), 만성 방광염 및 자해성 사지 병변을 가진 12세 암컷 믹스견에서 분리된 ESBL(extended-spectrum β-lactamase) 생성 Escherichia coli와 Klebsiella pneumoniae의 임상·미생물학적·유전체학적 특성을 기술한 증례 보고이다. 소변(복막천자)과 상처에서 CTX-M-55 생성 E. coli ST457이 검출되었고, 상처에서는 CTX-M-15 및 SHV-2 생성 K. pneumoniae ST39도 함께 분리되었다. 이 증례는 반려동물이 임상적으로 중요한 다제내성 혈통을 보유할 수 있음을 보여주며 항균제 내성 모니터링과 항생제 관리(antimicrobial stewardship)의 필요성을 강조한다.",
+      "detailed_summary": "대상은 반복적인 항균제 치료를 받은 12세 암컷 믹스견 한 마리로, 소변은 복막천자(cystocentesis)·상처 표본을 채취해 배양, 항균제 감수성 검사 및 전장유전체 시퀀싱 기반 분석을 수행하였다. 소변과 상처에서 CTX-M-55 생성 E. coli(Sequence Type(ST)457, phylogroup F, O11:H25, fimH145)가 검출되었고, 상처에서는 추가로 CTX-M-15 및 SHV-2 생성 K. pneumoniae(ST39, KL149:OL2α)가 분리되었다. 동일한 ST를 가진 두 E. coli 분리는 동일한 저항 유전자군과 플라스미드 복제인자 및 병원성 프로파일을 공유했으나 96개의 단일염기다형성(SNP) 차이를 보여 유전체 수준의 근소한 차이가 존재함을 보였다. 분리균들은 다수의 병원성 유전자를 보유하였고, E. coli는 extraintestinal pathogenic E. coli(ExPEC)로 분류되었다. 저자들은 본 증례가 브라질에서 동물에서 분리된 ESBL 생성 K. pneumoniae ST39의 최초 보고라고 명시하였다. 단일 증례 보고라는 점에서 일반화는 제한적이며, 임상적 시사점으로는 반려동물 분야에서의 지속적인 항균제 내성 감시와 항생제 사용 관리의 필요성이 제기되었다.",
+      "title": "Genomic analysis of extended-spectrum &#x3b2;-lactamase-producing Escherichia coli and Klebsiella pneumoniae isolated from a dog with a severe episode of self-trauma and urinary tract infection.",
+      "journal": "Veterinary Research Communications",
+      "generated_at": "2026-11-07T00:59:19.833Z",
+      "model": "gpt-5-mini"
+    },
+    "42991074": {
+      "brief_summary": "본 논문은 반려동물(개·고양이)의 피부 감염 치료에서 항생제 내성 문제를 해결하기 위한 대체 치료제로서 프로폴리스를 검토한 구조화된 내러티브 리뷰이다. 연구는 프로폴리스가 Staphylococcus pseudintermedius (S. pseudintermedius), Pseudomonas aeruginosa (P. aeruginosa), Malassezia pachydermatis (M. pachydermatis) 및 피부사상균에 대해 항균 활성을 보였음을 보고하였으나 관련 근거는 주로 in vitro 연구에 기반하고 임상 데이터는 매우 제한적이라고 결론지었다. 임상적으로는 개의 재발성 피부농양(canine pyoderma) 치료에 대한 무작위 대조 임상시험이 전무해, 프로폴리스는 항생제의 보조 또는 잠재적 대체제로서 임상시험·표준화·전달체계 개선이 필요하다고 제언한다.",
+      "detailed_summary": "이 연구는 구조화된 내러티브 리뷰로, 반려동물 피부 감염에서 프로폴리스의 항균·항염·상처치유 효과에 대한 현재 증거를 종합하였다. 대상은 임상적으로 반려견·반려묘의 피부병원체를 포함한 연구들로, 주요 평가 항목은 S. pseudintermedius, P. aeruginosa, M. pachydermatis 및 피부사상균에 대한 항균 활성 및 임상 적용 가능성이다. 결과는 여러 in vitro 연구에서 프로폴리스가 위의 주요 수의학적 병원체에 대해 항균 활성을 나타냈음을 일관되게 보고했으나, 인체·동물 임상연구는 매우 제한적이었다. 특히 초록에서는 개의 흔한 재발성 피부농양(canine pyoderma)을 대상으로 한 임상시험은 아직 시행된 바 없다고 명확히 밝혔다. 결론적으로 프로폴리스는 잠재적 대체 또는 보조 치료제로서 유망하나, 증거 수준이 낮아 임상 적용에는 무작위 대조 임상시험과 화학적 이질성에 대한 표준화, 전달 시스템 개선 등의 추가 연구가 필요하다. 또한 광범위한 경험적 광역 항생제 사용으로 인한 항생제내성의 증가와 One Health 관점의 공중보건 문제를 완화하기 위한 대안 연구의 필요성을 강조한다.",
+      "title": "Propolis as an alternative treatment for companion animal skin infections: addressing antimicrobial resistance.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-11-07T00:58:20.185Z",
+      "model": "gpt-5-mini"
+    },
+    "42991084": {
+      "brief_summary": "본 연구는 자연 발생 점액변성 승모판 질환(MMVD)을 가진 개 임상 코호트( n = 47)와 쥐 압력 과부하 모델을 통합하는 번역적 설계로, 순환하는 오스테오크린(osteocrin, OSTN) 농도와 심장·골격 지표 간 연관을 평가했다. 개에서는 OSTN 농도가 병기별로 변화하며 심초음파상 심장 재형성과 유의하게 연관되었고, 쥐 모델에서는 압력 과부하에 따라 OSTN이 증가한 반면 NT-proBNP는 유의한 증가는 보이지 않았다. 전체 분석에서는 OSTN이 골밀도 및 강성과 역상관을 보였으나 이 연관은 그룹 간 분리 영향이 컸으며, OSTN은 심장-골격 재형성의 인터페이스에서 잠재적 바이오마커로 추가 연구가 필요함을 시사한다.",
+      "detailed_summary": "연구는 임상 개 코호트(점액변성 승모판 질환 MMVD, n = 47)와 실험적 쥐 압력 과부하 모델을 병합한 번역적 설계를 사용했다. 평가 항목으로는 순환 OSTN 농도, NT-proBNP, 심초음파 지표(심장 재형성 지표), 골밀도, 골의 기계적 특성 및 면역조직화학적 조직 국소화가 포함되었다. 개 집단에서 OSTN 농도는 ACVIM 병기별로 변화했고 심초음파 지표와 유의한 연관성을 보였으며, 다변량 회귀분석에서 연령과 체중을 보정한 뒤에도 ACVIM 병기가 OSTN과 유의하게 연관된 것으로 보고되었다. 쥐 압력 과부하 모델에서는 순환 OSTN이 증가했으나 NT-proBNP는 압력 과부하와 유의한 증가를 보이지 않았다. 병합 분석에서는 OSTN이 골밀도 및 강성과 역상관을 보였으나 이러한 연관성은 그룹 간 분리(between-group separation)의 영향이 크게 작용했다는 점이 명시되었다. 조직 수준의 국소화를 면역조직화학으로 확인했으나 초록에서는 세부 분포나 기전에 대한 구체적 설명은 제시되지 않았다. 결론적으로 OSTN은 개의 MMVD에서 심장 재형성과, 쥐 모델에서 골격 변화와 연관되어 향후 심혈관-골격 상호작용을 연결하는 후보 바이오마커로 추가 연구가 필요하나, 관찰된 연관성이 인과관계를 증명하지 않으며 그룹 분리의 영향 등 제한점이 존재한다.",
+      "title": "Circulating osteocrin is associated with cardiac remodeling in canine myxomatous mitral valve disease and skeletal alterations in a rat pressure-overload model.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-11-07T00:58:13.357Z",
+      "model": "gpt-5-mini"
+    },
+    "42991092": {
+      "brief_summary": "총 272마리(건강 대조 145마리, 만성신부전(CKD) 127마리)를 대상으로 기저 적혈구침강속도(ESR)가 CKD 개의 예후와 관련 있는지 평가한 연구이다. 비생존군의 ESR 중앙값이 생존군보다 높았고(21 vs 11 mm/h, p<0.0001), 최적 절단값은 16 mm/h로 ESR 단독 ROC-AUC는 0.79였다. 다변량 분석에서 ESR ≥16 mm/h는 사망 위험과 독립적으로 연관(HR 3.42, 95% CI 1.78–6.64)되었고, ESR를 포함한 합성 점수는 보완적 예후정보를 제공할 수 있으나 외부 검증이 필요하다.",
+      "detailed_summary": "관찰적 예후 연구로 ESR과 임상검사 변수, CKD 병기 및 생존과의 연관성을 ROC 곡선과 Cox 비례위험 회귀로 평가하였다. 대상은 총 272마리로 건강 대조 145마리와 CKD 개 127마리가 포함되었다. 비생존군의 ESR 중앙값은 21 mm/h(사분위수 13–40)로 생존군의 11 mm/h(8–14)보다 유의하게 높았고(p<0.0001), 연구에서 도출된 최적 절단값은 16 mm/h였다. ESR 단독의 판별력은 ROC-AUC 0.79(95% CI 0.71–0.88)였고, ESR ≥16 mm/h는 다변량 Cox 회귀에서 사망 위험과 유의하게 연관되어 위험비 3.42(95% CI 1.78–6.64)를 보였다. ESR를 포함한 합성 점수의 겉보기 ROC-AUC는 0.87(95% CI 0.81–0.93)이고 ESR를 제외한 점수는 0.85(95% CI 0.79–0.92)로 유의한 차이는 없었다(p=0.39). 결론적으로 기저 ESR은 CKD 개의 질병 중증도 및 전체 원인 사망과 연관되며 기존 신장·임상 변수와 함께 해석할 때 보완적 예후 정보를 제공할 수 있으나, ESR 포함 합성 점수는 탐색적이며 외부 검증이 필요하다는 점이 중요한 제한점이다.",
+      "title": "Baseline erythrocyte sedimentation rate is associated with mortality in dogs with chronic kidney disease.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-11-07T00:58:03.783Z",
+      "model": "gpt-5-mini"
+    },
+    "42991501": {
+      "brief_summary": "본 논문은 개와 고양이에서 일상적으로 섭취하는 전통적 고온 가공 사료(예: 건식 kibble, 레토르트/캔 식품)에서 형성되는 Maillard 반응 생성물(MRPs)과 아크릴아마이드(AA) 및 고급당화최종산물(AGEs)의 잠재적 안전성 문제를 검토한 문헌 고찰이다. 저자들은 인간·설치류에서 AGEs와 AA가 당뇨, 심혈관 질환, 신경퇴행 및 일부 암 등과 연관되며 염증·산화스트레스·단백질 가교·RAGE 활성화 등이 기전으로 제시된다는 근거를 정리했다. 반려동물에서는 가공 정도가 낮은 식이가 순환 AGE 농도를 낮추는 방향으로 연관되나, 반려동물에서 이들 화합물로 인한 명확한 유해성은 아직 입증되지 않았고 규제 기준도 부재하다(애완동물 사료에 대한 AA 벤치마크 없음).",
+      "detailed_summary": "연구 설계는 기존 문헌을 종합하는 리뷰이며 주제는 전통적 고온 가공 반려동물 사료에서 생성되는 MRPs, AA, 그리고 AGEs의 건강 영향과 안전성 임계값 가능성이다. 인간과 설치류 자료에서 AGEs와 AA는 당뇨병, 심혈관계 질환, 신경퇴행, 일부 암과 연관되며 그 기전으로 산화스트레스, 만성 염증, 단백질 가교, RAGE(advanced glycation end‑products receptor) 활성화 등이 보고되었고, 식이 제한 시 질환 표지자 감소가 관찰된다고 정리했다. 반려동물 관련 연구에서는 섭취한 AGE가 체계적 AGE 노출에 영향을 미치며, 가공도가 낮은 식이가 순환 AGEs 농도와 연관되어 있다는 결과를 제시했다. 그러나 초록에서는 반려동물에서 AGEs나 AA가 직접적으로 유발한 유해한 임상 결과는 아직 입증되지 않았다고 명확히 적시하고 있다. 규제 측면에서는 인간식품과 달리 반려동물 사료의 AA에 대한 기준이 없고, 어느 관할권에서도 AGEs에 대한 벤치마크가 존재하지 않는다고 지적한다. 결론적으로 저자들은 반려동물에 대한 관련성 평가를 위해 추가 연구가 필요하며, 가공도가 낮은 식이를 대안으로 탐색할 가치가 있다는 점을 제안하지만, 리뷰라는 점에서 인간·설치류 자료의 연장선으로 해석해야 하고 반려동물에서의 인과성은 아직 확립되지 않았다는 중요한 제한을 밝히고 있다.",
+      "title": "Dietary acrylamide and AGE products in processed pet food: a review of the evidence and implications for safety thresholds in dogs and cats.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-11-07T00:57:55.526Z",
+      "model": "gpt-5-mini"
+    },
+    "42991619": {
+      "brief_summary": "본 체계적 문헌고찰은 개와 고양이 환자에서 진단 및 임상 의사결정 지원을 위해 적용된 합성곱신경망(CNN) 및 장기단기기억망(LSTM)의 연구들을 검토하였다. 2021년부터 2026년까지 Scopus와 Web of Science에서 검색해 최종 57개 연구를 분석했으며, 연구는 주로 종양학(28.1%), 심장학(15.8%), 호흡기학(12.3%)에 집중되었다. CNN은 방사선사진, 임상 사진, 초음파, 현미경 영상 등 영상 기반 영역에서 주로 사용되었고 LSTM은 시계열 신호와 센서 유래 텔레메트리에 적용되었으며, 이진 분류에서는 정확도가 최대 99%에 달하는 경우가 보고되었다. 그러나 데이터셋·평가지표·검증 프로토콜의 이질성과 고성능 연산 인프라 의존성으로 인해 점진적 임상 도입을 위해서는 전향적 외부 검증, 대표성 있는 공개 데이터셋, 경량 모델 최적화가 필요하다고 결론내렸다.",
+      "detailed_summary": "연구진은 PICO-CS 프레임워크와 PRISMA 2020 지침을 따르고 Scopus 및 Web of Science를 대상으로 2021–2026년간의 동료심사 연구를 검색하여 최종 57개의 1차 연구를 선정했다. 분석 대상은 11개 임상 분야로, 종양학(28.1%), 심장학(15.8%), 호흡기학(12.3%)에 증거가 집중되어 있었다. 방법적으로는 CNN(합성곱신경망)이 방사선사진, 임상사진, 초음파, 현미경 영상 등 공간적 영상모달리티에서 우세했고 LSTM(장기단기기억망)은 시계열 신호 및 센서 기반 텔레메트리에 주로 적용되었다. 성능 측면에서 이진 분류 과제는 높은 성과를 보였고(정확도 최대 99%), 다중 클래스 과제는 데이터 불균형으로 인해 성과 변동성이 컸다. 교차연구 벤치마킹에서는 데이터셋 구성, 평가 지표, 검증 프로토콜에 상당한 이질성이 관찰되었다. 또한 고성능 계산 인프라에 대한 의존은 자원이 제한된 임상 현장에서의 포인트오브케어 적용을 저해하는 요인으로 지적되었다. 저자들은 딥러닝 기법이 임상 의사결정 지원 도구로 유망하나 일상 임상 적용을 위해 전향적 외부 검증, 대표성 있는 공개 데이터셋 확보, 기존 임상 하드웨어에 맞춘 경량화 모델 개발이 필요하다고 결론지었다.",
+      "title": "Deep learning for diagnostic and clinical decision support in companion animals: a systematic review of CNN- and LSTM-based approaches.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-11-07T00:57:47.217Z",
+      "model": "gpt-5-mini"
+    },
+    "42991649": {
+      "brief_summary": "본 후향적 연구는 5,743회 방문의 3,006마리 고양이 데이터를 7개 임상적 크레아티닌(CRE) 층으로 나누어 혈액검사 패턴이 이후 크레아티닌 변화와 어떻게 연관되는지 검토했다. BUN/CRE, 인(PHOS)/CRE, SDMA/CRE 비율은 기초 방문(baseline)이 포함된 크레아티닌 기울기와는 거짓발견율(FDR) 보정 기준을 만족하는 연관을 보였으나, 기초 방문을 제외한 이후 방문만으로 계산한 기울기에서는 유의하지 않았다. 기초 방문을 제거했을 때 이 세 비율의 상관이 다른 27개 지표보다 더 크게 감소(평균 차이 0.120; cat-cluster 부트스트랩 95% CI 0.038–0.198)해 기초값의 결합 효과(shared-baseline coupling)를 시사했다. 임상적으로는 전해질·전신 소견을 함께 고려하는 것이 타당하지만, 이들 관찰을 진료에 활용하려면 전향적 검증이 필요하다.",
+      "detailed_summary": "후향적 검토로 5,743회 에피소드 기준 방문(3,006마리 고양이)을 대상으로, 후보 지표 33개를 산출해 CRE 층별(7개) 혈액패널 양상을 분석했다. 만성신장병(CKD) 진단 정보는 이용할 수 없었다. BUN/CRE, PHOS/CRE, SDMA/CRE 비율이 기초 방문을 포함한 CRE 기울기와는 FDR 보정 후에도 유의한 연관을 보였지만, 기초 방문을 제외한 이후 방문만으로 계산한 기울기에서는 어느 비율도 보정 기준을 만족하지 못했다. 기초 방문 제거 시 이 세 비율의 절대 상관도가 다른 27개 비중복 지표보다 더 크게 감소(평균 차이 0.120; 부트스트랩 95% CI 0.038–0.198)해 공동 기초효과(shared-baseline coupling)가 있음을 시사한다. 사후분석에서 CRE 층 1–2에서는 PHOS/CRE와 SDMA/CRE의 양의 연관이 나이와 기초 CRE로 보정한 후에도 남았으나 보정 기준을 통과하지 못해(q = 0.072) 확정적이지 않았다. 구성 요소(component) 모형 분석에서는 두 비율이 일관된 추가적 설명력을 제공하지 못했고, BUN/알부민(ALB) 비율은 주로 현재 값과 에피소드 내 변화를 반영했다. 혈청아밀로이드A(SAA), 호중구(NEU)/림프구(LYM) 비율, ALB/글로불린(GLOB) 비율은 CRE와 약하게 연관된 전신적 패턴을 기술했다. 결론적으로 전해질 및 전신 소견을 함께 고려하는 것이 타당하나, 이들 소견을 임상 판단에 활용하려면 전향적 검증이 필요하며 본 연구는 후향적 자료와 CKD 진단 부재라는 제한이 있다.",
+      "title": "Blood-panel patterns across feline creatinine strata and shared baseline effects on ratio associations.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-11-07T00:57:38.777Z",
+      "model": "gpt-5-mini"
+    },
+    "42992355": {
+      "brief_summary": "본 후향적 연구는 2주 미만의 급성 구토로 내원한 481마리의 개에서 초기 혈장 C-반응성 단백질(CRP) 농도를 분석해 임상 소견 및 단기(14일) 예후와의 연관성을 평가했다. CRP가 높을수록 구토 빈도와 식욕·활력 저하가 더 흔하고 14일 사망률이 유의하게 증가했으나(집단 수준), CRP가 100 mg/L를 초과한 44마리 중 대부분은(95.5%) 14일 내 생존해 고수치만으로 개별 증례의 단기 예후를 단정해서는 안 된다는 임상적 시사점을 제시한다.",
+      "detailed_summary": "Primary care 병원에서 CRP 측정을 시행한 급성 구토(발병 <2주) 개 481마리의 의무기록을 후향적으로 검토했다. 초기 혈장 CRP 중앙값은 14 mg/L(사분위범위 6–57 mg/L)이었고, CRP 기준으로 Group A(<10 mg/L, n=204), Group B(10–<35 mg/L, n=119), Group C(≥35 mg/L, n=158)로 분류했다. 구토 빈도와 식욕 및 활력 감소의 유병률은 세 그룹 간에 유의하게 차이(p<0.001)가 있었고, 쌍별 비교에서 Group C가 더 높은 값을 보였다. 확진 진단은 117마리(24.3%)에서만 이뤄졌고 기저 질환별로 CRP 분포가 상당히 중첩되었다. 14일 전체 원인 사망률도 그룹 간 유의한 차이(p<0.001)가 있었고 Group C의 사망률이 8.2%로 Group A(1.0%)와 B(1.7%)보다 높았다; 사망군의 CRP가 유의하게 높았다(p<0.001). 다만 CRP>100 mg/L인 44마리 중 사망은 2마리(4.5%)에 불과해, 집단 수준에서의 연관성은 존재하지만 단일 환자의 단기 예후를 CRP 고수치만으로 결정짓는 것은 부적절하다는 결론과 함께 확진 진단 비율이 낮은 점이 해석상의 제한점으로 제시되었다.",
+      "title": "C-reactive protein concentrations, clinical presentation, and short-term outcome in dogs with acute vomiting: a retrospective primary care cohort.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-11-07T00:57:31.082Z",
+      "model": "gpt-5-mini"
+    },
+    "42993417": {
+      "brief_summary": "자연발생성 당뇨병이 있는 개 6마리를 대상으로 인슐린 치료에 보조해 CLODapa(조제 경구 액상 다파글리플로진) 0.088±0.013 mg/kg을 하루 1회 100일간 투여하면서 단·장기 혈당 및 임상·검사 결과를 평가한 파일럿 연구이다. 단기적으로 연속혈당모니터링(CGM)에서 평균 간질혈당, 최저·최고 혈당이 감소하고 목표 범위(60–250 mg/dL) 내 시간이 증가했으며 초과 시간은 감소했으나 혈당 변동성은 증가했다. 장기적으로 프룩토사민, 수축기혈압, ALT·AST·ALP 및 콜레스테롤이 감소했고, DKA·요로감염·전해질·산염기 이상은 관찰되지 않았으나 일부(3마리)에서 체중감소와 식이 증가(약 25%)가 필요했고 저혈당 우려로 4마리는 용량을 감량했다는 점을 임상적 고려사항으로 제시한다.",
+      "detailed_summary": "무작위 배정은 아니며 파일럿 형식으로 진행된 관찰 연구로, 인슐린 치료 중인 자연발생성 당뇨병 개 6마리에 CLODapa(조제 경구 액상 다파글리플로진) 0.088±0.013 mg/kg을 1일 1회 추가 투여하여 100일간 추적했다. 평가에는 연속혈당모니터링(CGM) 전후 비교와 임상 소견, 혈액생화학, 요검사 등이 포함되었다. 단기 결과에서 평균 간질혈당과 혈당의 최저·최고값이 유의하게 감소했고 목표 혈당 범위(60–250 mg/dL) 내 시간이 증가하며 범위 초과 시간은 감소했다. 반면 혈당 변동성은 증가했으나 60 mg/dL 미만에 머문 시간과 임상적 저혈당은 증가하지 않았으며, 임상의 판단으로 용량을 4마리에서 감량, 1마리에서 증량, 1마리에서는 유지했다. 장기 관찰에서는 프룩토사민, 수축기 혈압, ALT·AST·ALP 및 콜레스테롤 농도가 감소했고 DKA, 요로감염, 전해질 불균형 또는 산염기 이상 소견은 관찰되지 않았다. 다만 3마리에서 의도치 않은 체중감소가 발생해 약 25%의 식이량 증가가 필요했다는 점과 표본수가 적은 파일럿 연구라는 한계로 일반화에 주의가 필요하다는 점을 연구진이 언급했다.",
+      "title": "Short- and long-term effects of dapagliflozin as an adjunct to insulin therapy in diabetic dogs: a pilot study.",
+      "journal": "Veterinary Research Communications",
+      "generated_at": "2026-11-07T00:58:31.766Z",
+      "model": "gpt-5-mini"
+    },
+    "42993774": {
+      "brief_summary": "전향적 횡단관찰 연구로, 총 202두(대조군 80두, MR 환마 122두: 경증 92, 중등도 24, 중증 6)를 대상으로 혈중 세로토닌(serotonin), 이온화 마그네슘(iMg), 심근마커(cTnI, NT-proBNP) 농도와 좌심방 쪽으로의 승모판 벌룽(mitral valve billowing, MVB)을 비교하였다. 결과는 MR군에서 iMg가 유의하게 낮았으나(평균 차이 0.03 mmol/L, 95% CI 0.01–0.05, P=0.01) MVB 거리와는 상관관계가 없었고, 세로토닌·cTnI·NT-proBNP 농도 차이는 관찰되지 않았다. MVB 거리는 MR군이 대조군보다 크고(격막측(septal) 중앙값 차이 0.2 cm, P<.001; 벽측(parietal) 0.3 cm, P<.001), crescendo형 MR 제트에서 holosystolic형보다 더 컸다. 임상적으로는 MVB가 일부 생리적 소견일 수 있으며 cTnI와 NT-proBNP는 MR 중증도 판정에 제한적 유용성을 보였다.",
+      "detailed_summary": "연구 설계는 전향적 횡단관찰 연구로, 모든 대상 말에 대해 심초음파로 MVB 거리와 MR 등급을 평가하고 혈소판이 적은 혈장에서 세로토닌, 혈청에서 iMg·cTnI·NT-proBNP 농도를 측정하였다. 대상은 대조군 80두(무/미미한 MR)와 MR 122두(경증 92, 중등도 24, 중증 6)였다. 주요 결과로 MR군은 대조군보다 iMg가 낮았으며(평균 차이 0.03 mmol/L, 95% CI 0.01–0.05, P=0.01) 이 값은 MVB 거리와는 상관없었다. MVB 거리는 MR군에서 유의하게 증가했고(septal 중앙값 차이 0.2 cm, 95% CI 0.1–0.3, P<.001; parietal 중앙값 차이 0.3 cm, 95% CI 0.2–0.3, P<.001), crescendo형 MR 제트에서 holosystolic형보다 MVB가 더 컸다(septal 중앙값 차이 0.2 cm, P=0.003; parietal 0.1 cm, P=0.01). 혈중 세로토닌, cTnI, NT-proBNP에서는 군간 의미 있는 차이가 관찰되지 않았다. 결론은 MVB가 어느 정도 생리적 소견일 수 있고, 세로토닌과 iMg의 역할은 추가 연구가 필요하다는 점이며 cTnI와 NT-proBNP는 MR 중증도 판단에 제한적이라는 것이다. 본문 초록에 제시된 범위를 벗어난 인과관계나 추가 해석은 제시하지 않았다.",
+      "title": "Blood serotonin, ionized magnesium, cardiac troponin I, N-terminal pro-brain natriuretic peptide concentrations, and mitral valve billowing in horses with mitral valve regurgitation.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-11-07T00:57:19.843Z",
       "model": "gpt-5-mini"
     }
   }
