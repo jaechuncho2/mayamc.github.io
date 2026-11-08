@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T00:57:07.859Z",
+  "updated_at": "2026-11-08T00:38:19.768Z",
   "papers": [
     {
       "pmid": "42993774",
@@ -12,6 +12,56 @@
       "categories": [
         "cardiology",
         "neurology"
+      ]
+    },
+    {
+      "pmid": "42994099",
+      "title": "Surgical outcomes of congenital cleft palate repair in dogs: a scoping review.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Elazegui E, Wolfs E",
+      "date": "2026 11 06",
+      "dateObject": "2026 11 06",
+      "abstract": "Congenital cleft palate (CFP) is a common orofacial malformation in dogs associated with substantial morbidity and neonatal mortality. The objective of this scoping review was to map the current veterinary literature describing surgical approaches, reported outcomes, complications, and evidence gaps following surgical repair of canine CFPs. A scoping review was conducted and reported in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews (ie, PRISMA-ScR) framework. PubMed, Web of Science, and Google Scholar were searched through January 21, 2026. Two reviewers independently screened records and charted outcomes. Eligible studies reported clinical data on surgical management of canine CFP, including oronasal fistula formation, revision surgery, or postoperative complications. \"Experimental Design Grade\" and \"Evidence Grade\" were used as descriptive critical appraisal tools. These grades were not considered formal risk-of-bias assessments. 19 studies involving 122 dogs met inclusion criteria. No prospective studies were identified. Surgical approaches included von Langenbeck-type repairs, overlapping flap palatoplasty, and other mucoperiosteal or adjunctive reconstructive techniques. Oronasal fistula formation was the most commonly reported complication, ranging from 0% to 100%. Revision surgery was reported in up to 50% of cases. All included sources were classified as Experimental Design Grade III-V, and substantial heterogeneity existed in surgical techniques, outcome definitions, and follow-up duration (0.25 to 127 months). No surgical technique demonstrated consistent superiority. Multiple surgical techniques can achieve acceptable functional outcomes in dogs with CFPs; however, postoperative complications, particularly oronasal fistula formation, remain common. The current literature is limited by predominantly lower-level study designs and heterogeneity, highlighting the need for prospective studies with standardized outcome reporting.",
+      "categories": [
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42994090",
+      "title": "Pregabalin and gabapentin in fractious cats: an exploratory comparison of handling-related outcomes and adverse effect profiles.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Measson C, Fournier F, Sarcey G, B&#xe9;ata C",
+      "date": "2026 11 06",
+      "dateObject": "2026 11 06",
+      "abstract": "To compare pregabalin and gabapentin on manageability, ease of placing into a carrier, ease of transport, and adverse effects in cats exhibiting fractious behavior. An exploratory double-blind, randomized crossover study enrolled 32 cats with a history of fractious behavior. Each cat received pregabalin (5 mg/kg; Bonqat) or gabapentin (compounded, 20 mg/kg), administered 2 hours before examination, with treatments allocated in random order 15 days apart. Outcomes included manageability (veterinarian-recorded), ease of placing the cat into the carrier (owner-reported), transport (owner-reported), and adverse effects (owner-reported and veterinarian-recorded). Median scores (with IQRs) overlapped between pregabalin and gabapentin for manageability, ease of placing the cat into the carrier, and ease of transport. Owner-reported adverse effects did not differ between treatments, and drowsiness and muscle relaxation were the most frequently owner-reported effects, while veterinarian-recorded adverse effects were more frequent with gabapentin. Marked interindividual variability was observed: some cats responded substantially better to one drug than to the other. In this exploratory study, pregabalin and gabapentin provided overlapping outcomes for handling-related outcomes in fractious cats but differed in their adverse effect profiles, with gabapentin associated with a greater frequency of clinician-observed effects. The cat-dependent variation in response warrants further investigation. Both gabapentinoids produced comparable handling-related outcomes in fractious cats. When adverse effect burden is a concern, pregabalin may offer a marginally favorable safety profile. Individual variation in drug response suggests that if one agent proves ineffective, the other may be trialed.",
+      "categories": []
+    },
+    {
+      "pmid": "42994089",
+      "title": "Coagulopathic manifestations as a primary presentation of canine angiostrongylosis: a retrospective case series.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Van Heuckelom E, Biscop A, Bhatti SFM, Stammeleer L, Decorte B, Paepe D",
+      "date": "2026 11 06",
+      "dateObject": "2026 11 06",
+      "abstract": "To describe the clinical presentations, diagnostic findings, and treatment outcomes of 3 dogs with atypical, predominantly coagulopathic manifestations of Angiostrongylus vasorum infection and to highlight the associated diagnostic challenges. 3 client-owned dogs presented at a veterinary referral hospital in Flanders, Belgium, between March 2018 and April 2022. Cases were eligible for inclusion if coagulopathic manifestations were a predominant component of the clinical presentation and canine angiostrongylosis diagnosis was confirmed. The 3 included dogs were male and aged 8 months, 1 year, and 5 years. They presented with clinical signs attributed to hemarthrosis, intracranial hemorrhage, or both, with onset and progression varying among patients. Respiratory signs were absent in 1 dog and mild in 2 dogs, and initial diagnostic considerations included primary orthopedic or neurological disease. All dogs exhibited coagulation abnormalities consistent with consumptive coagulopathy, including thrombocytopenia, prolonged clotting times, and/or increased D-dimer concentrations. Infection with A vasorum was confirmed by serological antigen detection and/or fecal Baermann examination. Imaging findings included joint swelling, intracerebral hemorrhage, and mild interstitial pulmonary changes. Treatment consisted of anthelmintic therapy with adjunctive corticosteroids, and 2 dogs received plasma transfusion. All dogs recovered with resolution of clinical signs and normalization of laboratory abnormalities. These cases highlight the importance of including canine angiostrongylosis in the differential diagnosis for dogs presenting with unexplained coagulopathy or hemorrhage, even in the absence of respiratory signs, particularly in regions where the parasite is emerging. Early diagnosis and treatment are critical to prevent potentially life-threatening complications.",
+      "categories": [
+        "internalMedicine",
+        "surgery",
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "42994086",
+      "title": "Premedication with medetomidine compared to acepromazine reduces the risk of hypotension and mild acute kidney injury in healthy dogs undergoing gonadectomy surgery: results of a randomized clinical trial.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Quinn CT, Walton AN",
+      "date": "2026 11 06",
+      "dateObject": "2026 11 06",
+      "abstract": "To compare premedication with medetomidine or acepromazine in regard to hypotension and acute kidney injury (AKI) in dogs undergoing elective gonadectomy. This randomized clinical trial included healthy dogs &#x2265; 6 months of age undergoing gonadectomy in a university teaching hospital. Exclusion criteria were weight < 4 kg, American Society of Anesthesiologists risk > 2, or cardiovascular/renal disease. Premedication consisted of methadone and medetomidine at 0.3 to 5 &#xb5;g/kg or acepromazine at 0.01 to 0.05 mg/kg IM. Anesthesia was induced with alfaxalone and maintained with isoflurane. Hypotension (mean arterial pressure < 60 mm Hg) frequency, severity, and duration; recovery temperature; and vomiting and pain interventions were compared. Oliguria 24 hours postoperatively was defined as no urination with low-volume bladder. Serum creatinine was measured from blood before and 24 hours after surgery. Acute kidney injury was defined as an increase of > 26.5 &#xb5;mol/L. The medetomidine group included 51 dogs and the acepromazine group 43. There were no differences in preoperative characteristics, anesthetic doses, or time. Hypotension was significantly less frequent (51% vs 84%), had a shorter duration (14 &#xb1; 20.2 minutes vs 26 &#xb1; 24.2 minutes), and was less severe (lowest mean arterial pressure 60.0 &#xb1; 14.9 mm Hg vs 51 &#xb1; 10.3 mm Hg) following medetomidine. Acute kidney injury was less frequent in the medetomidine group (9.8% vs 20.9%), with no oliguric AKI cases compared to 4 following acepromazine. There were no differences in postoperative hypothermia or treatments for vomiting or pain. Premedication with medetomidine results in a lower frequency and duration of hypotension and might reduce the risk of AKI. For healthy dogs undergoing elective surgery, premedication with medetomidine is preferable to acepromazine.",
+      "categories": [
+        "cardiology",
+        "internalMedicine",
+        "surgery"
       ]
     },
     {
@@ -1913,53 +1963,6 @@
       "abstract": "To identify risk factors for postoperative death and complications in dogs undergoing brachycephalic obstructive airway syndrome (BOAS) surgery and utilize this information to develop a predictive model for risk estimation. Records of dogs undergoing BOAS surgery at a veterinary teaching hospital between 2012 and 2023 were reviewed. Predictor variables were categorized into domains, including signalment, history, clinical signs, underlying pathology, acuity status, and surgeries performed. Outcomes were categorized as death, major complications, or minor complications. The association between outcomes and predictors was modeled by logistic regression. Results were reported as ORs and regression coefficients with 95% CIs. A predictive model was created to estimate risk of mortality and complications following BOAS surgery. 297 cases were included. Twelve dogs (4%) died prior to discharge. Major complications (airway interventions and pneumonia) were reported for 29 dogs (10%). Major complications were strongly associated with emergent presentation (OR, 7.45; 95% CI, 2.70 to 20.59), female sex (OR, 2.78; 95% CI, 1.11 to 6.67), high-grade laryngeal collapse (OR, 4.28; 95% CI, 1.56 to 11.79), and history of regurgitation/vomiting (OR, 2.16; 95% CI, 0.87 to 5.38). Risk factors for postoperative death and complications were identified. A predictive model was developed, allowing estimation of postoperative risk based on individual patient factors. A multivariable predictive model may be useful in clinical practice to obtain individualized postoperative risk predictions to contribute to prognostication, decision-making, and triage. However, as this model has not been externally validated, calculated risk should be utilized with caution and consideration for the clinical picture of each patient.",
       "categories": [
         "internalMedicine",
-        "surgery"
-      ]
-    },
-    {
-      "pmid": "42468557",
-      "title": "Pretreatment with phenoxybenzamine improves short-term survival and hemodynamic stability in dogs undergoing adrenalectomy for pheochromocytoma.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Wund Z, Monnet E",
-      "date": "2026 10 16",
-      "dateObject": "2026 10 16",
-      "abstract": "To evaluate indices of hemodynamic instability (HDI) in dogs and evaluate the effects of phenoxybenzamine (PBZ) on HDI and short-term survival in dogs undergoing adrenalectomy for pheochromocytoma. A retrospective medical record review of all dogs that underwent adrenalectomy at a single institution between 1996 and 2024. Dogs were included if the mass was confirmed to be a pheochromocytoma on histopathology and excluded if they received &#x3b1; antagonists other than PBZ, had incomplete medical or anesthetic records, or were treated with laparoscopy. 52 dogs met the inclusion criteria. Thirty-five dogs that did not receive PBZ were entered in the NPBZ group, and 17 that received PBZ were entered in the PBZ group. The mean dosage of PBZ was 1.1 mg/kg/d (0.4 to 1.7 mg/kg/d) administered for a mean length of time of 13.4 days (9.3 to 17.4 days) before surgery. Indices of HDI including systolic blood pressure > 200 mm Hg seemed to be more appropriate for dogs with pheochromocytoma. Six of the 22 dogs in the NPBZ group that required cavotomy experienced HDI compared to 0 of 17 in the PBZ group. The 14-day survival rate was 94.1% in the PBZ group and 62.9% in the NPBZ group. Pharmacologic &#x3b1;-adrenergic blockade with PBZ prior to adrenalectomy improved short-term patient survival. Indices of HDI that include systolic arterial pressure above 200 mm Hg seem to be more appropriate for dogs. PBZ should be considered as an effective pretreatment strategy to reduce the effects of HDI during adrenalectomy in dogs undergoing adrenalectomy for pheochromocytoma.",
-      "categories": [
-        "surgery"
-      ]
-    },
-    {
-      "pmid": "42419365",
-      "title": "Serological response to extralabel use of parenteral rabies vaccines in 28 mammalian species.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Wallace RM, M&#xfc;ller T, Freuling C, Seetahal JFR, Slavinski S, Brown C",
-      "date": "2026 10 16",
-      "dateObject": "2026 10 16",
-      "abstract": "To evaluate immunogenicity, persistence of antibodies, survival after challenge, and anamnestic response following extralabel parenteral rabies vaccination across mammalian species compared with benchmarks from on-label canine vaccination. Mammals described in published studies of extralabel parenteral rabies vaccination. A structured literature review (1980 to 2025) identified studies reporting serologic or challenge outcomes after extralabel parenteral rabies vaccination. Extracted data included taxonomic family; vaccine type and schedule, timing of serum collection, antibody titers, survival after experimental challenge, and response to booster vaccination. Random-effects meta-analyses were conducted by family and overall. Pooled proportions were compared with the World Organisation for Animal Health benchmark of 88% survival and with canine benchmarks for primary seroconversion (88.1%), antibody levels 6 to 12 months after primary vaccination (72.9%), and booster response (96.8%). 32 articles describing 41 studies met inclusion criteria, representing 2,630 animals from 28 species in 17 families. After primary vaccination, 84.4 &#xb1; 4.1% achieved titers &#x2265; 0.5 IU/mL, with 14 of 16 families noninferior to the canine benchmark. At &#x2265; 6 months, 63.7 &#xb1; 10.6% maintained titers &#x2265; 0.5 IU/mL. Among 79 vaccinated animals challenged with rabies virus, 89.0 &#xb1; 9.8% survived. Booster vaccination produced adequate titers in 89.1 &#xb1; 8.0% of 275 animals, with reduced responses in the families Elephantidae and Ursidae. Modern-day rabies vaccines generate strong antibody responses across diverse mammalian families, with nondomestic canids responding similarly to domestic dogs. These findings support recognizing extralabel vaccination as biologically protective and can inform public health and animal management policies.",
-      "categories": []
-    },
-    {
-      "pmid": "42361374",
-      "title": "Ethanol ablation guided by sonographic appearance of the nodule is effective for treatment of primary hyperparathyroidism in dogs.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Schindler S, Lane M, Woodard M, Baron-Chapman M",
-      "date": "2026 10 16",
-      "dateObject": "2026 10 16",
-      "abstract": "To evaluate the efficacy and safety of a modified percutaneous ultrasound-guided ethanol ablation technique for the treatment of primary hyperparathyroidism in dogs. This prospective observational study was conducted at a single veterinary referral center. Dogs with persistent ionized hypercalcemia, normal/increased parathyroid hormone concentrations, normal/undetectable parathyroid hormone-related protein concentrations, and ultrasonographic identification of &#x2265; 1 presumed hyperfunctioning parathyroid nodule (&#x2265; 2.5 mm) underwent percutaneous ultrasonographically guided ethanol ablation, in which ethanol was administered until real-time diffuse intralesional hyperechogenicity was achieved. Dogs with alternative causes of hypercalcemia were excluded. Data collected from October 2018 through April 2023 included signalment, lesion characteristics, ethanol volume administered, complications, and biochemical outcomes. Resolution of hypercalcemia following ablation was the primary outcome measure. 49 dogs were enrolled, and follow-up data were available for 47. Hypercalcemia resolved in 42 of 47 dogs (89.4%). Complications occurred in 12 of 47 dogs (25.5%) and were classified as minor in 10 and major in 2. Dogs with resolution of hypercalcemia received a greater median volume of ethanol than dogs without resolution (0.60 mL [IQR, 0.30 to 1.00 mL] vs 0.15 mL [IQR, 0.09 to 0.37 mL]; P = .012). Ethanol volume was not associated with ethanol leakage severity or complication rates. Sonographically guided ethanol ablation was an effective treatment for primary hyperparathyroidism in dogs, achieving resolution of hypercalcemia in nearly 90% of cases with a low rate of major complications. Ultrasound-guided ethanol ablation based on real-time nodule hyperechogenicity may be a practical alternative to volume-based protocols while maintaining efficacy and safety.",
-      "categories": []
-    },
-    {
-      "pmid": "42285129",
-      "title": "Cardiac etiology is the leading cause of feline chylothorax: 35 cases (2006-2022).",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Severac L, Juette T, Conversy B",
-      "date": "2026 10 16",
-      "dateObject": "2026 10 16",
-      "abstract": "To identify the most frequent underlying causes of chylothorax in cats and to assess whether clinical and laboratory findings at presentation could predict etiology and outcome. Cats diagnosed with chylothorax were retrospectively enrolled in 2 veterinary centers between 2006 and 2022. Data collected for each case included signalment, history, physical examination findings, pleural effusion analysis, hematologic and imaging results, etiology, treatment (medical and/or surgical), and survival time. Descriptive statistics and multinomial logistic regression were used to identify markers of etiology. Associations with survival were assessed with the Cox proportional hazards models. 35 cats met the inclusion criteria. Cardiac disease was the most common etiology (57%), followed by idiopathic (31%), neoplasia (9%), and peritoneopericardial diaphragmatic hernia (3%). Cats with neoplastic chylothorax were significantly older than those in other etiologic groups. Cats with cardiac chylothorax had a higher left atrial-to-aortic ratio (median, 2.4) than cats in other etiologic groups (< 1.4). Median survival times for cardiac, idiopathic, neoplastic, and peritoneopericardial diaphragmatic hernia etiology were 172, 416, 38, and 27 days, respectively. Regardless of the chylothorax etiology, survival was negatively correlated to older cats and low rectal temperature on initial arrival to the hospital. Cardiac disease was the predominant cause of chylothorax. All cats with a left atrial-to-aortic ratio > 1.4 had a cardiac etiology. All cats aged over 14 years had a neoplastic etiology. Felines with a cardiac etiology had a poorer prognosis than idiopathic cases. Neoplastic cats had the shortest survival time. An echocardiogram should be considered for all cats diagnosed with chylothorax.",
-      "categories": [
-        "cardiology",
-        "internalMedicine",
-        "oncology",
         "surgery"
       ]
     },

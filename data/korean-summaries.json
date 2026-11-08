@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T00:59:19.847Z",
+  "updated_at": "2026-11-08T00:39:16.023Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -8367,6 +8367,38 @@
       "title": "Blood serotonin, ionized magnesium, cardiac troponin I, N-terminal pro-brain natriuretic peptide concentrations, and mitral valve billowing in horses with mitral valve regurgitation.",
       "journal": "Journal of Veterinary Internal Medicine",
       "generated_at": "2026-11-07T00:57:19.843Z",
+      "model": "gpt-5-mini"
+    },
+    "42994086": {
+      "brief_summary": "무작위 임상시험으로 건강한 개의 선택적 생식기 절제술(gonadectomy)에서 프리메디케이션으로 메데토미딘(medetomidine)과 아세프로마진(acepromazine)을 비교했다. 메데토미딘군(51마리)은 아세프로마진군(43마리)에 비해 저혈압(MAP < 60 mm Hg)의 발생 빈도(51% vs 84%), 지속시간(14 ± 20.2분 vs 26 ± 24.2분) 및 최저 MAP(60.0 ± 14.9 mm Hg vs 51 ± 10.3 mm Hg)가 더 낮았다. 혈청 크레아티닌 증가(> 26.5 µmol/L)로 정의한 급성 신장 손상(AKI)도 메데토미딘군에서 덜 발생(9.8% vs 20.9%)했고, 올리구리(저량 방광/무배뇨) AKI는 아세프로마진군에서만 4례 있었다. 초록은 건강한 개의 선택적 수술에서 메데토미딘 프리메디케이션이 아세프로마진보다 바람직하다고 제시한다.",
+      "detailed_summary": "무작위 임상시험으로 6개월 이상 건강한 개를 대상으로 했으며, 체중 < 4 kg, ASA(미국마취과학회) 위험도 > 2 또는 심혈관·신장 질환이 있는 경우 제외했다. 프리메디케이션은 메타돈(methadone)과 메데토미딘 0.3–5 µg/kg IM 또는 메타돈과 아세프로마진 0.01–0.05 mg/kg IM으로 시행했고, 유도는 알팍살론(alfaxalone), 유지 마취는 이소플루란(isoflurane)이었다. 주요 평가 항목은 저혈압(평균 동맥압 MAP < 60 mm Hg)의 빈도·중증도·지속시간, 회복기 체온, 구토 및 통증 처치, 그리고 수술 전후 24시간의 배뇨상태(무배뇨·저량) 및 혈청 크레아티닌 변화였다. AKI는 크레아티닌이 24시간 후에 > 26.5 µmol/L 증가한 경우로 정의했다. 결과는 메데토미딘군(51마리)에서 저혈압 발생률 51% vs 아세프로마진군(43마리) 84%, 저혈압 지속시간 평균 14 ± 20.2분 vs 26 ± 24.2분, 최저 MAP 60.0 ± 14.9 mm Hg vs 51 ± 10.3 mm Hg로 메데토미딘이 더 유리했다. AKI 발생률은 메데토미딘군 9.8% vs 아세프로마진군 20.9%였고, 올리구리성 AKI는 아세프로마진군에서 4례 발생했고 메데토미딘군에서는 없었다. 회복기 저체온이나 구토·통증 처치 빈도에는 그룹 간 차이가 없었다. 초록은 메데토미딘 프리메디케이션이 저혈압 빈도와 지속시간을 줄이고 AKI 위험을 낮출 수 있음을 보고하며, 건강한 개의 선택적 수술에서는 메데토미딘을 선호한다고 결론지었다.",
+      "title": "Premedication with medetomidine compared to acepromazine reduces the risk of hypotension and mild acute kidney injury in healthy dogs undergoing gonadectomy surgery: results of a randomized clinical trial.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-11-08T00:39:15.997Z",
+      "model": "gpt-5-mini"
+    },
+    "42994089": {
+      "brief_summary": "후향적 증례 시리즈로서 벨기에의 3마리 개에서 Angiostrongylus vasorum (A. vasorum) 감염이 주로 응고장애 양상으로 처음 나타난 임상 소견을 보고한다. 혈소판감소증, 응고시간 연장 및 D-다이머 증가 등 소모성 응고병증 소견이 있었고, 항원 혈청검사와/또는 Baermann 배설물 검사로 감염이 확진되었다. 항구충제 치료와 보조적 코르티코스테로이드, 2례에서는 혈장 수혈을 시행하여 모든 증례에서 임상증상과 검사 이상이 회복되었다는 점에서, 호흡기 증상이 없더라도 설명되지 않는 출혈성 질환의 감별진단에 A. vasorum을 포함할 필요가 있음을 시사한다.",
+      "detailed_summary": "후향적 증례보고로 2018년 3월부터 2022년 4월 사이 플랑드르의 수의학 전문병원에 내원한 클라이언트 소유 개 3마리를 대상으로 하였다. 대상은 모두 수컷이며 연령은 8개월, 1세, 5세였고, 주요 임상양상은 관절내출혈(hemarthrosis), 두개내출혈 또는 이들의 병발로 다양하게 나타났다. 호흡기 증상은 1마리에서 없었고 2마리에서는 경미했으며 초기 진단으로 정형외과적 또는 신경학적 질환이 고려되기도 했다. 검사 소견은 혈소판감소증, 응고시간 연장 및 D-다이머 증가 등 소모성 응고병증과 일치했으며 감염 확진은 혈청 항원검사 및/또는 대변 Baermann 검사로 이루어졌다. 영상검사에서는 관절 부종, 뇌내 출혈, 경미한 간질성 폐 변화 등이 관찰되었고 치료는 항구충제와 보조적 코르티코스테로이드였으며 2례는 혈장 수혈을 추가로 받았다. 모든 개가 임상증상 및 검사 이상이 호전되어 회복되었으나 본 연구는 증례보고로 표본 수가 적어 일반화할 수 없다는 점과 지역적 유행 양상에서 진단의 중요성이 강조된다는 제한점이 있다.",
+      "title": "Coagulopathic manifestations as a primary presentation of canine angiostrongylosis: a retrospective case series.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-11-08T00:39:02.052Z",
+      "model": "gpt-5-mini"
+    },
+    "42994090": {
+      "brief_summary": "무작위 이중맹검 교차시험으로 난폭·비협조적 행동(fractious behavior)을 보이는 32마리의 고양이를 대상으로 pregabalin(5 mg/kg, Bonqat)과 gabapentin(혼합제제, 20 mg/kg)을 진찰 2시간 전에 투여해 취급 용이성과 부작용을 비교했다. 취급 관련 결과(관리 용이성, 캐리어에 넣기, 이송)는 두 약제 간 중앙값과 IQR이 겹쳐 유사한 효과를 보였고, 소유주 보고 부작용은 차이가 없었으나 수의사가 관찰한 부작용은 gabapentin에서 더 자주 기록되었다. 고양이마다 약물 반응 차이가 커 일부 개체는 한 약제에 대해 현저히 더 잘 반응해, 임상적으로 한 약제가 효과 없을 때 다른 약제를 시도해볼 근거가 된다.",
+      "detailed_summary": "본 연구는 32마리의 난폭·비협조적 행동 고양이를 대상으로 한 탐색적(double-blind, randomized crossover) 연구로, 각 고양이에게 pregabalin(5 mg/kg, Bonqat) 또는 gabapentin(혼합제제, 20 mg/kg)을 무작위 순서로 15일 간격으로 투여했고 각 투여는 진찰 2시간 전에 이루어졌다. 주요 평가지표는 수의사가 기록한 관리 용이성(manageability)과 소유주가 보고한 캐리어에 넣기 및 이송의 용이성, 그리고 소유주·수의사가 기록한 부작용이었다. 관리 용이성 및 이동 관련 항목에서 두 약제의 중앙값과 사분위간격(IQR)이 서로 겹쳐 전반적으로 유사한 결과를 보였다. 소유주 보고 부작용 빈도는 두 군 간 차이가 없었고, 졸음과 근이완이 소유주가 가장 자주 보고한 부작용이었다. 반면 수의사 기록상 부작용은 gabapentin에서 더 빈번하게 관찰되었다. 개체 간 반응 편차가 뚜렷해 일부 고양이는 한 약제에 대해 다른 약제보다 현저히 더 좋은 반응을 보였고, 연구진은 부작용 부담이 우려될 때는 pregabalin이 다소 유리할 수 있다고 결론지었다. 해당 연구는 탐색적 성격이며 개체별 변이와 안전성 차이에 대해 추가 연구가 필요하다는 제한점을 명시하고 있다.",
+      "title": "Pregabalin and gabapentin in fractious cats: an exploratory comparison of handling-related outcomes and adverse effect profiles.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-11-08T00:38:48.990Z",
+      "model": "gpt-5-mini"
+    },
+    "42994099": {
+      "brief_summary": "본 논문은 선천성 구개열(CFP)을 수술로 교정한 개의 문헌을 체계적으로 맵핑한 스코핑 리뷰로, 19편의 연구에서 총 122마리의 개가 포함되었다. von Langenbeck형 수복, overlapping flap palatoplasty 등을 포함한 다양한 수술 기법이 보고되었으나 구강-비강 누공(oronasal fistula) 발생률은 0%에서 100%로 매우 다양했고 재수술 비율은 최대 50%까지 보고되었다. 여러 기법이 기능적 결과를 얻을 수 있으나 합병증, 특히 누공이 흔하고 연구 설계의 수준과 결과 정의의 이질성으로 인해 향후 전향적 연구와 표준화된 결과보고가 필요하다는 결론이다.",
+      "detailed_summary": "이 연구는 PRISMA-ScR에 따라 PubMed, Web of Science, Google Scholar를 2026년 1월 21일까지 검색하여 canine CFP의 수술적 관리와 결과를 조사한 스코핑 리뷰이다. 총 19편의 연구가 포함되어 대상은 122마리의 개였고, 전향적 연구는 확인되지 않았다. 보고된 수술법에는 von Langenbeck형 수복, overlapping flap palatoplasty 및 기타 점막골막(mucoperiosteal) 또는 보조 재건 기법이 포함되었다. 주요 평가 항목으로 구강-비강 누공 발생, 재수술 여부 및 수술 후 합병증이 보고되었으며 누공 발생률은 연구별로 0%에서 100%까지, 재수술은 최대 50%까지 보고되었다. 추적 관찰 기간은 0.25개월에서 127개월까지 매우 다양했고, 포함된 모든 자료는 Experimental Design Grade III–V로 분류되어 낮은 수준의 설계가 대부분이었다. 연구들 간에 수술 기법, 결과 정의 및 추적 기간의 이질성이 상당하여 어느 한 기법의 일관된 우월성은 확인되지 않았고, 저자들은 전향적 연구와 표준화된 결과 보고의 필요성을 강조하였다.",
+      "title": "Surgical outcomes of congenital cleft palate repair in dogs: a scoping review.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-11-08T00:38:35.602Z",
       "model": "gpt-5-mini"
     }
   }
