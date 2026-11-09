@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T00:39:16.023Z",
+  "updated_at": "2026-11-09T00:58:03.188Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -8399,6 +8399,62 @@
       "title": "Surgical outcomes of congenital cleft palate repair in dogs: a scoping review.",
       "journal": "Journal of the American Veterinary Medical Association",
       "generated_at": "2026-11-08T00:38:35.602Z",
+      "model": "gpt-5-mini"
+    },
+    "42995349": {
+      "brief_summary": "증례는 8세 중성화 수컷 Domestic Shorthair 고양이에서 항낭(anal sac) 부위에 발생한 편평세포암종(SCC)을 보고한다. 수술 및 방사선 치료가 거부된 상태에서 토세라닙(일부 보존적 치료)과 멜록시캄으로 보존적 치료를 시작했고, 약 한 달간 임상적으로 안정된 뒤 정맥 주사용 블레오마이신을 이용한 전기화학요법(ECT)을 1회 시행했다. 병변은 조직학적으로 비교적 경미한 이상성 및 낮은 유사분열률을 보였으나, 국소 침습과 조기 지역 림프절 전이가 발생하여 약 68일 만에 사망하였다; 치료들은 일시적 호전만을 보였다는 점에서 임상적 시사점이 있다.",
+      "detailed_summary": "단일 증례 보고로, 8세 중성화 수컷 Domestic Shorthair 고양이가 지속적인 배변곤란(tenesmus), 변비 및 식욕부진을 주소로 내원하였다. 초기 세포검사에서는 항낭염으로 해석되었으나 절개 생검에서 편평세포암(SCC)으로 확진되었고, 조직학적 소견은 중등도 이형성 및 낮은 유사분열률로 기술되었다. 조영증강 전산화단층촬영(CT)에서 좌측 항낭 부위를 중심으로 비환상형 종괴와 직장주위 연조직 침윤에 따른 부분적 직장 폐색 및 주변 림프절비대가 관찰되었고, 세포검사로 림프절 전이가 확인되었다. 치료는 수술 및 방사선치료가 거부되어 토세라닙(phosphate)과 멜록시캄으로 한정된 보존적 요법을 시작하였고, 약 한 달간 임상적 안정 후 정맥성 블레오마이신을 이용한 전기화학요법을 1회 시행하였다. 치료 후 임상 증상은 일시적으로 호전되었으나 곧 급속히 진행하여 골반 요도 침범이 발생하였고, 진단 후 68일 만에 사망하였다. 본 증례는 항낭 부위에 발생한 고양이 SCC가 조직학적 소견이 비교적 온건하더라도 국소 침습성과 조기 지역전이를 보일 수 있음을 보여주며, 토세라닙과 ECT는 이 증례에서 일시적 개선만 제공했다는 점과 병변의 범위·깊이가 치료 효과에 영향을 미쳤을 가능성을 제한적으로 시사한다.",
+      "title": "Squamous cell carcinoma involving the anal sac region in a cat: clinical course and multimodal management with toceranib and electrochemotherapy.",
+      "journal": "Veterinary Research Communications",
+      "generated_at": "2026-11-09T00:58:03.171Z",
+      "model": "gpt-5-mini"
+    },
+    "42996192": {
+      "brief_summary": "건강한 개 5마리를 대상으로 리팍시민(rifaximin, 25 mg/kg q12h, 28일)을 투여하고 분변을 채취(day 0, 14, 28)해 16S rRNA V3–V4 영역 염기서열 분석으로 장내 미생물총 변화를 평가했다. 알파 다양성(ASV p=0.449, Chao1 p=0.241, Shannon p=0.248)과 베타 다양성(Weighted UniFrac p=0.471, Unweighted UniFrac p=0.157, Bray–Curtis p=0.089)에서 유의한 변화는 관찰되지 않았다. 투여 중 위장관 증상을 포함한 이상반응은 없었으며, 표본 수가 적고 미처리 대조군이 없어 결과는 예비적이라 임상적 권고 근거로 삼을 수 없다는 결론이다.",
+      "detailed_summary": "파일럿 연구로 건강한 개 5마리를 대상으로 리팍시민을 25 mg/kg을 12시간마다(q12h) 28일간 투여하였다. 분변 샘플은 투여 전(day 0)과 투여 중(day 14), 투여 말(day 28)에 직장 채취하여 16S rRNA V3–V4 영역 시퀀싱으로 미생물총 구성을 분석했다. 모든 시점에서 Firmicutes가 우점하는 것으로 관찰되었고 Fusobacteriota, Bacteroidota, Actinobacteriota도 주요 분류군으로 확인되었다. 알파 다양성 지표(ASV, Chao1, Shannon)와 베타 다양성 지표(Weighted UniFrac, Unweighted UniFrac, Bray–Curtis) 모두 통계적으로 유의한 변화가 없었다(각 p값은 본문과 동일). 투여 기간 중 임상적 이상반응이나 위장관 증상은 보고되지 않았다. 저자들은 표본 수가 매우 적고 비처리 대조군이 없는 점을 주요 제한점으로 지적하며, 본 결과는 예비적 관찰에 불과하고 임상적 사용 지침을 제시할 근거로는 부족하다고 결론지었다.",
+      "title": "Effects of rifaximin on the fecal microbiota of healthy dogs: a pilot study.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-11-09T00:57:49.038Z",
+      "model": "gpt-5-mini"
+    },
+    "42997290": {
+      "brief_summary": "본 연구는 후대정맥(caudal vena cava, CVC)과 대동맥(aorta, Ao) 비율(CVC/Ao)을 CT로 비교하여 휘펫(Whippet)에서 다른 견종보다 비율이 높은지 확인하고자 했다. 무심장질환 68마리(휘펫 34, 대조 34)의 전신마취 CT에서 측정한 결과 휘펫은 복부 CVC/Ao가 유의하게 더 컸고(1.54 ± 0.29 vs. 1.28 ± 0.23, p < 0.001) 흉부 비율은 차이가 없었다. 이 차이는 체중·연령 보정 후에도 유지되었고, 전체적으로 종전의 보고된 값보다 높은 경향을 보였으므로 영상 방식·품종·연령 특이적 기준값이 필요함을 시사한다.",
+      "detailed_summary": "후대정맥(CVC) 대 대동맥(Ao) 비율(CVC/Ao)을 복부와 흉부에서 CT로 비교하기 위해 심장병력이 없는 개 68마리(휘펫 34마리, 비-휘펫 대조 34마리)를 후향적으로 검토했다. 모든 CT는 전신마취 하에 시행되었고 표준화된 흉부 및 복부 지점에서 CVC/Ao를 측정했다. 통계는 Welch의 독립표본 t-검정, 대응 표본 t-검정, 체중·연령을 보정한 공분산분석(ANCOVA)을 사용했으며 유의수준은 p < 0.05로 설정했다. 주요 결과는 휘펫의 복부 CVC/Ao가 대조군보다 유의하게 컸다(1.54 ± 0.29 vs. 1.28 ± 0.23; p < 0.001)며 흉부 비율은 차이가 없었다(1.22 ± 0.23 vs. 1.28 ± 0.26; p = 0.29). 복부 차이는 체중·연령 보정 후에도 유지되었고(보정 차이 0.29, 95% CI 0.15–0.42; p < 0.001), 흉부 비율은 연령과 무관하게 연간 -0.023씩 감소했다(p = 0.002). 두 군 모두 기존에 보고된 CT 및 초음파 기준값을 넘기는 경우가 많았고(초음파 상한 초과: 휘펫 73.5% vs. 대조 41.2%; p = 0.007), 연구 코호트의 관측치 기반 mean ± 2 SD 한계(복부: 휘펫 0.96–2.13, 대조 0.82–1.75; 흉부(합산) 0.76–1.74)를 제시하였으나 이는 코호트 관측치일 뿐 품종별 공식 참조범위는 아니라고 명시한다.",
+      "title": "Whippets have larger abdominal caudal vena cava to aorta ratios than other dogs on computed tomography.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-11-09T00:57:30.812Z",
+      "model": "gpt-5-mini"
+    },
+    "42997306": {
+      "brief_summary": "본 연구는 개 비강암(NC) 환자 유래 조직으로 오가노이드 배양법을 확립하고 약물 민감성 검사 및 치료표적 탐색을 수행했다. 오가노이드는 전자현미경과 면역조직화학(CK19, E-cadherin, Ki67)에서 원조직과 유사한 분화양상을 보였고, 면역결핍 마우스에서 종양형성을 보였다. RNA 시퀀싱에서 MYC 표적, 산화적 인산화, 단백질 분비 경로가 풍부하게 발현되었고, S100A2 타겟의 침묵화는 증식 및 침습성을 감소시켜 S100A2가 악성 표현형에 기여함을 시사하므로 이 모델은 약물검사 및 비교연구의 기초가 된다.",
+      "detailed_summary": "연구 설계는 개 비강암 환자 유래 조직으로 오가노이드를 생성·배양하여 모델을 확립하고 치료표적을 탐색하는 실험적 접근이었다. 전자현미경에서 점액과립을 동반한 배상 세포(goblet) 분화와 내강 구조가 관찰되었고, 면역조직화학적으로 CK19, E-cadherin, Ki67 양성으로 원조직과 발현 양상이 일치했다. 해당 오가노이드는 면역결핍 마우스에서 종양형성을 보였고, 배양에 유용한 보조제를 확인하였다. 각 오가노이드 계통은 항암제에 대한 감수성이 서로 달랐으며, 이는 환자별 반응성 차이를 반영할 수 있다. 정상 비강 세포와의 비교 RNA 시퀀싱에서 MYC 표적, 산화적 인산화, 단백질 분비 관련 경로가 NC 오가노이드에서 풍부하게 발현되었다. 차등발현 유전자 중 S100A2를 선택하여 기능검사를 시행한 결과, S100A2 knockdown이 세포 증식과 침습성을 감소시켜 S100A2가 악성 표현형에 기여함을 지지했다. 본 연구는 개 비강암의 생물학 및 약물 반응성 연구를 위한 실험 플랫폼을 확립하고 향후 비교연구의 근거를 제공한다고 결론지었다.",
+      "title": "Establishment of canine nasal carcinoma organoids for drug sensitivity testing and functional characterization of S100A2.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-11-09T00:57:09.922Z",
+      "model": "gpt-5-mini"
+    },
+    "42997318": {
+      "brief_summary": "본 논문은 판단 편향 과제(JBTs, judgment bias tasks)를 이용해 반려견의 정서 상태를 평가한 연구들을 PRISMA 2020 지침에 따라 체계적으로 검토한 결과를 보고한다. 총 32편(실험 15, 관찰/준실험 13, 방법론 4)이 포함되었고, 대부분(28/32, 88%)이 동일한 공간 구별(spatial discrimination) 과제를 사용했다. JBT는 옥시토신(d = 2.16), 환경 풍부화(코 작업·nosework, p < 0.01) 등 일부 조작에 민감하게 반응했으나, 모호 자극 위치에서의 천정효과, 공간학습 능력의 혼란, 낮은 재검사 신뢰도 및 프로토콜 표준화 부재 등 타당도·신뢰도 한계가 커 임상적 현장 측정 도구로 사용하려면 표준화와 다중 방법 검증이 필요하다고 결론지었다.",
+      "detailed_summary": "체계적 검토는 PRISMA 2020 지침을 따랐고 Scopus와 PubMed를 주 검색원으로, Web of Science Core Collection을 보완 검색으로 사용했다. 포함된 연구는 총 32편으로 실험 연구 15편, 관찰·준실험 13편, 방법론 연구 4편이며, 실험 연구들은 SYRCLE risk-of-bias 도구로 평가되었다. 연구들에서 다섯 가지 JBT 패러다임이 확인되었으나 28편(88%)이 동일한 공간 구별 과제를 사용했고 나머지 네 패러다임은 각각 한 편씩만 보고되었다. 주요 결과로는 옥시토신 투여 효과(d = 2.16)와 환경 풍부화(코 작업, p < 0.01)에 대한 민감성, 그리고 훈련 방법과 JBT 수행 간의 연관성(체벌·회피성 훈련 vs 보상 기반 훈련: Z = -2.38, p = 0.017)이 보고되었다. 그러나 타당도·신뢰도 문제(모호한 위치에서의 천정효과, 공간학습 능력의 교란, 낮은 재검사 신뢰도, 프로토콜 표준화 부재)가 광범위하게 관찰되었고, 독립적 복지 지표와의 수렴성도 부분적이었다. 저자들은 JBT가 일부 정서 조작과 복지·경험 요인에 반응성을 보이나, 현장용 반려견 복지 측정도구로 사용하려면 표준화된 프로토콜과 다중 방법 검증이 선행되어야 한다고 결론지었다.",
+      "title": "Assessing affective states in domestic dogs through judgment bias tasks: a systematic review of methods, influencing factors, and welfare applications.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-11-09T00:56:51.872Z",
+      "model": "gpt-5-mini"
+    },
+    "42998259": {
+      "brief_summary": "태국의 돼지, 소, 고양이 및 야생동물을 대상으로 소화기 기생충인 Cryptosporidium spp.와 Giardia duodenalis의 분자검출 및 분류를 통해 인수공통감염(zoonotic) 가능성을 평가한 연구이다. 돼지에서 Cryptosporidium PCR 양성률은 17.9% (12/67), Giardia는 돼지 6.0% (4/67)·고양이 2.5% (2/80)로 확인되었고, 소(0/61)와 야생동물(0/144)에서는 검출되지 않았다. 돼지에서는 잠재적 인수공통종인 Cryptosporidium scrofarum과 사람 감염 가능성이 있는 Giardia assemblage B 및 가축 관련 assemblage E가 확인되어 임상적으로 돼지가 인수공통 위험원이 될 수 있음을 시사한다.",
+      "detailed_summary": "연구는 nested PCR 및 염기서열 분석을 사용하여 Cryptosporidium은 small subunit ribosomal RNA (ssu rRNA) 유전자를, Giardia duodenalis는 ssu rRNA와 β-giardin (bg), glutamate dehydrogenase (gdh), triosephosphate isomerase (tpi) 유전자를 표적화해 분자적으로 검출·특성화했다. 표본은 돼지 67건, 소 61건, 고양이 80건, 야생동물 144건으로 구성되었다. 결과적으로 Cryptosporidium PCR 양성은 돼지에서 12/67 (17.9%)였고, Giardia는 돼지 4/67 (6.0%)·고양이 2/80 (2.5%)에서 검출되었다; 소와 야생동물에서는 두 기생충 모두 검출되지 않았다. 단일 Cryptosporidium 종으로는 C. scrofarum만 확인되었고, Giardia-positive 돼지 샘플 네 건에서는 assemblage B와 E가 각각 두 건씩, 한 건에서는 C. scrofarum과 assemblage E의 동시감염이 관찰되었다. 고양이 샘플 두 건에서는 고양이 연관 assemblage F가 확인되었다. 결론적으로 잠재적 인수공통종인 C. scrofarum과 인수공통 가능성이 있는 G. duodenalis assemblage B가 돼지에서 검출되었으며, 연구 결과는 조사된 샘플에 한정된 역사적(샘플별) 분자자료임을 명시한다.",
+      "title": "Molecular Detection and Characterization of Cryptosporidium spp. and Giardia duodenalis in Domestic Animals and Wildlife in Thailand With a Focus on Zoonotic Potential.",
+      "journal": "Veterinary Medicine and Science",
+      "generated_at": "2026-11-09T00:56:31.896Z",
+      "model": "gpt-5-mini"
+    },
+    "42998261": {
+      "brief_summary": "6세 중성화 수컷 미니어처 핀셔에서 조절이 불량한 당뇨병으로 인해 만성 재발성 패혈성 복막염이 발생해 평가되었다. 4회의 임상 에피소드에서 복강액과 장간막(omentum) 조직에서 Staphylococcus pseudintermedius가 순수배양으로 반복 분리되고 항균제 감수성 프로파일이 일관되어 균주 지속을 시사하였다. 조직병리에서는 세균 군집을 둘러싼 Splendore-Hoeppli 소견이 있는 심한 화농육아종성 복막염(세균성 유사 균종)이 관찰되었고, 여러 차례 수술 및 전신 항균제 치료와 정맥(IV) 및 복강내(IP) 메로페넴 병용 국소투여에도 감염이 재발하여 안락사로 이어졌다. 저자들은 본 증례를 바이오필름 관련 만성 감염과 면역복합체 침착 및 내분비 질환이 복합된 사례로 보고, 국소 항균제 투여를 구제적 전략으로 고려할 수 있음을 제시한다.",
+      "detailed_summary": "단증례 보고로, 6세 중성화 수컷 미니어처 핀셔가 조절 불량 당뇨병을 배경으로 반복적인 복강 삼출, 무기력·식욕부진으로 내원하여 만성 재발성 패혈성 복막염으로 평가되었다. 총 4회의 별개 임상 에피소드에서 복강액과 장간막 조직에서 Staphylococcus pseudintermedius가 순수배양으로 반복 분리되었고, 제출 간 항균제 감수성 양상이 일관되어 재감염보다는 동일 균주 지속성을 시사하였다. 장간막 생검의 조직병리에서는 세균 군집을 둘러싼 뚜렷한 Splendore-Hoeppli 물질과 함께 심한 만성 화농육아종성 복막염 소견이 관찰되어 세균성 유사 균종(bacterial pseudomycetoma)을 시사하였다. 치료로는 2회의 탐색적 개복술과 광범위 복강 세척, 폐쇄형 흡인 배액, 광범위 전신 항균제 투여가 이루어졌고, 이후 구제적(세이브리지) 방안으로 초음파 유도 복강 카테터를 통한 정맥(IV) 및 복강내(IP) 병용 메로페넴 투여가 시도되었다. 그럼에도 감염은 재발하였고 결국 안락사로 종료되었다. 저자들은 본 증례가 바이오필름 관련 만성 감염과 면역복합체 침착 및 동반된 내분비 질환이 복합된 양상과 일치한다고 해석하며, 근원적 배출(source control)과 전신 치료만으로 불충분할 때 국소(지역) 항균제 전달을 구제 전략으로 고려할 수 있음을 제안한다. 단, 본 자료는 단일 증례보고이므로 일반화는 불가하다.",
+      "title": "Chronic Recurrent Septic Peritonitis in a Diabetic Dog Caused by Staphylococcus pseudintermedius With Splendore-Hoeppli Reaction (Botryomycosis-Like/Bacterial Pseudomycetoma).",
+      "journal": "Veterinary Medicine and Science",
+      "generated_at": "2026-11-09T00:56:11.483Z",
       "model": "gpt-5-mini"
     }
   }

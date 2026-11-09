@@ -1,6 +1,77 @@
 {
-  "updated_at": "2026-11-08T00:38:19.768Z",
+  "updated_at": "2026-11-09T00:55:47.764Z",
   "papers": [
+    {
+      "pmid": "42998261",
+      "title": "Chronic Recurrent Septic Peritonitis in a Diabetic Dog Caused by Staphylococcus pseudintermedius With Splendore-Hoeppli Reaction (Botryomycosis-Like/Bacterial Pseudomycetoma).",
+      "journal": "Veterinary Medicine and Science",
+      "authors": "Taylor D, Granger KL, Cohen A",
+      "date": "2026 11 07",
+      "dateObject": "2026 11 07",
+      "abstract": "A 6-year-old neutered male Miniature Pinscher with poorly regulated diabetes mellitus was evaluated for recurrent abdominal effusion, lethargy and inappetence secondary to chronic septic peritonitis. Across four discrete clinical episodes, Staphylococcus pseudintermedius was repeatedly isolated in pure culture from peritoneal fluid and omental tissue, with consistent antimicrobial susceptibility profiles across submissions, a pattern suggestive of strain persistence rather than serial reinfection. Histopathology of omental biopsies demonstrated severe, chronic pyogranulomatous peritonitis with prominent Splendore-Hoeppli material surrounding bacterial colonies, consistent with bacterial pseudomycetoma. Despite two exploratory laparotomies with extensive abdominal lavage, closed-suction peritoneal drainage, broad-spectrum systemic antimicrobial therapy, and a subsequent salvage protocol of combined intravenous and intraperitoneal meropenem administered via an ultrasound-guided peritoneal catheter, infection ultimately recurred and the dog was humanely euthanized. The case is consistent with biofilm-associated chronic infection compounded by immune-complex deposition and concurrent endocrine disease, and supports consideration of regional antimicrobial delivery as a salvage strategy in refractory septic peritonitis when source control and systemic therapy alone prove insufficient.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42998259",
+      "title": "Molecular Detection and Characterization of Cryptosporidium spp. and Giardia duodenalis in Domestic Animals and Wildlife in Thailand With a Focus on Zoonotic Potential.",
+      "journal": "Veterinary Medicine and Science",
+      "authors": "Udonsom R, Nishikawa Y, Mahittikorn A, Prasertbun R, Mori H, Ngaosuwankul N, Pintong AR, Jirapattharasate C, Stensvold CR, Popruk S",
+      "date": "2026 11 07",
+      "dateObject": "2026 11 07",
+      "abstract": "Cryptosporidium spp. and Giardia duodenalis are important parasitic protozoa infecting humans and a wide range of animal species. Some species and assemblages have zoonotic potential and pose health risks to both humans and animals. This study aimed to molecularly detect and characterize Cryptosporidium spp. and G. duodenalis and assess their zoonotic potential in pigs, cattle, cats and wildlife. Nested PCR and sequence analyses of the small subunit ribosomal RNA (ssu rRNA) gene for Cryptosporidium spp. and ssu rRNA, &#x3b2;-giardin (bg), glutamate dehydrogenase (gdh) and triosephosphate isomerase (tpi) genes for G. duodenalis were used for molecular detection and characterization. The PCR positivity rate for Cryptosporidium was 17.9% (12/67) in pigs, whereas the corresponding rates for G. duodenalis were 6.0% (4/67) in pigs and 2.5% (2/80) in cats. Neither parasite was detected in cattle (0/61) or wildlife (0/144). Cryptosporidium scrofarum, a potentially zoonotic species, was the only Cryptosporidium species identified. Among the four Giardia-positive pig samples, assemblages B and E were each identified in two samples. Co-infection with C. scrofarum and assemblage E was detected in one pig. Feline-associated assemblage F was identified in two cat samples. Potentially zoonotic C. scrofarum and zoonotic G. duodenalis assemblage B were detected in pigs, together with livestock-associated assemblage E. Feline-associated assemblage F was identified in cats. These findings provide historical, sample-specific molecular data on the animals examined.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42997318",
+      "title": "Assessing affective states in domestic dogs through judgment bias tasks: a systematic review of methods, influencing factors, and welfare applications.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Gazzano V, Ciurli L, Curadi MC, Baragli P, Gazzano A, Ogi A",
+      "date": "2026 11 07",
+      "dateObject": "2026 11 07",
+      "abstract": "Judgment bias tasks (JBTs) have emerged as a promising approach for assessing affective states in animals, including domestic dogs, by measuring optimistic or pessimistic responses to ambiguous stimuli as proxies for underlying emotion. Despite growing use, the canine evidence base had not been systematically evaluated. We conducted a systematic review following PRISMA 2020 guidelines, searching Scopus and PubMed, with a supplementary search of Web of Science Core Collection. Thirty-two studies (15 experimental, 13 observational/quasi-experimental, 4 methodological) met the inclusion criteria. Experimental studies were appraised with the SYRCLE risk-of-bias tool. Findings were synthesized narratively, as methodological heterogeneity precluded meta-analysis. Five paradigm types were identified, but 28 of the 32 studies (88%) used the same spatial discrimination task; the four remaining paradigms were represented by one study each. JBTs showed sensitivity to some experimental manipulations, including oxytocin ( d &#x202f;=&#x202f;2.16) and environmental enrichment (nosework, p &#x202f;<&#x202f;0.01), while observational and quasi-experimental studies also reported associations between training method and JBT performance (e.g., aversive versus reward-based training: Z &#x202f;=&#x202f;-2.38, p &#x202f;=&#x202f;0.017). However, validity and reliability concerns were pervasive: ceiling effects at ambiguous locations, confounding by spatial-learning ability, poor test-retest reliability, and absent protocol standardization. Convergence with independent welfare indicators was only partial. JBTs are responsive to some affective manipulations and are associated with relevant welfare and experiential factors, but substantial validity and reliability limitations remain. Standardized protocols and multi-method validation are needed before JBTs can serve as field measures of canine welfare.",
+      "categories": []
+    },
+    {
+      "pmid": "42997306",
+      "title": "Establishment of canine nasal carcinoma organoids for drug sensitivity testing and functional characterization of S100A2.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Yamamoto H, Elbadawy M, Abugomaa A, Tsunedomi R, Kaneda M, Usui T, Sasaki K",
+      "date": "2026 11 07",
+      "dateObject": "2026 11 07",
+      "abstract": "Canine nasal carcinoma (NC) is highly malignant and progressive, with metastasis. Radiation therapy is a common treatment; however, it has various drawbacks, including cost and anesthetic risks in elderly patients. Therefore, the development of alternative anti-cancer drug therapies has been required. In this study, we established an NC organoid culture method as an experimental model and explored more effective therapeutic targets. NC organoids were generated from patient-derived tissues from diseased dogs with NC. Electron microscopy of NC organoids revealed goblet cell differentiation with mucus granules and luminal structures. Immunohistochemical staining was positive for CK19, E-cadherin, and Ki67, and their expression patterns corresponded to those in the original tissues. Furthermore, NC organoids were tumorigenic in immunodeficient mice. We identified useful supplements for culturing NC organoids and found that each NC organoid line exhibited different sensitivities to anti-cancer drugs. RNA sequencing was performed using samples from healthy dogs and NC organoids. Pathways related to MYC targets, oxidative phosphorylation, and protein secretion were enriched in NC organoids compared with normal nasal cells. Among the differentially expressed genes, S100A2 was selected for further functional investigation based on its increased expression and previously reported involvement in cancer-related processes. S100A2 knockdown reduced cell proliferation and invasiveness, supporting a functional contribution of S100A2 to malignant phenotypes in canine NC. These findings establish canine NC organoids as an experimental platform for investigating canine NC biology and provide a basis for future comparative studies.",
+      "categories": [
+        "oncology"
+      ]
+    },
+    {
+      "pmid": "42997290",
+      "title": "Whippets have larger abdominal caudal vena cava to aorta ratios than other dogs on computed tomography.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Esmieu SL, Ma MH, Mantis P, Biondo S, Constantinescu R, Furtado ARR",
+      "date": "2026 11 07",
+      "dateObject": "2026 11 07",
+      "abstract": "Whippets are sighthounds with distinct cardiovascular adaptations associated with athletic performance. The caudal vena cava to aorta ratio (CVC/Ao) is an established index of intravascular volume status, assessed ultrasonographically and on computed tomography (CT) at thoracic and abdominal sites, but breed-specific differences remain unreported. We compared thoracic and abdominal CVC/Ao in whippets and non-whippet controls, and with published reference values, and hypothesised that whippets would have higher ratios. Sixty-eight dogs without known cardiovascular disease (34 whippets, 34 non-whippet controls) were retrospectively reviewed. CTs were performed under general anaesthesia, with CVC/Ao measured at standardised abdominal and thoracic sites. Groups were compared with Welch's two-sample t -tests, sites within animals with paired t-tests, and analysis of covariance adjusted for weight and age. Significance was set at p < 0.05. Whippets had significantly higher abdominal CVC/Ao than controls (1.54 &#xb1; 0.29 vs. 1.28 &#xb1; 0.23; p < 0.001), whereas thoracic ratios did not differ (1.22 &#xb1; 0.23 vs. 1.28 &#xb1; 0.26; p = 0.29). The abdominal difference persisted after adjustment for weight and age (adjusted difference 0.29, 95% CI 0.15-0.42; p < 0.001). Within whippets, abdominal ratios exceeded thoracic ratios ( p < 0.001), a difference not seen in controls ( p = 0.99). The thoracic ratio declined with age independently of breed and weight (-0.023 per year; p = 0.002). Both groups exceeded published CT values at both sites, and a greater proportion of whippets than controls exceeded the ultrasonographic upper limit (73.5% vs. 41.2%; p = 0.007). Observed mean &#xb1; 2 SD limits were 0.96-2.13 (abdomen, whippets), 0.82-1.75 (abdomen, controls) and 0.76-1.74 (thorax, combined); these are cohort observations rather than breed-specific reference ranges. Whippets had larger abdominal CVC/Ao than controls, with comparable thoracic ratios, indicating a site-specific increase not attributable to body size or age. Because both groups exceeded published values, reference values are not transferable across imaging modality irrespective of breed or anaesthetic status. Modality-, breed- and possibly age-specific ranges are needed, and we provide preliminary limits as a starting point.",
+      "categories": [
+        "cardiology"
+      ]
+    },
+    {
+      "pmid": "42996192",
+      "title": "Effects of rifaximin on the fecal microbiota of healthy dogs: a pilot study.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Harada H, Tamura M, Kawabata M, Sakatani A, Deguchi T, Fukuda A, Usui M, Ohta H",
+      "date": "2026 11 07",
+      "dateObject": "2026 11 07",
+      "abstract": "Rifaximin is a poorly absorbed antibiotic that is used for the treatment of hepatic encephalopathy in humans. However, it is important to evaluate the effects of antibiotics on the gut microbiota because antibiotics may alter gut microbial composition. This study aimed to investigate the effects of 28&#x202f;days rifaximin administration on the gut microbiota of healthy dogs. Five healthy dogs were administered rifaximin (25&#x202f;mg/kg q12h) for 28&#x202f;days. Fecal samples were collected from the rectum on day 0 (before rifaximin administration), day 14, and day 28. Fecal microbiota composition and diversity were evaluated by 16S rRNA gene sequencing targeting the V3-V4 region at three time points. No adverse effects, including gastrointestinal symptoms, were observed during the administration. Firmicutes was the most abundant phylum at all time points, while Fusobacteriota, Bacteroidota, and Actinobacteriota were also major phyla. No significant changes were observed in alpha diversity metrics, including amplicon sequence variants ( p &#x202f;=&#x202f;0.449), Chao1 ( p &#x202f;=&#x202f;0.241), and the Shannon index ( p &#x202f;=&#x202f;0.248), and beta diversity metrics, including weighted UniFrac distances ( p &#x202f;=&#x202f;0.471), unweighted UniFrac distances ( p &#x202f;=&#x202f;0.157), and Bray-Curtis dissimilarities ( p &#x202f;=&#x202f;0.089). No statistically significant changes in fecal microbiota alpha or beta diversity were detected following 28&#x202f;days of rifaximin administration. Given the small sample size and lack of an untreated control group, these findings should be interpreted as preliminary and do not provide evidence to guide clinical use of rifaximin in dogs.",
+      "categories": [
+        "internalMedicine",
+        "neurology"
+      ]
+    },
     {
       "pmid": "42993774",
       "title": "Blood serotonin, ionized magnesium, cardiac troponin I, N-terminal pro-brain natriuretic peptide concentrations, and mitral valve billowing in horses with mitral valve regurgitation.",
@@ -148,6 +219,20 @@
       "abstract": "Bacterial skin infections are among the most prevalent health concerns in companion animals and represent a primary driver for antimicrobial prescriptions within veterinary practices. The widespread use of empirical broad-spectrum antibiotic prescribing has contributed to the emergence of antimicrobial-resistant pathogens, including Staphylococcus pseudintermedius and Pseudomonas aeruginosa in veterinary dermatology. This resistance complicates treatment outcomes and raises broader public health concerns under the One Health framework. Consequently, there is a growing need for alternative antimicrobial strategies that can reduce the reliance on conventional antibiotics. Propolis, a resinous substance produced by bees, has gained attention as a potential candidate due to its wide range of biological activities including antimicrobial, anti-inflammatory and wound healing. This structured narrative review evaluates the current evidence for propolis in the treatment of dermatologic infections in companion animals. The available evidence demonstrates that propolis exhibits antimicrobial activity against key veterinary dermatologic pathogens including Staphylococcus spp., Pseudomonas aeruginosa , Malassezia pachydermatis and dermatophytes. However, this evidence is primarily based on in vitro studies with very limited clinical data. While clinical studies have examined propolis in other veterinary dermatologic applications, no clinical trials to date have specifically investigated its use in the treatment of canine pyoderma, a common and frequently recurring skin infection in canine practice. Recommendations for future research include controlled clinical trials evaluating propolis for the treatment of companion animal skin infections as an adjunct to, or potential alternative for, conventional antibiotics, the development of standardization protocols due to the chemically heterogeneous nature of propolis and refinement of delivery systems. Overall, these findings support the promising potential of propolis as a treatment for skin infections in companion animals.",
       "categories": [
         "internalMedicine",
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42995349",
+      "title": "Squamous cell carcinoma involving the anal sac region in a cat: clinical course and multimodal management with toceranib and electrochemotherapy.",
+      "journal": "Veterinary Research Communications",
+      "authors": "C P, D F, I L, M A C, A DB, S C",
+      "date": "2026 11 06",
+      "dateObject": "2026 11 06",
+      "abstract": "Squamous cell carcinoma (SCC) is one of the most common malignant epithelial tumours in cats, typically arising in the oral cavity or at cutaneous sites, whereas involvement of the anal sac region is exceptionally rare, with only two cases previously reported. An 8-year-old neutered male Domestic Shorthair cat was referred for persistent tenesmus, constipation and anorexia. A perianal swelling had initially been interpreted as anal sacculitis on cytology, but incisional biopsies confirmed SCC, characterised histologically by only moderate atypia and a low mitotic count. Contrast-enhanced computed tomography revealed a non-circumferential mass centred on the left anal sac region with infiltration of the perirectal soft tissues causing partial rectal obstruction, together with regional lymphadenomegaly; nodal metastasis was confirmed cytologically. Surgery and radiation therapy were declined, and palliative treatment with toceranib phosphate and meloxicam was started. After approximately one month of clinically stable disease, one session of electrochemotherapy with intravenous bleomycin was performed. Clinical signs transiently improved, but rapid progression occurred shortly thereafter, with invasion of the pelvic urethra. The cat died 68 days after diagnosis. Despite reassuring histological features, the tumour showed aggressive local behaviour and early regional metastasis. Toceranib was associated with transient clinical improvement and electrochemotherapy produced only short-lived improvement, likely because the lesion's extent and depth precluded complete treatment of the tumour volume. This case documents aggressive behaviour in an SCC involving the anal sac region and supports considering SCC in cats with persistent perianal swelling, tenesmus or defecatory difficulty unresponsive to medical treatment.",
+      "categories": [
+        "oncology",
+        "surgery",
         "dermatology"
       ]
     },
@@ -669,20 +754,6 @@
       ]
     },
     {
-      "pmid": "42964095",
-      "title": "Case Report: 18 F-FDG PET/CT findings and SUVmax characterization in a dog with apocrine gland anal sac adenocarcinoma.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Shim B, Kim Y, Lee S",
-      "date": "2026 10 31",
-      "dateObject": "2026 10 31",
-      "abstract": "Apocrine gland anal sac adenocarcinoma (AGASACA) is a malignant epithelial tumor in dogs that commonly metastasizes to regional lymph nodes. Although 18 F-fluorodeoxyglucose ( 18 F-FDG) positron emission tomography/computed tomography (PET/CT) has been mentioned as a staging modality for this tumor, detailed imaging findings and maximum standardized uptake values (SUVmax) have not previously been reported. A 10-year-old castrated male Maltese was referred for a right anal sac mass and suspected lymph node metastasis. Preoperative 18 F-FDG PET/CT revealed increased uptake in the primary mass (SUVmax 7.3), the internal iliac lymph node (SUVmax 6.35), and the lumbar aortic lymph node (SUVmax 4.3), with no evidence of distant metastasis. Therefore, the dog was therefore classified as Stage IIIa. Based on these findings, intra-abdominal lymphadenectomy and right anal sacculectomy were performed. Histopathology confirmed AGASACA in the primary mass and morphologically similar metastatic adenocarcinoma in the resected lymph nodes. To our knowledge, this is the first report of 18 F-FDG PET/CT findings and SUVmax values in a dog with AGASACA and histologically confirmed lymph node metastases. These findings suggest that PET/CT may provide complementary metabolic information for preoperative nodal staging.",
-      "categories": [
-        "cardiology",
-        "oncology",
-        "surgery"
-      ]
-    },
-    {
       "pmid": "42965615",
       "title": "Sarcocystis sp. infection associated to encephalomyelitis and myositis in a Brazilian dog.",
       "journal": "Veterinary Research Communications",
@@ -936,29 +1007,6 @@
       ]
     },
     {
-      "pmid": "42959708",
-      "title": "A clinical case series evaluation of cross-linked gelatin foam to treat naturally occurring periodontal pockets and furcation defects in dogs.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Stepaniuk KS, Sievers AM, Lalonde AA",
-      "date": "2026 10 30",
-      "dateObject": "2026 10 30",
-      "abstract": "This clinical case series evaluated periodontal debridement and the application of a biodegradable liquid scaffold composed of a porcine-derived crosslinked gelatin foam for the treatment of naturally occurring furcation defects and combined suprabony and infrabony defects in client-owned dogs. A total of 21 treated sites in 9 client-owned dogs were evaluated. Periodontal probing, intraoral computed radiography (CR), and cone beam computed tomography (CBCT) under general anesthesia were performed. Full-mouth periodontal treatment and closed (13 sites) or open (8 sites) root planing were performed before the application of the flowable scaffold. The mean duration between treatment and recheck was 169 days (with a range of 101-388 days and a median of 167 days). The mean decrease in periodontal pocket depth was 1.9 mm. The mean furcation stage decreased by 1.4, and the treated tooth periodontal stage was reduced by a mean of 0.8.",
-      "categories": []
-    },
-    {
-      "pmid": "42959543",
-      "title": "Clinical outcome and implant accuracy in cervical fractures stabilization using 3D-printed patient-specific drill guides for placement of bicortical screws in 16 dogs.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Manzanedo-Delgado A, Oxley B, Behr S",
-      "date": "2026 10 30",
-      "dateObject": "2026 10 30",
-      "abstract": "To describe the clinical outcome of dogs with cervical fractures undergoing spinal stabilization surgery using 3D-printed patient-specific drill guides, and to evaluate the accuracy of pedicle screw placement with this technique. Retrospective descriptive study. Sixteen dogs. Medical records were searched between August 2015 and January 2025 for dogs with traumatic spinal fracture via CT scan causing signs of cervical myelopathy that underwent spinal stabilization surgery using 3D-printed patient-specific drill guides followed by a postoperative CT scan. Neurological status was graded retrospectively with the Modified Frankel Score (MFS) on presentation, preoperatory on the day of the surgery, postoperatively on the first day after surgery, at hospital discharge and at the follow-up examination performed 4&#x2013;6&#x202f;weeks after surgery, when available. A telephone questionnaire was obtained for the long-term outcome. Sixteen dogs met the inclusion criteria (3/16 grade 2 MFS, 5/16 grade 3 MFS, 7/16 grade 4 MFS and 1/16 grade 5 MFS). Two dogs showed mild minor transient intraoperative complications. Optimal pedicle screw placement was achieved in 85/90 (94.4%) of screws. Twenty-four hours after surgery, the neurological grade remained unchanged in 10/16 dogs, improved in 5/16, and transiently deteriorated in 1/16 dog, which recovered by discharge. Postoperative complications occurred in 10/16 dogs and resolved with medical management in 9/10 cases. Short term follow-up revealed a static stable (6/14) or improved (8/14) neurological grade since discharge. Among the 12 dogs with owner-reported long-term follow-up, all were reported by their owners to be ambulatory and to have improved neurologically. Long-term quality-of-life (5&#x202f;=&#x202f;excellent; 1&#x202f;=&#x202f;poor) was scored by the owners 5/5 in 11/12 (91.7%) dogs and 4/5 in 1/12 (8.3%) dogs. Dogs in this study overall had an improved neurological status and favorable long-term outcomes when follow-up information was available. However, postoperative adverse events, including complications, should be considered when interpreting overall clinical outcome.",
-      "categories": [
-        "surgery",
-        "neurology"
-      ]
-    },
-    {
       "pmid": "42599030",
       "title": "Myocardial injury in cats with acute blunt trauma: Prevalence and prognostic implications.",
       "journal": "Journal of Feline Medicine and Surgery",
@@ -1045,19 +1093,6 @@
       "categories": [
         "cardiology",
         "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42952495",
-      "title": "Case Report: Presumptive subdural hemorrhage as a rare neurological manifestation of primary immune-mediated thrombocytopenia in a dog.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Hong HP, Kei TG, Gagnon NA, Scrivani PV",
-      "date": "2026 10 29",
-      "dateObject": "2026 10 29",
-      "abstract": "A 10-year-old female spayed mixed-breed dog was presented with a history of seizures and acute progressive intracranial signs. The neurological examination was consistent with multifocal brain disease. Clinical examination revealed ecchymoses, petechiae, and bilateral retinal hemorrhage. Clinicopathological evaluation identified severe thrombocytopenia [a platelet count of 9&#x202f;&#xd7;&#x202f;10 3 /&#x3bc;L without clumps on manual smear evaluation] with an increased mean platelet volume. Coagulation testing (activated partial thromboplastin time and prothrombin time) and fibrinolysis markers (D-dimers, quantitative fibrinogen), infectious disease screening, and thoracic and abdominal imaging were within normal limits, establishing a diagnosis of primary immune-mediated thrombocytopenia (ITP). Magnetic resonance imaging (MRI) of the brain showed minimally expanded, bilateral crescent-shaped, extra-axial fluid accumulations overlying both cerebral hemispheres. Based on T1-weighted and T2-weighted hyperintensities and peripheral susceptibility artifact on T2*-weighted gradient-recalled echo (GRE) imaging, a late subacute subdural intracranial hemorrhage was diagnosed. Despite initial uneventful anesthesia and recovery, the dog experienced acute neurological deterioration and suffered cardiopulmonary arrest, suspected due to ongoing hemorrhage or brain herniation. This report describes a rare neurological manifestation of primary ITP in a dog. While canine ITP generally carries a favorable prognosis, life-threatening secondary intracranial hemorrhage can occur. Primary ITP should be considered as a differential diagnosis for an acute, progressive neurological presentation until a normal platelet count is confirmed.",
-      "categories": [
-        "internalMedicine",
-        "neurology"
       ]
     },
     {
@@ -2363,16 +2398,6 @@
       ]
     },
     {
-      "pmid": "42804407",
-      "title": "Effects of Supplementing Semen Extenders With Spirulina platensis Extract on Post-Thaw Ram Sperm Quality.",
-      "journal": "Veterinary Medicine and Science",
-      "authors": "Jaberi K, Mousavi SM, Forouharmehr A",
-      "date": "2026 09 28",
-      "dateObject": "2026 09 28",
-      "abstract": "Supplementation of semen extender with natural antioxidants represents a promising strategy to mitigate cryopreservation-induced damage in ram spermatozoa. This study evaluated the dose-dependent effects of Spirulina platensis extract (0-70 &#xb5;g/mL) supplemented to Tris-based extenders on post-thaw sperm quality in Lori rams. Semen was collected twice weekly over a four-week period (eight replicates) from four mature rams using an artificial vagina. On each collection day, ejaculates meeting the acceptable criteria were pooled and extended in a Tris-based diluent containing 0, 10, 20, 30, 40, 50, 60, or 70 &#xb5;g/mL of Spirulina extract, designated as Spir-0 through Spir-70, respectively. All samples were equilibrated at 5&#xb0;C for 3 h, then cryopreserved in liquid nitrogen and subsequently thawed in a 37&#xb0;C water bath for 30&#xa0;s. Post-thaw sperm quality was comprehensively assessed for motility (using CASA), viability, plasma membrane integrity, acrosome morphology, mitochondrial membrane potential (&#x394;&#x3a8;m), DNA denaturation (via AO), and oxidative biomarkers, including malondialdehyde (MDA), hydrogen peroxide (H 2 O 2 ), and antioxidant enzyme activities (superoxide dismutase [SOD], catalase [CAT], and glutathione peroxidase [GPx]). Data were analysed using a completely randomised design with one-way ANOVA, followed by Tukey's HSD post-hoc test, with statistical significance set at P&#xa0;<&#xa0;0.05. Supplementation at the concentration of 50 &#xb5;g/mL Spirulina extract (Spir-50) yielded the highest post-thaw total (TM; 50.23%) and progressive motility (PM; 33.0%), as compared to the control (TM; 32.30%; PM; 18.8%). Moreover, this concentration significantly enhanced viability (59.16%), plasma membrane functionality (56.95%), and the proportion of spermatozoa exhibiting high mitochondrial membrane potential (hMMP; 54.5%). In addition, Spir-50 markedly increased glutathione peroxidase (GPx) activity (35.49 vs. 23.73 mU/mL in control) and superoxide dismutase (SOD) activity (213.07 vs. 190.74 U/mL in control), along with total antioxidant capacity (TAC; 4.53 &#xb5;mol/L vs. 3.34 &#xb5;mol/L in control). Conversely, this treatment substantially reduced malondialdehyde (MDA; 2.60 nmol/mL vs. 7.69 nmol/mL in control), DNA denaturation (2.87% vs. 6.67% in control), and hydrogen peroxide levels (H 2 O 2 ; 16.4% vs. 27.7% in control). Supplementation with the concentration of 50 &#xb5;g/mL Spirulina extract exhibited the most effective cryoprotective effects among the tested concentrations by improving sperm motility, viability, membrane and DNA integrity, mitochondrial function, and endogenous antioxidant defences, while attenuating lipid peroxidation and oxidative stress. These findings support the incorporation of Spirulina extract in Tris-based extenders to improve post-thaw ram sperm quality in ram semen cryopreservation protocols.",
-      "categories": []
-    },
-    {
       "pmid": "42785426",
       "title": "Successful management of nesidioblastosis in a dog with persistent hyperinsulinemic hypoglycemia following staged bilateral partial pancreatectomies.",
       "journal": "Topics in Companion Animal Medicine",
@@ -2405,18 +2430,6 @@
       "date": "2026 09 25",
       "dateObject": "2026 09 25",
       "abstract": "The zoonotic cestodes such as Taenia and Echinococcus species belonging to family taeniidae are of paramount importance in the developing world since they pose serious public health impacts. Dogs serve as definitive hosts, shedding eggs into the environment that can infect livestock and humans. To determine the occurrence of Taeniid infections in dogs, assess the risk factors and evaluate the knowledge, attitudes, and practices (KAP) of dog owners. A cross-sectional study was conducted from September 2025 to February 2026 in Bahir Dar and Gondar cities, Ethiopia. A total of 424 dog fecal samples were collected, and standard fecal flotation techniques were used to examine the eggs. Structured questionnaires were used to gather information on host, management, and owner-related factors. Data were analyzed using chi-square tests and logistic regression in Stata 17, with P&#x2009;<&#x2009;0.05 considered significant. The overall prevalence of taeniid infections was 29.5%, with dogs showing clinical signs such as diarrhea and proglottids in the feces having the highest infection rates (81.1%). Chi-square analysis revealed significant associations with age, sex, clinical signs, roaming behavior, feeding patterns, and owner knowledge. Multivariate analysis confirmed that old age (AOR&#x2009;=&#x2009;2.8, P&#x2009;=&#x2009;0.024), female sex (AOR&#x2009;=&#x2009;0.43, P&#x2009;=&#x2009;0.007), clinical signs (AOR&#x2009;=&#x2009;25.9, P&#x2009;=&#x2009;0.001), free-roaming behavior (AOR&#x2009;=&#x2009;0.05, P&#x2009;=&#x2009;0.001), and inadequate owner knowledge (AOR&#x2009;=&#x2009;0.38, P&#x2009;=&#x2009;0.029) as independent risk factors. The study found that taeniid infections were common in dogs in Bahir Dar and Gondar. The main predictors were age, sex, clinical symptoms, free-roaming behavior, and a lack of owner knowledge. To lower the risk of taeniid infection in the study areas, integrated control measures like routine deworming; responsible dog management, public education, and appropriate offal disposal were suggested.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42785969",
-      "title": "An Updated Checklist and Narrative Review of Helminth Parasites of Terrestrial and Semiaquatic Carnivorous Mammals in Uzbekistan.",
-      "journal": "Veterinary Medicine and Science",
-      "authors": "Safarov A, Okkiyev S, Ionic&#x103; AM, Said MB",
-      "date": "2026 09 24",
-      "dateObject": "2026 09 24",
-      "abstract": "Helminth parasites are critical components of biodiversity and influence the health of both wild and domestic carnivorous mammals. Despite their ecological and public health importance, comprehensive data on helminth diversity in Uzbekistan remain fragmented. This study delivers a thorough and updated synthesis of helminth parasites infecting 15 species of terrestrial and semi-aquatic carnivorous mammals in Uzbekistan. This study was designed as an updated checklist and narrative review rather than a formal systematic review or meta-analysis. A total of 120 documents published between 1926 and 2024 were reviewed, including 61 journal articles, 54 national conference abstracts and 5 PhD theses written in Russian, Uzbek and English. Data were obtained from PubMed, ResearchGate, Google Scholar and local archival sources. Parasite and host nomenclatures were updated using internationally recognized taxonomic databases and recent parasitological references. The review identified 74 helminth species, including 9 trematodes, 24 cestodes, 5 acanthocephalans and 36 nematodes, recorded from 15 carnivorous mammal species belonging to the families Canidae, Felidae and Mustelidae. Among these parasites, 37 species (50.0%) were retained as having zoonotic relevance after reassessment, although their public health importance varies from well-established zoonoses to occasional or accidental human infections. Research efforts were strongly biased toward domestic dogs, jackals and foxes, while several host taxa and geographic regions remain poorly investigated. This review highlights the rich but unevenly documented helminth diversity of carnivorous mammals in Uzbekistan and provides a taxonomically updated baseline for future regional studies. Persistent gaps in host coverage, geographic sampling, molecular identification and zoonotic risk assessment limit current understanding. Future research should prioritize representative sampling, inclusion of poorly studied carnivore taxa, molecular and non-invasive diagnostic approaches and integrated One Health surveillance to better assess parasite biodiversity, wildlife health and public health risks in Uzbekistan and Central Asia.",
       "categories": [
         "internalMedicine"
       ]
@@ -2541,19 +2554,6 @@
       "dateObject": "2026 09 11",
       "abstract": "The dromedary camel (Camelus dromedarius) possesses remarkable physiological adaptations to withstand harsh desert conditions, including heat stress and drought. This study aimed to evaluate the effects of heat and cold stress on oxidative stress biomarkers, hormones, lipid, and mineral concentrations in dromedary camels. A total of 45 apparently healthy adult male dromedary camels were included in the study. Blood samples were collected, plasma and serum were separated for the determination of oxidative stress biomarkers, hormones, metabolic, and trace mineral parameters. During heat stress, cortisol, zinc, and copper concentrations increased significantly (p&#x2009;<&#x2009;0.05), whereas total antioxidant capacity (TAC), triiodothyronine (T3), glucose, and triglyceride concentrations decreased significantly (p&#x2009;<&#x2009;0.05). In contrast, cold stress was associated with significant (p&#x2009;<&#x2009;0.05) increases in catalase (CAT), malondialdehyde (MDA), T3, glucose, and cortisol concentrations, while TAC, triglycerides, and copper concentrations decreased significantly (p&#x2009;<&#x2009;0.05). Strong positive (p&#x2009;<&#x2009;0.01) correlation between T3 and thyroxine (T4), whereas a strong negative (p&#x2009;<&#x2009;0.01) correlation was observed between zinc and cholesterol. Positive (p&#x2009;<&#x2009;0.05) correlations were also detected between glucose and MDA, cortisol and CAT, and copper and TAC. Conversely, negative (p&#x2009;<&#x2009;0.05) correlations were found between triglycerides and CAT, triglycerides and T4, triglycerides and cortisol, zinc and triglycerides, cholesterol and glucose, and copper and MDA. During summer, positive correlations were observed between glucose and MDA, T3 and T4, as well as between cholesterol and both T3 and T4. In contrast, glucose showed negative correlations with both T3 and T4, while zinc was negatively correlated with copper. During autumn, positive correlations were detected between CAT and TAC, T3 and T4, and glucose and zinc. Conversely, negative correlations were observed between triglycerides and TAC, cortisol and T4, glucose and cholesterol, and zinc and cholesterol. During winter, T3 was positively correlated with zinc but negatively correlated with TAC. Cold stress exerted a more pronounced effect on oxidative balance and metabolic activity in dromedary camels than heat stress. Regular monitoring of these parameters is recommended for the early detection of physiological disturbances during the cold season.",
       "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42726409",
-      "title": "Acute hemodynamic and echocardiographic responses to pimobendan versus levosimendan in a dog with decompensated dilated cardiomyopathy.",
-      "journal": "Veterinary Research Communications",
-      "authors": "Varlik T, Algan D, Polat EN, Sa&#x11f; S, Tanaka R, Yilmaz Z",
-      "date": "2026 09 11",
-      "dateObject": "2026 09 11",
-      "abstract": "Dilated cardiomyopathy (DCM) is a major cause of systolic heart failure in dogs, characterized by ventricular dilation and reduced contractility. During acute decompensation, rapid inodilator therapy is essential to stabilize hemodynamics. This case describes serial changes in non-invasive blood pressure and left ventricular systolic function observed during sequential administration of two inodilator agents via different routes on consecutive days. An Anatolian shepherd dog was presented with acute respiratory distress. Echocardiography revealed severe left ventricular dilation and systolic dysfunction, and DCM was diagnosed using established criteria. Because oral therapy was initially not tolerated, intravenous pimobendan was administered, producing a rapid but transient improvement in systolic indices and global longitudinal strain (GLS). After transition to oral pimobendan the following day, systolic function improved mildly, while GLS remained markedly reduced. Levosimendan was subsequently administered as an intravenous bolus, resulting in only minimal improvement in systolic parameters and GLS. A continuous infusion was then initiated; however, systolic measurements remained largely unchanged during infusion. Serial echocardiographic assessment, particularly GLS, documented temporal changes in myocardial function during sequential inodilator therapy. These findings represent descriptive clinical observations from the management of a single patient and should not be interpreted as evidence of comparative efficacy or superiority of one inodilator over another. Because atrial fibrillation and temporal variation in heart rate may have influenced echocardiographic measurements throughout the monitoring period, the findings should be interpreted within the methodological limitations of this sequential single-case report.",
-      "categories": [
-        "cardiology",
         "internalMedicine"
       ]
     },
