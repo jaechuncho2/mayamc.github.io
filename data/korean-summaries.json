@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T00:58:03.188Z",
+  "updated_at": "2026-11-10T03:35:53.675Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -3681,6 +3681,14 @@
       "generated_at": "2026-08-11T23:26:36.577Z",
       "model": "gpt-5-mini"
     },
+    "42575716": {
+      "brief_summary": "본 연구는 개 혈관내피성 악성종양인 hemangiosarcoma(HSA)에서 LDH(lactate dehydrogenase) 억제가 세포 증식과 히스톤 락틸화 감소를 유도하고, 세포주에 따라 콜레스테롤/지질 대사 관련 유전자(SREBF2, SQLE, LDLR) 발현에 차등적인 영향을 미친다는 것을 보고한다. LDHA·LDHB 유전자 결손은 SREBP2 발현 감소와 지질 소포 수 감소를 초래했다. 플루바스타틴은 in vitro에서 HSA 세포 성장을 억제했으나 두 환자 유래 이종이식(PDX) 모델에서는 단독 치료로는 유의한 억제가 없었고, 플루바스타틴과 디피리다몰 병용은 in vitro와 PDX에서 종양 성장을 억제해 콜레스테롤 경로 병용 억제의 추가 평가 근거를 제시한다.",
+      "detailed_summary": "연구진은 개 HSA 세포주 HU-HSA-2 및 HU-HSA-3에서 LDH 억제제 ((R)-GNE-140, sodium oxamate)를 사용하고 HU-HSA-3에서 LDHA 또는 LDHB 유전자 결손 클론을 생성해 LDH 교란의 효과를 평가했다. (R)-GNE-140과 sodium oxamate는 두 세포주에서 세포 증식을 억제하고 전반적인 히스톤 락틸화 수준을 감소시켰다. mRNA 시퀀싱 분석에서 (R)-GNE-140 처리된 HU-HSA-2에서는 콜레스테롤/지질 대사 관련 유전자군이 하향 풍부화되었으나, 유전자별 반응은 세포주와 억제제에 따라 달랐다(SREBF2, SQLE, LDLR 등). HU-HSA-3의 LDHA·LDHB 결손 클론은 SREBP2 발현 감소와 지질 소포 수 감소를 보였다. 플루바스타틴은 in vitro에서 세포 성장을 억제했으나 두 개의 HSA PDX 모델에서는 단독으로는 유의한 종양 억제가 관찰되지 않았다. 반면 플루바스타틴과 디피리다몰 병용은 in vitro에서 증식을 억제하고 PDX 모델에서 종양 성장을 억제해, LDH와 콜레스테롤/지질 대사 간의 맥락 의존적 연관성을 시사하며 콜레스테롤 경로 병용 억제의 추가 평가 근거를 제공한다.",
+      "title": "Fluvastatin Plus Dipyridamole Suppresses Canine Hemangiosarcoma Growth in Patient-Derived Xenograft Models Through Lactate Dehydrogenase-Associated Cholesterol/Lipid Metabolism.",
+      "journal": "Veterinary and Comparative Oncology",
+      "generated_at": "2026-11-10T03:35:53.650Z",
+      "model": "gpt-5-mini"
+    },
     "42577139": {
       "brief_summary": "La Brea Tar Pits의 매머드군집에서 보존된 매머드 검치호랑이(Smilodon fatalis) 표본을 대상으로 척추 병변을 조사한 고병리학 연구로, 세 개의 척추 표본에서 추간공 확장(foraminal widening)이 관찰되어 척추 신경종양(Spinal nerve tumor, SNT)이 의심되었다. 연구진은 골격 표본 기준으로 100,000마리당 353이라는 유병률 유사 추정치를 제시했으며, 이는 사람의 보고된 임상 발생률(0.22–0.38/100,000)보다 높아 보이나 화석 표본의 표집 및 부패과정(taphonomic) 편향 때문에 직접 비교할 수 없다고 명시했다. 저자들은 원인이 불분명하나 인간에서 SNT의 다수는 유전적 변이와 연관되므로, 멸종 직전의 근친교배 가능성이 이 사례에 기여했을 수 있음을 신중하게 제시했다.",
       "detailed_summary": "연구는 Rancho La Brea에서 출토된 대량의 Smilodon fatalis 골격을 대상으로 고병리학적 표본 조사를 수행하였으며, 동시대의 dire wolf와 현생 대형 고양이류를 비교기준으로 사용하였다. 조사 결과 세 개의 척추 표본에서 추간공 확장 양상이 관찰되어 척추 신경종양(SNT)과 일치하는 변화로 해석되었다. 이를 바탕으로 골격 발생 비율을 근거로 100,000마리당 353이라는 ‘유병률 유사’ 추정치를 보고하였다. 이 값은 사람의 보고된 임상 발생률인 0.22–0.38/100,000보다 높아 보이나, 화석 표본은 사후 처리 및 표집 편향(taphonomic bias)에 의해 영향을 받으므로 임상적 발생률과 직접 비교할 수 없다고 연구진은 지적한다. 원인 규명은 이루어지지 않았으나, 인간에서 많은 SNT가 유전적 변이와 연관된다는 점을 들어 멸종 직전 집단에서의 근친교배(추정)가 기여했을 가능성을 제시하였다. 주요 제한점은 화석 기반의 골격 표지에 의한 추정이라는 점과 표본 및 보존 편향으로 인해 임상적 발생으로 일반화할 수 없다는 점이다.",
@@ -3879,6 +3887,14 @@
       "title": "Endoscopic reduction of true gastrogastric intussusception in a dog.",
       "journal": "Journal of Veterinary Internal Medicine",
       "generated_at": "2026-08-12T23:24:33.660Z",
+      "model": "gpt-5-mini"
+    },
+    "42586720": {
+      "brief_summary": "이 논문은 인간 점막 흑색종(hMM)과 자연 발생하는 개 구강 흑색종(cOM)을 분자·면역학적 관점에서 비교한 리뷰이다. hMM과 cOM은 자외선 의존성이 아닌 발암 기전, 낮은 종양 돌연변이 부담, 광범위한 구조적 유전체 이상 및 면역억제적 종양 미세환경(TME)을 공유한다고 제시한다. 저자들은 이러한 공통점이 cOM을 hMM의 비교·전이 모델로 활용하는 근거를 제공하며, 단일 표적치료나 면역관문억제 단독요법의 한계를 극복하기 위한 병합요법 및 바이오마커 개발의 필요성을 시사한다고 결론짓는다.",
+      "detailed_summary": "본 논문은 문헌 종합형 리뷰로서 hMM과 cOM의 분자 구조, 면역 풍경 및 치료적 시사점을 통합적으로 분석한다. 검토 결과 두 질환은 낮은 종양 돌연변이 부담과 광범위한 copy-number alteration(CNA) 및 구조적 변이, 에피제네틱 가소성(epigenetic plasticity)에 의해 주로 구동되는 경향을 보이며, 단일 유전자 변이보다 경로 수준의 교란이 특징이라고 설명한다. 이러한 분자적 특징들이 면역 가시성 저하와 면역억제적 TME 형성에 기여하여 단일 표적치료제와 면역관문억제제(immune checkpoint blockade)의 제한된 효능과 연관된다고 제시한다. 또한 자연 발생하는 cOM이 면역 기능을 가진 숙주에서 발생한다는 점은 전임상적·임상적 전이 연구에 유리하다고 논의한다. 개에서 수행된 면역치료 연구들은 병합요법과 바이오마커 개발에 대한 예비적인 전이적 근거를 제공한다고 기술한다. 저자들은 여러 분자적·면역학적 이질성이 존재하며, 이로 인해 모델링과 치료전략 일반화에 한계가 있음도 함께 지적하며 cOM을 비교·전이 플랫폼으로 활용해 치료 혁신을 도모할 것을 제안한다.",
+      "title": "Canine Oral Melanoma as a Translational Model for Human Mucosal Melanoma: Molecular Architecture, Immune Landscape, and Therapeutic Implications.",
+      "journal": "Veterinary and Comparative Oncology",
+      "generated_at": "2026-11-10T03:35:33.883Z",
       "model": "gpt-5-mini"
     },
     "42586801": {
