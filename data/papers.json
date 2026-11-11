@@ -1,6 +1,160 @@
 {
-  "updated_at": "2026-11-10T03:35:04.067Z",
+  "updated_at": "2026-11-11T01:14:57.895Z",
   "papers": [
+    {
+      "pmid": "43008074",
+      "title": "Esophageal strictures associated with prolonged nasoesophageal tube placement in three cats.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Cho J, Kim M, Kim S, Lee J, Chae HK, Park C",
+      "date": "2026 11 10",
+      "dateObject": "2026 11 10",
+      "abstract": "Nasoesophageal tube placement for a prolonged period of time has not previously been associated with esophageal stricture in cats. Three cats with suspected hepatic lipidosis required extended enteral nutritional support because voluntary food intake remained <&#x2009;25% of the calculated resting energy requirement. The cumulative duration of nasoesophageal tube placement was 24-37&#xa0;days. Regurgitation or retching developed within 1-3&#xa0;days after tube removal, and esophagoscopy identified severe focal strictures in the cervical esophagus at the C4-C6 vertebral level in all 3 cats. One cat underwent 3 endoscopic balloon dilatation sessions at 1-week intervals, with enlargement of the esophageal lumen. The consistent anatomic location and temporal association with prolonged tube placement suggest that extended nasoesophageal intubation may be a risk factor for cervical esophageal stricture formation in cats. When prolonged nutritional support is anticipated, transition to a feeding tube intended for long-term use should be considered.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "43008073",
+      "title": "Use of a novel low-fat hydrolyzed diet in the management of dogs with chronic enteropathy.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Hern&#xe1;ndez-Anllo C, Feo L, Hervera M, Puig J",
+      "date": "2026 11 10",
+      "dateObject": "2026 11 10",
+      "abstract": "Dietary management plays a central role in the diagnosis and treatment of chronic enteropathy (CE) in dogs. Although hydrolyzed-protein diets are commonly used in patients with CE, and dietary fat restriction is recommended in selected gastrointestinal disorders, the combined effect of low fat and hydrolyzed protein has not been specifically evaluated. Assess clinical response and acceptability of a low-fat, hydrolyzed diet in dogs with CE. Thirty-one client-owned dogs. Prospective clinical study. Dogs were fed a commercial low-fat (2.01&#xa0;g/100&#xa0;kcal metabolizable energy) hydrolyzed salmon protein diet and stratified according to previous dietary history. Dogs were evaluated at baseline, 1&#xa0;month, and 3&#xa0;months. The primary outcome was clinical response, classified as complete response (CR), partial response (PR), or non-response (NR) based on gastrointestinal signs and the Canine Inflammatory Bowel Disease Activity Index (CIBDAI) score. Dogs with CR or PR were considered responders. Diet acceptability was assessed. At T1, 20 of 31 (64.5%) dogs were categorized as CR, 3 of 31 (9.7%) as PR, and 8 of 31 (25.8%) as NR. Twenty-three of 31 (74.2%) dogs had a positive clinical response. The CIBDAI scores decreased significantly from T0 to T1 (P&#xa0;<&#xa0;.001). At T2, 94.4% of initial responders maintained CR. Diet acceptability was excellent in 75.0% of cases. This low-fat, hydrolyzed diet had significant short- and mid-term effectiveness and was well tolerated in dogs with CE, reinforcing its potential as a treatment for food-responsive enteropathy.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "43008072",
+      "title": "Ultrasound-measured renal length and corticomedullary thickness for the diagnosis and staging of chronic kidney disease in cats.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Brans M, Stock E, Duchateau L, Paepe D",
+      "date": "2026 11 10",
+      "dateObject": "2026 11 10",
+      "abstract": "Ultrasonography is well established in veterinary practice, and renal dimensions may aid in diagnosing chronic kidney disease (CKD) in cats. Assess whether renal length, cortical and medullary thickness, and derived ratios identify CKD, reflect CKD severity, and are changed by hyperthyroidism. Evaluate effects of age, body weight, sex, laterality, and observer variability on renal dimensions. Two hundred fifty-nine client-owned cats: healthy (n&#xa0;=&#xa0;179), CKD-affected (n&#xa0;=&#xa0;38), and nonazotemic hyperthyroid (n&#xa0;=&#xa0;42). Ultrasonographic renal dimensions were measured retrospectively. Group comparisons were performed using fixed effects and mixed models. Diagnostic accuracy was assessed using receiver operating characteristic analysis. Effects of age, body weight, sex, and laterality were evaluated using multiple linear regression. Intraobserver (novice) and interobserver (novice vs expert) variability were quantified using intraclass correlation coefficients from random effect models. Age, body weight, and sex accounted for biological variation in healthy cats, which also exhibited minor left-right kidney asymmetry. Cats with CKD were reliably distinguished from healthy and hyperthyroid cats by renal dimensions. Compared with age-comparable healthy cats, CKD-affected cats had shorter kidneys (-0.49&#xa0;cm, -13.26%, P&#xa0;<&#xa0;.001), thinner cortices (dorsal: -0.10&#xa0;cm, -16.23%, P&#xa0;<&#xa0;.001; transverse: -0.06&#xa0;cm, -9.14%, P&#xa0;<&#xa0;.05), and thinner medullae (dorsal: -0.28&#xa0;cm, -26.25%, P&#xa0;<&#xa0;.001; transverse: -0.24&#xa0;cm, -19.7%, P&#xa0;<&#xa0;.001). Renal length and medullary thickness showed the highest diagnostic accuracy, but no renal dimension reliably reflected disease severity. Interobserver variability was considerable. Ultrasonographic renal dimensions may support CKD diagnosis in cats, but biological and observer variability must be considered.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "43008071",
+      "title": "Comparative cytokine profiling in cerebrospinal fluid and serum of dogs with meningoencephalitis of unknown origin.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Gasser A, D&#xe9;moulins T, Stein VM",
+      "date": "2026 11 10",
+      "dateObject": "2026 11 10",
+      "abstract": "Meningoencephalitis of unknown origin (MUO) is a common inflammatory central nervous system (CNS) disease in dogs with unclear etiology, complicating diagnosis. Dogs with MUO exhibit distinct cytokine profiles in cerebrospinal fluid (CSF) compared to other CNS diseases and controls. The study included 23 dogs diagnosed with MUO based on clinical signs, supportive CSF, and imaging findings. For comparison, 110 dogs were included, comprising dogs with CNS disorders, neurological diseases not involving the CNS (non-CNS), and orthopedic diseases. In this prospective cross-sectional observational study, 6 cytokines (interferon-&#x3b3; [IFN-&#x3b3;], TNF-&#x3b1;, IL-2, IL-6, IL-10, IL-15) were measured in paired CSF and serum samples using multiplex bead-based immunoassays. Primary outcome was the association between CSF cytokine concentrations and MUO, assessed by logistic regression. Meningoencephalitis of unknown origin showed significantly higher CSF concentrations compared to idiopathic epilepsy, intracranial neoplasia, intervertebral disc herniation, and non-CNS diseases in IFN-&#x3b3; (MUO: median 108.4&#xa0;pg/mL, IQR 25.8 vs comparison group: 10.5&#xa0;pg/mL, IQR 0.0; &#x3b2;-coefficient 0.039, 95% CI, 0.021-0.057, P&#xa0;<&#xa0;.001) and interleukin (IL)-10 (MUO: 171.1&#xa0;pg/mL, IQR 37.0 vs 8.5&#xa0;pg/mL, IQR 0.0; &#x3b2;-coefficient 0.021, 95% CI, 0.011-0.030, P&#xa0;<&#xa0;.001). Moreover, TNF-&#x3b1; (&#x3b2;-coefficient 0.062, 95% CI, 0.023-0.102, P&#xa0;<&#xa0;.01), IL-15 (&#x3b2;-coefficient 0.080, 95% CI, 0.012-0.148, P&#xa0;<&#xa0;.05) and IL-2 (&#x3b2;-coefficient 0.055, 95% CI, 0.005-0.104, P&#xa0;<&#xa0;.05) concentrations were also elevated in MUO versus comparison group. Cerebrospinal fluid cytokine profiling identifies a characteristic intrathecal immune signature in MUO, advancing the understanding of its immunopathogenesis.",
+      "categories": [
+        "oncology",
+        "surgery",
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "43006832",
+      "title": "Correction to: Single Enema Fecal Microbiota Transplantation in Cats With Chronic Enteropathy.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "",
+      "date": "2026 11 10",
+      "dateObject": "2026 11 10",
+      "abstract": "",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "43005152",
+      "title": "A personalized three-dimensional printed knee splint for mechanical mitigation of canine knee osteoarthritis and adjunctive nonsteroidal anti-inflammatory drug therapy.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Li XT, Xiong ZH, Ye JM, Qiu WT, Sun JF, Gu JL, Yue-Yin, Ou ZL, Li SC",
+      "date": "2026 11 10",
+      "dateObject": "2026 11 10",
+      "abstract": "Canine knee osteoarthritis (OA) involves pain, inflammation, altered joint loading, and restricted motor function. Because nonsteroidal anti-inflammatory drugs (NSAIDs) do not directly correct abnormal joint mechanics, this study evaluated a personalized three-dimensional (3D)-printed polylactic acid knee splint, used alone or with short-term NSAID treatment, in a monosodium iodoacetate-induced beagle knee OA model. Twelve dogs were assigned to four groups ( n = 3 per group): OA without continued treatment (OA), splint alone (OA/Spt), NSAIDs alone (OA/NSAIDs), and combined NSAIDs plus splint treatment (OA/NSAIDs/Spt). In vivo outcomes included static hindlimb weight-bearing symmetry, knee joint range of motion (ROM), and Liverpool Osteoarthritis in Dogs (LOAD), The Canine Brief Pain Inventory (CBPI), and The CanineOrthopedic Index (COI) pain and function scores. Finite element analysis using representative healthy and OA knee models was used as descriptive, model-based mechanical support. The splint remained belowthe polylactic acid (PLA) yield threshold under simulated loading and reduced several model-predicted mechanical indices in the OA model, including peak stress, equivalent elastic strain, femoral condylar contact pressure, and cartilage total deformation. In vivo , splint treatment alone was associated with better short-term functional outcomes than no continued treatment, whereas the OA/NSAIDs/Spt group showed the greatest overall improvement in weight-bearing symmetry, ROM, and clinical scores. Because no formal interaction analysis was performed, the combined-treatment findings should be interpreted as broader short-term functional benefit rather than evidence of an interaction effect. These preliminary results support personalized 3D-printed splinting as a potential mechanical adjunct to NSAID therapy for canine knee OA.",
+      "categories": []
+    },
+    {
+      "pmid": "43005087",
+      "title": "Thermal response to moderate exercise in dogs of different biotypes and brachycephalic obstructive airway syndrome severity assessed using infrared thermography.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Reyes-Sotelo B, Mart&#xed;nez-Burnes J, Hern&#xe1;ndez-Avalos I, Olmos-Hern&#xe1;ndez A, Mora-Medina P, Villanueva-Garc&#xed;a D, Torres-Bernal F, Casas-Alvarado A, Mota-Rojas D",
+      "date": "2026 11 10",
+      "dateObject": "2026 11 10",
+      "abstract": "The aim of this study was to evaluate dogs of different skull conformations (cephalic biotypes) and Brachycephalic Obstructive Airway Syndrome (BOAS) grades subjected to two standardized moderate exercise tests, in order to determine their effects on infrared thermal responses in facial and appendicular thermal windows. A total of 80 dogs were evaluated: dolichocephalic ( n = 20), mesocephalic ( n = 20), and brachycephalic ( n = 40), with the latter classified according to BOAS severity as G 1 ( n = 10), G 2 ( n = 18), and G 3 ( n = 12). Infrared thermal responses were evaluated in facial regions (caruncle, upper and lower eyelids, upper and lower lips, masseter, and nostril region) and appendicular regions (forelimbs, hindlimbs, gracilis, biceps femoris , and gastrocnemius muscles ). Measurements were obtained at four time points: T 1 , baseline; T 2 , after the 6-min walk test; T 3 , after the 1,000-meter walk test; and T 4 , following a 10-min recovery period. Brachycephalic dogs exhibited significant increases in facial surface temperature, reaching up to 2.6 &#xb0;C ( p < 0.0001), and showed slower thermal recovery after 10 min. In G 2 dogs, muscular thermal windows showed post-exercise temperatures of 35 &#xb0;C &#xb1; 0.5 &#xb0;C. The 6-min walk test revealed significant differences in distance traveled among cephalic biotypes ( p = 0.0028). Furthermore, the 1,000-meter walk test revealed more pronounced alterations in superficial microcirculation in brachycephalic dogs across all BOAS grades. The greater facial thermal response and slower recovery observed in brachycephalic dogs suggest potential ventilatory limitations and increased reliance on cutaneous heat dissipation. The two exercise tests provided complementary information, with the 6-min walk test distinguishing differences in initial exercise performance and the 1,000-meter test revealing more pronounced thermal alterations associated with brachycephalic conformation and BOAS severity.",
+      "categories": [
+        "internalMedicine",
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "43005072",
+      "title": "Pedicle screw and rod fixation in three cats with caudal lumbar vertebral fracture and luxation: a case report.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Aartsen SAM, van Stee LL, Meij BP",
+      "date": "2026 11 10",
+      "dateObject": "2026 11 10",
+      "abstract": "Pedicle Screw and Rod Fixation (PSRF) is used for spinal stabilization of human and, more recently, in dogs. The use of bilateral PSRF in cats at the caudal lumbar and lumbosacral regions has not been reported. To describe the outcomes of cats with caudal lumbar vertebral fractures and luxation treated with bilateral monoaxial PSRF surgery. Three cats with traumatic caudal lumbar vertebral fractures and luxation treated with bilateral PSRF (2016-2018). Short case series. A retrospective analysis of medical records of cats treated with PSRF was performed. Data collected included clinical signs, neurological examination, pre-operative radiographs, and pre-operative CT scan. Post-operative neurological examination and radiographs 6-7 weeks post-operative were conducted. All radiographs and CT scans were reviewed by a board-certified veterinary radiologist. Inclusion criteria were cats presented to the clinic with thoracolumbar fractures and luxations without comorbidities. All cats were examined by a veterinary surgeon or surgery resident before surgery, immediately post-operative, 2 out of 3 cats presented 2-3 weeks post operative and all cats presented 6-7 weeks post-operative. Outcome assessment included comparing the neurological grade of the cats before and after surgery and the feasibility of placing the PSRF system in the vertebra of the cats. All cats underwent bilateral PSRF for stabilization of the caudal lumbar vertebrae to decompress and stabilize the spinal cord and cauda equina. The first cat presented with a comminuted fracture and luxation of L6 neurological grade III according to the modified Griffith Sharp-Wheeler scale and improved to grade 0 neurological status after surgery. The second cat had a caudal comminuted vertebral body fracture of L7 with minor dorsal dislocation and improved after surgery from neurological grade IV to grade III post-operatively. The third cat presented with a complete L5-L6 luxation with multiple fractures and displaced fracture fragments and a neurological grade V; no improvement was observed following surgery. PSRF is a technically feasible surgical option for the treatment of vertebral fractures and luxations in cats; emphasizing the potential of the PSRF system in cats warrants further exploration.",
+      "categories": [
+        "surgery",
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "42751918",
+      "title": "Radiographic findings of the femora and tibiae in cats affected by patella fracture and dental anomaly syndrome.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "authors": "Boulton S, Hernon T, Dancer S, Dirrig H, Major AC, Bourbos A, Piola V, Salg&#xfc;ero R, Guerin S, Langley-Hobbs SJ",
+      "date": "2026 11 10",
+      "dateObject": "2026 11 10",
+      "abstract": "The objective of the study was to describe radiographic skeletal changes in cats affected by patella fracture and dental anomaly syndrome (PADS), with particular focus on the femora and tibiae, including bone density alterations, evidence of stress fractures and femoral morphology. Cats were retrospectively selected from a database of PADS-affected cats. Radiographs were independently evaluated by five veterinary radiologists and three orthopaedic surgeons for cortical thickening, medullary opacity changes, the presence of osteopetrosis, degenerative joint disease and additional fractures, and subjective assessment of the femoral shape. A total of 126 cats met the inclusion criteria. All had patellar fractures and 28 (22.2%) had additional fractures, most commonly involving the proximal tibia in 17 (13.5%) cases, proximal fibula in 15 (11.9%) cases and the pelvis. Four cats showed an incomplete radiolucent line in the cranioproximal tibia with surrounding sclerosis, consistent with developing stress fractures. Medullary opacity changes in the femora and/or tibiae were present in 11/126 (8.7%) cats, more often patchy than diffuse in appearance. In five (4.0%) cases, a generalised increase in bone opacity compatible with osteopetrosis was identified. Femoral shape was assessed in 74 cats, with 26 (35%) having a normal morphology, and seven (9.5%) and two (2.7%) having a stovepipe or champagne-fluted morphology, respectively. Consensus was not reached in 39 (52.7%) cases. Most PADS-affected femora and tibiae appeared radiographically normal; however, a subset of cats demonstrated radiographic features of osteopetrosis, altered femoral morphology and proximal tibial fissure lines suggestive of early stress fractures. These findings suggest that specific structural and morphological changes in the long bones may be present or may predispose cats to the insufficiency fractures characteristic of PADS, and emphasise the importance of clinicians recognising these subtle radiographic features to aid earlier diagnosis and appropriate case management. X-ray findings in the thigh and shin bones of cats with patella fracture and dental anomaly syndrome Patella fracture and dental anomaly syndrome (PADS) is a condition in cats associated with fractures of the kneecaps (patella) and dental abnormalities. Some affected cats also develop fractures elsewhere in the skeleton, suggesting that changes in bone structure may contribute to fracture risk. This study reviewed X-ray images of the thigh bones (femur) and shin bones (tibia) in 126 cats with PADS. The aim was to identify changes in bone density, bone shape and evidence of additional or early stress-related fractures. All cats had patella fractures and 22% also had other fractures, most commonly involving the tibia or bones of the pelvis. A small number of cats had subtle changes in the tibia that were considered suggestive of early stress fractures. Changes in bone density were identified in 9% of cats and were usually patchy. Five cats had a more widespread increase in bone density that was compatible with osteopetrosis, a condition in which bones become abnormally dense. The shape of the femur was assessed in 74 cats. Most had a normal appearance, while a smaller number had different femoral shapes, including stovepipe or champagne-fluted morphology. Overall, most cats had no obvious abnormalities of the tibia or femur on X-ray. However, some cats had changes in bone density, femoral shape or subtle signs of stress-related injury. These findings suggest that abnormalities in bone structure may contribute to the development of fractures in cats with PADS. Recognising these changes on X-rays may help veterinarians identify potentially important skeletal abnormalities in affected cats.",
+      "categories": [
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42622352",
+      "title": "Agreement between point-of-care and external reference laboratory RT-qPCR testing for feline coronavirus in cats with suspected feline infectious peritonitis.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "authors": "Knies M, Hofman N, Jackson-Onis J, Broens EM, Teske E",
+      "date": "2026 11 10",
+      "dateObject": "2026 11 10",
+      "abstract": "The aim of the present study was to evaluate the agreement of a commercially available point-of-care (POC) feline coronavirus (FCoV) quantitative RT-PCR (RT-qPCR) assay and external laboratories' RT-qPCR testing in cats with effusive and non-effusive feline infectious peritonitis (FIP), and in cats with other diseases presenting with similar clinical signs. Client-owned cats suspected of having FIP were enrolled with owner consent. Effusions and ultrasound-guided fine-needle aspirates (FNAs) from the liver, spleen or mesenteric lymph nodes were collected, split and analysed using both a POC RT-qPCR and an external laboratory RT-qPCR. FIP was diagnosed based on American Association of Feline Practitioners/EveryCat guidelines. Sensitivity and negative predictive values were calculated, agreement assessed with Cohen's kappa, paired differences tested with McNemar's test and correlation of crossing point (Cp) values analysed using Pearson's coefficient and paired t -tests. A total of 100 cats were included (effusions n&#x2009;=&#x2009;62, FNAs n&#x2009;=&#x2009;38). Overall agreement between assays was substantial (&#x3ba;&#x2009;=&#x2009;0.73), with near-perfect concordance for effusions (&#x3ba;&#x2009;=&#x2009;0.81) and lower agreement for FNAs (&#x3ba;&#x2009;=&#x2009;0.61). Relative sensitivity was highest in effusions (98.1% POC, 92.3% external) and lower in FNAs (63.3-64.5%), with negative predictive values showing similar trends. Cp values were moderately correlated between assays, with minor mean differences (~1 cycle). The POC FCoV RT-qPCR assay is a practical and reliable tool and shows very good agreement with external reference laboratory RT-qPCR testing. FNAs remain useful when effusions are unavailable but carry a higher risk of false negatives, likely due to low viral loads and heterogeneous distribution. POC care testing offers rapid turnaround, supporting timely clinical decision-making, but results must be interpreted alongside clinical presentation and other diagnostics. Agreement between point-of-care and external reference laboratory RT-qPCR testing for feline coronavirus in cats with suspected feline infectious peritonitis Feline infectious peritonitis (FIP) is a serious disease caused by feline coronavirus. Diagnosing FIP can be difficult because there is no single test that can confirm the disease in every cat. One commonly used test is called RT-qPCR, which stands for quantitative reverse transcription polymerase chain reaction. This test first converts viral RNA into DNA (reverse transcription) and then amplifies it, allowing very small amounts of virus to be detected. The &#x2018;q&#x2019; (quantitative) part means that the test also provides an estimate of how much viral material is present. In this study, we compared a point-of-care RT-qPCR test, which can be performed directly in the veterinary clinic, with RT-qPCR testing performed by external laboratories. We tested fluid samples from the chest or abdomen (effusions) and small needle samples from organs (fine-needle aspirates) from cats suspected of having FIP. We included 100 cats with clinical signs consistent with FIP. Samples were tested using both RT-qPCR methods when available. The final diagnosis of FIP was based on accepted international guidelines. We found that the two RT-qPCR tests showed similar performance overall, with good agreement between methods. Both tests performed very well on effusion samples, detecting viral RNA in most cats with FIP. In contrast, performance was lower for fine-needle aspirates, where both tests sometimes failed to detect the virus. This means that the point-of-care RT-qPCR test is a useful tool to support the diagnosis of FIP, especially when effusion is present. Its rapid turnaround time may help veterinarians make quicker clinical decisions. However, a negative result in a fine-needle aspirate does not exclude FIP, and results should always be interpreted together with clinical findings and other diagnostic tests.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42925095",
+      "title": "Development and Validation of a New Online Tool for Monitoring Clinical Signs of Canine Atopic Dermatitis.",
+      "journal": "Veterinary Dermatology",
+      "authors": "Harvey N, Watson A, Laxalde J, England G, Gow D",
+      "date": "2026 11 10",
+      "dateObject": "2026 11 10",
+      "abstract": "The aim of the study was to develop a simple, reliable and validated patient-reported outcome tool for use in monitoring the severity of clinical signs in dogs with confirmed or suspected atopic allergies and recurrent otitis externa. The tool is called the Dog-Orientated Severity of Atopy Scale (DOSAS). The human Patient-Oriented Eczema Measure (POEM) was adapted for relevance to the owner-observable clinical signs of canine atopic dermatitis (cAD). Refinements were made via consultation with dog owners and veterinary surgeons to ensure applicability and ease of use. Relevant features of reliability (including internal consistency, intrarater reliability and test-retest reliability) were evaluated. The tool was then tested by owners and clinicians for performance against established clinical sign assessment methods. The DOSAS was shown to be both reliable and valid with psychometric properties above acceptable guidelines for the development of such tools. Guidelines are presented for score creation and stratification of the score to enable interpretation. When compared to how severity assessment scores from Canine Atopic Dermatitis Extent and Severity Index, 4th iteration (CADESI-04) and pruritus Visual Assessment Scale (PVAS) responded to change, the DOSAS performed particularly strongly, although it performed less well when compared to the 0-3 Otitis Index Score (OTIS-3). The DOSAS is presented as a supplementary tool for use in veterinary practice and clinical research programmes alongside existing clinical measurements such as CADESI-04, providing a focus on the disease as it is experienced by the dog and their owner. Unlike clinical measurement, the DOSAS is accessible and interpretable for dog owners, which is important for the management of chronic pruritic conditions, and will enable dog owners to be more actively involved with their dog's disease management.",
+      "categories": [
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "43004420",
+      "title": "Correction: Direct quantitative PCR detects genetic biomarkers of antileishmanial drug resistance in clinical samples from dogs with leishmaniosis.",
+      "journal": "BMC Veterinary Research",
+      "authors": "Carrasco-Martin M, Vi&#xf1;eta C, Mart&#xed;-Carreras J, Roura X, Ferrer L, Busquets P, Vila A, Francino O",
+      "date": "2026 11 09",
+      "dateObject": "2026 11 09",
+      "abstract": "",
+      "categories": []
+    },
+    {
+      "pmid": "43004045",
+      "title": "Rapid competitive ELISA incorporating Semliki Forest virus-expressed rabies virus glycoprotein for serological surveillance of canine and feline rabies immunity.",
+      "journal": "Veterinary Research Communications",
+      "authors": "Han X, Sun S, Tian Y, Li L, Zhu X, Zhao J, Zhang Y, Zhou M, Zhang C, Zhao L",
+      "date": "2026 11 09",
+      "dateObject": "2026 11 09",
+      "abstract": "Although the case fatality rate of rabies approaches 100%, it is entirely preventable through the use of vaccination-induced neutralizing antibodies. Rapid and reliable detection of these antibodies is therefore critical for effective disease control. Using a rabies virus glycoprotein expressed by Semliki Forest virus (SFV-RVG) as a coating antigen and horseradish peroxidase-labeled 7A3 (HRP-7A3) as the detection antibody, we developed a competitive ELISA (cELISA) for the specific detection of rabies virus glycoprotein (RVG)-neutralizing antibodies. On the basis of the testing of the in-house sample panel, receiver operating characteristic (ROC) curve analysis revealed optimal cutoff values of 42.5% for canine serum and 54.5% for feline serum. The clinical agreement of the kit was excellent, with an overall percent agreement (OPA) of 95.67% for canine serum and 97.17% for feline serum. Overall, the cELISA reported here provides a promising tool for rabies immune surveillance in dogs and cats.",
+      "categories": []
+    },
     {
       "pmid": "42713725",
       "title": "Assessment of Clinical and Immunological Factors of Local Recurrence in Canine Soft Tissue Sarcoma.",
@@ -836,26 +990,6 @@
       ]
     },
     {
-      "pmid": "42974042",
-      "title": "Partners or tools? Ethical framings shape welfare research on dogs and horses in animal-assisted services.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Zenker F, Thodberg K, Sand&#xf8;e P",
-      "date": "2026 11 03",
-      "dateObject": "2026 11 03",
-      "abstract": "The welfare of dogs and horses involved in animal-assisted services (AAS) has received increasing scholarly attention, reflecting growing recognition of the ethical complexity of human-animal interactions in these settings. However, ethical framings of animal welfare in research on AAS vary substantially, ranging from an emphasis on avoiding harm to animals while pursuing human benefit to the view that AAS should create mutual benefits for both humans and animals. This critical review examines how ethical framings shape AAS welfare research and aims to make underlying assumptions more transparent to support more consistent research and policy. To this end, we analyzed 116 peer-reviewed papers (2000-2025), focusing on conceptual frameworks (e.g., One Health) and their implications for the interpretation of results and conclusions. Included papers covered direct welfare measures in dogs and/or horses, indirect welfare assessments, and conceptual welfare analyses. We identified three key findings. First, ethical frameworks in AAS welfare research are highly diverse and at times insufficiently specified. Second, studies may combine multiple ethical framings, reflecting a pluralism of ethical perspectives. Conceptual conflation may arise, however, when positive and negative welfare perspectives are combined without acknowledging their fundamentally different understandings of welfare. Third, a recurring pattern across the literature is a relational framing of ethical considerations, highlighting the need for greater attention to different understandings of good or justified human-animal relationships. Overall, greater transparency about ethical framing is needed to improve the interpretation, comparability, and communication of welfare findings.",
-      "categories": []
-    },
-    {
-      "pmid": "42973850",
-      "title": "Development of a sandwich ELISA for recombinant feline GM-CSF and determination of its serum half-life.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Yu C, Wang M, Chen L, Wang T, Zhao Y, Song H, Jin M",
-      "date": "2026 11 03",
-      "dateObject": "2026 11 03",
-      "abstract": "Feline granulocyte-macrophage colony-stimulating factor (GM-CSF) is a key cytokine involved in the regulation of myeloid immune responses and represents an important therapeutic target for leukopenia. However, the rapid in vivo clearance of native GM-CSF requires frequent administration, which limits its clinical translation. To overcome this limitation, a recombinant GM-CSF-Fc protein was constructed using Fc fusion technology. Pharmacokinetic evaluation of GM-CSF-Fc, however, is constrained by the lack of analytical approaches capable of simultaneously quantifying differently engineered forms of recombinant GM-CSF. In this study, recombinant feline GM-CSF was expressed in a CHO eukaryotic expression system and used to immunize rabbits to generate high-affinity polyclonal antibodies. Based on these antibodies, a sandwich ELISA was established. The assay exhibited excellent linearity within 7.8-2000 pg/mL (R 2 &#x202f;=&#x202f;0.993), and its validated quantitative range was 50-2000 pg/mL, covering the expected concentration fluctuations of recombinant GM-CSF under physiological and immune-activated conditions in cats. The assay demonstrated good precision and accuracy, and no cross-reactivity with related feline cytokines (IL-3, IL-5, M-CSF, and G-CSF) was observed. Notably, the system efficiently quantified differently engineered forms of recombinant feline GM-CSF (His-tagged and Fc-fused) with comparable recovery, overcoming the limitations of conventional assays optimized for a single protein format. Pharmacokinetic analysis following subcutaneous administration in cats showed that Fc fusion substantially prolonged the apparent terminal elimination half-life of immunoreactive GM-CSF from 5.05 &#xb1; 0.91 h to 40.89 &#xb1; 3.41 h, supporting the improved pharmacokinetic profile of the Fc-fused construct. In conclusion, this study provides a versatile and sensitive analytical platform for the preclinical evaluation of Fc-fused feline GM-CSF formulations and serves as an important methodological reference for the quantitative assessment of Fc-fused veterinary biologicals.",
-      "categories": []
-    },
-    {
       "pmid": "42972575",
       "title": "Clinically relevant hypomagnesemia during recovery from severe leptospirosis-associated acute kidney injury in a dog treated with continuous renal replacement therapy: a case report.",
       "journal": "BMC Veterinary Research",
@@ -986,18 +1120,6 @@
         "internalMedicine",
         "oncology",
         "surgery"
-      ]
-    },
-    {
-      "pmid": "42964361",
-      "title": "Effects of violet light exposure on aging dogs: a pilot study.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Miyamoto K, Ono N, Kondo S, Miwa Y, Tsubota K, Ozawa M, Kikusui T",
-      "date": "2026 10 31",
-      "dateObject": "2026 10 31",
-      "abstract": "Aging in dogs is known to induce various physical and brain alterations similar to dementia in humans. Concurrently with the recent extension of canine life expectancy, these age-related changes have imposed growing burdens on both dogs and their owners, emerging as a significant social issue. However, no curative treatment has yet been established, and the current mainstay of management focuses on improving the quality of life through symptomatic therapies, such as environmental modifications and pharmacotherapy. This study focused on violet light, which has suggested efficacy against such age-related changes. We developed a novel violet light irradiation device and evaluated its efficacy and safety in elderly dogs as a pilot study. An intra-individual comparison using an ABA design was employed with geriatric dogs aged 14 to 16&#x202f;years housed in a senior dog care facility (two of which discontinued midway). The study design consisted of a one-month violet light exposure phase preceded and followed by two-week non-exposure periods. Physical activity levels were measured using accelerometers and cognitive function was assessed using the DISHAA and CCDR. To evaluate the safety, general physical and ophthalmic examinations were conducted by veterinarians. As a result, no significant overall effect was found on activity levels (Daytime: x 2 &#x202f;=&#x202f;4.22, p &#x202f;=&#x202f;0.12; Nighttime: x 2 &#x202f;=&#x202f;1.58, p &#x202f;=&#x202f;0.45). Similarly, no significant overall effects were observed for either the DISHAA or the CCDR (DISHAA: x 2 &#x202f;=&#x202f;1.60, p &#x202f;=&#x202f;0.45; CCDR: x 2 &#x202f;=&#x202f;1.56, p &#x202f;=&#x202f;0.46). However, a trend toward cognitive improvement was observed in six out of seven dogs and an upward trend in activity levels-indicating physical function improvement-was noted in two out of seven dogs. Regarding safety, no overt clinical abnormalities associated with violet light irradiation were identified. This pilot study demonstrated no clear overall effect, though some individuals showed signs of improvement. Future research should consider large-scale trials controlling for various variables.",
-      "categories": [
-        "neurology"
       ]
     },
     {
@@ -1769,31 +1891,6 @@
       ]
     },
     {
-      "pmid": "42932826",
-      "title": "Prophylactic strategies to reduce cyclophosphamide-induced sterile hemorrhagic cystitis in dogs: a first-opinion practice retrospective study and a referral survey.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Ivanovs A, MacKenzie C, Wardle Z, Pinchbeck G, Grieve H, Noble PJ, Killick DR",
-      "date": "2026 10 26",
-      "dateObject": "2026 10 26",
-      "abstract": "Cyclophosphamide occasionally causes sterile hemorrhagic cystitis (SHC) in dogs. Prophylactic coadministration of furosemide reduces SHC risk, yet the extent of the implementation in practice is unknown. To explore the frequency of cyclophosphamide and furosemide coadministration in first opinion practice (FOP) and referral settings. Small Animal Surveillance Network (SAVSNET) searches identified 106 dogs receiving cyclophosphamide, of which 72 met the inclusion criteria. This study was composed of: (1) electronic health record (EHR) review using the SAVSNET database, in which data regarding dosage, co-prescribed medications, preventative measures, and suspected SHC occurrence were collated (2014-2024); and (2) a survey of referral oncology practitioners and educators (2023-2024) exploring contemporary approaches to SHC prevention. Treatment approaches were evenly divided between maximum-tolerated dose cyclophosphamide (MTDC, 53%) and metronomic cyclophosphamide (MC, 47%). Furosemide was prescribed in 32% of cases, most commonly with MTDC protocols (53%). The overall frequency of suspected SHC was 15% (11/72); notably, no suspected SHC cases occurred in dogs receiving furosemide (P&#xa0;=&#xa0;.013). Survey results showed frequent use of prophylactic diuretics: 88% recommended furosemide for MTDC and 55% for MC protocols. Diuretic co-prescription with cyclophosphamide was inconsistent in FOP, which was unexpected given the prior evidence regarding reduction of risk of SHC. Greater standardization of guidance and improved dissemination of best-practice recommendations are necessary to optimize dog safety. Cyclophosphamide is a chemotherapy drug used to treat dogs with cancer. It can occasionally cause inflammation and bleeding in the bladder. Furosemide, a drug that increases urine production, can be given alongside cyclophosphamide to reduce this risk. This study investigated how often furosemide and other preventative measures were used in dogs receiving cyclophosphamide in general veterinary practice. Veterinary specialists and educators were also surveyed about their prevention practices, recommendations to general veterinary practitioners, and veterinary student teaching. Furosemide was used inconsistently in general veterinary practice, whereas specialists more commonly recommended its use. No suspected cases of bladder inflammation and bleeding occurred in dogs receiving furosemide, although the study had limitations that should be considered when interpreting this finding. More consistent guidance on preventative measures might improve the safety of dogs receiving cyclophosphamide.",
-      "categories": [
-        "oncology"
-      ]
-    },
-    {
-      "pmid": "42932825",
-      "title": "An observational retrospective study of online owner perceptions of diet-related health signs in dogs using social media listening.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Kaur JP, Hollands T, Clarke C, Tarrant G, Rai T, Street T, Wells K, Armstrong SK",
-      "date": "2026 10 26",
-      "dateObject": "2026 10 26",
-      "abstract": "Dog owners increasingly link health to diet type, and the pet food market has diversified beyond kibble/canned diets (KC) to raw and fresh diets (FD; human-grade, gently/mildly cooked, and home-cooked). However, it remains unclear which owner-reported health-related signs (ORHS) are associated with dietary changes, including KC-FD transitions. Social media listening (SML) enables large-scale capture of naturally-occurring online owner discussions. Investigate owner perceptions of diet-related ORHS in dogs within online discourse using SML. None. Observational, retrospective study of 21&#x2009;896 KC and 2336 FD online posts (>96% from Reddit) collected using Pulsar Platform&#x2122; (January 1, 2025 to July 3, 2025). After preprocessing and large language model (LLM)-based zero-shot filtering, 8040 KC and 924 FD posts were analyzed using LLM-assisted topic modeling and dictionary-based ORHS quantification. Topic modeling identified recurrent themes across KC (number of topics [k]&#xa0;=&#xa0;7, coherence score [Cv]&#xa0;=&#xa0;0.58) and FD (k&#xa0;=&#xa0;6, Cv&#xa0;=&#xa0;0.44) posts. Owners discussed diet as both the perceived cause and management strategy for gastrointestinal (GI), dermatologic, allergy/intolerance, appetite, and body condition ORHS, alongside decision uncertainties. Gastrointestinal (2286/8040, 28.4%; 282/924, 30.5%) and allergy/intolerance (1932/8040, 24.0%; 194/924, 21.0%) ORHS predominated within KC and FD posts, respectively; allergy/intolerance co-occurred with skin/coat (478/918, 52.1%; 57/114, 50.0%), and GI with allergy/intolerance (476/1,932, 24.6%; 68/194, 35.1%). Our study demonstrates the feasibility of SML-LLM-assisted analysis for capturing diet-related ORHS in online dog owner discourse. The study captured owner perceptions rather than clinically verified outcomes, highlighting the need for future studies to align ORHS with clinically validated endpoints to support veterinary nutrition discussions and informed owner decision-making.",
-      "categories": [
-        "internalMedicine",
-        "dermatology"
-      ]
-    },
-    {
       "pmid": "42665890",
       "title": "Efficacy and tolerability of a sequential COP and doxorubicin chemotherapy protocol for treatment of high-grade lymphoma in cats.",
       "journal": "Journal of Feline Medicine and Surgery",
@@ -1804,19 +1901,6 @@
       "categories": [
         "internalMedicine",
         "oncology"
-      ]
-    },
-    {
-      "pmid": "42921832",
-      "title": "Prospective evaluation of the prevalence and characteristics of heart murmurs and gallop sounds in anemic cats.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Robertson A, Boswood A, Luis Fuentes V, Lo EJY, Humm K",
-      "date": "2026 10 24",
-      "dateObject": "2026 10 24",
-      "abstract": "Heart murmurs and gallop sounds are common in anemic cats; however, their association with underlying cardiac disease is unclear. Determine the prevalence of murmurs and gallops in anemic cats. Investigate the association of auscultatory abnormalities with anemia severity and heart disease. Investigate whether change in anemia severity affects the audibility of murmurs and gallop sounds. Sixty-four anemic cats (packed cell volume [PCV] below 30%) presenting to a referral hospital. Single-center prospective observational study. On presentation, cats were examined and had PCV measurement. Each cat underwent echocardiography. Cats had PCV checks and daily auscultation to document heart sounds. Fifty-eight percent (37/64) had a murmur and 23% (15/64) had a gallop. Mean PCV at enrollment was 18% (&#xb1;6). Lower PCV was associated with the presence of a murmur (P&#xa0;=&#xa0;.03) and gallop (P&#xa0;=&#xa0;.016). Cardiac disease was present in 34% (22/64) of cats. After adjusting for anemia severity, murmur presence showed no statistically significant association with cardiac disease (P&#xa0;=&#xa0;.636 (OR: 1.31, 95% CI, 0.43-3.95)). A gallop sound was associated with greater odds of cardiac disease (P&#xa0;=&#xa0;.037 (OR: 3.97, 95% CI, 1.09-14.5)). Murmur intensity (P&#xa0;=&#xa0;.001) and likelihood of a gallop sound (P&#xa0;=&#xa0;.022) were lower in individuals when their PCVs increased. Murmurs and gallop sounds are common in anemic cats with and without cardiac disease. Anemic cats with gallops are more likely to have underlying cardiac disease than anemic cats without gallops. Abnormal heart sounds, known as heart murmurs and gallop sounds, can occur frequently in cats with a low red blood cell count (anemia). Murmurs and gallops are also common in cats with heart disease. Whether the abnormal heart sounds are due to anemia or if anemic cats have underlying heart disease causing the murmur or gallop is unknown. This study aimed to determine how many anemic cats had abnormal heart sounds, if murmurs or gallops were associated with heart disease or red blood cell count, and if change in red blood cell count over time affected the presence of abnormal heart sounds. In this study abnormal heart sounds were common in anemic cats. Lower red blood cell count was associated with having a murmur or gallop. Heart disease was frequently present in our cats. Having a heart murmur was not associated with having heart disease, but a gallop sound was associated with having heart disease. When individual cats&#x2019; red blood cell count increased, the severity of their heart murmur and likelihood of a gallop sound were lower.",
-      "categories": [
-        "cardiology",
-        "internalMedicine"
       ]
     },
     {
@@ -1881,30 +1965,6 @@
       "categories": [
         "cardiology",
         "surgery"
-      ]
-    },
-    {
-      "pmid": "42925095",
-      "title": "Development and Validation of a New Online Tool for Monitoring Clinical Signs of Canine Atopic Dermatitis.",
-      "journal": "Veterinary Dermatology",
-      "authors": "Harvey N, Watson A, Laxalde J, England G, Gow D",
-      "date": "2026 10 24",
-      "dateObject": "2026 10 24",
-      "abstract": "The aim of the study was to develop a simple, reliable and validated patient-reported outcome tool for use in monitoring the severity of clinical signs in dogs with confirmed or suspected atopic allergies and recurrent otitis externa. The tool is called the Dog-Orientated Severity of Atopy Scale (DOSAS). The human Patient-Oriented Eczema Measure (POEM) was adapted for relevance to the owner-observable clinical signs of canine atopic dermatitis (cAD). Refinements were made via consultation with dog owners and veterinary surgeons to ensure applicability and ease of use. Relevant features of reliability (including internal consistency, intrarater reliability and test-retest reliability) were evaluated. The tool was then tested by owners and clinicians for performance against established clinical sign assessment methods. The DOSAS was shown to be both reliable and valid with psychometric properties above acceptable guidelines for the development of such tools. Guidelines are presented for score creation and stratification of the score to enable interpretation. When compared to how severity assessment scores from Canine Atopic Dermatitis Extent and Severity Index, 4th iteration (CADESI-04) and pruritus Visual Assessment Scale (PVAS) responded to change, the DOSAS performed particularly strongly, although it performed less well when compared to the 0-3 Otitis Index Score (OTIS-3). The DOSAS is presented as a supplementary tool for use in veterinary practice and clinical research programmes alongside existing clinical measurements such as CADESI-04, providing a focus on the disease as it is experienced by the dog and their owner. Unlike clinical measurement, the DOSAS is accessible and interpretable for dog owners, which is important for the management of chronic pruritic conditions, and will enable dog owners to be more actively involved with their dog's disease management.",
-      "categories": [
-        "dermatology"
-      ]
-    },
-    {
-      "pmid": "42912657",
-      "title": "The use of cold-stored platelets to provide hemostasis in dogs with thrombocytopenia.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Monaco SA, Haines JM, Guess SC, Fiedler SM, Wardrop KJ",
-      "date": "2026 10 23",
-      "dateObject": "2026 10 23",
-      "abstract": "Platelet transfusion can be lifesaving in dogs with severe thrombocytopenia and hemorrhage, but platelet products are limited by short shelf life and contamination risk. Cold-stored platelets (CSP) may provide a practical alternative, but in vivo hemostatic efficacy in dogs is unknown. Evaluate the clinical hemostatic efficacy and safety of CSP transfusions in thrombocytopenic dogs. Twenty-four thrombocytopenic dogs from a veterinary teaching hospital population that received CSP transfusions between March 2022 and October 2024. Retrospective cohort study. Medical records of dogs receiving platelet concentrate stored at 4&#xa0;&#xb0;C for up to 21&#xa0;days were reviewed. Hemorrhage severity was assessed using a modified Daily Canine Bleeding Assessment Tool (DOGiBAT) score before transfusion and at 1 and 4&#xa0;h post-transfusion. Primary outcomes included change in bleeding score, clinical response, transfusion reactions, and survival to discharge. Twenty-four dogs received 27 CSP transfusions. Mean pre-transfusion platelet count was 23&#xa0;&#xd7;&#xa0;103/&#x3bc;L (range, 2-107&#xa0;&#xd7;&#xa0;103/&#x3bc;L) and mean post-transfusion count was 28&#xa0;&#xd7;&#xa0;103/&#x3bc;L (range, 2-100&#xa0;&#xd7;&#xa0;103/&#x3bc;L; P&#xa0;=&#xa0;.84). Mean DOGiBAT score decreased from 3.15&#xa0;&#xb1;&#xa0;2.4 at baseline to 2.21&#xa0;&#xb1;&#xa0;2.1 at 4&#xa0;(mean change, -0.94; P&#xa0;=&#xa0;.002). Clinical improvement occurred in 19 of 27 transfusions (70%). No transfusion reactions were documented. Nineteen of 24 dogs (79%) survived to discharge. Cold-stored platelets were well-tolerated and associated with decreased bleeding severity in thrombocytopenic dogs, supporting CSP as a practical platelet transfusion option for clinical hemostatic support.",
-      "categories": [
-        "internalMedicine"
       ]
     },
     {
@@ -2222,19 +2282,6 @@
       ]
     },
     {
-      "pmid": "42873829",
-      "title": "Prevalence of antibiotic use in dogs and cats in US and Canadian veterinary teaching hospitals, 2022.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Clark H, Bollig ER, Beaudoin AL, Fellman CL, Allano M, Atiee GF, Blois SL, Blong AE, Brookshire WC, Burgess BA, Cohen AJ, Cohn LA, Cole SD, Collier AJ, Curran KM, DeMars P, Droog M, Forbes JM, Fox D, Frey E, Gochenauer A, Guptill L, Hartley AN, Johnston AN, King CA, KuKanich K, LeCuyer TE, Letendre JA, Menard J, Meyers K, Paul L, Perkins AV, Redding L, Santoro D, Stein MR, Sykes JE, Carr SV, Viviano K, Daniels JB, Granick JL",
-      "date": "2026 10 14",
-      "dateObject": "2026 10 14",
-      "abstract": "Evaluation of current antimicrobial prescribing practices can inform antimicrobial stewardship efforts. Our primary objective was to describe current antibiotic prescribing practice in veterinary schools. Medical records from 1800 animals (1403 dogs, 397 cats) at 31 US and Canadian veterinary schools were included. Hospitals collected data from medical records of animals evaluated on a single date in August 2022. Data included patient signalment, hospitalization status, clinical condition(s), diagnostic testing, antibiotics prescribed, route of administration, evidence of infection, and intended use. Overall, 30.4% (95% CI, 28.3%-32.6%) of animals (32.0% of dogs, 24.9% of cats) were prescribed an antibiotic. The most common conditions for which antibiotics were prescribed were surgical (27.3%, 191/699), urinary (11.9%, 83/699), and respiratory (11.6%, 81/699). The most prescribed classes of antibiotics included aminopenicillins with beta-lactamase inhibitors, first-generation cephalosporins, and fluoroquinolones. First-line antibiotics were not prescribed for sporadic bacterial cystitis. For all prescriptions intended for the treatment of infection, the median duration was 10&#xa0;days, whereas for those intended for prophylaxis, the median duration was 7&#xa0;days. Opportunities for antimicrobial stewardship in veterinary schools include guidance for use of fluoroquinolones, decreased usage of antibiotics for surgical prophylaxis, and prioritization of first-line antibiotics for sporadic bacterial cystitis. Tracking of antibiotic use data is important to benchmark prescribing and track progress.",
-      "categories": [
-        "internalMedicine",
-        "surgery"
-      ]
-    },
-    {
       "pmid": "42873078",
       "title": "Rare Feline Gingival Extramedullary Plasmacytoma: Clinical Application of Electrochemotherapy for Local Control.",
       "journal": "Veterinary Medicine and Science",
@@ -2256,18 +2303,6 @@
       "date": "2026 10 14",
       "dateObject": "2026 10 14",
       "abstract": "Double-antibody sandwich enzyme-linked immunosorbent assay (DAS-ELISA) is a simple and accurate method for detecting viral pathogens. This study established a DAS-ELISA for the diagnosis of feline coronavirus (FCoV). In this study, DAS-ELISA was performed using FCoV S-protein rabbit polyclonal and mouse monoclonal antibodies. The optimal reaction conditions were determined using the chessboard method. The specificity, repeatability and receiver operating characteristic (ROC) curve were used to verify the clinical application potential of the DAS-ELISA. The intra- and inter-assay %CVs were 3.90-14.10 and 2.55-11.02, respectively. In a preliminary specificity evaluation using 12 faecal samples each from cats infected with feline panleukopenia virus, feline calicivirus or feline herpesvirus, the DAS-ELISA showed no detectable cross-reactivity with any of these pathogens. The positive coincidence rate of DAS-ELISA and RT-PCR was 81.3%. The ROC curve showed that the sensitivity, specificity and ROC AUC were 81.3%, 80.0% and 0.861, respectively. Collectively, these results suggest that the developed DAS-ELISA can be used to detect FCoV pathogens in clinical samples. This study provides a selection method for the diagnosis of FCoV and a data supplement for epidemiological studies of FCoV.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42572226",
-      "title": "Flow cytometry-based direct antiglobulin test for suspected feline immune-mediated thrombocytopenia: Assay development and demographic factors associated with direct antiglobulin test positivity.",
-      "journal": "Journal of Feline Medicine and Surgery",
-      "authors": "Nedumpun T, Kamenkit O, Thongwandi S, Tripipat T, Wadeerat S, Boonyapisitsopa S, Bunpapong N",
-      "date": "2026 10 13",
-      "dateObject": "2026 10 13",
-      "abstract": "This study aimed to develop and evaluate an in-house flow cytometry-based direct antiglobulin test (DAT) for detecting IgG-bound platelets in cats and to investigate the prevalence of DAT positivity and associated risk factors among thrombocytopenic cats. Platelets were identified by CD41/61 expression, and platelet-bound IgG was assessed using flow cytometry. A diagnostic cutoff for the percentage of IgG-positive platelets was established using 100 healthy cats and preliminarily evaluated in 50 cats with severe thrombocytopenia (platelet count <20,000/&#xb5;l) before being applied to the remaining 411 thrombocytopenic cats (platelet count <200,000/&#xb5;l) to determine the prevalence of DAT positivity and its associations with platelet count, breed, age, and sex. Healthy cats showed 0-10% IgG-positive platelets, and a cutoff of >10% was established. Using this cutoff, 105/461 (22.8%) thrombocytopenic cats were classified as DAT positive. DAT-positive cats had significantly lower platelet counts than DAT-negative cats (median 4000/&#xb5;l; mean 12,562/&#xb5;l vs 34,000/&#xb5;l; mean 47,956/&#xb5;l; P &#x2009;<0.05), and the percentage of IgG-bound platelets was inversely correlated with platelet count ( r &#x2009;=&#x2009;-0.38; P &#x2009;=&#x2009;0.048). No breed association was identified. Cats aged 5 years were more likely to be DAT positive, whereas castrated male cats were less likely to be DAT positive. Flow cytometry-based DAT is a useful adjunctive diagnostic tool for assessing suspected immune-mediated platelet destruction in thrombocytopenic cats. Younger cats may be at increased risk, whereas castrated male cats may be at lower risk. However, the interpretation of a DAT-positive test result should be made alongside assessment of clinical findings and investigations for underlying causes of thrombocytopenia.",
       "categories": [
         "internalMedicine"
       ]
@@ -2344,16 +2379,6 @@
       "categories": [
         "internalMedicine"
       ]
-    },
-    {
-      "pmid": "42557850",
-      "title": "The hormonal effects of owner-cat interactions on pet cats of different potential attachment styles.",
-      "journal": "Journal of Feline Medicine and Surgery",
-      "authors": "He X, Huang H, Chang H, Xu W, Gui C, Pan J, Yan H, Guo Y, Avilas-Rosa E, Yang B, Deng B, Zhang L",
-      "date": "2026 10 08",
-      "dateObject": "2026 10 08",
-      "abstract": "The aim of the present study was to investigate how different owner-cat interaction types influence stress and owner-bonding in pet cats with different potential attachment styles, using salivary cortisol and oxytocin as physiological indicators. Twenty pet cats were classified into potential secure, insecure-anxious or insecure-avoidant attachment styles using the Secure Base Test. Owners engaged in four types of interactions with their cats at home on separate days. Saliva samples were collected before and after each interaction and analysed for cortisol and oxytocin concentrations. The effects of attachment style, interaction type and time on hormonal changes were examined. Significant interactive effects of potential attachment style and time, as well as interaction type and time, were observed for both cortisol and oxytocin. Passive interactions were associated with increased oxytocin and decreased cortisol, whereas forced interactions showed an opposite pattern. Secure cats exhibited more positive hormonal responses to human interactions compared with insecure cats, who showed increased cortisol or limited hormonal changes. Insecure cats also showed higher basal oxytocin levels than secure cats. Human-cat interactions trigger changes in cortisol and oxytocin levels, depending on the interaction type and cat's attachment style. These findings highlight the importance of considering individual cat attachment differences when promoting appropriate interaction strategies to improve cat welfare and human-cat relationships.",
-      "categories": []
     },
     {
       "pmid": "42847764",
@@ -2479,18 +2504,6 @@
       ]
     },
     {
-      "pmid": "42816882",
-      "title": "Brachyspira hyodysenteriae detected in a dog with acute haemorrhagic diarrhoea: a case report.",
-      "journal": "BMC Veterinary Research",
-      "authors": "Jeong H, Ahn H, Cheon DS, Oh Y, Yoon WK",
-      "date": "2026 10 01",
-      "dateObject": "2026 10 01",
-      "abstract": "Brachyspira hyodysenteriae is a well-known pathogen of swine dysentery, a severe mucohaemorrhagic colitis in pigs. While several Brachyspira species are reported in dogs, natural Brachyspira hyodysenteriae detection in dogs is extremely rare. This case report aims to provide insight into the pathogenic potential and clinical significance of Brachyspira hyodysenteriae in dogs. A 5-year-old male mongrel dog was presented with acute haemorrhagic diarrhoea shortly after being adopted from a shelter, where he had a history of soft stools. The faeces were watery, containing fresh blood and fibrinous mucus. Initial wet mount and faecal flotation tests were negative for parasites or ova, but faecal smear cytology revealed diverse bacterial morphologies, including chevron- and spiral-shaped forms. Real-time PCR identified Brachyspira hyodysenteriae with a low Ct value (27.19), alongside Campylobacter coli, Campylobacter jejuni, canine astrovirus and Cystoisospora. The dog was treated with enrofloxacin, metronidazole, and fenbendazole, leading to complete resolution of haematochezia and gradual normalization of stool consistency. Follow-up real-time PCR confirmed the absence of all previously detected pathogens, and the patient remained asymptomatic. This case suggests that Brachyspira hyodysenteriae, traditionally regarded as a swine-specific pathogen, may contribute to gastrointestinal disease in dogs. However, because confirmatory bacterial culture was not performed and multiple enteropathogens were detected concurrently, a definitive association between Brachyspira hyodysenteriae and the observed haemorrhagic diarrhoea cannot be established. Nevertheless, it highlights the importance of considering Brachyspira hyodysenteriae in unexplained cases of infectious diarrhoea in dogs, particularly regarding mixed infections. These findings also raise concerns regarding potential interspecies transmission and associated biosecurity risks. Further research is warranted to enhance understanding of diagnostic strategies, treatment approaches and antibiotic resistance patterns.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
       "pmid": "42808833",
       "title": "Integrated Biomarker Assessment of Bifenthrin, Chlorpyrifos and Endosulfan Toxicity in Indigenous Carps (Catla catla and Labeo rohita): Oxidative Stress, Genotoxicity and Nuclear Alterations.",
       "journal": "Veterinary Medicine and Science",
@@ -2597,18 +2610,6 @@
       "date": "2026 09 14",
       "dateObject": "2026 09 14",
       "abstract": "",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42728486",
-      "title": "Differential diagnosis of microcytic hypochromic anemia in dogs: the role of hepcidin and reticulocyte hemoglobin indices.",
-      "journal": "Veterinary Research Communications",
-      "authors": "Palluy C, Velasco-Mart&#xed;nez MG, Colomer-Selva R, Descalzo-Navarro M, Mena-Moros B, Martins E, Dami&#xe1; E, Satu&#xe9; K",
-      "date": "2026 09 12",
-      "dateObject": "2026 09 12",
-      "abstract": "Microcytic hypochromic anemia in dogs represents a persistent diagnostic challenge, particularly when differentiating between absolute iron deficiency and inflammation-driven functional iron restriction. Conventional biomarkers, including serum iron and ferritin, present important limitations in terms of sensitivity, specificity, and temporal resolution, restricting their ability to accurately reflect dynamic changes in iron metabolism. This review critically evaluates the diagnostic performance and clinical relevance of hepcidin and reticulocyte hemoglobin indices (CHr/RET-He) as advanced biomarkers of iron-restricted erythropoiesis in dogs. Reticulocyte indices provide a dynamic and near real-time assessment of iron availability at the level of erythropoiesis, enabling early detection of iron-restricted states and monitoring of therapeutic response. However, their diagnostic utility is limited by an inability to discriminate between underlying etiological mechanisms. In contrast, hepcidin, the central regulator of systemic iron homeostasis, provides mechanistic insight into iron metabolism. Its circulating concentrations decrease in absolute iron deficiency and increase in inflammation-mediated iron sequestration, thereby potentially facilitating etiological differentiation. Despite its diagnostic potential, clinical application remains limited by methodological variability, lack of assay standardization, and incomplete reference intervals in canine populations. The integration of functional biomarkers (CHr/RET-He) with a regulatory biomarker (hepcidin) is proposed as a complementary and physiologically grounded approach. This combined strategy may enhance diagnostic accuracy, support etiological classification, and facilitate clinical decision-making; however, its diagnostic performance has not yet been sufficiently validated in canine patients, and further prospective studies are required before routine clinical implementation can be recommended.",
       "categories": [
         "internalMedicine"
       ]

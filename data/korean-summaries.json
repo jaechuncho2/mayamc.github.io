@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T03:35:53.675Z",
+  "updated_at": "2026-11-11T01:17:11.266Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -8471,6 +8471,70 @@
       "title": "Chronic Recurrent Septic Peritonitis in a Diabetic Dog Caused by Staphylococcus pseudintermedius With Splendore-Hoeppli Reaction (Botryomycosis-Like/Bacterial Pseudomycetoma).",
       "journal": "Veterinary Medicine and Science",
       "generated_at": "2026-11-09T00:56:11.483Z",
+      "model": "gpt-5-mini"
+    },
+    "43004045": {
+      "brief_summary": "개와 고양이의 광견병 예방면역 감시를 목표로, Semliki Forest virus(SFV)로 발현된 광견병바이러스 글리코프로테인(RVG)을 코팅 항원으로 하고 HRP 표지 7A3(HRP-7A3)을 검출항체로 이용한 경쟁형 ELISA(cELISA)를 개발하였다. ROC 곡선 분석을 통해 개 혈청의 최적 컷오프는 42.5%, 고양이 혈청은 54.5%로 설정되었고 임상적 일치율(Overall Percent Agreement)은 개에서 95.67%, 고양이에서 97.17%로 우수하였다. 본 cELISA는 반려견·반려묘의 광견병 중화항체 감시용으로 유망한 도구로 제시된다.",
+      "detailed_summary": "연구는 SFV로 발현한 광견병바이러스 글리코프로테인(SFV-RVG)을 코팅 항원으로 사용하고 horseradish peroxidase 표지 7A3(HRP-7A3)을 검출항체로 사용하는 경쟁형 ELISA(cELISA)를 개발하는 방식으로 설계되었다. 개발된 검사법은 RVG 중화항체를 특이적으로 검출하도록 고안되었고, 연구진은 자체 보유 샘플 패널(in-house sample panel)을 이용해 성능을 평가하였다. 수검은 ROC(수신자조작특성) 곡선 분석을 통해 이루어졌으며 최적 컷오프 값은 개 혈청에서 42.5%, 고양이 혈청에서 54.5%로 나타났다. 임상적 합치도는 개에서 OPA 95.67%, 고양이에서 OPA 97.17%로 보고되어 전반적인 일치성이 높았다. 결론적으로 이 cELISA는 개·고양이의 광견병 면역 감시용으로 유용할 가능성이 높다고 제시되었다. 초록에는 표본 수나 민감도·특이도 등 세부 성능 지표와 추가적인 제한점에 대한 정보는 제시되어 있지 않으므로, 실제 임상 적용 전에는 원자료와 추가 검증이 필요하다.",
+      "title": "Rapid competitive ELISA incorporating Semliki Forest virus-expressed rabies virus glycoprotein for serological surveillance of canine and feline rabies immunity.",
+      "journal": "Veterinary Research Communications",
+      "generated_at": "2026-11-11T01:17:11.249Z",
+      "model": "gpt-5-mini"
+    },
+    "43005072": {
+      "brief_summary": "후방 하부 요추(요천추 부위 포함) 골절 및 전위로 내원한 고양이 3례를 대상으로 양측 모노액시얼 페디클 스크류 및 로드 고정(Pedicle Screw and Rod Fixation, PSRF)의 적용 결과를 보고한 후향적 증례보고이다. 수술 후 신경학적 지표는 1례가 III→0으로 호전, 1례가 IV→III로 부분 호전되었고, 1례는 V로 호전이 없었다. 저자들은 PSRF가 고양이 하부 요추 병변의 안정화에 기술적으로 적용 가능함을 시사하며 추가 연구가 필요함을 제시했다.",
+      "detailed_summary": "본 연구는 2016–2018년에 PSRF로 치료된 외상성 하부 요추 골절 및 전위 고양이 3마리를 후향적으로 분석한 단기 증례군 보고이다. 포함기준은 다른 동반질환 없는 흉요추 골절·전위였고, 수집된 자료는 임상증상, 신경학적 검사, 수술 전 방사선 및 CT, 수술 후 신경학적 검사 및 6–7주 추적 방사선 소견이었다. 모든 영상은 수의학 방사선학 전문의가 재검토하였고, 모든 증례에 대해 양측 모노액시얼 PSRF를 시행하여 척수 및 마미신경의 감압 및 고정이 이루어졌다. 수술 성적은 첫 증례(L6 분쇄 골절·전위)에서 신경학적 등급이 수정된 Griffith Sharp-Wheeler 척도로 III에서 0으로 호전, 두번째 증례(L7 분쇄 골절, 경미한 배측 전위)는 IV에서 III로 호전, 세번째 증례(L5–L6 완전 전위 및 다발 골절)는 등급 V로 호전이 관찰되지 않았다. 일부 증례는 수술 후 2–3주에 방문하였고 모든 증례가 6–7주 후 추적되었음을 보고하였다. 저자 결론은 PSRF가 고양이 하부 요추 골절/전위의 안정화에 기술적으로 가능한 옵션임을 시사하지만, 표본 수가 3례에 불과한 증례보고로 일반화는 제한되며 추가 연구가 필요하다는 점을 명확히 하고 있다.",
+      "title": "Pedicle screw and rod fixation in three cats with caudal lumbar vertebral fracture and luxation: a case report.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-11-11T01:16:57.599Z",
+      "model": "gpt-5-mini"
+    },
+    "43005087": {
+      "brief_summary": "총 80마리(돌리코세팔릭 20, 메소세팔릭 20, 브라키체팔릭 40; BOAS G1 10, G2 18, G3 12)를 대상으로 적외선 열화상(IRT)을 이용해 두 종류의 표준화된 중등도 운동(6분 도보 및 1,000m 도보)이 얼굴 및 사지의 표면 온도에 미치는 영향을 평가했다. 브라키체팔릭 개들은 얼굴 표면 온도가 최대 2.6°C 증가(p<0.0001)하고 10분 회복 후에도 온도 회복이 느려 BOAS와 연관된 통기 제한과 피부를 통한 열 발산 의존 증가를 시사했다. 6분 도보검사에서는 두상형 간 이동 거리 차이(p=0.0028)가 관찰되었고, 1,000m 검사에서는 모든 BOAS 등급에서 더 뚜렷한 표층 미세순환 변화가 나타나 두 검사가 상호 보완적 정보를 제공했다.",
+      "detailed_summary": "전향적 관찰 연구로 총 80마리의 개를 돌리코세팔릭(n=20), 메소세팔릭(n=20), 브라키체팔릭(n=40; BOAS G1=10, G2=18, G3=12)으로 분류했다. 적외선 열화상(IRT)을 사용해 안각(카룬클), 상·하안검, 상·하순, 교근, 콧구멍 등 얼굴 영역과 전·후지, 그라실리스, 대퇴이두(biceps femoris), 장단지(gastrocnemius) 등 사지 근육 영역을 평가했다. 측정은 T1(기저치), T2(6분 도보 후), T3(1,000m 도보 후), T4(10분 회복 후)의 4시점에서 이루어졌다. 브라키체팔릭 개들은 얼굴 표면온도가 최대 2.6°C 상승(p<0.0001)했고 10분 회복 시까지 온도가 더 천천히 회복되었다. BOAS G2에서는 근육성 열창(appendicular windows)의 운동 후 온도가 35 ± 0.5°C로 보고되었다. 6분 도보검사는 두상형 간 초기 운동성능 차이(이동 거리, p=0.0028)를 구별했고, 1,000m 도보검사는 브라키체팔릭 구성과 BOAS 중증도에 따른 표층 미세순환 변화가 더 뚜렷하게 드러났다. 연구는 브라키체팔릭 개들의 얼굴 열반응 및 느린 회복이 통기 제한과 피부를 통한 열발산 의존 증가를 시사한다고 결론지었으며, 두 검사법이 상호보완적 정보를 제공한다고 보고했다.",
+      "title": "Thermal response to moderate exercise in dogs of different biotypes and brachycephalic obstructive airway syndrome severity assessed using infrared thermography.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-11-11T01:16:44.360Z",
+      "model": "gpt-5-mini"
+    },
+    "43005152": {
+      "brief_summary": "본 연구는 모노소듐 아이오아세테이트로 유발한 비글의 개 슬관절 골관절염(OA) 모델에서 개인 맞춤형 3차원(3D) 프린팅 폴리락트산(PLA) 무릎 보조기 단독 또는 단기 비스테로이드성 소염진통제(NSAIDs) 병용 효과를 평가했다. 12마리 비글을 4개군(각 군 n=3)으로 나누어 무게지지 대칭성, 관절 가동범위(ROM), LOAD, CBPI, COI 등의 임상 지표를 측정했고, 유한요소해석(FEA)을 통해 기계적 영향을 모델링했다. 결과는 보조기 단독이 무처치보다 단기 기능 개선과 연관됐고, NSAIDs와 보조기 병용군이 무게지지 대칭성·ROM·임상점수에서 가장 큰 전반적 개선을 보였음을 시사한다. 이는 개인 맞춤형 3D 프린팅 보조기가 NSAID 치료의 기계적 보조수단으로 잠재적 가치를 가질 수 있음을 의미한다.",
+      "detailed_summary": "설계는 모노소듐 아이오아세테이트로 유발한 비글 슬관절 OA 모델의 무작위 분류 실험으로, 총 12마리 비글을 OA(무치료), OA/Spt(보조기 단독), OA/NSAIDs(NSAIDs 단독), OA/NSAIDs/Spt(병용)로 각 3마리씩 배정했다. 주요 평가 항목은 정적 후지 무게지지 대칭성, 슬관절 ROM, Liverpool Osteoarthritis in Dogs(LOAD), The Canine Brief Pain Inventory(CBPI), The Canine Orthopedic Index(COI)의 통증 및 기능 점수였다. 유한요소해석(FEA)은 대표적 정상 및 OA 무릎 모델에서 보조기가 PLA 항복응력 이하로 유지되며 OA 모델에서 최대 응력(peak stress), 등가탄성변형률(equivalent elastic strain), 대퇴 과(condylar) 접촉압력, 연골 총변형(cartilage total deformation) 등을 감소시키는 방향으로 예측되었다. 생체 내 결과에서는 보조기 단독이 무처치보다 단기 기능 지표에서 더 나은 결과와 연관됐고, NSAIDs와 보조기 병용군이 무게지지 대칭성, ROM 및 임상 점수에서 가장 큰 전반적 개선을 보였다. 다만 저자들은 상호작용(interaction)에 대한 정식 분석을 수행하지 않았으므로 병용치료 결과는 상호작용의 증거라기보다 단기적 기능 개선의 폭이 넓었다는 해석에 그쳐야 한다고 명시했다. 결론은 개인 맞춤형 3D 프린팅 무릎 보조기가 NSAID 치료의 기계적 보조 수단으로 잠재적 유효성을 보였다는 예비적 근거를 제공하지만, 샘플 수가 적고 상호작용 분석 부재 등 제한점이 있어 추가 연구가 필요하다는 것이다.",
+      "title": "A personalized three-dimensional printed knee splint for mechanical mitigation of canine knee osteoarthritis and adjunctive nonsteroidal anti-inflammatory drug therapy.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-11-11T01:16:26.597Z",
+      "model": "gpt-5-mini"
+    },
+    "43008071": {
+      "brief_summary": "전향적 횡단 관찰 연구로 불명 원인 수막뇌염(MUO)으로 진단된 개 23마리와 비교군 110마리를 대상으로 뇌척수액(CSF)과 혈청의 6개 사이토카인(IFN-γ, TNF-α, IL-2, IL-6, IL-10, IL-15)을 다중 비드 면역측정법으로 측정했다. MUO에서는 CSF에서 IFN-γ(중앙값 108.4 pg/mL, IQR 25.8 vs 비교군 10.5 pg/mL, IQR 0.0; β=0.039, 95% CI 0.021–0.057, P<.001)와 IL-10(중앙값 171.1 pg/mL, IQR 37.0 vs 8.5 pg/mL, IQR 0.0; β=0.021, 95% CI 0.011–0.030, P<.001)이 유의하게 높았다. 또한 TNF-α(β=0.062, 95% CI 0.023–0.102, P<.01), IL-15(β=0.080, 95% CI 0.012–0.148, P<.05), IL-2(β=0.055, 95% CI 0.005–0.104, P<.05)도 MUO에서 상승을 보였다는 점에서 MUO의 특이적 뇌내(척수강 내) 면역 서명을 제시한다는 임상적 의미가 있다.",
+      "detailed_summary": "연구는 전향적 횡단 관찰 설계로 MUO로 진단된 개 23마리와 뇌중추신경계(CNS) 질환, 비중추신경계 신경학적 질환(non-CNS), 정형외과 질환을 포함한 비교군 110마리를 포함했다. 연구 목적은 짝을 이룬 뇌척수액(CSF)과 혈청에서 6개 사이토카인(IFN-γ, TNF-α, IL-2, IL-6, IL-10, IL-15)을 다중 비드 기반 면역측정법으로 측정하여 MUO와의 연관성을 평가하는 것이었다. 주요 분석은 CSF 사이토카인 농도와 MUO의 연관성을 로지스틱 회귀로 평가한 것으로, IFN-γ와 IL-10이 MUO에서 CSF 농도가 유의하게 높았으며 각 항목의 중앙값, IQR, β-계수와 95% 신뢰구간 및 P값이 제시되었다. 구체적으로 IFN-γ 중앙값은 MUO 108.4 pg/mL(IQR 25.8) 대 비교군 10.5 pg/mL(IQR 0.0)(β=0.039, 95% CI 0.021–0.057, P<.001)이며, IL-10 중앙값은 MUO 171.1 pg/mL(IQR 37.0) 대 비교군 8.5 pg/mL(IQR 0.0)(β=0.021, 95% CI 0.011–0.030, P<.001)이다. 또한 TNF-α(β=0.062, 95% CI 0.023–0.102, P<.01), IL-15(β=0.080, 95% CI 0.012–0.148, P<.05), IL-2(β=0.055, 95% CI 0.005–0.104, P<.05)도 MUO에서 상승 경향을 보였다. 결론은 CSF 사이토카인 프로파일링이 MUO에서 특징적인 척수내 면역 서명을 확인하여 MUO의 면역병태생리 이해를 진전시킨다는 것이다.",
+      "title": "Comparative cytokine profiling in cerebrospinal fluid and serum of dogs with meningoencephalitis of unknown origin.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-11-11T01:16:06.150Z",
+      "model": "gpt-5-mini"
+    },
+    "43008072": {
+      "brief_summary": "본 연구는 초음파로 측정한 신장 길이와 피질·수질 두께가 고양이 만성신부전(CKD) 진단 및 병기 평가에 유용한지, 그리고 갑상선항진증의 영향과 연령·체중·성별·좌우 차이나 관찰자 변동성을 평가하기 위해 진행된 후향적 관찰 연구이다. 총 259마리(건강 179, CKD 38, 비요독증성 갑상선항진 42)를 대상으로 했고, CKD 고양이는 정상군에 비해 신장이 평균 -0.49 cm(-13.26%) 짧고 피질·수질이 유의하게 얇았다(예: 수질 dorsal -0.28 cm, -26.25%, P<.001). 신장 길이와 수질 두께가 진단 정확도가 가장 높았으나 어떤 초음파 지표도 CKD 중증도를 안정적으로 반영하지 못했고, 연령·체중·성별 및 관찰자 간 변동성을 고려해야 한다는 결론이다.",
+      "detailed_summary": "후향적으로 초음파로 측정한 신장 길이와 피질/수질 두께 및 파생 비율을 이용해 CKD 진단·병기화 및 갑상선항진증 영향과 생물학적·관찰자 변동성을 평가했다. 대상은 총 259마리의 내원 고양이로 건강군 179마리, CKD군 38마리, 비요독증성 갑상선항진군 42마리였다. 그룹 간 비교는 고정효과·혼합모형으로, 진단 정확도는 ROC(수신자조작특성) 분석으로 평가했고 연령·체중·성별·좌우 영향은 다중선형회귀로, 관찰자 변동성은 ICC(내·외관찰자)로 정량화했다. CKD군은 연령을 보정한 정상군에 비해 신장이 평균 -0.49 cm(-13.26%, P<.001) 짧았고, 피질(dorsal -0.10 cm, -16.23%, P<.001; transverse -0.06 cm, -9.14%, P<.05)과 수질(dorsal -0.28 cm, -26.25%, P<.001; transverse -0.24 cm, -19.7%, P<.001)이 유의하게 얇았다. 신장 길이와 수질 두께가 진단적 성능이 가장 우수했으나 어떤 초음파 지표도 CKD의 중증도를 신뢰성 있게 반영하지 못했다. 또한 정상 고양이에서는 연령·체중·성별이 생물학적 변동을 설명했고 좌·우 약간의 비대칭이 관찰되었으며, 관찰자 간 변동성은 상당하여 임상 적용 시 이들을 고려해야 한다는 제한점이 제시되었다.",
+      "title": "Ultrasound-measured renal length and corticomedullary thickness for the diagnosis and staging of chronic kidney disease in cats.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-11-11T01:15:43.639Z",
+      "model": "gpt-5-mini"
+    },
+    "43008073": {
+      "brief_summary": "31마리의 안내견·반려견(클라이언트 소유)을 대상으로 한 전향적 연구로, 만성 장질환(chronic enteropathy, CE) 관리에서 저지방(2.01 g/100 kcal 대사에너지) 하이드롤라이즈드 연어 단백질 식이의 임상적 반응성과 수용성을 평가했다. 1개월 시점에서 64.5%(20/31)가 완전 반응(CR), 9.7%(3/31)가 부분 반응(PR)으로 총 74.2%가 반응을 보였고, Canine Inflammatory Bowel Disease Activity Index(CIBDAI) 점수는 유의하게 감소했다(P < .001). 중기 추적(3개월)에서 초기 반응자 중 94.4%가 CR을 유지했고, 식이 수용성은 75.0%에서 '우수'로 평가되어 이 식이가 CE의 식이반응성 질환 관리에 유용할 수 있음을 시사한다.",
+      "detailed_summary": "연구는 전향적 임상연구로, 이전 식이력을 기준으로 층화한 31마리의 클라이언트 소유 개를 대상으로 수행되었다. 대상은 저지방(2.01 g/100 kcal ME) 하이드롤라이즈드 연어 단백질 식이를 급여받았고 평가 시점은 베이스라인(T0), 1개월(T1), 3개월(T2)이었다. 주요 평가변수는 위장관 증상과 Canine Inflammatory Bowel Disease Activity Index(CIBDAI)를 기반으로 한 임상 반응으로, 결과는 완전 반응(CR), 부분 반응(PR), 비반응(NR)으로 분류되었다. T1에서 20/31(64.5%)이 CR, 3/31(9.7%)이 PR, 8/31(25.8%)이 NR으로 총 23/31(74.2%)가 반응을 보였고 CIBDAI 점수는 T0→T1 사이에 통계적으로 유의하게 감소(P < .001)했다. T2에서는 초기 반응자 중 94.4%가 CR을 유지했으며, 식이 수용성은 75.0%에서 '우수'로 보고되었다. 초록에는 별도의 한계점이 명시되어 있지 않으나 제시된 결과는 단기간·중기간의 효과와 관용성을 지지하는 관찰적 임상 결과임을 시사한다.",
+      "title": "Use of a novel low-fat hydrolyzed diet in the management of dogs with chronic enteropathy.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-11-11T01:15:30.990Z",
+      "model": "gpt-5-mini"
+    },
+    "43008074": {
+      "brief_summary": "세 마리의 고양이(의심되는 간지방증, hepatic lipidosis) 사례에서 비식도 튜브(nasoesophageal tube, NE tube)를 24–37일간 누적 삽입한 후 튜브 제거 1–3일 이내에 역류 또는 구토가 발생했고, 식도내시경(esophagoscopy)에서 모두 경부 식도(제4–제6경추 수준)에 심한 국소 협착이 확인되었다. 한 마리는 주 1회 간격으로 3회에 걸쳐 내시경적 풍선확장술을 받아 식도 내강이 넓어졌다. 저자들은 장기간 NE 튜브 삽입이 경부 식도 협착의 위험요인일 수 있음을 시사하며, 장기간 영양 보조가 예상되면 장기 사용용 튜브로 전환을 고려할 것을 권고한다.",
+      "detailed_summary": "본 논문은 간지방증이 의심되어 자발적 섭취량이 계산된 휴식 에너지 요구량의 <25%로 지속된 세 마리의 고양이를 대상으로 한 증례 보고이다. 세 마리 모두 경장 영양을 위해 비식도 튜브(NE tube)를 누적 24–37일 동안 사용했다. 튜브 제거 후 1–3일 이내에 역류(regurgitation) 또는 구역질(retching)이 발생했으며, 식도내시경으로 검사한 결과 모두 경부 식도(제4–제6경추 수준)에 심한 국소 협착이 관찰되었다. 치료로 한 마리는 주 1회 간격으로 3회 내시경적 풍선 확장술(endoscopic balloon dilatation)을 받아 식도 내강이 확장되었다. 저자들은 해부학적 위치와 시간적 연관성이 일관되므로 장기간 NE 튜브 삽입이 경부 식도 협착 형성의 위험요인일 수 있다고 제시한다. 그러나 표본 수가 3례인 증례 보고이므로 인과관계를 일반화하기는 어렵고 제한점이 있으며, 장기간 영양 공급이 예상되는 경우 장기 사용을 목적으로 한 삽관으로 전환하는 것을 고려할 것을 권고한다.",
+      "title": "Esophageal strictures associated with prolonged nasoesophageal tube placement in three cats.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-11-11T01:15:16.907Z",
       "model": "gpt-5-mini"
     }
   }
