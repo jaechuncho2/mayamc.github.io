@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T01:17:11.266Z",
+  "updated_at": "2026-11-12T02:17:17.607Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -5561,6 +5561,14 @@
       "generated_at": "2026-09-18T23:21:54.493Z",
       "model": "gpt-5-mini"
     },
+    "42754303": {
+      "brief_summary": "다기관, 이중맹검, 무작위·위약대조 임상시험에서 2세대 고선택적 JAK1 억제제인 atinvicitinib을 가진 반려견의 아토피성 피부염(cAD) 치료 효과와 안전성을 평가했다. 총 61마리의 내원 반려견을 대상으로 0.8–1.2 mg/kg 1일 1회( q.d., n=21) 또는 0.4–0.6 mg/kg 2회 투여 후 1일 1회로 전환(b.i.d.-q.d., n=21), 위약군(n=19)과 비교했다. 28일째 치료 성공률(기준: PVAS 또는 CADESI-04 기준으로 기저치 대비 ≥50% 감소)은 q.d. 87.5% (p=0.011), b.i.d.-q.d. 73.3% (p=0.033)로 위약군(23.1%)보다 유의하게 높았고, 임상병변과 가려움증이 빠르게 호전되었으며 검사 결과는 평균적으로 정상 범위 내로 안전하게 잘 견딘 것으로 보고되었다.",
+      "detailed_summary": "연구는 다기관, 이중맹검, 무작위·위약대조 방식으로 진행되었고 총 61마리의 12개월 이상, 2kg 이상인 cAD(반려견 아토피성 피부염) 환견이 포함되었다. 투약군은 0.8–1.2 mg/kg을 하루 한 번( q.d., n=21), 0.4–0.6 mg/kg을 하루 두 번 14일 뒤 하루 한 번으로 전환(b.i.d.-q.d., n=21), 위약군(n=19)이었다. 주요 평가지표는 보호자가 평가한 가려움증(Visual Analog Scale, PVAS)과 수의사가 평가한 피부병변(CADESI-04)이었고, 치료 성공은 28일째 PVAS 또는 CADESI-04가 기저치 대비 ≥50% 감소로 정의되었다. 28일째 치료 성공률은 q.d.군 87.5% (p=0.011), b.i.d.-q.d.군 73.3% (p=0.033)로 위약군 23.1%보다 유의하게 높았고, PVAS에서 ≥2점 감소는 q.d.군에서 80.0%로 위약군(16.7%, p=0.042)에 비해 큰 차이를 보였다. PVAS 감소는 두 투약군 모두에서 위약군에 비해 유의했고(q.d. p=0.003, b.i.d.-q.d. p=0.001), CADESI-04의 유의한 감소는 q.d.군에서 보고되었다(p=0.046). 임상병리 결과의 평균값은 기준 범위 내에 머물렀고 전반적으로 약물은 내약성이 양호한 것으로 기술되었다. 초록에서는 추가적인 제한점에 대한 상세 기술은 제시되지 않았다.",
+      "title": "Efficacy and Field Safety of the Second-Generation, Highly Selective JAK1 Inhibitor Atinvicitinib for the Treatment of Canine Atopic Dermatitis: A Multicentre, Blinded, Randomised, Placebo-Controlled Clinical Trial in Client-Owned Dogs.",
+      "journal": "Veterinary Dermatology",
+      "generated_at": "2026-11-12T02:17:17.591Z",
+      "model": "gpt-5-mini"
+    },
     "42755814": {
       "brief_summary": "무작위 대조시험으로 미국 텍사스 시립 보호소의 과도한 각성 보이는 개 50마리를 대상으로 환경풍부화와 약물 중재(gabapentin 20 mg/kg, trazodone 6 mg/kg)의 효과를 평가했다. 약물과 차분한 풍부화(산책·사람-동물 상호작용)를 병행한 군에서 핥기, 헐떡임, 짖음, 점프 등 여러 행동과 각성 점수가 가장 크게 감소했고(예: 베이스라인 대비 약물 p=0.001, 약물+차분 p<0.001), 능동적 풍부화와 약물 단독도 일부 개선을 보였다. 결과는 보호소에서의 복지 향상 및 입양 가능성 증진을 위한 개입으로 환경풍부화와 약물치료 병행을 고려할 수 있음을 시사한다.",
       "detailed_summary": "연구는 무작위 배정된 대조시험으로, 텍사스의 한 시립 보호소에서 과도한 각성을 보이는 개 50마리를 대상으로 1주간의 베이스라인(일 1~7)과 1주간의 치료(일 8~14)를 비교 관찰하였다. 대상은 5개 군으로 무작위 배정되었고, 치료는 (1) 베이스라인(5분 산책 2회/일), (2) 차분 풍부화(15분 산책 2회/일 + 15분 사람-동물 상호작용), (3) 능동 풍부화(15분 놀이 2회/일 + 15분 상호작용), (4) 약물(가바펜틴 20 mg/kg, 트라조돈 6 mg/kg + 5분 산책 2회/일), (5) 약물+차분 풍부화(동일 약물 용량 + 15분 산책 2회/일 + 15분 상호작용)로 구성되었다. 주요 평가는 각성 점수(0=no, 4=극심)와 켄넬에서의 이행 용이도 점수(0=무난, 4=극심)였고, 행동은 풍부화 전·중·후에 관찰하여 기록하였다. 주요 결과로는 포스트-풍부화 시 베이스라인 군이 능동 풍부화(p=0.041), 약물(p=0.001), 약물+차분(p<0.001) 군에 비해 더 높은 각성 점수를 보였고, 전체적으로 10일차(p<0.001)와 14일차(p=0.003 vs day1)에 각성 점수가 유의하게 낮아졌다. 약물+차분 군은 모든 처리군에 비해 핥기(p=0.004), 헐떡임(p=0.032), 짖음(p=0.003), 점프(p<0.001)가 더 적었고, 약물 군은 베이스라인에 비해 점프 감소(p<0.001)와 체흔(몸 흔들기) 증가(p=0.003)를 보였다. 추가 관찰로는 포스트-풍부화 시 앞발 들기(p<0.001), 하품(p=0.011), 짖음(p<0.001)이 감소하고 핥기(p<0.001), 환경 스캔(p=0.002), 헐떡임(p=0.002)이 증가했으며, 켄넬 위치와 체류 기간도 일부 행동과 연관성을 보였다(예: 출입구 근처 켄넬에서 앞발 들기 감소 p=0.013; 장기 체류는 경계 행동 증가 p=0.001 등). 결론적으로 이 중재들은 보호소 개의 과도한 각성을 줄일 가능성을 제시하나, 단일 시립 보호소 대상 및 1주간의 치료 관찰이라는 점에서 일반화와 장기 효과에 대한 제한이 있다.",
@@ -5663,6 +5671,14 @@
       "title": "Escherichia coli isolated from canine pyometra show decreased susceptibility to amoxicillin-clavulanic acid in dogs.",
       "journal": "Journal of the American Veterinary Medical Association",
       "generated_at": "2026-09-20T23:16:48.154Z",
+      "model": "gpt-5-mini"
+    },
+    "42764151": {
+      "brief_summary": "스위스에서 보고된 개의 귀(auricular)에 발생한 Onchocerca lupi(O. lupi) 감염으로 인한 심한 일측 외이도염(otitis externa)에 대한 단일 증례보고이다. 기생충을 제거한 뒤 분자학적 검사로 진단을 확정했고, 병합 치료로 6주 이내에 완전 관해를 얻었다. 만성 외이도염에서 종괴 형성이 동반될 경우 O. lupi를 감별진단으로 고려해야 함을 시사한다.",
+      "detailed_summary": "이 논문은 스위스에서 처음으로 성공적으로 치료된 귀에 침범한 Onchocerca lupi 감염으로 인한 심한 일측 외이도염에 대한 단일 증례보고이다. 연구 설계는 증례보고로, 대상은 해당 개 한 마리이며 진단은 기생충(선형동물) 추출 후 분자 분석으로 확정되었다. 주요 평가 항목은 기생충 확인과 치료에 따른 임상적 경과로, 병합 치료 후 6주 이내에 완전 관해가 관찰되었다는 것이 핵심 결과이다. 초록에는 구체적 약물명이나 용량 등 치료 세부사항은 제시되지 않았다. 결론은 O. lupi가 종괴 형성을 동반한 만성 외이도염의 감별진단이 되어야 한다는 점을 강조한다. 중요한 제한점은 단일 증례에 불과해 일반화가 어렵고, 초록상 치료 상세와 장기 추적자료가 제공되지 않는다는 점이다.",
+      "title": "Successful Treatment of Onchocerca lupi Auricular Infestation Causing Severe Otitis Externa in a Dog.",
+      "journal": "Veterinary Dermatology",
+      "generated_at": "2026-11-12T02:17:01.533Z",
       "model": "gpt-5-mini"
     },
     "42765739": {
@@ -6215,6 +6231,14 @@
       "title": "Effects of Supplementing Semen Extenders With Spirulina platensis Extract on Post-Thaw Ram Sperm Quality.",
       "journal": "Veterinary Medicine and Science",
       "generated_at": "2026-09-29T01:00:51.034Z",
+      "model": "gpt-5-mini"
+    },
+    "42805756": {
+      "brief_summary": "국제동물알레르기위원회(ICADA)의 업데이트된 지침으로, 개 아토피 피부염(cAD)을 문헌고찰 기반으로 기전별 치료법과 두 단계의 치료(급성 증상 해소를 위한 반응 치료와 재발 예방을 위한 예방적 치료)로 재구성하였다. 근거는 무작위대조시험과 체계적 문헌고찰을 우선으로 하며 Strength of Recommendation Taxonomy로 등급화했다. 급성 증상에는 전신성 광범위 약제(특히 글루코코르티코이드)를 권고하고, JAK 억제제 및 lokivetmab는 병변 유형과 염증 양상에 따라 유효할 수 있다고 제시한다.",
+      "detailed_summary": "이 문서는 ICADA가 기존 권고를 대폭 수정해 문헌을 검토한 업데이트 지침으로, 치료를 약물의 작용기전별로 정리하고 반응 치료(기존 소양증과 병변 해결)와 예방 치료(관해 유지·재발 감소)를 구분했다. 권고는 가능한 경우 무작위대조시험과 체계적 고찰을 근거로 하며 근거 강도를 Strength of Recommendation Taxonomy로 표기한다고 밝혔다. 반응 치료로는 빠르게 작용하는 광범위 약제, 특히 글루코코르티코이드를 권장하며 JAK( Janus Kinase) 억제제와 lokivetmab는 병변 유형, 중증도 및 염증 복잡성에 따라 효과가 있을 수 있다고 명시했다. 2차 감염과 악화 인자는 반드시 동시에 처리해야 한다고 강조했다. 예방적 관리에는 피부 장벽 지원, 감염 관리, 알레르기원 회피, 알레르기 특이 면역요법(ASIT), 국소 글루코코르티코이드, ciclosporin, tacrolimus, lokivetmab 또는 JAK 억제제 등이 포함될 수 있으며 환자의 질병 양상과 반응에 따라 선택해야 한다. 저자들은 여러 중재가 cAD 치료에 적합하나 모든 경우에 보편적으로 필요하거나 서로 대체 가능하거나 항상 효과적이지는 않다고 경고하고, 효능·안전성·실용성·비용·견주 및 반려견의 삶의 질·국가별 규제 등을 치료선택에 반영할 것을 권고했다.",
+      "title": "Treatment of Canine Atopic Dermatitis: Updated Guidelines From the International Committee on Allergic Diseases of Animals (ICADA).",
+      "journal": "Veterinary Dermatology",
+      "generated_at": "2026-11-12T02:16:49.471Z",
       "model": "gpt-5-mini"
     },
     "42806282": {
@@ -8535,6 +8559,14 @@
       "title": "Esophageal strictures associated with prolonged nasoesophageal tube placement in three cats.",
       "journal": "Journal of Veterinary Internal Medicine",
       "generated_at": "2026-11-11T01:15:16.907Z",
+      "model": "gpt-5-mini"
+    },
+    "43010915": {
+      "brief_summary": "태국 나콘나욕(Nakhon Nayok)주에서 비정부기구 Jai Dog Rescue가 시행한 Catch-Neuter-Vaccinate-Return(CNVR) 중성화 캠페인의 효과를 transect 관찰자료와 일반화 혼합모형, 그리고 지식·태도·실천(KAP) 설문으로 평가한 연구이다. 중성화 노력이 자유롭게 돌아다니는 개의 관찰 수(개/km)와 강아지(puppies) 출현의 유의한 감소(p<0.05)와 연관되었고, 개 소유자·주민 설문에서도 개 수 감소(p<0.001), 개 수에 대한 긍정적 인식(p=0.01), 민원·물림 등 문제행동 감소 인식이 보고되었다. 연구는 중성화 적용이 최대 3년간 지속된 커버리지를 보였고, transect 방식이 프로그램 영향 모니터링에 실용적임을 시사한다.",
+      "detailed_summary": "연구는 태국 나콘나욕주에서 Jai Dog Rescue가 수행한 CNVR(포획-중성화-백신접종-재방사) 중성화 캠페인의 영향을 평가했다. 기관이 수집한 transect(횡단) 관찰자료와 일반화 선형 혼합모형을 사용해 단위 km당 관찰된 자유롭게 돌아다니는 개 수, 중성화된 개의 존재, 수유 중인 암컷 및 강아지의 존재, 복지 관련 지표 등을 분석했고, 두 지역(개입구역 vs 대조구역)에서 KAP 설문을 병행했다. 분석 결과 중성화 노력과 단위 km당 관찰 개수 및 강아지 출현은 유의하게 감소(p<0.05)했으며, KAP 설문에서는 개입구역 응답자가 거리상의 개 수 감소 보고(p<0.001), 개 수에 대한 긍정적 인식 증가(p=0.01), 민원 및 물림 등 문제행동에 대한 불만 감소를 보고했다. 또한 개입구역에서 등록된 소유견의 중성화 비율이 더 높았고(p<0.001), 인간적(비살상적) 개 관리 전략에 대한 선호가 더 컸다(p<0.001). 연구는 피크 중성화 시행 이후 최대 3년간 중성화 커버리지가 유지되는 양상을 보였고, 매년 수행된 중성화 수가 누적 효과를 가져왔으나 특히 1년 전 중성화 시행 수가 가장 강한 연관성을 보였다고 보고했다. 저자들은 DPM(개체수 관리) 노력이 나콘나욕에서 자유롭게 돌아다니는 개의 유의미한 감소와 주민 인식 개선과 연관되었다고 결론짓고, transect 기반 관찰이 장기적 프로그램 영향 측정에 실용적이라고 제언했다. 초록에서는 추가적인 제한점이나 표본 수에 대한 구체적 언급은 제공되지 않았다.",
+      "title": "The impacts of dog sterilization campaigns in Thailand: understanding changes in dog population dynamics.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-11-12T02:16:33.653Z",
       "model": "gpt-5-mini"
     }
   }
