@@ -1,6 +1,186 @@
 {
-  "updated_at": "2026-11-12T02:16:11.654Z",
+  "updated_at": "2026-11-13T01:50:59.301Z",
   "papers": [
+    {
+      "pmid": "43016161",
+      "title": "In vitro susceptibility of antimicrobial resistant strains of Escherichia coli isolated from the urine of dogs to pivmecillinam and fosfomycin.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Pohlmann M, LeCuyer TE, Woerde D, Palm C, Westropp JL",
+      "date": "2026 11 12",
+      "dateObject": "2026 11 12",
+      "abstract": "Multidrug resistant (MDR) and extended spectrum beta-lactamase-producing (ESBL) uropathogenic Escherichia coli are a cause of urinary tract infection (UTI) in dogs. Limited antimicrobial options are available for these infections. Determine the in vitro susceptibility of MDR and ESBL urinary E. coli isolates to pivmecillinam and fosfomycin using isolates collected from dogs with either UTI or subclinical bacteriuria. The secondary aim was to compare 2 susceptibility test methods for pivmecillinam: agar dilution and gradient strip testing. Thirty-four banked frozen urine isolates stored at the University of California, Davis Microbiology Laboratory collected from 33 dogs. Gradient strip tests and agar dilution were used to evaluate E. coli susceptibility to mecillinam, the active form of pivmecillinam. Median paired mecillinam minimum inhibitory concentration (MIC) differences by the 2 test methods were compared. For mecillinam resistant isolates, genomic sequencing was performed to determine resistance genes. Fosfomycin MICs were determined by gradient strip susceptibility testing. All isolates were susceptible to fosfomycin (34/34) and most isolates were susceptible using mecillinam agar dilution (31/34) and gradient strip (32/34), respectively. The paired log2-transformed mecillinam MIC results were significantly higher for agar dilution compared with gradient strip testing (V&#xa0;=&#xa0;21.5, r&#xa0;=&#xa0;-0.91). Pivmecillinam and fosfomycin are potential antimicrobial treatment options for dogs with MDR or ESBL E. coli UTI. Agar dilution is the preferred testing method for mecillinam susceptibility.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "43006832",
+      "title": "Correction to: Single Enema Fecal Microbiota Transplantation in Cats With Chronic Enteropathy.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "",
+      "date": "2026 11 12",
+      "dateObject": "2026 11 12",
+      "abstract": "",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "43019038",
+      "title": "Acute Levothyroxine Overdose Followed by Serial Monitoring of Total Thyroxine and Thyroid-Stimulating Hormone in a Hypothyroid Dog.",
+      "journal": "Veterinary Medicine and Science",
+      "authors": "Park S, Seo J, Lee T, Ahn W, Song W, Nam A",
+      "date": "2026 11 12",
+      "dateObject": "2026 11 12",
+      "abstract": "Reports of acute levothyroxine overdose in dogs are rare with limited monitoring data. An 8-year-old spayed female Pomeranian receiving long-term hypothyroidism treatment presented 9&#xa0;h after ingesting a one-month supply of levothyroxine (3&#xa0;mg; 1.13&#xa0;mg/kg). Except for transient tachycardia, the physical examination revealed unremarkable findings. The total thyroxine (T4) level exceeded the upper limit of quantification. Levothyroxine was discontinued, and activated charcoal and intravenous fluid were administered. The dog showed normal vital signs and no further clinical abnormalities during the 5-day hospitalisation. The total T4 concentration decreased and normalised by 73&#xa0;h after the overdose. The canine thyroid-stimulating hormone (cTSH) concentrations were initially normal but exceeded the upper reference limit at 98&#xa0;h. The patient was discharged on Day 5. Two days later, levothyroxine was resumed because the dog exhibited signs of recurrent hypothyroidism with persistently elevated cTSH levels. Hypothyroidism was well-controlled for 6 months. To our knowledge, this is the first report to document a levothyroxine overdose in a hypothyroid dog using daily total T4 and cTSH monitoring. These findings suggest that acute overdose is less severe than chronic levothyroxine exposure.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "43017553",
+      "title": "Case Report: Delayed epirubicin extravasation-induced ulceration in a dog managed without surgical intervention using adjunctive hyperbaric gaseous cryotherapy.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Kim CG, Park JH, Jeong SW",
+      "date": "2026 11 12",
+      "dateObject": "2026 11 12",
+      "abstract": "Extravasation of anthracyclines can result in progressive tissue injury, ulceration, and necrosis, and may ultimately require surgical intervention. Management of delayed presentations remains challenging, as recommended treatments, including dexrazoxane, dimethyl sulfoxide (DMSO), and cold compresses, are most effective when initiated promptly after the extravasation event. A 9-year-old spayed female Poodle with suspected stage IV multicentric lymphoma developed a progressive ulcerative lesion 17&#x202f;days after suspected epirubicin extravasation, by which time the recommended treatment window for standard interventions had elapsed. Given the progressive ulceration, severity of tissue injury, and delayed presentation, surgical debridement was considered. However, conservative management was pursued owing to the patient's limited prognosis and the owner's preference to prioritize quality of life. Treatment included hyperbaric gaseous cryotherapy (HGC) as the principal adjunctive modality, based on prior clinical experience in wound management and pain control. Dexrazoxane, topical DMSO, and ice-pack application were also incorporated despite the elapsed therapeutic window, as few alternative treatment options remained at that stage. Progressive wound healing was observed over the course of treatment, with complete re-epithelialization achieved by day 93 without surgical intervention. The wound remained fully healed until the patient died of progressive lymphoma on day 138. This case documents complete wound resolution without surgery in a dog with delayed epirubicin extravasation managed with multimodal conservative treatment incorporating adjunctive HGC.",
+      "categories": [
+        "oncology",
+        "surgery",
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "43017463",
+      "title": "Body condition-linked alterations in dog owners' visual prosody.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Gergely A, Filep LA, Kukovi&#x10d; T, Kis A",
+      "date": "2026 11 12",
+      "dateObject": "2026 11 12",
+      "abstract": "Visual prosody, the facial component accompanying speech, plays an important role in human social communication and is also a characteristic feature of dog-directed communication. Previous studies have shown that dog-directed visual prosody shares several features with infant-directed communication, although it also exhibits characteristics that differ between dogs and infants. Obesity has been associated with altered emotional processing and expression in humans, yet its potential effects on visual prosody have not been investigated. In the present study, we examined whether obesity is associated with variation in visual prosody during dog-directed communication. We analysed video recordings of 146 adult speakers interacting with their own dogs, infants, or adult human partners in semi-naturalistic settings, meaning that they were given instructions what to do, but these instructions were aimed to mimic real-life situations. Facial movements were quantified using automated facial coding software (Noldus FaceReader), and body shape was visually scored based on standard procedure. Linear mixed models were used to analyse Happy facial expression, facial Arousal, Valence, and activation of the cheek raiser muscle (AU6). Body condition-related differences depended on both the communication partner and the facial variable examined. Lower facial arousal was detected in speakers with higher body condition scores across all communication contexts. In contrast, differences in positive facial expressions were specific to dog-directed communication: speakers with higher body condition scores displayed less intense Happy facial expressions and lower facial Valence when interacting with dogs, whereas no such differences were observed in infant- or adult-directed communication. Unexpectedly, higher body condition scores were associated with stronger cheek raiser (AU6) intensity during infant- and adult-directed communication, but not during dog-directed communication, which might be a species-specific compensation mechanism. In addition, replicating previous findings, female speakers displayed more intense positive facial expressions and facial arousal than males, although these gender differences were reduced in dog-directed interactions. Our findings suggest that body condition is associated with variation in visual prosody, but these effects depend on the interlocutor and particularly pronounced during dog-directed communication. Different interpretations of these findings are presented in the discussion: altered mapping of muscle movement to FaceReader output, differences in FaceReader model quality, differences in habitual communicative style or expressivity, the amplifying or masking effect of communication differences, and a possible compensatory mechanism. The importance of these body condition-related alterations on the effectiveness of face-to-face communication, as well as social relationships need to be discussed.",
+      "categories": []
+    },
+    {
+      "pmid": "43017042",
+      "title": "Beyond the ventricle: the atrial contribution to feline hypertrophic cardiomyopathy and implications for diagnosis, prognosis, and emerging therapy.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Kongchatree S, Rattanasrisomporn J",
+      "date": "2026 11 12",
+      "dateObject": "2026 11 12",
+      "abstract": "Hypertrophic cardiomyopathy is the most common heart disease of cats and is conventionally characterised by its ventricular phenotype. The clinical events that determine quality and duration of life in affected cats, however, are atrial in their proximate pathophysiology. Congestive heart failure arises from elevated left atrial pressure transmitted to the pulmonary venous bed, arterial thromboembolism arises from blood stasis in a remodelled and dysfunctional left atrial appendage, and survival tracks left atrial size and function independently of left ventricular wall thickness. Recent longitudinal evidence indicates that lower left atrial fractional shortening can be detected before the diagnostic threshold for left ventricular hypertrophy is met, suggesting the atrium registers the disease before the ventricular wall-thickness criterion does. Despite this body of evidence, contemporary diagnostic frameworks, prognostic models, and the regulatory endpoint underpinning the recent conditional approval of delayed-release rapamycin remain anchored on the ventricle. This narrative review examines the atrial contribution to feline hypertrophic cardiomyopathy through five themes: atrial pathobiology, atrial imaging, atrial-driven outcomes, the implications for emerging disease-modifying therapy, and the practical implications for the cardiology consultation. We outline a framework for stage-anchored therapy decisions and a research agenda prioritising atrial trial endpoints and multicentre replication. In a disease affecting 14.7% of apparently healthy cats, with an 11.3% 10-year thromboembolic risk in preclinical cohorts, we propose that the atrium should now be at the centre of feline hypertrophic cardiomyopathy rather than at its periphery.",
+      "categories": [
+        "cardiology"
+      ]
+    },
+    {
+      "pmid": "43016731",
+      "title": "Will a trans-articular external fixator placed across the canine stifle allow normal motion if the hinge is centered over the femoral condyle?",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Baldeon MA, Roe S, Knazovicky D",
+      "date": "2026 11 12",
+      "dateObject": "2026 11 12",
+      "abstract": "Traumatic ligamentous stifle injuries are often immobilized with hinged transarticular external skeletal fixation (htaESF), with the hinge placed over the center of the joint. Range of motion (ROM) in htaESF can protect cartilage, however during ROM the stifle center changes. We hypothesized that a hinge placed over the center of the femoral condyles would not allow normal femoro-tibial positioning during ROM. Eight canine pelvic limbs were harvested. Femurs were immobilized and tibias pinned to control rotation during ROM. The femoral condylar center at 135&#xb0; was marked and lines drawn to a point on the tibia and femur marked on a radio-opaque grid. Radiographs were taken every 5&#xb0; through ROM. Intersect point (IP) was the intersection of the femoral and tibial lines. The IP x-y coordinates were normalized and plotted. Convex hull area for IP coordinates was calculated. Coefficient variation of the Euclidean distance was calculated. Intersect shift and flexion angle relationship was modeled with a linear mixed model. IP path was non-linear with no consistent pattern between individual legs and within each dog. Convex hull area was large and bilaterally asymmetrical. Linear mixed model analysis revealed a significant inverse relationship between IP shift and stifle angle ( P < 0.001). The IP of stifle joints during ROM are likely not similar enough to safely execute ROM while in a htaESF. Limitations include previously frozen limbs, and evaluation of only one point in the stifle. Further investigation must be done to determine the ideal construct for ROM without placing abnormal forces on the joint.",
+      "categories": [
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "43016486",
+      "title": "Beyond the lungs and heart: a possible association between digestive disease and exercise intolerance in 10 dogs.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Corsaletti A, Martineau M, Etien H, Le Boedec K",
+      "date": "2026 11 12",
+      "dateObject": "2026 11 12",
+      "abstract": "Exercise intolerance and panting are classically attributed to cardiac, respiratory, or other diseases. In some cases, the underlying etiology remains undetermined despite a comprehensive diagnostic workup. While fatigue is one of the most common symptoms in humans with inflammatory bowel disease (IBD), chronic enteropathy is not currently recognized as a primary cause of exercise intolerance in dogs. A retrospective review was conducted on the medical records of 10 dogs presenting with exercise intolerance lacking overt digestive or respiratory signs. All dogs underwent empirical gastrointestinal-directed medical and dietary therapies with subsequent owner-perceived clinical resolution. Ten dogs presenting with chronic exercise intolerance were evaluated. Six of these dogs also exhibited unexplained panting at rest (6/10). Subtle gastrointestinal signs and abdominal discomfort on palpation were present in four and five cases, respectively. Standard cardiopulmonary and metabolic investigations were largely unremarkable. Notably, half of the cohort (5/10) exhibited cobalamin insufficiency or deficiency. Dogs were managed with gastrointestinal-directed medical therapies (e.g., prokinetics, acid suppressants, tylosin) and/or dietary modifications (predominantly low-fat, single-protein (monoprotein), or hydrolyzed diets). Following these targeted interventions, all dogs achieved complete clinical resolution per owners within a median of 21&#x202f;days. A gastrointestinal etiology may be considered in dogs presenting with unexplained exercise intolerance and excessive panting. Subtle physical exam findings, serum cobalamin and folate concentrations, and empirical dietary/medical trials can be used to support clinical suspicion. This case series suggests a potential canine equivalent of human IBD-related fatigue, highlighting the need for further research into the gut-brain axis, intestinal dysbiosis, and delayed gastric emptying in veterinary medicine.",
+      "categories": [
+        "cardiology",
+        "internalMedicine",
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "43004420",
+      "title": "Correction: Direct quantitative PCR detects genetic biomarkers of antileishmanial drug resistance in clinical samples from dogs with leishmaniosis.",
+      "journal": "BMC Veterinary Research",
+      "authors": "Carrasco-Martin M, Vi&#xf1;eta C, Mart&#xed;-Carreras J, Roura X, Ferrer L, Busquets P, Vila A, Francino O",
+      "date": "2026 11 12",
+      "dateObject": "2026 11 12",
+      "abstract": "",
+      "categories": []
+    },
+    {
+      "pmid": "43015812",
+      "title": "Surgical resection and angularis oris axial pattern flap reconstruction with adjuvant radiation therapy for recurrent soft palate leiomyosarcoma in a dog.",
+      "journal": "BMC Veterinary Research",
+      "authors": "Park J, Huh C, Choi MY, Kim DY, Go DM, Hwang TS",
+      "date": "2026 11 12",
+      "dateObject": "2026 11 12",
+      "abstract": "Leiomyosarcoma of the oral cavity is extremely rare in both human and veterinary medicine. To the best of our knowledge, this is the first report describing the clinical course and multimodal treatment of a canine leiomyosarcoma arising in the soft palate. A 3-year-old, spayed female Pungsan dog was presented with a recurrent soft palate mass, dyspnea, epistaxis, and anorexia. The patient had a history of two prior surgeries involving incomplete excisions, both resulting in a diagnosis of oral sarcoma. The tumor exhibited aggressive recurrence, with rapid growth intervals of 3 months and 3 weeks, respectively. Computed tomography revealed a large soft tissue mass (3.8&#x2009;&#xd7;&#x2009;3.5&#x2009;&#xd7;&#x2009;4.4&#xa0;cm) occupying most of the pharyngeal space. Marginal excision with reconstruction using an angularis oris axial pattern flap was performed, followed by adjuvant radiation therapy. Histopathology and positive immunohistochemistry for desmin and smooth muscle actin confirmed the diagnosis of leiomyosarcoma. Although the patient remained stable, a 2.5-mm recurrent nodule was detected 9.5 months post-irradiation. As the tumor progressed and further surgical intervention was declined, a second course of radiation therapy was administered at the 14-month mark. Three months later, the patient experienced episodic dysphagia but subsequently recovered her general condition. The patient was lost to follow-up 21.5 months post-surgery. During the clinical course, fistula formation occurred in the early post-irradiation period, followed by progressive thinning of the soft palate, including the reconstructed flap, over long-term follow-up. The soft palate leiomyosarcoma in this patient was characterized by highly aggressive local invasiveness rather than distant metastasis. Although complete local control was not achieved despite multimodal treatment, the 11-month postoperative progression-free interval represented clinically meaningful suppression of tumor progression, particularly when considering the rapid pattern of previous recurrences.",
+      "categories": [
+        "oncology",
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42968222",
+      "title": "EXPRESS: Hyperammonemia in cats with acute (on chronic) kidney disease: associations with urea cycle amino acids, azotemia and acid-base status.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "authors": "McFadden K, Labato MA, Linder DE, Webster CR",
+      "date": "2026 11 12",
+      "dateObject": "2026 11 12",
+      "abstract": "An incorrect version of this manuscript was published online and has been temporarily removed.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "42644499",
+      "title": "Comments on Statistical Analysis of \"Comparative Efficacy and Safety of Ilunocitinib and Oclacitinib for the Control of Pruritus and Associated Skin Lesions in Dogs With Atopic Dermatitis\".",
+      "journal": "Veterinary Dermatology",
+      "authors": "Hakala M, Zschiesche E, Hala P, Kuhlmann I",
+      "date": "2026 11 12",
+      "dateObject": "2026 11 12",
+      "abstract": "",
+      "categories": [
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "43013985",
+      "title": "Effect of gabapentin on blood pressure and sedation scores in healthy dogs.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Leung K, Wood MW",
+      "date": "2026 11 11",
+      "dateObject": "2026 11 11",
+      "abstract": "To evaluate gabapentin's effect on blood pressure and sedation scores in healthy dogs. It was hypothesized gabapentin administration would decrease blood pressure and increase sedation scores compared to placebo administration. A randomized, blinded, placebo-controlled crossover study was performed from July 1, 2024, to July 30, 2025. Fifteen apparently healthy dogs presented for 3 paired (gabapentin and control) evaluations for a total of 6 visits. At each visit, dogs were administered either a 20-mg/kg oral dose of liquid gabapentin or an equivalent volume of placebo solution. Treatment order was randomized. Blood pressure was obtained 3 hours after each dog received treatment using the oscillometric technique. Sedation scores were collected prior to blood pressure measurement. The median diastolic blood pressure (78.67 mm Hg) and median mean arterial pressure (90.67 mm Hg) were significantly lower after gabapentin administration. Median systolic blood pressure (127.3 mm Hg) was not significantly different after gabapentin administration. Sedation score (4.0) was significantly higher after gabapentin. Oral gabapentin administration caused increased diastolic pressure, mean arterial pressure, and sedation scores. Blood pressure measurements in patients receiving preappointment gabapentin should be interpreted with caution.",
+      "categories": []
+    },
+    {
+      "pmid": "43013978",
+      "title": "Frequency of occurrence, signalment, clinicopathologic and imaging findings, and outcomes with nontraumatic spontaneous intracranial hemorrhagic stroke in dogs.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Thibodeaux LA, Kent M, Bennett M, Barber R",
+      "date": "2026 11 11",
+      "dateObject": "2026 11 11",
+      "abstract": "To describe the frequency, clinicopathologic and imaging findings, and outcomes in dogs with spontaneous intra-parenchymal hemorrhagic stroke (sIHS). Retrospective study involving 25 dogs. Medical records were reviewed for signalment; neurological, clinicopathologic, and imaging findings; anatomic localization; comorbidities; therapy; and outcome in dogs with sIHS (2010 to 2024). Lesion number, location, and volume were recorded. Outcome was defined as excellent, good, or poor. Frequency was defined out of a contemporaneous population of dogs &#x2265; 6 years old with an acute presentation of neurological signs. Affected dogs were older, small- to medium-breed dogs. Dogs often presented for neurological dysfunction reflective of a prosencephalic lesion (19 of 25 dogs) or new-onset seizures (13 of 25 dogs). A single, well-defined hemorrhage within the prosencephalon was commonly observed on MRI. Outcome was frequently excellent. Complete seizure remission was common. Larger lesion volumes were associated with poor outcomes. One dog experienced clinical signs suggestive of an additional sIHS 4 months after the initial stroke. Frequency of sIHS was 25 of 427 dogs (6%) &#x2265; 6 years old undergoing brain MRI. sIHS should be considered in older dogs with an acute onset of prosencephalic dysfunction and/or seizures. Following exclusion of secondary IHS, an excellent long-term outcome may be realized in dogs with sIHS, despite the presence of comorbidities. Short-term anticonvulsant therapy may be necessary. Development of poststroke epilepsy is unlikely. Dogs rarely experience another IHS.",
+      "categories": [
+        "neurology"
+      ]
+    },
+    {
+      "pmid": "43013973",
+      "title": "Soft tissue sarcoma grade does not differ between extremity and nonextremity locations.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Patel MH, Selmic LE, Lapsley JM, Piegols HJ",
+      "date": "2026 11 11",
+      "dateObject": "2026 11 11",
+      "abstract": "To evaluate whether canine soft tissue sarcomas (STSs) located on the extremities are of lower histologic grade than those on nonextremity locations. The hypothesis was that the frequency of grade I and grade II/III tumors would be similar between extremity and nonextremity locations. This retrospective cohort study evaluated canines undergoing surgical resection of an STS and subsequent histopathologic assessment during the period of November 20, 2018, to April 8, 2025, at a single institution. 134 STSs on 129 dogs were identified, with 129 STSs included in analysis. Seventy-two STSs (55.8%) were located on the extremities, while 57 (44.2%) were located on nonextremity locations. Forty-nine STSs (68.1%) on the extremities were grade I, and 23 (31.9%) were grade II/III; 40 nonextremity STSs (70.2%) were grade I, and 17 (29.3%) were grade II/III. The distribution of STSs as grade I or grade II/III is similar for STSs located on extremity and nonextremity locations. STSs located on an extremity cannot be assumed to be of a low histologic grade. Risks of local recurrence and potential need for adjuvant therapy, particularly with a marginal excision, should be discussed during the preoperative period with clients for STSs located on the extremities, similar to other locations based on similar grade distributions.",
+      "categories": [
+        "oncology",
+        "surgery"
+      ]
+    },
     {
       "pmid": "43010915",
       "title": "The impacts of dog sterilization campaigns in Thailand: understanding changes in dog population dynamics.",
@@ -59,18 +239,6 @@
         "oncology",
         "surgery",
         "neurology"
-      ]
-    },
-    {
-      "pmid": "43006832",
-      "title": "Correction to: Single Enema Fecal Microbiota Transplantation in Cats With Chronic Enteropathy.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "",
-      "date": "2026 11 10",
-      "dateObject": "2026 11 10",
-      "abstract": "",
-      "categories": [
-        "internalMedicine"
       ]
     },
     {
@@ -251,18 +419,6 @@
       ]
     },
     {
-      "pmid": "42644499",
-      "title": "Comments on Statistical Analysis of \"Comparative Efficacy and Safety of Ilunocitinib and Oclacitinib for the Control of Pruritus and Associated Skin Lesions in Dogs With Atopic Dermatitis\".",
-      "journal": "Veterinary Dermatology",
-      "authors": "Hakala M, Zschiesche E, Hala P, Kuhlmann I",
-      "date": "2026 11 10",
-      "dateObject": "2026 11 10",
-      "abstract": "",
-      "categories": [
-        "dermatology"
-      ]
-    },
-    {
       "pmid": "42638346",
       "title": "A Randomised Placebo-Controlled Study to Evaluate the Efficacy and Safety of a Two-Dose Topical Terbinafine and Betamethasone Gel for the Treatment of Yeast (Malassezia pachydermatis) Otitis Externa in Dogs.",
       "journal": "Veterinary Dermatology",
@@ -320,16 +476,6 @@
       "categories": [
         "dermatology"
       ]
-    },
-    {
-      "pmid": "43004420",
-      "title": "Correction: Direct quantitative PCR detects genetic biomarkers of antileishmanial drug resistance in clinical samples from dogs with leishmaniosis.",
-      "journal": "BMC Veterinary Research",
-      "authors": "Carrasco-Martin M, Vi&#xf1;eta C, Mart&#xed;-Carreras J, Roura X, Ferrer L, Busquets P, Vila A, Francino O",
-      "date": "2026 11 09",
-      "dateObject": "2026 11 09",
-      "abstract": "",
-      "categories": []
     },
     {
       "pmid": "43004045",
@@ -890,63 +1036,6 @@
       ]
     },
     {
-      "pmid": "42985581",
-      "title": "Comparative assessment of benzyl alcohol and m-cresol as preservatives in maropitant injectable formulation: implications for pain & tolerability.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Pawar V, Trivedi J, Muchhara J, Dharvadiya N, Patel S, Patel R, Shah M, Sundar R, Kannan ME, Ukawala M, Laddha R, Jain M",
-      "date": "2026 11 05",
-      "dateObject": "2026 11 05",
-      "abstract": "The selection of an optimal preservative in multi-dose injectable veterinary formulations requires antimicrobial efficacy with local tissue compatibility. While m-cresol provides potent broad-spectrum efficacy in multi-dose veterinary injectables, subcutaneous administration causes acute injection-site pain and distress, compromising compliance despite recommended low-temperature management. We hypothesized that a benzyl alcohol-preserved maropitant formulation (BAF) would result in lower acute injection-site pain scores than a m-cresol preserved formulation (MCF), regardless of storage temperature. Thirty-two adult healthy beagle dogs were enrolled in this study. Under blinded, randomized crossover design, each dog received subcutaneous maropitant using both formulations maintained at refrigerated and room temperature conditions. Pain was assessed by two independent assessors using a visual analog scale, simple descriptive scale, and clinical observation. Cerenia &#xae; was used as a meta-cresol-based formulation and benzyl-alcohol formulation was provided by ZyVet, USA. The BAF produced significantly lower Visual Analog Scale (VAS) and Simple Descriptive Scale (SDS) scores than the MCF ( P < 0.0001). Log VAS values for BAF were 1.94 &#xb1; 0.14 at 25 &#xb0;C and 2.33 &#xb1; 0.14 at 4 &#xb0;C, vs. 3.43 &#xb1; 0.11 at 25 &#xb0;C and 3.38 &#xb1; 0.11 at 4 &#xb0;C for MCF. Treatment with MCF increased the odds of elevated SDS scores up to 10.32-fold compared with BAF ( P < 0.0001). Observer agreement was excellent. Restlessness and head shaking occurred more frequently with the m-cresol formulation. The benzyl alcohol-based maropitant formulation appears better-tolerated than meta-cresol containing formulation in terms of injection-site pain and irritation.",
-      "categories": []
-    },
-    {
-      "pmid": "42985444",
-      "title": "Decision tree models to guide endotracheal tube selection in dogs.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Ngamlertwong N, Punyapornwithaya V, Siriyakhun S, Seymour C, Seki S",
-      "date": "2026 11 05",
-      "dateObject": "2026 11 05",
-      "abstract": "Choosing an endotracheal tube (ETT) of an appropriate size is critical for effective airway management in dogs undergoing anesthesia or emergency care. Conventional methods often rely on body weight (BW), palpation of external tracheal diameter, nasal septum width, or subjective clinician experience. However, these approaches are frequently imprecise and lack well-established guidelines. Therefore, this study aimed to develop a machine learning-based decision tree model to standardize ETT size using measurable anatomical parameters in dolichocephalic, mesocephalic, and brachycephalic breeds. A retrospective analysis was conducted on data from dogs undergoing anesthesia or emergency care at the Northern Regional Veterinary Healthcare and Learning Center, Faculty of Veterinary Medicine, Chiang Mai University, (NOVEL CMU) Thailand between January and December 2024. We investigated the relationship between the internal diameter (ID) of the ETT used and multiple patient variables, including BW, sex, age, breed, and internal tracheal diameter (ITD) measured at the thoracic inlet on radiographs. Decision tree analysis was used to determine the ETT selection. We hypothesized that a decision tree model integrating BW and ITD would accurately predict appropriate ETT sizing in dogs, but that upper airway anatomical differences would necessitate separate models for non-brachycephalic breeds (Group DM, including dolichocephalic and mesocephalic conformation) and brachycephalic breeds (Group B). The results demonstrated that Group B required ETTs with a significantly smaller ID compared to Group DM of the same BW. Variable importance analysis identified BW and ITD as the primary predictors of ETT size in both groups. Conversely, sex and age demonstrated negligible predictive value and were not significant factors in the selection process. Hence, the decision tree model successfully generated distinct algorithmic pathways for Group DM and Group B. The developed decision tree models offer a practical, non-invasive method for standardizing ETT sizes in clinical practice, thereby enhancing skilled veterinary human capital. This algorithmic approach accounts for individual anatomical variations in the respiratory tract, particularly in brachycephalic dogs. For clinical application, clinicians should prepare tubes within &#xb1;0.5 mm of the predicted size to ensure optimal airway management and patient safety.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42985006",
-      "title": "Precision nutrition in companion animals: a response-based framework linking dietary strategies, metabolic function, and measurable clinical outcomes.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Du X, Zhang H, Tian W, Chen J, Wen M, Fan W",
-      "date": "2026 11 05",
-      "dateObject": "2026 11 05",
-      "abstract": "Population-level nutrient recommendations provide the foundation for complete and balanced diets in dogs and cats, but they do not fully account for inter-individual variation in nutritional requirements, metabolic phenotypes, and dietary responses. Precision nutrition provides a response-guided framework that integrates individual characteristics with monitored dietary responses to refine nutritional management through repeated reassessment. This review examines the conceptual framework, host determinants, clinical applications, and translational challenges of precision nutrition in companion animals. Obesity, chronic enteropathy, chronic kidney disease, and urolithiasis are discussed as representative clinical models in which dietary interventions can be linked to measurable outcomes and adjusted according to individual response. Current clinical implementation is informed primarily by phenotypic assessment, dietary history, routine clinical and biochemical measures, and longitudinal monitoring, with biomarkers such as serum phosphate providing direct guidance in specific clinical contexts. Microbiome and metabolomic profiles, selected molecular biomarkers, and digital monitoring tools, such as smart feeders and activity monitors, may provide complementary information, whereas multi-omics integration and AI-assisted prediction remain largely exploratory. Further progress will require standardized species-specific datasets, prospective validation of predictive biomarkers, reliable digital measurements, and externally validated, interpretable models that demonstrate added value beyond established clinical assessment. Overall, precision nutrition represents an iterative, response-guided framework in which individual characteristics and monitored outcomes inform dietary selection and adjustment over time.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42984832",
-      "title": "Metabolomic and lipidomic signatures of aging in cats reveal shifts in energy metabolism and inflammation: an 11-year longitudinal study.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Hartvigsson O, Ross AB, Moesta A, Heiser A, Lee E, Butowski CF, Thomas DG, Laxalde J, Bermingham EN, Moniot D",
-      "date": "2026 11 05",
-      "dateObject": "2026 11 05",
-      "abstract": "Aging encompasses multiple biochemical changes, some of which may be associated with the development of age-related diseases. The dynamics of aging in relation to metabolism in cats has not been established and understanding this could identify targets for early intervention. The aim of this longitudinal study was to identify changes in the plasma and fecal metabolome and lipidome of cats from 1 to 11 years of age. Twenty-one cats from a research colony had plasma and fecal samples collected yearly between one and 11&#x202f;years of age. Clinical biomarkers were measured in serum, while plasma and fecal metabolomics and lipidomics were measured using mass spectrometry. Data were analyzed using repeated measures-ANOVA Simultaneous Component Analysis. Two metabolic trajectories were observed: one linear, suggestive of progressive accumulation of metabolic alterations with aging, and a U-shape, suggestive of more complex metabolic changes over time. Three themes emerged: inflammaging (linear decrease of plasma albumin:globulin ratio, increase in fecal inflammatory mediators), mitochondrial dysfunction (linear increase of plasma long-chain phosphatidylcholines, U-shape for plasma hydroxy-butyric acids and lactic acid, inverse U-shape for fecal coenzyme Q), and a possible link to an aging gut microbiome (tryptophan pathway with linear increase of plasma kynurenine versus decrease of fecal anthranilic acids). Metabolic changes in plasma and feces support the inflammaging hypothesis for cats, alongside mitochondrial dysfunction, and possible changes to gut microbial metabolism. Clear metabolic shifts between 6 and 8&#x202f;years of age suggest that early intervention could help to support a healthy aging trajectory in cats.",
-      "categories": []
-    },
-    {
-      "pmid": "42984630",
-      "title": "Wound healing complications after tooth extraction in dogs.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "&#x160;para&#x161; L, Pavlica M, Lukanc B, Nemec A",
-      "date": "2026 11 05",
-      "dateObject": "2026 11 05",
-      "abstract": "This prospective clinical study aimed to assess incidence of wound healing complications associated with extraction sites following permanent tooth extractions in healthy dogs. Eighty-seven client-owned healthy adult dogs undergoing clinically indicated closed or open dental extractions, comprising 404 extraction sites, were included in the study. No perioperative and immediate postoperative antibiotics or antiseptics were used in any of the dogs. All dogs were discharged on the day of the procedure with pain management as clinically indicated and underwent a routine (non-sedated) follow-up examination 10&#x202f;days later. Sites with incomplete epithelial healing and wound edge separation were classified as dehisced. Weekly in-person or telemedicine follow-up examinations were performed until complete healing was confirmed. Dehiscence was the most common postoperative complication, diagnosed in 19.5% (17/87) of the dogs and 4.2% (17/404) of the extraction sites within 10&#x202f;days after the procedure. Most affected sites involved large, functionally important teeth, and 76.5% (13/17) of cases were mild. None of the dehisced sites required surgical revision, and only 23.5% (4/17) dogs required additional medical management with antibiotics and/or analgesia. All dehisced sites healed by second intention within one month. Increasing body weight was associated with higher odds of dehiscence, with a 13% increase in odds for each additional kilogram of body weight. Removal of at least 50% of the alveolar bone, extraction in the rostral mandibular region, and the use of triangular flaps during open extraction were also significantly associated with increased odds of dehiscence. Traumatic dentoalveolar injury was the only indication for tooth extraction significantly associated with increased odds of dehiscence. Extraction wound dehiscence was uncommon at the individual-site level, but remained a clinically relevant postoperative complication when assessed per treated dog. Most affected sites healed uneventfully by second intention within one month, without surgical revision or prolonged medical management. This finding supports conservative management of extraction wound dehiscence in uncomplicated cases.",
-      "categories": [
-        "surgery",
-        "dermatology"
-      ]
-    },
-    {
       "pmid": "42983717",
       "title": "Determination of reference intervals for symmetric dimethylarginine (SDMA) in Lacaune sheep.",
       "journal": "BMC Veterinary Research",
@@ -1191,16 +1280,6 @@
       ]
     },
     {
-      "pmid": "42972342",
-      "title": "Monitoring of oxidative stress and acute phase proteins following testes exposure with ultrasound waves in cats.",
-      "journal": "BMC Veterinary Research",
-      "authors": "Hashempur Z, Mogheiseh A, Nazifi S, Divar M, Ahmadi N, Derakhshandeh N, Ahmadi E, Bastani M, Shaikhzadeh A, Hassani A",
-      "date": "2026 11 03",
-      "dateObject": "2026 11 03",
-      "abstract": "Ultrasonic therapy has harmfully effects on the structure and function of the testis. Various mechanisms are involved in the impact of ultrasound waves on testes tissue. This study aimed to investigate the effects of ultrasound exposure on cat`s testes by monitoring acute phase proteins, oxidative stress indices, histopathology, and epididymal sperm evaluation over a period of 60 days. Ten adult domestic short hair (DSH) male cats were divided into two equal groups: one exposed to ultrasound and one control groups. The testes were exposed to ultrasonic therapy using 1&#xa0;MHz, 1.5&#xa0;W/cm 2 , three times with a 48-hour interval. Blood samples were taken before treatment and at days 1, 3, and 6 after treatment. Histopathology of the testes and epididymal sperm evaluation were performed at day 60. The results showed that acute phase proteins, serum amyloid (SAA), C-reactive protein (CRP), and alpha-1 glycoprotein (AGP), significantly increased in the first three days after treatment and decreased significantly by day 6 in the treatment group. The increase in acute phase proteins was significantly higher in the treatment group compared to the control group. Malondialdehyde (MDA) and total antioxidant capacity (TAC) did not show significant change in the first week after treatment in the ultrasound exposure group compared to the control group. Testosterone concentration was significantly decreased in the ultrasound exposure group compared to the control group. The epididymal sperm and histopathology evaluation indicated no harmful effect of ultrasound in the treatment group compared to the control group. Ultrasound exposure of cat`s testes induced an acute phase inflammatory response and decreased testosterone concentration in the first week after treatment, but it did not have harmful effect on testis tissue and epididymal sperm quality.",
-      "categories": []
-    },
-    {
       "pmid": "42972163",
       "title": "Dose-response effects of dietary luteolin-loaded chitosan nanoparticles on growth and physiological responses of post-weaning rabbits reared under summer heat stress.",
       "journal": "Veterinary Research Communications",
@@ -1246,18 +1325,6 @@
       "categories": [
         "internalMedicine",
         "oncology"
-      ]
-    },
-    {
-      "pmid": "42968222",
-      "title": "EXPRESS: Hyperammonemia in cats with acute (on chronic) kidney disease: associations with urea cycle amino acids, azotemia and acid-base status.",
-      "journal": "Journal of Feline Medicine and Surgery",
-      "authors": "McFadden K, Labato MA, Linder DE, Webster CR",
-      "date": "2026 11 01",
-      "dateObject": "2026 11 01",
-      "abstract": "ObjectivesHyperammonemia occurs in cats with kidney disease although the pathophysiology is poorly understood. The objective of this study was to determine if hyperammonemia in cats with kidney disease is associated with decreased concentrations of plasma amino acids involved in the urea cycle and more severe acid-base derangements.MethodsTwenty cats presenting with acute kidney injury (AKI) and acute on chronic kidney disease (AoCKD) were prospectively enrolled. Fasting blood samples were analyzed for ammonia, pH, anion gap, electrolytes, lactate, blood urea nitrogen (BUN), creatinine and phosphorus. Plasma was frozen at -80 o C and shipped for amino acid analysis.ResultsFive of 20 cats had an AKI and 15/20 had AoCKD. Median age and weight were 12 years (range 3-14) and 4.5 kg (range 3-5.6), respectively. Seven cats were hyperammonemic (median 252 &#xb5;mol/l, range 113-886) and 13 were not (median 23 &#xb5;mol/l, range 11-49). Creatinine, BUN and phosphorus were significantly higher in hyperammonemic cats. BUN and phosphorus correlated with ammonia. Fifteen of 20 cats (75%) were acidotic but there was no difference in lactate or blood and urine pH between the cats with and without hyperammonemia. The anion gap was higher (29.6, range 27-40 vs 25.1, range 11-34) and serum bicarbonate lower (9 mEq/L, range 4.8-13.5 vs 11.9, range 8-24.2) in hyperammonemic cats. Median plasma citrulline (47 nMol/mL, range 31-128 vs 22, range 12-37) and ornithine (20 nMol/mL, range 12-33 vs 10, range 7-35) but not arginine concentrations were significantly higher in hyperammonemic cats (p<0.05). Plasma citrulline concentrations were positively correlated with serum creatinine (r = 0.621, p = 0.003).Conclusions and relevanceHyperammonemic cats with AKI/AoCKD do not have deficiencies in urea cycle amino acid concentrations but do have more severe azotemia with accompanying high anion gap metabolic acidosis. Increases in citrulline may reflect decreased kidney function.",
-      "categories": [
-        "internalMedicine"
       ]
     },
     {
@@ -2055,18 +2122,6 @@
       ]
     },
     {
-      "pmid": "42932827",
-      "title": "Sinonasal aspergillosis-associated pneumocephalus in a dog: recovery after endoscopic interventional debridement and antifungal treatment.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Costes MTA, Saunders JH, Rickerts V, Daminet S, R&#xf6;sch S",
-      "date": "2026 10 26",
-      "dateObject": "2026 10 26",
-      "abstract": "A 16-year-old Border Collie was referred for acute severe apathy and chronic nasal discharge. Computed tomography (CT) performed 2 weeks earlier was suggestive of sinonasal aspergillosis (SNA) with severe turbinate destruction and mucosal thickening in the left nasal cavity and frontal sinus. No treatment was initiated. Magnetic resonance imaging (MRI) at presentation identified intrameningeal pneumocephalus, meningitis, frontal sinusitis with ventral focal frontal bone lysis of the cranial cavity. Cerebrospinal fluid analysis was unremarkable, suggesting pneumocephalus as the cause of apathy. Rhinoscopy confirmed fungal plaque (qPCR: Aspergillus spp.). Systemic antifungal treatment and endoscopic debridement were initiated. Despite frontal bone lysis, topical antifungal treatment also was administered. A 3-week follow-up MRI showed complete resolution of pneumocephalus. Final imaging identified scarring around the defect and no active infection. These findings indicate that intrameningeal pneumocephalus secondary to SNA can be reversible and should not preclude antifungal treatment. Endoscopic therapeutic intervention may enable full recovery.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
       "pmid": "42665890",
       "title": "Efficacy and tolerability of a sequential COP and doxorubicin chemotherapy protocol for treatment of high-grade lymphoma in cats.",
       "journal": "Journal of Feline Medicine and Surgery",
@@ -2373,42 +2428,6 @@
       ]
     },
     {
-      "pmid": "42486157",
-      "title": "A single-layer, full-thickness, simple continuous suture pattern is safe for hysterotomy closure in dogs undergoing cesarean section.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Goldblatt BH, Burns JG, Marvel SJ",
-      "date": "2026 10 16",
-      "dateObject": "2026 10 16",
-      "abstract": "To evaluate short-term complications for single-layer, full-thickness, simple continuous appositional closure (AC) of the uterus in dogs undergoing cesarean section (CS). Additional objectives included comparing the complication rates with dogs that underwent an inverting closure (IC) and reporting the litter size in dogs with subsequent pregnancies. A medical record review for dogs undergoing CS between May 2014 and February 2025 was performed at Colorado State University. Data retrieved included signalment, reason for CS, uterine closure pattern, anesthesia and surgery time, litter size, complications, and subsequent CSs. The study population included 77 dogs that underwent 89 CSs (70 AC, 19 IC). Postoperative complications were noted in 6 of 89 cases (6.7%). Closure pattern was not found to be a risk factor for development of postoperative complications. No dogs required intervention related to hysterotomy closure, and all dogs survived the 14-day follow-up period. One dog developed paralysis following epidural use at the time of CS. Twenty-four dogs had subsequent pregnancies: 19 of 24 (79.2%) after AC and 5 of 24 (20.8%) after IC. Full-thickness AC was not a significant risk factor for short-term postoperative complications. Both single- and double-layer, full-thickness hysterotomy closures were compatible with subsequent successful whelping and CSs. Single-layer, full-thickness, simple continuous appositional and double-layer full-thickness closures are safe for hysterotomy closure.",
-      "categories": [
-        "surgery",
-        "neurology"
-      ]
-    },
-    {
-      "pmid": "42486150",
-      "title": "Automated acute pain assessment in brachycephalic cats with ocular pain using the Feline Grimace Scale.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Steagall PV, Li J, Marangoni S, Bukhari SSUH",
-      "date": "2026 10 16",
-      "dateObject": "2026 10 16",
-      "abstract": "This study aimed to evaluate the feasibility and limitations of an AI-powered Feline Grimace Scale (FGS) pipeline for acute pain assessment in brachycephalic cats with ocular pain. A total of 200 facial images of brachycephalic cats with ocular pain were used for model training and evaluation. A landmark localization model was used to predict facial landmarks. Pain prediction was performed with regression models from a machine-learning library (XGBoost; XGBoost Developers); 5 independent submodels were trained, each corresponding to 1 of the 5 FGS action units-ear position, orbital tightening, muzzle tension, whiskers change, and head position. Three configurations were applied to input variables: without muzzle tension and whiskers change, without whiskers change and head position, and all geometric descriptors retained. The landmark localization performance was assessed via normalized root mean square error (NRMSE), whereas pain prediction was assessed via mean absolute error, Pearson correlation, and R2 values. Facial landmark detection showed reduced accuracy in brachycephalic cats (NRMSE, 19.96%) compared with previous reports in predominantly mesocephalic cats (NRMSE, 16.76%). Pain prediction models demonstrated poor generalizability, showing the best results for without muzzle tension and whiskers change (mean absolute error, 0.168; R2, 0.115; Pearson correlation, 0.374). Automated landmark detection and pain prediction using an AI-powered FGS pipeline is possible in brachycephalic cats. However, cautious interpretation is needed due to limited annotated data, which precludes robust predictive performance estimates. Conformation-specific datasets are required before this AI-powered FGS pipeline can be used for pain assessment in brachycephalic cats.",
-      "categories": []
-    },
-    {
-      "pmid": "42468570",
-      "title": "Development of a predictive model for estimation of postoperative risk following brachycephalic obstructive airway syndrome surgery.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Ruzics EA, Reynolds PS, Morse Z, Shipman J, Ham KM",
-      "date": "2026 10 16",
-      "dateObject": "2026 10 16",
-      "abstract": "To identify risk factors for postoperative death and complications in dogs undergoing brachycephalic obstructive airway syndrome (BOAS) surgery and utilize this information to develop a predictive model for risk estimation. Records of dogs undergoing BOAS surgery at a veterinary teaching hospital between 2012 and 2023 were reviewed. Predictor variables were categorized into domains, including signalment, history, clinical signs, underlying pathology, acuity status, and surgeries performed. Outcomes were categorized as death, major complications, or minor complications. The association between outcomes and predictors was modeled by logistic regression. Results were reported as ORs and regression coefficients with 95% CIs. A predictive model was created to estimate risk of mortality and complications following BOAS surgery. 297 cases were included. Twelve dogs (4%) died prior to discharge. Major complications (airway interventions and pneumonia) were reported for 29 dogs (10%). Major complications were strongly associated with emergent presentation (OR, 7.45; 95% CI, 2.70 to 20.59), female sex (OR, 2.78; 95% CI, 1.11 to 6.67), high-grade laryngeal collapse (OR, 4.28; 95% CI, 1.56 to 11.79), and history of regurgitation/vomiting (OR, 2.16; 95% CI, 0.87 to 5.38). Risk factors for postoperative death and complications were identified. A predictive model was developed, allowing estimation of postoperative risk based on individual patient factors. A multivariable predictive model may be useful in clinical practice to obtain individualized postoperative risk predictions to contribute to prognostication, decision-making, and triage. However, as this model has not been externally validated, calculated risk should be utilized with caution and consideration for the clinical picture of each patient.",
-      "categories": [
-        "internalMedicine",
-        "surgery"
-      ]
-    },
-    {
       "pmid": "42854896",
       "title": "Biological response stability of refrigerated cosacthen after opening and non-hormonal effects of ACTH stimulation testing in healthy dogs.",
       "journal": "Topics in Companion Animal Medicine",
@@ -2642,18 +2661,6 @@
       "abstract": "Cryptosporidium spp. are enteric protozoan parasites of public health importance, particularly in low-resource settings where humans, animals and environmental water sources frequently interact. This study investigated the prevalence, molecular diversity and environmental exposure-related variables in relation to Cryptosporidium infection in a rural community. A cross-sectional study was conducted using 180 faecal samples collected from humans, cattle, chickens, fish, cats, dogs, and ducks. Speciation and subtyping were determined through PCR amplification and sequencing of the 18S rRNA and gp60 genes. Epidemiological and environmental data were collected, and univariable analyses were conducted. An exploratory multivariable logistic regression model was subsequently performed for the human subset. The overall prevalence of Cryptosporidium infection was 9.40%, with the highest rates observed in humans (14.8%) and cattle (13.5%). Molecular characterisation identified C. hominis, C. parvum, C. bovis and C. felis. Among humans, C. hominis was the predominant, whereas C. parvum was also detected, including mixed infections. gp60 analysis identified multiple subtype families, including Ia, Ib, IIa, IIc and IId. Phylogenetic analysis demonstrated close genetic relationships between Bangladeshi isolates and previously reported reference strains from South Asia and the Middle East. Higher odds of Cryptosporidium infection were observed among individuals reporting river bathing and consumption of untreated water, whereas lower odds were observed among those reporting regular handwashing. No statistically significant associations were identified between evaluated environmental variables and infection among non-human hosts. The study demonstrated the circulation of multiple Cryptosporidium species and subtype families within a shared human-animal ecosystem. The contaminated surface water and inadequate hygiene practices may represent important environmental exposure interfaces for Cryptosporidium infection in the study area. However, given the cross-sectional design and limited number of positive cases, the epidemiological findings should be interpreted as exploratory associations rather than definitive transmission pathways. Further longitudinal One Health investigations are needed.",
       "categories": [
         "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42806810",
-      "title": "Comparative Immunohistochemical Study of Canine Mammary Tumours: Introducing of Triple-Negative Profile (ER - /PR - /HER2 - ) in Benign Mammary Tumours of Animal Model.",
-      "journal": "Veterinary Medicine and Science",
-      "authors": "Lak H, Amniattalab A",
-      "date": "2026 09 29",
-      "dateObject": "2026 09 29",
-      "abstract": "Mammary tumours are the most common neoplasm in female dogs. Canine mammary tumours (CMTs) are appropriate models for human studies. The present study aimed to diagnose CMTs pathologically and compare different tumour types by immunohistochemistry (IHC). Histological features of various tumours were recorded. Moreover, haematological, biochemical and immunohistochemical changes were evaluated in affected animals. Among 130 mastectomized dogs in veterinary hospitals in Tehran, Iran, 74 dogs were affected by various types of mammary tumours. The highest frequency of malignant tumours was related to carcinoma types (38/74; 51.4%) and the highest frequency of benign tumours was related to fibroadenoma (6/74; 8.1%). In malignant tumours, anaemia and monocytosis were observed compared to benign tumours. Serum ALT and ALP levels were also significantly increased in malignant tumours (p&#xa0;<&#xa0;0.05) compared to benign tumours. The IHC showed the profile of adenoma (ductal and intraductal papillary) ER + /PR - /HER2 - , benign mixed tumour ER - /PR - /HER2 - , carcinoma (mucinous, anaplastic) ER - /PR - /HER2 - and metastatic mast cell tumour ER - /PR + /HER2 - . The highest expression of &#x3b1;SMA was recorded in benign tumours and the highest expression of Ki67 was recorded in metastatic mast cell tumour, benign mixed tumour and adenoma (p&#xa0;<&#xa0;0.05). Together, although the dog is a good model for studying mammary tumours, the variability of results in CMTs requires further studies in this field. An interesting finding of this study was the triple-negative profile in the benign mixed tumour, which had previously been reported only for malignant mammary tumours. In addition, the significant positivity of Ki67 expression (34%-66%) in benign CMTs is noted for the first time.",
-      "categories": [
-        "oncology"
       ]
     },
     {

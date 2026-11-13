@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T02:17:17.607Z",
+  "updated_at": "2026-11-13T01:54:41.748Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -8567,6 +8567,94 @@
       "title": "The impacts of dog sterilization campaigns in Thailand: understanding changes in dog population dynamics.",
       "journal": "Frontiers in Veterinary Science",
       "generated_at": "2026-11-12T02:16:33.653Z",
+      "model": "gpt-5-mini"
+    },
+    "43013973": {
+      "brief_summary": "목적은 개 연부조직 육종(soft tissue sarcoma, STS)의 사지 위치와 비사지 위치에서 조직학적 등급 차이가 있는지 평가하는 것이었다. 단일 기관에서 2018-11-20부터 2025-04-08까지 외과적 절제 후 조직병리 평가를 받은 129개의 STS를 후향적으로 분석한 결과, 사지(72건)에서는 등급 I 49건(68.1%), 등급 II/III 23건(31.9%)였고 비사지(57건)에서는 등급 I 40건(70.2%), 등급 II/III 17건(29.3%)로 등급 분포에 차이가 없었다. 임상적으로 사지에 위치한 STS를 저등급으로 가정해서는 안 되며, 특히 마지널 절제(marginal excision)를 계획할 때 국소 재발 위험과 보조요법 필요성에 대해 수술 전 설명해야 한다.",
+      "detailed_summary": "본 연구는 단일 기관에서 2018-11-20부터 2025-04-08까지 외과적 절제 및 조직병리 평가를 받은 개의 연부조직 육종(STS)을 후향적으로 코호트 분석한 연구이다. 총 134개의 STS가 확인되었고 그중 129건이 분석에 포함되었다. 위치별 분포는 사지 72건(55.8%), 비사지 57건(44.2%)이었다. 주평가항목은 조직학적 등급(등급 I vs 등급 II/III)으로, 사지에서는 등급 I 49건(68.1%), 등급 II/III 23건(31.9%)이었고 비사지에서는 등급 I 40건(70.2%), 등급 II/III 17건(29.3%)이었다. 결과는 사지와 비사지 위치 사이에 등급 분포 차이가 없음을 보여주었다. 결론적으로 사지에 위치한 STS라고 해서 저등급이라고 가정할 수 없으며, 마지널 절제 시 국소 재발 위험과 보조요법 필요성에 대해 수술 전 클라이언트와 논의해야 한다. 초록에서는 추가적인 제한점이나 통계적 세부사항은 제시되지 않았다.",
+      "title": "Soft tissue sarcoma grade does not differ between extremity and nonextremity locations.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-11-13T01:54:41.730Z",
+      "model": "gpt-5-mini"
+    },
+    "43013978": {
+      "brief_summary": "후향적 연구로서 2010–2024년 간 비외상성 자발성 실질내 두개내 출혈(sIHS)을 보인 25마리의 개를 분석하여 발생빈도, 임상검사·영상 소견 및 예후를 기술했다. 대부분 고령의 소·중형견에서 전뇌(prosencephalon) 관련 신경학적 이상(19/25)이나 새로운 발작(13/25)으로 내원했고, MRI에서는 주로 단일의 경계가 뚜렷한 전뇌 실질내 출혈이 관찰되었다. 장기 예후는 대체로 양호(우수)했고 발작의 완전 관해가 흔했으며, 병변 부피가 큰 경우 예후가 불량한 경향이었고 재발은 드물었다; 6세 이상 뇌 MRI 검사군에서의 빈도는 25/427(약 6%)이었다.",
+      "detailed_summary": "본 연구는 후향적 기록검토로 2010–2024년에 sIHS로 진단된 25마리의 개의 신상, 신경학적 소견, 임상병리·영상 소견, 병변의 수·위치·부피, 동반질환, 치료 및 예후를 평가하였다. 대상 개들은 대체로 고령의 소·중형견이었고 19/25마리에서 전뇌 기능장애를 시사하는 신경학적 증상이, 13/25마리에서 새로운 발작이 보고되었다. MRI에서는 주로 전뇌에 단일의 잘 구분되는 실질내 출혈 병변이 관찰되었고 병변 부피가 클수록 예후가 불량한 경향이 있었다. 장기 결과는 자주 우수했고 발작은 완전 관해를 보이는 경우가 많았으며 단기간 항경련제 치료가 필요할 수 있음이 언급되었다. 재발은 드물었고(한 증례에서 초기 발병 4개월 후 추가 의심 사례), 연구에서 보고된 바에 따르면 뇌졸중 후 만성 간질(poststroke epilepsy) 발생은 가능성이 낮았다. 연구는 sIHS를 배제한 이차성 출혈을 제외한 경우에도 동반질환이 있어도 장기 예후가 양호할 수 있음을 시사한다. 초록에는 추가적인 제한점에 대한 상세 기술은 포함되어 있지 않다.",
+      "title": "Frequency of occurrence, signalment, clinicopathologic and imaging findings, and outcomes with nontraumatic spontaneous intracranial hemorrhagic stroke in dogs.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-11-13T01:54:22.640Z",
+      "model": "gpt-5-mini"
+    },
+    "43013985": {
+      "brief_summary": "무작위·맹검·위약대조 교차설계로 건강한 개 15마리를 대상으로 20 mg/kg 경구 가바펜틴이 혈압과 진정도에 미치는 영향을 평가했다. 초록에서는 이완기혈압과 평균동맥압(Mean arterial pressure, MAP)이 가바펜틴 투여 후 유의하게 낮아졌고 수축기혈압은 유의차가 없었으며 진정 점수는 증가했다고 보고한다. 초록 내에 최종 결론 문장이 본문 결과와 상반되게 기술되어 있어(증가 vs. 감소) 임상에서 가바펜틴 투여 환자의 혈압 해석에 주의가 필요하다.",
+      "detailed_summary": "연구는 2024-07-01~2025-07-30 기간에 수행된 무작위·맹검·위약대조 교차시험으로, 겉보기 건강한 개 15마리가 3쌍(가바펜틴과 위약) 평가를 받아 총 6회 방문했다. 각 방문에서 20 mg/kg의 액상 가바펜틴 또는 동량의 위약을 경구 투여했으며 투여 순서는 무작위화했다. 혈압은 투여 3시간 후에 진동계(oscillometric)로 측정했고, 진정 점수는 혈압 측정 전에 수집했다. 주요 결과로 중앙값 이완기혈압은 78.67 mm Hg, 중앙값 평균동맥압은 90.67 mm Hg로 가바펜틴 투여 후 유의하게 낮았고, 중앙값 수축기혈압(127.3 mm Hg)은 유의한 차이가 없었다. 진정 점수는 중앙값 4.0으로 가바펜틴 투여 후 유의하게 증가했다. 그러나 초록의 마지막 문장은 이완기혈압과 평균동맥압이 증가했다고 상반되게 기술하고 있어 결과 해석에 혼란이 있으므로, 저자 결론(또는 초록 기술)과 본문 수치 사이의 불일치에 유의해야 한다.",
+      "title": "Effect of gabapentin on blood pressure and sedation scores in healthy dogs.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-11-13T01:54:00.785Z",
+      "model": "gpt-5-mini"
+    },
+    "43015812": {
+      "brief_summary": "3세 스페이드 암컷 풍산견 1례에서 연구개(soft palate)에 발생한 평활근육육종(leiomyosarcoma)의 임상 경과와 다학제적 치료를 보고했다. 환자는 기존에 두 차례 불완전 절제를 받은 재발성 종양으로, CT상 3.8×3.5×4.4 cm 크기의 병변에 대해 주변 절제와 angularis oris 축형(azial pattern) 피판 재건술을 시행하고 보조 방사선치료를 시행하였다. 병리·면역조직화학에서 desmin 및 smooth muscle actin 양성으로 진단이 확인되었고, 다학제 치료로 11개월의 무병진 구간을 얻었으나 국소 완전 관해는 달성되지 않았다.",
+      "detailed_summary": "증례보고로 단일 3세 스페이드 암컷 풍산견을 대상으로 하였으며, 재발성 연구개 종괴, 호흡곤란, 비출혈, 식욕감소로 내원하였다. 환자는 이전에 두 차례 불완전 절제 후 구강 육종으로 진단된 병력이 있었고, 재발 간격이 각각 3개월 및 3주로 매우 빠르게 진행되었다. CT에서 3.8×3.5×4.4 cm 크기의 인두 공간을 대부분 차지하는 연조직 병변이 확인되었고, 치료는 주변 절제(marginal excision)와 angularis oris 축형 피판 재건 후 보조 방사선치료를 병행하였다. 조직검사 및 면역조직화학에서 desmin과 smooth muscle actin 양성으로 평활근육육종으로 확진되었고, 방사선치료 후 9.5개월 시점에 2.5 mm의 재발 결절이 발견되었으며 종양 진행으로 14개월에 두 번째 방사선치료를 시행하였다. 임상적으로는 조기 방사선치료 후 누공(fistula)이 발생하고 장기간 추적에서 재건 피판을 포함한 연구개가 점차 얇아지는 합병증이 관찰되었으며, 두 번째 방사선치료 3개월 후 간헐적 연하곤란이 있었으나 전반적 컨디션은 회복되었다. 결과적으로 원저는 국소적으로 매우 침습적이었고 전신 전이는 관찰되지 않았으며, 단일 증례이므로 일반화에 한계가 있다.",
+      "title": "Surgical resection and angularis oris axial pattern flap reconstruction with adjuvant radiation therapy for recurrent soft palate leiomyosarcoma in a dog.",
+      "journal": "BMC Veterinary Research",
+      "generated_at": "2026-11-13T01:53:41.374Z",
+      "model": "gpt-5-mini"
+    },
+    "43016161": {
+      "brief_summary": "이 연구는 개의 요로감염(UTI) 또는 무증상 세균뇨로부터 분리된 다제내성(MDR) 및 확장스펙트럼 베타락타마제(ESBL) 생성 Escherichia coli 34주를 대상으로 pivmecillinam(활성체 mecillinam)과 fosfomycin의 시험관내 감수성을 평가했다. 모든 분리주(34/34)는 fosfomycin에 감수성을 보였고, mecillinam은 agar dilution에서 31/34, gradient strip에서 32/34가 감수성을 보였다. 임상적으로는 pivmecillinam과 fosfomycin이 MDR/ESBL E. coli UTI에 대한 잠재적 치료 옵션이며, mecillinam 감수성 평가에는 agar dilution이 권장된다.",
+      "detailed_summary": "본 연구는 캘리포니아 대학교 데이비스 마이크로바이올로지 실험실에 보관된 동결 배양된 요 분리주 34주(33마리의 개)로 수행된 시험관내(in vitro) 감수성 평가이다. mecillinam(활성형)의 감수성은 agar dilution과 gradient strip 두 방법으로, fosfomycin의 MIC는 gradient strip로 측정하였다. 결과적으로 fosfomycin에 대해서는 34/34주가 감수성을 보였고, mecillinam은 agar dilution에서 31/34, gradient strip에서 32/34가 감수성을 보였다. paired log2 변환한 mecillinam MIC 비교에서 agar dilution이 gradient strip보다 유의하게 높은 MIC를 보였으며(통계값 V=21.5, r=-0.91), 따라서 agar dilution이 mecillinam 감수성 판정에 더 적합하다고 제시되었다. mecillinam에 내성을 보인 분리주에 대해서는 내성 유전자를 확인하기 위해 유전체 염기서열분석을 수행하였으나 초록에는 구체적 유전자 결과가 제시되어 있지 않다. 초록에는 치료 결과나 임상적 유효성에 대한 데이터는 포함되어 있지 않으며, 제시된 결과는 시험관내 감수성 결과에 국한된다.",
+      "title": "In vitro susceptibility of antimicrobial resistant strains of Escherichia coli isolated from the urine of dogs to pivmecillinam and fosfomycin.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-11-13T01:51:19.454Z",
+      "model": "gpt-5-mini"
+    },
+    "43016486": {
+      "brief_summary": "후향적 의무기록 검토로 운동불내성(exercise intolerance)을 주 증상으로 내원한 10마리의 개를 대상으로 소화기 질환(만성 장질환)과의 연관성을 평가한 증례집단 연구이다. 10마리 중 6마리는 휴식 시 과호흡(팬팅)을 동반했고, 표준 심폐·대사 검사는 대부분 특별한 소견을 보이지 않았으며 코발라민(cobalamin, 비타민 B12) 결핍 또는 부족이 5/10에서 관찰되었다. 저자들은 저지방·단일단백(모노프로틴)·가수분해식 등 식이 변경과 프로키네틱스·위산분비억제제·타일로신(tylosin) 등 위장 지향 치료를 시행한 결과 모든 증례에서 소유자 평가상 중앙값 21일 이내에 완전 임상호전을 보였다고 보고하며, 원인 불명 운동불내성과 과도한 팬팅에서 소화기 원인을 고려할 것을 제시한다.",
+      "detailed_summary": "연구는 후향적 의무기록 검토로 운동불내성을 호소하되 명백한 소화기 또는 호흡기 증상이 없는 10마리의 개 증례를 분석했다. 임상 소견으로는 6/10에서 휴식 시 설명되지 않는 팬팅이 있었고, 미미한 소화기 증상은 4건, 복부 촉진 시 불편감은 5건에서 관찰되었다. 표준적인 심폐·대사 검사들은 대부분 특이 소견을 보이지 않았고, 코발라민 결핍 또는 부족은 5/10에서 확인되었다. 치료는 위장 지향 약물(프로키네틱스, 위산분비억제제, 타일로신 등)과 식이요법(저지방, 단일단백/모노프로틴, 가수분해식)을 경험적으로 적용한 형태였다. 모든 증례는 소유자 평가 기준으로 중앙값 21일 내에 임상적 완전 호전을 보였다고 보고되었다. 저자들은 본 증례군이 인간의 염증성 장질환(IBD) 관련 피로와 유사한 소견을 시사할 수 있다고 제시하면서, 소화기 병변(장-뇌축, 장내미생물 불균형, 위배출 지연 등)에 대한 추가 연구의 필요성을 강조한다. 중요한 제한점으로서 사례집단(증례 시리즈)이며 일반화하거나 인과관계를 확정할 근거는 되지 않는다는 점을 명확히 하고 있다.",
+      "title": "Beyond the lungs and heart: a possible association between digestive disease and exercise intolerance in 10 dogs.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-11-13T01:53:22.332Z",
+      "model": "gpt-5-mini"
+    },
+    "43016731": {
+      "brief_summary": "본 연구는 힌지형 횡단 외부 골고정(hinged transarticular external skeletal fixation, htaESF)의 힌지를 대퇴 과(대퇴골 과) 중심에 위치시켰을 때 개의 슬관절(femoro-tibial) 가동범위(ROM) 동안 정상적인 대퇴-경골 위치가 유지되는지 평가했다. 절제한 개의 골반사지 8개를 대상으로 방사선 촬영을 통해 관절 내 교차점(IP)의 이동 경로를 분석한 결과, IP 경로는 비선형이고 다수의 다리 및 동일 개체 내에서 일관된 패턴이 없었다. 결론적으로 힌지를 대퇴 과 중심에 두는 것은 ROM 동안 정상적인 대퇴-경골 위치를 허용하지 않을 가능성이 높아, htaESF에서의 관절 가동이 관절에 비정상적 힘을 가할 수 있음을 시사한다.",
+      "detailed_summary": "연구는 절제한 개의 골반사지 8개를 사용한 실험적 연구로, 대퇴골은 고정하고 경골은 회전을 통제하도록 핀으로 고정한 상태에서 시행되었다. 대퇴 과 중심을 135°에서 표시하고 대퇴와 경골의 특정 지점을 방사선 불투명 격자에 표시한 뒤, ROM 동안 5° 간격으로 방사선을 촬영하여 대퇴선과 경골선의 교차점(IP)을 도출하고 좌표를 정규화하였다. 주요 평가항목으로 IP 좌표의 분포(convex hull 면적), 유클리드 거리의 변동계수, 그리고 IP 이동과 굴곡 각도의 관계를 선형 혼합모형으로 분석하였다. 결과는 IP 경로가 비선형이며 개별 다리와 동일 개체 내에서 일관된 패턴이 없었고, convex hull 면적이 큼과 양측 비대칭성이 관찰되었다. 선형 혼합모형에서 IP 이동과 슬관절 각도 사이에 유의한 역상관이 있었으며(P < 0.001), 이는 힌지 중심을 대퇴 과에 두었을 때 대퇴-경골 위치 변화가 정상과 다를 수 있음을 의미한다. 연구는 이전에 동결된 사지를 사용한 점과 슬관절의 단일 지점만 평가한 점을 중요한 제한점으로 제시하며, 관절에 비정상적 힘을 가하지 않으면서 ROM을 허용할 수 있는 이상적 고정구조에 대한 추가 연구가 필요하다고 결론지었다.",
+      "title": "Will a trans-articular external fixator placed across the canine stifle allow normal motion if the hinge is centered over the femoral condyle?",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-11-13T01:52:53.174Z",
+      "model": "gpt-5-mini"
+    },
+    "43017042": {
+      "brief_summary": "이 논문은 고양이 비대성 심근병증(HCM)에서 전통적 심실 중심 관점 대신 좌심방(Left atrium, LA)의 역할에 주목한 내러티브 리뷰이다. 저자들은 울혈성 심부전(좌심방 압력 상승), 동맥색전증(좌심방 부속기 혈류정체) 등 주요 임상 사건이 근본적으로 좌심방 병태생리에 의해 설명되며, 좌심방 크기와 기능이 좌심실 벽 두께와 독립적으로 예후와 연관된다고 요약한다. 임상적 함의로 좌심방 기능 저하(LA fractional shortening)가 좌심실 비대 진단 기준에 앞서 나타날 수 있어 진단·예후 모델과 신약 평가(예: delayed-release rapamycin의 조건부 승인)에서 좌심방 중심의 재설계가 필요하다고 제안한다.",
+      "detailed_summary": "연구는 문헌을 종합한 내러티브 리뷰로, 고양이 HCM에서 좌심방의 기여를 다섯 가지 주제(좌심방 병태생리, 좌심방 영상, 좌심방 주도의 임상 결과, 질병 수정 치료의 함의, 임상 진료 시 현실적 함의)로 검토했다. 주요 병태생리로는 좌심방 압력 상승에 따른 폐정맥계 압력 증가로 인한 울혈성 심부전, 좌심방 부속기의 구조적 재형성과 기능 저하로 인한 혈류 정체가 동맥색전증(arterial thromboembolism, ATE)을 유발하는 과정이 제시되었다. 관찰적 증거로 좌심방 크기·기능이 좌심실 벽 두께와 독립적으로 생존과 연관되며, 좌심방 단축률(LA fractional shortening)은 좌심실 비대(LVH) 진단 기준에 앞서 감소할 수 있음이 보고되었다. 저자들은 현행 진단 체계·예후 모델·임상시험 및 규제 평가가 여전히 심실 중심이라면서, 좌심방을 중심에 둔 진단·관찰 지표와 치료 결정을 재검토할 것을 촉구한다. 구체적 제안으로는 병기(stage)-기반 치료 결정의 틀과 연구 우선순위(좌심방 중심의 시험 종단점, 다기관 재현성 확보)를 제시했다. 역학적 수치로는 증상 없는 겉보기 건강 고양이 집단에서 질병 유병률이 14.7%이고, 전임상 코호트에서 10년 동맥색전증 위험이 11.3%로 제시되었다. 결론적으로 저자들은 좌심방을 HCM의 중심으로 재배치할 것을 주장하지만, 이는 기존 문헌의 종합(내러티브 리뷰)에 근거한 권고로서 향후 전향적·다기관 연구로의 검증이 필요하다고 명시했다.",
+      "title": "Beyond the ventricle: the atrial contribution to feline hypertrophic cardiomyopathy and implications for diagnosis, prognosis, and emerging therapy.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-11-13T01:52:32.519Z",
+      "model": "gpt-5-mini"
+    },
+    "43017463": {
+      "brief_summary": "본 연구는 146명의 성인 화자가 반려견·영유아·성인 상대와 반자연적 환경에서 상호작용하는 영상을 분석해 화자의 체형(체형 점수)과 말할 때 동반되는 얼굴 표현(visual prosody)의 변화를 평가했다. 전체 맥락에서 체형 점수가 높을수록 얼굴의 각성(arousal)이 낮게 나타났고, 특히 개-대상 소통에서는 체형 점수가 높은 화자가 더 약한 긍정 표정(Happy)과 낮은 얼굴 Valence를 보였다. 이러한 체형 관련 차이는 반려견과의 대면 소통에서 특히 두드러져, 반려동물과의 면대면 의사소통 및 사회적 관계에 영향을 줄 가능성이 제기된다.",
+      "detailed_summary": "연구는 반자연적(semi-naturalistic) 지시 하에 자신의 개·영유아·성인 상대와 상호작용하는 146명 성인 화자의 영상자료를 대상으로 했다. 얼굴 움직임은 자동 얼굴 분석 소프트웨어 Noldus FaceReader(얼굴 표정 지표: Happy, Arousal, Valence, AU6(cheek raiser))로 정량화했고, 체형은 표준 절차로 시각적 점수화를 수행했다. 통계는 선형 혼합모형(linear mixed models)을 사용하여 체형 점수와 얼굴 변수 간의 연관을 분석했다. 주요 결과는 체형 점수가 높은 화자에서 모든 의사소통 맥락에서 얼굴 Arousal이 낮게 관찰되었다는 점이다. 개-대상 소통에 한정해, 체형 점수가 높은 화자는 Happy 표정 강도와 얼굴 Valence가 더 낮았으나 영유아·성인 대상에서는 이러한 차이가 관찰되지 않았다. 반대로 AU6(cheek raiser) 강도는 영유아·성인 대상 소통에서 체형 점수가 높을수록 더 강하게 나타났고, 개-대상 소통에서는 그렇지 않아 종(species) 특이적 보상 기전 가능성이 제시되었다. 연구진은 FaceReader의 근육-지표 매핑이나 모델 품질 차이, 관습적 표현 스타일 차이 등 여러 가능한 설명과 함께 본 결과가 인과관계를 증명하지 않음을 명시했으며, 얼굴 표현 변화가 반려동물과의 의사소통 효과나 사회적 관계에 미치는 영향은 추가 논의가 필요하다고 결론지었다.",
+      "title": "Body condition-linked alterations in dog owners' visual prosody.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-11-13T01:52:07.723Z",
+      "model": "gpt-5-mini"
+    },
+    "43017553": {
+      "brief_summary": "단일 증례보고로, 9세 스페니얼계(푸들) 암컷에서 의심되는 에피루비신(epirubicin) 주입부위 외유출(extravasation) 후 17일째에 진행성 궤양이 발생한 환자를 대상으로 보존적 치료(수술 없이)와 보조적 고압 기체 냉치료(hyperbaric gaseous cryotherapy, HGC)를 포함한 다중요법을 시행하였다. 치료 결과 점진적 상처 치유가 관찰되어 93일째 완전 재상피화(re-epithelialization)를 얻었고 수술적 개입 없이 상처가 회복되었다. 임상적 의미는, 권고된 치료 시간 창이 지난 지연 표현형의 에피루비신 외유출에서도 HGC를 포함한 보존적 다중요법으로 외과적 처치 없이 상처가 호전될 수 있음을 한 증례에서 보고한 것이다.",
+      "detailed_summary": "연구 설계는 단일 증례보고이며 대상은 의심되는 에피루비신 외유출로 17일 뒤 진행성 궤양을 보인 9세 중성화 암컷 푸들로, 기저질환은 전신성 림프종(stage IV multicentric lymphoma)이었다. 권고된 치료 창(초기 치료 시효)이 지난 상태였으므로 수술적 절제가 고려되었으나 보호자 의사와 환자의 예후를 고려해 보존적 치료를 선택했다. 주된 중재는 보조적 모달리티로서 고압 기체 냉치료(HGC)였고, 그 외에 덱스라조산(dexrazoxane), 국소 DMSO(dimethyl sulfoxide), 얼음찜질도 치료에 포함되었다. 주요 평가 항목은 상처의 임상적 진행과 치유로, 치료 경과 중 점진적 치유가 관찰되었고 최종적으로 93일째에 완전 재상피화를 보였다. 환자는 이후 138일째 진행성 림프종으로 사망할 때까지 해당 상처는 완전히 치유된 상태로 유지되었다. 저자 결론은 지연된 에피루비신 외유출에서도 HGC를 포함한 보존적 다중요법으로 수술 없이 완전 치유를 달성한 증례를 보고한다는 점이다. 중요한 제한점은 단일 증례라는 점과 치료 개입들이 시간적으로 권장 창이 지난 상태에서 병행되었기 때문에 각 치료법의 개별 효용을 일반화하거나 인과관계를 확정할 수 없다는 것이다.",
+      "title": "Case Report: Delayed epirubicin extravasation-induced ulceration in a dog managed without surgical intervention using adjunctive hyperbaric gaseous cryotherapy.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-11-13T01:51:49.290Z",
+      "model": "gpt-5-mini"
+    },
+    "43019038": {
+      "brief_summary": "갑상선기능저하증으로 장기 치료 중이던 8세 스프레이 여성 포메라니안에서 갑상선호르몬(levothyroxine) 한 달치(3 mg, 1.13 mg/kg)를 급성 섭취한 증례로, 입원 후 총 티록신(total T4)과 개용 갑상선자극호르몬(cTSH)을 일일 추적 관찰했다. 일시적 빈맥 외에는 임상 증상이 경미했으며 총 T4는 정량한계 이상이었다가 73시간에 정상화되었고 cTSH는 처음에는 정상에서 98시간에 상한을 초과했다. levothyroxine은 중단하고 활성탄 및 정맥유체를 투여했으며, 퇴원 후 2일 만에 재투약이 필요해졌으나 이후 6개월간 호르몬 조절이 잘 이루어졌다. 본 증례는 급성 levothyroxine 과다복용에서 일일 T4·cTSH 모니터링이 보고된 첫 사례로, 만성 노출보다 급성 과다복용의 임상 양상이 덜 중증할 수 있음을 시사한다.",
+      "detailed_summary": "본 연구는 단일 증례보고로, 장기간 갑상선기능저하증 치료 중인 8세 중성화 암컷 포메라니안이 levothyroxine 3 mg(1.13 mg/kg, 1달분)을 섭취한 후 9시간 만에 내원한 사례를 다룬다. 입원 시 신체검사상 일시적 빈맥 이외에는 특이 소견이 없었고, 총 티록신(total T4) 수치는 검사 상한치를 초과하였다. 처치로 levothyroxine을 중단하고 활성탄 및 정맥유체 치료를 시행하였으며, 입원 기간 동안 매일 총 T4와 개용 TSH(cTSH)를 측정했다. 총 T4는 73시간에 정상 범위로 감소·정상화되었고, cTSH는 입원 초기 정상에서 98시간째에 상한을 초과하는 변화가 관찰되었다. 환자는 5일간 입원 후 퇴원하였고, 2일 후 지속적인 cTSH 상승과 재발한 저하증상으로 levothyroxine 투여를 재개하였다. 재투여 이후 6개월간 갑상선기능저하증은 잘 조절되었다. 본 증례는 일일 T4 및 cTSH 추적을 포함한 levothyroxine 급성 과다복용의 임상 경과를 문서화한 첫 보고이며, 단일 증례라는 점에서 일반화에는 한계가 있다.",
+      "title": "Acute Levothyroxine Overdose Followed by Serial Monitoring of Total Thyroxine and Thyroid-Stimulating Hormone in a Hypothyroid Dog.",
+      "journal": "Veterinary Medicine and Science",
+      "generated_at": "2026-11-13T01:51:32.279Z",
       "model": "gpt-5-mini"
     }
   }
