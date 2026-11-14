@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T01:54:41.748Z",
+  "updated_at": "2026-11-14T01:31:56.754Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -8655,6 +8655,110 @@
       "title": "Acute Levothyroxine Overdose Followed by Serial Monitoring of Total Thyroxine and Thyroid-Stimulating Hormone in a Hypothyroid Dog.",
       "journal": "Veterinary Medicine and Science",
       "generated_at": "2026-11-13T01:51:32.279Z",
+      "model": "gpt-5-mini"
+    },
+    "43020466": {
+      "brief_summary": "6개월령 중성화되지 않은 암컷 골든 리트리버에서 방광 보트로이드 횡문근육종(rhabdomyosarcoma, RMS)이 진단되었고, 삼출성 방광 종괴의 감축수술과 함께 수술 중 전기화학요법(electrochemotherapy, ECT)으로 블레오마이신을 투여한 후 전신 도옥소루비신 6회 치료를 시행했다. 치료로 완전 관해가 관찰되었으나 183일 후 재발했고 전체 생존시간은 277일이었다. 이 증례는 ECT를 포함한 다학제적 접근이 국소-영역 통제에 기여해 기존 보고된 중앙생존기간(45일, 범위 20–120일)을 넘긴 사례임을 시사한다.",
+      "detailed_summary": "증례는 요실금, 배뇨곤란 및 혈뇨를 주소로 내원한 6개월령 암컷 골든 리트리버로, 초음파에서 삼각부(trigone)에 방광 종괴가 확인되어 탐색적 방광절개술(cystotomy)과 병변 감축술을 시행했다. 수술 중 블레오마이신을 이용한 전기화학요법(ECT)을 적용했고 이후 전신 도옥소루비신 화학요법을 6회 시행하였다. 치료 후 완전 관해가 보고되었으나 183일 후 재발이 관찰되었고 최종 생존기간은 277일이었다. 논문은 이 생존기간이 기존 보고된 방광 RMS의 중앙생존기간(45일, 범위 20–120일)을 상회한다고 기술한다. 저자들은 ECT를 포함한 다중 치료가 침습성 방광 RMS의 국소-영역 통제를 개선하고 생존 연장에 기여할 가능성이 있음을 시사하나, 이는 단일 증례보고에 국한된 관찰임을 명시한다. 결과의 일반화는 불가능하며 추가 증례와 체계적 연구가 필요하다.",
+      "title": "Electrochemotherapy for Urinary Bladder Botryoid Rhabdomyosarcoma in a Dog: Case Report.",
+      "journal": "Topics in Companion Animal Medicine",
+      "generated_at": "2026-11-14T01:31:56.741Z",
+      "model": "gpt-5-mini"
+    },
+    "43021229": {
+      "brief_summary": "이 연구는 방글라데시 도시 빈민가의 인간‑개 공유 환경에 버려진 개 배설물을 대상으로 인수공통 구충류의 유병률과 종 다양성을 분자적으로 조사했다. 환경 샘플 280건을 formalin‑ether 농축법, 변형 Baermann법(MBT), ITS 영역을 표적한 PCR 및 염기서열 분석으로 검사한 결과 PCR에서 49.6%(139/280)의 양성률을 보였고, Ancylostoma caninum과 A. ceylanicum이 우세한 인수공통종으로 확인되었다. 임상적 의미는 도시 인간‑개 접촉 환경에서 광범위한 구충류 환경오염이 존재하므로 One Health 관점에서 인간·동물·환경 노출을 줄이는 전략이 필요하다는 점이다.",
+      "detailed_summary": "횡단연구로 2025년 1월–2026년 4월 기간에 Sylhet 시 5개 도시 빈민가에서 환경에 버려진 개 배설물 280건을 수집하여 분석했다. 검사법으로는 formalin‑ether 농축법, 변형 Baermann법(Modified Baermann Technique, MBT), 그리고 내부 전사 간격(internal transcribed spacer, ITS)을 표적한 PCR을 사용했고, PCR 양성 산물은 양방향 염기서열 및 계통분석으로 종을 확정했다. PCR에서 139/280(49.6%)이 양성으로 검출된 반면 현미경은 107/280(38.2%), MBT는 113/280(40.4%)이었고, PCR을 기준으로 현미경과 MBT의 민감도는 각각 77.0%와 81.3%였다. ITS‑PCR 및 염기서열 분석으로 Ancylostoma caninum(90건)과 A. ceylanicum(26건)이 주로 검출되었고 Necator americanus(12건), Uncinaria stenocephala(7건), A. duodenale(4건)도 확인되었으며 GenBank 참조주와의 일치도는 98.8–99.8%였다. 위치별 오염 유병률은 42.1%–56.9%였고, 실험실 토양 스파이크 실험에서는 유충 회수율이 밀도에 따라 55.7%–98.1%로 증가하였다. 연구진은 N. americanus와 A. duodenale의 검출은 환경오염, 배설물 기원 오분류 또는 coprophagy(대변 섭취)에 의한 수동 통과일 수 있으므로 주의해 해석해야 한다고 밝히며, 배설물의 숙주 기원 분자확인 및 인간·동물·환경을 동시 포함한 추가 연구의 필요성을 강조한다.",
+      "title": "Environmental contamination with zoonotic hookworms in urban Bangladesh: molecular evidence from shared human-dog interfaces.",
+      "journal": "BMC Veterinary Research",
+      "generated_at": "2026-11-14T01:31:05.252Z",
+      "model": "gpt-5-mini"
+    },
+    "43021241": {
+      "brief_summary": "자연감염된 개를 대상으로 한 연구로, 목적은 비강(NS), 구인두(OS), 직장(RS) 검체와 부검 조직에서 canine respiratory coronavirus(CRCoV)의 분포와 바이러스 부하를 조사하는 것이다. 267마리 중 10.49%에서 RT-qPCR로 CRCoV RNA가 검출되었고, RT-dPCR로 정량한 결과 비강 검체의 바이러스 부하가 OS와 RS보다 유의하게 높았다(p<0.001, p<0.001; OS>RS p<0.01). 부검에서는 호흡기 외 조직에서도 RNA가 검출되었고, 메센테릭 림프절에서 in situ hybridization으로 국소화되어 호흡기 우세성 및 잠재적 비호흡기 검출을 시사한다. 임상적으로는 주로 호흡기 표본을 우선 검사해야 하며, 추가 연구로 전신적 확산 또는 조직 내 활성 증식 여부를 확인할 필요가 있다.",
+      "detailed_summary": "연구는 자연감염된 개 267마리를 대상으로 비강(NS), 구인두(OS), 직장(RS) 탐샘을 포함한 임상검체와 부검 조직을 수집하여 CRCoV 분포와 바이러스 부하를 평가했다. 검사법은 RT-qPCR로 검출하고 RT-dPCR로 바이러스 부하를 정량화하였으며, 전체에서 10.49%가 RT-qPCR 양성이었다. 검체별로 비강(NS)의 바이러스 부하가 OS 및 RS보다 유의하게 높았고(p<0.001, p<0.001), OS는 RS보다 높았다(p<0.01). 종적(연속) 샘플링에서 대부분의 개는 1주 내에 RNA가 검출되지 않게 되었으나, 중증으로 사망한 한 마리에서는 배출이 지속되었다는 관찰이 있었다. 부검 샘플에서 CRCoV RNA는 호흡기 및 일부 비호흡기 조직에서 검출되었고, 메센테릭 림프절에서 in situ hybridization으로 국소화에 성공하였다. 결론은 CRCoV가 주로 호흡기에서 우세하게 검출되지만 일부 사례에서 비호흡기 조직에서도 검출될 수 있어 전신적 확산 또는 조직 내 활발한 복제 여부는 추가 연구가 필요하다는 점이다. 제한점으로 저자들은 비호흡기 검출의 생물학적 의미와 인체나 동물 내 활성 복제 여부를 확정하지 못했음을 명시했다.",
+      "title": "Distribution and viral load of canine respiratory coronavirus in naturally infected dogs: evidence from clinical sampling sites and tissue detection.",
+      "journal": "BMC Veterinary Research",
+      "generated_at": "2026-11-14T01:30:27.416Z",
+      "model": "gpt-5-mini"
+    },
+    "43021339": {
+      "brief_summary": "스페인어권 수의 마취·진통 전문가를 대상으로 델파이(Delphi) 방법을 이용해 개와 고양이의 주변 마취(peri-anaesthetic) 사망률 정의와 개념적 분류 기준을 합의하려는 연구(D.R.E.A.M.). 패널은 시간적 적용 기준과 원인 귀속을 분리하고, 충분한 정보가 있을 때 단일 주원인을 지정하며 기여요인은 별도로 기록할 것을 지지했다. 또한 마취, 수술, 진단시술, 기존 질환, 진정 등 인과 영역을 지지했고, 24시간/48시간 기본 창을 두고 근거가 있을 때 최대 7일까지 연장하는 유연한 시간 모델에 합의해 분류도구 개발의 개념적 기반을 제공했다. 다만 이 프레임워크는 아직 검증된 판정 도구로 해석해서는 안 된다고 명시했다.",
+      "detailed_summary": "세 차례 온라인 델파이 연구로 설계되었으며, 탐색적 개방형 1라운드 후 두 차례의 구조화된 합의 라운드를 실시했다. 스페인어권 수의 마취·진통 전문가 57명이 초대되어 47명이 1라운드에 참여했고 모든 참여자가 2·3라운드를 완료했다. 2라운드에서는 38개 진술을 1–9 척도로 평가했고, 3라운드에서는 18개 정제 문항을 0–10 척도로 평가한 뒤 연속적 1–9 분석 척도로 변환했다. 합의 기준은 중앙값 ≥7 및 사분위범위(IQR) ≤2를 긍정적 합의로, 중앙값 ≤3 및 IQR ≤2를 부정적 합의로 정의했다. 결과적으로 2라운드에서 23개 진술이 긍정적 합의를 얻고 1개는 부정적 합의, 14개는 무합의였으며, 3라운드에서는 9개 긍정·1개 부정·8개 무합의였다. 주요 합의 내용은 시간적 적격성(temporal eligibility)과 인과 귀속을 분리할 것, 주원인을 정보가 충분하면 하나만 지정하고 기여요인은 별도 기록할 것, 지지된 인과 영역(마취·수술·진단시술·기존질환·진정) 및 24시간 또는 48시간을 기본 창으로 하되 마취 합병증 근거가 있을 때 최대 7일까지 연장하는 유연한 시간 모델이었다. 해결되지 않은 쟁점으로는 기본 시간 창의 고정, 단일 집계 보고, 마취가 기여적 요인이나 비주원인인 경우, 치료 제한이나 경제적 제약 문제, 진정(SEDATION) 전용 정의, 불확정·분류불능 범주 등이 남아 있다. 결론은 시간만으로 분류하거나 이분법적 마취·비마취 구분 대신 계층적 인과적 프레임워크를 제안하며, 이는 연구·사망률 검토·임상 감사용 분류 도구 개발의 개념적 기초를 제공하나 아직 검증된 판정 도구는 아니라는 점이다.",
+      "title": "Defining and classifying peri-anaesthetic mortality in dogs and cats using the Delphi method: the Definition Research for Establishing Anaesthetic Mortality (D.R.E.A.M.) consensus study.",
+      "journal": "BMC Veterinary Research",
+      "generated_at": "2026-11-14T01:31:24.828Z",
+      "model": "gpt-5-mini"
+    },
+    "43021523": {
+      "brief_summary": "성묘 단모종 고양이 사체 12구의 단측 천장관절 탈구 모델에서 단일 2.5 mm 캔눌레이티드 압축 헤들리스 스크류(CCHS)가 천골 폭의 40%에 걸치도록 고정했을 때, 천골 폭의 60%에 걸치는 더 긴 CCHS 및 코르티칼 래그 스크류와 비교해 관절 간 압박력과 회전 안정성에 유의한 차이가 없었다. 총력, 압박 면적, 총압력 및 항복하중, 최대하중, 강성 등 모든 평가 변수에서 통계적 차이가 관찰되지 않았다(p값 모두 >0.05). 모든 실패는 스크류 풀림으로 발생했다. 본 결과는 본 연구의 특정한 사체(Ex vivo) 시험 조건에서는 짧은 CCHS(40% 관통)도 임상적 목적의 압박력과 회전 안정성을 제공할 수 있음을 시사한다.",
+      "detailed_summary": "연구는 성묘 단모종 고양이 사체 12구를 사용한 실험적 사체 연구로, 단측 천장관절 탈구(SIL) 모델에서 단일 2.5 mm 캔눌레이티드 압축 헤들리스 스크류(CCHS)를 천골 폭의 40%에 걸치도록 고정한 후, 이전에 얻은 천골 폭의 60%에 걸치도록 고정한 CCHS 및 코르티칼 래그 스크류 데이터와 비교했다. 관절절합 전 관절강에 압력 매핑 센서를 삽입하여 총력(N), 압박 면적(mm2), 총압력(N/mm2)을 측정했고, 회전 안정성 평가는 골반을 비구를 통해 하중하여 하지 지면반력과 유사하게 하중을 가하며 변위율 0.5 mm/s로 최대 파괴까지 시험하여 항복하중·최대하중·강성·파괴 양상을 기록했다. 그룹 간 비교는 Fisher의 ANOVA와 Kruskal–Wallis 검정을 사용했고, 후속 검정으로 Student's t검정 및 Dunn 검정을 실시했으며 유의수준은 p<0.05로 설정했다. 총력(p=0.35), 압박 면적(p=0.76), 총압력(p=0.37), 항복하중(p=0.55), 최대하중(p=0.82), 강성(p=0.57)에서 유의한 차이는 없었다. 모든 파괴는 스크류 풀림에 의해 발생했다는 점이 보고되었다. 결론적으로, 본 연구의 특정한 ex vivo 시험 조건하에서는 단일 CCHS가 천골 폭의 40%에 걸치도록 삽입되어도 60%에 걸치는 스크류와 압축력 및 회전 안정성이 비슷했으나, 실험이 사체 기반이며 특정 조건에서 수행되었다는 제한점이 있다.",
+      "title": "EXPRESS: Biomechanical evaluation of feline sacroiliac joint stabilization using a single short cannulated compression headless screw: A cadaveric study.",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "generated_at": "2026-11-14T01:31:45.301Z",
+      "model": "gpt-5-mini"
+    },
+    "43021591": {
+      "brief_summary": "덴마크 닥스훈트 2,120마리의 K-number(KN; 석회화된 석회화된 추간판 수) 기록을 후향적으로 분석하여 부모 KN이 자손 KN과 유의하게 연관됨을 확인했다. 부모 KN을 점점 엄격히 제한할수록 자손의 평균 KN은 개선(예: K≤4 선택 시 평균 2.26 → K0 선택 시 1.54)되는 것으로 예측되었으나, 동시에 효과적 번식집단 크기(Ne)가 유전적 병목 위험 수준 이하로 감소했다. 임상적 의미는 KN 기반 선발이 IVDD(intervertebral disc disease) 위험 감소에 도움을 줄 수 있으나 유전적 다양성 보존과의 균형이 필요하다는 것이다.",
+      "detailed_summary": "연구는 1993–2024년 공개 데이터베이스에 등록된 덴마크 닥스훈트 KN 기록 2,120건을 후향적으로 분석했다. 부모-자손 회귀 및 누적 서열(ordinal) 모델에서 더 나쁜(높은) 부모 KN은 자손의 더 나쁜 KN을 예측했으며, 수컷 KN: P = 4.8×10⁻⁶, OR 1.3(95% CI 1.16–1.45), 암컷 KN: P = 3.3×10⁻⁵, OR 1.3(95% CI 1.13–1.40)로 보고되었다. 모의 시나리오에서 부모 KN을 점진적으로 엄격히 제한하면 다음 세대 평균 KN이 개선되어 K≤4 선택 시 2.26에서 K0 선택 시 1.54로 감소하는 것으로 예측되었다. 저자들은 이러한 KN 개선이 추정상 IVDD 유병률을 약 19% 감소시킬 수 있다고 제시했다. 그러나 엄격한 선발은 번식에 적합한 개체 수를 줄여 표준 와이어헤어 등에서는 Ne가 K≤4에서 179에서 K0에서 52로 감소하는 등 유전적 병목 위험 아래로 떨어질 수 있었다. 초록에는 KN 선발은 현재 점수화된 번식견 수에 의해 제한되며, 2026년부터 덴마크에서 번식에 쓰이는 모든 닥스훈트의 KN 검사가 의무화되면 Ne 증가에 도움이 될 수 있다고 언급되어 있다.",
+      "title": "K-number-based selection in Danish dachshunds: offspring outcomes and implications for genetic diversity.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-11-14T01:29:10.037Z",
+      "model": "gpt-5-mini"
+    },
+    "43021592": {
+      "brief_summary": "백신 접종력이 없는 건강한 개 10마리(체중 9–31 kg)를 대상으로 사중(4가) 불활성 렙토스피라 백신의 전량(n=5)과 반량(n=5)을 비교한 전향적 무작위 예비연구이다. 접종 4주 후 현미경응집검사(MAT) 항체를 비교한 결과 전량 투여군은 비교적 균일한 항체 반응을 보였으나 반량 투여군은 개체 및 혈청형별로 반응이 다양하고 일부에서는 낮은 역가(반량 1:100–1:3200, 전량 1:800–1:3200)를 보였다. 이 결과는 일관된 면역반응을 위해 권장 전량 투여를 준수할 필요가 있음을 시사하나, 소규모 표본의 항체 측정 연구로 실제 질병 보호성은 평가하지 않았다는 점이 있다.",
+      "detailed_summary": "전향적 무작위 파일럿 연구로 백신 접종력이 없는 클라이언트 소유 건강한 개 10마리(체중 9–31 kg)를 전량 투여군(n=5)과 반량 투여군(n=5)으로 배정하여 사중(4가) 불활성 렙토스피라 백신을 투여하였다. 혈청은 접종 전과 접종 4주 후에 채취하였고, 주요 평가변수는 백신 관련 혈청형에 대한 현미경응집검사(MAT) 역가였다. 모든 개는 접종 전에는 혈청음성이었고, 전량 투여군은 비교적 균일한 MAT 반응을 보였다. 반면 반량 투여군은 개체 및 혈청형별로 반응이 다양하여 반량군 역가는 1:100–1:3200였고 전량군은 1:800–1:3200 범위였다. 두 군 모두에서 Leptospira bratislava에 대한 교차반응은 검출되었으나 Leptospira hardjo는 모두 음성이었으며, 반량군 내에서 체중 <50 lb인 개가 ≥50 lb인 개보다 몇몇 백신 혈청형에서 관찰 역가가 더 높게 나타났다. 결론은 투여 용량 감소가 항체 반응의 변동성을 초래하고 일부 혈청형에서 낮은 역가를 보였으므로 권장 전량 투여를 지지하지만, 표본수가 적은 예비 연구이고 항체만 측정했으며 실제 보호 효과는 평가하지 않았다는 중요한 제한이 있다.",
+      "title": "Immunogenicity of half-dose versus full-dose Leptospira quadrivalent vaccine in dogs: a prospective randomized pilot study.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-11-14T01:28:55.190Z",
+      "model": "gpt-5-mini"
+    },
+    "43021593": {
+      "brief_summary": "선천성 문맥체정맥 단락(congenital portosystemic shunt, cPSS)이 있는 개 44마리와 연령·체중 대조군 39마리를 대상으로 비타민 B12(코발라민)와 엽산, 관련 대사물질을 평가해 cPSS 전후 및 단락 유형·완전 폐쇄 여부에 따른 차이를 조사했다. 검사 전 대부분의 환자는 혈중 코발라민이 정상 범위였으나 세포내 부족을 시사하는 sMMA·uMMA:crea 상승 또는 HCy 변화 등 대사 이상이 흔하게 관찰되었다. 수술적 단락 폐쇄 후(12주) 일부 지표는 개선됐으나 일부 개에서는 이상이 지속되었고, 완전 폐쇄가 불완전 폐쇄보다 비타민 이용성 개선과 더 연관됐다.",
+      "detailed_summary": "전향적 비교연구로서 cPSS군 44마리(내간성 cIPSS 32마리, 외간성 cEPSS 12마리)와 매칭된 대조군 39마리를 대상으로 코발라민, 트랜스코발라민(TCB), 호모시스테인(HCy), 혈중 및 요 중 메틸말로산(sMMA, uMMA:crea), 엽산 및 혈중 암모니아를 측정해 PSS-0(수술 전)과 PSS-12(수술 후 12주)를 비교했다. PSS-0에서 저코발라민은 2/44, 고코발라민은 8/44(특히 cEPSS에서 5/12)였고, 혈중 코발라민이 정상인 34마리 중 HCy는 이용 가능한 샘플의 47%에서 참조치보다 낮았고 sMMA는 61%, uMMA:crea는 27%에서 상승을 보였다. PSS-0군은 대조군에 비해 HCy는 낮고(significant, P<.0001), sMMA·uMMA:crea는 높았으며(P<.0001), 엽산은 더 낮았다(P<.0001). PSS-0에서 고암모니아혈증은 35/43마리에서 관찰되었으나 암모니아는 측정 변수들과 상관하지 않았다. PSS-12에서는 코발라민과 TCB가 유의하게 낮아지고(HCy는 증가, sMMA·uMMA:crea 일부는 감소 또는 일부에서 초생리학적 수준 유지), 전체적으로 uMMA:crea는 감소(P=0.0002)하고 엽산은 증가(P<.0001)하는 등 일부 지표가 개선됐다; 특히 cIPSS는 PSS-12에서 cEPSS보다 sMMA가 더 높았고(P=0.0001), 완전 폐쇄는 불완전 폐쇄보다 sMMA 및 uMMA:crea가 더 낮았다(P=0.0001 및 P=0.003). 결론적으로 cPSS가 있는 개에서 혈중 코발라민이 정상이라도 세포 수준의 비타민 기능 이상이 흔하며 수술 후에도 일부에서는 이상이 지속될 수 있어 폐쇄 성공 여부를 고려한 추적이 필요하다. 중요한 제한점으로는 초록에 제시된 결과가 12주 추적까지이며 장기 경과나 임상 증상과의 직접적 인과관계는 제시되지 않았다.",
+      "title": "Abnormalities in cobalamin status in dogs with congenital portosystemic shunt before and after shunt closure.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-11-14T01:28:23.414Z",
+      "model": "gpt-5-mini"
+    },
+    "43021594": {
+      "brief_summary": "점액변성 승모판 질환(MMVD) 개 80마리와 심장질환 없는 개 62마리를 대상으로, 신장 내 도플러 초음파로 신장 관류(인터로바 동맥의 속도시간적분, VTI)와 신장 울혈(정맥 임피던스 지수, VII)을 평가했다. 심박수로 보정한 VTIc는 ACVIM 단계가 높아질수록 감소했고, VTIc<8.3인 개는 유의하게 단축된 생존을 보였다(P<.001). VII은 다변량 콕스 분석에서 예후와 독립적으로 연관(HR 1.24/0.1단위 증가, 95% CI 1.07-1.42)되었고, VTIc와 VII를 결합한 분류는 서로 다른 생존 양상을 가진 4개의 하위군을 식별해 임상적 예후 평가에 추가 정보를 줄 수 있다.",
+      "detailed_summary": "전향적 코호트 연구로, 수술 전·일반 검진 목적으로 내원한 심장질환 없는 개 62마리와 MMVD 진단 개 80마리를 포함했다. 인터로바 신동맥의 스펙트럼 속도 포락선을 수작업으로 추적해 VTI를 측정했으며, 정상 개에서 VTI와 심박수가 음의 상관을 보여 심박수 보정값(VTIc)을 사용했다. 주요 종료점은 심장 관련 및 신장 관련 사망의 복합종말로 정의했다. 결과적으로 VTIc는 ACVIM 단계가 높을수록 감소했고, VTIc<8.3인 군은 VTIc 정상군보다 유의하게 짧은 생존을 보였다(중앙값 미도달, 하한 95% CI 98일, P<.001). 다변량 콕스 분석에서 VII은 0.1단위 증가마다 사망 위험이 1.24배(95% CI 1.07-1.42)로 유의하게 연관되었고, VII(<0.37 또는 ≥0.37)와 VTIc(≥8.3 또는 <8.3)를 결합한 탐색적 분류가 4개의 하위군을 구분해 생존 결과가 달랐다. 초록에는 제한점이나 추가 검증에 관한 상세한 기술이 없어 본 연구 결과는 탐색적이며 추가 연구로 검증이 필요함을 유의해야 한다.",
+      "title": "Evaluation of intrarenal hypoperfusion and renal congestion assessed by intrarenal Doppler ultrasonography in dogs with myxomatous mitral valve disease.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-11-14T01:28:04.792Z",
+      "model": "gpt-5-mini"
+    },
+    "43021781": {
+      "brief_summary": "본 전향적 공개 임상시험은 골관절염으로 인한 만성 난치성 통증이 있는 반려견을 대상으로 낮은 용량 케타민(0.5 mg/kg)을 경점막(oral transmucosal, TMK)으로 8시간마다 투여하여 효능을 평가하고자 했다. 투여용 젤라틴 로젠지의 투여 성공률이 54%(181/334회, n=9)로 낮아 등록이 조기 중단되어 목표 표본크기에 도달하지 못했고, 객관적 보행 분석을 통한 통계적 효능 판단이 불가능했다. 혈중 농도는 케타민이 흡수되어 norketamine으로 대사됨을 시사했으나(30분: ketamine 평균 4.5 ng/mL ±3.0, norketamine 47 ng/mL ±38.3; 60분: ketamine 1.7 ng/mL ±1.2, norketamine 65.7 ng/mL ±46.7), 해당 로젠지 제형은 임상에서의 실용성이 낮다고 결론지었다.",
+      "detailed_summary": "연구는 전향적 공개 임상시험으로, 난치성 만성 골관절염 통증을 가진 임상 반려견을 대상으로 했다. 투여법은 경점막(oral transmucosal, TMK) 젤라틴 로젠지로 케타민 0.5 mg/kg을 8시간마다 투여하는 방식이었다. 주요 평가 변수는 통증 관련 정형기능의 객관적 보행 분석이었고, 혈중 케타민 및 norketamine 농도는 LC-MS/MS로 투여 후 30분과 60분에 측정했다. 등록은 투여 성공률이 54%에 불과(181/334회, n=9)하여 조기 중단되었고, 결과적으로 의도한 통계분석을 수행할 만큼 표본크기가 확보되지 않았다. 혈중 농도(측정 n=8)는 30분에 ketamine 평균 4.5 ng/mL(±3.0), norketamine 47 ng/mL(±38.3), 60분에 ketamine 1.7 ng/mL(±1.2), norketamine 65.7 ng/mL(±46.7)로 보고되어 흡수 및 대사가 이루어졌음을 시사했다. 그러나 낮은 투여 성공률로 인해 제시한 젤라틴 로젠지 제형은 임상 적용에 비실용적이라고 결론지었으며, 대체 경점막 제형의 평가와 적절한 표본크기로 효능·약동학·약력학을 추가 연구할 것을 권고했다.",
+      "title": "Limitations of transmucosal ketamine administration for chronic pain in dogs with osteoarthritis.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-11-14T01:29:44.011Z",
+      "model": "gpt-5-mini"
+    },
+    "43022460": {
+      "brief_summary": "HDM7006는 고효능 GLP-1R/GIPR 이중작용제로, 비만 또는 과체중 고양이의 체중 관리 목적의 약동학(PK)을 평가하기 위해 건강한 성인 고양이 48마리를 대상으로 연구했다. 단회 투여에서 IV 투여 시 반감기 43.7시간, 피하(SC) 투여 후 T max 18–24시간, T1/2 39.8–47.1시간, 생체이용률 42.23–78.38%를 보였고 용량영향은 0.1–2.0 mg/kg 범위에서 선형적이었다. 항약물항체(ADA) 검출은 단회 고용량군에서 1례만 확인되었고, 주 1회(SC, QW) 0.5 mg/kg을 5회 투여한 군에서는 정상평형(steady state)에 도달하고 유의한 축적이나 ADA는 관찰되지 않아 주 1회 피하 투여 요법을 지지한다.",
+      "detailed_summary": "연구는 총 48마리의 건강한 성인 고양이를 대상으로 하였으며, 단회 약동학 연구에는 40마리가 투입되어 0.1, 0.5, 1.0, 2.0 mg/kg의 SC 투여군 4개와 1.0 mg/kg의 정맥(IV) 투여군 1개로 나뉘었다. 다회 투여 약동학 연구에는 8마리가 포함되어 0.5 mg/kg을 주 1회(SC, QW)로 5회 투여하였다. IV 투여 후에는 저(低)간섭성(clearance)과 저분포용적(apparent volume of distribution)을 보였고 반감기는 43.7시간으로 보고되었다. 단회 SC 투여에서는 T max가 18.0–24.0시간, T1/2가 39.8–47.1시간 범위였고 생체이용률은 42.23–78.38%로 측정되었다. 0.1–2.0 mg/kg 범위에서 약동학은 용량비례(linear)를 나타냈고 성별에 따른 전신 노출 차이는 관찰되지 않았다. 면역원성 결과는 단회 2.0 mg/kg 군에서 한수컷에서만 336시간 시점에 ADA가 검출되었고, 다회 투여군의 ADA는 모두 음성이었으며 유의한 약물 축적은 관찰되지 않았다. 초록에는 안전성·부작용에 대한 상세 데이터는 제공되지 않아 임상 적용 시 해당 정보는 별도로 확인이 필요하다.",
+      "title": "Pharmacokinetics of HDM7006, a high-potency balanced GLP-1/GIP dual agonist, in healthy domestic cats.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-11-14T01:30:13.285Z",
+      "model": "gpt-5-mini"
+    },
+    "43022469": {
+      "brief_summary": "무작위·마스크·다기관 현장 임상시험에서 급성 외이도염(OTIS3 ≥ 5)을 가진 86마리의 반려견을 대상으로 hydrocortisone aceponate/gentamicin/miconazole 점이액(Easotic™; 하루 1회 5일 투여)과 mometasone furoate/florfenicol/terbinafine 용액(Claro™; 단회 투여)을 비교하였다. Day 28에서 OTIS3 ≤ 3을 달성한 비율은 ITT 기준 85% vs 79% (p=0.400), PP 기준 94% vs 88% (p=0.261)로 두 제품 모두 높은 유효성을 보였다. Easotic™은 Day 2부터 OTIS3 감소비율과 분비물·악취·오물·협착 개선에서 더 빠른 호전을 보였고 수의사의 'Excellent' 평가는 Day 7·28에서 유의하게 높았다. 임상적 의미는 양 제품 모두 외이도염 치료에 효과적이나 Easotic™이 초기(2일) 증상 개선에서 우수하다는 점이다.",
+      "detailed_summary": "본 연구는 무작위·마스크·다기관 현장 임상시험으로, 급성 외이도염(OTIS3 ≥ 5) 진단을 받은 86마리의 소유견을 대상으로 진행되었다. 비교군은 Easotic™(hydrocortisone aceponate/gentamicin/miconazole, 하루 1회 5일)과 Claro™(mometasone furoate/florfenicol/terbinafine, 단회)이며 평가 시점은 투여 4시간 후 및 Day 2, 7, 28이었다. 일차·핵심 평가인 Day 28에서 OTIS3 ≤ 3 달성률은 ITT 85% vs 79% (p=0.400), PP 94% vs 88% (p=0.261)로 통계적 유의성은 없었고 두 제품 모두 높은 반응률을 보였다. 반면 Easotic™은 Day 2부터 OTIS3의 감소 비율이 더 컸고, 분비물, 악취, 오물, 협착 항목에서 Claro™보다 유의한 개선을 보였다. 수의사의 전체 평가에서 'Excellent' 비율은 Easotic™이 Day 7과 Day 28에서 각각 유의하게 높았고(예: ITT Day7 50% vs 26%, p=0.009; Day28 ITT 62% vs 36%, p=0.017), 소유자 평가는 Easotic™ 91% vs Claro™ 89%가 'Good' 또는 'Excellent'로 유사했다. 연구 결론은 Easotic™이 외이도염 관리에 효과적이며 특히 Day 2부터 분비물·협착·악취·오물 개선이 두드러졌다는 점이나, Day 28의 주요 유효성 지표에서는 두 제품 간 통계적 유의차가 없었다는 점을 함께 제시하고 있다.",
+      "title": "Randomized comparative field clinical trial of hydrocortisone aceponate/gentamicin/miconazole otic suspension vs. mometasone furoate/florfenicol/terbinafine otic solution for the treatment of canine otitis externa.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-11-14T01:30:00.368Z",
+      "model": "gpt-5-mini"
+    },
+    "43022916": {
+      "brief_summary": "14세 중성화 수컷 러시안블루 고양이에서 원발성 부갑상선기능항진증 (PHPTH)이 확인되었고 양측 부갑상선 암종이 동시에 발견된 증례 보고이다. iCa 1.90 mmol/L, 총칼슘 14.3 mg/dL, 면역반응성 부갑상선호르몬(iPTH) 18.6 pg/mL로 고칼슘혈증 및 PHPTH가 진단되었고 영상검사와 세침흡인으로는 악성 여부와 병변별 기능 기여도를 판단하지 못했다. 수술(우측 갑상선엽 전절제술 및 우측 부갑상선 종괴 절제, 좌측 부갑상선절제술 및 좌측 갑상선 부분절제술) 후 병리에서 동시성 양측 저등급 잘분화 부갑상선암종으로 판정되었고, 수술 후 iCa는 28일째 정상화되어 장기 추적에서 재발이나 전이 소견은 관찰되지 않았다. 이 증례는 영상·세포진검사만으로는 악성을 예측하기 어렵고 병변별 기능성과 갑상선과의 해부학적 관계가 수술 계획에 영향을 줄 수 있음을 시사한다.",
+      "detailed_summary": "증례보고로, 14세 중성화 수컷 러시안블루 고양이가 식욕감소·활력저하·구토 및 지속적 고칼슘혈증으로 내원했다. 검사에서 iCa 1.90 mmol/L, 총칼슘 14.3 mg/dL, iPTH 18.6 pg/mL로 PHPTH가 의심되었고 경부 초음파·컴퓨터단층촬영(CT)·세침흡인으로 양측 부갑상선 연관 병변을 확인했으나 악성 여부 및 병변별 기능 기여도는 판정되지 않았다. 수액요법(0.9% NaCl)과 푸로세미드로 안정화하는 동안 iCa는 1.90에서 1.47 mmol/L로 감소했고, 제4입원일에 우측 갑상선엽 전절제 및 관련 우측 부갑상선 종괴 절제, 좌측 부갑상선절제 및 좌측 갑상선 부분절제가 시행되었다. 조직검사에서 좌측 병변은 인접 비종양성 부갑상선 조직으로의 침습성 성장이 관찰되었고 우측은 국소 피막 침범을 보이며 두 병변 모두 저등급 잘분화 부갑상선암종으로 진단되었다. 수술 후 저칼슘혈증은 정맥용 칼슘글루콘산과 입원 중 경구 칼시트리올로 조절되었고 퇴원 후에는 경구 비타민D 보충을 시행하였다. iCa는 수술 후 28일째에 정상화되어 이후 참조구간을 유지했으며, 161일째 iCa와 iPTH가 정상 범위였고 추적 CT에서 국소 재발 및 전이 소견은 없었다. 단점으로는 단일 증례이므로 일반화할 수 없고, 영상·세포검사만으로 병리학적 악성도를 예측하기 어렵다는 점이 강조된다.",
+      "title": "Primary hyperparathyroidism in a cat with synchronous bilateral parathyroid carcinomas: a case report.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-11-14T01:29:24.584Z",
       "model": "gpt-5-mini"
     }
   }
