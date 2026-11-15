@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T01:31:56.754Z",
+  "updated_at": "2026-11-15T01:06:35.786Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -8759,6 +8759,78 @@
       "title": "Primary hyperparathyroidism in a cat with synchronous bilateral parathyroid carcinomas: a case report.",
       "journal": "Frontiers in Veterinary Science",
       "generated_at": "2026-11-14T01:29:24.584Z",
+      "model": "gpt-5-mini"
+    },
+    "43025054": {
+      "brief_summary": "승모판 점액변성(MMVD)으로 의심되는 개에서 울혈성 심부전(CHF)을 간단히 선별하는 알고리즘을 만들기 위한 연구이다. 2015‑11‑02부터 2017‑12‑07까지 120마리(CHF 46마리, 증상은 있으나 CHF가 아닌 74마리)를 대상으로 기존 8개 변수에서 중요하지 않은 변수를 제거해 4개 변수(크고 촉지 가능한 심잡음, 동성 리듬 변이(sinus arrhythmia)의 부재, 빈호흡 또는 호흡곤란, 중등도‑중증 좌심방 확대)를 연속적으로 적용한 결과 민감도 98%, 특이도 95%를 보였다. 1차 진료 수의사는 이 3–4개 간단한 변수로 CHF 가능성을 빠르게 판단할 수 있으며 진단 정확도 향상에 도움이 될 수 있다.",
+      "detailed_summary": "연구는 1차 진료 수의사가 CHF로 잠정 진단한 개들을 대상으로 2015‑11‑02부터 2017‑12‑07까지 자료를 모아 진행된 관찰 연구이다. 조사자들은 데이터 제출 양식을 작성하고 최종 진단을 CHF 또는 아임상성 MMVD(임상 징후의 다른 원인 존재)로 확정했다. 전체 120마리 중 CHF는 46마리, CHF가 아닌 경우는 74마리였고, 기침으로 의뢰된 개는 82마리(그중 CHF 36마리)였다. 주요 소견으로는 모든 CHF 개에서 크고 촉지 가능한 심잡음이 관찰되었고(심잡음은 CHF가 아닌 개 59마리에서도 관찰됨), 동성 리듬 변이의 부재는 CHF에서 45마리, 비CHF에서 26마리였으며 비헐떡임(non‑panting) 상태에서 CHF인 모든 개와 비CHF 56마리 중 7마리에서 빈호흡 또는 호흡곤란이 관찰되었다. 좌심방 크기 평가는 CHF군에서 모두 중등도‑중증 좌심방 확대였고 비CHF군에서는 35마리 중 25마리만 해당했다. 이 네 가지 변수를 직렬로 적용했을 때 CHF 진단에 대한 민감도는 98%, 특이도는 95%였으며, 저자들은 1차 진료에서 3–4개의 간단한 변수로 CHF 가능성을 판단할 수 있다고 결론지었다. 초록에는 추가적인 제한점이나 외부 검증에 관한 세부 내용이 구체적으로 제시되어 있지 않다.",
+      "title": "A simple algorithm allows triaging of dogs with mitral valve disease into cardiac or noncardiac causes of dyspnea.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-11-15T01:06:08.556Z",
+      "model": "gpt-5-mini"
+    },
+    "43025055": {
+      "brief_summary": "3마리의 개(10–11세, 4.2–5.4 kg)를 대상으로 플루오레세인 나트륨(fluorescein sodium, 20 mg/kg IV)을 이용한 경추부 말초신경초종(PNST) 수술 중 형광 유도 절제의 술중 소견과 결과를 보고했다. 종양은 표준 조명에서 황색 착색을 보였고 2례에서는 395 nm 자외선에서 강한 형광을 보여 재수술 시 방사선·수술 후 섬유화와 구분되어 육안적 완전 절제가 이루어졌다. 부작용은 관찰되지 않았으나 표본 수가 작고 비형광 조직은 채취되지 않아 플루오레세인은 수술 판단의 보조로 사용해야 한다.",
+      "detailed_summary": "증례보고로 총 3마리의 클라이언트 소유 개를 대상으로 하였으며(연령 10–11세, 체중 4.2–5.4 kg), 주증상은 경추 통증, 과민증 또는 사지마비였다. 수술 전 MRI에서는 조영증강을 보이는 경막내-척수외(intradural extramedullary) 종괴가 관찰되었고 종괴는 추간공 외로 확장되어 있었다. 수술 노출 후 플루오레세인 나트륨 20 mg/kg을 정주하였고, 모든 증례에서 표준 조명하 황색 착색을 보였으며 2례에서는 395 nm 자외선에서 강한 형광을 보였다. 특히 재수술을 받은 2례에서는 방사선 및 이전 수술로 인한 섬유화 조직과 비형광 조직을 육안으로 구분하는 데 도움이 되어 육안적 완전 절제가 이루어졌고 비형광 조직은 채취하지 않았다. 병리로는 2례가 악성 말초신경초종(MPNST), 1례가 슈반노마로 확진되었고 플루오레세인 관련 이상반응은 관찰되지 않았다. 추적 결과 MPNST 2례는 4개월 이내에 원격 또는 전이성 질환이 발생(1례 안락사), 슈반노마 증례는 3개월 시점에서 재발이 없었으며, 저자들은 널리 구할 수 있는 장비로 플루오레세인 유도가 실현 가능하지만 표본 수가 적고 비형광 조직 미채취 등의 제한으로 수술 판단을 대체해서는 안 된다고 결론지었다.",
+      "title": "Fluorescein sodium-guided resection of cervical peripheral nerve sheath tumors in 3 dogs.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-11-15T01:05:46.513Z",
+      "model": "gpt-5-mini"
+    },
+    "43025056": {
+      "brief_summary": "후향적 관찰 연구에서 쿠싱 증후군(CS)으로 새로 진단된 개들에서 전신성 고혈압의 유병률을 추정하고 관련 인자를 평가했다. 총 117마리 중 수축기 혈압(SBP)이 진단 전후 8주 이내에 측정되어 포함된 57마리에서 SBP ≥160 mm Hg 기준으로 61.4%가 고혈압, 26.3%가 전(前)고혈압(140–159 mm Hg)이었다. 고혈압군은 중간 혈청 콜레스테롤이 비고혈압군보다 높았고(378.5 vs 287 mg/dL) 콜레스테롤은 SBP와 양의 연관성을 보였으며(OR 1.10/10 mg/dL; 95% CI 1.03–1.21) 칼륨은 낮았다(4.4 vs 4.85 mmol/L). 연구진은 CS 환자에서 일상적인 SBP 평가가 권장된다고 결론지었다.",
+      "detailed_summary": "연구는 2005–2025년 University of Wisconsin Veterinary Care에서 ACTH 자극 검사 또는 저용량 덱사메타손 억제 검사로 CS 진단을 받은 개들을 후향적으로 검토한 관찰연구이다. 포함 기준은 진단 시점 전후 8주 이내에 항고혈압제 투여 전 측정된 수축기 혈압(SBP)이 있는 경우였고, 총 CS 증례 117마리 중 57마리가 기준을 충족했다. SBP ≥160 mm Hg를 고혈압으로 정의했을 때 61.4%(95% CI 48.4–73.0%)가 고혈압이었고 140–159 mm Hg는 26.3%로 전고혈압에 해당했다. 주요 평가 변수로는 시그날먼트, 체형 점수(BCS), 혈소판 수, 선택적 혈청 생화학 수치(콜레스테롤, 칼륨 등), 요단백/크레아티닌비(UPC)가 포함되었다. 혈청 콜레스테롤은 고혈압과 유의한 양의 연관성을 보였고(중앙값 378.5 vs 287 mg/dL; OR 1.10/10 mg/dL, 95% CI 1.03–1.21), 혈청 칼륨은 고혈압군에서 더 낮았다(4.4 vs 4.85 mmol/L). UPC, 혈소판 수, 연령, BCS와는 유의한 연관성이 관찰되지 않았다. 연구의 중요한 제한점으로는 진단 시 SBP가 일관되게 측정되지 않아 포함 표본이 제한되었다는 점이며, 저자들은 CS 환자에서 일상적인 SBP 측정과 콜레스테롤·칼륨 조절의 영향 가능성을 제시하고 있다.",
+      "title": "Hypertension was common and associated with serum cholesterol concentrations in dogs with Cushing syndrome.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-11-15T01:05:20.627Z",
+      "model": "gpt-5-mini"
+    },
+    "43025057": {
+      "brief_summary": "목적 및 대상: 2023년 4–9월에 Timed Up and Go (TUG) 검사를 완료한 노령견의 보호자(응답·분석 n=82)를 대상으로 TUG가 사망·입원·보호자 평가의 말기 이동성 우려를 예측하는지 평가했다. 핵심 결과: TUG 시간이 길수록 모든 원인 사망 위험이 높았고(다변량 Cox 분석에서 TUG 1초 증가당 사망 위험이 15% 증가), TUG ≥7초군의 중앙생존기간은 14개월이었으나 TUG <7초군은 중앙값을 산출할 수 없었다. 임상적 의미: TUG 검사는 노령견에서 사망 위험 식별에 유용할 수 있으나 입원이나 보호자 보고의 말기 이동성 우려는 예측하지 못했다.",
+      "detailed_summary": "연구 설계: 2023년 4–9월에 TUG 검사를 성공적으로 완료한 83마리의 노령견 보호자를 2025년 6월에 설문으로 조사하는 후향적(설문 기반) 연구의 사후 분석(post hoc)이었다. 포함 기준·자료 처리: 설문은 죽음·입원 날짜(월 단위 반올림)와 보호자의 말기 이동성 우려를 기록했으며, 검사 후 2주 이내 사망한 개와 불완전 설문은 제외되어 최종 분석에는 82마리가 포함되었다. 대상 특성: 중앙연령 11세(범위 8–17세), 중앙체중 26.4kg(범위 2.6–46.4kg), TUG 시간 범위는 1.72–14.19초였다. 주요 평가항목은 모든 원인 사망(all-cause mortality), 선택된 이환(입원) 및 보호자 보고의 말기 이동성 우려였다. 주요 결과: TUG 시간이 길수록 사망 위험이 증가하였고, 다변량 Cox 비례위험분석에서 TUG 1초 증가당 사망 위험(hazard)이 15% 증가했으며 TUG ≥7초군의 중앙생존기간은 14개월이었다. 그러나 TUG 시간은 입원 발생이나 보호자의 말기 이동성 우려를 예측하지 못했다는 제한적인 결과가 보고되었고, 분석이 사후 분석이며 설문 기반(날짜 월 단위 반올림)이라는 점이 제한점으로 언급되었다.",
+      "title": "Timed Up and Go test predicts survival but not hospitalization or mobility concerns at the end of life in a population of geriatric dogs.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-11-15T01:05:04.850Z",
+      "model": "gpt-5-mini"
+    },
+    "43025058": {
+      "brief_summary": "2010–2023년 병력기록을 후향적으로 검토한 연구로, 비장 종양 파열로 인한 복강내출혈(hemoperitoneum) 개 177마리를 수술 시점에 따라 조기(<6시간, 99마리)와 지연(≥6시간, 78마리)으로 비교했다. 조기 그룹은 저혈량성 쇼크로 내원하거나 쇼크 지수(shock index)가 높고 수액 및 적혈구(RBC) 포함 수혈을 더 자주 받았으나, 수술 중 저혈압 발생률과 입원 시 사망률에는 두 그룹 간 차이가 없었다. 전체 퇴원 생존율은 94.9% (168/177)로 안정한 환자는 수술을 지연해도 이환율·사망률이 증가하지 않을 수 있다는 임상적 시사점을 제시했다.",
+      "detailed_summary": "본 연구는 2010–2023년 사이 비장 종양 파열로 인한 복강내출혈 진단을 받은 개 177마리를 대상으로 한 후향적 코호트 연구이다. 수술 시점을 입원 후 <6시간(early, 99마리)과 ≥6시간(delayed, 78마리)으로 분류했으며, 중앙값 수술 시각은 early 4.1시간(범위 2.2–5.95), delayed 14.0시간(범위 6.02–68.4)이었다. 조기 그룹은 내원 시 저혈량성 쇼크 및 쇼크 지수(shock index)가 더 높았고, 수액(결정질) 볼루스와 수술 전 적혈구(RBC) 포함 수혈을 더 자주 받았다. 수술 중 저혈압 발생에는 두 그룹 간 차이가 없었고, 조기 그룹은 수술 중·후에도 RBC 포함 수혈을 더 많이 받았으며 입원 기간이 더 길었다. 전체 퇴원 생존율은 94.9% (168/177)였고, 수술 시점에 따른 사망률 차이는 관찰되지 않았다. 결론적으로, 혈역학적으로 안정적인 개에서는 수술을 지연해도 이환율·사망률이 증가하지 않을 수 있으나, 계속해서 불안정한 경우에는 조기 수술을 고려해야 한다.",
+      "title": "Delayed surgery can be considered for cardiovascularly stable dogs with hemoperitoneum due to a ruptured splenic mass.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-11-15T01:04:43.739Z",
+      "model": "gpt-5-mini"
+    },
+    "43025060": {
+      "brief_summary": "이 연구는 전원된 수컷 고양이의 특발성 방광염(FIC) 유무 및 요도폐색(UO) 유무에 따른 항균제 사용과 소변검사·배양 결과를 비교한 다기관 전향 관찰 연구이다. 총 457마리(111 FIC, 346 UO)를 평가한 결과, 항균제 처방은 28%(130/457)였으나 배양 양성은 9.2%(42/457)에 불과했다. 특히 요도폐색군에서 전원 후 항균제 투여가 유의하게 많았으나 세균뇨 및 소변배양 양성률은 그룹 간 유사하여 진단 기반 처방의 필요성을 강조한다.",
+      "detailed_summary": "2025년 1월~9월 미국·캐나다의 40개 전원 병원에서 시행된 다기관 전향 관찰 연구로, 체중 >2kg인 전원된 수컷(클라이언트 소유) 고양이를 대상으로 했다. 모든 대상은 CBC, 생화학, 소변검사, 소변배양, 복부 초음파 등 선별 진단을 완료했으며, 세균성 방광염을 제외한 다른 배뇨 증상의 원인 또는 최근 코르티코스테로이드·화학요법·방사선·면역억제 치료를 받은 경우는 제외되었다. 총 457마리(111마리 FIC, 346마리 UO)가 등록되었고, 연령·체중·세균뇨 유무·소변배양 양성률·전원 전 항균제 처방률은 두 군 간에 차이가 없었다. 그러나 전원 후 항균제 투여는 요도폐색군에서 유의하게 더 흔했으며, 전체적으로 28%(130/457)가 항균제를 투여받았음에 반해 소변배양 양성은 9.2%(42/457)에 불과했다. 연구진은 FIC 및 UO 환자에서 세균성 방광염의 유병률이 낮다는 점을 근거로 진단에 기반한 항균제 결정(urinalysis/urine culture 우선)을 우선시해 불필요한 항균제 사용을 줄일 것을 권고했다. 초록에는 추가적인 제한점에 대한 상세 기술이 포함되어 있지 않다.",
+      "title": "Antimicrobial use exceeds culture-confirmed urinary tract infections in cats with feline idiopathic cystitis with and without urethral obstruction.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-11-15T01:04:30.563Z",
+      "model": "gpt-5-mini"
+    },
+    "43025689": {
+      "brief_summary": "이 탐색적 횡단면 연구는 건강 대조군( n=11)과 특발성 간질(IE, n=10), 구조적 간질(SE, n=7)으로 임상 분류된 개들의 혈청 사이토카인 농도를 비교하였다. SE 그룹에서만 혈청 IFN-γ 농도가 대조군보다 유의하게 낮게 측정되었고(중앙값(IQR): 6.95 (5.68) vs. 7.66 (14.8) pg/mL; p=0.010), 나머지 측정된 IL-2, IL-4, IL-6, IL-10, IL-17, TNF-α에서는 유의한 차이가 없었다. 이 결과는 구조적 간질과 관련된 특정한 말초 면역 변화 가능성을 시사하며, 기저 병인이 확립되지 않아 추가적인 종단 연구가 필요함을 시사한다.",
+      "detailed_summary": "연구는 탐색적 횡단면 설계로, 건강 대조군( n=11), 특발성 간질(IE, n=10), 구조적 간질(SE, n=7)로 임상 분류된 총 28마리의 개를 대상로 하였다. 혈청에서 Th1/Th2/Th17 및 염증·조절 관련 사이토카인인 IL-2, IL-4, IL-6, IL-10, IL-17, TNF-α 및 IFN-γ를 측정했으며, 측정에는 개 샘플에 적용된 바 있는 인간용 Cytometric Bead Array가 사용되었다. 주요 결과는 구조적 간질(SE) 그룹에서만 건강 대조군에 비해 IFN-γ 농도가 유의하게 낮게 측정된 점(중앙값(IQR): 6.95 (5.68) vs. 7.66 (14.8) pg/mL; p=0.010)이었다. 특발성 간질(IE)과 대조군 사이에는 모든 평가된 사이토카인에서 통계적 유의차가 관찰되지 않았다. 전체적으로 평가된 간질 그룹은 혈청 상의 일반화된 사이토카인 서명을 보이지 않았으며, 낮은 IFN-γ 농도는 구조적 간질에 특이적인 말초 면역 변화일 수 있음을 시사한다. 단, SE 증례들의 구체적인 기저 병인은 확립되지 않았으므로 사이토카인 동태와 면역 표현형을 규명하기 위한 추가적인 종단 연구가 필요하다고 결론지었다.",
+      "title": "Serum Cytokine Concentrations in Dogs with Idiopathic and Structural Epilepsy: An Exploratory Cross-Sectional Study.",
+      "journal": "Topics in Companion Animal Medicine",
+      "generated_at": "2026-11-15T01:06:35.768Z",
+      "model": "gpt-5-mini"
+    },
+    "43025691": {
+      "brief_summary": "6세 중성화 수컷 잡종견 1마리에서 피부 및 점막부위에 다수의 궤양성 결절이 발생한 증례로, 초진에서는 재발한 전염성 회음부종양(CTVT)이 의심되었으나 세침흡인 검사에서는 반응성 피부조직구증과 유사한 소견이 관찰되었다. 조직검사와 조직병리학에서 만성 화농육아종성 피부염 및 내부에 진균 구조가 확인되었고 배양을 통해 드물게 발생하는 전신성 점막피부 칸디디아증(disseminated mucocutaneous candidiasis, DMC)으로 확진되었다. 이트라코나졸(itraconazole) 치료 후 2개월 이내에 임상적 완전 관해를 보였으며, 정확한 진단과 적절한 항진균 치료의 중요성을 시사한다.",
+      "detailed_summary": "증례는 종양학팀에 의뢰된 6세 중성화 수컷 잡종견 1마리로, 피부와 점막부위에 다수의 궤양성 결절이 분포하였다. 초기에는 재발한 개 전염성 회음부종양(CTVT)이 의심되어 배변부 복부의 5×4 cm 궤양성 결절에서 세침흡인 세포검사를 시행하였으나 반응성 피부조직구증과 유사한 소견이 나왔다. 이어 조직검사 및 조직병리에서 만성 화농육아종성 피부염과 병변 내 진균 구조가 확인되었고, 진균 배양을 통해 최종적으로 전신성 점막피부 칸디디아증(DMC)으로 진단되었다. 그 후 이트라코나졸로 치료하였고 2개월 이내에 임상적 완전 관해에 도달하였다. 본 증례는 드문 DMC의 임상적 양상과 진단(세포검사로는 오진 가능성, 조직검사 및 배양의 중요성)과 치료 반응을 보여준다. 단일 증례보고이므로 다른 증례에 일반화할 수 없다는 제한이 있다.",
+      "title": "A rare case of disseminated mucocutaneous candidiasis in a dog.",
+      "journal": "Topics in Companion Animal Medicine",
+      "generated_at": "2026-11-15T01:06:20.886Z",
+      "model": "gpt-5-mini"
+    },
+    "43031650": {
+      "brief_summary": "개 항문 면봉에서 분리된 백신 접종견 유래 CPV 분리주(MDC-CPV)의 유전체 특성 규명과 세포주 내 감염 특성을 조사한 연구이다. 차세대 염기서열분석으로 얻은 약 5,358염기 길이의 거의 완전한 유전체와 VP2 유전자의 아미노산 잔기(예: 297Ala/426Glu 등)를 근거로 MDC-CPV는 CPV-2c에 속함을 확인했다. A72 및 CRFK 세포에서 세포병변(CPE), 단백질 발현, 전자현미경상의 바이러스 유사입자 및 qPCR 및 TCID50 측정으로 생산적 복제가 확인되어 시추안(Sichuan) 지역의 분자역학 감시와 백신 상황에서의 CPV 감염 연구에 참고가 된다.",
+      "detailed_summary": "임상에서 채취한 시료에 대해 일반적인 개 병원체 검사와 CPV 항원 검사를 수행한 뒤, Illumina NovaSeq PE150로 시퀀싱하고 품질관리·조립·주석을 통해 MDC-CPV의 거의 완전한 유전체(길이 5,358 nt)를 얻었다. 유전체 주석에서 NS1, NS2, VP1, VP2 등 전형적인 CPV 코딩영역이 확인되었고, VP2 CDS는 1,755 nt에 해당하여 584아미노산을 암호화했다. VP2의 주요 잔기(예: 87Leu, 101Thr, 297Ala, 300Gly, 305Tyr, 324Ile, 375Asp, 426Glu, 555Val, 564Ser, 568Gly)를 근거로 분리주는 CPV-2c로 분류되었고, 전체 VP2 및 전 유전체 계통분석에서 중국 및 동아시아의 CPV-2c 계통과 밀접한 관련을 보였다. In vitro 검증으로 A72와 CRFK 세포에 접종했을 때 양쪽에서 CPE가 관찰되었고, Western blot과 면역형광으로 CPV 관련 단백질 발현이 확인되었으며 전자현미경으로 바이러스 유사입자도 검출되었다. CRFK 세포에서의 정량적 PCR과 TCID50 측정은 48시간 이후부터 바이러스 DNA와 감염성 역가가 증가함을 보였고, 96시간에 약 5.8 log10 TCID50/mL의 최고역가를 기록하여 생산적 복제가 이루어졌음을 시사했다. 본 연구는 백신 접종견에서 분리된 CPV-2c의 유전체 및 세포주 내 감염 특성을 제시하여 지역적 분자역학 감시와 백신 관련 감염 연구의 기초자료를 제공한다.",
+      "title": "Genomic characteristics and preliminary study on in vitro infection properties of canine parvovirus type 2c derived from a canine anal swab sample.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-11-15T01:04:15.581Z",
       "model": "gpt-5-mini"
     }
   }

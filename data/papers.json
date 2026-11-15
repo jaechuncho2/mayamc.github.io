@@ -1,6 +1,18 @@
 {
-  "updated_at": "2026-11-14T01:27:34.906Z",
+  "updated_at": "2026-11-15T01:03:59.689Z",
   "papers": [
+    {
+      "pmid": "43031650",
+      "title": "Genomic characteristics and preliminary study on in vitro infection properties of canine parvovirus type 2c derived from a canine anal swab sample.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Mou D, Chen Y, Wu S, Huang J, Guo Y, Bai X",
+      "date": "2026 11 14",
+      "dateObject": "2026 11 14",
+      "abstract": "This study aimed to determine the genomic characteristics and genotype of a CPV isolate (MDC-CPV) recovered from a vaccinated dog, and to investigate its in vitro infectivity and replication features in A72 and CRFK cell lines. Clinical samples were subjected to nucleic acid detection for common canine pathogens and CPV antigen testing. Sequencing was performed using the Illumina NovaSeq PE150 platform. Following quality control, assembly, and annotation, the near-complete genome sequence of MDC-CPV was obtained. Homology searches were conducted using BLASTn. Genotyping was determined based on key amino acid residues in VP2, and phylogenetic analyses were performed using both the full-length VP2 coding sequence (CDS) and the whole-genome reference sequences. In vitro infection was subsequently validated in A72 and CRFK cells. Viral infection-associated characteristics were evaluated by observing cytopathic effects (CPE), and through Western blot, immunofluorescence, qPCR, TCID50 assay, and transmission electron microscopy. The genome length of MDC-CPV was 5,358 nucleotides, with no ambiguous bases identified. Genome annotation revealed that MDC-CPV contains typical CPV coding regions, including NS1, NS2, VP1, and VP2. The VP2 CDS was 1755 nucleotides in length, encoding 584 amino acids. Key VP2 residues for MDC-CPV were 297Ala/426Glu, along with a combination of other residues (87Leu, 101Thr, 300Gly, 305Tyr, 324Ile, 375Asp, 555Val, 564Ser, and 568Gly), supporting its classification as CPV-2c. Phylogenetic analysis placed MDC-CPV within the CPV-2c clade, showing close genetic relatedness to several CPV-2c reference strains from China and other regions in East Asia. In in vitro infection assays, CPE was observed in both A72 and CRFK cells inoculated with MDC-CPV. Furthermore, CPV-related protein expression and virus-like particles were detected. Quantitative PCR and TCID50 assays in CRFK cells demonstrated productive replication, with viral DNA levels and infectious virus titers increasing substantially from 48&#x202f;h post-infection, reaching peak titers of approximately 5.8 log10 TCID50/1&#x202f;mL at 96&#x202f;h post-infection. MDC-CPV is a CPV-2c strain isolated from a clinical sample of a vaccinated dog. Its genomic and VP2 genotypic characteristics are consistent with recently circulating CPV-2c strains. These findings provide a reference for molecular epidemiological surveillance of CPV-2c in the Sichuan region and for research on CPV infection in the context of vaccination.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
     {
       "pmid": "43021594",
       "title": "Evaluation of intrarenal hypoperfusion and renal congestion assessed by intrarenal Doppler ultrasonography in dogs with myxomatous mitral valve disease.",
@@ -49,6 +61,76 @@
       "abstract": "In dachshunds, the number of calcified discs (K-number [KN]) is one heritable determinant of the risk of intervertebral disc disease and is used for breeding selection in some countries; however, there are no prior reports of offspring KN outcomes or the effect of KN selection on size of the effective breeding population (Ne). To determine whether progressively limiting breeding eligibility to dogs with lower KNs would: (1) improve offspring KN outcomes and (2) reduce the effective population size of the breeding population below a threshold that risks genetic bottleneck. Danish dachshunds (n&#xa0;=&#xa0;2120) with KN recorded to a public database from 1993 to 2024. This retrospective study analyzed KN records from 2120 dogs screened between 1990 and 2024. Associations between parental KN and offspring KN phenotype were evaluated using parent-offspring regression and cumulative-link ordinal models. Worse offspring KN was predicted by both worse sire (P&#xa0;=&#xa0;4.8&#xa0;&#xd7;&#xa0;10-6; odds ratio [OR] 1.3; 95% CI, 1.16-1.45) and dam (P&#xa0;=&#xa0;3.3&#xa0;&#xd7;&#xa0;10-5; OR 1.3; 95% CI, 1.13-1.40) KN. Increasingly stringent parental KN selection was associated with improved offspring KN distributions, with predicted next-generation mean KN decreasing from 2.26 under K&#xa0;&#x2264;&#xa0;4 selection to 1.54 under K0 selection. However, more stringent selection reduced effective breeding population size below thresholds associated with genetic bottleneck risk (eg, standard wirehaired: Ne&#xa0;=&#xa0;179 under K&#xa0;&#x2264;&#xa0;4 vs Ne&#xa0;=&#xa0;52 under K0). Increasingly stringent limitation of parent KN was associated with lower-KN offspring groups but also decreased effective population size, highlighting the need to balance disease-risk reduction against preservation of genetic diversity. Intervertebral disc disease (IVDD) is a common health problem in dachshunds. We evaluated a Danish breeding program designed to reduce IVDD prevalence in dachshunds by selecting breeding dogs based on their K-number (KN), which is the number of calcified discs visible on radiographs. K-number is inherited and associated with a dog&#x2019;s risk of IVDD. Compared with FGF4L2 (CDDY)-based selection, KN-based selection might be preferable because it better reflects overall inherited IVDD risk in a disease influenced by multiple genes. We found that parent KN was a predictor of offspring KN. The heritability of KN supports its use in selective breeding, and dogs produced through the program had improved KN scores corresponding to an estimated 19% reduction in IVDD prevalence. Stricter breeding restrictions resulted in better offspring KNs but also reduced the size of the eligible breeding population. For most dachshund varieties, stringent restrictions reduced breeding populations to levels that risk loss of genetic diversity. Although KN-based selection is currently limited by the number of scored breeding dogs, mandatory KN screening of all dachshunds used for breeding in Denmark as of 2026 might increase the effective breeding population sizes.",
       "categories": [
         "neurology"
+      ]
+    },
+    {
+      "pmid": "43025060",
+      "title": "Antimicrobial use exceeds culture-confirmed urinary tract infections in cats with feline idiopathic cystitis with and without urethral obstruction.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Chang M, Myrick S, Wilson-Robles H, Stewart SD",
+      "date": "2026 11 13",
+      "dateObject": "2026 11 13",
+      "abstract": "To compare antimicrobial use and signalment in cats with feline idiopathic cystitis (FIC) with and without active urethral obstruction (UO) and determine whether antimicrobial use was supported by urinalysis and urine culture results. This multicenter prospective observational study compared client-owned male cats with FIC with and without obstruction from 40 referral hospitals in the US and Canada between January 2025 and September 2025. Cats weighing > 2 kg that completed screening diagnostics (CBC, biochemistry, urinalysis, urine culture, and abdominal ultrasound) were eligible. Cats with alternative etiologies (excluding bacterial cystitis) for their urinary signs or recent corticosteroid, chemotherapeutic, radiation, or immunosuppressive therapy were excluded. Signalment, weight, antimicrobial prescription history, presence of bacteriuria on urinalysis, and urine culture results were collected and compared. A total of 457 cats were enrolled, including 111 cats with FIC and 346 cats with UO. Age, weight, presence of bacteriuria, urine culture positivity, and antimicrobial prescriptions prior to referral did not differ between groups. Antimicrobial administration after referral was significantly more common in the UO group despite similar rates of bacteriuria and positive urine cultures. Twenty-eight percent of cats (130 of 457) received antimicrobials, while 9.2% of cats (42 of 457) had positive urine cultures. Cats with FIC and UO share comparably low prevalence of bacterial cystitis; however, antimicrobials were frequently administered without evidence of bacteriuria or culture-confirmed infection, particularly in cats with UO. The low prevalence of bacterial cystitis in cats with FIC and UO supports prioritizing diagnostic-driven antimicrobial decision-making to reduce unnecessary antimicrobial use in cats with lower urinary tract diseases.",
+      "categories": [
+        "internalMedicine",
+        "oncology"
+      ]
+    },
+    {
+      "pmid": "43025058",
+      "title": "Delayed surgery can be considered for cardiovascularly stable dogs with hemoperitoneum due to a ruptured splenic mass.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Park JE, Grimes JA, Harris JD, Koenig A",
+      "date": "2026 11 13",
+      "dateObject": "2026 11 13",
+      "abstract": "To determine whether the timing of surgery affects morbidity and/or mortality of dogs with hemoperitoneum secondary to a ruptured splenic mass. In this retrospective cohort study, medical records of dogs diagnosed with hemoperitoneum due to a ruptured splenic mass between 2010 and 2023 were reviewed for clinical data. Dogs were classified in the early group (early) if surgery occurred < 6 hours and the delayed group (delayed) if surgery occurred &#x2265; 6 hours after presentation. A total of 177 client-owned dogs (99 early, 78 delayed) were included. The median duration of time from admission to surgery was 4.1 hours (range, 2.2 to 5.95 hours) for early and 14.0 hours (range, 6.02 to 68.4 hours) for delayed dogs. Early dogs were more likely to present in hypovolemic shock, have a higher shock index, and receive crystalloid boluses and RBC-containing transfusions preoperatively than delayed dogs. There was no difference in the occurrence of hypotension intraoperatively between groups. Early dogs were more likely to receive an RBC-containing transfusion during and/or after surgery and had longer hospitalization than delayed dogs. Overall survival to discharge was 94.9% (168 of 177); there was no difference between groups. There was no difference in mortality based on timing of surgery. Early dogs were more likely to receive RBC-containing transfusions throughout hospitalization and have a longer hospital stay compared to delayed dogs. Stable dogs may be able to have delayed surgery without increasing morbidity or mortality. Early surgery should be considered for dogs that have ongoing concerns for stability despite medical intervention.",
+      "categories": [
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "43025057",
+      "title": "Timed Up and Go test predicts survival but not hospitalization or mobility concerns at the end of life in a population of geriatric dogs.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Woods AE, Rishniw M, Ellis KM, McMullin KM, Juran IG, Venator KR, Miller AV, Lenfest MI, Frye CW",
+      "date": "2026 11 13",
+      "dateObject": "2026 11 13",
+      "abstract": "To examine the Timed Up and Go (TUG) test in geriatric dogs as a predictive measure of survival, hospitalization, and owner concern regarding end-of-life mobility. The owners of 83 geriatric dogs that had successfully completed a TUG test between April and September of 2023 were solicited to answer a survey regarding their dog, administered in June of 2025. Surveys recorded the dates (rounded to the nearest month) of deaths and hospitalizations and ranked owner mobility concerns at end of life. Data were excluded if dogs had died within 2 weeks of their TUG test or surveys were incomplete. A post hoc analysis was conducted to investigate the predictive utility of the TUG test against all-cause mortality and select morbidity measures. 82 surveys and paired TUG times were analyzed. The median dog age was 11 years (range, 8 to 17 years) and median weight was 26.4 kg (range, 2.6 to 46.4 kg). The TUG times ranged from 1.72 to 14.19 seconds. Dogs with a TUG &#x2265; 7 seconds had a shorter median survival (14 months) than dogs scoring < 7 seconds (incalculable). In multivariable Cox proportional hazard analysis, only TUG demonstrated an instantaneous hazard of death risk, increasing 15% for each 1-second increase in TUG time. The TUG time failed to predict hospitalization or owner end-of-life mobility concerns. Longer TUG times predict all-cause mortality but not morbidity in a group of geriatric dogs. The TUG test may be useful for identifying geriatric dogs at greater risk of mortality for proactive clinical intervention or quality-of-life conversations.",
+      "categories": []
+    },
+    {
+      "pmid": "43025056",
+      "title": "Hypertension was common and associated with serum cholesterol concentrations in dogs with Cushing syndrome.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "McKinley G, McAtee R, Lashnits E",
+      "date": "2026 11 13",
+      "dateObject": "2026 11 13",
+      "abstract": "To estimate the prevalence of systemic hypertension in dogs with newly diagnosed Cushing syndrome (CS) and evaluate associations with hypothesized hypertension-associated variables. A retrospective observational study was performed with dogs diagnosed with CS by ACTH stimulation or low-dose dexamethasone suppression testing at University of Wisconsin Veterinary Care from 2005 to 2025. Dogs with systolic blood pressure (SBP) measured within 8 weeks of diagnosis and before CS or antihypertensive treatment were included. Data included signalment, body condition score, platelet count, select serum biochemistry variables, and urine protein-to-creatinine ratio. Hypertension prevalence and associations between SBP and variables were assessed. Among 117 dogs with CS, 57 dogs (49%) had SBP measured and met inclusion criteria. With an SBP cutoff &#x2265; 160 mm Hg, 61.4% of dogs (95% CI, 48.4% to 73.0%) were hypertensive and 26.3% were prehypertensive (SBP of 140 to 159 mm Hg). Median serum cholesterol was higher in hypertensive than nonhypertensive dogs (378.5 vs 287 mg/dL) and positively associated with SBP (OR, 1.10/10 mg/dL; 95% CI, 1.03 to 1.21). Serum potassium was lower in hypertensive dogs than nonhypertensive dogs (4.4 vs 4.85 mmol/L). No significant associations were identified for urine protein-to-creatinine ratio, platelet count, age, or body condition score. Hypertension was common in dogs with CS, yet SBP was not consistently measured at diagnosis. Serum cholesterol was associated with hypertension, and lower serum potassium concentrations were observed in hypertensive dogs. Routine SBP assessment is warranted in dogs with CS. Cholesterol and potassium regulation may be affected in dogs with CS.",
+      "categories": []
+    },
+    {
+      "pmid": "43025055",
+      "title": "Fluorescein sodium-guided resection of cervical peripheral nerve sheath tumors in 3 dogs.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Jeong N, Hasegawa D, Jung J",
+      "date": "2026 11 13",
+      "dateObject": "2026 11 13",
+      "abstract": "To describe the intraoperative findings and outcomes of fluorescein sodium-guided resection of cervical peripheral nerve sheath tumors (PNSTs) in dogs, including in the re-operative setting. 3 client-owned dogs with cervical PNST. Two dogs underwent a second resection of progressive malignant PNST (MPNST) after subtotal resection and stereotactic radiation therapy performed elsewhere. One dog underwent primary resection of a previously untreated PNST identified as a schwannoma. Affected dogs were between 10 and 11 years of age (weighing between 4.2 and 5.4 kg) and presented with cervical pain, hyperesthesia, or tetraparesis. Preoperative MRI revealed contrast-enhancing intradural extramedullary masses with extraforaminal extensions. Fluorescein sodium (20 mg/kg) was administered IV after surgical exposure. Tumor tissue exhibited yellow discoloration under standard illumination in all dogs and bright fluorescence under 395-nm UV illumination in 2 dogs and, in the 2 re-operative cases, was visually distinct from the surrounding postoperative and radiation-induced fibrosis, which was grossly assessed as nondiseased and did not take up fluorescein. This contrast assisted dissection, and gross total resection was achieved in all dogs; nonfluorescent tissue was not biopsied. Histopathology confirmed MPNST in 2 dogs and schwannoma in 1 dog. Fluorescein-related adverse events were not observed. Both MPNST cases developed remote or metastatic disease within 4 months (1 euthanized); the schwannoma case was recurrence-free at 3 months. Fluorescein sodium-guided resection of canine cervical PNSTs is feasible with widely available equipment and may aid intraoperative identification of tumor tissue in both primary and re-operative settings, suggesting a lower equipment barrier than commonly assumed. Because nonfluorescent tissue was not sampled, fluorescein should be an adjunct to, not a substitute for, surgical judgment.",
+      "categories": [
+        "oncology",
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "43025054",
+      "title": "A simple algorithm allows triaging of dogs with mitral valve disease into cardiac or noncardiac causes of dyspnea.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Rishniw M, Dickson D, Caivano D, Vatne L, Harris J, Pavelkova E, Hung YW",
+      "date": "2026 11 13",
+      "dateObject": "2026 11 13",
+      "abstract": "To create a simple algorithm for diagnosis of congestive heart failure (CHF) in dogs with myxomatous mitral valve disease (MMVD). Data were collected between November 2, 2015, and December 7, 2017, from dogs presented to investigators after a tentative diagnosis of CHF by first-opinion clinicians. Investigators completed a data-submission form and provided a final diagnosis of CHF or subclinical MMVD. Data included each of the 8 variables of the original algorithm. Variables that did not change diagnostic accuracy were removed from the model. 120 dogs were included: 46 with CHF and 74 with subclinical cardiac disease and an alternate diagnosis for clinical signs; 82 dogs (36 with CHF) were referred for coughing. All dogs with CHF had loud or palpable murmurs, as did 59 without CHF. Forty-five dogs with CHF and 26 without CHF lacked sinus arrhythmia. All nonpanting dogs with CHF and 7 of 56 without CHF had tachypnea or dyspnea. All dogs with CHF had moderate-to-severe left atrial enlargement versus 25 of 35 dogs without CHF. Examined in series, these 4 variables yielded an algorithm sensitivity of 98% and specificity of 95% for diagnosing CHF. Clinicians who are presented with a dog suspected of having CHF secondary to MMVD should be able to determine whether CHF is likely using 3 to 4 simple variables: a loud or palpable murmur, lack of sinus arrhythmia, tachypnea or dyspnea, and at least moderate left atrial enlargement. This algorithm might improve first-opinion practitioners' diagnosis of CHF in dogs with MMVD.",
+      "categories": [
+        "cardiology"
       ]
     },
     {
@@ -133,6 +215,32 @@
       "abstract": "Peri-anaesthetic mortality is an important indicator of anaesthetic safety in dogs and cats, but comparisons between studies are limited by inconsistent definitions, temporal windows and attribution criteria. This three-round online Delphi study sought expert consensus on principles for defining and conceptually classifying peri-anaesthetic mortality in dogs and cats. Spanish-speaking experts in veterinary anaesthesia and analgesia completed an exploratory open-ended round followed by two structured consensus rounds. Round 2 evaluated 38 statements on a 1-9 agreement scale, and Round 3 evaluated 18 refinement statements on a 0-10 scale transformed to a continuous 1-9 analytical scale. Positive consensus was defined as median&#x2009;&#x2265;&#x2009;7 and interquartile range&#x2009;&#x2264;&#x2009;2, and negative consensus as median&#x2009;&#x2264;&#x2009;3 and interquartile range&#x2009;&#x2264;&#x2009;2. Of 57 experts invited, 47 participated in Round 1, and all completed Rounds 2 and 3. In Round 2, 23 statements reached positive consensus, one reached negative consensus and 14 did not reach consensus. In Round 3, nine statements reached positive consensus, one reached negative consensus and eight did not reach consensus. The panel supported separating temporal eligibility from causal attribution, assigning one primary cause when sufficient information was available and recording contributing factors separately. Supported causal domains included anaesthesia, surgery, diagnostic procedures, pre-existing disease and sedation. Fixed 24-hour, 48-hour and 7-day windows did not reach consensus as standalone criteria. A flexible model using a 24-hour or 48-hour base window, with extension up to 7 days only when supported by evidence of an anaesthetic complication, reached positive consensus. Unresolved areas included the base window, single-count reporting, anaesthesia as a contributing but non-primary factor, treatment limitation or economic constraints, an independent sedation-specific definition and an indeterminate or unclassifiable category. This study supports a preliminary hierarchical causal framework rather than classification based on timing alone or a binary anaesthetic versus non-anaesthetic distinction. The findings provide a conceptual basis for developing and validating a practical classification tool for research, morbidity and mortality review and clinical audit, but the framework should not yet be interpreted as a validated adjudication tool.",
       "categories": [
         "surgery"
+      ]
+    },
+    {
+      "pmid": "43025691",
+      "title": "A rare case of disseminated mucocutaneous candidiasis in a dog.",
+      "journal": "Topics in Companion Animal Medicine",
+      "authors": "Soares FS, Pimentel PAB, Almeida IO, Cravo DLM, Horta RDS",
+      "date": "2026 11 13",
+      "dateObject": "2026 11 13",
+      "abstract": "A 6-year-old, neutered, male, mongrel dog was referred to the oncology team with numerous ulcerated nodules distributed throughout the skin and mucocutaneous regions. With the initial suspicion of a recurrent canine transmissible venereal tumor, fine-needle aspiration cytology was performed on a 5&#x202f;&#xd7;&#x202f;4 cm ulcerated nodule in the ventral abdomen; however, the findings were similar to reactive cutaneous histiocytosis. The dog was then referred for biopsy and histopathological examination, which confirmed chronic pyogranulomatous dermatitis with intralesional fungal structures. Culture enabled a conclusive diagnosis of a rare case of disseminated mucocutaneous candidiasis (DMC). Treatment with itraconazole was administered, with complete clinical remission achieved within two months, demonstrating the importance of appropriate diagnosis and therapy.",
+      "categories": [
+        "internalMedicine",
+        "oncology",
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "43025689",
+      "title": "Serum Cytokine Concentrations in Dogs with Idiopathic and Structural Epilepsy: An Exploratory Cross-Sectional Study.",
+      "journal": "Topics in Companion Animal Medicine",
+      "authors": "Trevisan YPA, Torres BBJ, Fagundes-Triches DLG, Cardoso SP, Dalegrave S, Ribeiro LS, Bortolini J, Sousa VRF",
+      "date": "2026 11 13",
+      "dateObject": "2026 11 13",
+      "abstract": "Neuroimmune mechanisms may contribute to epilepsy but circulating cytokine patterns in dogs with distinct clinical classifications of epilepsy remain incompletely characterized. This exploratory cross-sectional study compared serum concentrations of seven cytokines associated with Th1, Th2, Th17, inflammatory, and regulatory immune responses among healthy dogs and dogs clinically classified as having idiopathic epilepsy (IE) or structural epilepsy (SE). Twenty-eight dogs were included: health controls (n&#x202f;=&#x202f;11), IE (n&#x202f;=&#x202f;10), and SE (n&#x202f;=&#x202f;7). Serum concentrations of IL-2, IL-4, IL-6, IL-10, IL-17, TNF-&#x3b1;, and IFN-&#x3b3; were measured using a human Cytometric Bead Array previously applied to canine samples. Dogs clinically classified as having SE showed lower measured serum IFN-&#x3b3; concentrations than healthy controls [median (IQR): [6.95 (5.68) vs. [7.66 (14.8) pg/mL; p&#x202f;=&#x202f;0.010]. No statistically significant differences were detected for the other cytokines or between dogs with IE and healthy controls. These findings indicate that the evaluated epilepsy groups did not exhibit a generalized serum cytokine signature, but the lower measured IFN-&#x3b3; concentration may represent a specific peripheral immune alteration associated with the clinical classification of structural epilepsy. Although the specific underlying etiologies of the SE cases were not established, these results provide a basis for further investigation of cytokine dynamics and immune phenotypes in canine epilepsy longitudinal designs.",
+      "categories": [
+        "neurology"
       ]
     },
     {
@@ -1062,18 +1170,6 @@
       "abstract": "Cats with similar creatinine (CRE) values can have different accompanying blood-panel findings, but the relevance of these patterns to subsequent change is uncertain. We examined routine blood panels across seven clinically proposed creatinine strata, refined through retrospective review. The dataset comprised 5,743 episode-anchored visits from 3,006 cats; chronic kidney disease (CKD) diagnoses were unavailable. A broad candidate review yielded 33 calculable markers for screening. The ratios of blood urea nitrogen (BUN), phosphorus (PHOS), and symmetric dimethylarginine (SDMA) to CRE met false-discovery-rate correction for association with creatinine slopes that included the baseline visit. None met correction for slopes using subsequent visits only. Removing the baseline visit reduced absolute correlations more for these three ratios than for 27 other nonredundant markers (mean difference 0.120; cat-cluster bootstrap 95% CI 0.038-0.198), consistent with shared-baseline coupling. In post hoc analyses of strata 1-2, PHOS/CRE and SDMA/CRE associations remained positive after adjustment for age and baseline creatinine, but did not meet correction (both q&#x202f;=&#x202f;0.072). Component models did not show consistent added value from either ratio. The BUN-to-albumin (ALB) ratio mainly reflected current values and within-episode changes. Serum amyloid A (SAA), the neutrophil (NEU)-to-lymphocyte (LYM) ratio, and the ALB-to-globulin (GLOB) ratio described systemic patterns weakly associated with creatinine. Clinical observations and retrospective data supported considering accompanying systemic and electrolyte findings when assessing individual cats. Whether interpreting these findings together improves clinical assessment requires prospective validation.",
       "categories": [
         "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42991619",
-      "title": "Deep learning for diagnostic and clinical decision support in companion animals: a systematic review of CNN- and LSTM-based approaches.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Guevara-Flores JJ, L&#xf3;pez-Rojas J, V&#xe1;squez-Coronel JA",
-      "date": "2026 11 06",
-      "dateObject": "2026 11 06",
-      "abstract": "Early disease detection prior to the onset of advanced clinical signs remains a critical imperative in veterinary medicine. This systematic review provides a methodological synthesis of Convolutional Neural Networks and Long Short-Term Memory networks applied to diagnostic and clinical decision support in canine and feline patients, evaluating both algorithmic performance and clinical feasibility. Adhering to the PICO-CS framework and PRISMA 2020 guidelines, we queried Scopus and Web of Science for peer-reviewed studies published between 2021 and 2026, retrieving a final corpus of 57 primary studies. Eleven clinical domains were identified, with evidence heavily concentrated in Oncology (28.1%), Cardiology (15.8%), and Pulmonology (12.3%). CNN architectures predominated in spatial imaging modalities-including radiographs, clinical photography, ultrasonography, and microscopic imagery-whereas LSTM networks were deployed for temporal signals and sensor-derived telemetry. Binary classification tasks achieved the highest performance metrics (accuracy reaching up to 99%), whereas multi-class formulations exhibited broader variability due to dataset imbalance. Cross-study benchmarking revealed substantial heterogeneity in datasets, evaluation metrics, and validation protocols, while reliance on high-performance computational infrastructure poses a barrier to point-of-care deployment in resource-constrained clinics. We conclude that while deep learning architectures hold significant promise as clinical decision-support tools, transitioning to routine veterinary practice requires prospective external validation, representative open-access datasets, and lightweight models optimized for conventional clinical hardware.",
-      "categories": [
-        "oncology"
       ]
     },
     {
@@ -2377,76 +2473,6 @@
       ]
     },
     {
-      "pmid": "42556420",
-      "title": "Ultrasonographic evaluation of the canine gracilis, semimembranosus, and semitendinosus muscles.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Huguet E, Repac J",
-      "date": "2026 10 16",
-      "dateObject": "2026 10 16",
-      "abstract": "To describe a practical technique for ultrasonographic evaluation of the gracilis, semimembranosus, and semitendinosus muscles in dogs. 2 clinically healthy client-owned German Shepherd Dogs were used for this tutorial. Owner consent and approval from the University of Florida College of Veterinary Medicine IACUC were obtained prior to participation. Dogs were clipped, sedated, and placed into dorsal recumbency in a relaxed position with bilateral coxofemoral abduction. A stepwise ultrasonographic approach was demonstrated with a high-frequency linear transducer. The image was optimized by adjustment of depth, focal zone placement, gain, and time-gain compensation. Scanning was performed in both transverse and longitudinal planes to assess muscle origin, body, and insertion. Normal anatomic relationships of the gracilis, semimembranosus, and semitendinosus muscles were identified to facilitate consistent evaluation. Ultrasound allowed clear identification of the gracilis, semimembranosus, and semitendinosus muscles on the basis of location, shape, echogenicity, and fiber orientation. The gracilis was identified in a transverse plane as a superficial, flat adductor muscle, with the semimembranosus located deeper and the semitendinosus positioned more caudally with a rounded contour. Standardized scanning planes enabled consistent visualization of muscle architecture and tendon attachments. Ultrasonography is a valuable, accessible tool for evaluating the gracilis, semimembranosus, and semitendinosus muscles in dogs. Familiarity with normal anatomy and scanning techniques is essential for the diagnosis of conditions such as fibrotic myopathy, facilitating earlier intervention.",
-      "categories": []
-    },
-    {
-      "pmid": "42542130",
-      "title": "An anatomic plate provides successful outcomes for stabilization of periprosthetic femoral fractures and greater trochanteric osteotomies in dogs undergoing total hip replacement.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Lotsikas PJ, Fink OT, Murphy S, Lirtzman RA, Kim SE, Lu M, Rochat M",
-      "date": "2026 10 16",
-      "dateObject": "2026 10 16",
-      "abstract": "To report the clinical and radiographic outcomes of a locking proximal femoral anatomic bone plate in the management of periprosthetic femoral fractures (PFFs) and greater trochanteric osteotomies (GTOs) in dogs undergoing total hip replacement (THR). Medical records from August 2023 to February 2026 were reviewed for dogs with THR that developed PFF or underwent planned GTO and were subsequently stabilized with a locking proximal femoral anatomic bone plate. Cases involving a second plate, preexisting surgical site infection, or THR implant removal at the time of surgery were excluded. Eleven dogs were included-8 with PFF and 3 with GTO. The median age of dogs that sustained a femoral fracture was 7.5 years (range, 2 to 12.5 years). Three fractures occurred intraoperatively, and 5 occurred < 30 days postoperatively. The median age of dogs that underwent GTO was 2 years (range, 1 to 9 years). Of the 3 cases, 1 was a revision of a previously failed pin and tension-band repair of a GTO, and the other 2 were the primary repairs of the GTO. Radiographic bone healing and full function were achieved in all PFF cases. Two cases of GTO completely healed, and 1 was a delayed union but stable at12 weeks; all achieved full or acceptable function. One major complication occurred in the PFF group and was successfully revised with a larger plate. A locking proximal femoral anatomic bone plate provided adequate fixation and successful outcomes in dogs with PFF or elective GTO in dogs undergoing total hip replacement.",
-      "categories": [
-        "internalMedicine",
-        "surgery"
-      ]
-    },
-    {
-      "pmid": "42542127",
-      "title": "Is annual Dirofilaria immitis antigen testing at preventive renewal proportionate to the residual infection risk in documented-compliant dogs?",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Horvath M",
-      "date": "2026 10 16",
-      "dateObject": "2026 10 16",
-      "abstract": "Current American Heartworm Society guidelines characterize prescribing macrocyclic lactone preventives in the absence of antigen testing as \"NOT RECOMMENDED,\" regardless of compliance history or geographic prevalence. Number Needed to Screen, an established human preventive medicine framework applied here as a novel veterinary screening tool, has not previously been used to evaluate this guideline. Using county-level Companion Animal Parasite Council prevalence data and the compliance-gap distribution as a proxy, we derive geographically stratified Number Needed to Screen estimates varying approximately 25-fold across US states. A risk-stratified approach calibrated to local prevalence and compliance history merits prospective evaluation.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42526504",
-      "title": "Use of phenylephrine-soaked gauze following staphylectomy does not reduce the need for reintubation or temporary tracheostomy in brachycephalic dogs.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Strain W, Reed RA, Grimes JA",
-      "date": "2026 10 16",
-      "dateObject": "2026 10 16",
-      "abstract": "To determine whether application of phenylephrine-soaked gauze (PG) against the soft palate following staphylectomy reduces the incidence of reintubation and temporary tracheostomy. Electronic medical records for dogs that underwent staphylectomy from January 2023 through December 2024 were reviewed. Data collected included signalment, stage of laryngeal collapse, whether PG was used or not, and incidence of reintubation and temporary tracheostomy. Normally distributed data were analyzed with a Student t test; nonnormally distributed data were analyzed with a Wilcoxon test. Categorical data were analyzed with a Fisher exact test. 96 dogs were included (PG group, n = 56; no PG [NPG] group, 43). Dogs in the NPG group were more likely to have stage I versus stage II laryngeal collapse compared to those in the PG group. No other variables differed between groups. In the PG group, 19.6% (11 of 56) underwent reintubation and 7.1% (4 of 56) underwent temporary tracheostomy. In the NPG group, 22.5% (9 of 43) underwent reintubation and 5.0% (2 of 43) underwent temporary tracheostomy. There was no difference in reintubation or temporary tracheostomy between PG and NPG. The use of PG placed against the soft palate did not reduce reintubation or temporary tracheostomy rates among brachycephalic dogs undergoing staphylectomy. Veterinarians performing staphylectomy for brachycephalic obstructive airway syndrome should not expect PG to reduce reintubation and temporary tracheostomy rates among patients; other methods to reduce soft palate swelling after staphylectomy should be evaluated.",
-      "categories": []
-    },
-    {
-      "pmid": "42526502",
-      "title": "Teleneurology video recordings and live streams provide reliable neuroanatomic lesion localization in dogs and cats.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Shinn R, Connolly B, Parker R, Togawa G, Rossmeisl J",
-      "date": "2026 10 16",
-      "dateObject": "2026 10 16",
-      "abstract": "This study aimed to evaluate the reliability and accuracy of teleneurology consultation for neuroanatomical lesion localization in client-owned dogs and cats. This prospective cross-sectional study was conducted from June to July 2023. Fifty-five client-owned dogs and cats presenting to an academic teaching hospital neurology service were enrolled. Animals were pragmatically allocated into 2 groups to undergo neurologic examination performed by veterinary students; group 1 underwent neurologic examination via prerecorded video, and group 2 was live streamed. A separate, in-person neurologic examination by a blinded board-certified neurologist or neurology resident served as the baseline assessment. The Cohen &#x3ba; statistic was used to assess agreement between the neuroanatomical localization for each group. In total, 30 animals were evaluated in group 1 and 25 animals in group 2. Both teleneurology modalities demonstrated strong agreement with the in-person neuroanatomic localization. For group 1, &#x3ba; was 0.84 (95% CI, 0.69 to 0.98). For group 2 (live stream), &#x3ba; was 0.85 (95% CI, 0.66 to 1.00). Discrepancies in neuroanatomic localization were observed in 4 cases (13%) from group 1 and 3 (12%) from group 2. Teleneurology consultation shows promise as a reliable method for neuroanatomical localization in small animals. The observed high agreement suggested the potential utility of teleneurology consultation for nonemergent consultations, recheck appointments, and surgical follow-ups, particularly when a thorough examination with a dedicated videographer is ensured. Further standardization of protocols could enhance its widespread application.",
-      "categories": [
-        "surgery",
-        "neurology"
-      ]
-    },
-    {
-      "pmid": "42486166",
-      "title": "Retrospective evaluation of canine parvovirus monoclonal antibody supports faster clinical recovery in shelter dogs with naturally occurring canine parvovirus.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Welton M, Hadden H, Herron M, Winston JA",
-      "date": "2026 10 16",
-      "dateObject": "2026 10 16",
-      "abstract": "To retrospectively evaluate the clinical efficacy and safety of the canine parvovirus monoclonal antibody (CPMA) administered with standardized supportive care for naturally occurring canine parvovirus (CPV) in a shelter setting. Electronic medical records from CPV-positive dogs treated at Gigi's Parvovirus Treatment Center between June 2020 and May 2024 were reviewed. All dogs received a standardized standard-of-care (SOC) algorithm. Dogs treated prior to August 2023 received SOC alone (n = 49), while those admitted thereafter received CPMA (0.2 mL/kg, IV) plus SOC (63). Primary outcomes were hospitalization duration, mortality, and time to isolation release criteria (2 consecutive negative CPV ELISA tests [SNAP; Idexx Laboratories Inc]). Secondary outcomes included modified clinical severity scores, medication scores, and total cost of care. Dogs receiving CPMA with SOC had significantly shorter hospitalization (median, 2 vs 4 days) and reached isolation release criteria sooner (median, 5 vs 6.5 days) compared with SOC alone. Mortality did not differ significantly (17% vs 22%). Maximum medication scores and overall cost of care were not statistically different, although CPMA-treated dogs showed a real-world median cost reduction of $978.50. One CPMA-treated dog experienced an anaphylactic reaction and recovered with supportive care. CPMA administration in combination with SOC accelerated clinical recovery and time to release from isolation compared with SOC alone. CPMA appears clinically effective and safe for naturally occurring CPV infections in a shelter environment. By reducing isolation time, CPMA may improve welfare, reduce behavioral risk associated with prolonged isolation and medical trauma, and support earlier adoption.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
       "pmid": "42854896",
       "title": "Biological response stability of refrigerated cosacthen after opening and non-hormonal effects of ACTH stimulation testing in healthy dogs.",
       "journal": "Topics in Companion Animal Medicine",
@@ -2898,31 +2924,6 @@
       "dateObject": "2026 08 29",
       "abstract": "Tracheal hypoplasia is a congenital abnormality associated with brachycephalic airway syndrome, resulting in a generalized decrease in tracheal lumen diameter (TLD). Radiographic techniques to assess tracheal narrowing have been described; however, comparisons of tracheal diameter among breeds of bulldogs have not been made. The objective of this study was to investigate potential differences in standardized tracheal lumen diameters among bulldog breeds at different regions of the trachea and determine whether breed-specific reference values should be established. Medical records and thoracic radiographs were reviewed for clinically asymptomatic American, English, and French bulldogs. TLDs at three defined, well-established regions (caudal cervical, thoracic inlet, and intrathoracic trachea) were measured and standardized using manubrium length (ML) and thoracic inlet distance (Ti-D). One hundred dogs met the inclusion criteria and were represented by 33 American bulldogs, 33 English bulldogs, and 34 French bulldogs. No significant difference was found in the average manubrium tracheal index (M-TI) among bulldog breeds. A significant difference was found (p < 0.001) in the average thoracic inlet tracheal index (Ti-TI) among breeds, with the difference attributed to American bulldogs versus French and English bulldogs. This discrepancy might be attributed to the thoracic vertebral anomaly (TVA) associated with bulldogs. MT-I may be a reliable alternative to Ti-TI due to the potential influence of TVA on Ti-D.",
       "categories": []
-    },
-    {
-      "pmid": "42214613",
-      "title": "Persistent pseudomembranous cystitis associated with Vagococcus lutrae in a setter dog: First clinical report.",
-      "journal": "Topics in Companion Animal Medicine",
-      "authors": "Sezener Kabay MG, Kot ZN, Atalar A, Ozcan U",
-      "date": "2026 08 29",
-      "dateObject": "2026 08 29",
-      "abstract": "Urinary tract infections (UTIs) are among the most common diseases in companion animals, but empirical antibiotic treatments without culture often lead to recurrence and resistance. Vagococcus species are rarely reported as pathogens in animals, and Vagococcus lutrae has not previously been described in dogs. We report the first case of V. lutrae-associated cystitis in a dog in T&#xfc;rkiye. An 8-year-old female English Setter developed persistent dysuria and hematuria after surgery for pelvic trauma. Despite multiple antibiotic treatments (enrofloxacin, ceftriaxone, ciprofloxacin, amoxicillin-clavulanic acid), no clinical improvement was observed. On presentation, hematology indicated leukocytosis with regenerative anemia, and ultrasonography revealed bladder wall thickening and intraluminal hyperechoic material consistent with cystitis. Urine obtained by cystocentesis appeared dark red, alkaline (pH 9), and contained struvite crystals and urothelial cells. Urine culture obtained by cystocentesis yielded a pure growth of Gram-positive cocci identified as V. lutrae using MALDI-TOF mass spectrometry. Antibiotic susceptibility testing showed resistance to commonly used antimicrobials, including amoxicillin, ceftriaxone, ciprofloxacin, doxycycline, and gentamicin, but susceptibility to daptomycin, vancomycin, and teicoplanin. Supportive therapy was initiated; however, the patient died on the third day of treatment. This case suggests the potential pathogenic relevance of V. lutrae in dogs and emphasizes the importance of culture and sensitivity testing in recurrent or treatment-resistant UTIs to guide appropriate antimicrobial therapy.",
-      "categories": [
-        "internalMedicine",
-        "surgery"
-      ]
-    },
-    {
-      "pmid": "42173238",
-      "title": "Open approach transversus abdominis plane block for postoperative pain management in bitches undergoing ovariohysterectomy: First in vivo study.",
-      "journal": "Topics in Companion Animal Medicine",
-      "authors": "Marangoni M, Castanho AL, Marques ALR, Meznerovvicz AFF, Caon E, Alves MC, Braz PH",
-      "date": "2026 08 29",
-      "dateObject": "2026 08 29",
-      "abstract": "To compare the postoperative analgesic efficacy of the Open Approach Transversus Abdominis Plane block with the traditional ultrasound-guided technique in female dogs undergoing elective ovariohysterectomy. Prospective, randomized, controlled, blinded clinical study. Ten female dogs, weighing 3-5 kg, aged between 1-6 years. Animals were divided into two groups to receive either the ultrasound-guided TAP block (G-US, n = 5) or the open-approach TAP block (G-OA, n = 5). Pre-medication with methadone (0.3 mg/kg) was followed by propofol induction (4 mg/kg IV) and isoflurane maintenance. The TAP block was performed using 0.25% bupivacaine at a total dose of 0.3 mL/kg, administered as 0.15 mL/kg per side of the abdomen. Postoperative monitoring for 24 hours assessed physiological parameters and pain using the Visual Analogue Scale (VAS) and the Short Form of the Glasgow Composite Pain Scale (CMPS-SF). Data were analyzed using ANOVA, Chi-square, and Shapiro-Wilk tests, with significance set at P < 0.05. The Open Approach technique significantly reduced block execution time (p < 0.001) compared to the US-guided approach. No significant differences were observed between groups in postoperative pain scores (VAS, p = 0.054; CMPS-SF, p = 0.922) or additional analgesic requirements (p > 0.999). The Open Approach TAP block is a safe and effective alternative to the ultrasound-guided technique for dogs undergoing OVH. It provides comparable analgesia while reducing procedural time and eliminating ultrasound-related risks. Its simplicity may enhance clinical accessibility, making it a valuable addition to veterinary locoregional anesthesia.",
-      "categories": [
-        "surgery"
-      ]
     },
     {
       "pmid": "42618917",
