@@ -1,6 +1,18 @@
 {
-  "updated_at": "2026-11-15T01:03:59.689Z",
+  "updated_at": "2026-11-16T01:03:48.374Z",
   "papers": [
+    {
+      "pmid": "43033402",
+      "title": "Untargeted Plasma Metabolomics Reveals Metabolic Alterations Associated With Idiopathic Epilepsy in Dogs.",
+      "journal": "Veterinary Medicine and Science",
+      "authors": "Nakorn PN, Chantong B, Chatchaisak D, Phochantachinda S",
+      "date": "2026 11 14",
+      "dateObject": "2026 11 14",
+      "abstract": "Canine idiopathic epilepsy (IE) is one of the most common chronic neurological disorders in dogs, however, its underlying pathophysiology remains incompletely understood. This study aimed to characterise plasma metabolomic alterations associated with canine IE at two clinical points using an untargeted metabolomic approach. Plasma samples were collected from nine client-owned healthy dogs (Normal), and nine dogs with idiopathic epilepsy evaluated at acute seizure state (Epilepsy_D0) and after a 14-day seizure-free interval following antiepileptic treatment (Epilepsy_D14). For metabolomic analysis, plasma from three dogs was pooled to generate three biological pools per condition. Untargeted plasma metabolomic profiling was performed using LC-QTOF-MS in positive ionisation mode. A total of 491 metabolites were retained for downstream analysis. Exploratory heatmap and principal component analyses showed differences in overall metabolic patterns among three groups. Differential abundance analysis identified distinct metabolite changes across the pairwise comparison. Pathway enrichment analysis of the significantly altered metabolites using the study-specific metabolite set as a custom background did not identify any pathway reaching statistical significance. Six metabolites of interest, namely pyridoxal, methylimidazoleacetic acid, 2-methylbutyroylcarnitine, indolelactic acid, homocitrulline and DL-Normetanephrine, showed distinct abundance patterns across the study conditions. These findings provide preliminary evidence of plasma metabolic alterations associated with canine IE and differences between the acute seizure state and the 14-day seizure-free interval. Given the pooled biological design and limited effective sample size, these findings should be considered exploratory and require validation in larger cohorts using individual biological samples.",
+      "categories": [
+        "neurology"
+      ]
+    },
     {
       "pmid": "43031650",
       "title": "Genomic characteristics and preliminary study on in vitro infection properties of canine parvovirus type 2c derived from a canine anal swab sample.",
@@ -2694,18 +2706,6 @@
         "cardiology",
         "internalMedicine",
         "neurology"
-      ]
-    },
-    {
-      "pmid": "42806830",
-      "title": "A One Health Molecular Investigation and Exploratory Epidemiological Analysis of Cryptosporidium spp. in A Shared Human-Animal Ecosystem.",
-      "journal": "Veterinary Medicine and Science",
-      "authors": "Wakid MH, Aryal D, Sharifuzzaman, Hossain SS, Amin ARMB, Islam MS, Shahiduzzaman M",
-      "date": "2026 09 29",
-      "dateObject": "2026 09 29",
-      "abstract": "Cryptosporidium spp. are enteric protozoan parasites of public health importance, particularly in low-resource settings where humans, animals and environmental water sources frequently interact. This study investigated the prevalence, molecular diversity and environmental exposure-related variables in relation to Cryptosporidium infection in a rural community. A cross-sectional study was conducted using 180 faecal samples collected from humans, cattle, chickens, fish, cats, dogs, and ducks. Speciation and subtyping were determined through PCR amplification and sequencing of the 18S rRNA and gp60 genes. Epidemiological and environmental data were collected, and univariable analyses were conducted. An exploratory multivariable logistic regression model was subsequently performed for the human subset. The overall prevalence of Cryptosporidium infection was 9.40%, with the highest rates observed in humans (14.8%) and cattle (13.5%). Molecular characterisation identified C. hominis, C. parvum, C. bovis and C. felis. Among humans, C. hominis was the predominant, whereas C. parvum was also detected, including mixed infections. gp60 analysis identified multiple subtype families, including Ia, Ib, IIa, IIc and IId. Phylogenetic analysis demonstrated close genetic relationships between Bangladeshi isolates and previously reported reference strains from South Asia and the Middle East. Higher odds of Cryptosporidium infection were observed among individuals reporting river bathing and consumption of untreated water, whereas lower odds were observed among those reporting regular handwashing. No statistically significant associations were identified between evaluated environmental variables and infection among non-human hosts. The study demonstrated the circulation of multiple Cryptosporidium species and subtype families within a shared human-animal ecosystem. The contaminated surface water and inadequate hygiene practices may represent important environmental exposure interfaces for Cryptosporidium infection in the study area. However, given the cross-sectional design and limited number of positive cases, the epidemiological findings should be interpreted as exploratory associations rather than definitive transmission pathways. Further longitudinal One Health investigations are needed.",
-      "categories": [
-        "internalMedicine"
       ]
     },
     {

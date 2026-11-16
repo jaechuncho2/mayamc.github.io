@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T01:06:35.786Z",
+  "updated_at": "2026-11-16T01:04:05.427Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -8831,6 +8831,14 @@
       "title": "Genomic characteristics and preliminary study on in vitro infection properties of canine parvovirus type 2c derived from a canine anal swab sample.",
       "journal": "Frontiers in Veterinary Science",
       "generated_at": "2026-11-15T01:04:15.581Z",
+      "model": "gpt-5-mini"
+    },
+    "43033402": {
+      "brief_summary": "이 연구는 개의 특발성 간질(idiopathic epilepsy, IE)과 관련된 혈장 대사 변화를 무표적 대사체학으로 규명하는 것을 목적으로 했다. 건강견 9마리와 IE 개 9마리의 혈장을 급성 발작 상태(Epilepsy_D0)와 항경련제 치료 후 14일 발작 무발생 상태(Epilepsy_D14)에서 수집해 3마리씩 풀링한 3개 생물학적 풀로 LC-QTOF-MS(positive) 분석을 수행했고, 총 491개 대사물질을 비교하였다. 전반적 대사 패턴 차이(PCA·히트맵)와 함께 피리독살(pyridoxal) 등 6종의 대사물질이 조건별로 뚜렷한 변화 양상을 보여 IE와 발작 상태의 대사적 차이를 시사했으나, 풀링 설계 및 제한된 유효 표본수로 탐색적 결과로 해석해야 한다.",
+      "detailed_summary": "연구는 건강견 9마리(Normal)와 IE 진단을 받은 개 9마리를 대상으로 하였으며, IE 그룹은 급성 발작 시점(Epilepsy_D0)과 항경련 치료 후 14일간 발작이 없는 시점(Epilepsy_D14)의 혈장을 채취했다. 각 조건에서 3마리씩 혈장을 풀링해 3개의 생물학적 풀을 만들고 LC-QTOF-MS(positive ionisation mode)를 이용한 무표적 플라즈마 대사체 분석을 수행했다. 품질관리 후 491개의 대사물질이 다운스트림 분석에 사용되었고, 히트맵과 주성분분석(PCA)에서 세 그룹 간 전반적 대사 패턴의 차이를 보였다. 군별 차등 풍부도 분석에서 상호 다른 대사 변화가 식별되었으나, 연구자-특정 대사체 집합을 배경으로 한 경로 풍부도 분석에서는 통계적 유의성이 있는 경로는 확인되지 않았다. 유의미한 후보 물질로는 pyridoxal, methylimidazoleacetic acid, 2-methylbutyroylcarnitine, indolelactic acid, homocitrulline 및 DL-Normetanephrine의 6종이 보고되었고, 이들은 급성 발작 상태와 14일 무발작 상태에서 뚜렷한 농도 패턴 차이를 보였다. 결론적으로 본 연구는 개 IE와 관련된 혈장 대사 변화와 발작 상태 간 차이를 예비적으로 제시하나, 풀링된 생물학적 설계와 제한된 유효 표본수로 인해 결과는 탐색적이며 개별 샘플을 포함한 대규모 코호트에서의 검증이 필요하다고 제시한다.",
+      "title": "Untargeted Plasma Metabolomics Reveals Metabolic Alterations Associated With Idiopathic Epilepsy in Dogs.",
+      "journal": "Veterinary Medicine and Science",
+      "generated_at": "2026-11-16T01:04:05.410Z",
       "model": "gpt-5-mini"
     }
   }
