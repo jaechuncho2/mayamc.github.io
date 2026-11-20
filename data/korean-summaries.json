@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T02:40:24.811Z",
+  "updated_at": "2026-11-20T02:24:07.367Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -9055,6 +9055,102 @@
       "title": "Molecular and epidemiological characterization of Sporothrix brasiliensis isolates from canine sporotrichosis cases in Southeastern Brazil.",
       "journal": "Veterinary Research Communications",
       "generated_at": "2026-11-19T02:35:49.647Z",
+      "model": "gpt-5-mini"
+    },
+    "43050781": {
+      "brief_summary": "후천성 혈흡충증(Heterobilharzia americana, H. americana) 치료를 위해 펜벤다졸(fenbendazole)을 투여받은 개 6마리에서 치료 시작 후 21일 이내에 발열과 함께 중증의 일과성 세포감소증이 발생한 사례를 보고한 후향성 다기관 증례군 연구이다. 임상적으로는 심한 호중구감소증, 가변적인 혈소판감소증 및 입원이 필요한 중증 질환 소견을 보였고, 펜벤다졸 중단과 지지치료 및 단기간의 정주 항균제 투여 후 모두 회복했다. 수의사들은 H. americana 치료에서 펜벤다졸의 외래용도(extralabel use)로 인한 세포감소증 위험과 프라지콴텔(praziquantel) 투여를 위해 복합제제를 사용하는 것은 금기(복합제에 페반텔(febantel) 포함 시 고용량 벤지미다졸 노출 우려)임을 인지해야 한다.",
+      "detailed_summary": "연구는 2023년 6월부터 2025년 11월까지 텍사스 A&M 대학 위장관 연구소에 보고된 임상기록을 후향적으로 검토한 다기관 관찰 증례군이다. 포함 기준은 분변 PCR 또는 생리식염수 침전법으로 H. americana 진단을 받고 펜벤다졸로 치료를 받았으며 치료 시작 후 21일 이내에 임상 증상을 동반한 세포감소증이 발생한 경우로, 총 6마리의 고객 소유 개가 분석되었다. 대상 개들은 모두 중성화된 암컷으로 다양한 품종이 포함되었고, 모두 프라지콴텔과 펜벤다졸을 투여받았으며 5마리는 프라지콴텔을 복합정으로 투여하면서 피란텔 파모에이트(pyrantel pamoate)와 페반텔이 동시에 투여되어 벤지미다졸 계열의 총 노출량이 높아진 것으로 보고되었다. 임상 양상은 뚜렷한 호중구감소증, 가변적인 혈소판감소증, 발열 및 입원 치료가 필요한 중증 전신 질환으로 나타났다. 모든 증례는 펜벤다졸 중단, 지지적 치료 및 단기간의 정맥 주사용 항균제 투여 후 혈액학적 및 임상적 회복을 보였다. 결론적으로 펜벤다졸의 외래용도로 인한 세포감소증 위험을 인지해야 하며, 프라지콴텔 투여를 위해 복합 제제를 사용하는 것은 해당 제제에 페반텔 등이 포함되어 고용량 벤지미다졸 노출을 초래할 수 있으므로 금기임을 강조한다. 본 연구는 증례보고(사례군)이므로 결과를 일반화하거나 확정적인 인과관계를 주장하기에는 제한이 있다.",
+      "title": "Severe cytopenia in dogs treated with fenbendazole for Heterobilharzia americana.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-11-20T02:23:28.302Z",
+      "model": "gpt-5-mini"
+    },
+    "43052221": {
+      "brief_summary": "본 연구는 임상 증상·표준 검사·확인용 RT-PCR(=RT-PCR)로 진단된 18마리의 반려묘(고양이)에서 Remdesivir로 초기 4주간 치료하면서 혈청 단백질 전기영동(SPE) 변화를 주간으로 관찰한 연구이다. 임상 반응을 보인 고양이에서 감마글로불린이 주간 추적 중 유의하게 감소(중앙값: 주2 3.1 g/dL → 주4 2.2 g/dL, p<.05)하였고, ROC 분석에서는 감마글로불린 비율 <23%(주4) 및 18.96%(주6)가 완전 임상 회복 및 재발 없는 관해와 강하게 관련(AUC=0.9105)하였다. 결론적으로 SPE의 장기적 추세, 특히 감마글로불린 비율과 알부민/글로불린비(A/G ratio)는 FIP 고양이에서 치료 반응 평가와 항바이러스제 중단 시점 결정에 활용 가능한 객관적 바이오마커 전략을 제시한다.",
+      "detailed_summary": "연구 설계는 임상 소견·표준 검사지표·확인용 RT-PCR(=RT-PCR)을 근거로 FIP로 진단된 고객 소유 고양이 18마리를 대상으로 Remdesivir를 4주간 투여하고 주간 임상검사 및 혈액검사를 시행한 전향적 관찰이다. 혈액은 치료 시작 전 기초와 이후 매주 채혈하여 SPE로 알부민 및 α1-, α2-, β1-, β2-, γ(감마) 글로불린 분획과 알부민/글로불린비(A/G ratio)를 분석하였다. 주요 결과는 임상적으로 호전된 개체군에서 감마글로불린 농도가 주2 중앙값 3.1 g/dL에서 주4 중앙값 2.2 g/dL로 유의하게 감소(p<.05)한 점이다. ROC 곡선 분석에서는 감마글로불린 비율이 주4에 23% 미만, 주6에 18.96%일 때 완전 임상 회복 및 재발 없는 관해와 강한 연관성을 보였으며(AUC=0.9105) 이는 치료 반응을 예측하는 지표가 될 수 있음을 시사한다. 연구진은 SPE의 연속적 모니터링, 특히 감마글로불린 비율과 A/G ratio의 경향이 FIP 고양이에서 치료 효과 평가 및 항바이러스제 중단 시점 결정에 현실적이고 객관적인 바이오마커 전략을 제공한다고 결론지었다. 초록에서는 별도의 한계점 기술은 없으나(초록 내 명시 없음), 보고된 결과는 본 연구의 서술된 방법·표본수·측정 시점에 기초한다는 점을 명시하고 있다.",
+      "title": "Early Changes in Serum Protein Electrophoresis and Gamma Globulin during Initial 4 Weeks of Remdesivir Therapy in FIP Cats.",
+      "journal": "Veterinary Medicine and Science",
+      "generated_at": "2026-11-20T02:24:07.345Z",
+      "model": "gpt-5-mini"
+    },
+    "43052231": {
+      "brief_summary": "본 연구는 수컷 Swiss albino 생쥐를 대상으로 구강으로 투여한 폴리스티렌 미세플라스틱(PS-MP, 입자 크기 4.8–5 µm)이 피부에 미치는 영향(피부 무결성, 산화적 균형, FGF5 유전자 발현)을 평가했다. 0.1 mg(저용량) 및 0.2 mg(고용량)를 28일간 투여한 결과 ROS(0.545→1.99 U/mg), MDA(1.49→7.37 nmol/L) 등 산화 스트레스 지표가 증가하고 CAT(10.2→4.33 U/mg) 등 항산화 효소가 감소하는 용량 의존적 변화가 관찰되었다. 조직학적으로 표피 비대(16.46→34.18 µm), 각질세포 감소(22.1→7.0) 및 염증 침윤이 확인되었고, FGF5 유전자 발현은 1.35배 증가했다. 이는 구강 PS-MP 노출이 생쥐 피부의 산화 스트레스·구조 변화·염증 및 모낭 관련 유전자 조절 이상과 연관될 수 있음을 시사한다.",
+      "detailed_summary": "설계는 수컷 Swiss albino 생쥐에 PS-MP(폴리스티렌 미세플라스틱, 4.8–5 µm)를 경구로 28일간 노출시키는 동물실험이다. 투여군은 저용량(0.1 mg)과 고용량(0.2 mg)으로 구분되었고 주요 평가 항목으로는 조직내 항산화효소 및 산화스트레스 지표(CAT, SOD, POD, ROS, MDA), 혈청 효소(ALT, AST, ALP, amylase), 무기질(Ca, Mg, phosphate), 피부 조직병리(H&E) 및 등쪽 피부의 FGF5 유전자 발현(qRT‑PCR, 내부대조 Hprt1)이 포함되었다. 결과는 용량 의존적으로 ROS 및 MDA가 증가(예: ROS 0.545→1.99 U/mg, MDA 1.49→7.37 nmol/L)하고 항산화 효소가 유의하게 감소(CAT 10.2→4.33 U/mg)했음을 보여주었다. 혈청 생화학적 이상은 전신적 대사 스트레스를 시사했으며, 조직학적으로는 표피 두께 증가(16.46→34.18 µm), 각질세포 밀도 감소(22.1→7.0) 및 뚜렷한 염증세포 침윤이 관찰되었다. 분자 수준에서는 등쪽 피부에서 FGF5 발현이 1.35배 증가하여 모낭 주기 관련 경로의 조절 이상을 시사했다. 결론적으로 구강 PS-MP 노출은 생쥐 피부에서 산화스트레스·구조적 변화·염증 및 FGF5 상향조절과 연관되었다고 보고되었다. 중요한 제한점으로는 본 연구가 생쥐 모델에서 수행되었다는 점이며, 인간 또는 임상 동물에서의 직접적 인과관계나 임상적 영향을 확인하려면 추가 연구가 필요하다.",
+      "title": "Cutaneous Effects of Oral Polystyrene Microplastic Exposure in Mice: Oxidative Stress, Inflammation, and FGF5 Gene Dysregulation.",
+      "journal": "Veterinary Medicine and Science",
+      "generated_at": "2026-11-20T02:23:47.827Z",
+      "model": "gpt-5-mini"
+    },
+    "43052621": {
+      "brief_summary": "엘살바도르 산살바도르 지역의 임상 수의 병원에서 채혈한 반려견 269마리와 반려묘 59마리를 대상으로 Bartonella spp., Anaplasma spp., Ehrlichia spp., 및 혈구기생 마이코플라스마(hemotropic Mycoplasma spp.)의 존재를 qPCR로 조사한 연구이다. 고양이에서 Bartonella spp. 4건(6.78%)·hemoplasma 5건(8.47%)이, 개에서는 Ehrlichia spp. 19건(7.06%)·Anaplasma spp. 8건(2.97%) 등 여러 병원체가 검출되었다. Bartonella는 5건 중 4건에서 Bartonella henselae로 확인되었고, 일부 고양이 hemoplasma는 'Candidatus Mycoplasma haemominutum'으로 동정되었다. 이 연구는 엘살바도르의 반려동물에서 해당 병원체의 분자적 존재를 처음 보고한 것으로, 진단과 감시에서 벡터·혈액매개 세균을 고려해야 함을 시사한다.",
+      "detailed_summary": "연구는 산살바도르의 수의과 병원에서 채혈한 반려견 269마리와 반려묘 59마리의 혈액을 대상으로 진행된 횡단적 분자 역학 조사이다. qPCR 검사로 NADH 탈수소효소 감마 소단위(nuoG) 기반 TaqMan qPCR로 Bartonella spp., groEL 유전자 대상 TaqMan 다중 qPCR로 Ehrlichia spp./Anaplasma spp., 16S rRNA 대상 SYBR Green qPCR로 혈구기생 마이코플라스마를 검출했다. 결과는 고양이에서 Bartonella spp. 4/59(6.78%)·hemoplasma 5/59(8.47%)가 양성, 개에서는 Bartonella 1/269(0.37%)·Ehrlichia 19/269(7.06%)·Anaplasma 8/269(2.97%)·hemoplasma 3/269(1.12%)가 검출되었다. 시퀀싱·계통분석으로는 Bartonella 양성 5건 중 4건(개 1마리, 고양이 3마리)에서 Bartonella henselae가 확인되었고, 고양이 hemoplasma 분석 5건 중 3건은 'Candidatus Mycoplasma haemominutum'으로 동정되었다. 반면 개의 hemoplasma는 시퀀싱 자료 부족으로 종 동정이 불가능했고, Anaplasma spp. 및 Ehrlichia spp. 양성 샘플은 기존의 임의중합효소연쇄반응(conventional PCR)에서 증폭이 얻어지지 않아 종 수준 동정이 이루어지지 않았다. 저자들은 이 연구가 엘살바도르 반려동물에서 Bartonella spp. 및 hemoplasma의 분자적 최초 검출이자, 국내 고양이에서의 Anaplasma spp. 및 Ehrlichia spp.의 최초 분자적 증거라고 보고하며, 제한점으로 일부 양성 샘플의 시퀀싱 실패로 인한 종 수준 확인 불가를 명시하고 있다.",
+      "title": "Molecular evidence of vector/blood borne and hemotropic bacteria in dogs and cats from El Salvador, Central America.",
+      "journal": "Veterinary Research Communications",
+      "generated_at": "2026-11-20T02:23:11.015Z",
+      "model": "gpt-5-mini"
+    },
+    "43054081": {
+      "brief_summary": "본 연구는 2013–2023년 미국 Banfield의 1,000여 클리닉 전자 의무기록을 머신러닝으로 분석하여 고양이 심장사상충(Dirofilaria immitis) 감염의 진단 양상을 파악한 후향적 연구이다. 146,111마리 중 91,438마리가 항원(Ag) 또는 항체(Ab) 검사로 검사됐고, 1,555마리(1.70%)가 적어도 하나의 검사에서 양성 판정을 받았다. 호흡기 증상이나 구토로 내원한 고양이에서도 양성이 검출되어(호흡기·구토 코드가 전체 양성의 각각 7.01% 및 10.10% 차지) 호흡기 증상이나 구토를 보이는 고양이에서 심장사상충을 고려할 필요가 있으며, 검사 민감도를 높이기 위해 열처리된 Ag 검사와 Ab 검사를 함께 연 1회 및 증상 시 활용할 것을 권고하고 있다.",
+      "detailed_summary": "후향적 전자 의무기록 연구로, 2013–2023년간 Banfield 미국 1,000여 클리닉의 기록을 머신러닝 기법으로 분석했다. 포함 기준은 호흡기·구토 또는 심장사상충 관련 진단 코드가 기록돼 있고 최소 한 차례의 Ag 또는 Ab 검사가 시행된 고양이였다. 총 146,111마리 중 91,438마리(62.58%)가 검사받았고, 그중 1,555마리(1.70%)가 적어도 하나의 검사에서 양성으로 나타났다. 심장사상충 특정 진단 코드가 있는 군에서 양성률이 가장 높았으나, 호흡기 또는 구토 코드로 내원한 환자도 전체 양성의 각각 7.01%와 10.10%를 차지했다. Ag와 Ab를 모두 시행한 127마리에서는 24.41%가 결과 불일치(주로 Ag 양성/Ab 음성)를 보였다. 연구는 심장사상충의 실제 유병률이 비특이적 증상과 검사 한계로 과소평가될 가능성이 있음을 지적하며, 임상적으로 호흡기 증상(천식 유사 증상 포함) 또는 구토가 있는 고양이에서는 심장사상충을 고려하고 연 1회 열처리 Ag 및 Ab 검사를 병행해 선별할 것을 권장한다.",
+      "title": "Retrospective analysis of feline heartworm disease ( Dirofilaria immitis ): diagnostic patterns in cats presenting with respiratory or vomiting signs (2013-2023, USA).",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-11-20T02:22:50.019Z",
+      "model": "gpt-5-mini"
+    },
+    "43054163": {
+      "brief_summary": "건강한 성견 비글 16마리(8/군)를 대상으로 Limosilactobacillus reuteri ATCC PTA 6127 (PureStrong™)을 하루 1×10^8 CFU로 28일간 투여하여 안전성, 내약성 및 위장관 효과를 평가한 무작위·맹검·위약대조 연구이다. 투여군은 불완전한 대변 발생률이 낮았고(0.58% vs 6.33%), 대변 일관성 점수에서 유의하게 개선(β=-1.31, p=0.033)되었으며 Day 28에서 대변 pH가 유의하게 낮게 나타났다(Δ=-0.22; 95% CI -0.403 to -0.045; p=0.018). 임상적으로 본 균주는 안전하고 복용에 잘 견디며 식이 전환과 같은 장내 교란 상황에서 대변 상태 개선과 장내 안정성에 잠재적 이점이 있음을 시사한다.",
+      "detailed_summary": "연구는 균주 특이적 효과를 평가하기 위해 건강한 성견 비글 16마리(8마리씩, 성별 균형)를 무작위·맹검·위약대조로 배정해 L. reuteri ATCC PTA 6127을 하루 1×10^8 CFU로 28일간 투여했다. 연구 시작 시 건식사료에서 통조림(습식)으로의 표준화된 식이 전환을 시행하여 일시적 위장관 및 마이크로바이옴 변화를 유도했다. 안전성 평가는 임상 관찰, 체중, 식이 섭취, 혈액검사(혈액학 및 혈청생화학)로 이루어졌고, 위장관 평가는 일일 대변 점수, 대변 pH·수분, 16S rRNA 유전자 시퀀싱을 통해 수행되었다. 모든 개는 이상반응 없이 연구를 완료했으며 임상병리 수치도 기준범위 내로 치료군 간 차이는 관찰되지 않았다. 주요 결과로 투여군은 불완전한 대변 발생률이 0.58%로 대조군의 6.33%보다 낮았고(β=-1.31, p=0.033) Day 28에서 대변 pH가 유의하게 낮게 나타났다(Δ=-0.22; 95% CI -0.403 to -0.045; p=0.018). 마이크로바이옴 분석에서는 식이 전환이 가장 큰 영향 요인이었고, 프로바이오틱 투여는 초기에 장내 L. reuteri 증가 및 초기 2주 동안 유산균 및 일부 공생균의 양상에 긍정적 변화를 유도했으나 대부분의 차이는 Day 28에는 더 이상 뚜렷하지 않았다.",
+      "title": "Daily supplementation with canine-isolated Limosilactobacillus reuteri ATCC PTA 6127 is well tolerated, improves stool consistency, and modulates gut microbiome in dogs.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-11-20T02:22:33.113Z",
+      "model": "gpt-5-mini"
+    },
+    "43054190": {
+      "brief_summary": "본 연구는 노화에 따른 인지저하 모델로서 7–15세의 노령 비글 28마리를 대상으로 소마토스타틴 유사체 옥트레오타이드(Octreotide, Sandostatin LAR, 10 mg, i.m.) 투여가 IGF-1 신호 억제를 통해 인지 기능에 미치는 영향을 평가한 무작위 위약대조 연구이다. 치료군은 위약군에 비해 판별역전(집행기능·인지유연성), 가변 기이성 검사(선택적 주의), 가변 지연 비일치 위치 검사(시공간 작업기억) 등 3가지 행동 과제에서 유의하게 수행이 향상되었고, 주된 효과는 반응 지연 시간 단축과 과제 참여도 증가였다. 결과는 후기 인지 기능에서 체성호르몬(somatotropic) 신호의 역할을 시사하며, 노령 견종을 노화 관련 인지개입 연구의 전임상 모델로서 가치가 있음을 제시한다.",
+      "detailed_summary": "무작위, 위약대조 설계로 28마리의 경험 있는 노령 비글(연령 7–15세)을 등록하여 28일의 기초평가 후 옥트레오타이드(Sandostatin LAR, 10 mg, i.m.) 또는 위약을 투여하고 워시인 기간을 거쳐 28일간의 사후 평가를 수행했다. 평가에는 집행기능·인지유연성을 보는 판별역전(discrimination reversal), 선택적 주의를 측정하는 variable oddity, 시공간 작업기억을 평가하는 variable delayed non-matching to position 등의 검증된 인지 검사 배터리가 사용되었다. 치료군은 위약군에 비해 세 가지 행동 패러다임 전반에서 통계적으로 유의한 수행 향상을 보였고, 주요 관찰된 변화는 반응 지연 시간의 단축 및 과제 참여도(응답 효율성)의 증가였다. 저자는 이러한 결과를 IGF-1 신호 억제를 통한 인지 반응 효율성 및 참여도 개선으로 해석하였으며, 특히 집행 및 주의 영역에서 효과가 두드러졌다고 보고했다. 연구는 노령 견종을 인간 노화 및 치매 연구의 유용한 자연 발생 모델로 제시하는 근거를 제공하지만, 초록에 제시된 결과만으로는 약물의 장기적 효과, 정확한 작용기전, 임상적 적용 가능성 또는 안전성 프로파일을 결론내리기 어렵다. 또한 표본수와 평가 기간 한계로 일반화에는 신중을 기해야 한다.",
+      "title": "Octreotide treatment improves multiple domains of cognitive performance in aged beagle dogs.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-11-20T02:22:12.455Z",
+      "model": "gpt-5-mini"
+    },
+    "43054223": {
+      "brief_summary": "본 논문은 개와 고양이의 복잡한 종양성 질환(고형종양 및 일부 혈액암 포함)에 대해 사람 암 치료의 다학제 종양회의를 수의학에 적응시킨 '수의 다학제 종양회의(VMTB)' 개념적 프레임워크를 제안한다. 모듈식 7단계 경로를 통해 시간표시된 사전 관리 의도에서 시작해 통합 권고안 또는 임상적으로 타당한 대안들을 제시하고, 원주인 중심의 공유 의사결정과 조직적 학습을 지원하도록 설계되었다. 다만 VMTB가 임상 결과를 개선한다고 전제하지 않으며, 도입 전 실현 가능성·시기적합성·결정 영향의 추적성·소유자 결정 및 실행 문서화·핵심 기능의 충실성·사후 환류 완료 여부를 먼저 평가할 것을 권고한다.",
+      "detailed_summary": "연구는 실험적 연구가 아닌 개념적 분석으로, 임상 수의 현장에서 적용 가능한 VMTB(수의 다학제 종양회의)를 제안한다. 대상은 복잡한 종양성 질환을 가진 개와 고양이로, 고형종양과 다학제적 의견이 임상결정에 영향을 줄 수 있는 선정된 혈액암을 포함한다. 제안된 프레임워크는 핵심 임상 기능을 지역별 구현 구성과 구분하고 시간표시된 사전-회의 관리 의도에서 출발하는 모듈식 7단계 경로를 특징으로 한다. 회의는 통합된 우선 권고안 또는 임상적으로 방어 가능한 대안 집합을 산출할 수 있으며, 관련 전문가는 현장, 원격 또는 구조화된 외부 자문으로 참여할 수 있다. 환자 수준의 재검토(확정 병리 결과, 치료 반응, 진행 등 새 정보가 있을 때)는 임상적 관리 변경 가능성을 다루고, 이는 완료된 사례 환류(post-case return)와 구분된다; 조직 학습은 임상적 관찰이 실제 진료 변화로 이어지고 재평가될 때만 발생한다고 규정한다. 프레임워크는 자체적으로 임상적 이득을 가정하지 않으며, 먼저 도입의 실행 가능성·영향 추적성·소유자 결정 및 실행 기록·기능 충실도·사후 환류의 완료 여부를 확인한 뒤 임상적 이익을 평가할 것을 결론으로 제시한다.",
+      "title": "Adapting human multidisciplinary tumor boards to veterinary oncology: a closed-loop framework for integrated decision-making and organizational learning.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-11-20T02:21:50.438Z",
+      "model": "gpt-5-mini"
+    },
+    "43054321": {
+      "brief_summary": "본 연구는 21마리의 작업견을 대상으로 표준화된 모의 수색·구조(search-and-rescue, SAR) 야외 훈련 중 타액 코르티솔과 옥시토신의 시간적 변화를 규명하려 했다. 타액 코르티솔은 샘플링 단계 전체에서 유의한 차이(샘플링 단계 효과)를 보였고, 사전 작업(pre-workload)과 비교해 유의한 차이는 후기 작업 단계에서만 관찰되었다. 옥시토신은 전체적으로 샘플링 단계 효과를 보였으나 보정 후 개별 쌍별 비교에서 유의한 차이는 없었고 최종 회복 시점에서는 사전 작업보다 수치가 낮게 나타나는 비단조적 양상을 보였다. 임상적으로는 이러한 내분비 반응이 훈련의 긍정적·부정적 영향이나 불완전한 생리적 회복을 직접 증명하지는 않으므로 추가적인 다중 지표 연구가 필요하다.",
+      "detailed_summary": "연구는 21마리의 작업견을 대상으로 세 차례의 표준화된 모의 SAR 야외 훈련에 참여시켜, 사전 작업·작업·초기 회복을 포함한 6개 시점에서 타액 샘플을 채취하였다. 시간적 변화 분석은 동일 개체 내 반복측정을 고려한 일반화된 선형 혼합효과 모델(generalized linear mixed-effects model, GLMM)을 사용해 수행되었다. 타액 코르티솔은 샘플링 단계에 따른 전체 효과가 통계적으로 유의했으나, 사전 작업과의 쌍별 비교에서는 후기 작업 시점에서만 유의한 차이를 보였고 다른 쌍별 비교(최종 회복 포함)는 다중비교 보정 후 유의하지 않았다. 타액 옥시토신도 전체적으로 샘플링 단계 효과를 보였으나 개별 쌍별 비교에서는 보정 후 유의한 차이가 남지 않았고, 기술적 패턴은 단조적이지 않았으며 최종 샘플링 시점에서 사전 작업보다 수치가 낮게 관찰되었다. 저자들은 이 결과를 표준화된 모의 SAR 훈련과 관련된 내분비 반응에 대한 예비 정보로 해석해야 한다고 명시했으며, 긍정적 또는 유해한 복지 상태나 회복 불완전성을 직접 입증하는 근거로 과대해석하지 말 것을 권고했다. 결론적으로 내분비 지표뿐 아니라 행동, 자율신경, 수행도, 신체적 지표 등 다양한 복지 관련 지표를 통합한 추가 연구가 필요하다고 제시되었다.",
+      "title": "Dynamics of salivary cortisol and oxytocin during standardized field training in search-and-rescue (SAR) dogs.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-11-20T02:21:36.359Z",
+      "model": "gpt-5-mini"
+    },
+    "43054632": {
+      "brief_summary": "이 미니리뷰는 개와 고양이에서 시행하는 전기화학요법(ECT)의 마취·진통 실무와 향후 고려사항을 정리했다. ECT는 짧고 최소침습적이지만 경미~중등도의 통증을 유발하며, 사람에서는 진정·국소마취로 가능한 경우가 많으나 수의학에서는 대체로 전신마취가 선호된다. 마취는 환자의 변형된 임상상태, 종양 관련 증후군(paraneoplastic syndromes) 및 동반 만성질환으로 인해 어렵고, 오피오이드(opioid)가 항종양 면역반응을 조절할 가능성이 제기되나 그 임상적 의미는 추가 연구가 필요하다. 임상적으로는 국소·지역 마취를 포함한 opioid 절감 전략이 통증관리와 환자 복지 개선에 유용할 수 있으며, ECT는 종양-마취 상호작용 연구의 유망한 동물 모델로서의 가치를 지닌다.",
+      "detailed_summary": "논문은 개·고양이에서의 ECT(전기화학요법)에 적용되는 마취와 진통의 최신 실무를 요약한 미니리뷰이다. ECT 자체는 짧고 최소침습적이지만 경미에서 중등도의 통증을 유발하므로 효과적인 주변시술기(peri-procedural) 진통이 필수적이라고 정리한다. 사람에서는 진정·국소마취로 시행되는 경우가 많지만, 수의학 임상에서는 환자 상태와 위험요인으로 인해 일반적으로 전신마취가 선호된다고 보고한다. 리뷰는 특히 환자의 변형된 임상상태, 종양 관련 증후군 및 동반 만성질환이 마취 관리를 어렵게 한다고 지적한다. 또한 최근 증거를 근거로 오피오이드가 항종양 면역반응을 조절할 수 있다는 가능성을 제시하나, 그 임상적 중요성은 명확하지 않아 추가 연구가 필요함을 강조한다. 임상적 권고로는 국소·지역 마취를 포함한 오피오이드 절감 또는 오피오이드 없는 전략이 통증 완화와 오피오이드 사용 감소에 도움이 될 수 있다고 제안한다. 결론적으로 저자들은 환자 맞춤형 마취·진통 프로토콜의 업데이트와 ECT를 이용한 종양-마취 상호작용 연구를 향후 우선순위로 제시한다.",
+      "title": "Anesthesia for electrochemotherapy in dogs and cats: a mini-review of current practices and future considerations.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-11-20T02:21:18.315Z",
+      "model": "gpt-5-mini"
+    },
+    "43055505": {
+      "brief_summary": "이 연구는 2021–2024년 미국의 4개 민간 신경과 병원에서 복측 슬롯 감압술(ventral slot decompression, VSD)을 받은 경추 추간판 탈출(IVDH) 개 241두를 후향적으로 분석하여 유해사건(AE)과 임상 결과를 재평가했다. 전체 AE 발생률은 25%(60/241)였고, 임상 결과는 우수 182두·양호 34두·불량 9두로 대체로 양호했다. 체중 증가, 높은 AE 등급·중증도, 후방(하위) 추간판 부위, 측방으로 추출된 디스크 물질과 불량 결과가 유의하게 연관되어 있었고(P 값 표기 포함), 성별·수술·마취 시간·수술자 경험 등과는 유의한 관련이 없었다(해당 P 값 표기 포함).",
+      "detailed_summary": "연구는 2021–2024년에 걸쳐 4개 민간 신경과 병원에서 VSD를 시행한 개 241두를 대상으로 한 후향적 증례군 연구이다. 주요 평가 항목은 수술 후 임상 결과(우수·양호·불량 등)와 유해사건(AE)의 발생률 및 중증도였다. 전체 AE 발생률은 25%(60/241)였고, 임상 결과는 우수 182두·양호 34두·불량 9두로 보고되었다. 불량(negative) 결과와 유의하게 연관된 요인은 체중 증가(P < .001), 높은 AE 등급(P < .001) 및 AE 중증도(P < .001), 후방(하위) 추간판 부위(P = .04), 그리고 측방으로 탈출된 디스크 물질(P = .01)이었다. 반대로 성별, 수술 시간 또는 마취 시간, 수술자 경험, 이전 VSD 수술 병력, 수술 중 저혈압 또는 출혈 등은 결과와 유의한 연관성이 없었다. 프렌치 불독의 미국 내 유병률 증가에도 불구하고 이 연구에서는 VSD 후 전반적으로 유리한 결과가 지속된다고 결론지었다.",
+      "title": "Reassessing outcome and adverse events associated with ventral slot decompression for cervical intervertebral disc disease in dogs: 241 cases (2021-2024).",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-11-20T02:20:56.999Z",
+      "model": "gpt-5-mini"
+    },
+    "43055506": {
+      "brief_summary": "이 연구는 2008–2018년 동안 International Veterinary Renal Pathology Service에 제출된 신장 조직검사로 확진된 개들(n=199)의 소변 클러스터린(uClust)과 사이스틴 B(uCysB)를 측정해 기존 신장 지표와 병리 소견, 예후와의 연관성을 평가했다. uClust와 uCysB는 혈청 크레아티닌(sCr), SDMA, 요단백/크레아티닌 비(UPC) 및 조직병리 중증도 점수와 양의 상관(r=0.25–0.50)을 보였고, uCysB가 높을수록 더 중증의 병변과 사망 위험 증가(uCysB > 238 ng/mL, HR 2.40, P<.05)와 연관되었다. 반면 uClust > 7329 ng/mL는 낮은 사망 위험과 연관되어 추가 연구가 필요하다고 결론지었다.",
+      "detailed_summary": "후향적 연구로, 신장 조직검사에 대응하는 소변 샘플을 가진 고객 소유 개 199두를 대상으로 ELISA로 uClust와 uCysB 농도를 측정했다. 주요 평가 항목은 sCr, SDMA, UPC 및 조직병리학적 중증도 점수였고, 이들 바이오마커와의 상관관계 및 생존률을 분석했다. uClust와 uCysB 농도는 막증식성 사구체신염(MPGN) 및 혼합형 MPGN에서 가장 높았고, 두 바이오마커는 sCr, SDMA, UPC 및 조직병리 점수와 유의한 양의 상관(r=0.25–0.50)을 보였다. 생존 분석에서 uCysB > 238 ng/mL는 사망 위험 증가와 연관(HR 2.40, P<.05)이었고, 반대로 uClust > 7329 ng/mL는 낮은 사망 위험과 연관(HR 0.32, P<.01)이었다. 연구진은 uCysB가 활성 신장 손상과 더 나쁜 예후를 식별할 수 있을 것으로 제시했으나, uClust의 생존 연관성은 추가 검증이 필요하다고 명시했다. 초록에 제시되지 않은 원인·기전 설명이나 일반화는 하지 않았다.",
+      "title": "Evaluation of urine clusterin and cystatin B concentrations in relation to histopathologic findings of renal disease in dogs.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-11-20T02:20:38.618Z",
       "model": "gpt-5-mini"
     }
   }
