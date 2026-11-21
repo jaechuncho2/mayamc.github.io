@@ -1,6 +1,80 @@
 {
-  "updated_at": "2026-11-20T02:20:25.252Z",
+  "updated_at": "2026-11-21T02:17:27.748Z",
   "papers": [
+    {
+      "pmid": "43062967",
+      "title": "Feasibility and clinical safety of cytokine-activated anti-tumor lymphocytes infusion in dogs with diffuse large B-cell lymphoma: a pilot study.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "Capellero S, Maga I, Donini C, Galiazzo E, Sapino A, De Maria R, Leuci V, Massa A, Sangiolo D, Marconato L, Aresu L",
+      "date": "2026 11 20",
+      "dateObject": "2026 11 20",
+      "abstract": "Diffuse large B-cell lymphoma (DLBCL) is the most common histologic subtype of lymphoma in dogs. Although using cyclophosphamide, doxorubicin, vincristine and prednisone (CHOP) chemotherapy is the standard treatment, outcomes remain suboptimal, emphasizing the need for novel therapeutic strategies. Evaluate the feasibility and potential therapeutic benefit of adoptive immunotherapy using ex vivo-expanded cytokine-activated anti-tumor lymphocytes (CATLs) in dogs with DLBCL treated using CHOP chemotherapy and an autologous tumor vaccine. Seven client-owned dogs with naturally occurring DLBCL. Dogs received CHOP-based chemotherapy and the APAVAC&#xae; autologous vaccine. Peripheral blood mononuclear cells (PBMCs) were expanded ex vivo for 14&#xa0;days using interleukin-2 and anti-CD3/CD28 stimulation. The CATLs were characterized by flow cytometry and reinfused. Peripheral blood mononuclear cells were successfully expanded. After 14&#xa0;days, the median cell yield was 728&#xa0;&#xd7;&#xa0;106 cells (range, 162.4&#xa0;&#xd7;&#xa0;106-1&#x2009;500&#xa0;&#xd7;&#xa0;106), corresponding to a median 8.6-fold expansion. Median fold increases of positive cells were 7.23 (interquartile range [IQR], 6.46-9.64) for CD3+, 8.56 (IQR, 7.11-14.56) for CD4+, 8.41 (IQR, 6.24-9.29) for CD5+, 10.35 (IQR, 7.63-14.67) for CD8+, and 16.16 (IQR, 12.22-30.40) for CD4+CD8+ cells. Reinfused CATLs ranged from 162.4&#xa0;&#xd7;&#xa0;106 to 1&#x2009;500&#xa0;&#xd7;&#xa0;106 cells. Ex vivo expansion and reinfusion of autologous CATLs in dogs with DLBCL receiving CHOP chemotherapy and APAVAC&#xae; vaccination are feasible and induce robust T-cell expansion, suggesting this combined chemo-immunotherapeutic approach may enhance anti-tumor immunity and warrants further investigation in larger clinical studies.",
+      "categories": [
+        "oncology"
+      ]
+    },
+    {
+      "pmid": "43062029",
+      "title": "Correction to: Analytical and clinical agreement between the Siemens Immulite 2000 veterinary cortisol and standard cortisol assays in canine serum.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "",
+      "date": "2026 11 20",
+      "dateObject": "2026 11 20",
+      "abstract": "",
+      "categories": []
+    },
+    {
+      "pmid": "43062028",
+      "title": "Correction to: ACVIM consensus statement on the treatment of immune thrombocytopenia in dogs and cats.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "",
+      "date": "2026 11 20",
+      "dateObject": "2026 11 20",
+      "abstract": "",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "43058768",
+      "title": "Occurrence of Toxocara spp. in companion animals and serological evidence of human exposure at the human-companion animal interface in Giza, Egypt.",
+      "journal": "BMC Veterinary Research",
+      "authors": "Gouda MA, Shalaan FH, Seleem AA, Anwer AZ, Bakry NM",
+      "date": "2026 11 20",
+      "dateObject": "2026 11 20",
+      "abstract": "Toxocariasis, caused by Toxocara spp., is one of the most neglected zoonotic parasitic diseases worldwide. In Egypt, integrated One Health studies investigating human, animal, and occupational risk factors remain limited. This study aimed to determine the prevalence of zoonotic Toxocara spp. in companion animals and to identify associated risk factors within a One Health framework. A cross-sectional study was conducted in Giza, Egypt, including dogs (n&#x2009;=&#x2009;70) and cats (n&#x2009;=&#x2009;35) from animal shelters and veterinary clinics, eosinophilic children (n&#x2009;=&#x2009;227), and shelter workers (n&#x2009;=&#x2009;22). Animal fecal samples were examined microscopically for intestinal parasites, while human serum samples were tested for anti-Toxocara IgG antibodies using enzyme-linked immunosorbent assay (ELISA). Demographic characteristics and potential risk factors were collected through standardized questionnaires. Associations were evaluated using Pearson's Chi-square or Fisher's exact tests, followed by binary logistic regression to estimate odds ratios (ORs) and 95% confidence intervals (CIs). Toxocara canis-like eggs were detected in a percentage of 17.1% in canine cases, with no significant difference in positivity rates regarding sex. In contrast, T. canis positivity rate was significantly correlated with younger age, lack of anthelmintic medication, and concurrent detection of Cystoisospora species. Among the studied eosinophilic children, anti-Toxocara IgG antibodies were detected in 41/227 (18.1%). In the univariable analysis, rural residence was significantly associated with anti-T. canis IgG seropositivity (COR&#x2009;=&#x2009;2.08, 95% CI: 1.00-4.32; P&#x2009;=&#x2009;0.047). Similarly, contact with soil (COR&#x2009;=&#x2009;2.51, 95% CI: 1.17-5.42; P&#x2009;=&#x2009;0.02), consumption of unpurified water (COR&#x2009;=&#x2009;2.80, 95% CI: 1.15-6.82; P&#x2009;=&#x2009;0.02), and interaction with pets (COR&#x2009;=&#x2009;3.19, 95% CI: 1.48-6.87; P&#x2009;=&#x2009;0.002) were significantly associated with anti IgG seropositivity. In the multivariable binary logistic regression model, contact with soil remained significantly associated with anti-T. canis IgG seropositivity (AOR&#x2009;=&#x2009;3.10, 95% CI: 1.17-8.66; P&#x2009;=&#x2009;0.02). Consumption of unpurified water (AOR&#x2009;=&#x2009;2.64, 95% CI: 1.03-6.78; P&#x2009;=&#x2009;0.04) and interaction with pets (AOR&#x2009;=&#x2009;3.60, 95% CI: 1.60-8.10; P&#x2009;=&#x2009;0.002) were also independently associated with seropositivity. In contrast, the association with rural residence was no longer statistically significant after adjustment for the other variables included in the model (AOR&#x2009;=&#x2009;0.55, 95% CI: 0.25-1.17; P&#x2009;=&#x2009;0.12). This study demonstrates substantial exposure to T. canis-like eggs among companion animals and children in Giza, Egypt, highlighting the need for integrated One Health interventions. Regular deworming of pets, public health education, and coordinated veterinary-medical surveillance are recommended to reduce toxocariasis at the human-companion animal interface.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "43062764",
+      "title": "Extended-spectrum &#x3b2;-lactamase-producing Enterobacter hormaechei and Klebsiella pneumoniae isolated from mammary and postoperative wounds in canine oncology patients.",
+      "journal": "Veterinary Research Communications",
+      "authors": "Ferraz CM, Teixeira MM, Dos Santos VB, Lutzke D, da Silva EC, Gutierrez KP, Senhorello ILS, Possebon FS, Sellera FP, Furlan JPR, Rossi GAM",
+      "date": "2026 11 20",
+      "dateObject": "2026 11 20",
+      "abstract": "Extended-spectrum &#x3b2;-lactamase (ESBL)-producing Enterobacterales represent an increasing challenge in small animal medicine due to their limited treatment options and potential for dissemination in clinical settings. Although ESBL-positive Enterobacterales are increasingly recognized in dogs, their detection and clinical significance among dogs with cancer remain poorly investigated. Herein, we report the detection and genomic characterization of three ESBL-producing isolates recovered from wound samples of two dogs with neoplastic diseases. One Enterobacter hormaechei isolate was recovered from an ulcerated mammary tumor, whereas another E. hormaechei isolate and a Klebsiella pneumoniae isolate were recovered from a postoperative wound following thoracic nodulectomy. All three isolates were classified as multidrug-resistant and belonged to clinically relevant sequence types: E. hormaechei sequence type (ST) 114 and ST133, and K. pneumoniae ST11. All isolates carried bla CTX-M-15 , while K. pneumoniae ST11 additionally harbored bla CTX-M-8 . Genomic analyses also identified multiple virulence-associated determinants, including siderophore-associated genes in E. hormaechei ST133. To the best of our knowledge, this represents the first published report of E. hormaechei ST133 in a dog. These findings highlight the detection of clinically relevant ESBL-producing lineages in canine oncology patients and reinforce the importance of microbiological surveillance and antimicrobial susceptibility testing in veterinary practice.",
+      "categories": [
+        "internalMedicine",
+        "oncology",
+        "surgery",
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42786780",
+      "title": "Surgical management of type I atresia ani using Heineke-Mikulicz-like anoplasty: A case series of 11 kittens (2022-2025).",
+      "journal": "Journal of Feline Medicine and Surgery",
+      "authors": "Berlemont L, Bondonny L, Massinon J, Chanoit G, Taroni M, Ferrand FX",
+      "date": "2026 11 20",
+      "dateObject": "2026 11 20",
+      "abstract": "Type I atresia ani is rare in cats, and there is limited published data on the surgical management and prognosis of this condition in feline patients. Appropriate surgical planning requires thorough examination of the rectum, anus, and perineum to accurately diagnose atresia ani and rule out the presence of a rectovaginal or rectourethral fistula. Type I atresia may be treated with balloon dilatation or bougienage but there may be recurrence, and several procedures may be required before complete resolution of the stenosis. The objective of this retrospective case series was to describe, for the first time, the clinical application and postoperative outcomes of a Heineke-Mikulicz-like anoplasty technique in kittens with type I atresia ani. The surgical technique was adapted from the Heineke-Mikulicz anoplasty technique described in humans. In total, 11 cats with a mean age of 12.3 weeks (range 8-20) were included in this study. Heineke-Mikulicz-like anoplasty was performed in all cases without intraoperative complications. Major postoperative complications occurred in 1/11 (9%) case, with wound dehiscence 2 days after surgery. However, complete healing was achieved after revision surgery. At long-term follow-up over 13.6 months (range 6-24), no recurrence was reported in 11/11 (100%) cases. Although permanent fecal incontinence was reported in 1/11 (9%) cat, long-term outcomes were excellent in 9/11 (81%) cats. These data suggest that Heineke-Mikulicz-like anoplasty is appropriate for the management of type I atresia ani in cats.",
+      "categories": [
+        "surgery",
+        "dermatology"
+      ]
+    },
     {
       "pmid": "43055506",
       "title": "Evaluation of urine clusterin and cystatin B concentrations in relation to histopathologic findings of renal disease in dogs.",
@@ -24,6 +98,32 @@
       "categories": [
         "surgery",
         "neurology"
+      ]
+    },
+    {
+      "pmid": "43056865",
+      "title": "Intracameral lidocaine-epinephrine has minimal effect on heart rate and blood pressure and is an effective sole mydriatic during phacoemulsification in dogs.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Pumphrey SA, Gibson LK, Maggio F, Lindsey J, Wetmore LA",
+      "date": "2026 11 19",
+      "dateObject": "2026 11 19",
+      "abstract": "To investigate heart rate (HR) and rhythm, blood pressure (BP), and pupil diameter in dogs that received intracameral (IC) preservative-free lidocaine-epinephrine (ILE) as a sole mydriatic agent during phacoemulsification. Records were retrospectively reviewed for HR and BP data and anesthesia concerns following administration of ILE during cataract surgery (IC group, 130 eyes from 83 dogs). Similar data were obtained for a control group undergoing phacoemulsification that received topical mydriatics (topical treatment [TT] group, 40 eyes from 21 dogs). Pupil diameter was measured prospectively following administration of ILE in an additional 20 eyes from 11 dogs. Average baseline HR was 13 beats/min higher in the TT group than in the IC group for both eyes operated (P &#x2264; .04). Heart rate increased more from baseline in the IC group than in the TT group at 15 and 20 minutes after administration, but the difference was not clinically significant (average of 4 beats/min). Changes in BP were minimal and did not differ between groups. No significant arrhythmias or other anesthetic complications were noted in either group. Mean pupil diameter was 11.3 mm (95% CI, 11, 11.6) immediately following ILE administration and 11.8 mm (95% CI, 11.5, 12.1) at the conclusion of surgery. ILE produced adequate, durable mydriasis when used as a sole mydriatic in canine eyes undergoing phacoemulsification. Intracameral lidocaine-epinephrine does not appear to affect cardiovascular parameters when administered during phacoemulsification in dogs. ILE is a reasonable mydriatic choice for canine phacoemulsification.",
+      "categories": [
+        "cardiology",
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "43056857",
+      "title": "Evaluation of the efficacy of extended-release buprenorphine (Ethiqa XR) using objective gait analysis in dogs.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Tiffinger K, Benito de la Vibora J, Hall A, Hall N, Taylor R, Enomoto H, Love KR, Mishra SK, Lascelles BDX, Enomoto M",
+      "date": "2026 11 19",
+      "dateObject": "2026 11 19",
+      "abstract": "To evaluate the efficacy of an extended-release formulation of buprenorphine HCl (XR-Bup) using objective gait analysis in a canine stifle arthrotomy model. We hypothesized that a single SC injection of XR-Bup would reduce postoperative pain and improve limb function. In a randomized, blinded, placebo-controlled crossover study design, 8 purpose-bred Beagles underwent 2 unilateral stifle arthrotomies, randomized to XR-Bup for 1 procedure and placebo for the other, separated by a washout period. Kinetic and static ground reaction force data were collected at baseline (pretreatment) and multiple time points up to 72 hours after arthrotomy. Symmetry indices were calculated for ground reaction force variables and compared between groups using a repeated-measures analysis. Overall, symmetry indices of static body weight distribution (%BWdistrib) showed significantly greater limb use symmetry following XR-Bup compared to placebo. There was significant time and treatment interaction (P = .025) for %BWdistrib to the operated limb, with %BWdistrib approaching baseline levels more quickly when treated with XR-Bup. Similarly, kinetic variables demonstrated higher limb use in the XR-Bup group, although the treatment effects were not significant. All dogs experienced nausea and hyporexia/anorexia after XR-Bup over 72 hours. Vomiting occurred in 6 of 9 and regurgitation was observed in 8 of 9 arthrotomy cases. XR-Bup treatment was associated with greater limb usage (static and dynamic) at all time points, with data indicating effective pain alleviation in a small cohort of dogs. Although Ethiqa XR may be an alternative option for postoperative pain control, its clinical utility at the dose evaluated in this study may be limited by the occurrence of adverse events.",
+      "categories": [
+        "internalMedicine",
+        "surgery"
       ]
     },
     {
@@ -2062,32 +2162,6 @@
       ]
     },
     {
-      "pmid": "42575151",
-      "title": "Tendotonometry allows noninvasive in vivo biomechanical evaluation of the patellar tendon in sedated dogs in a study assessing intrauser variability.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Caturay KC, Amato NS, Stewart SD, Khanna C, Wilson-Robles H, Schmidt DM, Roske MT, Schulz K",
-      "date": "2026 10 30",
-      "dateObject": "2026 10 30",
-      "abstract": "To describe the use and determine the feasibility and user reliability of a commercially available digital palpation device, a myotonometer, on the canine patellar tendon (PT). In this prospective clinical feasibility study, client-owned dogs with no history of pelvic limb lameness were eligible for study enrollment from September through December of 2025 and included if their stifles were considered normal based upon physical examination and radiographic findings. Dogs were sedated, and a myotonometer was used to measure tone, stiffness, elasticity, relaxation, and creep of the PT. For each PT, a single user obtained 2 measurement series consisting of 5 individual measurements. 20 dogs were enrolled, and 400 total tendotonometric measurements were collected. No adverse events were observed. There were no statistically significant differences for any of the 5 biomechanical parameters between series within each side nor between left and right groups. There was good to excellent intraobserver repeatability between series and moderate to poor repeatability between sides. This clinical study demonstrated feasible myotonometer use as a novel method to obtain biomechanical data for the canine PT in a cohort of sedated dogs with normal stifles. This study introduces tendotonometry into the clinical setting as a novel modality for in vivo evaluation of orthopedic soft tissues using the PT as a test case. Beyond the canine PT, future tendotonometry studies may allow for the generation of noninvasive, rapid, and objective biomechanical data in tendon repair and healing, soft tissue reconstruction for orthopedic conditions, and treatment response in neuromuscular disorders.",
-      "categories": [
-        "surgery"
-      ]
-    },
-    {
-      "pmid": "42567185",
-      "title": "Transcatheter arterial embolization for massive hepatocellular carcinoma in 18 dogs (2020-2025).",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Kadowaki K, Nishimura S, Toyoda A, Yamamoto R",
-      "date": "2026 10 30",
-      "dateObject": "2026 10 30",
-      "abstract": "To report tumor response, complications, outcomes, and extrahepatic collateral arterial supply presence in dogs with massive hepatocellular carcinoma (HCC) treated with transcatheter arterial embolization (TAE). 18 dogs diagnosed with massive HCC. All dogs underwent contrast-enhanced CT and pretreatment histopathologic confirmation by laparoscopic biopsy (n = 1) or ultrasound-guided needle core biopsy (17). Tumor response was assessed using percentage of change in tumor volume on CT before TAE and 1 to 3 months after TAE. Post-TAE tumor response was classified as partial response in 9 of 18 (50.0%), stable disease in 6 of 18 (33.3%), and progressive disease in 1 of 18 (5.6%). Two dogs (11.1%) died within 2 weeks after TAE. The median percentage of change in tumor volume, excluding those 2 dogs, was -32.6%. Extrahepatic collateral arterial supplies to tumors were identified in 13 of 18 (72.2%), including the gastroepiploic (22.2%), right phrenic (22.2%), left phrenic (27.8%), pancreatic (16.7%), and mesenteric (5.6%) arteries. Collateral supply from 2 and 3 vessels was observed in 3 of 18 (16.7%) and 1 of 18 (5.6%), respectively; second TAE was performed in 2 of 18 (11.1%) and hepatic lobectomy after TAE in 4 of 18 (22.2%) cases. Postoperative complications included mild diarrhea (77.8%), anorexia (61.1%), mild anemia (16.7%), and acute gallbladder infarction (11.1%) etc. Both cases of gallbladder infarction were asymptomatic with good clinical outcomes. Median survival time was 447 days, including all 18 dogs. Transcatheter arterial embolization achieved disease control in most dogs and often involved extrahepatic collaterals. TAE may be a useful option in selected dogs with massive HCC.",
-      "categories": [
-        "internalMedicine",
-        "oncology",
-        "surgery"
-      ]
-    },
-    {
       "pmid": "42958886",
       "title": "Treatment of Refractory Vomiting With Traditional Chinese Veterinary Medicine in Two Dogs and a Cat: A Cases Series.",
       "journal": "Veterinary Medicine and Science",
@@ -2133,45 +2207,6 @@
       "abstract": "Videofluoroscopic swallow studies (VFSS) are the criterion standard for diagnosing dysphagia in veterinary species. However, a lack of normative swallowing variables in cats hinders assessment of cats with potential aerodigestive disease. Species variation in swallowing could lead to over- and under-interpretation of findings on VFSS, resulting in misdiagnosis. Compare differences in objective swallowing metrics between cats and dogs using VFSS. We hypothesize that cats will show differences in objective swallowing metrics on VFSS compared with dogs. Healthy adult cats (n&#xa0;=&#xa0;13) and dogs (n&#xa0;=&#xa0;12) without clinical signs (CS) of respiratory or alimentary disease. Prospective, cross-sectional study. Cats and dogs underwent standardized VFSS. All were evaluated according to 16 objective metrics and compared between species. Between group comparisons were made using Mann-Whitney-U, T-test, or Fischer's exact test with a P&#xa0;<&#xa0;.05 significance level for all comparisons. Cats had significantly longer inter-swallow intervals, shorter pharyngeal transit times, and more pharyngeal swallows to generate primary peristalsis compared with dogs (P&#xa0;<&#xa0;.05). Cats were also more likely to have esophageal volume accumulation and slowing of distal esophageal transit time compared with dogs (P&#xa0;<&#xa0;.05). Physiologic reflux was identified in 2 (15.4%) cats vs 6 (50%) dogs. Pathologic penetration-aspiration (P-A score: 7; aspiration without attempt to cough) was found in 1 cat despite a lack of respiratory or alimentary CS. Species variation should be considered when interpreting VFSS. In 1 cat, occult tracheal aspiration of contrast (P-A score 7) was detected without accompanying cough.",
       "categories": [
         "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42955826",
-      "title": "Multimodal imaging characteristics and case management of intraspinal Spirocerca lupi infection in a dog.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Carrillo AJ, Grosso FRV, Walden HDS, Alas O, Garcia GA",
-      "date": "2026 10 29",
-      "dateObject": "2026 10 29",
-      "abstract": "A 1-year-old female spayed mixed breed dog was ambulatory with paraparesis and proprioceptive ataxia, absent conscious proprioception in pelvic limbs, and spinal pain with a T3-L3 neurolocalization on presentation. Thoracic radiographs revealed caudal mediastinal mass, pneumothorax, and pleural effusion. Magnetic resonance imaging revealed multiple mediastinal masses with vertebral canal extension, extradural compression at T5-T6, intramedullary T2 hyperintensities at T5 and T9, esophageal compression and dilation, and aortic aneurysmal dilation. Transdiaphragmatic ultrasonography was suggestive of parasitic involvement. A right T5-T8 hemilaminectomy and parasitology confirmed Spirocerca lupi. Treatment with ivermectin (400 mcg/kg SC q24h for 3&#xa0;days followed by once a week for 6&#xa0;weeks), prednisone (0.7&#xa0;mg/kg/day), and clindamycin (10.7&#xa0;mg/kg PO q12h) was initiated. Recovery of independent ambulation occurred 2 months after treatment. Computed tomography revealed resolution of mediastinal and esophageal nodules with progressive aortic aneurysmal dilation. Multimodal imaging was essential for the management of spinal spirocercosis.",
-      "categories": [
-        "cardiology",
-        "internalMedicine",
-        "neurology"
-      ]
-    },
-    {
-      "pmid": "42955824",
-      "title": "Clinical and serologic variables associated with dissemination and seasonal presentation in dogs with newly diagnosed coccidioidomycosis.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Chittick L, Jaffey JA, Hanzlicek AS, Kreisler R, Rayhel LH, Balaban J, Alcott C, Adams C, Gould AG",
-      "date": "2026 10 29",
-      "dateObject": "2026 10 29",
-      "abstract": "Disseminated coccidioidomycosis in dogs is associated with substantial morbidity, yet distinguishing pulmonary from disseminated disease can be clinically challenging. Antibody serology might assist in predicting dissemination, but its performance across disease sites requires clarification. To identify clinical and serologic variables associated with disseminated coccidioidomycosis and to evaluate differences in antibody magnitude among common sites of infection. Two hundred fourteen client-owned dogs with newly diagnosed coccidioidomycosis. Retrospective study. Anti-Coccidioides spp. immunoglobulin (Ig)G was measured by enzyme immunoassay (EIA) and agar gel immunodiffusion (AGID) at a reference laboratory. Disease was classified as pulmonary in 148/214 (69%) and disseminated in 66/214 (31%). Higher EIA IgG concentration and AGID IgG titer were independently associated with dissemination. Enzyme immunoassay discriminated disseminated from pulmonary disease well (area under the curve [AUC]: 0.81; 95% confidence interval [CI], 0.74-0.87), estimate likely representing an upper bound because serology contributed to case classification. Agar gel immunodiffusion performance was not statistically distinguishable (AUC: 0.74; 95% CI, 0.67-0.82; P&#xa0;=&#xa0;.65). Exploratory cutpoints included an EIA IgG threshold of 37 enzyme immunoassay units (sensitivity 86%, specificity 63%) and an AGID IgG threshold of &#x2265;1:32 (sensitivity 48%, specificity 86%). Pulmonary diagnoses were least common in spring and peaked in late fall and winter. Coccidioidal IgG serology might provide clinically useful adjunctive information when assessing dogs for disseminated coccidioidomycosis. However, overlap in serologic results between disease phenotypes precludes the use of serology alone to determine disease extent. Serologic results should therefore be interpreted alongside clinical findings and appropriate diagnostic evaluation.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42955823",
-      "title": "Utility of the ACTH/cortisol ratio for differentiating pituitary microadenomas from macroadenomas in dogs with pituitary-dependent hypercortisolism.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "Stylianou G, Vassallo F, Nishii N, Diana A, Tardo AM, Del Baldo F, Fracassi F",
-      "date": "2026 10 29",
-      "dateObject": "2026 10 29",
-      "abstract": "No simple, blood-based biomarker to estimate tumor size in dogs with pituitary-dependent hypercortisolism (PDH) has been evaluated. Determine whether the adrenocorticotropic hormone (ACTH)/cortisol ratio differentiates pituitary microadenomas from macroadenomas in dogs with PDH and correlates with pituitary size. Seventy privately-owned dogs with PDH (microadenomas, n&#xa0;=&#xa0;30; macroadenomas, n&#xa0;=&#xa0;40). Retrospective multicenter observational study. Endogenous ACTH and cortisol concentrations obtained at the same time point before treatment were used to calculate the ACTH/cortisol ratio. Pituitary tumor size was classified using the pituitary-to-brain (P/B) ratio. Diagnostic performance was evaluated using receiver operating characteristic analysis and multivariable logistic regression. Dogs with macroadenomas had significantly higher ACTH/cortisol ratios than dogs with microadenomas (median, 9.12; IQR, 6.46-14.28 vs median, 4.90; IQR, 3.08-8.10; P&#xa0;<&#xa0;.001). The ratio showed moderate discrimination for differentiating macroadenomas from microadenomas with an area under the curve of 0.77 (95% CI, 0.66-0.89; P&#xa0;<&#xa0;.001). A cutoff >5.69 yielded 85% sensitivity and 60% specificity (positive likelihood ratio 2.13), whereas a higher ratio&#xa0;>11.74 achieved 90% specificity and 35% sensitivity (positive likelihood ratio 3.50). The ACTH/cortisol ratio showed moderate positive correlation with pituitary size (Spearman's &#x3c1;&#xa0;=&#xa0;0.48; 95% CI, 0.26-0.64; P&#xa0;<&#xa0;.001) and remained independently associated with macroadenoma classification in multivariable analysis (OR, 1.19; 95% CI, 1.05-1.40). The ACTH/cortisol ratio is associated with pituitary tumor size in dogs with PDH and may support clinical risk stratification, particularly when advanced imaging is unavailable.",
-      "categories": [
-        "oncology",
-        "neurology"
       ]
     },
     {
@@ -2279,18 +2314,6 @@
       "dateObject": "2026 10 27",
       "abstract": "The aim of this study is to evaluate whether contrast-enhanced computed tomography (CECT) provides clinically useful information beyond Plain computed tomography (PCT) in cats with head trauma, and whether this benefit is influenced by the radiologist's level of experience. Forty-one cats that underwent head CT with both pre- and post-contrast sequences were included. Images were independently reviewed by three radiologists with different experience levels, assessing extracranial soft tissue injuries, bone fractures, and intracranial abnormalities. Intra- and interobserver agreements were analyzed using Cohen's kappa statistics. Substantial to almost perfect agreement was obtained for extracranial soft tissue injuries and bone fractures. The most commonly fractured sites were the temporomandibular joints, hard palate, mandibular bones, and pterygoid bones. For intracranial lesions such as hemorrhage and cerebral edema, intra- and interobserver agreements were low and variable, regardless of contrast use or reviewer experience. There was no significant difference found between PCT and CECT for any of the three categories. These results suggest that contrast medium injection is not useful for assessment of bone fractures and extracranial soft tissue and that computed tomography of the head is poorly reliable for intracranial lesions in cats presented for trauma.",
       "categories": []
-    },
-    {
-      "pmid": "42935475",
-      "title": "Feline viral infections: current perspectives on diagnosis, treatment and prevention.",
-      "journal": "Journal of Feline Medicine and Surgery",
-      "authors": "Hosie MJ",
-      "date": "2026 10 27",
-      "dateObject": "2026 10 27",
-      "abstract": "",
-      "categories": [
-        "internalMedicine"
-      ]
     },
     {
       "pmid": "42944220",
@@ -2745,18 +2768,6 @@
       ]
     },
     {
-      "pmid": "42853324",
-      "title": "Management of volumetric muscle loss in a dog using bioactive glass-alginate-cellulose composite and a transpositional flap: a case report.",
-      "journal": "Veterinary Research Communications",
-      "authors": "Z&#x103;voi A, Ablassmaier T, Pop B, Mure&#x219;an &#x218;, Negoescu A, Lucaci F, Purdoiu R, Feraru A, Magyari K, Bel L, Dragomir M, Oana L, Taulescu M, Dreanc&#x103; A",
-      "date": "2026 10 09",
-      "dateObject": "2026 10 09",
-      "abstract": "This case report describes the management of a complex volumetric muscle loss (VML) injury in a 3-year-old mixed-breed dog following severe trauma to the right forelimb, which resulted in extensive multi-muscle defects that were unsuitable for primary closure. After initial stabilization and surgical debridement, reconstruction was achieved using a transpositional flap, while a gold nanoparticles-bioactive glass-alginate-cellulose (BGAuSP-Alg-MCC) composite was implanted to fill the dead space and support tissue regeneration. Postoperative healing was evaluated through clinical follow-up, computed tomography performed immediately and at 1 and 3 months postoperatively, as well as histological and immunohistochemical analyses. Imaging demonstrated progressive integration of the biomaterial, restoration of tissue density comparable to adjacent muscle, and absence of major complications. Histological evaluation demonstrated moderate inflammation and granulation tissue formation, containing numerous blood capillaries (neoangiogenesis), confirmed by CD31 and &#x3b1;-Smooth muscle actin (SMA) immunolabelling. Functional recovery was favorable, with preserved limb mobility and normal gait. These findings provide preliminary evidence of local biocompatibility and support the feasibility of incorporating the BGAuSP-Alg-MCC composite into a multimodal surgical management approach for extensive volumetric muscle loss in canine patients.",
-      "categories": [
-        "surgery"
-      ]
-    },
-    {
       "pmid": "42851581",
       "title": "Developmental lung disease with associated pulmonary hypertension in a Sphynx kitten.",
       "journal": "JFMS Open Reports",
@@ -2851,18 +2862,6 @@
       "date": "2026 09 26",
       "dateObject": "2026 09 26",
       "abstract": "Feline infectious peritonitis (FIP), caused by feline infectious peritonitis virus (FIPV), is a systemic disease affecting multiple organs. Although routine biochemical parameters are not diagnostic, they may aid in clinical suspicion. The aim of this study was to investigate the clinical utility of the De Ritis ratio (AST/ALT) and liver-type fatty acid-binding protein (L-FABP) as candidate biomarkers of liver-associated biochemical alterations in cats with effusive FIP. A total of 47 client-owned cats naturally infected with feline coronavirus (FCoV) were included: 37 cats with suspected effusive FIP (thoracic effusion, n = 14; abdominal effusion, n = 23) and 10 FCoV-positive asymptomatic cats as controls. FIPV infection was confirmed by RT-PCR of thoracic or abdominal effusion samples in all cats with suspected effusive FIP. Control cats were clinically healthy, FCoV-positive by fecal RT-PCR, and had no evidence of FIPV infection. The De Ritis ratio was significantly higher in cats with abdominal effusive FIP than in asymptomatic FCoV-positive controls and demonstrated excellent discriminatory performance for identifying abdominal effusive FIP (AUC = 0.843) and effusive FIP overall (AUC = 0.808). Although serum L-FABP concentrations did not differ significantly between groups, ROC analysis demonstrated acceptable-to-excellent discriminatory performance for cats with effusive FIP (AUC = 0.730-0.854), suggesting complementary rather than standalone clinical utility. These findings suggest that the De Ritis ratio may represent a supportive indicator of liver-associated biochemical alterations in cats with effusive FIP, whereas the clinical utility of L-FABP remains preliminary and warrants further clinical validation.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42786467",
-      "title": "Taeniid infection in dogs: a coprological and knowledge, attitude and practices study in Gondar and Bahir Dar cities, Ethiopia.",
-      "journal": "BMC Veterinary Research",
-      "authors": "Yayeh M, Birhan M, Ayalew A, Menigstu A",
-      "date": "2026 09 25",
-      "dateObject": "2026 09 25",
-      "abstract": "The zoonotic cestodes such as Taenia and Echinococcus species belonging to family taeniidae are of paramount importance in the developing world since they pose serious public health impacts. Dogs serve as definitive hosts, shedding eggs into the environment that can infect livestock and humans. To determine the occurrence of Taeniid infections in dogs, assess the risk factors and evaluate the knowledge, attitudes, and practices (KAP) of dog owners. A cross-sectional study was conducted from September 2025 to February 2026 in Bahir Dar and Gondar cities, Ethiopia. A total of 424 dog fecal samples were collected, and standard fecal flotation techniques were used to examine the eggs. Structured questionnaires were used to gather information on host, management, and owner-related factors. Data were analyzed using chi-square tests and logistic regression in Stata 17, with P&#x2009;<&#x2009;0.05 considered significant. The overall prevalence of taeniid infections was 29.5%, with dogs showing clinical signs such as diarrhea and proglottids in the feces having the highest infection rates (81.1%). Chi-square analysis revealed significant associations with age, sex, clinical signs, roaming behavior, feeding patterns, and owner knowledge. Multivariate analysis confirmed that old age (AOR&#x2009;=&#x2009;2.8, P&#x2009;=&#x2009;0.024), female sex (AOR&#x2009;=&#x2009;0.43, P&#x2009;=&#x2009;0.007), clinical signs (AOR&#x2009;=&#x2009;25.9, P&#x2009;=&#x2009;0.001), free-roaming behavior (AOR&#x2009;=&#x2009;0.05, P&#x2009;=&#x2009;0.001), and inadequate owner knowledge (AOR&#x2009;=&#x2009;0.38, P&#x2009;=&#x2009;0.029) as independent risk factors. The study found that taeniid infections were common in dogs in Bahir Dar and Gondar. The main predictors were age, sex, clinical symptoms, free-roaming behavior, and a lack of owner knowledge. To lower the risk of taeniid infection in the study areas, integrated control measures like routine deworming; responsible dog management, public education, and appropriate offal disposal were suggested.",
       "categories": [
         "internalMedicine"
       ]

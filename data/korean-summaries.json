@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T02:24:07.367Z",
+  "updated_at": "2026-11-21T02:18:47.290Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -9151,6 +9151,46 @@
       "title": "Evaluation of urine clusterin and cystatin B concentrations in relation to histopathologic findings of renal disease in dogs.",
       "journal": "Journal of Veterinary Internal Medicine",
       "generated_at": "2026-11-20T02:20:38.618Z",
+      "model": "gpt-5-mini"
+    },
+    "43056857": {
+      "brief_summary": "목적: 단회 피하 주사한 장기간 지속형 부프레노르핀 HCl(extended-release buprenorphine, XR-Bup; 상품명 Ethiqa XR)의 효과를 개의 슬관절(스티플) 절개 모델에서 객관적 보행 분석으로 평가함. 결과: XR-Bup 투여 시 정적 체중 분포(%BWdistrib) 대칭성이 위약보다 유의하게 향상되었고(%BWdistrib의 시간×처리 상호작용 P = .025), 동적(운동학적) 지표도 전반적으로 더 높은 사지 사용을 보였으나 치료 효과는 유의하지 않았음. 임상적 의미: 소규모 코호트에서 통증 완화와 사지 사용 증가를 시사하나, 모든 개에서 메스꺼움·식욕저하가 관찰되고 구토(6/9), 역류(8/9)와 같은 부작용이 많아 본 연구에서 평가한 용량의 임상적 유용성은 제한될 수 있음.",
+      "detailed_summary": "연구설계는 무작위·맹검·플라시보 대조 교차 시험으로, 8마리의 실험용 비글이 각자 두 번의 단측 슬관절 절개술을 받았고 한 번에는 XR-Bup, 다른 한 번에는 플라시보가 투여되었으며 세척기간을 두었음. 평가방법은 기저(투여 전)와 수술 후 최대 72시간까지 정적·동적 지면반력(ground reaction force, GRF) 데이터를 수집하고 대칭지수(symmetry indices)를 산출하여 반복측정 분석으로 비교함. 주요 결과는 정적 체중 분배(%BWdistrib) 대칭성이 XR-Bup 투여군에서 플라시보보다 유의하게 높았고, %BWdistrib이 XR-Bup에서 더 빨리 기저 수준에 근접했다는 점으로(time×treatment 상호작용 P = .025) 설명됨. 동적(운동학적) 변수들도 XR-Bup군에서 전반적으로 더 높은 사지 사용을 보였으나 이러한 치료 효과는 통계적으로 유의하지 않았음. 안전성 결과로는 모든 개에서 72시간 동안 메스꺼움과 저식/무식욕이 관찰되었고, 초록에 보고된 바에 따르면 구토는 6/9, 역류는 8/9 증례에서 발생함. 결론적으로 Ethiqa XR(XR-Bup)은 이 소규모 집단에서 통증 완화 및 사지 사용 증가를 보였으나, 본 연구에서 평가한 용량에서는 잦은 위장관계 이상 반응으로 인해 임상적 적용에 제한이 있을 수 있다는 제한점을 명시함.",
+      "title": "Evaluation of the efficacy of extended-release buprenorphine (Ethiqa XR) using objective gait analysis in dogs.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-11-21T02:18:47.269Z",
+      "model": "gpt-5-mini"
+    },
+    "43056865": {
+      "brief_summary": "개에서의 백내장 수술(초음파유화술) 중 보존제 없는 안방내(intracameral) 리도카인-에피네프린(ILE)을 단독 미드리아틱으로 사용했을 때 심박수(HR)와 혈압(BP)에 미치는 영향은 최소였고 효과적인 산동을 제공했다. 연구는 ILE 군(130안, 83마리)과 국소 점안 미드리아틱을 사용한 대조군(TT, 40안, 21마리)을 포함했다. 평균 동공 직경은 ILE 투여 직후 11.3 mm(95% CI 11.0–11.6), 수술 종료 시 11.8 mm(95% CI 11.5–12.1)로 임상적으로 충분한 산동을 유지했다.",
+      "detailed_summary": "본 연구는 수술 중 ILE 투여에 따른 심박수(HR), 리듬, 혈압(BP) 및 동공 직경을 평가한 후향적 검토와 추가 전향적 동공 측정을 결합한 연구이다. HR/BP 및 마취 합병증 자료는 ILE 군(130안, 83마리)과 국소 미드리아틱을 사용한 TT 군(40안, 21마리)의 기록을 후향적으로 검토해 얻었고, 동공 직경은 추가로 11마리 20안에서 전향적으로 측정했다. 기저 심박수는 TT 군이 IC(ILE) 군보다 평균 13 bpm 높았고(P ≤ .04), ILE 군에서 투여 15분 및 20분 후 기저 대비 HR 상승이 더 컸으나 평균 4 bpm으로 임상적 의미는 없었다. 혈압 변화는 미미했고 그룹 간 차이는 없었으며 유의한 부정맥이나 기타 마취 관련 합병증은 양군 모두에서 관찰되지 않았다. 동공 직경은 ILE 투여 직후 평균 11.3 mm(95% CI 11.0–11.6), 수술 종료 시 11.8 mm(95% CI 11.5–12.1)로 보고되었다. 결론적으로 ILE는 개의 백내장 수술에서 단독 미드리아틱으로서 충분한 지속적 산동을 제공했으며, 수술 중 심혈관계 파라미터에 뚜렷한 영향을 주지 않는 것으로 보인다.",
+      "title": "Intracameral lidocaine-epinephrine has minimal effect on heart rate and blood pressure and is an effective sole mydriatic during phacoemulsification in dogs.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-11-21T02:18:31.806Z",
+      "model": "gpt-5-mini"
+    },
+    "43058768": {
+      "brief_summary": "이 연구는 이집트 기자(Giza)에서 개(70마리)·고양이(35마리)와 호산구증가 아동(227명), 보호소 직원(22명)을 대상으로 One Health 관점에서 Toxocara spp. 노출을 평가했다. 개 분변에서 Toxocara canis 유사 알이 17.1%로 검출되었고, 아동에서는 항-Toxocara IgG 양성이 41/227(18.1%)이었다. 아동의 항체 양성은 토양 접촉, 정수되지 않은 물 섭취, 반려동물 접촉과 독립적으로 연관되었으며(예: 토양 접촉 AOR=3.10), 연구는 정기 구충·공중보건 교육·수의·의료 연계 감시를 권고한다.",
+      "detailed_summary": "본 연구는 기자 지역의 동물보호소 및 동물병원에서 수집한 개(70)·고양이(35)의 분변을 현미경 검사하고, 호산구증가 아동(227명)과 보호소 직원(22명)의 혈청을 ELISA로 항-Toxocara IgG를 검사한 횡단적 연구이다. 개 분변에서 T. canis 유사 알이 17.1% 검출되었고, 개의 양성은 연령이 어리고 구충제 미투여 및 Cystoisospora spp. 동시검출과 유의하게 연관되어 있었다. 호산구증가 아동 중 항-Toxocara IgG 양성은 41/227(18.1%)였고, 단변량 분석에서 농촌 거주, 토양 접촉, 정수되지 않은 물 섭취, 반려동물 접촉이 유의했으나 다변량 회귀에서는 토양 접촉(AOR=3.10, 95% CI 1.17–8.66), 정수되지 않은 물 섭취(AOR=2.64, 95% CI 1.03–6.78), 반려동물 접촉(AOR=3.60, 95% CI 1.60–8.10)만 독립적 위험인자로 남았다. 농촌 거주는 보정 후 통계적 유의성이 사라졌다(AOR=0.55, P=0.12). 연구는 사람-반려동물 접점에서 T. canis 유사 노출이 상당함을 보여주며, 초록에서 제시된 권고로는 정기 구충, 공중보건 교육 및 수의·의료 연계 감시가 포함된다. 초록에는 추가적인 한계점 서술이 명시되어 있지 않다.",
+      "title": "Occurrence of Toxocara spp. in companion animals and serological evidence of human exposure at the human-companion animal interface in Giza, Egypt.",
+      "journal": "BMC Veterinary Research",
+      "generated_at": "2026-11-21T02:18:00.255Z",
+      "model": "gpt-5-mini"
+    },
+    "43062764": {
+      "brief_summary": "본 연구는 종양성 질환을 가진 개 환자의 상처에서 분리된 ESBL(extended-spectrum β-lactamase) 생성 Enterobacterales의 검출 및 유전체적 특성 분석을 보고한다. 암성 유방 궤양과 흉부 결절절제술 후 상처에서 총 3개의 ESBL 생성 분리주(Enterobacter hormaechei 2주, Klebsiella pneumoniae 1주)를 확인하였고, 모두 다제내성으로 blaCTX-M-15를 보유했으며 K. pneumoniae는 추가로 blaCTX-M-8을 보유했다. 이러한 결과는 개 종양 환자에서의 미생물 감시와 항균제 감수성 검사(antimicrobial susceptibility testing, AST)의 필요성을 강조한다.",
+      "detailed_summary": "증례는 종양성 질환을 가진 두 마리의 개에서 상처 표본으로부터 얻은 3개의 ESBL 생성 분리주를 대상으로 하였고, 분리주는 유전체 수준에서 특성화되었다. 한 분리주는 궤양성 유방 종양에서 분리된 Enterobacter hormaechei였고, 나머지 Enterobacter hormaechei 한 주와 Klebsiella pneumoniae 한 주는 흉부 결절절제술 후 수술 상처에서 회수되었다. 모든 분리주는 다제내성(multidrug-resistant)이었고 E. hormaechei는 ST114 및 ST133, K. pneumoniae는 ST11으로 분류되었다. 모든 균주는 blaCTX-M-15 유전자를 보유했으며 K. pneumoniae ST11은 추가로 blaCTX-M-8을 보유하였다. 유전체 분석에서 E. hormaechei ST133에서는 사이더포어 관련 유전자를 포함한 여러 병원성 관련 인자들이 확인되었고, 저자들은 이 사례가 개에서 E. hormaechei ST133이 보고된 최초의 출판 사례로 보인다고 기술했다. 이 결과들은 임상적으로 관련된 ESBL 생성 계통의 검출을 시사하며 수의 임상에서의 미생물 감시와 항균제 감수성 검사의 중요성을 강조하지만, 표본이 두 마리의 증례에 국한되어 있어 일반화하기는 어렵다.",
+      "title": "Extended-spectrum &#x3b2;-lactamase-producing Enterobacter hormaechei and Klebsiella pneumoniae isolated from mammary and postoperative wounds in canine oncology patients.",
+      "journal": "Veterinary Research Communications",
+      "generated_at": "2026-11-21T02:18:16.546Z",
+      "model": "gpt-5-mini"
+    },
+    "43062967": {
+      "brief_summary": "본 파일럿 연구는 자연발생성 diffuse large B-cell lymphoma(DLBCL) 개 7마리를 대상으로 CHOP 기반 항암요법과 APAVAC® 자가종양 백신과 병용한, 체외에서 사이토카인으로 활성화·증식시킨 항종양 림프구(CATLs) 반복주입의 실현가능성과 안전성을 평가했다. 말초혈구 단핵구(PBMC)를 IL-2 및 항-CD3/CD28로 14일간 증식시켜 재주입했으며, 중간 세포수는 728×10^6개(범위 162.4×10^6-1,500×10^6)로 중앙값 8.6배의 증식률을 보였다. CD3+, CD4+, CD5+, CD8+, CD4+CD8+ 세포군 모두에서 유의한 배수 증가가 관찰되었고, 재주입된 CATLs는 162.4×10^6에서 1,500×10^6개 범위였다. 저자들은 이 병용 화학·면역치료 접근법이 T세포 반응을 증강시키며 추가 대규모 임상연구가 필요하다고 결론지었다.",
+      "detailed_summary": "연구 설계는 파일럿 임상 연구로, 자연발생성 DLBCL을 진단받은 반려견 7마리를 대상으로 하였다. 모든 개는 CHOP(시클로포스파미드, 독소루비신, 빈크리스틴, 프레드니손) 기반 항암화학요법과 APAVAC® 자가종양 백신을 병용 투여받았다. 연구자는 말초혈구 단핵구(PBMC)를 IL-2와 항-CD3/CD28 자극하에 14일 동안 체외 증식시켜 CATLs를 제조하고 유세포분석(flow cytometry)으로 특성평가 후 재주입하였다. PBMC는 모두에서 성공적으로 증식되었고, 14일 후 중간 세포수는 728×10^6개(범위 162.4×10^6–1,500×10^6)였으며 중앙값 8.6배의 전체 증식비를 보였다. 표적 마커별 중앙값 증식 배수는 CD3+ 7.23, CD4+ 8.56, CD5+ 8.41, CD8+ 10.35, CD4+CD8+ 16.16이었다. 재주입된 CATLs 수는 개별 증례에서 162.4×10^6에서 1,500×10^6개 범위였고, 연구 결과는 체외 증식 및 자가 CATLs 재주입이 실현 가능하고 강한 T세포 증식을 유도함을 시사한다. 저자들은 본 결과가 항종양 면역을 강화할 가능성을 제시하지만 표본수가 적은 파일럿 연구라는 점에서 더 큰 규모의 임상연구가 필요하다고 명시했다.",
+      "title": "Feasibility and clinical safety of cytokine-activated anti-tumor lymphocytes infusion in dogs with diffuse large B-cell lymphoma: a pilot study.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "generated_at": "2026-11-21T02:17:41.719Z",
       "model": "gpt-5-mini"
     }
   }
