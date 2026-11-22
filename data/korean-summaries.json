@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T02:18:47.290Z",
+  "updated_at": "2026-11-22T01:21:14.609Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -4303,6 +4303,14 @@
       "title": "Dog Breeding in Italy: A Technical Overview of Husbandry and Reproductive Management.",
       "journal": "Veterinary Medicine and Science",
       "generated_at": "2026-09-01T23:24:42.611Z",
+      "model": "gpt-5-mini"
+    },
+    "42633775": {
+      "brief_summary": "본 논문은 전기화학요법(electrochemotherapy, ECT)의 골종양 적응 가능성을 검토하기 위해 전임상 연구, 인간 임상자료 및 제한된 수의학 증례를 통합한 서술적 검토와 원저 4증례를 제시한다. 전임상에서는 골내 종괴의 소작이 가능하며 세포외기질을 보전하면서 골재생이 관찰되었고, 인간 임상자료에서는 통증 완화, 국소 종양 조절 및 허용 가능한 안전성 보고가 있었다. 수의학적 근거는 주로 개별 증례에 국한되어 있어 제한적이며, ECT는 선택된 골종양에서 기능 보존적 대안이 될 가능성이 있으나 전향적 연구가 필요하다고 결론지었다.",
+      "detailed_summary": "연구는 전임상 증거, 인간 임상 데이터 및 수의학 초기 경험을 통합한 서술적 검토(narrative review)이며 여기에 저자들의 원저 4증례(series of 4 cases)를 포함한다. 전임상 연구들은 골내에서 유효한 종양 소작을 보이며 세포외기질(extracellular matrix) 보전과 골조직 재생 가능성을 보고했다. 인간 임상 연구에서는 일관된 통증 경감, 의미 있는 국소 종양 조절 및 허용 가능한 안전성 프로파일을 보고했으며, 방사선치료에 저항한 전이성 추간공(척수 압박)과 같은 복잡한 상황에서도 사례가 포함되었다. 수의학적 근거는 주로 단건 증례보고에 머물러 있고 저자들의 4증례도 초기 경험에 해당하여 표본 수가 작다. 또한 전용 기술의 제한으로 수의학적 적용 근거가 제한적임을 지적한다. 결론은 ECT가 선택된 골종양에서 기능 보존적 대안이 될 수 있음을 시사하나, 임상적 역할을 규정하기 위해서는 전향적 연구가 필요하다는 점을 강조한다. 제한점으로는 서술적 검토의 특성상 근거 수준이 낮고 수의학 데이터가 제한적이라는 점이 명시되어 있다.",
+      "title": "Feasibility of bone-targeted electrochemotherapy for palliation of bone tumors in dogs and cats.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "generated_at": "2026-11-22T01:21:14.583Z",
       "model": "gpt-5-mini"
     },
     "42633780": {
@@ -9191,6 +9199,14 @@
       "title": "Feasibility and clinical safety of cytokine-activated anti-tumor lymphocytes infusion in dogs with diffuse large B-cell lymphoma: a pilot study.",
       "journal": "Journal of Veterinary Internal Medicine",
       "generated_at": "2026-11-21T02:17:41.719Z",
+      "model": "gpt-5-mini"
+    },
+    "43065036": {
+      "brief_summary": "전향적 실험연구에서 10마리의 건강한 비글을 대상으로 컴퓨터단층촬영(CT)과 초음파(US) 융합영상의 공간 정확성, 융합 시간, 영상 품질을 평가했다. 총 60개 중 58개(2개는 위내 가스로 실패)에서 융합에 성공했고 평균 융합 시간은 72.7±30.2초였으며 CT/US 간 위치 차이는 모든 축에서 ≤2 mm로 나타났다. 영상 품질 점수는 모든 항목에서 중앙값 5를 보여 간 시술용 영상유도에 임상적으로 이용 가능성이 있음을 시사한다.",
+      "detailed_summary": "연구는 전향적 실험설계로 10마리의 건강한 비글에서 조영증강 복부 컴퓨터단층촬영(CT) 직후 동일 전신마취 상태에서 재배치 없이 CT/초음파(US) 융합영상을 시행했다. 융합은 중선 아랫배(서브코스탈), 우측 늑간, 좌측 늑간의 세 부위에서 평면 등록과 담낭(GB)을 표적 삼아 세 점 수동 랜드마크 등록으로 수행되었다. 공간 정확성 평가는 CT와 US상의 담낭 경계 간 위치 불일치(횡단면: 좌우·복전후, 시상면: 두측)를 정량화해 이루어졌고, 융합 품질은 담낭 중심·경계, 혈관 정렬, 간 표면 정렬 등 4개 항목을 5점 척도로 평가했다. 통계분석에는 비모수 검정을 사용했으며, 융합 시간은 스캔 부위 간에 유의한 차이를 보이지 않았다. 결과는 계획된 60개 영상 중 58개에서 융합 성공(2건은 위내 가스에 의한 서브코스탈 실패), 평균 융합 시간 72.7±30.2초, 모든 부위·평면에서 CT/US 불일치가 ≤2 mm였고 정성 점수는 모든 항목에서 중앙값 5로 높게 나왔다. 결론적으로 CT/US 융합영상은 빠르고 정확하며 시각적으로 신뢰할 수 있는 간 해부학의 공등록을 제공해 개의 간 시술(영상유도 중재)에 잠재적 이용가치를 지닌다는 점을 제시하였으나, 연구는 건강한 비글을 대상으로 동일 마취·비재배치 조건에서 수행된 실험적 평가라는 점이 중요한 제한점으로 남는다.",
+      "title": "Spatial accuracy and clinical feasibility of CT/US fusion imaging for hepatic interventions in dogs.",
+      "journal": "BMC Veterinary Research",
+      "generated_at": "2026-11-22T01:21:04.176Z",
       "model": "gpt-5-mini"
     }
   }

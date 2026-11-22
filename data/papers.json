@@ -1,6 +1,40 @@
 {
-  "updated_at": "2026-11-21T02:17:27.748Z",
+  "updated_at": "2026-11-22T01:20:48.202Z",
   "papers": [
+    {
+      "pmid": "43062029",
+      "title": "Correction to: Analytical and clinical agreement between the Siemens Immulite 2000 veterinary cortisol and standard cortisol assays in canine serum.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "",
+      "date": "2026 11 21",
+      "dateObject": "2026 11 21",
+      "abstract": "",
+      "categories": []
+    },
+    {
+      "pmid": "43062028",
+      "title": "Correction to: ACVIM consensus statement on the treatment of immune thrombocytopenia in dogs and cats.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "authors": "",
+      "date": "2026 11 21",
+      "dateObject": "2026 11 21",
+      "abstract": "",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "43065036",
+      "title": "Spatial accuracy and clinical feasibility of CT/US fusion imaging for hepatic interventions in dogs.",
+      "journal": "BMC Veterinary Research",
+      "authors": "Lee HW, Lee K, Lee SK",
+      "date": "2026 11 21",
+      "dateObject": "2026 11 21",
+      "abstract": "Computed tomography (CT)-ultrasound (US) fusion imaging is widely used for hepatic interventions in human medicine, but its technical performance has not been evaluated in dogs. This study assessed the spatial accuracy, fusion time, and image quality of CT/US fusion imaging in the canine liver. In this prospective experimental study, ten healthy Beagle dogs underwent contrast-enhanced abdominal CT followed immediately by CT/US fusion imaging under the same general anesthesia without repositioning. Fusion was performed at three scan sites (midline subcostal, right intercostal, and left intercostal) using plane registration and three-point manual landmark registration with the gallbladder (GB) as the target structure. Spatial accuracy was quantified as the positional discrepancy between the CT and US GB margins in transverse (left-right, ventral-dorsal) and sagittal (cranial-caudal) planes. Fusion quality was scored on a 5-point scale for the GB center, GB border, vessel alignment, and liver surface alignment. Statistical analyses were performed using nonparametric tests with a significance threshold. Fusion was successful in 58/60 planned image sets; two subcostal studies failed due to intragastric gas. The mean fusion time was 72.7&#x2009;&#xb1;&#x2009;30.2&#xa0;s and did not differ significantly among scan sites. Across all sites and planes, the mean CT/US discrepancies were &#x2264;&#x2009;2&#xa0;mm. Qualitative scores were uniformly high (median 5 for all criteria) without relevant site- and plane-dependent degradation. CT/US fusion imaging provided rapid, accurate, and visually reliable co-registration of canine liver anatomy, supporting its potential clinical use for image-guided hepatic interventions in dogs.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
     {
       "pmid": "43062967",
       "title": "Feasibility and clinical safety of cytokine-activated anti-tumor lymphocytes infusion in dogs with diffuse large B-cell lymphoma: a pilot study.",
@@ -14,25 +48,133 @@
       ]
     },
     {
-      "pmid": "43062029",
-      "title": "Correction to: Analytical and clinical agreement between the Siemens Immulite 2000 veterinary cortisol and standard cortisol assays in canine serum.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "",
+      "pmid": "43056865",
+      "title": "Intracameral lidocaine-epinephrine has minimal effect on heart rate and blood pressure and is an effective sole mydriatic during phacoemulsification in dogs.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Pumphrey SA, Gibson LK, Maggio F, Lindsey J, Wetmore LA",
       "date": "2026 11 20",
       "dateObject": "2026 11 20",
-      "abstract": "",
-      "categories": []
+      "abstract": "To investigate heart rate (HR) and rhythm, blood pressure (BP), and pupil diameter in dogs that received intracameral (IC) preservative-free lidocaine-epinephrine (ILE) as a sole mydriatic agent during phacoemulsification. Records were retrospectively reviewed for HR and BP data and anesthesia concerns following administration of ILE during cataract surgery (IC group, 130 eyes from 83 dogs). Similar data were obtained for a control group undergoing phacoemulsification that received topical mydriatics (topical treatment [TT] group, 40 eyes from 21 dogs). Pupil diameter was measured prospectively following administration of ILE in an additional 20 eyes from 11 dogs. Average baseline HR was 13 beats/min higher in the TT group than in the IC group for both eyes operated (P &#x2264; .04). Heart rate increased more from baseline in the IC group than in the TT group at 15 and 20 minutes after administration, but the difference was not clinically significant (average of 4 beats/min). Changes in BP were minimal and did not differ between groups. No significant arrhythmias or other anesthetic complications were noted in either group. Mean pupil diameter was 11.3 mm (95% CI, 11, 11.6) immediately following ILE administration and 11.8 mm (95% CI, 11.5, 12.1) at the conclusion of surgery. ILE produced adequate, durable mydriasis when used as a sole mydriatic in canine eyes undergoing phacoemulsification. Intracameral lidocaine-epinephrine does not appear to affect cardiovascular parameters when administered during phacoemulsification in dogs. ILE is a reasonable mydriatic choice for canine phacoemulsification.",
+      "categories": [
+        "cardiology",
+        "surgery"
+      ]
     },
     {
-      "pmid": "43062028",
-      "title": "Correction to: ACVIM consensus statement on the treatment of immune thrombocytopenia in dogs and cats.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "authors": "",
+      "pmid": "43056857",
+      "title": "Evaluation of the efficacy of extended-release buprenorphine (Ethiqa XR) using objective gait analysis in dogs.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Tiffinger K, Benito de la Vibora J, Hall A, Hall N, Taylor R, Enomoto H, Love KR, Mishra SK, Lascelles BDX, Enomoto M",
       "date": "2026 11 20",
       "dateObject": "2026 11 20",
-      "abstract": "",
+      "abstract": "To evaluate the efficacy of an extended-release formulation of buprenorphine HCl (XR-Bup) using objective gait analysis in a canine stifle arthrotomy model. We hypothesized that a single SC injection of XR-Bup would reduce postoperative pain and improve limb function. In a randomized, blinded, placebo-controlled crossover study design, 8 purpose-bred Beagles underwent 2 unilateral stifle arthrotomies, randomized to XR-Bup for 1 procedure and placebo for the other, separated by a washout period. Kinetic and static ground reaction force data were collected at baseline (pretreatment) and multiple time points up to 72 hours after arthrotomy. Symmetry indices were calculated for ground reaction force variables and compared between groups using a repeated-measures analysis. Overall, symmetry indices of static body weight distribution (%BWdistrib) showed significantly greater limb use symmetry following XR-Bup compared to placebo. There was significant time and treatment interaction (P = .025) for %BWdistrib to the operated limb, with %BWdistrib approaching baseline levels more quickly when treated with XR-Bup. Similarly, kinetic variables demonstrated higher limb use in the XR-Bup group, although the treatment effects were not significant. All dogs experienced nausea and hyporexia/anorexia after XR-Bup over 72 hours. Vomiting occurred in 6 of 9 and regurgitation was observed in 8 of 9 arthrotomy cases. XR-Bup treatment was associated with greater limb usage (static and dynamic) at all time points, with data indicating effective pain alleviation in a small cohort of dogs. Although Ethiqa XR may be an alternative option for postoperative pain control, its clinical utility at the dose evaluated in this study may be limited by the occurrence of adverse events.",
       "categories": [
-        "internalMedicine"
+        "internalMedicine",
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42833272",
+      "title": "Clinical outcomes were evaluated in 82 dogs with B-cell lymphoma treated with adoptive T-cell therapy following cyclophosphamide, doxorubicin, vincristine, and prednisone chemotherapy.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Westfall TE, Impellizeri JA",
+      "date": "2026 11 20",
+      "dateObject": "2026 11 20",
+      "abstract": "To describe clinical outcomes and adverse events in dogs with B-cell lymphoma treated with adoptive T-cell therapy (ACT) following cyclophosphamide, doxorubicin, vincristine, and prednisone (CHOP) chemotherapy. Medical records of 82 dogs with B-cell lymphoma that received ACT following CHOP chemotherapy between 2017 and 2025 were retrospectively reviewed. Overall survival was defined as the time from lymphoma diagnosis to death from any cause or last follow-up. Post-ACT survival was defined as the time from first ACT infusion to death from any cause or last follow-up. Time to next anti-lymphoma treatment was defined as the time from first ACT infusion to initiation of subsequent lymphoma-directed therapy. Survival outcomes were estimated using Kaplan-Meier analysis. 82 dogs met inclusion criteria. Median overall survival from diagnosis was 660 days (95% CI, 539 to 781 days). Median post-ACT survival was 368 days (95% CI, 261 to 474 days), and median time to next anti-lymphoma treatment was 317 days (95% CI, 284 to 350 days). Adoptive T-cell therapy was generally well tolerated following CHOP chemotherapy. Adverse events occurred in 5% (4 of 82) of dogs; most were grade 1 or 2, with 1 grade 3 event reported. Clinical outcomes varied among dogs with B-cell lymphoma treated with ACT following CHOP chemotherapy. Adoptive T-cell therapy was generally well tolerated, with adverse events reported in 4 of 82 dogs. This study describes clinical outcomes and adverse events in 82 dogs with B-cell lymphoma that received ACT following CHOP chemotherapy. These findings provide clinical data on the use of ACT in this patient population and may inform the design of prospective controlled studies evaluating ACT in canine B-cell lymphoma.",
+      "categories": [
+        "oncology"
+      ]
+    },
+    {
+      "pmid": "42785358",
+      "title": "Electrochemotherapy achieves high local control of lingual and tonsillar tumors in dogs and cats.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Vizcay J, Portillo F, Sabella T, Diaz M, Impellizeri J, Maglietti F, Tellado M",
+      "date": "2026 11 20",
+      "dateObject": "2026 11 20",
+      "abstract": "To describe local response, progression-free survival (PFS), and overall survival (OS) in dogs and cats with lingual or tonsillar tumors treated with electrochemotherapy (ECT) alone or combined with surgery. Medical records were retrospectively reviewed for dogs and cats with a histologically or cytologically confirmed tumor of the tongue or tonsil treated with ECT alone or combined with surgery, with &#x2265; 1 posttreatment follow-up. Twenty-nine client-owned animals, 7 dogs and 7 cats with lingual tumors and 15 dogs with tonsillar tumors, were included. Response was assessed by modified Response Evaluation Criteria in Solid Tumors; PFS and OS were estimated by Kaplan-Meier analysis. In dogs with lingual tumors, the objective response rate (ORR) was 85.7% (complete response [CR], 71.4%); the median OS was 270 days, with 2 dogs alive at 980 and 1,090 days, and the median PFS was 263 days. In cats with lingual tumors, the ORR was 71.4% (CR, 57.1%), the median OS was 240 days, and all cats died, most of local progression; the median PFS was 215 days. In dogs with tonsillar tumors, the ORR was 80.0% (CR, 66.7%), the median OS was 240 days, and all dogs died, predominantly of pulmonary metastasis; the median PFS was 210 days. ECT can provide high local response rates in dogs and cats with lingual tumors. In dogs with tonsilar tumors, even when high local response rates are achieved, patients die predominantly from distant metastasis, warranting a multimodal treatment approach. ECT achieved high local response rates in all groups. It appears most useful for function-preserving treatment for lingual tumors. The combination with surgery allows treatment of larger tumors than ECT alone. The survival of dogs with tonsillar tumors was limited by metastatic dissemination, supporting a multimodal approach.",
+      "categories": [
+        "oncology",
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "42777771",
+      "title": "Gene electrotransfer for DNA immunotherapy in veterinary oncology: Technical Tutorial Video.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Impellizeri JA, Vigodny A, Sanchez E, Aurisicchio L, Conforti A",
+      "date": "2026 11 20",
+      "dateObject": "2026 11 20",
+      "abstract": "To demonstrate the technique of gene electrotransfer (GET) for administration of plasmid DNA immunotherapy in veterinary oncology. The method demonstrated in the video is relevant to both canine and feline cancer patients undergoing administration of DNA immunotherapies. This Technical Tutorial Video demonstrates patient preparation, IM plasmid administration, electrode positioning, electroporation pulse delivery, and postprocedural assessment for a GET procedure. Required equipment, procedure workflow, and practical technical considerations are reviewed. The video illustrates the general workflow for delivery of plasmid DNA immunotherapy using IM GET under general anesthesia, including patient preparation, plasmid administration, pulse delivery, and patient monitoring. GET is increasingly used in veterinary oncology to facilitate delivery of DNA immunotherapies targeting tumor-associated antigens and immunomodulatory molecules. This tutorial provides a practical overview of the technique.",
+      "categories": [
+        "oncology"
+      ]
+    },
+    {
+      "pmid": "42753794",
+      "title": "Surgical debulking and electrochemotherapy, including a tetrapolar single-needle electrode, are associated with clinical benefit in dogs with intranasal tumors.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Rangel MMM, Holanda AGA, Linhares LCM, Suzuki DOH, Bispo GA, de Nardi AB",
+      "date": "2026 11 20",
+      "dateObject": "2026 11 20",
+      "abstract": "To evaluate the feasibility and preliminary clinical outcomes of surgical debulking combined with electrochemotherapy (ECT) using a multielectrode approach, including a tetrapolar single-needle electrode, in dogs with intranasal tumors. This retrospective observational study included client-owned dogs with intranasal tumors treated from 2017 through 2024 at a veterinary oncology referral center. Dogs were included if they underwent at least 1 surgical procedure combined with intraoperative bleomycin-based ECT using a multielectrode approach and had a minimum follow-up period of 2 months. 12 dogs were included, and most had advanced local disease (83% stages T3 to T4). Epithelial tumors predominated (91%), mainly adenocarcinoma (42%). Clinical response was observed in all dogs, including complete clinical response in 75% and partial clinical response in 25%. Local progression was documented by CT in 5 dogs (42%). Repeat procedures were performed in 67% of dogs because of persistent clinical signs or tumor progression. The median progression-free interval was 492 days, and the median survival time was 694 days. Treatment-related adverse events were frequent but predominantly mild to moderate, including partial wound dehiscence (50%), crust formation (42%), infection (25%), and oronasal fistula (25%). No procedure-related deaths occurred. Surgical debulking combined with ECT using a multielectrode approach, including a tetrapolar single-needle electrode, was feasible and associated with clinical benefit in dogs with intranasal tumors. These findings support further prospective investigation of this approach for intranasal tumors in dogs. This approach may represent a treatment option for dogs with locally advanced intranasal tumors, particularly when radiotherapy is unavailable.",
+      "categories": [
+        "internalMedicine",
+        "oncology",
+        "surgery",
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "42716084",
+      "title": "BRAFV595E mutation detected across the disease spectrum from non-neoplastic urothelium to invasive urothelial carcinoma in dogs.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Dhawan D, Sola MF, Nelson JB, Lanman NA, Enstrom AW, Fourez LM, Tersey SA, Knapp DW",
+      "date": "2026 11 20",
+      "dateObject": "2026 11 20",
+      "abstract": "The goal was to determine the presence of a driver mutation in dogs with and without detectable cancer to set the stage for future cancer prevention research exploiting processes that inhibit cancer development in the presence of such mutations. The objective was to detect the v-raf murine sarcoma viral oncogene homolog B (BRAF) mutation BRAFV595E across the disease spectrum from non-neoplastic urothelium to invasive urothelial carcinoma (UC) in dogs. Scottish Terriers &#x2265; 6 years old with no outward evidence of urinary disease (n = 120) were screened for UC by urinalysis, urinary tract ultrasonography, follow-up cystoscopic biopsy, and necropsy when possible. Initial results were published in 2022. Extended follow-up is presented here. The BRAFV595E mutation was detected in urine sediment by droplet digital PCR and in bladder tissues by immunohistochemistry. For 120 dogs screened, biopsy-confirmed UC was found in 41 dogs including 31 high-grade UC, 6 low-grade UC, 1 carcinoma in situ, and 3 dysplasias that progressed to high-grade UC. The BRAFV595E mutation was found in the urine of 23 of 26 dogs with high-grade UC, 4 of 5 dogs with low-grade UC, 2 of 3 dogs with dysplasia, and 12 of 66 dogs with no UC detected over a median of 14 months of follow-up (range, 4 to 71 months). The BRAFV595E mutation was detected in UC and non-neoplastic urothelium by immunohistochemistry. The BRAFV595E mutation is present in various stages of canine UC and non-neoplastic urothelium. This knowledge will contribute to future cancer prevention research. Urothelial carcinoma screening should be implemented for Scottish Terriers and potentially dogs in other high-risk breeds. Biopsy and standardized imaging remain essential in UC management.",
+      "categories": [
+        "internalMedicine",
+        "oncology"
+      ]
+    },
+    {
+      "pmid": "42710546",
+      "title": "Gilvetmab advances immune checkpoint inhibitor immunotherapy for canine cancer.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Chon E, Greene LM, Stock ML",
+      "date": "2026 11 20",
+      "dateObject": "2026 11 20",
+      "abstract": "Immune checkpoint inhibitors (ICIs) have revolutionized human oncology and are emerging as a promising strategy in veterinary cancer care. These agents unleash antitumor immunity by targeting inhibitory pathways that suppress T-cell function, enabling durable responses in select patients. In dogs, the immune checkpoint programmed cell death protein 1 (PD-1) axis is a primary focus due to conserved structural and functional homology with the PD-1 axis in humans, documented PD-1/programmed death-ligand 1 (PD-L1) signaling in the canine tumor microenvironment, and its role in reversing tumor-induced immune exhaustion. Several caninized anti-PD-1 and anti-PD-L1 antibodies have demonstrated favorable safety profiles and notable antitumor activity in spontaneously occurring canine cancers, particularly melanoma and mast cell tumors. Gilvetmab, currently the only veterinary ICI available commercially, has conditional licensure in the United States for these indications. This caninized anti-PD-1 monoclonal antibody has demonstrated target engagement, acceptable tolerability, and clinical efficacy in a subset of treated dogs. Although reported adverse events are generally manageable, further work is needed to better characterize immune-mediated toxicities. Furthermore, response patterns may differ from those of cytotoxic therapies, including potential pseudoprogression, necessitating careful selection of response assessment methods. Key challenges remain in optimizing patient selection, refining biomarker development, establishing effective combination strategies, and defining the efficacy of immune checkpoint blockade across diverse tumor histologic subtypes (histotypes). Continued study of gilvetmab and related agents should advance the clinical application of immunotherapy in veterinary oncology and inform the next generation of comparative cancer care.",
+      "categories": [
+        "internalMedicine",
+        "oncology"
+      ]
+    },
+    {
+      "pmid": "42710541",
+      "title": "Electrochemotherapy with interleukin-12 gene electrotransfer can turn local tumor ablation into a systemic antitumor response in veterinary patients.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "&#x10c;ema&#x17e;ar M, Lampreht Tratar U, Milevoj N, Ser&#x161;a G, Tozon N",
+      "date": "2026 11 20",
+      "dateObject": "2026 11 20",
+      "abstract": "Veterinary medicine serves as an important translational bridge between preclinical studies and human medicine, offering a valuable model for investigating naturally occurring diseases and generating data unattainable from purely experimental animal models. This is particularly relevant for evaluating novel cancer treatment approaches. Electrochemotherapy (ECT) and gene electrotransfer represent 2 such approaches in both human and veterinary clinical oncology. Current evidence indicates that ECT achieves excellent local ablative control of treated tumors; however, its principal limitation is that ECT does not reliably control untreated or metastatic disease. One strategy to overcome this limitation is combining ECT with the systemic immunomodulatory action of IL-12 gene electrotransfer as both modalities rely on the same platform technology, electroporation. In veterinary medicine, this combined approach has been successfully applied across various tumor types in dogs, demonstrating excellent local antitumor control alongside indications of systemic effects. These have been clinically associated with prolonged survival, regression of distant untreated tumors and lymph node metastases, and reduced invasive tumor growth. Immunological studies are also consistent with systemic immune activation, with flow cytometry analysis of peripheral blood demonstrating transient increases in circulating CD8+ cells following each therapeutic session. Further studies are needed to find the suitable biomarkers for selecting the appropriate patients for the selected treatments.",
+      "categories": [
+        "oncology"
+      ]
+    },
+    {
+      "pmid": "42633775",
+      "title": "Feasibility of bone-targeted electrochemotherapy for palliation of bone tumors in dogs and cats.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": "Zanasi A, Vigodny A, Finotello R, Tornago R, Cadossi M, Impellizeri JS, Impellizeri JA",
+      "date": "2026 11 20",
+      "dateObject": "2026 11 20",
+      "abstract": "Electrochemotherapy (ECT) is a minimally invasive locoregional treatment that combines reversible electroporation with cytotoxic agents to enhance intracellular drug delivery. Although its efficacy is well established in cutaneous malignancies, its role in bone tumors has only recently been explored in veterinary medicine. This narrative review integrates preclinical evidence, human clinical data, and early veterinary experience with an original 4-case series to evaluate the translational potential of ECT in bone oncology. Preclinical studies demonstrate effective tumor ablation within bone while preserving extracellular matrix integrity and enabling bone tissue regeneration. Clinical studies in humans report consistent pain relief, meaningful local tumor control, and acceptable safety profiles, including in complex scenarios, such as radiotherapy-resistant metastatic epidural spinal cord compression. In contrast, veterinary evidence remains limited to isolated case reports, in part due to limited dedicated technologies. Taken together, available data suggest that ECT may represent a function-preserving alternative for selected bone tumors. Prospective studies are warranted to define its clinical role in veterinary medicine.",
+      "categories": [
+        "oncology",
+        "neurology",
+        "dermatology"
       ]
     },
     {
@@ -98,32 +240,6 @@
       "categories": [
         "surgery",
         "neurology"
-      ]
-    },
-    {
-      "pmid": "43056865",
-      "title": "Intracameral lidocaine-epinephrine has minimal effect on heart rate and blood pressure and is an effective sole mydriatic during phacoemulsification in dogs.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Pumphrey SA, Gibson LK, Maggio F, Lindsey J, Wetmore LA",
-      "date": "2026 11 19",
-      "dateObject": "2026 11 19",
-      "abstract": "To investigate heart rate (HR) and rhythm, blood pressure (BP), and pupil diameter in dogs that received intracameral (IC) preservative-free lidocaine-epinephrine (ILE) as a sole mydriatic agent during phacoemulsification. Records were retrospectively reviewed for HR and BP data and anesthesia concerns following administration of ILE during cataract surgery (IC group, 130 eyes from 83 dogs). Similar data were obtained for a control group undergoing phacoemulsification that received topical mydriatics (topical treatment [TT] group, 40 eyes from 21 dogs). Pupil diameter was measured prospectively following administration of ILE in an additional 20 eyes from 11 dogs. Average baseline HR was 13 beats/min higher in the TT group than in the IC group for both eyes operated (P &#x2264; .04). Heart rate increased more from baseline in the IC group than in the TT group at 15 and 20 minutes after administration, but the difference was not clinically significant (average of 4 beats/min). Changes in BP were minimal and did not differ between groups. No significant arrhythmias or other anesthetic complications were noted in either group. Mean pupil diameter was 11.3 mm (95% CI, 11, 11.6) immediately following ILE administration and 11.8 mm (95% CI, 11.5, 12.1) at the conclusion of surgery. ILE produced adequate, durable mydriasis when used as a sole mydriatic in canine eyes undergoing phacoemulsification. Intracameral lidocaine-epinephrine does not appear to affect cardiovascular parameters when administered during phacoemulsification in dogs. ILE is a reasonable mydriatic choice for canine phacoemulsification.",
-      "categories": [
-        "cardiology",
-        "surgery"
-      ]
-    },
-    {
-      "pmid": "43056857",
-      "title": "Evaluation of the efficacy of extended-release buprenorphine (Ethiqa XR) using objective gait analysis in dogs.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Tiffinger K, Benito de la Vibora J, Hall A, Hall N, Taylor R, Enomoto H, Love KR, Mishra SK, Lascelles BDX, Enomoto M",
-      "date": "2026 11 19",
-      "dateObject": "2026 11 19",
-      "abstract": "To evaluate the efficacy of an extended-release formulation of buprenorphine HCl (XR-Bup) using objective gait analysis in a canine stifle arthrotomy model. We hypothesized that a single SC injection of XR-Bup would reduce postoperative pain and improve limb function. In a randomized, blinded, placebo-controlled crossover study design, 8 purpose-bred Beagles underwent 2 unilateral stifle arthrotomies, randomized to XR-Bup for 1 procedure and placebo for the other, separated by a washout period. Kinetic and static ground reaction force data were collected at baseline (pretreatment) and multiple time points up to 72 hours after arthrotomy. Symmetry indices were calculated for ground reaction force variables and compared between groups using a repeated-measures analysis. Overall, symmetry indices of static body weight distribution (%BWdistrib) showed significantly greater limb use symmetry following XR-Bup compared to placebo. There was significant time and treatment interaction (P = .025) for %BWdistrib to the operated limb, with %BWdistrib approaching baseline levels more quickly when treated with XR-Bup. Similarly, kinetic variables demonstrated higher limb use in the XR-Bup group, although the treatment effects were not significant. All dogs experienced nausea and hyporexia/anorexia after XR-Bup over 72 hours. Vomiting occurred in 6 of 9 and regurgitation was observed in 8 of 9 arthrotomy cases. XR-Bup treatment was associated with greater limb usage (static and dynamic) at all time points, with data indicating effective pain alleviation in a small cohort of dogs. Although Ethiqa XR may be an alternative option for postoperative pain control, its clinical utility at the dose evaluated in this study may be limited by the occurrence of adverse events.",
-      "categories": [
-        "internalMedicine",
-        "surgery"
       ]
     },
     {
@@ -253,18 +369,6 @@
       "date": "2026 11 19",
       "dateObject": "2026 11 19",
       "abstract": "The aim of the present study was to assess renal health in cats with feline infectious peritonitis (FIP) undergoing antiviral treatment. GS-441524 is effective against FIP but its potential renal toxicity remains debated. Cats with confirmed FIP (n&#x2009;=&#x2009;80) receiving oral GS-441524 for 42 days were assessed before (day 1; D1), during (D7, D42) and after treatment (D84, D183). Assessments included urine specific gravity (USG), urine protein:creatinine (UPC) ratio, urinary cystatin B (uCysB), urine protein electrophoresis, serum creatinine, urea and symmetric dimethylarginine (SDMA). The term potential renal dysfunction was used for cats fulfilling the following criteria: creatinine &#x2a7e;140&#x2009;&#xb5;mol/l or SDMA &#x2a7e;18&#x2009;&#xb5;g/dl and USG <1.035. Serum amyloid A (SAA) and alpha-1-acid glycoprotein (AGP) were assessed in serum, feline coronavirus (FCoV) RNA in blood and urine (D1-D42). At baseline, 97.5% of cats had creatinine concentrations <140&#x2009;&#xb5;mol/l; by D183, 23.8% exceeded this threshold (D1-D183: P D <0.0001). Potential renal dysfunction criteria were met in 2.5% of cats at baseline and 8.8% at D183. In contrast, uCysB was increased in 83.8% of cats at D1 and declined during treatment (D1-D183: P D <0.0001). Cats with uCysB >100&#x2009;ng/ml had higher UPC values ( P MWU <0.0001). Most cats had elevated AGP and SAA at baseline, which normalised during treatment (D1-D42: P D <0.0001). Proteinuria (UPC >0.2) was present in 91.3% on D1 and 3.8% on D183; urine protein electrophoresis at D1 revealed predominantly tubular and mixed patterns. Urine was more frequently FCoV RNA-positive than blood on D1 (68.8% vs 61.3%), but not on D7 (16.3% vs 45.0%). Treatment reversed FIP-associated renal abnormalities and inflammation observed at baseline. A small subset of cats met criteria compatible with potential renal dysfunction during the study. Even though it remains unknown whether these findings reflect delayed FIP-related renal insults or adverse antiviral effects, treatment duration should, in accordance with antimicrobial stewardship principles, be kept to the shortest effective period.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "43050781",
-      "title": "Severe cytopenia in dogs treated with fenbendazole for Heterobilharzia americana.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Poellmann LJ, Fajt VR, Verocai GG, Aicher KM",
-      "date": "2026 11 18",
-      "dateObject": "2026 11 18",
-      "abstract": "To report the features and outcomes of dogs experiencing severe febrile cytopenia following treatment with fenbendazole for Heterobilharzia americana. 6 client-owned dogs that received fenbendazole for treatment of H americana and subsequently developed severe transient cytopenia with accompanying clinical illness were evaluated. In this observational retrospective multicenter case series, medical records of affected dogs reported by veterinarians through consultation with the Gastrointestinal Laboratory at Texas A&M University between June 2023 and November 2025 were reviewed. Dogs were included if they had a diagnosis of H americana by fecal PCR or saline sedimentation, received treatment with fenbendazole, and developed an episode of cytopenia with accompanying clinical signs within 21 days of beginning treatment. All dogs were spayed females, representing a variety of breeds. Six dogs received praziquantel and fenbendazole for treatment. Five of these dogs received concurrent doses of pyrantel pamoate and febantel through use of a combination tablet as the source of praziquantel, resulting in high total benzimidazole drug exposure. Dogs developed marked neutropenia, variable thrombocytopenia, fever, and severe clinical illness warranting hospitalization. All dogs experienced hematologic and clinical recovery following discontinuation of fenbendazole, supportive care, and administration of short-term parenteral antimicrobials. Prescribing veterinarians should remain aware of the risk for cytopenia with extralabel use of fenbendazole to treat H americana infection in dogs. The use of combination products to dose praziquantel is contraindicated, as it may also contain febantel and could expose dogs to toxic doses of benzimidazole.",
       "categories": [
         "internalMedicine"
       ]
@@ -648,55 +752,6 @@
       "categories": []
     },
     {
-      "pmid": "42556405",
-      "title": "An artificial intelligence-enabled digital stethoscope demonstrates moderate murmur detection in dogs but not cats and unreliable arrhythmia classification in both species.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Johnson JH, Stern JA, DeFrancesco TC, Pierce KV",
-      "date": "2026 11 16",
-      "dateObject": "2026 11 16",
-      "abstract": "To prospectively evaluate the diagnostic performance of an AI-enabled digital stethoscope in detecting cardiac murmurs and arrhythmias compared to fourth-year veterinary students and experienced clinicians. Dogs and cats presenting to a university teaching hospital were prospectively enrolled from August 1, 2025, through December 31, 2025. Each animal underwent cardiac auscultation at 4 thoracic sites with the use of an AI-enabled digital stethoscope (Core 500; EKO Health Inc), 6-lead ECG, and echocardiogram, if clinically indicated. Auscultation was performed by a cardiology resident, board-certified cardiologist, and fourth-year veterinary student. The stethoscope demonstrated a sensitivity of 86.8%, specificity of 56.3%, and positive predictive value of 82.5% for murmur detection in dogs. There was no difference between the agreement of the AI stethoscope or students with a clinician (&#x3ba; = 0.447). In cats, sensitivity was markedly lower (9.1%), with only 2 of 22 murmurs detected (&#x3ba; = 0.081). The stethoscope demonstrated high sensitivity for atrial fibrillation (100%), but classified no dog as arrhythmia-free. Murmur grade was the only significant predictor of stethoscope murmur diagnosis, and high-grade murmurs (&#x2265; 3) had significantly greater odds of detection (OR, 15.11). The AI-enabled stethoscope demonstrated moderate murmur detection performance in dogs, comparable to fourth-year veterinary students, but performed poorly in cats. Arrhythmia classification was unreliable in both species. AI-enabled stethoscopes represent an emerging tool in veterinary medicine, but clinical validation is necessary before routine adoption. This study provides prospective performance data across small animals and examiner levels, identifying meaningful limitations regarding interpretation of this technology.",
-      "categories": [
-        "cardiology"
-      ]
-    },
-    {
-      "pmid": "42556400",
-      "title": "High-dose oral pentobarbital can produce anesthesia in aggressive dogs prior to euthanasia.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Cooney KA, Robertson SA, Kogan LR, Lor GZ",
-      "date": "2026 11 16",
-      "dateObject": "2026 11 16",
-      "abstract": "To determine whether PO administration of pentobarbital sodium solution at 3 times the labeled IV dose induces unconsciousness or euthanasia in dogs. 12 dogs met the inclusion criteria. Criteria included dogs in a shelter setting scheduled for euthanasia between June 2024 and October 2025. Dogs exhibiting human and/or animal aggression and scheduled for euthanasia were selected for the study. There were no limiting factors for inclusion such as breed, sex, or age. Pentobarbital sodium solution was injected into size 00 gelatin capsules (1-mL capacity), placed in high-reward foods, and offered to the dogs; 9 consumed the food and 3 refused. Five of the 9 dogs that ate the food containing pentobarbital capsules (&#x2265; 255 mg/kg) achieved unconsciousness within a mean time of 25 minutes. Respiratory rates remained slow but consistent during the observation period (120 minutes). All 12 dogs required another euthanasia method to achieve death. Ingestion of pentobarbital sodium as a euthanasia agent in dogs is unreliable. Death was not achieved 120 minutes after ingestion, and another euthanasia method was necessary. Oral administration of &#x2265; 255 mg/kg of pentobarbital sodium appears to be an effective pre-euthanasia anesthetic for dogs. When handling is best avoided because of behavior, veterinary and animal shelter personnel may try offering pentobarbital sodium at high doses in capsules hidden in food to fasted dogs as an anesthetic agent before euthanasia.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "42526494",
-      "title": "Clinically important abnormalities are common in senior cats perceived to be healthy by owners.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Herrera K, Nichelason A, Snyder Z, Hetzel S, McLellan GJ, Crawford LK, Cameron S",
-      "date": "2026 11 16",
-      "dateObject": "2026 11 16",
-      "abstract": "To describe physical examination findings, diagnostic abnormalities, and owner-reported assessments of senior cats perceived as healthy by their owners, and to evaluate agreement between owner perceptions and objective findings to inform diagnostic prioritization within a spectrum-of-care framework. Client-owned cats aged &#x2265; 12 years presenting to the University of Wisconsin-Madison School of Veterinary Medicine were prospectively enrolled between 2022 and 2024. Cats were included if their owners reported good health; cats with stable, chronic conditions were also eligible. Owner questionnaires, examinations, and diagnostic testing were performed. Prevalence of abnormalities and agreement between owner perceptions and findings were assessed. 129 cats were included in the study. All cats had abnormalities on physical examinations, most commonly dental (129 of 129 [100%]) and orthopedic disease (63 of 81 [77.8%]). Diagnostic testing revealed a high prevalence of previously unrecognized disease, including chronic kidney disease (49 of 80 [61.3%]), hypertension (54 of 56 [96.4%]), and hyperthyroidism (11 of 17 [64.7%]). Owner-reported mobility scores were not associated with orthopedic abnormalities. Although increased urination was associated with chronic kidney disease, 75.6% (34 of 45) of affected cats had no owner-reported change and only 1.3% (1 of 78) had reported increased thirst. Physical examination, urine specific gravity, renal parameters, total T4, and blood pressure were most informative for disease detection. Clinically important abnormalities are common in apparently healthy senior cats. Reliance on owner-reported changes underestimated disease burden. Physical examination revealed most abnormalities, with urine specific gravity, renal values, total T4, and blood pressure abnormalities being prevalent. These findings support routine screening and a prioritized diagnostic approach, particularly when constraints limit comprehensive evaluation.",
-      "categories": [
-        "internalMedicine",
-        "surgery"
-      ]
-    },
-    {
-      "pmid": "42385783",
-      "title": "Acute-onset neurologic signs in an indoor/outdoor domestic shorthair cat.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Nelissen SR, Belknap CH, Wu TK",
-      "date": "2026 11 16",
-      "dateObject": "2026 11 16",
-      "abstract": "",
-      "categories": [
-        "neurology"
-      ]
-    },
-    {
       "pmid": "43040289",
       "title": "A comparative study of the numerical analysis of the performance of a new plate design for canine TPO procedures.",
       "journal": "BMC Veterinary Research",
@@ -871,41 +926,6 @@
       "categories": [
         "neurology"
       ]
-    },
-    {
-      "pmid": "43025060",
-      "title": "Antimicrobial use exceeds culture-confirmed urinary tract infections in cats with feline idiopathic cystitis with and without urethral obstruction.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Chang M, Myrick S, Wilson-Robles H, Stewart SD",
-      "date": "2026 11 13",
-      "dateObject": "2026 11 13",
-      "abstract": "To compare antimicrobial use and signalment in cats with feline idiopathic cystitis (FIC) with and without active urethral obstruction (UO) and determine whether antimicrobial use was supported by urinalysis and urine culture results. This multicenter prospective observational study compared client-owned male cats with FIC with and without obstruction from 40 referral hospitals in the US and Canada between January 2025 and September 2025. Cats weighing > 2 kg that completed screening diagnostics (CBC, biochemistry, urinalysis, urine culture, and abdominal ultrasound) were eligible. Cats with alternative etiologies (excluding bacterial cystitis) for their urinary signs or recent corticosteroid, chemotherapeutic, radiation, or immunosuppressive therapy were excluded. Signalment, weight, antimicrobial prescription history, presence of bacteriuria on urinalysis, and urine culture results were collected and compared. A total of 457 cats were enrolled, including 111 cats with FIC and 346 cats with UO. Age, weight, presence of bacteriuria, urine culture positivity, and antimicrobial prescriptions prior to referral did not differ between groups. Antimicrobial administration after referral was significantly more common in the UO group despite similar rates of bacteriuria and positive urine cultures. Twenty-eight percent of cats (130 of 457) received antimicrobials, while 9.2% of cats (42 of 457) had positive urine cultures. Cats with FIC and UO share comparably low prevalence of bacterial cystitis; however, antimicrobials were frequently administered without evidence of bacteriuria or culture-confirmed infection, particularly in cats with UO. The low prevalence of bacterial cystitis in cats with FIC and UO supports prioritizing diagnostic-driven antimicrobial decision-making to reduce unnecessary antimicrobial use in cats with lower urinary tract diseases.",
-      "categories": [
-        "internalMedicine",
-        "oncology"
-      ]
-    },
-    {
-      "pmid": "43025058",
-      "title": "Delayed surgery can be considered for cardiovascularly stable dogs with hemoperitoneum due to a ruptured splenic mass.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Park JE, Grimes JA, Harris JD, Koenig A",
-      "date": "2026 11 13",
-      "dateObject": "2026 11 13",
-      "abstract": "To determine whether the timing of surgery affects morbidity and/or mortality of dogs with hemoperitoneum secondary to a ruptured splenic mass. In this retrospective cohort study, medical records of dogs diagnosed with hemoperitoneum due to a ruptured splenic mass between 2010 and 2023 were reviewed for clinical data. Dogs were classified in the early group (early) if surgery occurred < 6 hours and the delayed group (delayed) if surgery occurred &#x2265; 6 hours after presentation. A total of 177 client-owned dogs (99 early, 78 delayed) were included. The median duration of time from admission to surgery was 4.1 hours (range, 2.2 to 5.95 hours) for early and 14.0 hours (range, 6.02 to 68.4 hours) for delayed dogs. Early dogs were more likely to present in hypovolemic shock, have a higher shock index, and receive crystalloid boluses and RBC-containing transfusions preoperatively than delayed dogs. There was no difference in the occurrence of hypotension intraoperatively between groups. Early dogs were more likely to receive an RBC-containing transfusion during and/or after surgery and had longer hospitalization than delayed dogs. Overall survival to discharge was 94.9% (168 of 177); there was no difference between groups. There was no difference in mortality based on timing of surgery. Early dogs were more likely to receive RBC-containing transfusions throughout hospitalization and have a longer hospital stay compared to delayed dogs. Stable dogs may be able to have delayed surgery without increasing morbidity or mortality. Early surgery should be considered for dogs that have ongoing concerns for stability despite medical intervention.",
-      "categories": [
-        "surgery"
-      ]
-    },
-    {
-      "pmid": "43025057",
-      "title": "Timed Up and Go test predicts survival but not hospitalization or mobility concerns at the end of life in a population of geriatric dogs.",
-      "journal": "Journal of the American Veterinary Medical Association",
-      "authors": "Woods AE, Rishniw M, Ellis KM, McMullin KM, Juran IG, Venator KR, Miller AV, Lenfest MI, Frye CW",
-      "date": "2026 11 13",
-      "dateObject": "2026 11 13",
-      "abstract": "To examine the Timed Up and Go (TUG) test in geriatric dogs as a predictive measure of survival, hospitalization, and owner concern regarding end-of-life mobility. The owners of 83 geriatric dogs that had successfully completed a TUG test between April and September of 2023 were solicited to answer a survey regarding their dog, administered in June of 2025. Surveys recorded the dates (rounded to the nearest month) of deaths and hospitalizations and ranked owner mobility concerns at end of life. Data were excluded if dogs had died within 2 weeks of their TUG test or surveys were incomplete. A post hoc analysis was conducted to investigate the predictive utility of the TUG test against all-cause mortality and select morbidity measures. 82 surveys and paired TUG times were analyzed. The median dog age was 11 years (range, 8 to 17 years) and median weight was 26.4 kg (range, 2.6 to 46.4 kg). The TUG times ranged from 1.72 to 14.19 seconds. Dogs with a TUG &#x2265; 7 seconds had a shorter median survival (14 months) than dogs scoring < 7 seconds (incalculable). In multivariable Cox proportional hazard analysis, only TUG demonstrated an instantaneous hazard of death risk, increasing 15% for each 1-second increase in TUG time. The TUG time failed to predict hospitalization or owner end-of-life mobility concerns. Longer TUG times predict all-cause mortality but not morbidity in a group of geriatric dogs. The TUG test may be useful for identifying geriatric dogs at greater risk of mortality for proactive clinical intervention or quality-of-life conversations.",
-      "categories": []
     },
     {
       "pmid": "43022916",
@@ -1136,19 +1156,6 @@
       "dateObject": "2026 11 12",
       "abstract": "",
       "categories": []
-    },
-    {
-      "pmid": "43015812",
-      "title": "Surgical resection and angularis oris axial pattern flap reconstruction with adjuvant radiation therapy for recurrent soft palate leiomyosarcoma in a dog.",
-      "journal": "BMC Veterinary Research",
-      "authors": "Park J, Huh C, Choi MY, Kim DY, Go DM, Hwang TS",
-      "date": "2026 11 12",
-      "dateObject": "2026 11 12",
-      "abstract": "Leiomyosarcoma of the oral cavity is extremely rare in both human and veterinary medicine. To the best of our knowledge, this is the first report describing the clinical course and multimodal treatment of a canine leiomyosarcoma arising in the soft palate. A 3-year-old, spayed female Pungsan dog was presented with a recurrent soft palate mass, dyspnea, epistaxis, and anorexia. The patient had a history of two prior surgeries involving incomplete excisions, both resulting in a diagnosis of oral sarcoma. The tumor exhibited aggressive recurrence, with rapid growth intervals of 3 months and 3 weeks, respectively. Computed tomography revealed a large soft tissue mass (3.8&#x2009;&#xd7;&#x2009;3.5&#x2009;&#xd7;&#x2009;4.4&#xa0;cm) occupying most of the pharyngeal space. Marginal excision with reconstruction using an angularis oris axial pattern flap was performed, followed by adjuvant radiation therapy. Histopathology and positive immunohistochemistry for desmin and smooth muscle actin confirmed the diagnosis of leiomyosarcoma. Although the patient remained stable, a 2.5-mm recurrent nodule was detected 9.5 months post-irradiation. As the tumor progressed and further surgical intervention was declined, a second course of radiation therapy was administered at the 14-month mark. Three months later, the patient experienced episodic dysphagia but subsequently recovered her general condition. The patient was lost to follow-up 21.5 months post-surgery. During the clinical course, fistula formation occurred in the early post-irradiation period, followed by progressive thinning of the soft palate, including the reconstructed flap, over long-term follow-up. The soft palate leiomyosarcoma in this patient was characterized by highly aggressive local invasiveness rather than distant metastasis. Although complete local control was not achieved despite multimodal treatment, the 11-month postoperative progression-free interval represented clinically meaningful suppression of tumor progression, particularly when considering the rapid pattern of previous recurrences.",
-      "categories": [
-        "oncology",
-        "surgery"
-      ]
     },
     {
       "pmid": "42644499",
