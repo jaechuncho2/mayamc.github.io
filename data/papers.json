@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T01:20:48.202Z",
+  "updated_at": "2026-11-23T01:45:07.503Z",
   "papers": [
     {
       "pmid": "43062029",
@@ -21,6 +21,19 @@
       "abstract": "",
       "categories": [
         "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "43067099",
+      "title": "Intra-arterial vinblastine is well tolerated for the treatment of urothelial cell carcinomas and prostatic carcinomas in dogs.",
+      "journal": "American Journal of Veterinary Research",
+      "authors": "Vigouroux O, Horton A, O'Keeffe J, Letwin L, McLauchlan G",
+      "date": "2026 11 21",
+      "dateObject": "2026 11 21",
+      "abstract": "To describe the treatment and outcome for dogs with lower urinary tract carcinoma or prostatic carcinoma treated with intra-arterial vinblastine. 14 client-owned dogs from a single private referral center identified through a search of the medical records as having either urothelial cell carcinoma (n = 8) or prostatic carcinoma (6) treated with intra-arterial vinblastine from September 1, 2016, through September 30, 2023. The most commonly reported clinical signs were pollakiuria, stranguria, and hematuria alone or in combination. Median duration of clinical signs prior to vinblastine treatment was 5 weeks (range, 1 to 18 weeks). Median body weight and age at intra-arterial vinblastine treatment were 14.85 kg (range, 5.7 to 33.5 kg) and 8 years (range, 6 to 11 years). There were 9 castrated males and 5 spayed females. Vinblastine was successfully administered via the internal iliac arteries in all cases. Clinical outcome was reported in 10 dogs: 9 improved, and 1 had stable clinical signs. Restaging was available for 8 dogs, of which 2 of 8 were classified as having partial response, 4 of 8 stable disease, and 2 of 8 progressive disease. Intra-arterial vinblastine was well tolerated in dogs in this study and may contribute to rapid clinical improvement. Intra-arterial vinblastine shows promise in treating urothelial cell carcinoma and prostatic carcinoma in dogs; however, additional research is needed.",
+      "categories": [
+        "internalMedicine",
+        "oncology"
       ]
     },
     {
@@ -2153,19 +2166,6 @@
         "internalMedicine",
         "oncology",
         "surgery"
-      ]
-    },
-    {
-      "pmid": "42580770",
-      "title": "Changes in metabolomic profile in dogs with hepatic encephalopathy secondary to congenital portosystemic shunt suggests mitochondrial homeostasis disturbances.",
-      "journal": "American Journal of Veterinary Research",
-      "authors": "Fernandez Gallego A, Marques J, Kurian D, Diez F, Mellanby RJ, Gow AG, von Kriegsheim A, Faller KME",
-      "date": "2026 10 30",
-      "dateObject": "2026 10 30",
-      "abstract": "To identify specific metabolomic changes in dogs showing signs of hepatic encephalopathy (HE) compared to those not showing obvious neurological signs and to follow these changes following medical treatment. In this prospective observational study, we recruited 10 client-owned dogs diagnosed with congenital portosystemic shunt (from March 2021 through October 2022). The sera of dogs with or without signs of HE at the time of diagnosis of congenital portosystemic shunt and following medical treatment for more than 4 weeks were analyzed by UPLC-MS. Dogs showing signs of HE at the time of diagnosis (n = 6) had significantly lower serum concentrations of taurine (fold change [FC], 0.44), creatine (FC, 0.32), and guanine (FC, 0.45) and higher serum concentrations of 3-hydroxybenzaldehyde (FC, 2.51) than their counterparts not showing signs of HE (4). A marked albeit nonsignificant decrease in serum stearate concentrations was also observed in the HE group (FC, 0.12). Following medical treatment, which improved neurological signs, the concentrations of these metabolites, particularly taurine, normalized to concentrations similar to the non-HE group. Dogs with HE exhibit a different serum metabolomic profile compared to dogs without signs of HE. The main changes are suggesting disturbances in mitochondrial homeostasis in dogs suffering from HE. Supporting mitochondrial function could form the basis of new therapeutic strategies in HE and merits further investigations in future studies.",
-      "categories": [
-        "internalMedicine",
-        "neurology"
       ]
     },
     {

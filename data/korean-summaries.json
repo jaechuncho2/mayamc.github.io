@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T01:21:14.609Z",
+  "updated_at": "2026-11-23T01:45:22.453Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -9207,6 +9207,14 @@
       "title": "Spatial accuracy and clinical feasibility of CT/US fusion imaging for hepatic interventions in dogs.",
       "journal": "BMC Veterinary Research",
       "generated_at": "2026-11-22T01:21:04.176Z",
+      "model": "gpt-5-mini"
+    },
+    "43067099": {
+      "brief_summary": "단일 민간 전문 병원에서 2016-09-01부터 2023-09-30까지 비닐블라스틴(vinblastine)을 동맥 내로 투여한 14마리의 반려견(요로상피세포암[urothelial cell carcinoma] 8마리, 전립선암 6마리)의 치료 결과를 보고한 후향적 증례집단 연구이다. 모든 증례에서 내부장골동맥(internal iliac arteries)을 통해 약물이 성공적으로 투여되었고, 임상 결과가 보고된 10마리 중 9마리는 임상 증상 호전을 보였고 1마리는 안정적이었다. 재평가 가능한 8마리에서는 부분반응 2건, 질병안정 4건, 진행 2건으로 분류되었다. 저자들은 동맥 내 비닐블라스틴이 잘 견디며 빠른 임상 개선에 기여할 수 있음을 시사하지만 추가 연구가 필요하다고 결론지었다.",
+      "detailed_summary": "연구는 한 민간 레퍼럴 센터에서 기록 검색으로 확인된 14마리의 고객 소유 반려견을 대상으로 한 후향적 증례보고이다. 대상은 요로상피세포암(UCC) 8마리와 전립선암 6마리였고, 치료 시 중앙값 체중은 14.85 kg(범위 5.7–33.5 kg), 중앙값 연령은 8세(범위 6–11세)이었다; 성별은 거세 수컷 9마리, 중성화 암컷 5마리였다. 임상 증상(빈뇨, 혈뇨, 배뇨곤란 등)의 중앙 지속 기간은 5주(범위 1–18주)였고, 모든 증례에서 내부장골동맥을 통해 비닐블라스틴을 투여하였다. 임상 경과는 10마리에서 보고되어 9마리가 증상 호전을, 1마리가 안정적 상태를 보였고, 영상·임상적 재평가는 8마리에서 가능하여 부분반응 2건, 질병안정 4건, 진행 2건으로 나타났다. 전반적으로 동맥 내 비닐블라스틴은 본 증례집단에서 잘 견디는 것으로 보고되었고 빠른 임상적 개선에 기여할 가능성이 제시되었다. 그러나 단일 센터의 소규모 증례집단이라는 점과 후향적 설계로 인해 일반화에는 한계가 있으므로 추가적인 연구가 필요하다고 저자들이 밝히고 있다.",
+      "title": "Intra-arterial vinblastine is well tolerated for the treatment of urothelial cell carcinomas and prostatic carcinomas in dogs.",
+      "journal": "American Journal of Veterinary Research",
+      "generated_at": "2026-11-23T01:45:22.436Z",
       "model": "gpt-5-mini"
     }
   }
