@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T01:45:22.453Z",
+  "updated_at": "2026-11-24T05:22:29.723Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -9215,6 +9215,70 @@
       "title": "Intra-arterial vinblastine is well tolerated for the treatment of urothelial cell carcinomas and prostatic carcinomas in dogs.",
       "journal": "American Journal of Veterinary Research",
       "generated_at": "2026-11-23T01:45:22.436Z",
+      "model": "gpt-5-mini"
+    },
+    "43069126": {
+      "brief_summary": "중국 장쑤성의 동반 반려견·반려묘을 대상으로 한 횡단적 연구로, 장내 기생충의 유병률과 위험요인 및 반려인들의 지식·태도·실천(KAP)을 평가했다. 1,348개의 분변검사 중 전체 유병률은 7.05%(95/1,348)였고 Toxocara spp.가 가장 흔해 2.23%를 차지했으며, 고양이(8.76%)가 개(5.45%)보다, 농촌(10.85%)이 도시(3.26%)보다 유병률이 높았다. 연구는 반려동물의 정기적 구충과 급여관리 및 반려인 대상 교육 강화 등 One Health 관점의 통합적 개입 필요성을 시사한다.",
+      "detailed_summary": "본 연구는 2024년 6월부터 2025년 11월까지 장쑤성에서 수행된 횡단적 조사로, 반려견 및 반려묘의 분변 1,348건을 현미경 검사하고 반려인 대상 구조화된 설문으로 KAP 데이터를 수집했다. 전체 장내 기생충 유병률은 7.05%(95/1,348)였고, 종별로는 Toxocara spp.가 2.23%로 가장 높았다. 고양이의 유병률은 8.76%, 개는 5.45%였고, 농촌 거주(10.85%)가 도시(3.26%)보다 유병률이 유의하게 높았다. 다변량 분석에서 반려묘, 농촌 거주, 장쑤성 북부 지역 거주, 생식(원료) 급여, 구충 미실시가 장내 기생충 감염의 독립적 위험요인으로 확인되었다(모두 P<0.05). 반려인 KAP 점수는 지역·지역구·학력·직업에 따라 유의한 차이가 있었고(P<0.001), 농촌과 북부 거주 반려인이 점수가 낮았고 고학력 및 비농업 직업군에서 점수가 높았다. 결론적으로 장쑤성 반려동물에서 의미 있는 장내 기생충 부담과 거주지·숙주별 격차가 관찰되며, 정기적 구충·적절한 급여관리·반려인 대상 교육·수의 서비스 강화 등 다층적 개입이 필요하다고 제시한다. 초록에는 연구의 제한점에 대한 구체적 언급이 제공되지 않았다.",
+      "title": "Prevalence, risk factors of intestinal parasitic infections in companion animals and associated owner knowledge, attitudes and practices in Jiangsu province, China.",
+      "journal": "BMC Veterinary Research",
+      "generated_at": "2026-11-24T05:22:14.879Z",
+      "model": "gpt-5-mini"
+    },
+    "43069398": {
+      "brief_summary": "Dog Impulsivity Assessment Scale(DIAS)를 포르투갈어로 번역·역번역한 뒤 포르투갈 헌병(GNR) 소속 경찰 작업견 핸들러 182명이 온라인으로 작성하여 초기 심리측정적 타당도를 평가한 연구이다. 주성분분석과 병렬분석 결과 3요인이 지지되었으나 원래 구조와 부분적으로만 일치했고, 요인별 내적 일관성은 알파 0.61–0.73로 보통 수준이며 전체 18문항 알파는 0.50으로 낮았다. 전체 점수는 세 요인 점수와 양의 상관(rs=0.32–0.62)을 보였으나 요인 간 상관은 약하거나 없었고 표본이 균질해 점수 분포가 좁았다. 검사-재검사 신뢰도를 평가하지 않아 임상·연구 적용 전 더 이질적인 개집단과 재검사 신뢰도 검증이 필요하다.",
+      "detailed_summary": "연구는 영국에서 개발된 DIAS를 포르투갈어로 번역·역번역한 후 포르투갈 헌병(GNR)의 경찰 작업견 핸들러 182명이 온라인으로 작성한 자료를 사용해 초기 심리측정 평가를 수행했다. 분석에는 주성분분석(Varimax 회전), 병렬분석, Cronbach의 α, Spearman 상관이 사용되었고 샘플 적합도는 KMO=0.70으로 중간 수준이었다. 고유값>1인 요인은 6개로 전체 분산의 62.62%였으나 스크리 플롯과 병렬분석은 3요인(43.76%)을 지지했다. 3요인은 원래 구조와 부분적으로만 일치했으며 요인별 내적 일관성은 α=0.61–0.73로 다소 제한적이고, 전체 18문항의 α는 0.50으로 낮았다. 전체 점수는 세 요인 점수와는 rs=0.32–0.62의 양의 상관을 보였으나 요인들 간 상관은 약하거나 없었고 표본이 비교적 균질하여 점수 분포가 좁았다. 연구 결론은 포르투갈어 DIAS가 유망한 도구이지만 더 이질적인 개집단에서의 타당화와 검사-재검사 신뢰도 평가가 선행되어야 임상적·연구적 사용을 권할 수 있다는 것이다.",
+      "title": "Creation of the Portuguese version of the Dog Impulsivity Assessment Scale and initial psychometric evaluation.",
+      "journal": "Veterinary Research Communications",
+      "generated_at": "2026-11-24T05:22:29.694Z",
+      "model": "gpt-5-mini"
+    },
+    "43069846": {
+      "brief_summary": "5세 중성화 수컷 벵갈묘 1례에서 우측 전십자인대(CrCL) 파열과 양측 근위 경골의 미골 후방 굴곡 변형(proximal tibial caudal angulation)을 진단하고 수술적으로 치료한 증례보고이다. 방사선 검사에서 우·좌 TPA(tibial plateau angle)가 각각 59.4°와 59.3°, AMA(해부학-기계축) 각도가 각각 10.9°와 10.6°로 정상 평균(TPA 23.4°, AMA 6.5°)을 크게 초과했다. 변형 교정을 위해 변형된 전방 폐쇄쐐기 절골술(modified cranial closing wedge osteotomy)을 시행하고, 계획된 술후 TPA(29.7°)가 상대적으로 높아 추가적으로 외측 fabellotibial 봉합(lateral fabellotibial suture)을 병행했다. 수술 후 즉시 절름거림이 개선되었고 3개월에 사지 기능이 정상화되었다는 점에서 TPA 및 AMA 평가를 이용한 수술 전략이 본 증례에서 유용했음을 제시한다.",
+      "detailed_summary": "증례보고로, 5세 중성화 수컷 벵갈묘 1마리가 보호자에게 짓밟힌 후 우측 하지 절름거림으로 내원하였다. 영상 및 정형검사에서 우측 CrCL 파열과 함께 양측 근위 경골의 후방 굴곡 변형이 관찰되었고 우·좌 TPA는 각각 59.4°·59.3°, 우·좌 AMA 각도는 각각 10.9°·10.6°로 보고된 정상 평균(TPA 23.4°, AMA 6.5°)을 크게 상회했다. 비정상적인 우측 각도 및 경골 후방 굴곡을 교정하기 위해 변형된 전방 폐쇄쐐기 절골술(modified cranial closing wedge osteotomy)을 시행하였다. 계획된 술후 TPA가 상대적으로 높은 29.7°로 산정되어 슬관절 안정성 강화를 위해 외측 fabellotibial 봉합(lateral fabellotibial suture)을 동시에 시행하였다. 수술 결과 절름거림은 즉시 개선되었고 3개월 시점에 사지 기능이 정상화되었다. 본 증례는 TPA 및 AMA 평가를 바탕으로 한 수술 전략을 제시하나 단일 증례보고이므로 일반화할 수 없다는 중요한 제한점이 있다.",
+      "title": "Surgical management of proximal tibial caudal angulation deformity in a cat with cranial cruciate ligament rupture.",
+      "journal": "JFMS Open Reports",
+      "generated_at": "2026-11-24T05:20:44.530Z",
+      "model": "gpt-5-mini"
+    },
+    "43069866": {
+      "brief_summary": "10세 수컷 중성화 실내생활 단모묘 1마리의 증례보고로, 1년 간 진행된 소장성 설사·구토·체중감소 후 상부 위장관 내시경 시행 직후 위장 출혈로 중증 빈혈이 발생했다. 검사에서 프로트롬빈 시간(PT)과 부분 트롬보플라스틴 시간(PTT) 연장 및 제7인자(factor VII) 감소가 확인되었고, 외인성 항응고제 노출(실내·쥐약 없음), DIC 및 간기능 이상은 배제되었다. 내시경 조직검사로 저등급 위장성(알리멘터리) 림프종 소견과 흡수장애 임상 소견을 근거로 비타민 K 흡수장애로 인한 비타민 K 의존성 응고장애가 의심되었고, 비타민 K 보충 및 수혈 등 집중치료에도 합병증으로 인해 안락사 결정이 내려졌다. 이러한 경우 내시경 위장 조직검사 전 응고검사 시행 또는 비타민 K 선투여를 고려할 수 있음을 제시한다.",
+      "detailed_summary": "본 논문은 단일 증례보고로 10세 중성화 수컷 실내묘 1마리를 대상으로 하였다. 해당 고양이는 1년간 소장성 설사·구토와 체중감소가 진행되었고, 상부 위장관 내시경 후 위장 출혈로 중증 빈혈을 보였다. 검사 결과 프로트롬빈 시간(PT)과 부분 트롬보플라스틴 시간(PTT)이 연장되고 제7인자(factor VII) 활성이 감소하였으며, 실내 생활·쥐약 부재로 외인성 항응고제 노출은 배제되었다. 또한 DIC와 간기능 이상은 배제되었고, 내시경 조직검사에서 저등급 위장성(알리멘터리) 림프종 소견이 확인되었다. 저등급 림프종 및 임상적 흡수장애 소견을 근거로 비타민 K 흡수장애에 따른 비타민 K 의존성 응고장애가 의심되었다. 치료로 비타민 K 보충과 농축적혈구·신선동결혈장 수혈 등 적극적 응급치료를 시행했으나 합병증이 발생하여 안락사가 시행되었다. 본 증례는 만성 위장질환에 의한 비타민 K 흡수장애로 추정되는 응고장애를 강조하나 단일 증례에 불과하므로 일반화는 제한되며, 유사한 임상 상황에서 내시경 전 응고검사 또는 비타민 K 선투여를 고려할 수 있음을 제안한다.",
+      "title": "Presumed vitamin K-dependent coagulopathy secondary to low-grade alimentary lymphoma in a cat.",
+      "journal": "JFMS Open Reports",
+      "generated_at": "2026-11-24T05:20:19.100Z",
+      "model": "gpt-5-mini"
+    },
+    "43069872": {
+      "brief_summary": "10개월령 스페이드 암컷 유럽숏헤어 고양이의 단일 증례로, 3주간의 점진적 구토·권태·식욕부진을 주소로 내원했다. 혈액검사는 CBC 정상이었고 ALT(alanine aminotransferase)·GGT(gamma‑glutamyl transferase) 상승 및 총빌리루빈이 참조범위 상한에 위치했으며, 초음파에서 담관 및 담낭 팽창과 대십이지장 유두 부위의 이상 소견이 관찰되어 수술적 탐색을 시행했다. 긴급 개복술에서 우측 등쪽-외측(dorsolateral) 원형 횡격막 탈장이 근위 하행 십이지장, 췌장, 장막(omentum)을 포함하여 관찰되었고, 탈장 복원 및 봉합과 담낭 압출로 담즙 감압을 시행한 후 임상적으로 호전되어 추적(1·5개월)에서 재발 증상이 없었다. 본 증례는 만성으로 추정되는 외상성 횡격막 탈장이 대십이지장 유두 수준에서 기계적 간외 담도(Extrahepatic biliary) 폐색을 초래한 드문 원인임을 보고한다.",
+      "detailed_summary": "증례보고: 10개월령 스페이드 암컷 유럽숏헤어 고양이 1례를 보고한다. 임상증상은 3주간의 진행성 구토, 권태, 식욕저하였고, CBC는 특이소견이 없었으며 혈액생화학검사에서 ALT와 GGT 상승, 총빌리루빈은 참조범위 상한에 위치했다(RI). 복부 초음파에서는 위 무긴장(gastric atony), 심한 간내·간외 담도 확장, 팽창된 담낭 및 대십이지장 유두 예상 부위의 국소적 십이지장 확장과 고에코 인터페이스에 의한 음영을 보여 십이지장 이물로 인한 유두 폐색이 의심되었다. 긴급 탐색 개복술에서 우측 dorsolateral 원형 횡격막 탈장이 확인되었고, 그 속에 근위 하행 십이지장, 췌장, 장막이 포함되어 있어 장기들을 환원 후 횡격막 봉합(herniorrhaphy)을 시행했으며 담즙 감압은 담낭을 부드럽게 압출하는 것만으로 이루어졌다. 수술 후 외상력(둔기 손상)의 병력은 수술 후에야 보고되어 만성·외상성으로 추정되었고, 경부-흉부 피하기종(subcutaneous emphysema), 기종증(pneumomediastinum), 소량의 기흉이 발생했으나 보존적 치료로 관리되었다. 식욕은 회복되었고 수술 3일 후 잔존하는 피하기종을 둔 채 퇴원했으며, 1개월 및 5개월 추적에서 소화기·호흡기 증상 재발은 보고되지 않았다. 본 논문은 횡격막 탈장에 의한 기계적 유두 폐색이 드문 원인임을 제시하나 단일 증례 보고로 일반화할 수 없고 외상성 기전도 환자의 병력 보고에 근거한 추정이라는 제한점이 있다.",
+      "title": "Extrahepatic biliary obstruction secondary to right-sided diaphragmatic hernia in a juvenile cat.",
+      "journal": "JFMS Open Reports",
+      "generated_at": "2026-11-24T05:21:07.529Z",
+      "model": "gpt-5-mini"
+    },
+    "43070043": {
+      "brief_summary": "본 무작위 이중맹검 예비 비교연구는 개 아토피 피부염(cAD) 환견 20마리를 두 군(각 10마리)으로 나누어 일루노시티닙(ilunocitinib, 0.6–0.8 mg/kg q24h, 60일)과 프레드니솔론(prednisolone, 0.5–1 mg/kg 초기 q24h 등 점감 투여)을 비교하였다. 일루노시티닙 군은 가려움(pVAS)과 병변(CADESI-4)에서 중간값 기준 더 큰 감소를 보였고(pVAS: 9.5→2.5, CADESI-4: 35.5→5.5), 군 간 차이는 특정 시점(D7, D15, D60)에서 관찰되었다. 안전성에서는 프레드니솔론 군에서 섬유소원 및 중성지방 증가가, 일루노시티닙 군에서는 호산구감소(eosinopenia)가 보고되었으며, 연구는 예비 결과로서 임상적 잠재성을 시사한다.",
+      "detailed_summary": "연구는 이중맹검 무작위 비교 디자인으로 진행되었고 총 20마리의 임상 환견을 2군(각 10마리)으로 배정하였다. 프레드니솔론군은 0.5–1 mg/kg을 처음 7일간 q24h, 이후 7일간 q48h, 그다음 45일간 q72h로 투여했고, 일루노시티닙군은 0.6–0.8 mg/kg을 60일간 q24h로 투여하였다. 임상 평가는 D0, D7, D15, D30, D60에 시행되었고 가려움은 pVAS(pruritus Visual Analog Scale), 병변은 CADESI-4(Canine Atopic Dermatitis Extent and Severity Index, 4th)로 평가했으며 외이염은 OTIS-3(0–3 Otitis Index Score)로 평가했다. 결과적으로 pVAS 중간값은 프레드니솔론군에서 9→4.5, 일루노시티닙군에서 9.5→2.5로 감소했고 CADESI-4 중간값은 각각 40→17 및 35.5→5.5로 감소하였다. 군 간 유의한 차이는 pVAS에서 D7·D60, CADESI-4에서 D15·D60에 관찰되었다. 안전성에서는 프레드니솔론군에서 혈중 섬유소원 및 중성지방 증가가 보고되었고 일루노시티닙군에서는 호산구감소가 관찰되었다. 본 연구는 표본 수가 20인 예비 연구로, 관찰된 효능 및 안전성 신호를 바탕으로 추가 평가가 필요함을 시사한다.",
+      "title": "Preliminary Investigation of Ilunocitinib Versus Prednisolone for the Management of Atopic Dermatitis in Client-Owned Dogs: A Double-Blind, Randomised Comparative Study.",
+      "journal": "Veterinary Dermatology",
+      "generated_at": "2026-11-24T05:21:53.269Z",
+      "model": "gpt-5-mini"
+    },
+    "43070048": {
+      "brief_summary": "5개월령 암컷 잉글리시 불독에서 단단한 선형의 피하 판과 근육 침범을 보인 증례를 보고하였다. 조직검사에서 점액 침착, 섬유아세포 증식 및 진피 섬유화가 확인되어 심부 섬유점액성 질환으로 진단되었고 경섬유점액증(scleromyxedema) 유사 소견을 보였다. 레플루노마이드(leflunomide) 치료로 임상적 호전이 관찰되었으며 4년 추적 동안 병변이 안정적으로 유지되었다. 본 증례는 유사 소견의 드문 피부·심부 병변 관리에서 레플루노마이드의 적용 가능성을 제시하지만 단일 증례이므로 일반화에는 제한이 있다.",
+      "detailed_summary": "증례보고 디자인으로, 5개월령 암컷 잉글리시 불독이 단단한 선형 피하 판과 근육 침범을 주소로 내원하였다. 조직병리학적 평가에서 점액 침착(mucin deposition), 섬유아세포 증식(fibroblast proliferation) 및 진피 섬유화(dermal fibrosis)가 확인되어 심부 섬유점액성 질환으로 정리되었고 병리 소견은 경섬유점액증(scleromyxedema) 유사 소견과 일치했다. 치료로 레플루노마이드(leflunomide)를 투여하였고 임상적으로 호전되었으며 보고된 바에 따르면 4년의 추적 관찰 기간 동안 병변이 안정적으로 유지되었다. 초록에는 구체적 약물 용량·투여 기간의 수치나 표준화된 임상 점수 등 정량적 데이터는 제시되어 있지 않다. 결론적으로 레플루노마이드로 임상 호전 및 장기 안정성이 관찰되었으나, 단일 증례 보고라는 점에서 치료 효과의 일반화 및 인과관계 확립에는 제한이 있다.",
+      "title": "Deep Fibromucinous Disease With Features of Scleromyxedema in a Dog Managed With Leflunomide.",
+      "journal": "Veterinary Dermatology",
+      "generated_at": "2026-11-24T05:21:35.643Z",
+      "model": "gpt-5-mini"
+    },
+    "43071521": {
+      "brief_summary": "14개월 암컷 시추견이 elective 자궁난소절제술(ovariohysterectomy) 유도마취로 propofol과 lidocaine을 투여받은 직후 중증의 저혈압이 발생하고 도부타민(dobutamine)과 수액에도 난치하여 심폐정지(cardiopulmonary arrest)에 이르렀으나 심폐소생술(CPR)로 회복되었다. 회복 후 초음파에서 담낭벽 비후와 일시적 복강 내 자유액, 혈액검사에서 알라닌 아미노전달효소(ALT) 현저한 상승이 관찰되었고 혈관수축제와 코르티코스테로이드 투여 등 지지요법으로 점진적 회복을 보였다. 저자들은 마취 유도와 시간적으로 연관된 아나필락토이드(과민) 반응을 가장 유력한 감별진단으로 제시하나, 심정지 이후 허혈성 손상이나 정맥울혈 등 대체 기전은 배제할 수 없음을 강조한다.",
+      "detailed_summary": "증례보고로 14개월 암컷 시추견이 elective 자궁난소절제술(ovariohysterectomy) 유도를 위해 propofol과 lidocaine을 정주한 직후 발생한 급성 혈역학적 불안정성을 기술한다. 환자는 심한 저혈압을 보였고 수액요법 및 도부타민(dobutamine)에 반응하지 않아 곧바로 심폐정지(cardiopulmonary arrest)가 발생하였으며, 심폐소생술(CPR)로 회복되었다. 회복 후 영상검사에서는 담낭벽 비후와 일시적 복강 내 자유액이 관찰되었고 혈액검사에서는 알라닌 아미노전달효소(ALT) 수치가 현저히 상승하였다. 치료는 지속적인 혈역학적 지지(혈관수축제 포함)와 코르티코스테로이드 투여를 포함하였고 환자는 점진적으로 임상적·생화학적 회복을 보였다. 저자들은 시간적 연관성으로 보아 마취 유도와 관련된 과민반응(아나필락토이드 반응)을 가장 가능성이 높은 설명으로 제시하였으나, 논문은 이것이 확정적 인과관계임을 주장하지 않으며 심정지 후 허혈성 손상이나 정맥울혈 등 다른 기전은 배제되지 않는다고 명시한다. 이 증례는 유사한 급성 혈역학적 붕괴 상황에서 과민반응과 기타 원인(허혈·울혈)을 구분하는 데 진단적 어려움이 있음을 보여준다.",
+      "title": "Suspected Anaphylactoid Reaction Induced by Intravenous Propofol Administration in a Dog.",
+      "journal": "Veterinary Medicine and Science",
+      "generated_at": "2026-11-24T05:20:02.931Z",
       "model": "gpt-5-mini"
     }
   }
