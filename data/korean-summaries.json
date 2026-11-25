@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T05:22:29.723Z",
+  "updated_at": "2026-11-25T04:14:26.862Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -9279,6 +9279,46 @@
       "title": "Suspected Anaphylactoid Reaction Induced by Intravenous Propofol Administration in a Dog.",
       "journal": "Veterinary Medicine and Science",
       "generated_at": "2026-11-24T05:20:02.931Z",
+      "model": "gpt-5-mini"
+    },
+    "43073274": {
+      "brief_summary": "본 문서는 Maingi 등 저자의 논문(\"Baringo County, Kenya에서의 개 리슈마니아증(Leishmaniasis) 혈청유병률 및 관련 요인: 통합 One Health 감시의 시사점\")에 대한 정정 공지이다. 초록에는 'Text Correction [...]'만 표기되어 있어 정정 내용이 구체적으로 제시되어 있지 않다. 임상적 의미나 연구 결과의 변경 여부는 이 공지 만으로는 확인할 수 없어 원문과 정정문을 함께 확인해야 한다.",
+      "detailed_summary": "이 자료는 2026년 Veterinary Sciences에 게재된 Maingi 등 논문에 대한 정정 알림이다. 초록 본문에는 단순히 \"Text Correction [...]\"라는 표기만 있고, 정정의 구체적 내용(수정된 문장이나 단락 등)은 제시되어 있지 않다. 정정 공지에는 연구 설계, 표본 수, 주요 평가 항목, 혈청유병률 수치나 관련 요인에 대한 구체적 결과가 포함되어 있지 않다. 따라서 이 정정문만으로는 원 논문의 결론이나 임상적 권고사항이 변경되었는지 판단할 수 없다. 임상가는 진단·감시·관리 지침의 적용 여부를 결정하기 위해 원문 논문과 정정문 전문을 대조하여 확인해야 한다. 요약하면, 본 공지는 본문 텍스트의 수정이 있음을 알리는 것으로 새로운 데이터나 근거를 제공하지 않는다.",
+      "title": "Correction: Maingi et al. Seroprevalence and Factors Associated with Canine Leishmaniasis in Baringo County, Kenya: Implications for an Integrated One Health Surveillance. Vet. Sci. 2026, 13 , 857.",
+      "journal": "Veterinary Sciences",
+      "generated_at": "2026-11-25T04:14:26.842Z",
+      "model": "gpt-5-mini"
+    },
+    "43073431": {
+      "brief_summary": "이 논문은 개와 고양이에서 Malassezia spp., Candida spp., Cryptococcus spp. 감염과 관련한 선천면역과 적응면역의 역할을 문헌비평 방식으로 정리했다. Malassezia에서는 혈청 항체 농도가 항상 임상활동성과 일치하지 않았고, 효모의 제어와 염증성 손상이 반드시 연동하지 않는다는 실험적 근거가 제시된다. 임상적으로는 감염 부위와 형태에 따라 면역기전의 중요성이 달라지며, 수의학적 면역치료 연구는 제한적이라는 점이 강조된다.",
+      "detailed_summary": "이 논문은 주로 개·고양이 관련 문헌을 검토하고, 관련 자료가 부족할 때는 실험 연구를 포함한 기초연구를 참고한 비판적 문헌고찰이다. Malassezia 관련 질환에서는 혈청 항체 농도가 임상 중증도나 활동성을 일관되게 반영하지 못했으며, 실험에서는 곰팡이 증식 억제와 염증성 조직손상이 반드시 같은 방향으로 움직이지 않는 것으로 보였다. 칸디다증에서는 상피면역, 호중구와 기타 식세포의 중요성이 감염 부위에 따라 달라지며, 대부분의 기전적 증거는 Candida albicans로부터 유래한다. 크립토코커스증에서는 식세포가 곰팡이 증식을 억제하는 한편 세포내 서식처를 제공할 수 있다는 실험적 증거가 보고되었다. 저자들은 각 면역기전의 역할이 감염 부위와 임상형에 따라 달라진다고 결론지었고, 수의학적 면역치료(예: Malassezia에 대한 알레르기 특이 면역요법)를 다룬 문헌은 제한적이며 백신·사이토카인·면역관문 관련 치료는 주로 실험 단계임을 지적했다. 주요 한계로는 이러한 면역기전들을 질병 경과, 재발, 균 제거 및 치료 효과와 직접적으로 연결하는 연구가 부족하다는 점을 명확히 제시하고 있다.",
+      "title": "Innate and adaptive immunity in diseases of dogs and cats associated with Candida spp., Malassezia spp. and Cryptococcus spp.: a critical review.",
+      "journal": "Veterinary Research Communications",
+      "generated_at": "2026-11-25T04:14:12.296Z",
+      "model": "gpt-5-mini"
+    },
+    "43073717": {
+      "brief_summary": "소유자 없는 길고양이 암수 총 116마리(수컷 54, 암컷 62)의 외부 생식기(음경·전피, 질·외음부)를 무균 면봉으로 표본채취해 배양·동정한 연구이다. 696회 배양 시도 중 335건(48.13%)에서 균이 분리되었고, 총 21종의 세균이 동정되었으며 Escherichia coli(E. coli)가 40.59%로 가장 우세했다. 1–2세에서 감염률과 유의한 관련성이 있었고(p<0.05), 체중과는 유의한 관련성이 없었다(p>0.05). 연구진은 이러한 생식기 세균군이 내인성 또는 환경 기원일 수 있으며 공중보건·위생상의 위험을 시사할 수 있다고 결론지었다.",
+      "detailed_summary": "연구는 소유자 없는 길고양이 116마리(수컷 54, 암컷 62)의 외부 생식기 부위에서 무균 면봉으로 표본을 채취하고 적절한 배지에 배양한 뒤 형태학적·생화학적 검사로 균을 동정하는 방법으로 수행되었다. 전체 배양 시도 696건 중 335건(48.13%)에서 균 분리가 이루어졌고, 최종적으로 21종의 세균이 동정되었다. 동정된 균 중 Escherichia coli(E. coli)가 40.59%로 가장 높은 비율을 차지했다. 통계 분석에서는 연령 1–2세와 감염률 사이에 유의한 연관성이 관찰되었으나(p<0.05), 체중과의 관련성은 유의하지 않았다(p>0.05). 저자들은 대부분의 생식기 세균감염이 감수성 요인이 존재할 때 내인성 미생물군에 의해 발생할 수 있고 일부는 환경 기원일 수 있다고 보고하였다. 초록에는 구체적 제한점이나 추가적인 병원성·인수공통전염성 평가 결과는 명시되어 있지 않다.",
+      "title": "Investigation of the Bacterial Flora of External Reproductive System in Female and Male Stray Cats.",
+      "journal": "Veterinary Medicine and Science",
+      "generated_at": "2026-11-25T04:13:57.579Z",
+      "model": "gpt-5-mini"
+    },
+    "43073872": {
+      "brief_summary": "본 무작위 검사자-마스킹 다기관 임상시험은 알레르기성 피부염(개 아토피 포함, cAD)을 가진 개 69마리를 대상으로 atinvicitinib(Numelvi)과 oclacitinib(Apoquel)의 가려움 및 피부병변 개선과 안전성을 비교했다. 28일차에 가려움 시각 아날로그 척도(PVAS) < 2(정상)를 보인 비율은 atinvicitinib군 70%, oclacitinib군 65%였고, 동적 종적 모델에서는 atinvicitinib의 가려움 감소가 oclacitinib에 대해 비열등으로 나타났다. 두 군 모두 피부병변 VAS(DVAS)가 28일에 74% 감소했고 보고된 이상반응은 적으며 제품 정보와 일치했다. 임상적으로 atinvicitinib을 하루 1회 식후 투여하는 것은 28일간의 단기 평가에서 안전하고 효과적이었다.",
+      "detailed_summary": "연구는 포르투갈·스페인의 9개 클리닉에서 수행된 무작위 검사자-마스킹 양성대조 다기관 임상시험으로, PVAS ≥ 6인 알레르기성 피부염 개 69마리(atinvicitinib군 n=34, oclacitinib군 n=35)를 등록했다. 투약은 atinvicitinib 0.8–1.2 mg/kg을 하루 1회 식후(28±1일, n=34) 투여하거나, oclacitinib 0.4–0.6 mg/kg을 처음 14일간 하루 2회 투여 후 1일 1회로 변경(식사 여부 무관, n=35)하는 방식이었다. 주요 평가는 소유주가 D0,7,14,21,28에 평가한 PVAS와 수의사가 D0·D28에 평가한 피부병변 VAS(DVAS)였고 안전성은 이상사례 보고로 평가했다. 치료 효과는 기저치 대비 PVAS·DVAS의 백분율 감소로 분석했으며, 집단간 비교에는 동적 종적 모델을 사용했다. 결과적으로 D28에 PVAS < 2인 비율은 atinvicitinib 70%, oclacitinib 65%였고, 동적 모델에서 atinvicitinib의 가려움 감소는 oclacitinib에 대해 비열등으로 나타났다. DVAS는 두 군 모두 D28에 74% 감소했고 보고된 이상사례는 소수로 승인된 제품 정보와 일치했다. 결론은 atinvicitinib을 하루 1회 식후 투여하는 것이 28일간의 관찰에서 가려움과 피부병변 중증도를 감소시키는 데 안전하고 효과적이라는 것이며, 본 결과는 28일의 단기 평가에 근거한다.",
+      "title": "Efficacy and safety of atinvicitinib and oclacitinib in the control of pruritus in canine allergic dermatitis: a randomized, examiner-masked, positive-controlled multicenter clinical trial.",
+      "journal": "BMC Veterinary Research",
+      "generated_at": "2026-11-25T04:13:20.111Z",
+      "model": "gpt-5-mini"
+    },
+    "43073977": {
+      "brief_summary": "본 연구는 48쌍의 개-주인(준무작위 배정)을 대상으로 주인이 직접 시행하는 위로 행동이 낯선 물체(원격조종 자동차) 노출 시 개의 행동적 스트레스에 미치는 즉각적 영향을 평가했다. 주인이 적용한 네 가지 전략(진정, 접근·격려, 간식 제공, 수동 대기) 중 어떤 방법도 수동 대기 대비 일관되게 스트레스 관련 행동을 감소시키지 못했다. 주인의 개입은 주로 개의 주인 응시와 물체 근접 행동 등 사회적 행동과 근접성에 영향을 미쳤으며, 노출이 짧고 스트레스가 약해 추가 반복 실험이 필요함을 시사한다.",
+      "detailed_summary": "연구는 설문으로 주인이 유용하다고 생각하고 자주 쓰는 전략을 확인한 뒤 48개-주인 쌍을 준무작위로 네 조건(진정: 쓰다듬기·부드러운 목소리, 접근: 물체로 다가가 격려, 간식 제공, 통제: 수동)으로 배정했다. 실험은 원격조종 자동차를 1분간 노출하며 주인이 할당된 전략을 적용한 1단계(Phase 1)와 이후 모든 주인이 수동으로 남아 자동차를 다시 노출한 2단계(Phase 2)로 구성되었다. 평가 항목은 스트레스 관련 신체 언어, 전체적(holistic) 스트레스 점수, 친사회적 행동(주인 응시 등), 물체 지향 행동 등이었다. 설문에서 물체를 탐색하고 개를 격려하는 전략이 가장 유용하다고 평가되었고 무시하는 전략은 가장 덜 유용하다고 평가되었다. 실험 결과 모든 실험 조건의 개들이 통제군보다 주인을 더 자주 응시했으며, 접근 그룹은 1단계에서 물체 근접 시간이 더 길고 1단계에 비해 2단계에서 전체적 스트레스 점수가 더 낮아지는 양상을 보였다. 그러나 어떤 주인 제공 전략도 이 설정에서는 수동 대기 대비 스트레스 관련 행동을 일관되게 감소시키지 못했고, 연구 제한으로 짧고 약한 스트레스자극과 단회 노출이 있어 반복적 병치 실험이 필요하다고 결론지었다.",
+      "title": "Immediate behavioural outcomes of owner-delivered support during novel object exposure in dogs.",
+      "journal": "BMC Veterinary Research",
+      "generated_at": "2026-11-25T04:13:38.051Z",
       "model": "gpt-5-mini"
     }
   }

@@ -1,6 +1,40 @@
 {
-  "updated_at": "2026-11-24T05:19:43.395Z",
+  "updated_at": "2026-11-25T04:12:57.102Z",
   "papers": [
+    {
+      "pmid": "43073872",
+      "title": "Efficacy and safety of atinvicitinib and oclacitinib in the control of pruritus in canine allergic dermatitis: a randomized, examiner-masked, positive-controlled multicenter clinical trial.",
+      "journal": "BMC Veterinary Research",
+      "authors": "Heinau LK, Zschiesche E, Hakala M, Kavrik D, Hala P, de Oliveira AD, Suckstorff O, Horspool L, Kuhlmann I",
+      "date": "2026 11 24",
+      "dateObject": "2026 11 24",
+      "abstract": "Atinvicitinib is a Janus kinase 1-selective-inhibitor approved for the treatment of pruritus associated with allergic dermatitis, including canine atopic dermatitis (cAD). An examiner-masked, randomized study assessed safety and clinical improvement in pruritus and dermatitis severity in dogs with allergic dermatitis following treatment with atinvicitinib (Numelvi &#xae; tablets, MSD Animal Health) or oclacitinib (Apoquel &#xae; chewable tablets, Zoetis). Client-owned dogs (n&#x2009;=&#x2009;69) with allergic dermatitis and a pruritus visual analog scale (PVAS) score&#x2009;&#x2265;&#x2009;6 were enrolled at nine veterinary clinics in Portugal and Spain and treated with either atinvicitinib (0.8-1.2&#xa0;mg/kg once daily with food, n&#x2009;=&#x2009;34) or oclacitinib (0.4-0.6&#xa0;mg/kg, with or without food, twice daily for 14 days then once daily, n&#x2009;=&#x2009;35) for 28 (&#xb1;&#x2009;1) days. Safety was assessed based on adverse event (AE) reporting. Owners assessed PVAS on day (D) 0, 7, 14, 21 and 28, including overall response to treatment (ORTT-VAS) on D28. Veterinarians performed physical examinations and dermatitis VAS score (DVAS) on D0 and 28. Efficacy was evaluated as the percentage reduction in PVAS and DVAS from baseline. A dynamic longitudinal model was used to compare effectiveness between groups. On D28, 70% atinvicitinib- and 65% oclacitinib-treated dogs had PVAS&#x2009;<&#x2009;2 (normal). Dynamic longitudinal modelling showed that pruritus reduction after 28 days of atinvicitinib was non-inferior to that with oclacitinib at label doses. There was a 74% reduction in DVAS in both treatments by D28. All of the few AEs observed were consistent with approved product information. Atinvicitinib once daily with food is safe and effective in reducing pruritus and dermatitis severity in dogs with allergic dermatitis.",
+      "categories": [
+        "dermatology"
+      ]
+    },
+    {
+      "pmid": "43073977",
+      "title": "Immediate behavioural outcomes of owner-delivered support during novel object exposure in dogs.",
+      "journal": "BMC Veterinary Research",
+      "authors": "Miller J, Cavalli C, Azadian A, Protopopova A",
+      "date": "2026 11 24",
+      "dateObject": "2026 11 24",
+      "abstract": "Fearfulness is one of the most common behavioural concerns in domestic dogs, which can be observed in response to a wide range of stimuli, including sudden noises and novel objects. Because fear responses can adversely affect welfare, identifying effective ways to reduce fear is important. Given that dogs are highly responsive to human social cues, owner behaviour in the presence of a stressor may influence dogs' responses. This study investigated the effects of typical owner-delivered support strategies on dogs' behaviour and stress levels during exposure to a novel object. A survey was first conducted to identify the strategies that owners perceived as most useful and reported using most frequently. Subsequently, 48 dog-owner dyads were quasi-randomly allocated to one of four conditions: calming (petting the dog and speaking in a soothing voice), approach (approaching the object and verbally encouraging the dog), treats (offering food), or control (remaining passive). First, owners applied the assigned strategy during a 1&#xa0;min presentation of a remote-controlled car (Phase 1). To assess maintenance effects, the car was presented again, but all owners remained passive (Phase 2). Measures included stress-related body language, holistic stress scores, affiliative behaviours, and object-directed behaviours. Exploring the object and encouraging the dog to do the same was rated as useful by the highest proportion of owners, while the lowest proportion of owners considered ignoring the dog as a useful strategy. During the in-person experiment dogs in all experimental conditions gazed at the owner more than controls. Dogs in the approach group spent more time in proximity to the object and showed higher holistic stress scores in the first phase than in the second phase. None of the owner-delivered strategies reliably reduced stress-related behaviour versus passive control in this setting. Owner actions mainly influenced the dogs' social behaviours and proximity to the object. Given the mild stressor and brief exposure, future experiments using repeated pairings may be needed to clarify the effectiveness of these techniques.",
+      "categories": []
+    },
+    {
+      "pmid": "43073717",
+      "title": "Investigation of the Bacterial Flora of External Reproductive System in Female and Male Stray Cats.",
+      "journal": "Veterinary Medicine and Science",
+      "authors": "Garoussi MT, Sheibani N, Zahraei TS, Malmasi AA",
+      "date": "2026 11 23",
+      "dateObject": "2026 11 23",
+      "abstract": "Various infectious agents can infect the reproductive system. This study aimed to analyse the status of bacterial flora at external parts of reproductive system of female and male stray cats which may affect recognizing of healthcare risks and transfer of pathogens from animals to the human and public health. Totally, 116 samples of male (no. 54, 46.55%) and female (no. 62, 53.44%) cats without owners were taken from external organs of reproductive system (included penis and prepuce, vagina and vulva, respectively) using sterilized swab. The extracted swabs were cultured in appropriate media. Morphological and biochemical tests were conducted on isolates to determine the microorganism (no. 335 out of 696 cultures, 48.13%). In total, 21 isolates were determined. Escherichia coli (40.59%) was the most prevalent. A significant relationship was observed among the age of animals (1-2 years) and rate of infection (p&#xa0;<&#xa0;0.05). However, there was no significant relationship between weight and infected animals (p&#xa0;>&#xa0;0.05). It was concluded that female and male stray cats with different ages and various weights can be infected by bacterial agents, which could have endogenous or environmental origin. Most of the bacterial infections of reproductive system are created by endogenous microflora with the presence of susceptive factors. It may be a risk factor for human sanitation.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
     {
       "pmid": "43071521",
       "title": "Suspected Anaphylactoid Reaction Induced by Intravenous Propofol Administration in a Dog.",
@@ -12,6 +46,19 @@
       "categories": [
         "internalMedicine",
         "surgery"
+      ]
+    },
+    {
+      "pmid": "43073431",
+      "title": "Innate and adaptive immunity in diseases of dogs and cats associated with Candida spp., Malassezia spp. and Cryptococcus spp.: a critical review.",
+      "journal": "Veterinary Research Communications",
+      "authors": "&#x141;agowski D, Wykr&#x119;towicz K, Krawczak A, Dors A, Pomorska-M&#xf3;l M",
+      "date": "2026 11 23",
+      "dateObject": "2026 11 23",
+      "abstract": "The interactions between hosts and Malassezia spp., Candida spp., and Cryptococcus spp. can cause infections in dogs and cats and are associated with colonisation, overgrowth, hypersensitivity reactions, and localised or invasive disease. This review examines the roles and importance of innate and adaptive immunity in infections caused by these fungi. Focusing mostly on canine and feline literature, experimental literature was considered when lacking. In Malassezia-associated disease, serum antibody concentrations have not consistently reflected clinical activity, while experimental studies indicate that fungal control and inflammatory damage are not necessarily coupled. In candidiasis, the importance of epithelial immunity, neutrophils, and other phagocytes varies by site of infection, and most mechanistic data are derived from C. albicans. In cryptococcosis, experiments show that phagocytes suppress fungal proliferation and provide an intracellular niche for them. The role of each mechanism depends on infection site and clinical form of the disease. There is limited literature on veterinary immunotherapy, including allergen-specific immunotherapy for hypersensitivity to Malassezia spp. Vaccine-, cytokine-, and immune-checkpoint-based therapies have mostly been tested experimentally. In animal infections, especially in dogs and cats, correlations have been reported for the mechanisms discussed. One of the biggest gaps in the literature is the lack of studies linking these mechanisms to disease course, recurrence, fungal clearance, and treatment efficacy.",
+      "categories": [
+        "internalMedicine",
+        "dermatology"
       ]
     },
     {
@@ -51,6 +98,16 @@
         "internalMedicine",
         "surgery"
       ]
+    },
+    {
+      "pmid": "43073274",
+      "title": "Correction: Maingi et al. Seroprevalence and Factors Associated with Canine Leishmaniasis in Baringo County, Kenya: Implications for an Integrated One Health Surveillance. Vet. Sci. 2026, 13 , 857.",
+      "journal": "Veterinary Sciences",
+      "authors": "Maingi HN, Ndichu M, Yapi RB, Chege JN, Karanja DN, Lokonon BE, Tangus CJ, Ngowi H, Matoke-Muhia D, Bonfoh B",
+      "date": "2026 11 23",
+      "dateObject": "2026 11 23",
+      "abstract": "Text Correction [...].",
+      "categories": []
     },
     {
       "pmid": "43070048",
@@ -1093,30 +1150,6 @@
       "abstract": "Canine respiratory coronavirus (CRCoV) is a respiratory pathogen associated with the canine infectious respiratory disease complex (CIRDC). Although CRCoV is primarily considered a respiratory virus, its distribution beyond the respiratory tract remains poorly understood. This study investigated the prevalence, anatomical distribution, viral loads, and tissue localization of CRCoV in naturally infected dogs using both antemortem and postmortem samples. A total of 267 dogs were sampled using nasal (NS), oropharyngeal (OS), and rectal swabs (RS). CRCoV RNA was detected in 10.49% of dogs tested by reverse transcription quantitative PCR (RT-qPCR), and viral loads were quantified using reverse transcription digital PCR (RT-dPCR). CRCoV RNA was detected across all sampling routes, with significantly higher viral loads in NS than in OS (p&#x2009;<&#x2009;0.001) and RS (p&#x2009;<&#x2009;0.001), and higher viral loads in OS than in RS (p&#x2009;<&#x2009;0.01). Longitudinal sampling demonstrated that viral RNA became undetectable within one week in most dogs; however, viral shedding persisted in one severely ill dog that subsequently died. In postmortem samples, CRCoV RNA was detected in both respiratory and extra-respiratory tissues, and was successfully localized within the mesenteric lymph node by in situ hybridization, consistent with possible extra-respiratory detection. These findings provide new insight into the tissue distribution of CRCoV in naturally infected dogs, demonstrating a predominance in the respiratory tract while suggesting possible extra-respiratory detection. Further studies are needed to determine the biological significance of these findings and to confirm whether CRCoV undergoes systemic dissemination or active replication beyond the respiratory tract.",
       "categories": [
         "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "43021229",
-      "title": "Environmental contamination with zoonotic hookworms in urban Bangladesh: molecular evidence from shared human-dog interfaces.",
-      "journal": "BMC Veterinary Research",
-      "authors": "Nath TC, Tasnim J, Hasan MM, Rudro TR, Das D, Chowdhury T, Raquib R, Khondokar MR, Tusher PC, Siddiki T, Khanum H, Musa S",
-      "date": "2026 11 13",
-      "dateObject": "2026 11 13",
-      "abstract": "Zoonotic hookworms are important but underrecognized contributors to environmental contamination and public health risk in urban slum communities, where free-roaming dogs frequently interact with human populations. Although molecular investigations of hookworms have been reported from Bangladesh and other endemic countries, comprehensive surveillance of environmental canine fecal contamination in urban Bangladesh remains limited. This study investigated the prevalence and species diversity of hookworms in environmentally deposited canine fecal samples collected from urban slums in northeastern Bangladesh. A cross-sectional study was conducted in five urban slum communities of Sylhet City Corporation between January 2025 and April 2026. A total of 280 environmentally deposited canine fecal samples were examined using the formalin-ether concentration technique, modified Baermann technique (MBT), and polymerase chain reaction (PCR) targeting the internal transcribed spacer (ITS) region of ribosomal DNA. All PCR-positive amplicons were bidirectionally sequenced and subjected to phylogenetic analysis for species confirmation. A laboratory soil-spiking assay evaluated the analytical recovery efficiency of the modified Baermann technique for hookworm L3 recovery. Hookworm contamination was detected in 49.6% (139/280; 95% CI: 43.7-55.5) of samples by PCR, compared with 38.2% (107/280) by microscopy and 40.4% (113/280) by MBT. PCR demonstrated superior diagnostic sensitivity, while microscopy and MBT achieved sensitivities of 77.0% and 81.3%, respectively, using PCR as the comparator method. ITS-PCR amplification followed by sequence analysis identified five hookworm species:&#xa0;Ancylostoma caninum&#xa0;(n&#x2009;=&#x2009;90),&#xa0;A. ceylanicum(n&#x2009;=&#x2009;26),&#xa0;Necator americanus&#xa0;(n&#x2009;=&#x2009;12),&#xa0;Uncinaria stenocephala&#xa0;(n&#x2009;=&#x2009;7), and&#xa0;A. duodenale&#xa0;(n&#x2009;=&#x2009;4). Sequence identities with GenBank reference isolates ranged from 98.8% to 99.8%. Hookworm contamination was detected in all study locations, with prevalence ranging from 42.1% to 56.9%. The soil-spiking experiment demonstrated increasing larval recovery efficiency with increasing larval density, ranging from 55.7% to 98.1%. Widespread environmental contamination with hookworms was detected in shared human-dog environments in urban Bangladesh, with&#xa0;Ancylostoma caninum&#xa0;and&#xa0;A. ceylanicum&#xa0;identified as the predominant zoonotic species. The detection of&#xa0;Necator americanus&#xa0;and&#xa0;A. duodenale&#xa0;should be interpreted cautiously, as it may reflect environmental contamination, occasional misclassification of fecal origin, or passive passage following coprophagy rather than established canine infection. These findings highlight the value of molecular environmental surveillance for informing One Health strategies to reduce zoonotic hookworm exposure. Future studies incorporating molecular confirmation of fecal host origin and simultaneous human, animal, and environmental sampling are needed to better understand transmission pathways.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
-      "pmid": "43021339",
-      "title": "Defining and classifying peri-anaesthetic mortality in dogs and cats using the Delphi method: the Definition Research for Establishing Anaesthetic Mortality (D.R.E.A.M.) consensus study.",
-      "journal": "BMC Veterinary Research",
-      "authors": "Hern&#xe1;ndez-Maga&#xf1;a EZ, Redondo JI",
-      "date": "2026 11 13",
-      "dateObject": "2026 11 13",
-      "abstract": "Peri-anaesthetic mortality is an important indicator of anaesthetic safety in dogs and cats, but comparisons between studies are limited by inconsistent definitions, temporal windows and attribution criteria. This three-round online Delphi study sought expert consensus on principles for defining and conceptually classifying peri-anaesthetic mortality in dogs and cats. Spanish-speaking experts in veterinary anaesthesia and analgesia completed an exploratory open-ended round followed by two structured consensus rounds. Round 2 evaluated 38 statements on a 1-9 agreement scale, and Round 3 evaluated 18 refinement statements on a 0-10 scale transformed to a continuous 1-9 analytical scale. Positive consensus was defined as median&#x2009;&#x2265;&#x2009;7 and interquartile range&#x2009;&#x2264;&#x2009;2, and negative consensus as median&#x2009;&#x2264;&#x2009;3 and interquartile range&#x2009;&#x2264;&#x2009;2. Of 57 experts invited, 47 participated in Round 1, and all completed Rounds 2 and 3. In Round 2, 23 statements reached positive consensus, one reached negative consensus and 14 did not reach consensus. In Round 3, nine statements reached positive consensus, one reached negative consensus and eight did not reach consensus. The panel supported separating temporal eligibility from causal attribution, assigning one primary cause when sufficient information was available and recording contributing factors separately. Supported causal domains included anaesthesia, surgery, diagnostic procedures, pre-existing disease and sedation. Fixed 24-hour, 48-hour and 7-day windows did not reach consensus as standalone criteria. A flexible model using a 24-hour or 48-hour base window, with extension up to 7 days only when supported by evidence of an anaesthetic complication, reached positive consensus. Unresolved areas included the base window, single-count reporting, anaesthesia as a contributing but non-primary factor, treatment limitation or economic constraints, an independent sedation-specific definition and an indeterminate or unclassifiable category. This study supports a preliminary hierarchical causal framework rather than classification based on timing alone or a binary anaesthetic versus non-anaesthetic distinction. The findings provide a conceptual basis for developing and validating a practical classification tool for research, morbidity and mortality review and clinical audit, but the framework should not yet be interpreted as a validated adjudication tool.",
-      "categories": [
-        "surgery"
       ]
     },
     {
@@ -2602,18 +2635,6 @@
       ]
     },
     {
-      "pmid": "42944166",
-      "title": "MicroRNA Regulation of the Estrogen Receptor Alpha 3'UTR in Canine Mammary Tumor (CMT28) Cells.",
-      "journal": "Veterinary Sciences",
-      "authors": "Goyal D, Bird RC",
-      "date": "2026 10 27",
-      "dateObject": "2026 10 27",
-      "abstract": "Reduced estrogen receptor alpha (ER&#x3b1;/ ESR1 ) expression is seen in canine mammary tumors, but the mechanisms involved are not fully understood. This study examined ESR1 , miR-18a, and miR-19a expression in canine mammary cell lines. Further CMT28, a canine mammary tumor cell line, was used to test whether these miRNAs can regulate the reporter activity through selected regions of the canine ESR1 3'UTR containing predicted miR-18a and miR-19a binding sites. ESR1 mRNA expression was measured by RT-qPCR, and miR-18a and miR-19a expression was measured using LNA-based assays. ESR1 mRNA expression was much lower in CMT27, CMT28, and CMT47 compared with normal canine mammary epithelial cells, while CMT12 showed higher expression. miR-18a and miR-19a were increased to different levels across the tumor cell lines. Bioinformatic analysis identified predicted miR-18a and miR-19a seed-match sites in the canine ESR1 3'UTR. Luciferase reporter assays showed that both miR-18a and miR-19a significantly reduced activity of the reporter containing selected regions of the 3'UTR of ESR1 encoding predicted miR-18a and miR-19a binding sites. In contrast, neither miRNA significantly reduced activity of the mutant reporter containing deletions in the predicted miR-18a and miR-19a seed-match regions. Anti-miR-18a and anti-miR-19a also significantly increased reporter activity compared with the corresponding miRNA alone. These findings provide functional evidence that miR-18a and miR-19a can regulate reporter activity through selected regions of the canine ESR1 3'UTR. Further studies are needed to determine the role of this regulation in endogenous ESR1 expression and canine mammary tumor biology.",
-      "categories": [
-        "oncology"
-      ]
-    },
-    {
       "pmid": "42904814",
       "title": "Correction to \"A Rare Case of Cutaneous Infection by Corynascus verrucosus in a Shih Tzu Dog: Molecular Identification and Phylogenetic Analysis\".",
       "journal": "Veterinary Medicine and Science",
@@ -2676,16 +2697,6 @@
         "cardiology",
         "surgery"
       ]
-    },
-    {
-      "pmid": "42911314",
-      "title": "Serological response to field rabies vaccination in owned dogs in the immune belt of Peninsular Malaysia.",
-      "journal": "Veterinary Research Communications",
-      "authors": "Noorazmi MSN, Ahmad Yunus AF, Che Rose FZ, Ballakrishnan N, Mohd Ziadi MZ, Ismail MAR, Razali MA, Rajeendran A, Abd Aziz MR, Wan Omar Bakri WN, Zainun Z, Merawin LT, Mohd Saeid FH",
-      "date": "2026 10 23",
-      "dateObject": "2026 10 23",
-      "abstract": "Rabies vaccination is conducted along the northern border of Peninsular Malaysia, but paired field serological data are limited. We analysed routine programme data from 154 owned dogs sampled immediately before vaccination and 30-83 days later (median, 43 days). Rabies virus-neutralising antibody levels were measured using the fluorescent antibody virus neutralisation test. Paired levels in IU/mL were compared using the Wilcoxon signed-rank test, and benchmark proportions were compared using the exact McNemar test. The proportion with levels&#x2009;&#x2265;&#x2009;0.5 IU/mL increased from 72.7% (112/154; 95% confidence interval [CI], 65.2-79.1%) to 98.1% (151/154; 95% CI, 94.4-99.3%; p&#x2009;<&#x2009;0.001). Three dogs remained below the benchmark. Median levels increased from 1.98 IU/mL (interquartile range [IQR], 0.38-5.92) to 13.5 IU/mL (IQR, 4.5-13.5); the median paired increase was 5.45 IU/mL (bootstrap 95% CI, 3.31-7.25; p&#x2009;<&#x2009;0.001). Levels increased in 128 dogs, were unchanged in 19 and decreased in seven. Eighty follow-up values equalled the dataset maximum of 13.5 IU/mL, suggesting possible upper-end censoring. Vaccination history identified 99 previously vaccinated dogs and seven recorded as receiving their first vaccination, limiting comparison of these groups. Nearly all dogs retained at follow-up met the serological benchmark. Convenience sampling, incomplete follow-up and uncertain measurement limits restrict inference to this cohort and preclude estimates of population immunity or clinical effectiveness.",
-      "categories": []
     },
     {
       "pmid": "42904785",
@@ -2795,18 +2806,6 @@
         "internalMedicine",
         "oncology",
         "surgery"
-      ]
-    },
-    {
-      "pmid": "42873077",
-      "title": "Double-Antibody Sandwich Enzyme-Linked Immunosorbent Assay for Detecting Feline Coronavirus Infection.",
-      "journal": "Veterinary Medicine and Science",
-      "authors": "Dong B, Zou W, Hu W, Wu H, Jing Y, Xie F, Zhang S, Lin W",
-      "date": "2026 10 14",
-      "dateObject": "2026 10 14",
-      "abstract": "Double-antibody sandwich enzyme-linked immunosorbent assay (DAS-ELISA) is a simple and accurate method for detecting viral pathogens. This study established a DAS-ELISA for the diagnosis of feline coronavirus (FCoV). In this study, DAS-ELISA was performed using FCoV S-protein rabbit polyclonal and mouse monoclonal antibodies. The optimal reaction conditions were determined using the chessboard method. The specificity, repeatability and receiver operating characteristic (ROC) curve were used to verify the clinical application potential of the DAS-ELISA. The intra- and inter-assay %CVs were 3.90-14.10 and 2.55-11.02, respectively. In a preliminary specificity evaluation using 12 faecal samples each from cats infected with feline panleukopenia virus, feline calicivirus or feline herpesvirus, the DAS-ELISA showed no detectable cross-reactivity with any of these pathogens. The positive coincidence rate of DAS-ELISA and RT-PCR was 81.3%. The ROC curve showed that the sensitivity, specificity and ROC AUC were 81.3%, 80.0% and 0.861, respectively. Collectively, these results suggest that the developed DAS-ELISA can be used to detect FCoV pathogens in clinical samples. This study provides a selection method for the diagnosis of FCoV and a data supplement for epidemiological studies of FCoV.",
-      "categories": [
-        "internalMedicine"
       ]
     },
     {
