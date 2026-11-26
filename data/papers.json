@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-11-25T04:12:57.102Z",
+  "updated_at": "2026-11-26T03:35:10.093Z",
   "papers": [
+    {
+      "pmid": "43080212",
+      "title": "Concurrent Pericardial Effusion Leading to Cardiac Tamponade as the Initial Manifestation of Multicentric Lymphoma in a Dog.",
+      "journal": "Veterinary Medicine and Science",
+      "authors": "Pereira DS, Bezerra GAP, Viana DC, Santos DLD",
+      "date": "2026 11 25",
+      "dateObject": "2026 11 25",
+      "abstract": "Multicentric lymphoma is one of the most common haematopoietic neoplasms in dogs and may present with variable systemic and cardiothoracic manifestations. This report describes a case of multicentric lymphoma in an 8-year-old mixed-breed dog presenting with severe respiratory distress associated with concurrent pleural and pericardial effusions leading to cardiac tamponade. Clinical investigation included thoracic radiography, abdominal ultrasonography, echocardiography, electrocardiography and cytological evaluation of pericardial fluid. Imaging examinations revealed marked cardiomegaly, hepatomegaly, splenic mass and significant thoracic effusions associated with cardiopulmonary compromise. Pericardiocentesis was performed as both therapeutic and diagnostic procedure, allowing temporary haemodynamic stabilization and cytological identification of malignant lymphoid proliferation compatible with multicentric lymphoma. Despite supportive treatment and transient clinical improvement, rapid recurrence of respiratory signs resulted in death. This report highlights the clinical importance of recognizing concurrent thoracic effusions as potential indicators of advanced systemic neoplasia in dogs. The case emphasizes the value of rapid multimodal diagnostic investigation, particularly the integration of imaging techniques and cavitary fluid cytology, in the management of critically ill patients with suspected neoplastic thoracic disease.",
+      "categories": [
+        "cardiology",
+        "internalMedicine",
+        "oncology"
+      ]
+    },
+    {
+      "pmid": "43080578",
+      "title": "Effect of pimobendan on right-heart remodeling in dogs with tricuspid valve dysplasia: an exploratory study.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Abbott-Johnson K, Potter B, Visser L, Scansen BA, Arai S",
+      "date": "2026 11 25",
+      "dateObject": "2026 11 25",
+      "abstract": "Tricuspid valve dysplasia (TVD) is a rare congenital heart defect in dogs often resulting in severe tricuspid valve regurgitation (TR). No guidelines for medical therapy have been established for dogs with severe TR. Tricuspid valve repair surgery is available for dogs but carries a moderate risk and high cost. This exploratory study evaluated the effect of oral pimobendan on chamber sizes and remodeling of the right side of the heart in dogs with TVD. Retrospective echocardiographic data from ten dogs with TVD and severe TR were retrieved. All dogs received oral pimobendan (range 0.21-0.31&#x202f;mg/kg Q12h) for an average of 18&#x202f;months (range 3-41). The right atrial (RA) diameter, RA area, right ventricular (RV) diameter, RV area and fractional area change, tricuspid annular plane systolic excursion (TAPSE), and dimension of the tricuspid valve annulus (TVA) were quantified, and compared before and at a median of 3&#x202f;months after starting pimobendan therapy. All dogs had severe TR. The normalized RV diameter and TVA decreased after pimobendan administration [1.40&#x202f;&#x2192;&#x202f;1.27 (SD 0.23), p &#x202f;=&#x202f;0.027; 11.77&#x202f;&#x2192;&#x202f;10.58 (SD 1.95), p &#x202f;=&#x202f;0.01]. No significant changes in RA area, RA diameter, RV area, TAPSE, peak TR velocity, or RV fractional area change were present after pimobendan therapy (all p &#x202f;>&#x202f;0.08). No dogs in this study population progressed to right-sided congestive heart failure during the follow-up period. Pimobendan reduced the size of the right ventricle and diameter of the tricuspid annulus compared to baseline, which may limit progression of disease in dogs with TVD with severe TR.",
+      "categories": [
+        "cardiology",
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "43080372",
+      "title": "Association between lipid profile alterations and azotemia severity in dogs: a cross-sectional study.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Bhardwaj H, Behera A, Kumar A, Singh VK, Bhatt S, Mandal RS, Tiwary R, Kumar R, Singh GD, Kumar D, Kumar K, Kaushik P, Siddique RA, Kumar P, Shekhar P",
+      "date": "2026 11 25",
+      "dateObject": "2026 11 25",
+      "abstract": "Renal dysfunction in dogs is accompanied by metabolic and biochemical disturbances, including dyslipidemia. However, information on the relationship between lipid abnormalities and azotemia severity remains limited. This study evaluated lipid profile alterations and their association with biochemical and hematological parameters in azotemic dogs. Clinical and laboratory records of 100 dogs presented to the Teaching Veterinary Clinical Complex, Bihar Veterinary College, Patna, India, between April 2024 and March 2025 were retrospectively evaluated. The study included 50 healthy and 50 azotemic dogs with serum creatinine >1.7 mg/dl. Azotemic dogs were categorized as Group 1 (1.7- <5.0 mg/dl; n = 17), Group 2 (5.0-15.0 mg/dl; n = 23), and Group 3 (>15.0 mg/dl; n = 10). Hematological, renal, electrolyte, hepatic-associated biochemical, and lipid parameters were evaluated. Data were expressed as median (interquartile range). Group differences were assessed using the Kruskal-Wallis H test followed by Dunn's post-hoc test with Bonferroni correction. Associations were evaluated using Spearman's rank correlation coefficient (&#x3c1;), with p < 0.05 considered significant. Compared with healthy dogs, azotemic dogs had lower hemoglobin and hematocrit and higher blood urea nitrogen, potassium, phosphorus, alkaline phosphatase, and total bilirubin concentrations. Albumin was significantly lower in Groups 2 and 3. Cholesterol, triglycerides, and low-density lipoprotein (LDL) were significantly higher in all azotemia groups than in healthy controls, whereas high-density lipoprotein did not differ significantly. However, cholesterol, triglycerides, and LDL did not differ significantly among azotemia groups, indicating no stepwise increase with creatinine-defined severity. In the overall azotemic population, creatinine correlated positively with cholesterol (&#x3c1; = 0.393, p < 0.001), triglycerides (&#x3c1; = 0.265, p = 0.008), and LDL (&#x3c1; = 0.457, p < 0.001). Blood urea nitrogen correlated positively with cholesterol (&#x3c1; = 0.455, p < 0.001) and LDL (&#x3c1; = 0.571, p < 0.001). Azotemia in dogs is associated with dyslipidemia and broader systemic biochemical alterations. Although cholesterol, triglycerides, and LDL were increased in azotemic dogs, they did not progressively increase across creatinine-defined categories. Lipid profiling may therefore serve as an adjunct to metabolic evaluation, while longitudinal studies incorporating additional renal biomarkers are warranted.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
     {
       "pmid": "43073872",
       "title": "Efficacy and safety of atinvicitinib and oclacitinib in the control of pruritus in canine allergic dermatitis: a randomized, examiner-masked, positive-controlled multicenter clinical trial.",
@@ -22,6 +61,19 @@
       "dateObject": "2026 11 24",
       "abstract": "Fearfulness is one of the most common behavioural concerns in domestic dogs, which can be observed in response to a wide range of stimuli, including sudden noises and novel objects. Because fear responses can adversely affect welfare, identifying effective ways to reduce fear is important. Given that dogs are highly responsive to human social cues, owner behaviour in the presence of a stressor may influence dogs' responses. This study investigated the effects of typical owner-delivered support strategies on dogs' behaviour and stress levels during exposure to a novel object. A survey was first conducted to identify the strategies that owners perceived as most useful and reported using most frequently. Subsequently, 48 dog-owner dyads were quasi-randomly allocated to one of four conditions: calming (petting the dog and speaking in a soothing voice), approach (approaching the object and verbally encouraging the dog), treats (offering food), or control (remaining passive). First, owners applied the assigned strategy during a 1&#xa0;min presentation of a remote-controlled car (Phase 1). To assess maintenance effects, the car was presented again, but all owners remained passive (Phase 2). Measures included stress-related body language, holistic stress scores, affiliative behaviours, and object-directed behaviours. Exploring the object and encouraging the dog to do the same was rated as useful by the highest proportion of owners, while the lowest proportion of owners considered ignoring the dog as a useful strategy. During the in-person experiment dogs in all experimental conditions gazed at the owner more than controls. Dogs in the approach group spent more time in proximity to the object and showed higher holistic stress scores in the first phase than in the second phase. None of the owner-delivered strategies reliably reduced stress-related behaviour versus passive control in this setting. Owner actions mainly influenced the dogs' social behaviours and proximity to the object. Given the mild stressor and brief exposure, future experiments using repeated pairings may be needed to clarify the effectiveness of these techniques.",
       "categories": []
+    },
+    {
+      "pmid": "43079147",
+      "title": "Cystic clear cell thymoma in a cat: clinical, imaging, anatomopathological and immunohistochemical findings.",
+      "journal": "Veterinary Research Communications",
+      "authors": "Maia LVP, Serakides R, Pastor FM, de Oliveira LED, Ferrante B, de Souza AM, Nepomuceno AC",
+      "date": "2026 11 24",
+      "dateObject": "2026 11 24",
+      "abstract": "Thymomas are uncommon thymic epithelial neoplasms in cats and may present uncommon histological variants, such as cystic clear cell thymoma. The aim of this case report was to describe the clinical, imaging, anatomopathological, and immunohistochemical findings of a cystic clear cell thymoma in a four-year-old mixed-breed female cat presented with anorexia and progressive dyspnea. Imaging examinations revealed a large heterogeneous mediastinal mass with cystic components, accompanied by pleural effusion and pulmonary compression. Ultrasound-guided cytology was inconclusive. Despite intensive supportive care, the patient died due to respiratory failure. Necropsy revealed a large mediastinal mass occupying approximately 70-80% of the thoracic cavity, accompanied by compressive pulmonary atelectasis and hydrothorax. Histologically, the neoplasm was predominantly composed of carbohydrate-rich clear epithelial cells accompanied by cystic structures, scattered mature lymphocytes and rare Hassall's corpuscles. Immunohistochemistry demonstrated strong nuclear expression of p40, p63 and CKAE1/AE3 in the neoplastic cells, whereas CD3 labeling was restricted to non-neoplastic lymphocytes, supporting the diagnosis of cystic clear cell thymoma. This report expands the current knowledge of this rare tumor variant in cats and highlights the importance of imaging examinations, histopathology, and immunohistochemistry for establishing a definitive diagnosis.",
+      "categories": [
+        "internalMedicine",
+        "oncology"
+      ]
     },
     {
       "pmid": "43073717",
@@ -1248,32 +1300,6 @@
       "abstract": "Hypertrophic cardiomyopathy is the most common heart disease of cats and is conventionally characterised by its ventricular phenotype. The clinical events that determine quality and duration of life in affected cats, however, are atrial in their proximate pathophysiology. Congestive heart failure arises from elevated left atrial pressure transmitted to the pulmonary venous bed, arterial thromboembolism arises from blood stasis in a remodelled and dysfunctional left atrial appendage, and survival tracks left atrial size and function independently of left ventricular wall thickness. Recent longitudinal evidence indicates that lower left atrial fractional shortening can be detected before the diagnostic threshold for left ventricular hypertrophy is met, suggesting the atrium registers the disease before the ventricular wall-thickness criterion does. Despite this body of evidence, contemporary diagnostic frameworks, prognostic models, and the regulatory endpoint underpinning the recent conditional approval of delayed-release rapamycin remain anchored on the ventricle. This narrative review examines the atrial contribution to feline hypertrophic cardiomyopathy through five themes: atrial pathobiology, atrial imaging, atrial-driven outcomes, the implications for emerging disease-modifying therapy, and the practical implications for the cardiology consultation. We outline a framework for stage-anchored therapy decisions and a research agenda prioritising atrial trial endpoints and multicentre replication. In a disease affecting 14.7% of apparently healthy cats, with an 11.3% 10-year thromboembolic risk in preclinical cohorts, we propose that the atrium should now be at the centre of feline hypertrophic cardiomyopathy rather than at its periphery.",
       "categories": [
         "cardiology"
-      ]
-    },
-    {
-      "pmid": "43016731",
-      "title": "Will a trans-articular external fixator placed across the canine stifle allow normal motion if the hinge is centered over the femoral condyle?",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Baldeon MA, Roe S, Knazovicky D",
-      "date": "2026 11 12",
-      "dateObject": "2026 11 12",
-      "abstract": "Traumatic ligamentous stifle injuries are often immobilized with hinged transarticular external skeletal fixation (htaESF), with the hinge placed over the center of the joint. Range of motion (ROM) in htaESF can protect cartilage, however during ROM the stifle center changes. We hypothesized that a hinge placed over the center of the femoral condyles would not allow normal femoro-tibial positioning during ROM. Eight canine pelvic limbs were harvested. Femurs were immobilized and tibias pinned to control rotation during ROM. The femoral condylar center at 135&#xb0; was marked and lines drawn to a point on the tibia and femur marked on a radio-opaque grid. Radiographs were taken every 5&#xb0; through ROM. Intersect point (IP) was the intersection of the femoral and tibial lines. The IP x-y coordinates were normalized and plotted. Convex hull area for IP coordinates was calculated. Coefficient variation of the Euclidean distance was calculated. Intersect shift and flexion angle relationship was modeled with a linear mixed model. IP path was non-linear with no consistent pattern between individual legs and within each dog. Convex hull area was large and bilaterally asymmetrical. Linear mixed model analysis revealed a significant inverse relationship between IP shift and stifle angle ( P < 0.001). The IP of stifle joints during ROM are likely not similar enough to safely execute ROM while in a htaESF. Limitations include previously frozen limbs, and evaluation of only one point in the stifle. Further investigation must be done to determine the ideal construct for ROM without placing abnormal forces on the joint.",
-      "categories": [
-        "surgery"
-      ]
-    },
-    {
-      "pmid": "43016486",
-      "title": "Beyond the lungs and heart: a possible association between digestive disease and exercise intolerance in 10 dogs.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Corsaletti A, Martineau M, Etien H, Le Boedec K",
-      "date": "2026 11 12",
-      "dateObject": "2026 11 12",
-      "abstract": "Exercise intolerance and panting are classically attributed to cardiac, respiratory, or other diseases. In some cases, the underlying etiology remains undetermined despite a comprehensive diagnostic workup. While fatigue is one of the most common symptoms in humans with inflammatory bowel disease (IBD), chronic enteropathy is not currently recognized as a primary cause of exercise intolerance in dogs. A retrospective review was conducted on the medical records of 10 dogs presenting with exercise intolerance lacking overt digestive or respiratory signs. All dogs underwent empirical gastrointestinal-directed medical and dietary therapies with subsequent owner-perceived clinical resolution. Ten dogs presenting with chronic exercise intolerance were evaluated. Six of these dogs also exhibited unexplained panting at rest (6/10). Subtle gastrointestinal signs and abdominal discomfort on palpation were present in four and five cases, respectively. Standard cardiopulmonary and metabolic investigations were largely unremarkable. Notably, half of the cohort (5/10) exhibited cobalamin insufficiency or deficiency. Dogs were managed with gastrointestinal-directed medical therapies (e.g., prokinetics, acid suppressants, tylosin) and/or dietary modifications (predominantly low-fat, single-protein (monoprotein), or hydrolyzed diets). Following these targeted interventions, all dogs achieved complete clinical resolution per owners within a median of 21&#x202f;days. A gastrointestinal etiology may be considered in dogs presenting with unexplained exercise intolerance and excessive panting. Subtle physical exam findings, serum cobalamin and folate concentrations, and empirical dietary/medical trials can be used to support clinical suspicion. This case series suggests a potential canine equivalent of human IBD-related fatigue, highlighting the need for further research into the gut-brain axis, intestinal dysbiosis, and delayed gastric emptying in veterinary medicine.",
-      "categories": [
-        "cardiology",
-        "internalMedicine",
-        "neurology"
       ]
     },
     {
@@ -2661,19 +2687,6 @@
       ]
     },
     {
-      "pmid": "42925354",
-      "title": "Demographic and environmental factors associated with canine cutaneous squamous cell carcinoma development in Australia: a retrospective matched case-control analysis.",
-      "journal": "Veterinary Research Communications",
-      "authors": "Zhang JJ, Dejene H, Granados-Soler JL, Henning J, Allavena R",
-      "date": "2026 10 24",
-      "dateObject": "2026 10 24",
-      "abstract": "Cutaneous squamous cell carcinoma (cSCC) is a common canine skin tumour that occurs more frequently in high ultraviolet (UV) environments. Despite Australia's consistently high UV exposure, large-scale epidemiological studies on canine cSCC are limited. This study investigates the frequency of canine cSCC in Australia, its geographic patterns relative to UV index, and its association with animal-level risk factors. A matched case-control study was conducted using records from the VetCompass database from 1st January 2014 to 31st December 2023. In total, 295 histopathologically confirmed cSCC cases and 1,180 matched controls were included. Frequency statistics of cSCC and animal-level risk factors associated with cSCC were analysed and spatial patterns were mapped. The highest proportions of cases were recorded in Queensland (39.7%) and New South Wales (39.3%), with increased frequency along coastal areas of both states. cSCC cases occurred most frequently on body regions caudal to the thorax (54.9%), in senior dogs (58.6%), in desexed males (45.1%), and in dogs with white mixed coat colour (43.7%). In the final multivariable model, senior (seven to 11 years old) and geriatric (12&#x2009;+&#x2009;years old) dogs had significantly higher odds of cSCC than mature (two to six years old) dogs (odds ratio&#x2009;=&#x2009;7.4 and 4.8, respectively; p&#x2009;&#x2264;&#x2009;0.001). Risk was also markedly elevated in Dalmatians, bulldogs, Staffordshire terriers, and schnauzers compared with mixed breeds. Dogs with white or white mixed coats had higher odds of cSCC than dark-coated dogs (p&#x2009;&#x2264;&#x2009;0.001). cSCC demonstrated anatomical and geographic patterns consistent with chronic UV exposure, with age, breed, and coat pigmentation emerging as risk factors.",
-      "categories": [
-        "oncology",
-        "dermatology"
-      ]
-    },
-    {
       "pmid": "42906717",
       "title": "Histomorphometric characterization of cardiac nodes in cattle, ponies, and cats.",
       "journal": "Topics in Companion Animal Medicine",
@@ -2792,20 +2805,6 @@
       "categories": [
         "internalMedicine",
         "oncology"
-      ]
-    },
-    {
-      "pmid": "42873078",
-      "title": "Rare Feline Gingival Extramedullary Plasmacytoma: Clinical Application of Electrochemotherapy for Local Control.",
-      "journal": "Veterinary Medicine and Science",
-      "authors": "Hwang S, Ryu H, Jung DI, Yu D, Cho KW, Bae H",
-      "date": "2026 10 14",
-      "dateObject": "2026 10 14",
-      "abstract": "Feline extramedullary plasmacytoma (EMP) is an uncommon plasma cell neoplasm typically regarded as biologically benign; however, its clinical behaviour may be heterogeneous. This case report describes an aggressive gingival EMP in a 14-year-old neutered male Turkish Angora cat, characterised by alveolar bone lysis and cytologically confirmed regional lymph node metastasis in the absence of systemic features consistent with multiple myeloma. Histopathological examination revealed an infiltrative round cell neoplasm with high mitotic index, and strong diffuse MUM-1 immunoreactivity confirmed the diagnosis. As complete surgical excision was declined, and tumour regrowth occurred after repeated radiation therapy, electrochemotherapy (ECT) was selected for local tumour control. Bleomycin (15,000&#xa0;IU/m 2 IV) was administered before pulse delivery, and three ECT sessions were performed at weekly intervals. The tumour volume decreased by more than 70%, which was consistent with a partial response, and only mild self-limiting local adverse effects were observed. No systemic toxicity was observed. To the best of our knowledge, this is the first report describing the use of ECT for feline gingival EMP. This case highlights the potential biological heterogeneity of feline EMP and suggests that ECT may provide short-term local tumour reduction and palliation when complete surgical excision is not feasible.",
-      "categories": [
-        "internalMedicine",
-        "oncology",
-        "surgery"
       ]
     },
     {

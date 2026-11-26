@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T04:14:26.862Z",
+  "updated_at": "2026-11-26T03:36:26.223Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -9319,6 +9319,38 @@
       "title": "Immediate behavioural outcomes of owner-delivered support during novel object exposure in dogs.",
       "journal": "BMC Veterinary Research",
       "generated_at": "2026-11-25T04:13:38.051Z",
+      "model": "gpt-5-mini"
+    },
+    "43079147": {
+      "brief_summary": "4세 혼합견(암컷) 고양이에서 식욕부진과 진행성 호흡곤란을 주소로 내원한 증례보고로, 영상검사에서 낭성 성분을 포함한 거대한 이질적 종격동 종괴와 흉수 및 폐 압박 소견을 보였다. 초음파 유도 세포검사는 비결정적이었고, 집중적 지지요법에도 불구하고 환자는 호흡부전으로 사망하였다. 부검·조직병리 및 면역조직화학(IHC)에서 p40, p63 및 CKAE1/AE3의 강한 핵 양성 및 CD3가 비종양성 림프구에만 표지되어 낭성 투명세포 흉모종(cystic clear cell thymoma)으로 진단되었다는 점에서 영상검사와 조직학·IHC의 중요성을 시사한다.",
+      "detailed_summary": "본 논문은 단일 증례보고로 4세 혼합견 암컷 고양이를 대상으로 했다. 환자는 식욕부진과 점진적 호흡곤란으로 내원했으며 영상검사에서 낭성 성분을 포함한 크고 이질적인 종격동 종괴, 흉수 및 폐 압박 소견이 관찰되었다. 초음파 유도 세포검사는 진단적 소견을 제공하지 못했고, 집중적 지지치료에도 불구하고 환자는 호흡부전으로 사망하였다. 부검에서는 흉강의 약 70–80%를 차지하는 큰 종격동 종괴와 압박에 의한 폐 허탈 및 흉수가 확인되었다. 조직학적으로 종양은 탄수화물 함유가 많은 투명 상피세포와 낭구조, 흩어진 성숙 림프구 및 드문 하셀 소체(Hassall's corpuscles)로 구성되었다. 면역조직화학(IHC)에서 종양세포는 p40, p63 및 CKAE1/AE3의 강한 핵 표지를 보였고 CD3 표지는 비종양성 림프구에만 제한되어 최종적으로 낭성 투명세포 흉모종으로 확정되었다. 본 증례는 이 드문 병변의 병리학적·면역표지 특징을 확립하는 데 기여하나 단일 증례라는 점에서 일반화에는 한계가 있다.",
+      "title": "Cystic clear cell thymoma in a cat: clinical, imaging, anatomopathological and immunohistochemical findings.",
+      "journal": "Veterinary Research Communications",
+      "generated_at": "2026-11-26T03:36:26.208Z",
+      "model": "gpt-5-mini"
+    },
+    "43080212": {
+      "brief_summary": "8세 잡종견에서 다중 중심 림프종(multicentric lymphoma)이 처음 증상으로 동반된 흉막 및 심낭 삼출액과 이로 인한 심장탐폰(심장압전, cardiac tamponade)으로 나타난 증례를 보고한다. 흉부 방사선, 복부 초음파, 심초음파(Echo), 심전도(ECG) 및 심낭액 세포검사를 포함한 다중 진단으로 심기능/흉부 이상(심비대, 간비대, 비장 종괴, 다량 흉강액)을 확인하였다. 심낭천자를 통해 일시적 혈역학적 안정화를 얻고, 심낭액 세포검사에서 악성 림프구 증식이 확인되어 다중 중심 림프종과 부합하였으나 치료 후 호전은 일시적이었고 호흡기 증상 재발로 사망하였다. 임상적으로는 흉강과 심낭의 동시 삼출액이 전신성 종양의 진행을 시사할 수 있음을 빠른 다학적(영상 및 체강액 세포학 포함) 진단의 중요성과 함께 강조한다.",
+      "detailed_summary": "증례보고로서 연구 설계는 단일 사례 관찰이다. 대상은 8세 잡종견 한 마리이며 주증상은 심장탐폰을 초래한 호흡곤란이었다. 평가에는 흉부 방사선, 복부 초음파, 심초음파(Echo), 심전도(ECG) 및 심낭액의 세포학적 검사가 포함되었고, 영상에서 심비대, 간비대, 비장 종괴 및 유의한 흉강·심낭 삼출액이 확인되었다. 치료적·진단적 목적으로 수행한 심낭천자로 일시적 혈역학적 안정이 얻어졌고, 심낭액 세포검사에서 악성 림프구 증식이 확인되어 다중 중심 림프종과 적합한 소견을 보였다. 지지적 치료 후 일시적 임상 호전이 있었으나 호흡기 증상이 빠르게 재발하여 사망에 이르렀다. 본 증례는 흉강과 심낭의 동시 삼출액이 전신성 림프종의 초기 또는 진행된 임상 양상으로 나타날 수 있음을 제시하나, 단일 증례 보고라는 중요한 제한점으로 인해 일반화할 수 없다.",
+      "title": "Concurrent Pericardial Effusion Leading to Cardiac Tamponade as the Initial Manifestation of Multicentric Lymphoma in a Dog.",
+      "journal": "Veterinary Medicine and Science",
+      "generated_at": "2026-11-26T03:35:26.403Z",
+      "model": "gpt-5-mini"
+    },
+    "43080372": {
+      "brief_summary": "인도 Bihar Veterinary College에서 2024년 4월–2025년 3월에 진료 기록을 후향적으로 분석한 교차연구로, 정상견 50마리와 혈청 크레아티닌 >1.7 mg/dl인 아조테미아견 50마리(그룹1: n=17, 그룹2: n=23, 그룹3: n=10)를 대상으로 지질 프로파일 변화와 임상검사 연관성을 평가했다. 아조테미아견은 Hb와 Hct가 낮고 BUN, 칼륨, 인, ALP, 총빌리루빈이 상승했으며, 총콜레스테롤, 중성지방, LDL이 정상군보다 유의하게 높았다(HDL은 차이 없음). 지질검사는 아조테미아와 연관된 대사 평가의 보조 수단이 될 수 있으나, 크레아티닌 기반 중증도 범주 간에는 지질 수치가 점진적으로 증가하지 않아 추가적인 종적 연구와 추가 신장 바이오마커 검토가 필요하다.",
+      "detailed_summary": "후향적 단면 연구로 100마리의 임상·검사 기록을 분석했으며 대상은 건강견 50마리와 아조테미아(혈청 크레아티닌 >1.7 mg/dl) 50마리였다. 아조테미아군은 크레아티닌 수준에 따라 Group 1(1.7–<5.0 mg/dl, n=17), Group 2(5.0–15.0 mg/dl, n=23), Group 3(>15.0 mg/dl, n=10)으로 분류되었다. 혈액학적·신기능·전해질·간관련생화학·지질 지표를 평가했으며 중앙값(사분위수)로 보고하고 Kruskal–Wallis 및 Dunn 검정으로 군별 비교를 수행했다. 결과는 아조테미아군에서 Hb와 Hct 감소, BUN 및 칼륨·인·ALP·총빌리루빈 상승을 보였고 albumin은 Group 2·3에서 유의하게 낮았다. 총콜레스테롤, 중성지방(중성지질), LDL은 모든 아조테미아 그룹에서 정상군보다 유의하게 높았으나 HDL은 차이가 없었고, 세 아조테미아 그룹 간에는 콜레스테롤·중성지방·LDL의 유의한 단계적 증가는 관찰되지 않았다. 전체 아조테미아 집단에서 크레아티닌은 콜레스테롤(ρ=0.393, p<0.001), 중성지방(ρ=0.265, p=0.008), LDL(ρ=0.457, p<0.001)과 양의 상관을 보였고, BUN은 콜레스테롤(ρ=0.455, p<0.001) 및 LDL(ρ=0.571, p<0.001)과 양의 상관을 보였다. 저자들은 지질 이상이 아조테미아와 동반되지만 크레아티닌 기준의 중증도 구간 간 점진적 증가는 없었음을 결론짓고 지질검사는 대사 평가의 보조 도구가 될 수 있으나 추가적인 종적 연구와 추가 신장 바이오마커 포함이 필요하다고 제시했다.",
+      "title": "Association between lipid profile alterations and azotemia severity in dogs: a cross-sectional study.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-11-26T03:36:07.915Z",
+      "model": "gpt-5-mini"
+    },
+    "43080578": {
+      "brief_summary": "후향적 탐색 연구에서 삼첨판막 형성이상(TVD)과 중증 삼첨판 역류(TR)를 가진 개 10마리를 대상으로 경구 pimobendan 투여 전후의 우심장(우심방·우심실) 재형성 변화를 초음파로 비교했다. 정상화된 RV 직경과 삼첨륜(TVA) 직경이 유의하게 감소(RV 1.40→1.27, SD 0.23, p=0.027; TVA 11.77→10.58, SD 1.95, p=0.01)했으나 RA 면적·직경, RV 면적, TAPSE, TR 최고속도, RV fractional area change 등은 유의한 변화가 없었다(p>0.08). 저자들은 pimobendan이 RV 크기와 삼첨륜 확장을 줄여 TVD에서 질환 진행을 제한할 가능성이 있다고 제시했다.",
+      "detailed_summary": "후향적(탐색) 연구로 중증 TR을 동반한 TVD 개 10마리의 초음파 자료를 분석했다. 모든 개는 경구 pimobendan을 0.21–0.31 mg/kg Q12h 범위로 평균 약 18개월(범위 3–41개월) 투여받았고, 평가 시점은 투약 시작 전과 중앙값 3개월 후였다. 평가 항목은 우심방(RA) 직경·면적, 우심실(RV) 직경·면적·fractional area change, tricuspid annular plane systolic excursion(TAPSE), 삼첨륜 판륜 직경(TVA), TR 최고속도였다. 결과는 정상화된 RV 직경이 1.40에서 1.27로 감소(SD 0.23, p=0.027)하고 TVA가 11.77에서 10.58로 감소(SD 1.95, p=0.01)한 반면, RA 면적·직경, RV 면적, TAPSE, TR 최고속도 및 RV fractional area change는 유의한 변화가 없었다(all p>0.08). 연구 기간 중 대상 개들에서 우심부전 진행 사례는 관찰되지 않았다. 본 연구는 샘플 수가 적고 후향적 탐색 연구임을 명시하므로, 결과는 잠재적 효과를 시사하나 일반화나 인과관계로 해석하기에는 제한이 있다.",
+      "title": "Effect of pimobendan on right-heart remodeling in dogs with tricuspid valve dysplasia: an exploratory study.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-11-26T03:35:50.011Z",
       "model": "gpt-5-mini"
     }
   }
