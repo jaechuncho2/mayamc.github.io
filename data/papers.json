@@ -1,6 +1,43 @@
 {
-  "updated_at": "2026-11-27T03:38:37.621Z",
+  "updated_at": "2026-11-28T03:19:12.840Z",
   "papers": [
+    {
+      "pmid": "43100950",
+      "title": "Development and application of a quadruplex nanoplate-based RT-dPCR assay for the simultaneous detection of canine parvovirus, canine coronavirus, canine distemper virus, and giant panda rotavirus in captive giant pandas.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Wang H, Zheng J, Zhang J, Ling S, Wang M, Fei L, An W, Deng L, Tao Q, Xue C, Zheng Q, Yu X, Chen Y, Yang X, Lin H",
+      "date": "2026 11 27",
+      "dateObject": "2026 11 27",
+      "abstract": "Infection with canine coronavirus (CCoV), canine distemper virus (CDV), canine parvovirus (CPV), and giant panda rotavirus (GPRV) poses important threats to the conservation of giant pandas, especially in juveniles. Given that mixed infections of these viruses are common in giant panda populations, early and accurate differential diagnosis is essential. To detect these four viruses simultaneously, we developed a one-step quadruplex reverse transcription digital PCR (RT-dPCR) assay and compared it with RT-qPCR. We evaluated the specificity, sensitivity, linearity, and repeatability of the assay using recombinant plasmids and nontargeted nucleic acids. Its analytical sensitivity (1.82 copies/&#x3bc;L) was comparable to RT-qPCR on a per-reaction basis (7.28 copies) after adjusting for template volume. The assay was then applied to 475 clinical samples, including 214 giant panda fecal samples, 134 dog rectal swabs samples and 127 cat rectal swabs samples. RT-dPCR outperformed RT-qPCR in detecting positive cases, particularly in canine and feline CPV. Furthermore, all discordant samples positive in RT-dPCR but negative in qPCR were confirmed positive after concentration and RT-qPCR retesting, validating the detection of low viral loads. RT-dPCR also identified four mixed infections that were missed by RT-qPCR, confirming its advantage in multiplex detection. Our results indicate that the RT-dPCR assay exhibited higher analytical sensitivity, detecting more low-load positive samples for the simultaneous detection and quantification of four viral targets in a single reaction and may support early viral surveillance in giant pandas and other susceptible animals.",
+      "categories": [
+        "internalMedicine"
+      ]
+    },
+    {
+      "pmid": "43100903",
+      "title": "Caring for those who care: a scoping review of existing welfare assessment tools for assistance dogs.",
+      "journal": "Frontiers in Veterinary Science",
+      "authors": "Bassan E, De Santis M, Contalbrigo L, Weissenbacher K, Huber L",
+      "date": "2026 11 27",
+      "dateObject": "2026 11 27",
+      "abstract": "Assistance dogs (ADs) perform trained tasks that improve the independence of people with disabilities, yet their own welfare has received comparatively little scientific attention. These dogs live and work across highly variable environments and face demands that companion dogs do not, making their welfare strongly context-dependent and potentially subject to change throughout different stages of training and working life. Reliable, context-sensitive assessment tools are therefore needed, but the extent to which such tools exist is unclear. Here we review how AD well-being has been measured in the sparse existing literature, with a view to developing a dedicated welfare assessment tool grounded in the Five Domains Model. Following the PRISMA extension for Scoping Reviews, we screened Scopus and Web of Science. We only considered peer-reviewed studies, published in English, that assessed welfare through directly observable animal-based or environment-based indicators, but excluded studies that only had physiological measures. Two authors independently screened records at title and full-text level, and data were charted narratively. Of 396 records identified, 249 were screened after removal of duplicates, and only eight met our inclusion criteria. Most were published recently (after 2021) and mainly concerned guide dogs. None addressed puppies before the start of training or retired dogs. Welfare was assessed in two ways, either through proxy-report instruments administered to beneficiaries, their families, or organizations, or through direct behavioral observation coded by researchers. The choice of method closely followed the dogs' working stage, whether in training or actively working. Behavior was the most frequently used indicator, mainly in its stress-related forms, whereas behaviors expressing positive affective states were only rarely observed and analyzed. Only one study presented a tool developed specifically for operative use of AD welfare assessment. Consequently, there are still only a few directly applicable tools for assessing well-being, and the available literature is fragmented, whilst valuable practical knowledge appears to remain confined to individual organizations. The identified papers support a shift toward an animal-centered understanding of welfare and show how necessary it is to develop multidimensional, context-sensitive tools that span the whole working life of the dog and bridge scientific research and applied practice.",
+      "categories": [
+        "surgery"
+      ]
+    },
+    {
+      "pmid": "43102671",
+      "title": "Histopathological observation and diagnosis of hepatic neuroendocrine carcinoma in a cat.",
+      "journal": "Veterinary Research Communications",
+      "authors": "Xiong H, Zhang Y, Zhao D, Zhang J, Huang Z, Zhang X, Jia Z, Cui J, Qiu J, Zhang Y, Ma Y, Wang X",
+      "date": "2026 11 27",
+      "dateObject": "2026 11 27",
+      "abstract": "Hepatic neuroendocrine carcinoma is a rare hepatic neoplasm in cats. It is generally considered highly malignant with a poor prognosis. Therefore, early diagnosis and appropriate treatment of such tumors are critical for a successful outcome. This report describes a 6-year-old male Oriental Longhair cat presented to our hospital with a primary complaint of recurrent vomiting and mild abdominal distension. Ultrasonography revealed heterogeneous echogenicity of the hepatic parenchyma, indicating uneven hepatic density. Laparotomy revealed white and dark red nodules of varying sizes on the liver surface. Histopathological examination showed that the hepatic mass was composed of malignant neoplastic cells with typical neuroendocrine differentiation features. Immunohistochemical staining for CgA and NSE confirmed that the liver tumor cells were derived from the neuroendocrine system. Following histopathological diagnosis, the cat received palliative treatment and died 34 days after the initial presentation. Through histopathological observation and diagnosis of feline hepatic neuroendocrine carcinoma, this study provides a useful reference for the future clinical diagnosis of this disease.",
+      "categories": [
+        "internalMedicine",
+        "oncology"
+      ]
+    },
     {
       "pmid": "43094074",
       "title": "Evaluation of Acute Phase Response, Oxidative Stress Biomarkers and Haematological Parameters in Early-Stage Canine Pyoderma.",
@@ -1409,18 +1446,6 @@
       ]
     },
     {
-      "pmid": "43031650",
-      "title": "Genomic characteristics and preliminary study on in vitro infection properties of canine parvovirus type 2c derived from a canine anal swab sample.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Mou D, Chen Y, Wu S, Huang J, Guo Y, Bai X",
-      "date": "2026 11 14",
-      "dateObject": "2026 11 14",
-      "abstract": "This study aimed to determine the genomic characteristics and genotype of a CPV isolate (MDC-CPV) recovered from a vaccinated dog, and to investigate its in vitro infectivity and replication features in A72 and CRFK cell lines. Clinical samples were subjected to nucleic acid detection for common canine pathogens and CPV antigen testing. Sequencing was performed using the Illumina NovaSeq PE150 platform. Following quality control, assembly, and annotation, the near-complete genome sequence of MDC-CPV was obtained. Homology searches were conducted using BLASTn. Genotyping was determined based on key amino acid residues in VP2, and phylogenetic analyses were performed using both the full-length VP2 coding sequence (CDS) and the whole-genome reference sequences. In vitro infection was subsequently validated in A72 and CRFK cells. Viral infection-associated characteristics were evaluated by observing cytopathic effects (CPE), and through Western blot, immunofluorescence, qPCR, TCID50 assay, and transmission electron microscopy. The genome length of MDC-CPV was 5,358 nucleotides, with no ambiguous bases identified. Genome annotation revealed that MDC-CPV contains typical CPV coding regions, including NS1, NS2, VP1, and VP2. The VP2 CDS was 1755 nucleotides in length, encoding 584 amino acids. Key VP2 residues for MDC-CPV were 297Ala/426Glu, along with a combination of other residues (87Leu, 101Thr, 300Gly, 305Tyr, 324Ile, 375Asp, 555Val, 564Ser, and 568Gly), supporting its classification as CPV-2c. Phylogenetic analysis placed MDC-CPV within the CPV-2c clade, showing close genetic relatedness to several CPV-2c reference strains from China and other regions in East Asia. In in vitro infection assays, CPE was observed in both A72 and CRFK cells inoculated with MDC-CPV. Furthermore, CPV-related protein expression and virus-like particles were detected. Quantitative PCR and TCID50 assays in CRFK cells demonstrated productive replication, with viral DNA levels and infectious virus titers increasing substantially from 48&#x202f;h post-infection, reaching peak titers of approximately 5.8 log10 TCID50/1&#x202f;mL at 96&#x202f;h post-infection. MDC-CPV is a CPV-2c strain isolated from a clinical sample of a vaccinated dog. Its genomic and VP2 genotypic characteristics are consistent with recently circulating CPV-2c strains. These findings provide a reference for molecular epidemiological surveillance of CPV-2c in the Sichuan region and for research on CPV infection in the context of vaccination.",
-      "categories": [
-        "internalMedicine"
-      ]
-    },
-    {
       "pmid": "43021594",
       "title": "Evaluation of intrarenal hypoperfusion and renal congestion assessed by intrarenal Doppler ultrasonography in dogs with myxomatous mitral valve disease.",
       "journal": "Journal of Veterinary Internal Medicine",
@@ -1468,20 +1493,6 @@
       "abstract": "In dachshunds, the number of calcified discs (K-number [KN]) is one heritable determinant of the risk of intervertebral disc disease and is used for breeding selection in some countries; however, there are no prior reports of offspring KN outcomes or the effect of KN selection on size of the effective breeding population (Ne). To determine whether progressively limiting breeding eligibility to dogs with lower KNs would: (1) improve offspring KN outcomes and (2) reduce the effective population size of the breeding population below a threshold that risks genetic bottleneck. Danish dachshunds (n&#xa0;=&#xa0;2120) with KN recorded to a public database from 1993 to 2024. This retrospective study analyzed KN records from 2120 dogs screened between 1990 and 2024. Associations between parental KN and offspring KN phenotype were evaluated using parent-offspring regression and cumulative-link ordinal models. Worse offspring KN was predicted by both worse sire (P&#xa0;=&#xa0;4.8&#xa0;&#xd7;&#xa0;10-6; odds ratio [OR] 1.3; 95% CI, 1.16-1.45) and dam (P&#xa0;=&#xa0;3.3&#xa0;&#xd7;&#xa0;10-5; OR 1.3; 95% CI, 1.13-1.40) KN. Increasingly stringent parental KN selection was associated with improved offspring KN distributions, with predicted next-generation mean KN decreasing from 2.26 under K&#xa0;&#x2264;&#xa0;4 selection to 1.54 under K0 selection. However, more stringent selection reduced effective breeding population size below thresholds associated with genetic bottleneck risk (eg, standard wirehaired: Ne&#xa0;=&#xa0;179 under K&#xa0;&#x2264;&#xa0;4 vs Ne&#xa0;=&#xa0;52 under K0). Increasingly stringent limitation of parent KN was associated with lower-KN offspring groups but also decreased effective population size, highlighting the need to balance disease-risk reduction against preservation of genetic diversity. Intervertebral disc disease (IVDD) is a common health problem in dachshunds. We evaluated a Danish breeding program designed to reduce IVDD prevalence in dachshunds by selecting breeding dogs based on their K-number (KN), which is the number of calcified discs visible on radiographs. K-number is inherited and associated with a dog&#x2019;s risk of IVDD. Compared with FGF4L2 (CDDY)-based selection, KN-based selection might be preferable because it better reflects overall inherited IVDD risk in a disease influenced by multiple genes. We found that parent KN was a predictor of offspring KN. The heritability of KN supports its use in selective breeding, and dogs produced through the program had improved KN scores corresponding to an estimated 19% reduction in IVDD prevalence. Stricter breeding restrictions resulted in better offspring KNs but also reduced the size of the eligible breeding population. For most dachshund varieties, stringent restrictions reduced breeding populations to levels that risk loss of genetic diversity. Although KN-based selection is currently limited by the number of scored breeding dogs, mandatory KN screening of all dachshunds used for breeding in Denmark as of 2026 might increase the effective breeding population sizes.",
       "categories": [
         "neurology"
-      ]
-    },
-    {
-      "pmid": "43022916",
-      "title": "Primary hyperparathyroidism in a cat with synchronous bilateral parathyroid carcinomas: a case report.",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": "Choi U, Kwon G, Lim JH, Oh SI, Ock S",
-      "date": "2026 11 13",
-      "dateObject": "2026 11 13",
-      "abstract": "Primary hyperparathyroidism (PHPTH) is a rare endocrine disorder in cats, and bilateral parathyroid carcinoma is exceptionally uncommon. A 14-year-old neutered male Russian Blue cat presented with decreased appetite, reduced activity, vomiting, and persistent hypercalcemia. Hypercalcemia was documented by increased ionized calcium (iCa; 1.90&#x202f;mmol/L) and total calcium (14.3&#x202f;mg/dL), and an increased intact parathyroid hormone concentration (18.6&#x202f;pg/mL) supported a diagnosis of PHPTH. Cervical ultrasonography, computed tomography, and fine-needle aspiration cytology identified bilateral parathyroid-associated lesions but could not determine malignancy or the functional contribution of each lesion. During preoperative stabilization with intravenous 0.9% sodium chloride and furosemide, the iCa concentration decreased from 1.90 to 1.47&#x202f;mmol/L. On the fourth day of hospitalization, complete right thyroid lobectomy with excision of the associated right parathyroid mass and left parathyroidectomy with partial left thyroidectomy were performed. Histopathologic examination supported the diagnosis of synchronous bilateral low-grade, well-differentiated parathyroid carcinomas, with infiltrative growth into adjacent non-neoplastic parathyroid tissue in the left lesion and focal capsular penetration in the right lesion. Postoperative hypocalcemia was managed with intravenous calcium gluconate and oral calcitriol during hospitalization, followed by oral vitamin D supplementation after discharge. Serum iCa normalized by postoperative day 28 and remained within the reference interval thereafter. On postoperative day 161, serum iCa and iPTH concentrations were within their respective reference intervals, and follow-up CT showed no evidence of local recurrence or detectable metastasis. This case highlights that bilateral parathyroid carcinomas may exhibit subtle histopathologic evidence of malignancy that is not predicted by preoperative imaging or cytology, while lesion-specific functional status and anatomical relationships to the thyroid gland may independently influence surgical planning.",
-      "categories": [
-        "internalMedicine",
-        "oncology",
-        "surgery"
       ]
     },
     {
@@ -2659,18 +2670,6 @@
       "abstract": "This research evaluated the chondroprotective efficacy of PCSO-524 in dogs with osteoarthritis (OA) secondary to medial patellar luxation (MPL) using ultrasonography - a non-invasive technique recommended for early OA detection. Animals: 25 dogs total (21 with MPL grade II, 50 stifle joints evaluated) divided into three groups, including control group: 10 dogs receiving placebo, treatment group: 11 dogs receiving PCSO-524 (50&#xa0;mg daily) and normal group: 4 healthy dogs (reference) Duration: 16 weeks Evaluations: Lameness scores, blood profiles, ultrasonographic findings, radiographic assessments and owner questionnaires at baseline, weeks 2, 4, 8, 12 and 16. The treatment group showed significant improvement in lameness scores within 8 weeks. The cartilage lesions improved within 4 weeks of PCSO-524 administration. Synovial fluid scores decreased significantly by week 4 in the treatment group. Radiographic OA scores improved mildly at 12 weeks in the treatment group versus progression in the control group. Owners observed better gait and quality of life by week 2. No adverse effects on blood chemistry or organ function. PCSO-524 demonstrates effective cartilage protection in dogs with OA secondary to MPL, with improvements in clinical signs, ultrasonographic findings and radiographic outcomes. For dogs that cannot undergo surgical correction, PCSO-524 supplementation combined with quadriceps muscle training and environmental management is recommended for improved quality of life.",
       "categories": [
         "surgery"
-      ]
-    },
-    {
-      "pmid": "42944944",
-      "title": "Occurrence and antimicrobial resistance of Acinetobacter baumannii in cats, veterinary hospital environments and medical wastes in Bangladesh.",
-      "journal": "Veterinary Research Communications",
-      "authors": "Hasan M, Lira SA, Islam A, Miti AA, Rahman A, Suchy SA, Jahan I, Ali SB, Parvin MS, Islam MT",
-      "date": "2026 10 27",
-      "dateObject": "2026 10 27",
-      "abstract": "Acinetobacter baumannii presence in veterinary hospitals and companion animals is still poorly investigated despite its significance. The present study aimed to investigate the prevalence, antimicrobial resistance patterns, and resistance genes of A. baumannii in cats, veterinary hospital environments, and veterinary medical wastes in Bangladesh. Samples were collected from oral, rectal, and wound swabs of cats (n&#x2009;=&#x2009;100) attending ten veterinary hospitals, as well as from environmental surfaces (n&#x2009;=&#x2009;111) and wastes (n&#x2009;=&#x2009;61) generated within these facilities. Isolates were identified by PCR targeting 16S rRNA (genus) and bla OXA-51-like (species) genes; antimicrobial susceptibility was assessed by disk diffusion and broth microdilution following CLSI standards, and resistance genes (bla OXA-23-like , bla NDM-1 ) were screened by PCR. A high prevalence of A. baumannii was observed in cats (37%), while 26.1% in environmental samples and 21.3% in waste samples. Apparently sick cats had significantly higher prevalence (p&#x2009;=&#x2009;0.049) than apparently healthy cats. All isolates were imipenem resistant, consistent with carbapenem-resistant A. baumannii (CRAB). High resistance was also observed against cefotaxime and ceftriaxone. Multidrug resistance (MDR) was detected in 26.7%, 37.9%, and 30.8% of isolates from cats, environmental, and waste sources, respectively. The bla OXA-23-like gene was detected in only two cat isolates, whereas bla NDM was identified in one cat isolate and one environmental isolate. In conclusion, these findings identify cats, which live in close proximity to humans, as a possible CRAB reservoir, and veterinary hospital environments and waste as potential sources of persistence and dissemination, raising concern for zoonotic spread and underscoring occupational and public health risk.",
-      "categories": [
-        "dermatology"
       ]
     },
     {

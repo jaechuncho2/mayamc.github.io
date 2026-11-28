@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T03:47:12.663Z",
+  "updated_at": "2026-11-28T03:19:54.325Z",
   "summaries": {
     "41759291": {
       "brief_summary": "개에서 요로 증상으로 방문한 환자의 소변을 대상으로, 임상 수의 진료실에서 요중 세균 배양을 직접 도말·배양하는 기법을 시연한 연구이다. 멸균 1-µL 접종 루프로 혈액한천(5% sheep's blood)과 MacConkey 한천 이중배지에 도말한 뒤 35–37°C에서 16–24시간 배양하여 성장 여부를 확인했고, 전체의 대다수(70–80%)는 무성장이었다. 임상적 의의는 비용 효율적인 스크리닝으로서 음성 샘플에 대해 외부 참조실험실 의뢰를 줄여 항생제 관리(antimicrobial stewardship)와 클라이언트 자원 활용을 촉진한다는 것이다.",
@@ -9575,6 +9575,30 @@
       "title": "Cross-species horse-to-dog fecal microbiota transplantation as a novel nature-inspired therapy for non-responsive chronic enteropathy in dogs.",
       "journal": "Frontiers in Veterinary Science",
       "generated_at": "2026-11-27T03:39:17.489Z",
+      "model": "gpt-5-mini"
+    },
+    "43100903": {
+      "brief_summary": "본 연구는 보조견(assistance dogs, ADs)의 복지 평가 도구 현황을 파악하기 위한 스코핑 리뷰로, Scopus와 Web of Science를 PRISMA 확장 지침에 따라 검색했다. 중복 제거 후 249건을 검토해 8편만 포함되었고, 대부분 2021년 이후 출판된 안내견 중심 연구였다. 복지는 수혜자·기관의 대리보고와 연구자가 코딩한 행동 관찰로 주로 평가되었으며 스트레스 관련 행동 지표가 주로 사용되고 긍정 정서 지표는 거의 다뤄지지 않았다. 임상적으로는 생애 전반을 아우르는 다차원적·맥락 민감형 평가 도구의 개발 필요성을 시사한다.",
+      "detailed_summary": "연구 설계는 PRISMA 확장(스코핑 리뷰)에 따른 문헌 검색으로, Scopus와 Web of Science에서 영어로 출판된 동료심사 논문만 포함했고 생리학적 지표만 제시한 연구는 제외했다. 두 명의 저자가 제목 및 전문 단계에서 독립적으로 선별했으며 내러티브 방식으로 자료를 정리했다. 총 396건을 확인하여 중복 제거 후 249건을 스크리닝했고 최종 포함 논문은 8편이었다. 포함 논문은 대부분 2021년 이후 발표되었고 주로 안내견을 대상으로 했으며, 강아지의 훈련 시작 전 단계나 은퇴견을 다룬 연구는 없었다. 복지 평가는 수혜자·가족·기관 대상의 대리보고 도구와 연구자가 코딩한 직접 행동 관찰 두 가지 방식으로 나뉘었고 행동 지표가 가장 빈번히 사용되었으나 주로 스트레스 관련 행동에 집중되었고 긍정적 정서 행동은 거의 분석되지 않았다. 단 하나의 연구만이 현장 운영용 복지 평가 도구를 제시했을 뿐이며 전반적으로 적용 가능한 도구는 드물고 문헌은 단편적이며 실무적 지식이 개별 기관에 머물러 있는 것으로 나타났다. 저자들은 다섯 영역 모델(Five Domains Model)에 기반한 생애 전주기적이고 맥락 민감한 다차원 평가 도구 개발의 필요성을 강조하였다.",
+      "title": "Caring for those who care: a scoping review of existing welfare assessment tools for assistance dogs.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-11-28T03:19:40.830Z",
+      "model": "gpt-5-mini"
+    },
+    "43100950": {
+      "brief_summary": "이 연구는 판다 보전에 위협이 되는 canine coronavirus (CCoV), canine distemper virus (CDV), canine parvovirus (CPV), giant panda rotavirus (GPRV)를 동시에 검출하기 위해 일단계 쿼드룩스 역전사 디지털 PCR(RT-dPCR) 검사를 개발하고 RT-qPCR와 비교한 연구이다. 분석 감도는 1.82 copies/µL로, 템플릿 부피를 보정한 RT-qPCR의 반응당 7.28 copies 수준과 비교해 우수했으며 임상검체(총 475건)에서 저부하 검체와 혼합감염을 RT-qPCR보다 더 잘 검출했다. 임상적으로는 특히 개·고양이 CPV에서 양성 검출이 증가했고, RT-dPCR에서만 검출된 불일치 샘플은 농축 후 재검사로 확인되어 저부하 감시 및 다중검출에 유리함을 시사한다.",
+      "detailed_summary": "연구진은 CCoV, CDV, CPV, GPRV를 동일 반응에서 동시에 검출하는 일단계 쿼드룩스 RT-dPCR을 개발하고 RT-qPCR와 성능을 비교하였다. 분석적 특이성, 민감도, 직선성 및 반복성을 재조합 플라스미드와 비표적 핵산으로 평가하였고, 분석 감도는 1.82 copies/µL로 보고되었다(템플릿 부피 보정 시 RT-qPCR의 반응당 민감도는 7.28 copies). 임상 적용은 총 475개 샘플(자이언트 판다 분변 214건, 개 직장 스와브 134건, 고양이 직장 스와브 127건)에서 수행되었다. RT-dPCR은 특히 개·고양이 CPV에서 RT-qPCR보다 더 많은 양성 사례를 검출했고, RT-dPCR에서만 양성으로 나온 불일치 샘플들은 농축 후 RT-qPCR 재검사로 모두 양성으로 확인되어 저농도 바이러스 검출을 검증했다. 또한 RT-dPCR은 RT-qPCR에서 놓친 4건의 혼합감염을 확인하여 다중표적 동시검출에서의 장점을 보여주었다. 결론적으로 본 RT-dPCR 검사는 네 종 바이러스를 단일 반응에서 동시 검출·정량할 때 더 높은 분석적 민감도를 보였으며 자이언트 판다 및 다른 감수성 동물의 조기 바이러스 감시에 도움이 될 수 있다. 초록에는 별도의 한계점이 명시되어 있지 않다.",
+      "title": "Development and application of a quadruplex nanoplate-based RT-dPCR assay for the simultaneous detection of canine parvovirus, canine coronavirus, canine distemper virus, and giant panda rotavirus in captive giant pandas.",
+      "journal": "Frontiers in Veterinary Science",
+      "generated_at": "2026-11-28T03:19:27.172Z",
+      "model": "gpt-5-mini"
+    },
+    "43102671": {
+      "brief_summary": "6세 수컷 오리엔탈 롱헤어 고양이의 반복 구토와 경미한 복부 팽창을 주소로 시행한 검사에서, 초음파상 간 실질의 불균일 에코패턴과 개복 시 간 표면의 크기 다른 백색·적색 결절이 관찰되었다. 조직병리학적 검사를 통해 간에서 신경내분비 분화 양상을 보이는 악성 종양이 확인되었고, 면역조직화학 염색에서 CgA(chromogranin A)와 NSE(neuron-specific enolase) 양성으로 신경내분비 기원임이 확정되었다. 이 증례는 고양이 간 신경내분비암(hepatic neuroendocrine carcinoma)의 조직병리학적 진단 과정과 임상적 경과(무 치료적 완화요법 후 초기 내원 34일 만에 사망)를 보고하여 향후 임상 진단에 참고가 된다.",
+      "detailed_summary": "본 논문은 단일 증례 보고로, 6세 수컷 오리엔탈 롱헤어 고양이를 대상으로 한 임상·병리 관찰 결과를 제시한다. 임상적 문제는 반복적 구토와 경미한 복부 팽창이었고, 초음파에서 간 실질의 불균일한 에코(heterogeneous echogenicity)가 관찰되었다. 개복(복강경 또는 개복술로 명시되지 않음) 시 간 표면에 다양한 크기의 백색 및 암적색 결절이 관찰되었으며, 채취한 조직의 조직병리학에서 신경내분비 분화 특징을 보이는 악성 종양 세포로 구성된 것이 확인되었다. 면역조직화학 검사에서 CgA와 NSE 양성 소견으로 종양 세포의 신경내분비계 기원이 확인되었다. 치료는 병리 진단 후 완화적(palliative) 치료가 제공되었고, 환묘는 최초 내원 후 34일 만에 사망하였다. 단일 증례 보고라는 점에서 결과를 일반화할 수 없으나, 고양이 간 신경내분비암의 진단적 병리 소견과 임상 경과를 참고할 수 있는 자료로 제시된다.",
+      "title": "Histopathological observation and diagnosis of hepatic neuroendocrine carcinoma in a cat.",
+      "journal": "Veterinary Research Communications",
+      "generated_at": "2026-11-28T03:19:54.303Z",
       "model": "gpt-5-mini"
     }
   }
